@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8" />
+<title>Мапа повітряних тривог</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<style>
+  html, body { margin: 0; height: 100%; background: #0d1117; font-family: system-ui, sans-serif; }
+  #map { position: absolute; top: 0; bottom: 0; left: 0; right: 0; }
+  #panel {
+    position: absolute; top: 12px; left: 12px; z-index: 1000;
+    background: rgba(20,20,25,0.92); color: #eee; padding: 12px 16px;
+    border-radius: 10px; max-width: 260px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+  }
+  #panel h1 { font-size: 15px; margin: 0 0 8px; }
+  .filter { display: flex; align-items: center; gap: 6px; margin: 4px 0; font-size: 13px; cursor: pointer; }
+  .dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+  #updated { font-size: 11px; opacity: 0.6; margin-top: 8px; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<div id="panel">
+  <h1>Типи подій</h1>
+  <label class="filter"><input type="checkbox" data-type="missile" checked><span class="dot" style="background:#ff3b30"></span>Ракети</label>
+  <label class="filter"><input type="checkbox" data-type="drone" checked><span class="dot" style="background:#ff9500"></span>БПЛА</label>
+  <label class="filter"><input type="checkbox" data-type="aviation" checked><span class="dot" style="background:#5ac8fa"></span>Авіація</label>
+  <label class="filter"><input type="checkbox" data-type="shelling" checked><span class="dot" style="background:#af52de"></span>Обстріл</label>
+  <label class="filter"><input type="checkbox" data-type="alert" checked><span class="dot" style="background:#ffcc00"></span>Тривога</label>
+  <label class="filter"><input type="checkbox" data-type="all_clear" checked><span class="dot" style="background:#34c759"></span>Відбій</label>
+  <label class="filter"><input type="checkbox" data-type="unknown" checked><span class="dot" style="background:#8e8e93"></span>Інше</label>
+  <div id="updated">Завантаження...</div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+const COLORS = {
+  missile: "#ff3b30", drone: "#ff9500", aviation: "#5ac8fa",
+  shelling: "#af52de", alert: "#ffcc00", all_clear: "#34c759", unknown: "#8e8e93"
+};
+
+const map = L.map('map', { zoomControl: true }).setView([55, 45], 4);
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+  attribution: '&copy; OpenStreetMap &copy; CARTO',
+  maxZoom: 18
+}).addTo(map);
+
+let markers = [];
+let allEvents = [];
+const activeTypes = new Set(Object.keys(COLORS));
+
+function render() {
+  markers.forEach(m => map.removeLayer(m));
+  markers = [];
+  allEvents.forEach(ev => {
+    if (ev.lat == null || ev.lon == null) return;
+    if (!activeTypes.has(ev.type)) return;
+    const marker = L.circleMarker([ev.lat, ev.lon], {
+      radius: 7,
+      color: COLORS[ev.type] || COLORS.unknown,
+      fillColor: COLORS[ev.type] || COLORS.unknown,
+      fillOpacity: 0.85,
+      weight: 1
+    }).addTo(map);
+    marker.bindPopup(
+      `<b>${ev.location_name || '?'}</b><br>` +
+      `${new Date(ev.date).toLocaleString('uk-UA')}<br>` +
+      `${(ev.text || '').slice(0, 200)}`
+    );
+    markers.push(marker);
+  });
+}
+
+document.querySelectorAll('.filter input').forEach(cb => {
+  cb.addEventListener('change', () => {
+    cb.checked ? activeTypes.add(cb.dataset.type) : activeTypes.delete(cb.dataset.type);
+    render();
+  });
+});
+
+async function loadData() {
+  try {
+    const res = await fetch('events.json?t=' + Date.now());
+    allEvents = await res.json();
+    render();
+    document.getElementById('updated').textContent =
+      'Оновлено: ' + new Date().toLocaleTimeString('uk-UA') + ' · подій: ' + allEvents.length;
+  } catch (e) {
+    document.getElementById('updated').textContent = 'Помилка завантаження даних';
+  }
+}
+
+loadData();
+setInterval(loadData, 60000); // автооновлення раз на хвилину
+</script>
+</body>
+</html>
