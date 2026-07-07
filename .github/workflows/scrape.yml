@@ -18,6 +18,11 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install tesseract OCR (для каналів, що публікують текст картинкою)
+        run: |
+          sudo apt-get update -o Acquire::Retries=3 || true
+          sudo apt-get install -y tesseract-ocr tesseract-ocr-rus
+
       - name: Install dependencies
         run: pip install -r requirements.txt
 
