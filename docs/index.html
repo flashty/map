@@ -35,7 +35,9 @@
   <div class="legend-row"><span class="swatch" style="background:#3b82f6;"></span>Авіація</div>
   <div class="legend-row"><span class="swatch" style="background:#a855f7;"></span>Обстріл</div>
   <div class="legend-row"><span class="swatch" style="background:#f97316;"></span>Тривога (загальна)</div>
-  <div class="legend-row"><span class="swatch" style="background:transparent;border:2px dashed #7f1d1d;"></span>Окупована територія</div>
+  <div class="legend-row"><span class="swatch" style="background:transparent;border:2px dashed #b91c1c;"></span>Лінія фронту (DeepState)</div>
+  <div class="legend-row"><span class="swatch" style="background:transparent;border-top:3px solid #eab308;"></span>Маршрут БПЛА</div>
+  <div class="legend-row"><span class="swatch" style="background:transparent;border-top:3px solid #dc2626;"></span>Маршрут ракети</div>
   <div id="updated">Завантаження...</div>
 </div>
 
@@ -59,6 +61,8 @@ const TYPE_LABELS = {
   unknown: "Загроза (тип не визначено)"
 };
 
+const REFRESH_MS = 30000; // оновлення кожні 30 секунд
+
 const map = L.map('map', { zoomControl: true }).setView([54, 45], 4);
 L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
   attribution: '&copy; OpenStreetMap &copy; CARTO',
@@ -80,9 +84,12 @@ function normalizeRegion(name) {
 
 let regionStatus = {}; // { normalizedRegionName: {type, text, channel, updated_at} }
 let regionsLayer = null;
+let occupiedLayer = null;
+let routesLayer = null;
 
-function styleForFeature(feature) {
-  const key = normalizeRegion(feature.properties.region);
+// та сама логіка розфарбовки і для регіонів РФ, і для окупованих областей
+// України — колір з'являється, ТІЛЬКИ якщо там зараз є активна тривога
+function styleByStatus(key) {
   const status = regionStatus[key];
   if (!status) {
     return { fillColor: "transparent", fillOpacity: 0, color: "#3a3a42", weight: 1 };
@@ -91,49 +98,93 @@ function styleForFeature(feature) {
   return { fillColor: color, fillOpacity: 0.5, color: color, weight: 1.5 };
 }
 
-function popupForFeature(feature) {
-  const key = normalizeRegion(feature.properties.region);
+function popupHtml(name, key, extraNote) {
   const status = regionStatus[key];
-  const name = feature.properties.region;
+  let html = `<div class="popup-title">${name}</div>`;
+  if (extraNote) html += `<div class="popup-meta">${extraNote}</div>`;
   if (!status) {
-    return `<div class="popup-title">${name}</div><div class="popup-clear">Активних тривог немає</div>`;
+    html += `<div class="popup-clear">Активних тривог немає</div>`;
+    return html;
   }
   const label = TYPE_LABELS[status.type] || TYPE_LABELS.unknown;
   const time = new Date(status.updated_at).toLocaleString('uk-UA');
-  return `
-    <div class="popup-title">${name} — ${label}</div>
-    <div class="popup-meta">@${status.channel} · ${time}</div>
+  html += `
+    <div class="popup-meta" style="margin-top:4px;">${label} · @${status.channel} · ${time}</div>
     <div class="popup-text">${(status.text || '').slice(0, 300)}</div>
   `;
+  return html;
 }
 
 async function loadRegionsLayer() {
   const res = await fetch('russia_regions.geojson');
   const geo = await res.json();
   regionsLayer = L.geoJSON(geo, {
-    style: styleForFeature,
+    style: (feature) => styleByStatus(normalizeRegion(feature.properties.region)),
     onEachFeature: (feature, layer) => {
-      layer.bindPopup(() => popupForFeature(feature));
+      layer.bindPopup(() => popupHtml(feature.properties.region, normalizeRegion(feature.properties.region)));
     }
   }).addTo(map);
 }
 
-async function loadOccupiedLayer() {
+async function loadOccupiedTerritoriesLayer() {
+  // адміністративні межі окупованих областей України — фарбуються ТАК САМО,
+  // як регіони РФ: колір з'являється лише коли там є активна тривога
   const res = await fetch('occupied_territories.geojson');
+  const geo = await res.json();
+  occupiedLayer = L.geoJSON(geo, {
+    style: (feature) => styleByStatus(feature.properties.match_key),
+    onEachFeature: (feature, layer) => {
+      layer.bindPopup(() =>
+        popupHtml(feature.properties.occupied_label, feature.properties.match_key,
+          "Тимчасово окупована територія України")
+      );
+    }
+  }).addTo(map);
+}
+
+async function loadOccupiedLineLayer() {
+  // точний контур лінії фронту від DeepStateMap (оновлюється щодня) —
+  // суто довідковий шар, не залежить від тривог, завжди одного стилю
+  const res = await fetch('occupied_line.geojson');
   const geo = await res.json();
   L.geoJSON(geo, {
     style: {
-      fillColor: "#7f1d1d",
-      fillOpacity: 0.18,
-      color: "#7f1d1d",
+      fillColor: "transparent",
+      fillOpacity: 0,
+      color: "#b91c1c",
       weight: 2,
       dashArray: "6 4"
     },
     onEachFeature: (feature, layer) => {
-      const label = feature.properties.occupied_label || "Тимчасово окупована територія";
       layer.bindPopup(
-        `<div class="popup-title">${label}</div>` +
-        `<div class="popup-text">Територія України, тимчасово окупована Росією.</div>`
+        `<div class="popup-title">Лінія фронту</div>` +
+        `<div class="popup-text">Контур за даними DeepStateMap.Live, оновлюється щодня.</div>`
+      );
+    }
+  }).addTo(map);
+}
+
+async function loadRoutesLayer() {
+  const res = await fetch('routes.geojson?t=' + Date.now());
+  const geo = await res.json();
+  if (routesLayer) { map.removeLayer(routesLayer); }
+  routesLayer = L.geoJSON(geo, {
+    style: (feature) => ({
+      color: feature.properties.type === "missile" ? "#dc2626" : "#eab308",
+      weight: 3,
+      opacity: 0.85,
+      dashArray: feature.properties.type === "missile" ? null : "8 5"
+    }),
+    onEachFeature: (feature, layer) => {
+      const labels = (feature.properties.path_labels || []).join(" → ");
+      const typeLabel = feature.properties.type === "missile" ? "Ракета" : "БПЛА";
+      const started = new Date(feature.properties.started_at).toLocaleString('uk-UA');
+      const updated = new Date(feature.properties.last_updated).toLocaleString('uk-UA');
+      layer.bindPopup(
+        `<div class="popup-title">Маршрут: ${typeLabel}</div>` +
+        `<div class="popup-text">${labels}</div>` +
+        `<div class="popup-meta" style="margin-top:6px;">від ${started}<br>оновлено ${updated}</div>` +
+        `<div class="popup-meta" style="margin-top:4px; opacity:0.5;">Орієнтовний маршрут за послідовністю повідомлень, не точна траєкторія</div>`
       );
     }
   }).addTo(map);
@@ -148,21 +199,26 @@ async function refreshRegionStatus() {
       regionStatus[normalizeRegion(region)] = status;
     }
     if (regionsLayer) {
-      regionsLayer.eachLayer(layer => layer.setStyle(styleForFeature(layer.feature)));
+      regionsLayer.eachLayer(layer => layer.setStyle(styleByStatus(normalizeRegion(layer.feature.properties.region))));
+    }
+    if (occupiedLayer) {
+      occupiedLayer.eachLayer(layer => layer.setStyle(styleByStatus(layer.feature.properties.match_key)));
     }
     const activeCount = Object.keys(regionStatus).length;
     document.getElementById('updated').textContent =
       'Оновлено: ' + new Date().toLocaleTimeString('uk-UA') + ' · активних регіонів: ' + activeCount;
+    await loadRoutesLayer();
   } catch (e) {
     document.getElementById('updated').textContent = 'Помилка завантаження даних';
   }
 }
 
 (async function init() {
-  await loadOccupiedLayer();
   await loadRegionsLayer();
+  await loadOccupiedTerritoriesLayer();
+  await loadOccupiedLineLayer();
   await refreshRegionStatus();
-  setInterval(refreshRegionStatus, 60000); // автооновлення раз на хвилину
+  setInterval(refreshRegionStatus, REFRESH_MS);
 })();
 </script>
 </body>
