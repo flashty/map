@@ -17,7 +17,7 @@ import io
 import json
 import time
 import asyncio
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 import requests
 from PIL import Image
@@ -36,8 +36,15 @@ CHANNELS = [
 STATE_FILE = "state.json"
 EVENTS_FILE = "events.json"
 GEOCODE_CACHE_FILE = "geocode_cache.json"
+REGION_STATUS_FILE = "region_status.json"
 MAX_EVENTS_KEPT = 2000
 MESSAGES_PER_CHANNEL_PER_RUN = 200
+
+# Скільки МАКСИМУМ тримаємо підсвітку регіону активною, якщо так і не
+# прийшов явний "отбой" від каналу. Це підстраховка на випадок, коли канал
+# просто перестав писати про цей регіон, а не тому що загроза минула.
+# Головний тригер зняття підсвітки — повідомлення типу "all_clear" (відбій).
+REGION_BACKSTOP_HOURS = 4
 
 # --- ключові слова для визначення типу загрози ---
 # ПРИМІТКА: це стартовий, приблизний набір. Реальний формат повідомлень
@@ -111,7 +118,39 @@ def extract_location_candidates(text: str):
     return result, region
 
 
-def detect_type(text: str) -> str:
+def update_region_status(region_status: dict, region: str, alert_type: str, text: str, channel: str, now):
+    """Оновлює статус регіону для підсвітки на карті.
+
+    Головне правило: коли приходить повідомлення типу "all_clear" (відбій,
+    "угроза миновала") — підсвітка регіону ЗНІМАЄТЬСЯ одразу.
+    В іншому разі — оновлюється активний тип загрози й причина (текст
+    повідомлення), з підстраховкою по часу (REGION_BACKSTOP_HOURS) на
+    випадок, якщо канал просто замовк, а не дав явний відбій.
+    """
+    if not region:
+        return
+
+    if alert_type == "all_clear":
+        region_status.pop(region, None)
+        return
+
+    expires_at = now + timedelta(hours=REGION_BACKSTOP_HOURS)
+    region_status[region] = {
+        "type": alert_type,
+        "text": text[:300],
+        "channel": channel,
+        "updated_at": now.isoformat(),
+        "expires_at": expires_at.isoformat(),
+    }
+
+
+def prune_expired_regions(region_status: dict, now):
+    expired = [
+        r for r, s in region_status.items()
+        if datetime.fromisoformat(s["expires_at"]) < now
+    ]
+    for r in expired:
+        del region_status[r]
     low = text.lower()
     for label, keywords in TYPE_KEYWORDS:
         if any(kw in low for kw in keywords):
@@ -175,6 +214,8 @@ def main():
     state = load_json(STATE_FILE, {})
     events = load_json(EVENTS_FILE, [])
     geocode_cache = load_json(GEOCODE_CACHE_FILE, {})
+    region_status = load_json(REGION_STATUS_FILE, {})
+    now = datetime.now(timezone.utc)
 
     with TelegramClient(StringSession(session), api_id, api_hash) as client:
         for channel in CHANNELS:
@@ -217,6 +258,8 @@ def main():
 
                 alert_type = detect_type(text)
                 locations, region = extract_location_candidates(text)
+
+                update_region_status(region_status, region, alert_type, text, channel, now)
 
                 # для кожної знайденої локації створюємо ОКРЕМУ подію —
                 # в повідомленнях часто перелічено кілька районів/міст одразу
@@ -263,10 +306,15 @@ def main():
     # тримаємо тільки останні N подій, щоб JSON не розростався нескінченно
     events = events[-MAX_EVENTS_KEPT:]
 
+    # знімаємо підсвітку з регіонів, де давно не було жодних новин
+    # (підстраховка на випадок, якщо явного "відбою" так і не було)
+    prune_expired_regions(region_status, now)
+
     save_json(STATE_FILE, state)
     save_json(EVENTS_FILE, events)
     save_json(GEOCODE_CACHE_FILE, geocode_cache)
-    print(f"Done. Total events stored: {len(events)}")
+    save_json(REGION_STATUS_FILE, region_status)
+    print(f"Done. Total events stored: {len(events)}, active regions: {len(region_status)}")
 
 
 if __name__ == "__main__":
