@@ -151,6 +151,9 @@ def prune_expired_regions(region_status: dict, now):
     ]
     for r in expired:
         del region_status[r]
+
+
+def detect_type(text: str) -> str:
     low = text.lower()
     for label, keywords in TYPE_KEYWORDS:
         if any(kw in low for kw in keywords):
