@@ -119,21 +119,6 @@ def detect_type(text: str) -> str:
     return "unknown"
 
 
-def extract_location_candidates(text: str):
-    candidates = []
-    for pattern in LOCATION_PATTERNS:
-        for m in re.finditer(pattern, text):
-            candidates.append(m.group(1).strip())
-    # унікальні, зберігаючи порядок
-    seen = set()
-    result = []
-    for c in candidates:
-        if c not in seen:
-            seen.add(c)
-            result.append(c)
-    return result
-
-
 def ocr_image_bytes(data: bytes) -> str:
     try:
         img = Image.open(io.BytesIO(data))
