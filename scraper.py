@@ -52,10 +52,19 @@ REGION_BACKSTOP_HOURS = 4
 # маршрут, якщо відстань між точками правдоподібна для часу між ними.
 ROUTES_STATE_FILE = "routes_state.json"
 TRACK_MAX_AGE_HOURS = 3          # маршрут "закривається" (зникає), якщо давно без нових точок
-DRONE_MAX_SPEED_KMH = 250        # із запасом на затримку публікації в каналі
-DRONE_MAX_GAP_MINUTES = 90
-MISSILE_MAX_SPEED_KMH = 3000
-MISSILE_MAX_GAP_MINUTES = 30
+MAX_POINTS_PER_TRACK = 6         # далі краще почати новий трек, ніж тягнути один нескінченно
+
+# Параметри навмисно жорсткі: краще пропустити реальний зв'язок між точками,
+# ніж намалювати абсурдний "маршрут" через півкраїни між двома різними,
+# просто одночасними дронами/ракетами. Це все одно евристика (канали не
+# дають ID цілі), тому консервативність тут важливіша за повноту.
+DRONE_MAX_SPEED_KMH = 150
+DRONE_MAX_GAP_MINUTES = 40
+DRONE_MAX_HOP_KM = 120            # жорсткий ліміт на один "стрибок", незалежно від швидкості
+
+MISSILE_MAX_SPEED_KMH = 2500
+MISSILE_MAX_GAP_MINUTES = 15
+MISSILE_MAX_HOP_KM = 250
 
 # --- ключові слова для визначення типу загрози ---
 # ПРИМІТКА: це стартовий, приблизний набір. Реальний формат повідомлень
@@ -186,17 +195,22 @@ def try_extend_or_create_track(tracks, event_type, lat, lon, time_dt, location_n
 
     max_speed = DRONE_MAX_SPEED_KMH if event_type == "drone" else MISSILE_MAX_SPEED_KMH
     max_gap = DRONE_MAX_GAP_MINUTES if event_type == "drone" else MISSILE_MAX_GAP_MINUTES
+    max_hop_km = DRONE_MAX_HOP_KM if event_type == "drone" else MISSILE_MAX_HOP_KM
 
     best_track, best_dist = None, None
     for tr in tracks:
         if tr["type"] != event_type:
             continue
+        if len(tr["points"]) >= MAX_POINTS_PER_TRACK:
+            continue  # цей трек уже досить довгий — хай далі росте новий
         last = tr["points"][-1]
         last_time = datetime.fromisoformat(tr["last_time"])
         gap_min = (time_dt - last_time).total_seconds() / 60
         if gap_min <= 0 or gap_min > max_gap:
             continue
         dist = haversine_km(last["lat"], last["lon"], lat, lon)
+        if dist > max_hop_km:
+            continue
         implied_speed = dist / (gap_min / 60) if gap_min > 0 else 0
         if dist <= 15 or implied_speed <= max_speed:
             if best_dist is None or dist < best_dist:
