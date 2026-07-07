@@ -94,8 +94,30 @@ LOCATION_STOPWORDS = [
 ]
 
 
-def extract_location_candidates(text: str):
-    region_match = REGION_PATTERN.search(text)
+def extract_locations_and_regions(text: str):
+    """Повертає (locations, regions) — список локацій (районів/міст) і
+    список ОДНІЄЇ АБО КІЛЬКОХ областей.
+
+    Два формати повідомлень:
+    1) "Район1 Район2 Область Опис" — один регіон, з районами/містами
+       всередині нього (стандартний випадок).
+    2) "Область1, Область2, Область3 - опис" — ОДРАЗУ кілька областей
+       через кому в одному повідомленні (без деталізації по районах).
+       Розпізнаємо це за тим, що в тексті знайдено 2+ згадки області/
+       республіки — тоді трактуємо кожну як окремий уражений регіон.
+    """
+    region_matches = list(REGION_PATTERN.finditer(text))
+
+    if len(region_matches) >= 2:
+        regions, seen = [], set()
+        for m in region_matches:
+            r = m.group(0).strip()
+            if r not in seen:
+                seen.add(r)
+                regions.append(r)
+        return [], regions
+
+    region_match = region_matches[0] if region_matches else None
     loc_segment = text[: region_match.start()] if region_match else text
     region = region_match.group(0).strip() if region_match else None
 
@@ -135,7 +157,7 @@ def extract_location_candidates(text: str):
         if c not in seen:
             seen.add(c)
             result.append(c)
-    return result, region
+    return result, ([region] if region else [])
 
 
 def update_region_status(region_status: dict, region: str, alert_type: str, text: str, channel: str, msg_time):
@@ -396,19 +418,25 @@ def main():
 
             msg_time = m.date.astimezone(timezone.utc)
             alert_type = detect_type(text)
-            locations, region = extract_location_candidates(text)
+            locations, regions = extract_locations_and_regions(text)
 
-            update_region_status(region_status, region, alert_type, text, channel, msg_time)
+            # оновлюємо підсвітку для КОЖНОГО згаданого регіону — повідомлення
+            # може стосуватися відразу кількох областей ("Область1, Область2,
+            # Область3 - опасность по БПЛА")
+            for region in regions:
+                update_region_status(region_status, region, alert_type, text, channel, msg_time)
+
+            primary_region = regions[0] if regions else None
 
             # для кожної знайденої локації створюємо ОКРЕМУ подію —
             # в повідомленнях часто перелічено кілька районів/міст одразу
             any_added = False
             for loc in locations:
-                coords = geocode(loc, region, geocode_cache)
+                coords = geocode(loc, primary_region, geocode_cache)
                 if not coords:
                     continue
                 lat, lon = coords
-                try_extend_or_create_track(tracks, alert_type, lat, lon, msg_time, loc, region)
+                try_extend_or_create_track(tracks, alert_type, lat, lon, msg_time, loc, primary_region)
                 events.append(
                     {
                         "id": f"{channel}_{m.id}_{loc}",
@@ -417,7 +445,7 @@ def main():
                         "text": text[:500],
                         "type": alert_type,
                         "location_name": loc,
-                        "region": region,
+                        "region": primary_region,
                         "lat": lat,
                         "lon": lon,
                     }
@@ -435,7 +463,7 @@ def main():
                         "text": text[:500],
                         "type": alert_type,
                         "location_name": None,
-                        "region": region,
+                        "region": primary_region,
                         "lat": None,
                         "lon": None,
                     }
