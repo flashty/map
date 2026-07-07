@@ -31,13 +31,15 @@ jobs:
           TG_SESSION: ${{ secrets.TG_SESSION }}
         run: python scraper.py
 
-      - name: Copy events.json into docs (for GitHub Pages)
-        run: cp events.json docs/events.json
+      - name: Copy data into docs (for GitHub Pages)
+        run: |
+          cp events.json docs/events.json
+          cp region_status.json docs/region_status.json
 
       - name: Commit and push updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add state.json events.json geocode_cache.json docs/events.json
+          git add state.json events.json geocode_cache.json region_status.json docs/events.json docs/region_status.json
           git diff --cached --quiet || git commit -m "Update alert data [skip ci]"
           git push
