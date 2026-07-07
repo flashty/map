@@ -31,6 +31,7 @@ CHANNELS = [
     "radarrussiia",
     "LPRalarm",
     "vrv_radar",
+    "kupolrussia",
 ]
 
 STATE_FILE = "state.json"
@@ -71,11 +72,11 @@ MISSILE_MAX_HOP_KM = 250
 # у кожному каналі може відрізнятись — після перших запусків краще
 # звірити результати з оригінальними постами і скоригувати список.
 TYPE_KEYWORDS = [
+    ("all_clear", ["отбой", "угроза миновала"]),
     ("missile", ["ракет", "баллистич", "калибр", "искандер", "х-101", "х-22", "х-59", "фламинго", "крылат"]),
     ("drone", ["бпла", "дрон", "шахед", "shahed", "герань"]),
     ("aviation", ["авиац", "ил-76", "миг-31", "миг-29", "су-34", "су-35", "взлет", "взлёт"]),
     ("shelling", ["обстрел", "артобстрел", "минометн"]),
-    ("all_clear", ["отбой", "угроза миновала"]),
     ("alert", ["тревога", "угроза атаки", "опасност"]),
 ]
 
@@ -290,11 +291,35 @@ def detect_type(text: str) -> str:
     return "unknown"
 
 
+OCR_BOILERPLATE_PATTERNS = [
+    r"вниман\w*", r"объявлен\w*", r"уровень\w*", r"опасност\w*",
+    r"желтый", r"жёлтый", r"красный", r"зелен\w*", r"ракетн\w*",
+    r"купол\s*росс\w*", r"по\s+бпла", r"отбой",
+]
+
+
+def clean_ocr_text_for_location(text: str) -> str:
+    """Прибирає стандартні шаблонні фрази купола ("ВНИМАНИЕ", "ОБЪЯВЛЕН
+    ЖЕЛТЫЙ УРОВЕНЬ" тощо), щоб вони не заважали розпізнаванню
+    районів/міст/областей у решті тексту."""
+    cleaned = text
+    for pat in OCR_BOILERPLATE_PATTERNS:
+        cleaned = re.sub(pat, " ", cleaned, flags=re.IGNORECASE)
+    # переноси рядків у картинці = фактично роздільники, як кома
+    cleaned = re.sub(r"[\n\r]+", ", ", cleaned)
+    cleaned = re.sub(r"!{1,}", " ", cleaned)
+    cleaned = re.sub(r"\s{2,}", " ", cleaned).strip(" ,")
+    return cleaned
+
+
 def ocr_image_bytes(data: bytes) -> str:
     try:
-        img = Image.open(io.BytesIO(data))
+        img = Image.open(io.BytesIO(data)).convert("L")  # у відтінки сірого
+        # збільшуємо — tesseract значно краще читає великий текст
+        img = img.resize((img.width * 2, img.height * 2))
         # 'rus' — мовний пакет tesseract, встановлюється окремо в CI
-        text = pytesseract.image_to_string(img, lang="rus")
+        # psm 6 = "один блок тексту" — підходить для карток-банерів купола
+        text = pytesseract.image_to_string(img, lang="rus", config="--psm 6")
         return text.strip()
     except Exception as e:
         print(f"OCR error: {e}")
@@ -413,12 +438,30 @@ def main():
 
         for m, channel in all_messages:
             text = (m.message or "").strip()
+
+            # деякі канали (напр. kupolrussia) публікують текст ЯК КАРТИНКУ,
+            # а не як звичайний текст повідомлення — тоді m.message порожній,
+            # але є фото. Розпізнаємо текст через OCR (tesseract, мова 'rus').
+            ocr_used = False
+            if not text and m.photo:
+                try:
+                    photo_bytes = client.download_media(m, file=bytes)
+                    if photo_bytes:
+                        text = ocr_image_bytes(photo_bytes)
+                        ocr_used = True
+                except Exception as e:
+                    print(f"Failed to download/OCR photo for {channel}/{m.id}: {e}")
+
             if not text:
                 continue
 
             msg_time = m.date.astimezone(timezone.utc)
             alert_type = detect_type(text)
-            locations, regions = extract_locations_and_regions(text)
+            # для OCR-тексту прибираємо шаблонні фрази ("ВНИМАНИЕ", "ОБЪЯВЛЕН
+            # ЖЕЛТЫЙ УРОВЕНЬ" тощо) перед пошуком районів/областей — вони
+            # тільки заважають; для звичайного тексту каналів це не потрібно
+            parse_text = clean_ocr_text_for_location(text) if ocr_used else text
+            locations, regions = extract_locations_and_regions(parse_text)
 
             # оновлюємо підсвітку для КОЖНОГО згаданого регіону — повідомлення
             # може стосуватися відразу кількох областей ("Область1, Область2,
