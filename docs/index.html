@@ -11,88 +11,159 @@
   #panel {
     position: absolute; top: 12px; left: 12px; z-index: 1000;
     background: rgba(20,20,25,0.92); color: #eee; padding: 12px 16px;
-    border-radius: 10px; max-width: 260px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+    border-radius: 10px; max-width: 250px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+    font-size: 13px;
   }
-  #panel h1 { font-size: 15px; margin: 0 0 8px; }
-  .filter { display: flex; align-items: center; gap: 6px; margin: 4px 0; font-size: 13px; cursor: pointer; }
-  .dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
-  #updated { font-size: 11px; opacity: 0.6; margin-top: 8px; }
+  #panel h1 { font-size: 15px; margin: 0 0 10px; }
+  .legend-row { display: flex; align-items: center; gap: 8px; margin: 5px 0; }
+  .swatch { width: 16px; height: 16px; border-radius: 3px; flex-shrink: 0; }
+  #updated { font-size: 11px; opacity: 0.6; margin-top: 10px; }
+  .leaflet-popup-content-wrapper { background: #1a1a1f; color: #eee; border-radius: 8px; }
+  .leaflet-popup-tip { background: #1a1a1f; }
+  .popup-title { font-weight: 600; margin-bottom: 4px; }
+  .popup-meta { font-size: 11px; opacity: 0.65; margin-bottom: 6px; }
+  .popup-text { font-size: 13px; line-height: 1.4; max-width: 260px; }
+  .popup-clear { color: #6ee7a0; font-size: 13px; }
 </style>
 </head>
 <body>
 <div id="map"></div>
 <div id="panel">
-  <h1>Типи подій</h1>
-  <label class="filter"><input type="checkbox" data-type="missile" checked><span class="dot" style="background:#ff3b30"></span>Ракети</label>
-  <label class="filter"><input type="checkbox" data-type="drone" checked><span class="dot" style="background:#ff9500"></span>БПЛА</label>
-  <label class="filter"><input type="checkbox" data-type="aviation" checked><span class="dot" style="background:#5ac8fa"></span>Авіація</label>
-  <label class="filter"><input type="checkbox" data-type="shelling" checked><span class="dot" style="background:#af52de"></span>Обстріл</label>
-  <label class="filter"><input type="checkbox" data-type="alert" checked><span class="dot" style="background:#ffcc00"></span>Тривога</label>
-  <label class="filter"><input type="checkbox" data-type="all_clear" checked><span class="dot" style="background:#34c759"></span>Відбій</label>
-  <label class="filter"><input type="checkbox" data-type="unknown" checked><span class="dot" style="background:#8e8e93"></span>Інше</label>
+  <h1>Легенда</h1>
+  <div class="legend-row"><span class="swatch" style="background:#dc2626;"></span>Ракетна загроза</div>
+  <div class="legend-row"><span class="swatch" style="background:#eab308;"></span>Загроза БПЛА</div>
+  <div class="legend-row"><span class="swatch" style="background:#3b82f6;"></span>Авіація</div>
+  <div class="legend-row"><span class="swatch" style="background:#a855f7;"></span>Обстріл</div>
+  <div class="legend-row"><span class="swatch" style="background:#f97316;"></span>Тривога (загальна)</div>
+  <div class="legend-row"><span class="swatch" style="background:transparent;border:2px dashed #7f1d1d;"></span>Окупована територія</div>
   <div id="updated">Завантаження...</div>
 </div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-const COLORS = {
-  missile: "#ff3b30", drone: "#ff9500", aviation: "#5ac8fa",
-  shelling: "#af52de", alert: "#ffcc00", all_clear: "#34c759", unknown: "#8e8e93"
+const TYPE_COLORS = {
+  missile: "#dc2626",
+  drone: "#eab308",
+  aviation: "#3b82f6",
+  shelling: "#a855f7",
+  alert: "#f97316",
+  unknown: "#8e8e93"
 };
 
-const map = L.map('map', { zoomControl: true }).setView([55, 45], 4);
+const TYPE_LABELS = {
+  missile: "Ракетна загроза",
+  drone: "Загроза БПЛА",
+  aviation: "Авіаційна загроза",
+  shelling: "Обстріл",
+  alert: "Тривога",
+  unknown: "Загроза (тип не визначено)"
+};
+
+const map = L.map('map', { zoomControl: true }).setView([54, 45], 4);
 L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
   attribution: '&copy; OpenStreetMap &copy; CARTO',
   maxZoom: 18
 }).addTo(map);
 
-let markers = [];
-let allEvents = [];
-const activeTypes = new Set(Object.keys(COLORS));
-
-function render() {
-  markers.forEach(m => map.removeLayer(m));
-  markers = [];
-  allEvents.forEach(ev => {
-    if (ev.lat == null || ev.lon == null) return;
-    if (!activeTypes.has(ev.type)) return;
-    const marker = L.circleMarker([ev.lat, ev.lon], {
-      radius: 7,
-      color: COLORS[ev.type] || COLORS.unknown,
-      fillColor: COLORS[ev.type] || COLORS.unknown,
-      fillOpacity: 0.85,
-      weight: 1
-    }).addTo(map);
-    marker.bindPopup(
-      `<b>${ev.location_name || '?'}</b><br>` +
-      `${new Date(ev.date).toLocaleString('uk-UA')}<br>` +
-      `${(ev.text || '').slice(0, 200)}`
-    );
-    markers.push(marker);
-  });
+// прибираємо "обл./область/край/республіка/дужки", щоб зіставляти назви
+// регіонів з GeoJSON з назвами, які видає парсер повідомлень
+function normalizeRegion(name) {
+  if (!name) return "";
+  return name
+    .toLowerCase()
+    .replace(/\(.*?\)/g, "")
+    .replace(/область|обл\.?|край|республика|автономный округ|-\s*кузбасс|-\s*югра|-\s*алания|-\s*чувашия/gi, "")
+    .replace(/[^а-яё\- ]/gi, "")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
-document.querySelectorAll('.filter input').forEach(cb => {
-  cb.addEventListener('change', () => {
-    cb.checked ? activeTypes.add(cb.dataset.type) : activeTypes.delete(cb.dataset.type);
-    render();
-  });
-});
+let regionStatus = {}; // { normalizedRegionName: {type, text, channel, updated_at} }
+let regionsLayer = null;
 
-async function loadData() {
+function styleForFeature(feature) {
+  const key = normalizeRegion(feature.properties.region);
+  const status = regionStatus[key];
+  if (!status) {
+    return { fillColor: "transparent", fillOpacity: 0, color: "#3a3a42", weight: 1 };
+  }
+  const color = TYPE_COLORS[status.type] || TYPE_COLORS.unknown;
+  return { fillColor: color, fillOpacity: 0.5, color: color, weight: 1.5 };
+}
+
+function popupForFeature(feature) {
+  const key = normalizeRegion(feature.properties.region);
+  const status = regionStatus[key];
+  const name = feature.properties.region;
+  if (!status) {
+    return `<div class="popup-title">${name}</div><div class="popup-clear">Активних тривог немає</div>`;
+  }
+  const label = TYPE_LABELS[status.type] || TYPE_LABELS.unknown;
+  const time = new Date(status.updated_at).toLocaleString('uk-UA');
+  return `
+    <div class="popup-title">${name} — ${label}</div>
+    <div class="popup-meta">@${status.channel} · ${time}</div>
+    <div class="popup-text">${(status.text || '').slice(0, 300)}</div>
+  `;
+}
+
+async function loadRegionsLayer() {
+  const res = await fetch('russia_regions.geojson');
+  const geo = await res.json();
+  regionsLayer = L.geoJSON(geo, {
+    style: styleForFeature,
+    onEachFeature: (feature, layer) => {
+      layer.bindPopup(() => popupForFeature(feature));
+    }
+  }).addTo(map);
+}
+
+async function loadOccupiedLayer() {
+  const res = await fetch('occupied_territories.geojson');
+  const geo = await res.json();
+  L.geoJSON(geo, {
+    style: {
+      fillColor: "#7f1d1d",
+      fillOpacity: 0.18,
+      color: "#7f1d1d",
+      weight: 2,
+      dashArray: "6 4"
+    },
+    onEachFeature: (feature, layer) => {
+      const label = feature.properties.occupied_label || "Тимчасово окупована територія";
+      layer.bindPopup(
+        `<div class="popup-title">${label}</div>` +
+        `<div class="popup-text">Територія України, тимчасово окупована Росією.</div>`
+      );
+    }
+  }).addTo(map);
+}
+
+async function refreshRegionStatus() {
   try {
-    const res = await fetch('events.json?t=' + Date.now());
-    allEvents = await res.json();
-    render();
+    const res = await fetch('region_status.json?t=' + Date.now());
+    const raw = await res.json();
+    regionStatus = {};
+    for (const [region, status] of Object.entries(raw)) {
+      regionStatus[normalizeRegion(region)] = status;
+    }
+    if (regionsLayer) {
+      regionsLayer.eachLayer(layer => layer.setStyle(styleForFeature(layer.feature)));
+    }
+    const activeCount = Object.keys(regionStatus).length;
     document.getElementById('updated').textContent =
-      'Оновлено: ' + new Date().toLocaleTimeString('uk-UA') + ' · подій: ' + allEvents.length;
+      'Оновлено: ' + new Date().toLocaleTimeString('uk-UA') + ' · активних регіонів: ' + activeCount;
   } catch (e) {
     document.getElementById('updated').textContent = 'Помилка завантаження даних';
   }
 }
 
-loadData();
-setInterval(loadData, 60000); // автооновлення раз на хвилину
+(async function init() {
+  await loadOccupiedLayer();
+  await loadRegionsLayer();
+  await refreshRegionStatus();
+  setInterval(refreshRegionStatus, 60000); // автооновлення раз на хвилину
+})();
 </script>
 </body>
 </html>
