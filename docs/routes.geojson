@@ -620,6 +620,31 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T10:00:38+00:00",
+        "last_updated": "2026-07-08T10:01:46+00:00",
+        "path_labels": [
+          "Одессы",
+          "Одессы"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5413187,
+            48.7490351
+          ],
+          [
+            44.5413187,
+            48.7490351
+          ]
+        ]
+      }
     }
   ]
 }
