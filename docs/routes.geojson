@@ -5,66 +5,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-07-08T08:08:55+00:00",
-        "last_updated": "2026-07-08T08:16:56+00:00",
-        "path_labels": [
-          "Сочи",
-          "Сочи",
-          "Сочи"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.723109,
-            43.5854823
-          ],
-          [
-            39.723109,
-            43.5854823
-          ],
-          [
-            39.723109,
-            43.5854823
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T08:08:55+00:00",
-        "last_updated": "2026-07-08T08:16:56+00:00",
-        "path_labels": [
-          "Адлер",
-          "Адлер",
-          "Адлер"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.9400928,
-            43.4439715
-          ],
-          [
-            39.9400928,
-            43.4439715
-          ],
-          [
-            39.9400928,
-            43.4439715
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-07-08T08:19:09+00:00",
         "last_updated": "2026-07-08T08:57:53+00:00",
         "path_labels": [
@@ -82,31 +22,6 @@
           [
             37.568371,
             45.219315
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T08:23:53+00:00",
-        "last_updated": "2026-07-08T08:29:03+00:00",
-        "path_labels": [
-          "Азов",
-          "Кагальник"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.4259657,
-            47.1139219
-          ],
-          [
-            39.320744,
-            47.076992
           ]
         ]
       }
@@ -330,56 +245,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-07-08T08:27:49+00:00",
-        "last_updated": "2026-07-08T08:28:12+00:00",
-        "path_labels": [
-          "Кача",
-          "Кача"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            92.5363666,
-            56.1972669
-          ],
-          [
-            92.5363666,
-            56.1972669
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T08:27:49+00:00",
-        "last_updated": "2026-07-08T08:28:12+00:00",
-        "path_labels": [
-          "Андреевка",
-          "Андреевка"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.7865681,
-            51.9436088
-          ],
-          [
-            35.7865681,
-            51.9436088
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-07-08T08:28:12+00:00",
         "last_updated": "2026-07-08T08:33:58+00:00",
         "path_labels": [
@@ -427,31 +292,6 @@
           [
             38.094204,
             45.574345
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T08:29:30+00:00",
-        "last_updated": "2026-07-08T08:30:34+00:00",
-        "path_labels": [
-          "Ейск",
-          "Ейск"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.2747987,
-            46.7112094
-          ],
-          [
-            38.2747987,
-            46.7112094
           ]
         ]
       }
@@ -667,6 +507,31 @@
           [
             36.2598115,
             54.5101087
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T11:26:48+00:00",
+        "last_updated": "2026-07-08T11:27:03+00:00",
+        "path_labels": [
+          "Белгородский",
+          "Белгородский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.5167643,
+            54.3750277
+          ],
+          [
+            38.5167643,
+            54.3750277
           ]
         ]
       }

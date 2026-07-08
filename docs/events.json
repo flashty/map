@@ -1,53 +1,5 @@
 [
   {
-    "id": "kupolrussia_97228",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T18:13:28+00:00",
-    "text": "Геническ\nХерсонская область РФ \nМеры безопасности",
-    "type": "alert",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null,
-    "ocr": false
-  },
-  {
-    "id": "kupolrussia_97229",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T18:17:19+00:00",
-    "text": "Противник готовит запуск БПЛА от Николаевской области",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null,
-    "ocr": false
-  },
-  {
-    "id": "kupolrussia_97230",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T18:17:36+00:00",
-    "text": "Тульская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null,
-    "ocr": false
-  },
-  {
-    "id": "kupolrussia_97231",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T18:19:36+00:00",
-    "text": "Таманский полуостров \nКраснодарский край",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null,
-    "ocr": false
-  },
-  {
     "id": "kupolrussia_97232",
     "channel": "kupolrussia",
     "date": "2026-07-07T18:22:26+00:00",
@@ -22064,6 +22016,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199342_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-07-08T11:26:48+00:00",
+    "text": "Белгородский район \nОпасность атаки БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_97562_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-07-08T11:27:03+00:00",
+    "text": "Белгородский район \nОпасность атаки БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_199343",
+    "channel": "LPRalarm",
+    "date": "2026-07-08T11:28:49+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97563",
+    "channel": "kupolrussia",
+    "date": "2026-07-08T11:29:01+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
