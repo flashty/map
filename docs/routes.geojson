@@ -260,6 +260,56 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T18:35:07+00:00",
+        "last_updated": "2026-07-08T18:37:31+00:00",
+        "path_labels": [
+          "Чернянский",
+          "Чернянский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.8753291,
+            50.9821216
+          ],
+          [
+            37.8753291,
+            50.9821216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T18:35:07+00:00",
+        "last_updated": "2026-07-08T18:37:31+00:00",
+        "path_labels": [
+          "Корочанский",
+          "Корочанский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.1914961,
+            50.8026787
+          ],
+          [
+            37.1914961,
+            50.8026787
+          ]
+        ]
+      }
     }
   ]
 }
