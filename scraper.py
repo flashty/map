@@ -86,6 +86,19 @@ REGION_PATTERN = re.compile(
     r"((?:[А-ЯЁ][а-яё\-]+\s+)?(?:область|край|автономный округ)|Республика\s+[А-ЯЁа-яё\-]+)"
 )
 
+# канали іноді пишуть скорочення замість повної назви області/республіки —
+# розгортаємо їх у повну форму ще ДО пошуку REGION_PATTERN
+REGION_ABBREVIATIONS = {
+    r"\bДНР\b": "Донецкая область",
+    r"\bЛНР\b": "Луганская область",
+}
+
+
+def expand_region_abbreviations(text: str) -> str:
+    for pattern, full_name in REGION_ABBREVIATIONS.items():
+        text = re.sub(pattern, full_name, text, flags=re.IGNORECASE)
+    return text
+
 # фрази-шум, які потрапляють у "хвіст" переліку локацій, але самі не є місцем
 LOCATION_STOPWORDS = [
     "и близлежащие населенные пункты",
@@ -107,6 +120,7 @@ def extract_locations_and_regions(text: str):
        Розпізнаємо це за тим, що в тексті знайдено 2+ згадки області/
        республіки — тоді трактуємо кожну як окремий уражений регіон.
     """
+    text = expand_region_abbreviations(text)
     region_matches = list(REGION_PATTERN.finditer(text))
 
     if len(region_matches) >= 2:
