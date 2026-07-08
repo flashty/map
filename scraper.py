@@ -523,8 +523,14 @@ def main():
             # оновлюємо підсвітку для КОЖНОГО згаданого регіону — повідомлення
             # може стосуватися відразу кількох областей ("Область1, Область2,
             # Область3 - опасность по БПЛА")
-            for region in regions:
-                update_region_status(region_status, region, alert_type, text, channel, msg_time)
+            # ВАЖЛИВО: якщо тип загрози взагалі не розпізнано (unknown),
+            # НЕ чіпаємо підсвітку регіонів. Інакше повідомлення, яке просто
+            # ЗГАДУЄ назви кількох областей (скарги, офтоп, підписи каналу
+            # тощо) без жодного реального ключового слова тривоги, може
+            # хибно "запалити" підсвітку одразу в купі регіонів.
+            if alert_type != "unknown":
+                for region in regions:
+                    update_region_status(region_status, region, alert_type, text, channel, msg_time)
 
             primary_region = regions[0] if regions else None
 
