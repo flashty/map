@@ -5,56 +5,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-07-08T09:17:27+00:00",
-        "last_updated": "2026-07-08T09:17:46+00:00",
-        "path_labels": [
-          "Запад",
-          "Запад"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.669,
-            57.8723
-          ],
-          [
-            41.669,
-            57.8723
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "missile",
-        "started_at": "2026-07-08T09:17:44+00:00",
-        "last_updated": "2026-07-08T09:18:36+00:00",
-        "path_labels": [
-          "Белгороде",
-          "Белгороде"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.5279843,
-            54.3958901
-          ],
-          [
-            38.5279843,
-            54.3958901
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-07-08T09:51:16+00:00",
         "last_updated": "2026-07-08T09:52:53+00:00",
         "path_labels": [
@@ -257,6 +207,36 @@
           [
             36.2598115,
             54.5101087
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T12:26:56+00:00",
+        "last_updated": "2026-07-08T12:30:37+00:00",
+        "path_labels": [
+          "Одинцово",
+          "Одинцово",
+          "Одинцово"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.2668096,
+            55.678223
+          ],
+          [
+            37.2668096,
+            55.678223
+          ],
+          [
+            37.2668096,
+            55.678223
           ]
         ]
       }
