@@ -443,12 +443,19 @@ def main():
             # а не як звичайний текст повідомлення — тоді m.message порожній,
             # але є фото. Розпізнаємо текст через OCR (tesseract, мова 'rus').
             ocr_used = False
-            if not text and m.photo:
+            if m.photo:
+                # ВАЖЛИВО: навіть якщо в повідомленні вже є якийсь текст-підпис
+                # (напр. LPRalarm додає власне "Lpr 1" поверх пересланої
+                # картинки купола) — все одно розпізнаємо саму картинку,
+                # інакше реальна інформація (тип загрози, регіон) губиться,
+                # а лишається лише беззмістовний підпис.
                 try:
                     photo_bytes = client.download_media(m, file=bytes)
                     if photo_bytes:
-                        text = ocr_image_bytes(photo_bytes)
-                        ocr_used = True
+                        ocr_text = ocr_image_bytes(photo_bytes)
+                        if ocr_text:
+                            text = (text + "\n" + ocr_text).strip() if text else ocr_text
+                            ocr_used = True
                 except Exception as e:
                     print(f"Failed to download/OCR photo for {channel}/{m.id}: {e}")
 
