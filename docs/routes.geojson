@@ -245,31 +245,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-07-08T08:28:12+00:00",
-        "last_updated": "2026-07-08T08:33:58+00:00",
-        "path_labels": [
-          "Севастополь",
-          "Севастополь"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.186371,
-            53.456383
-          ],
-          [
-            35.186371,
-            53.456383
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-07-08T08:29:30+00:00",
         "last_updated": "2026-07-08T09:00:58+00:00",
         "path_labels": [
@@ -292,56 +267,6 @@
           [
             38.094204,
             45.574345
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T08:33:01+00:00",
-        "last_updated": "2026-07-08T08:33:21+00:00",
-        "path_labels": [
-          "Камышовая",
-          "Камышовая"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            90.693909,
-            53.787285
-          ],
-          [
-            90.693909,
-            53.787285
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T08:33:01+00:00",
-        "last_updated": "2026-07-08T08:33:21+00:00",
-        "path_labels": [
-          "Стрелецкая",
-          "Стрелецкая"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.4398878,
-            60.8629488
-          ],
-          [
-            42.4398878,
-            60.8629488
           ]
         ]
       }
@@ -532,6 +457,31 @@
           [
             38.5167643,
             54.3750277
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T11:40:02+00:00",
+        "last_updated": "2026-07-08T11:40:23+00:00",
+        "path_labels": [
+          "Алексин",
+          "Алексин"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.0667213,
+            54.5028103
+          ],
+          [
+            37.0667213,
+            54.5028103
           ]
         ]
       }
