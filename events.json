@@ -1,29 +1,5 @@
 [
   {
-    "id": "kupolrussia_97219",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T17:52:41+00:00",
-    "text": "Армянск\nКрасноперекопский район и близлежащие \n\nРеспублика Крым",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null,
-    "ocr": false
-  },
-  {
-    "id": "kupolrussia_97220",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T17:57:34+00:00",
-    "text": "Давыдовка в направлении Кирилловка Запорожская область РФ большое количество БПЛА Лютый и далее в Азовское море",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null,
-    "ocr": false
-  },
-  {
     "id": "kupolrussia_97221",
     "channel": "kupolrussia",
     "date": "2026-07-07T18:04:03+00:00",
@@ -22073,6 +22049,28 @@
     "channel": "vrv_radar",
     "date": "2026-07-08T10:44:47+00:00",
     "text": "Сочи и близлежащие \nКраснодарский край \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_71314_Геленджик",
+    "channel": "vrv_radar",
+    "date": "2026-07-08T10:57:36+00:00",
+    "text": "Геленджик\nКраснодарский край \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": "Геленджик",
+    "region": "Краснодарский край",
+    "lat": 44.5609447,
+    "lon": 38.0766832
+  },
+  {
+    "id": "radarrussiia_80784",
+    "channel": "radarrussiia",
+    "date": "2026-07-08T11:00:25+00:00",
+    "text": "Сочи и близлежащие \nКраснодарский край \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "type": "drone",
     "location_name": null,
     "region": "Краснодарский край",
