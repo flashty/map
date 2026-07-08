@@ -21,7 +21,7 @@ import asyncio
 from datetime import datetime, timedelta, timezone
 
 import requests
-from PIL import Image
+from PIL import Image, ImageOps
 import pytesseract
 from telethon.sync import TelegramClient
 from telethon.sessions import StringSession
@@ -329,12 +329,31 @@ def clean_ocr_text_for_location(text: str) -> str:
 def ocr_image_bytes(data: bytes) -> str:
     try:
         img = Image.open(io.BytesIO(data)).convert("L")  # у відтінки сірого
-        # збільшуємо — tesseract значно краще читає великий текст
-        img = img.resize((img.width * 2, img.height * 2))
-        # 'rus' — мовний пакет tesseract, встановлюється окремо в CI
-        # psm 6 = "один блок тексту" — підходить для карток-банерів купола
-        text = pytesseract.image_to_string(img, lang="rus", config="--psm 6")
-        return text.strip()
+        img = ImageOps.autocontrast(img)
+
+        # усі ключові слова, які ми взагалі розпізнаємо — якщо результат
+        # OCR містить хоч одне з них, вважаємо спробу вдалою
+        all_keywords = [kw for _, kws in TYPE_KEYWORDS for kw in kws]
+
+        attempts = []
+        for scale in (2, 3):
+            resized = img.resize((img.width * scale, img.height * scale))
+            for psm in (6, 4):
+                try:
+                    txt = pytesseract.image_to_string(
+                        resized, lang="rus", config=f"--psm {psm}"
+                    ).strip()
+                except Exception:
+                    continue
+                if txt:
+                    attempts.append(txt)
+                    low = txt.lower()
+                    if any(kw in low for kw in all_keywords):
+                        return txt  # знайшли впізнаване слово — цього досить
+
+        # жоден варіант не дав впізнаваного слова — повертаємо найдовший
+        # (менше шансів, що це просто шум/порожнеча)
+        return max(attempts, key=len) if attempts else ""
     except Exception as e:
         print(f"OCR error: {e}")
         return ""
