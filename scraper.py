@@ -282,6 +282,17 @@ def tracks_to_geojson(tracks):
     for tr in tracks:
         if len(tr["points"]) < 2:
             continue  # маршрут малюємо тільки якщо є хоча б 2 точки
+
+        # відкидаємо "маршрути", де всі точки фактично в одному місці
+        # (напр. дві згадки тієї самої області без конкретного міста/району
+        # геокодувались в один і той самий центр — це не рух, а шум)
+        total_km = sum(
+            haversine_km(p1["lat"], p1["lon"], p2["lat"], p2["lon"])
+            for p1, p2 in zip(tr["points"], tr["points"][1:])
+        )
+        if total_km < 20:
+            continue
+
         coords = [[p["lon"], p["lat"]] for p in tr["points"]]
         labels = [p.get("location_name") or p.get("region") or "?" for p in tr["points"]]
         features.append({
@@ -388,6 +399,20 @@ def save_json(path, data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
+def normalize_region_for_match(name: str) -> str:
+    """Спрощує назву регіону до "кореня" для порівняння (те саме, що робить
+    normalizeRegion() на фронтенді, лише в Python) — щоб звірити, чи
+    результат геокодування дійсно в очікуваному регіоні."""
+    if not name:
+        return ""
+    n = name.lower()
+    n = re.sub(r"\(.*?\)", "", n)
+    n = re.sub(r"область|обл\.?|край|республика|автономный округ", "", n)
+    n = re.sub(r"[^а-яё\- ]", "", n)
+    n = re.sub(r"\s+", " ", n).strip()
+    return n.split(" ")[0] if n else ""
+
+
 def geocode(name: str, region: str, cache: dict):
     cache_key = f"{name}|{region or ''}"
     if cache_key in cache:
@@ -397,14 +422,36 @@ def geocode(name: str, region: str, cache: dict):
         # Nominatim (OpenStreetMap) — безкоштовний, але ліміт ~1 запит/сек
         resp = requests.get(
             "https://nominatim.openstreetmap.org/search",
-            params={"q": query, "format": "json", "limit": 1},
+            params={
+                "q": query, "format": "jsonv2", "limit": 1,
+                "addressdetails": 1, "countrycodes": "ru",
+            },
             headers={"User-Agent": "nahr-map-clone/1.0"},
             timeout=10,
         )
         data = resp.json()
         time.sleep(1.1)  # поважаємо rate limit Nominatim
         if data:
-            coords = [float(data[0]["lat"]), float(data[0]["lon"])]
+            result = data[0]
+            coords = [float(result["lat"]), float(result["lon"])]
+
+            # ВАЖЛИВО: Nominatim іноді "притягує" схожу назву в зовсім
+            # іншому регіоні (напр. район з такою ж назвою біля Москви
+            # замість Тульської області). Звіряємо, що знайдене місце
+            # дійсно в очікуваному регіоні, перш ніж довіряти координатам.
+            if region:
+                expected_root = normalize_region_for_match(region)
+                address = result.get("address", {})
+                actual_region_raw = (
+                    address.get("state") or address.get("region")
+                    or address.get("county") or ""
+                )
+                actual_root = normalize_region_for_match(actual_region_raw)
+                if expected_root and actual_root and expected_root not in actual_root and actual_root not in expected_root:
+                    print(f"Geocode region mismatch: '{name}' expected '{region}' but got '{actual_region_raw}' — відкидаю")
+                    cache[cache_key] = None
+                    return None
+
             cache[cache_key] = coords
             return coords
     except Exception as e:
