@@ -5,886 +5,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-07-08T04:46:29+00:00",
-        "last_updated": "2026-07-08T05:25:46+00:00",
-        "path_labels": [
-          "Много",
-          "Много",
-          "Много"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.9304618,
-            66.0989134
-          ],
-          [
-            59.9304618,
-            66.0989134
-          ],
-          [
-            59.9304618,
-            66.0989134
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T04:53:08+00:00",
-        "last_updated": "2026-07-08T04:53:14+00:00",
-        "path_labels": [
-          "Кольчугино",
-          "Кольчугино"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.3759931,
-            56.2939784
-          ],
-          [
-            39.3759931,
-            56.2939784
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T04:57:55+00:00",
-        "last_updated": "2026-07-08T04:58:02+00:00",
-        "path_labels": [
-          "Бахчисарайский",
-          "Бахчисарайский"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.3629087,
-            58.0385064
-          ],
-          [
-            56.3629087,
-            58.0385064
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T04:57:55+00:00",
-        "last_updated": "2026-07-08T04:58:02+00:00",
-        "path_labels": [
-          "Севастополь",
-          "Севастополь"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.186371,
-            53.456383
-          ],
-          [
-            35.186371,
-            53.456383
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T04:57:55+00:00",
-        "last_updated": "2026-07-08T05:12:19+00:00",
-        "path_labels": [
-          "Качу",
-          "Качу",
-          "Саратовской",
-          "Саратовской"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.5225163,
-            42.5451286
-          ],
-          [
-            45.5225163,
-            42.5451286
-          ],
-          [
-            45.8433667,
-            42.5166167
-          ],
-          [
-            45.8433667,
-            42.5166167
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T04:58:17+00:00",
-        "last_updated": "2026-07-08T05:01:05+00:00",
-        "path_labels": [
-          "Стерлитамак",
-          "Стерлитамак",
-          "Стерлитамак"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.9616172,
-            53.6194416
-          ],
-          [
-            55.9616172,
-            53.6194416
-          ],
-          [
-            55.9616172,
-            53.6194416
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T04:58:26+00:00",
-        "last_updated": "2026-07-08T05:01:05+00:00",
-        "path_labels": [
-          "Салават",
-          "Салават",
-          "Салават"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.924641,
-            53.361687
-          ],
-          [
-            55.924641,
-            53.361687
-          ],
-          [
-            55.924641,
-            53.361687
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T04:58:49+00:00",
-        "last_updated": "2026-07-08T04:58:54+00:00",
-        "path_labels": [
-          "Кача",
-          "Кача"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            92.5363666,
-            56.1972669
-          ],
-          [
-            92.5363666,
-            56.1972669
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T05:01:05+00:00",
-        "last_updated": "2026-07-08T05:39:41+00:00",
-        "path_labels": [
-          "Уфа",
-          "Чишмы",
-          "Чишмы"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.947499,
-            54.7261409
-          ],
-          [
-            55.3804,
-            54.5889
-          ],
-          [
-            55.3804,
-            54.5889
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T05:11:04+00:00",
-        "last_updated": "2026-07-08T05:12:19+00:00",
-        "path_labels": [
-          "Белгородской",
-          "Белгородской"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.4841564,
-            50.5116428
-          ],
-          [
-            36.4841564,
-            50.5116428
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T05:11:04+00:00",
-        "last_updated": "2026-07-08T05:12:19+00:00",
-        "path_labels": [
-          "Брянской",
-          "Брянской"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.414346,
-            53.2054944
-          ],
-          [
-            34.414346,
-            53.2054944
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T05:11:04+00:00",
-        "last_updated": "2026-07-08T05:12:19+00:00",
-        "path_labels": [
-          "Волгоградской",
-          "Волгоградской"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.9812829,
-            49.3083227
-          ],
-          [
-            43.9812829,
-            49.3083227
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T05:11:04+00:00",
-        "last_updated": "2026-07-08T05:12:19+00:00",
-        "path_labels": [
-          "Вологодской",
-          "Вологодской"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.2374282,
-            59.9539241
-          ],
-          [
-            37.2374282,
-            59.9539241
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T05:11:04+00:00",
-        "last_updated": "2026-07-08T05:12:19+00:00",
-        "path_labels": [
-          "Воронежской",
-          "Воронежской"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.1588143,
-            51.6531013
-          ],
-          [
-            39.1588143,
-            51.6531013
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T05:11:04+00:00",
-        "last_updated": "2026-07-08T05:12:19+00:00",
-        "path_labels": [
-          "Владимирской",
-          "Владимирской"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            40.4330015,
-            56.1418902
-          ],
-          [
-            40.4330015,
-            56.1418902
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T05:11:04+00:00",
-        "last_updated": "2026-07-08T05:12:19+00:00",
-        "path_labels": [
-          "Курской",
-          "Курской"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.498812,
-            52.6372662
-          ],
-          [
-            38.498812,
-            52.6372662
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T05:11:04+00:00",
-        "last_updated": "2026-07-08T05:12:19+00:00",
-        "path_labels": [
-          "Липецкой",
-          "Липецкой"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.6975483,
-            51.7680785
-          ],
-          [
-            39.6975483,
-            51.7680785
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T05:11:04+00:00",
-        "last_updated": "2026-07-08T05:12:19+00:00",
-        "path_labels": [
-          "Орловской",
-          "Орловской"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.5863225,
-            52.4312731
-          ],
-          [
-            37.5863225,
-            52.4312731
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T05:11:04+00:00",
-        "last_updated": "2026-07-08T05:12:19+00:00",
-        "path_labels": [
-          "Ростовской",
-          "Ростовской"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.7224851,
-            47.223593
-          ],
-          [
-            39.7224851,
-            47.223593
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T05:11:04+00:00",
-        "last_updated": "2026-07-08T05:12:19+00:00",
-        "path_labels": [
-          "Рязанской",
-          "Рязанской"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.4258993,
-            53.7343244
-          ],
-          [
-            39.4258993,
-            53.7343244
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T05:11:04+00:00",
-        "last_updated": "2026-07-08T05:12:19+00:00",
-        "path_labels": [
-          "Самарской",
-          "Самарской"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            51.2568541,
-            52.5956401
-          ],
-          [
-            51.2568541,
-            52.5956401
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T05:18:00+00:00",
-        "last_updated": "2026-07-08T05:18:55+00:00",
-        "path_labels": [
-          "Давлеканово",
-          "Давлеканово"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.0307219,
-            54.2129656
-          ],
-          [
-            55.0307219,
-            54.2129656
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T05:22:26+00:00",
-        "last_updated": "2026-07-08T05:22:38+00:00",
-        "path_labels": [
-          "Акимовка",
-          "Акимовка"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.3882124,
-            51.5043614
-          ],
-          [
-            34.3882124,
-            51.5043614
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T05:25:15+00:00",
-        "last_updated": "2026-07-08T05:25:46+00:00",
-        "path_labels": [
-          "Инкерман",
-          "Инкерман"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.6041198,
-            44.6151657
-          ],
-          [
-            33.6041198,
-            44.6151657
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T05:40:46+00:00",
-        "last_updated": "2026-07-08T06:01:49+00:00",
-        "path_labels": [
-          "Белгородский",
-          "Новомосковск",
-          "Новомосковск"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.5167643,
-            54.3750277
-          ],
-          [
-            38.290943,
-            54.011013
-          ],
-          [
-            38.290943,
-            54.011013
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T06:00:00+00:00",
-        "last_updated": "2026-07-08T06:01:49+00:00",
-        "path_labels": [
-          "Алексин",
-          "Алексин"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.0667213,
-            54.5028103
-          ],
-          [
-            37.0667213,
-            54.5028103
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T06:00:00+00:00",
-        "last_updated": "2026-07-08T06:01:49+00:00",
-        "path_labels": [
-          "Тула",
-          "Тула"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.61754,
-            54.1930321
-          ],
-          [
-            37.61754,
-            54.1930321
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T06:00:00+00:00",
-        "last_updated": "2026-07-08T06:01:49+00:00",
-        "path_labels": [
-          "Узловая",
-          "Узловая"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.160255,
-            53.978512
-          ],
-          [
-            38.160255,
-            53.978512
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T06:00:00+00:00",
-        "last_updated": "2026-07-08T06:01:49+00:00",
-        "path_labels": [
-          "Щёкино",
-          "Щёкино"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.5179079,
-            54.004465
-          ],
-          [
-            37.5179079,
-            54.004465
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T06:00:00+00:00",
-        "last_updated": "2026-07-08T06:01:49+00:00",
-        "path_labels": [
-          "Киреевск",
-          "Киреевск"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.929916,
-            53.926712
-          ],
-          [
-            37.929916,
-            53.926712
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T06:00:00+00:00",
-        "last_updated": "2026-07-08T06:01:49+00:00",
-        "path_labels": [
-          "Кимовск",
-          "Кимовск"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.5327,
-            53.9699
-          ],
-          [
-            38.5327,
-            53.9699
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T06:00:00+00:00",
-        "last_updated": "2026-07-08T06:01:49+00:00",
-        "path_labels": [
-          "Донской",
-          "Донской"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.3263915,
-            53.9729348
-          ],
-          [
-            38.3263915,
-            53.9729348
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T06:00:00+00:00",
-        "last_updated": "2026-07-08T06:32:53+00:00",
-        "path_labels": [
-          "Венев",
-          "Венев",
-          "Белгородский",
-          "Белгородский",
-          "Белгородский",
-          "Белгородский"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.2656,
-            54.3504
-          ],
-          [
-            38.2656,
-            54.3504
-          ],
-          [
-            38.5167643,
-            54.3750277
-          ],
-          [
-            38.5167643,
-            54.3750277
-          ],
-          [
-            38.5167643,
-            54.3750277
-          ],
-          [
-            38.5167643,
-            54.3750277
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-07-08T06:00:55+00:00",
         "last_updated": "2026-07-08T06:48:36+00:00",
         "path_labels": [
@@ -917,166 +37,6 @@
           [
             38.5862881,
             50.1834343
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T06:27:23+00:00",
-        "last_updated": "2026-07-08T06:27:35+00:00",
-        "path_labels": [
-          "Макеевка",
-          "Макеевка"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.7811403,
-            52.0719529
-          ],
-          [
-            35.7811403,
-            52.0719529
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T06:27:23+00:00",
-        "last_updated": "2026-07-08T06:27:35+00:00",
-        "path_labels": [
-          "Донецк",
-          "Донецк"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.9509488,
-            48.3382864
-          ],
-          [
-            39.9509488,
-            48.3382864
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T06:28:47+00:00",
-        "last_updated": "2026-07-08T06:31:51+00:00",
-        "path_labels": [
-          "Александровка",
-          "Александровка"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.413418,
-            52.680561
-          ],
-          [
-            54.413418,
-            52.680561
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T06:28:47+00:00",
-        "last_updated": "2026-07-08T06:31:51+00:00",
-        "path_labels": [
-          "Булава",
-          "Булава"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            140.40831,
-            51.939217
-          ],
-          [
-            140.40831,
-            51.939217
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T06:31:33+00:00",
-        "last_updated": "2026-07-08T06:31:51+00:00",
-        "path_labels": [
-          "Шебекинский",
-          "Шебекинский"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.8728034,
-            50.438988
-          ],
-          [
-            36.8728034,
-            50.438988
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-08T06:31:33+00:00",
-        "last_updated": "2026-07-08T06:32:53+00:00",
-        "path_labels": [
-          "Кошлаково",
-          "Кошлаково",
-          "Разумное",
-          "Разумное"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.883335,
-            50.519444
-          ],
-          [
-            36.883335,
-            50.519444
-          ],
-          [
-            36.6859568,
-            50.5347515
-          ],
-          [
-            36.6859568,
-            50.5347515
           ]
         ]
       }
@@ -1127,6 +87,596 @@
           [
             58.5326906,
             56.4255703
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T07:56:02+00:00",
+        "last_updated": "2026-07-08T08:07:00+00:00",
+        "path_labels": [
+          "Рыльский",
+          "Рыльский",
+          "Акимовка",
+          "Акимовка"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.624021,
+            51.5713767
+          ],
+          [
+            34.624021,
+            51.5713767
+          ],
+          [
+            34.3882124,
+            51.5043614
+          ],
+          [
+            34.3882124,
+            51.5043614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T08:08:55+00:00",
+        "last_updated": "2026-07-08T08:16:56+00:00",
+        "path_labels": [
+          "Сочи",
+          "Сочи",
+          "Сочи"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.723109,
+            43.5854823
+          ],
+          [
+            39.723109,
+            43.5854823
+          ],
+          [
+            39.723109,
+            43.5854823
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T08:08:55+00:00",
+        "last_updated": "2026-07-08T08:16:56+00:00",
+        "path_labels": [
+          "Адлер",
+          "Адлер",
+          "Адлер"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.9400928,
+            43.4439715
+          ],
+          [
+            39.9400928,
+            43.4439715
+          ],
+          [
+            39.9400928,
+            43.4439715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T08:19:09+00:00",
+        "last_updated": "2026-07-08T08:57:53+00:00",
+        "path_labels": [
+          "Цибанобалка",
+          "Курчанская"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.3344006,
+            44.9787451
+          ],
+          [
+            37.568371,
+            45.219315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T08:23:53+00:00",
+        "last_updated": "2026-07-08T08:29:03+00:00",
+        "path_labels": [
+          "Азов",
+          "Кагальник"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.4259657,
+            47.1139219
+          ],
+          [
+            39.320744,
+            47.076992
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T08:27:01+00:00",
+        "last_updated": "2026-07-08T08:57:53+00:00",
+        "path_labels": [
+          "Темрюкский",
+          "Темрюкский",
+          "Темрюкский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.3098799,
+            45.4964119
+          ],
+          [
+            37.3098799,
+            45.4964119
+          ],
+          [
+            37.3098799,
+            45.4964119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T08:27:01+00:00",
+        "last_updated": "2026-07-08T08:57:53+00:00",
+        "path_labels": [
+          "Голубицкая",
+          "Голубицкая",
+          "Голубицкая"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.2765537,
+            45.3207387
+          ],
+          [
+            37.2765537,
+            45.3207387
+          ],
+          [
+            37.2765537,
+            45.3207387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T08:27:01+00:00",
+        "last_updated": "2026-07-08T08:57:53+00:00",
+        "path_labels": [
+          "Старотитаровская",
+          "Старотитаровская",
+          "Старотитаровская"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.1480059,
+            45.2188185
+          ],
+          [
+            37.1480059,
+            45.2188185
+          ],
+          [
+            37.1480059,
+            45.2188185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T08:27:01+00:00",
+        "last_updated": "2026-07-08T08:57:53+00:00",
+        "path_labels": [
+          "Темрюк",
+          "Темрюк",
+          "Темрюк"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.3658235,
+            45.2823609
+          ],
+          [
+            37.3658235,
+            45.2823609
+          ],
+          [
+            37.3658235,
+            45.2823609
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T08:27:01+00:00",
+        "last_updated": "2026-07-08T08:57:53+00:00",
+        "path_labels": [
+          "Стрелка",
+          "Стрелка",
+          "Стрелка"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.2861077,
+            45.201431
+          ],
+          [
+            37.2861077,
+            45.201431
+          ],
+          [
+            37.2861077,
+            45.201431
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T08:27:01+00:00",
+        "last_updated": "2026-07-08T08:48:50+00:00",
+        "path_labels": [
+          "Курчанская",
+          "Курчанская",
+          "Крымский",
+          "Крымский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.568371,
+            45.219315
+          ],
+          [
+            37.568371,
+            45.219315
+          ],
+          [
+            37.896802,
+            44.9624541
+          ],
+          [
+            37.896802,
+            44.9624541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T08:27:01+00:00",
+        "last_updated": "2026-07-08T08:57:53+00:00",
+        "path_labels": [
+          "Ахтанизовская",
+          "Ахтанизовская",
+          "Ахтанизовская"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.1049025,
+            45.3213372
+          ],
+          [
+            37.1049025,
+            45.3213372
+          ],
+          [
+            37.1049025,
+            45.3213372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T08:27:49+00:00",
+        "last_updated": "2026-07-08T08:28:12+00:00",
+        "path_labels": [
+          "Кача",
+          "Кача"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.5363666,
+            56.1972669
+          ],
+          [
+            92.5363666,
+            56.1972669
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T08:27:49+00:00",
+        "last_updated": "2026-07-08T08:28:12+00:00",
+        "path_labels": [
+          "Андреевка",
+          "Андреевка"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.7865681,
+            51.9436088
+          ],
+          [
+            35.7865681,
+            51.9436088
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T08:28:12+00:00",
+        "last_updated": "2026-07-08T08:33:58+00:00",
+        "path_labels": [
+          "Севастополь",
+          "Севастополь"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.186371,
+            53.456383
+          ],
+          [
+            35.186371,
+            53.456383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T08:29:30+00:00",
+        "last_updated": "2026-07-08T09:00:58+00:00",
+        "path_labels": [
+          "Ахтарск",
+          "Ахтарск",
+          "Забойский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.1712168,
+            46.0490992
+          ],
+          [
+            38.1712168,
+            46.0490992
+          ],
+          [
+            38.094204,
+            45.574345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T08:29:30+00:00",
+        "last_updated": "2026-07-08T08:30:34+00:00",
+        "path_labels": [
+          "Ейск",
+          "Ейск"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.2747987,
+            46.7112094
+          ],
+          [
+            38.2747987,
+            46.7112094
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T08:33:01+00:00",
+        "last_updated": "2026-07-08T08:33:21+00:00",
+        "path_labels": [
+          "Камышовая",
+          "Камышовая"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            90.693909,
+            53.787285
+          ],
+          [
+            90.693909,
+            53.787285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T08:33:01+00:00",
+        "last_updated": "2026-07-08T08:33:21+00:00",
+        "path_labels": [
+          "Стрелецкая",
+          "Стрелецкая"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.4398878,
+            60.8629488
+          ],
+          [
+            42.4398878,
+            60.8629488
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-08T09:17:27+00:00",
+        "last_updated": "2026-07-08T09:17:46+00:00",
+        "path_labels": [
+          "Запад",
+          "Запад"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.669,
+            57.8723
+          ],
+          [
+            41.669,
+            57.8723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "missile",
+        "started_at": "2026-07-08T09:17:44+00:00",
+        "last_updated": "2026-07-08T09:18:36+00:00",
+        "path_labels": [
+          "Белгороде",
+          "Белгороде"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.5279843,
+            54.3958901
+          ],
+          [
+            38.5279843,
+            54.3958901
           ]
         ]
       }
