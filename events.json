@@ -1,82 +1,5 @@
 [
   {
-    "id": "radarrussiia_80561_Кантемировский",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T19:14:25+00:00",
-    "text": "Кантемировский район \nБогучарский район \nВоробьёвский район\nВоронежская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Кантемировский",
-    "region": "Воронежская область",
-    "lat": 49.797172,
-    "lon": 39.7513457
-  },
-  {
-    "id": "radarrussiia_80561_Богучарский",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T19:14:25+00:00",
-    "text": "Кантемировский район \nБогучарский район \nВоробьёвский район\nВоронежская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Богучарский",
-    "region": "Воронежская область",
-    "lat": 50.4979916,
-    "lon": 39.6363652
-  },
-  {
-    "id": "radarrussiia_80561_Воробьёвский",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T19:14:25+00:00",
-    "text": "Кантемировский район \nБогучарский район \nВоробьёвский район\nВоронежская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Воробьёвский",
-    "region": "Воронежская область",
-    "lat": 50.688171,
-    "lon": 40.822227
-  },
-  {
-    "id": "LPRalarm_198980",
-    "channel": "LPRalarm",
-    "date": "2026-07-07T19:15:04+00:00",
-    "text": "Темрюк\nЕйск \nСлавянск-на-Кубани \nНовороссийск и близлежащие \nТревога по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_198981",
-    "channel": "LPRalarm",
-    "date": "2026-07-07T19:15:25+00:00",
-    "text": "Темрюк множественные фиксации БПЛА на Юг \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_198982_Молочное",
-    "channel": "LPRalarm",
-    "date": "2026-07-07T19:15:46+00:00",
-    "text": "Молочное, Уютное тревога по БПЛА повторно Сакский район",
-    "type": "drone",
-    "location_name": "Молочное",
-    "region": null,
-    "lat": 54.8454184,
-    "lon": 20.3103495
-  },
-  {
-    "id": "LPRalarm_198983",
-    "channel": "LPRalarm",
-    "date": "2026-07-07T19:16:50+00:00",
-    "text": "Рязанская область \nМосковская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_71177_Лебедянский",
     "channel": "locatorru",
     "date": "2026-07-07T19:16:58+00:00",
@@ -21996,6 +21919,83 @@
     "type": "all_clear",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199388",
+    "channel": "LPRalarm",
+    "date": "2026-07-08T17:33:25+00:00",
+    "text": "Донецк и близлежащие \nДНР\nВнимание по единичным вражеским БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199389",
+    "channel": "LPRalarm",
+    "date": "2026-07-08T17:34:00+00:00",
+    "text": "Рыльск опасность по БПЛА \nКурская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97604",
+    "channel": "kupolrussia",
+    "date": "2026-07-08T17:34:11+00:00",
+    "text": "Донецк и близлежащие \nДНР\nВнимание по единичным вражеским БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97605_Рыльск",
+    "channel": "kupolrussia",
+    "date": "2026-07-08T17:34:23+00:00",
+    "text": "Рыльск \nКурская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Рыльск",
+    "region": "Курская область",
+    "lat": 51.570538,
+    "lon": 34.683506
+  },
+  {
+    "id": "LPRalarm_199390",
+    "channel": "LPRalarm",
+    "date": "2026-07-08T17:36:52+00:00",
+    "text": "Рубежное, Северодонецк и близлежащие \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97606",
+    "channel": "kupolrussia",
+    "date": "2026-07-08T17:39:08+00:00",
+    "text": "Рубежное, Северодонецк и близлежащие \nЛНР\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199391",
+    "channel": "LPRalarm",
+    "date": "2026-07-08T17:41:07+00:00",
+    "text": "Николаевка Славянский район\nДНР\nТревога по БПЛА Баба Яга",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
