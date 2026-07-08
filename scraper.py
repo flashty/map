@@ -326,6 +326,17 @@ def clean_ocr_text_for_location(text: str) -> str:
     return cleaned
 
 
+def is_plausible_ocr_text(text: str) -> bool:
+    """Груба перевірка "чи це взагалі схоже на нормальний текст", а не
+    сміття типу '© > 7& Я'. Дивимось частку кириличних літер серед усіх
+    літер у розпізнаному тексті."""
+    letters = [c for c in text if c.isalpha()]
+    if len(letters) < 3:
+        return False
+    cyrillic = sum(1 for c in letters if "а" <= c.lower() <= "я" or c.lower() in "ёї")
+    return (cyrillic / len(letters)) >= 0.6
+
+
 def ocr_image_bytes(data: bytes) -> str:
     try:
         img = Image.open(io.BytesIO(data)).convert("L")  # у відтінки сірого
@@ -345,15 +356,21 @@ def ocr_image_bytes(data: bytes) -> str:
                     ).strip()
                 except Exception:
                     continue
-                if txt:
+                # сміттєві результати (нечитабельна абракадабра) відкидаємо
+                # одразу — вони не потрапляють навіть у запасний варіант
+                if txt and is_plausible_ocr_text(txt):
                     attempts.append(txt)
-                    low = txt.lower()
-                    if any(kw in low for kw in all_keywords):
+                    if any(kw in txt.lower() for kw in all_keywords):
                         return txt  # знайшли впізнаване слово — цього досить
 
-        # жоден варіант не дав впізнаваного слова — повертаємо найдовший
-        # (менше шансів, що це просто шум/порожнеча)
-        return max(attempts, key=len) if attempts else ""
+        # жоден варіант не дав впізнаваного слова, але хоч якийсь був
+        # правдоподібним текстом — повертаємо найдовший з них
+        if attempts:
+            return max(attempts, key=len)
+
+        # усі спроби виявились сміттям — краще НІЧОГО не повертати,
+        # ніж показати на карті нерозбірливу абракадабру
+        return ""
     except Exception as e:
         print(f"OCR error: {e}")
         return ""
