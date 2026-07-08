@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_198970",
-    "channel": "LPRalarm",
-    "date": "2026-07-07T18:57:19+00:00",
-    "text": "Сочи\nАнапа\n\nОпасность по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_198971",
-    "channel": "LPRalarm",
-    "date": "2026-07-07T18:57:58+00:00",
-    "text": "Приморский район и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_70935",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T18:58:46+00:00",
-    "text": "Анапа и близлежащие \nКраснодарский край \nОпасность по БПЛА повторно",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_71171_Семилуки",
-    "channel": "locatorru",
-    "date": "2026-07-07T18:58:50+00:00",
-    "text": "Семилуки, Воронеж, Воронежская область - опасность по БПЛА, ещё раз. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Семилуки",
-    "region": "Воронежская область",
-    "lat": 51.6947492,
-    "lon": 39.0205069
-  },
-  {
-    "id": "locatorru_71171_Воронеж",
-    "channel": "locatorru",
-    "date": "2026-07-07T18:58:50+00:00",
-    "text": "Семилуки, Воронеж, Воронежская область - опасность по БПЛА, ещё раз. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Воронеж",
-    "region": "Воронежская область",
-    "lat": 51.6605982,
-    "lon": 39.2005858
-  },
-  {
-    "id": "vrv_radar_70936_Воронеж",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T18:59:02+00:00",
-    "text": "Воронеж\nВоронежская область\nСбитие БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Воронеж",
-    "region": "Воронежская область",
-    "lat": 51.6605982,
-    "lon": 39.2005858
-  },
-  {
-    "id": "radarrussiia_80559",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T18:59:27+00:00",
-    "text": "Анапа и близлежащие \nКраснодарский край \nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_80560_Воронеж",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T18:59:47+00:00",
-    "text": "Воронеж\nВоронежская область\nСбитие БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Воронеж",
-    "region": "Воронежская область",
-    "lat": 51.6605982,
-    "lon": 39.2005858
-  },
-  {
     "id": "LPRalarm_198972",
     "channel": "LPRalarm",
     "date": "2026-07-07T18:59:53+00:00",
@@ -21996,6 +21908,94 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199378_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-07-08T16:10:12+00:00",
+    "text": "Никольское, Таврово, Дубовое \nБелгородский район \nУдарный БПЛА в направлении",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_199378_Никольское",
+    "channel": "LPRalarm",
+    "date": "2026-07-08T16:10:12+00:00",
+    "text": "Никольское, Таврово, Дубовое \nБелгородский район \nУдарный БПЛА в направлении",
+    "type": "drone",
+    "location_name": "Никольское",
+    "region": null,
+    "lat": 43.7972447,
+    "lon": 131.9520752
+  },
+  {
+    "id": "LPRalarm_199378_Таврово",
+    "channel": "LPRalarm",
+    "date": "2026-07-08T16:10:12+00:00",
+    "text": "Никольское, Таврово, Дубовое \nБелгородский район \nУдарный БПЛА в направлении",
+    "type": "drone",
+    "location_name": "Таврово",
+    "region": null,
+    "lat": 50.505955,
+    "lon": 36.573505
+  },
+  {
+    "id": "kupolrussia_97596_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-07-08T16:10:28+00:00",
+    "text": "Никольское, Таврово, Дубовое \nБелгородский район \nУдарный БПЛА в направлении",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_97596_Никольское",
+    "channel": "kupolrussia",
+    "date": "2026-07-08T16:10:28+00:00",
+    "text": "Никольское, Таврово, Дубовое \nБелгородский район \nУдарный БПЛА в направлении",
+    "type": "drone",
+    "location_name": "Никольское",
+    "region": null,
+    "lat": 43.7972447,
+    "lon": 131.9520752
+  },
+  {
+    "id": "kupolrussia_97596_Таврово",
+    "channel": "kupolrussia",
+    "date": "2026-07-08T16:10:28+00:00",
+    "text": "Никольское, Таврово, Дубовое \nБелгородский район \nУдарный БПЛА в направлении",
+    "type": "drone",
+    "location_name": "Таврово",
+    "region": null,
+    "lat": 50.505955,
+    "lon": 36.573505
+  },
+  {
+    "id": "LPRalarm_199379",
+    "channel": "LPRalarm",
+    "date": "2026-07-08T16:11:02+00:00",
+    "text": "УГРОЗА ПОВТОРНОЙ АТАКИ БПЛА в  Белгородском МО",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97597",
+    "channel": "kupolrussia",
+    "date": "2026-07-08T16:11:32+00:00",
+    "text": "УГРОЗА ПОВТОРНОЙ АТАКИ БПЛА в  Белгородском МО",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
