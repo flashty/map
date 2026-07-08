@@ -1,113 +1,5 @@
 [
   {
-    "id": "vrv_radar_70909_Славянский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T15:44:36+00:00",
-    "text": "Славянский район\nКраснодарский край\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Славянский",
-    "region": "Краснодарский край",
-    "lat": 44.6922114,
-    "lon": 40.5186028,
-    "ocr": false
-  },
-  {
-    "id": "vrv_radar_70910_Крымский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T16:00:03+00:00",
-    "text": "Крымский район\nКраснодарский край\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Крымский",
-    "region": "Краснодарский край",
-    "lat": 44.9624541,
-    "lon": 37.896802,
-    "ocr": false
-  },
-  {
-    "id": "vrv_radar_70911",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T16:20:38+00:00",
-    "text": "Ростовская область\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null,
-    "ocr": false
-  },
-  {
-    "id": "vrv_radar_70912",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T16:31:15+00:00",
-    "text": "Ростовская область \nОтбой ракетной опасности",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null,
-    "ocr": false
-  },
-  {
-    "id": "vrv_radar_70913",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T16:49:49+00:00",
-    "text": "Новороссийск и близлежащие\nКраснодарский край \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null,
-    "ocr": false
-  },
-  {
-    "id": "vrv_radar_70914",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T17:06:40+00:00",
-    "text": "Ростовская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null,
-    "ocr": false
-  },
-  {
-    "id": "vrv_radar_70915",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T17:16:29+00:00",
-    "text": "Стык Ростовской и Воронежской областей\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null,
-    "ocr": false
-  },
-  {
-    "id": "vrv_radar_70916_Чертковский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T17:16:42+00:00",
-    "text": "Чертковский район\nРостовская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Чертковский",
-    "region": "Ростовская область",
-    "lat": 49.4049606,
-    "lon": 40.6115668,
-    "ocr": false
-  },
-  {
-    "id": "vrv_radar_70917_Череповец",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T17:37:39+00:00",
-    "text": "Череповец\nВологодская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Череповец",
-    "region": "Вологодская область",
-    "lat": 59.1221553,
-    "lon": 37.9025005,
-    "ocr": false
-  },
-  {
     "id": "vrv_radar_70918",
     "channel": "vrv_radar",
     "date": "2026-07-07T17:45:49+00:00",
@@ -22019,5 +21911,104 @@
     "region": null,
     "lat": 54.3750277,
     "lon": 38.5167643
+  },
+  {
+    "id": "vrv_radar_71323",
+    "channel": "vrv_radar",
+    "date": "2026-07-08T12:56:11+00:00",
+    "text": "Нижегородская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_80794",
+    "channel": "radarrussiia",
+    "date": "2026-07-08T12:57:54+00:00",
+    "text": "Нижегородская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199358",
+    "channel": "LPRalarm",
+    "date": "2026-07-08T12:58:08+00:00",
+    "text": "Курская область и близлежащие повторно авиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97579",
+    "channel": "kupolrussia",
+    "date": "2026-07-08T12:58:24+00:00",
+    "text": "Курская область и близлежащие повторно авиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_71324",
+    "channel": "vrv_radar",
+    "date": "2026-07-08T12:59:17+00:00",
+    "text": "Вологодская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Вологодская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_71325",
+    "channel": "vrv_radar",
+    "date": "2026-07-08T12:59:27+00:00",
+    "text": "Воронежская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_71326",
+    "channel": "vrv_radar",
+    "date": "2026-07-08T13:00:11+00:00",
+    "text": "Орловская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_80795",
+    "channel": "radarrussiia",
+    "date": "2026-07-08T13:00:25+00:00",
+    "text": "Вологодская область \nВоронежская область \nОрловская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Вологодская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_71327",
+    "channel": "vrv_radar",
+    "date": "2026-07-08T13:01:07+00:00",
+    "text": "Республика Удмуртия\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Удмуртия",
+    "lat": null,
+    "lon": null
   }
 ]
