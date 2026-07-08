@@ -1,89 +1,5 @@
 [
   {
-    "id": "vrv_radar_70882",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T13:30:37+00:00",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОтбой опасности по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null,
-    "ocr": false
-  },
-  {
-    "id": "vrv_radar_70883",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T13:36:20+00:00",
-    "text": "Тамбовская область\nОтбой опасности по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null,
-    "ocr": false
-  },
-  {
-    "id": "vrv_radar_70884_Спас-Деменский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T14:09:04+00:00",
-    "text": "Спас-Деменский район\nКалужская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Спас-Деменский",
-    "region": "Калужская область",
-    "lat": 54.3959568,
-    "lon": 33.9346202,
-    "ocr": false
-  },
-  {
-    "id": "vrv_radar_70885_Барятинский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T14:09:11+00:00",
-    "text": "Барятинский район\nКалужская область\nФиксация от 4 БПЛА",
-    "type": "drone",
-    "location_name": "Барятинский",
-    "region": "Калужская область",
-    "lat": 54.3256512,
-    "lon": 34.5647721,
-    "ocr": false
-  },
-  {
-    "id": "vrv_radar_70886_Ельнинский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T14:09:40+00:00",
-    "text": "Ельнинский район\nСмоленская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Ельнинский",
-    "region": "Смоленская область",
-    "lat": 54.5275089,
-    "lon": 33.3509426,
-    "ocr": false
-  },
-  {
-    "id": "vrv_radar_70887_Угранский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T14:10:05+00:00",
-    "text": "Угранский район\nСмоленская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Угранский",
-    "region": "Смоленская область",
-    "lat": 54.7904822,
-    "lon": 34.3736036,
-    "ocr": false
-  },
-  {
-    "id": "vrv_radar_70888_Темкинский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T14:10:15+00:00",
-    "text": "Темкинский район\nСмоленская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Темкинский",
-    "region": "Смоленская область",
-    "lat": 55.1116368,
-    "lon": 34.975259,
-    "ocr": false
-  },
-  {
     "id": "vrv_radar_70889_Вяземский",
     "channel": "vrv_radar",
     "date": "2026-07-07T14:10:21+00:00",
@@ -22046,5 +21962,82 @@
     "region": "Луганская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "radarrussiia_80789_Калуга",
+    "channel": "radarrussiia",
+    "date": "2026-07-08T11:46:14+00:00",
+    "text": "Калуга\nКалужская область \nСбитие БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Калуга",
+    "region": "Калужская область",
+    "lat": 54.5101087,
+    "lon": 36.2598115
+  },
+  {
+    "id": "LPRalarm_199349",
+    "channel": "LPRalarm",
+    "date": "2026-07-08T11:57:34+00:00",
+    "text": "Севастополь с запада с моря опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97569",
+    "channel": "kupolrussia",
+    "date": "2026-07-08T11:57:46+00:00",
+    "text": "Севастополь с запада с моря\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199350_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-07-08T11:58:30+00:00",
+    "text": "Белгородский район опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_97570_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-07-08T11:58:44+00:00",
+    "text": "Белгородский район\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_97571_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-07-08T11:58:45+00:00",
+    "text": "Белгородский район\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "radarrussiia_80790_Белгородский",
+    "channel": "radarrussiia",
+    "date": "2026-07-08T12:00:34+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
   }
 ]
