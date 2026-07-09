@@ -1,115 +1,5 @@
 [
   {
-    "id": "radarrussiia_80620_Елецкий",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T22:08:15+00:00",
-    "text": "Елецкий район\nЛипецкая область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Елецкий",
-    "region": "Липецкая область",
-    "lat": 52.631157,
-    "lon": 38.57095
-  },
-  {
-    "id": "vrv_radar_71053_Должанский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:09:03+00:00",
-    "text": "Должанский район\nОрловская область \nФиксация от 3 БПЛА",
-    "type": "drone",
-    "location_name": "Должанский",
-    "region": "Орловская область",
-    "lat": 52.0928826,
-    "lon": 37.4888205
-  },
-  {
-    "id": "vrv_radar_71054_Колпнянский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:09:11+00:00",
-    "text": "Колпнянский район\nОрловская область \nФиксация от 5 БПЛА",
-    "type": "drone",
-    "location_name": "Колпнянский",
-    "region": "Орловская область",
-    "lat": 52.2424901,
-    "lon": 37.0479282
-  },
-  {
-    "id": "radarrussiia_80621_Жердевский",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T22:09:21+00:00",
-    "text": "Жердевский район \nТамбовская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Жердевский",
-    "region": "Тамбовская область",
-    "lat": 51.8619928,
-    "lon": 41.5913479
-  },
-  {
-    "id": "vrv_radar_71055_Рамонский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:10:31+00:00",
-    "text": "Рамонский район\nВоронежская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Рамонский",
-    "region": "Воронежская область",
-    "lat": 51.9122923,
-    "lon": 39.1981204
-  },
-  {
-    "id": "vrv_radar_71056_Воронеж",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:10:40+00:00",
-    "text": "Воронеж\nВоронежская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Воронеж",
-    "region": "Воронежская область",
-    "lat": 51.6605982,
-    "lon": 39.2005858
-  },
-  {
-    "id": "locatorru_71250_Большой Лычак",
-    "channel": "locatorru",
-    "date": "2026-07-07T22:10:47+00:00",
-    "text": "Большой Лычак, Волгоградская область - от 10 БПЛА на восток. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Большой Лычак",
-    "region": "Волгоградская область",
-    "lat": 50.104885,
-    "lon": 43.78294
-  },
-  {
-    "id": "vrv_radar_71057_Новоусманский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:10:51+00:00",
-    "text": "Новоусманский район\nВоронежская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Новоусманский",
-    "region": "Воронежская область",
-    "lat": 51.717129,
-    "lon": 39.49049
-  },
-  {
-    "id": "locatorru_71251",
-    "channel": "locatorru",
-    "date": "2026-07-07T22:11:01+00:00",
-    "text": "Саратовская область - опасность по БПЛА от Большой Лычак. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_71058_Острогожский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:11:24+00:00",
-    "text": "Острогожский район\nВоронежская область \nФиксация от 9 БПЛА",
-    "type": "drone",
-    "location_name": "Острогожский",
-    "region": "Воронежская область",
-    "lat": 50.8584609,
-    "lon": 39.0772421
-  },
-  {
     "id": "radarrussiia_80622_Эртильский",
     "channel": "radarrussiia",
     "date": "2026-07-07T22:11:41+00:00",
@@ -21996,6 +21886,116 @@
     "type": "unknown",
     "location_name": null,
     "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_71468",
+    "channel": "locatorru",
+    "date": "2026-07-09T03:01:51+00:00",
+    "text": "Калужская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_71468",
+    "channel": "vrv_radar",
+    "date": "2026-07-09T03:02:04+00:00",
+    "text": "Астраханская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Астраханская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_71469",
+    "channel": "vrv_radar",
+    "date": "2026-07-09T03:05:43+00:00",
+    "text": "Псковская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97696",
+    "channel": "kupolrussia",
+    "date": "2026-07-09T03:10:06+00:00",
+    "text": "Псковская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199509",
+    "channel": "LPRalarm",
+    "date": "2026-07-09T03:10:17+00:00",
+    "text": "Псковская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97697",
+    "channel": "kupolrussia",
+    "date": "2026-07-09T03:10:57+00:00",
+    "text": "Ленинградская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Ленинградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199510",
+    "channel": "LPRalarm",
+    "date": "2026-07-09T03:11:09+00:00",
+    "text": "Ленинградская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Ленинградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_71470",
+    "channel": "vrv_radar",
+    "date": "2026-07-09T03:13:33+00:00",
+    "text": "Калужская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_71471",
+    "channel": "vrv_radar",
+    "date": "2026-07-09T03:15:38+00:00",
+    "text": "Смоленская область\nТверская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_71472",
+    "channel": "vrv_radar",
+    "date": "2026-07-09T03:15:43+00:00",
+    "text": "Московская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Московская область",
     "lat": null,
     "lon": null
   }
