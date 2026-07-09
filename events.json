@@ -1,71 +1,5 @@
 [
   {
-    "id": "radarrussiia_80650_Балашовский",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T22:56:00+00:00",
-    "text": "Лысогорский район\nКалининский район\nКрасноармейский район\nБалашовский район\nСамойловский район\nРомановский район\nСаратовская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Балашовский",
-    "region": "Саратовская область",
-    "lat": 51.4916866,
-    "lon": 43.1611071
-  },
-  {
-    "id": "radarrussiia_80650_Самойловский",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T22:56:00+00:00",
-    "text": "Лысогорский район\nКалининский район\nКрасноармейский район\nБалашовский район\nСамойловский район\nРомановский район\nСаратовская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Самойловский",
-    "region": "Саратовская область",
-    "lat": 51.2494111,
-    "lon": 43.7086216
-  },
-  {
-    "id": "radarrussiia_80650_Романовский",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T22:56:00+00:00",
-    "text": "Лысогорский район\nКалининский район\nКрасноармейский район\nБалашовский район\nСамойловский район\nРомановский район\nСаратовская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Романовский",
-    "region": "Саратовская область",
-    "lat": 51.7804608,
-    "lon": 42.8450392
-  },
-  {
-    "id": "vrv_radar_71094_Анапа",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:56:07+00:00",
-    "text": "Анапа\nКраснодарский край \nПродолжается работа ПВО по БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Анапа",
-    "region": "Краснодарский край",
-    "lat": 44.894272,
-    "lon": 37.316887
-  },
-  {
-    "id": "vrv_radar_71095_Еланский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:57:19+00:00",
-    "text": "Еланский район\nВолгоградская область \nПродолжаются фиксации БПЛА",
-    "type": "drone",
-    "location_name": "Еланский",
-    "region": "Волгоградская область",
-    "lat": 49.5981534,
-    "lon": 42.182768
-  },
-  {
-    "id": "vrv_radar_71096_Славянский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:57:41+00:00",
-    "text": "Славянский район \nКраснодарский край \nМеры безопасности",
-    "type": "alert",
-    "location_name": "Славянский",
-    "region": "Краснодарский край",
-    "lat": 44.6922114,
-    "lon": 40.5186028
-  },
-  {
     "id": "locatorru_71261_Брюховецкий",
     "channel": "locatorru",
     "date": "2026-07-07T22:57:54+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_71486",
+    "channel": "locatorru",
+    "date": "2026-07-09T06:39:30+00:00",
+    "text": "Брянская область, Курская область, Орловская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199539",
+    "channel": "LPRalarm",
+    "date": "2026-07-09T06:40:59+00:00",
+    "text": "В направлении Белгород с Востока от 3-х БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97716",
+    "channel": "kupolrussia",
+    "date": "2026-07-09T06:41:06+00:00",
+    "text": "В направлении Белгород с Востока от 3-х БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_71487",
+    "channel": "locatorru",
+    "date": "2026-07-09T06:43:57+00:00",
+    "text": "Брянская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "type": "missile",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199540",
+    "channel": "LPRalarm",
+    "date": "2026-07-09T06:44:28+00:00",
+    "text": "Брянская область ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97717",
+    "channel": "kupolrussia",
+    "date": "2026-07-09T06:44:39+00:00",
+    "text": "Брянская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
