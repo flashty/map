@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_199123",
-    "channel": "LPRalarm",
-    "date": "2026-07-07T23:11:41+00:00",
-    "text": "Брянская область\nКурская область\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_71268",
-    "channel": "locatorru",
-    "date": "2026-07-07T23:11:50+00:00",
-    "text": "Московская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_80655",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T23:12:07+00:00",
-    "text": "Тульская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "missile",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_71103_Саратов\nЭнгельс",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T23:12:29+00:00",
-    "text": "Саратов\nЭнгельс\nСаратовская область \nРабота ПВО по БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Саратов\nЭнгельс",
-    "region": "Саратовская область",
-    "lat": 51.5173439,
-    "lon": 46.0702917
-  },
-  {
-    "id": "LPRalarm_199124",
-    "channel": "LPRalarm",
-    "date": "2026-07-07T23:13:43+00:00",
-    "text": "Рыково \nХерсонская область РФ \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_97371",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T23:13:49+00:00",
-    "text": "Рыково \nХерсонская область РФ \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_71104",
     "channel": "vrv_radar",
     "date": "2026-07-07T23:14:07+00:00",
@@ -21996,6 +21930,72 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97728",
+    "channel": "kupolrussia",
+    "date": "2026-07-09T08:29:49+00:00",
+    "text": "Саратовская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199550",
+    "channel": "LPRalarm",
+    "date": "2026-07-09T08:29:52+00:00",
+    "text": "Саратовская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199551",
+    "channel": "LPRalarm",
+    "date": "2026-07-09T08:30:30+00:00",
+    "text": "Воронежская область \nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97729",
+    "channel": "kupolrussia",
+    "date": "2026-07-09T08:31:00+00:00",
+    "text": "Воронежская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199552",
+    "channel": "LPRalarm",
+    "date": "2026-07-09T08:35:50+00:00",
+    "text": "Белгородская область отбой ракетной опасности восточные районы",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97730",
+    "channel": "kupolrussia",
+    "date": "2026-07-09T08:36:08+00:00",
+    "text": "Белгородская область отбой ракетной опасности восточные районы",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородская область",
     "lat": null,
     "lon": null
   }
