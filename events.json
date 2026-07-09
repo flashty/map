@@ -1,104 +1,5 @@
 [
   {
-    "id": "locatorru_71252_Лев Толстой",
-    "channel": "locatorru",
-    "date": "2026-07-07T22:13:23+00:00",
-    "text": "Красное, Лебедянь, Лев Толстой, Данков, Чаплыгин и близлежащие, Липецкая область - опасность по БПЛА от Елец.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Лев Толстой",
-    "region": "Липецкая область",
-    "lat": 53.212541,
-    "lon": 39.4477568
-  },
-  {
-    "id": "locatorru_71252_Данков",
-    "channel": "locatorru",
-    "date": "2026-07-07T22:13:23+00:00",
-    "text": "Красное, Лебедянь, Лев Толстой, Данков, Чаплыгин и близлежащие, Липецкая область - опасность по БПЛА от Елец.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Данков",
-    "region": "Липецкая область",
-    "lat": 53.2461921,
-    "lon": 39.1345552
-  },
-  {
-    "id": "radarrussiia_80624_Нехаевский",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T22:13:30+00:00",
-    "text": "Нехаевский район\nВолгоградская область \nФиксация от 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Нехаевский",
-    "region": "Волгоградская область",
-    "lat": 50.3223982,
-    "lon": 41.7408217
-  },
-  {
-    "id": "vrv_radar_71060_Алексеевский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:13:36+00:00",
-    "text": "Алексеевский район\nВолгоградская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Алексеевский",
-    "region": "Волгоградская область",
-    "lat": 50.2225943,
-    "lon": 42.3203313
-  },
-  {
-    "id": "vrv_radar_71061_Серафимовичский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:14:26+00:00",
-    "text": "Серафимовичский район\nВолгоградская область \nЕще фиксация от 4 БПЛА",
-    "type": "drone",
-    "location_name": "Серафимовичский",
-    "region": "Волгоградская область",
-    "lat": 49.4953466,
-    "lon": 42.7517542
-  },
-  {
-    "id": "vrv_radar_71062_Фроловский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:15:07+00:00",
-    "text": "Фроловский район \nВолгоградская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Фроловский",
-    "region": "Волгоградская область",
-    "lat": 49.8599222,
-    "lon": 43.8082806
-  },
-  {
-    "id": "radarrussiia_80625_Алексеевский",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T22:15:16+00:00",
-    "text": "Алексеевский район\nСерафимовичский район\nФроловский район \nВолгоградская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Алексеевский",
-    "region": "Волгоградская область",
-    "lat": 50.2225943,
-    "lon": 42.3203313
-  },
-  {
-    "id": "radarrussiia_80625_Серафимовичский",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T22:15:16+00:00",
-    "text": "Алексеевский район\nСерафимовичский район\nФроловский район \nВолгоградская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Серафимовичский",
-    "region": "Волгоградская область",
-    "lat": 49.4953466,
-    "lon": 42.7517542
-  },
-  {
-    "id": "radarrussiia_80625_Фроловский",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T22:15:16+00:00",
-    "text": "Алексеевский район\nСерафимовичский район\nФроловский район \nВолгоградская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Фроловский",
-    "region": "Волгоградская область",
-    "lat": 49.8599222,
-    "lon": 43.8082806
-  },
-  {
     "id": "vrv_radar_71063",
     "channel": "vrv_radar",
     "date": "2026-07-07T22:15:35+00:00",
@@ -21996,6 +21897,105 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199512",
+    "channel": "LPRalarm",
+    "date": "2026-07-09T03:33:50+00:00",
+    "text": "Великая Новосёлка и близлежащие ракетная тревога",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97698",
+    "channel": "kupolrussia",
+    "date": "2026-07-09T03:33:56+00:00",
+    "text": "Великая Новосёлка и близлежащие ракетная тревога",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199513",
+    "channel": "LPRalarm",
+    "date": "2026-07-09T03:36:18+00:00",
+    "text": "Великая Новосёлка ДНР и близлежащие ракетная тревога повторно",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97699",
+    "channel": "kupolrussia",
+    "date": "2026-07-09T03:36:22+00:00",
+    "text": "Великая Новосёлка ДНР и близлежащие ракетная тревога повторно",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199514",
+    "channel": "LPRalarm",
+    "date": "2026-07-09T03:37:09+00:00",
+    "text": "Угледар ДНР и близлежащие ракетная тревога",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97700",
+    "channel": "kupolrussia",
+    "date": "2026-07-09T03:37:13+00:00",
+    "text": "Угледар ДНР и близлежащие ракетная тревога",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_80904",
+    "channel": "radarrussiia",
+    "date": "2026-07-09T03:45:48+00:00",
+    "text": "Ставропольский край \nРостовская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_80905",
+    "channel": "radarrussiia",
+    "date": "2026-07-09T03:47:09+00:00",
+    "text": "Орловская область \nАстраханская область \nПсковская область\nКалужская область \nСмоленская область\nТверская область\nМосковская область \nТамбовская область \nНовгородская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_80906",
+    "channel": "radarrussiia",
+    "date": "2026-07-09T03:48:32+00:00",
+    "text": "Вологодская область\nЯрославская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Вологодская область",
     "lat": null,
     "lon": null
   }
