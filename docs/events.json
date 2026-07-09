@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_97344",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T21:09:37+00:00",
-    "text": "Липецкая область\nРязанская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_97345",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T21:09:56+00:00",
-    "text": "Московская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_97346",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T21:10:59+00:00",
-    "text": "Курская область\nБелгородская область\nВоронежская область\nТревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_97347",
     "channel": "kupolrussia",
     "date": "2026-07-07T21:15:16+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Воронежская область",
     "lat": 49.797172,
     "lon": 39.7513457
+  },
+  {
+    "id": "locatorru_71454",
+    "channel": "locatorru",
+    "date": "2026-07-09T02:07:46+00:00",
+    "text": "Псковская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_71455",
+    "channel": "locatorru",
+    "date": "2026-07-09T02:11:21+00:00",
+    "text": "Белгородская область, Воронежская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_71460",
+    "channel": "vrv_radar",
+    "date": "2026-07-09T02:11:38+00:00",
+    "text": "Воронежская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
   }
 ]
