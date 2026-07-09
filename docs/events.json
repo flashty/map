@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_97334_Луганск",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T20:51:01+00:00",
-    "text": "Луганск, Краснодон и близлежащие, тревога по БпЛА\nКаменск-Шахтинский и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Луганск",
-    "region": null,
-    "lat": 53.622169,
-    "lon": 77.599037
-  },
-  {
-    "id": "kupolrussia_97335",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T20:53:42+00:00",
-    "text": "Севастополь\nВнимание по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_97336",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T20:54:24+00:00",
-    "text": "Бердянский район и близлежащие \nТревога по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_97337",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T20:55:13+00:00",
-    "text": "Ещё фиксации БПЛА в направлении Луганск \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_97338",
     "channel": "kupolrussia",
     "date": "2026-07-07T20:55:15+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Московская область",
     "lat": 56.7362705,
     "lon": 37.1623696
+  },
+  {
+    "id": "LPRalarm_199501",
+    "channel": "LPRalarm",
+    "date": "2026-07-09T01:33:26+00:00",
+    "text": "Керчь и близлежащие, тревога по БПЛА, повторно\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_71453",
+    "channel": "locatorru",
+    "date": "2026-07-09T01:36:57+00:00",
+    "text": "Пензенская область, Саратовская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_71458",
+    "channel": "vrv_radar",
+    "date": "2026-07-09T01:37:00+00:00",
+    "text": "Пензенская область\nСаратовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_80897",
+    "channel": "radarrussiia",
+    "date": "2026-07-09T01:41:01+00:00",
+    "text": "Пензенская область\nСаратовская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
   }
 ]
