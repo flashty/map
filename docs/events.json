@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_97338",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T20:55:15+00:00",
-    "text": "Керчь\nМеры предосторожности",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_97339_Обоянский",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T20:57:05+00:00",
-    "text": "Обоянский район \nКурская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Обоянский",
-    "region": "Курская область",
-    "lat": 51.2346254,
-    "lon": 36.0784146
-  },
-  {
-    "id": "kupolrussia_97340",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T21:04:16+00:00",
-    "text": "Кача\nТревога по БПЛА со стороны Бахчисарая",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_97341",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T21:04:54+00:00",
-    "text": "Севастополь\nтревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_97342",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T21:05:31+00:00",
-    "text": "Балаклава\nтревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_97343",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T21:07:23+00:00",
-    "text": "Угловое\nКача\nСеверная сторона\nЛюбимовка\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_97344",
     "channel": "kupolrussia",
     "date": "2026-07-07T21:09:37+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Пензенская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_199502",
+    "channel": "LPRalarm",
+    "date": "2026-07-09T02:00:29+00:00",
+    "text": "Воронежская область отбой опасности по БПЛА\nОставляем режим повышенного внимания",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_71459_Богучарский",
+    "channel": "vrv_radar",
+    "date": "2026-07-09T02:00:48+00:00",
+    "text": "Богучарский район\nКантемировский район \nВоронежская область \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": "Богучарский",
+    "region": "Воронежская область",
+    "lat": 50.4979916,
+    "lon": 39.6363652
+  },
+  {
+    "id": "vrv_radar_71459_Кантемировский",
+    "channel": "vrv_radar",
+    "date": "2026-07-09T02:00:48+00:00",
+    "text": "Богучарский район\nКантемировский район \nВоронежская область \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": "Кантемировский",
+    "region": "Воронежская область",
+    "lat": 49.797172,
+    "lon": 39.7513457
+  },
+  {
+    "id": "kupolrussia_97689",
+    "channel": "kupolrussia",
+    "date": "2026-07-09T02:01:03+00:00",
+    "text": "Воронежская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_80898_Богучарский",
+    "channel": "radarrussiia",
+    "date": "2026-07-09T02:01:05+00:00",
+    "text": "Богучарский район\nКантемировский район \nВоронежская область \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": "Богучарский",
+    "region": "Воронежская область",
+    "lat": 50.4979916,
+    "lon": 39.6363652
+  },
+  {
+    "id": "radarrussiia_80898_Кантемировский",
+    "channel": "radarrussiia",
+    "date": "2026-07-09T02:01:05+00:00",
+    "text": "Богучарский район\nКантемировский район \nВоронежская область \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": "Кантемировский",
+    "region": "Воронежская область",
+    "lat": 49.797172,
+    "lon": 39.7513457
   }
 ]
