@@ -1,4 +1,35 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-09T09:28:48+00:00",
+        "last_updated": "2026-07-09T10:01:53+00:00",
+        "path_labels": [
+          "Белевский",
+          "Дубенский",
+          "Дубенский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.1633658,
+            53.761018
+          ],
+          [
+            36.9480547,
+            54.1486417
+          ],
+          [
+            36.9480547,
+            54.1486417
+          ]
+        ]
+      }
+    }
+  ]
 }
