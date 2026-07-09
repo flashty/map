@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_71073_Становлянский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:38:04+00:00",
-    "text": "Становлянский район\nЛипецкая область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Становлянский",
-    "region": "Липецкая область",
-    "lat": 52.8493616,
-    "lon": 38.3195659
-  },
-  {
-    "id": "vrv_radar_71074_Гавриловский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:38:24+00:00",
-    "text": "Гавриловский район\nТамбовская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Гавриловский",
-    "region": "Тамбовская область",
-    "lat": 52.9418826,
-    "lon": 42.6831095
-  },
-  {
-    "id": "vrv_radar_71075_Краснинский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:38:43+00:00",
-    "text": "Краснинский район\nЛипецкая область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Краснинский",
-    "region": "Липецкая область",
-    "lat": 52.855247,
-    "lon": 38.788101
-  },
-  {
-    "id": "radarrussiia_80635_Становлянский",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T22:39:19+00:00",
-    "text": "Становлянский район\nКраснинский район\nЛипецкая область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Становлянский",
-    "region": "Липецкая область",
-    "lat": 52.8493616,
-    "lon": 38.3195659
-  },
-  {
     "id": "radarrussiia_80635_Краснинский",
     "channel": "radarrussiia",
     "date": "2026-07-07T22:39:19+00:00",
@@ -21996,6 +21952,50 @@
     "type": "alert",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97706",
+    "channel": "kupolrussia",
+    "date": "2026-07-09T05:47:30+00:00",
+    "text": "Вологодская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Вологодская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199522",
+    "channel": "LPRalarm",
+    "date": "2026-07-09T05:47:33+00:00",
+    "text": "Вологодская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Вологодская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97707",
+    "channel": "kupolrussia",
+    "date": "2026-07-09T05:51:10+00:00",
+    "text": "Ярославская область \nНовгородская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199523",
+    "channel": "LPRalarm",
+    "date": "2026-07-09T05:51:13+00:00",
+    "text": "Ярославская область \nНовгородская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Ярославская область",
     "lat": null,
     "lon": null
   }
