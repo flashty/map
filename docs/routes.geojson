@@ -1,35 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-09T06:07:01+00:00",
-        "last_updated": "2026-07-09T06:19:19+00:00",
-        "path_labels": [
-          "Вейделевском",
-          "Вейделевский",
-          "Вейделевском"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.4448028,
-            50.1495504
-          ],
-          [
-            38.5862881,
-            50.1834343
-          ],
-          [
-            38.4448028,
-            50.1495504
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
