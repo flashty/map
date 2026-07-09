@@ -1,115 +1,5 @@
 [
   {
-    "id": "vrv_radar_71048_Юрьев-Польский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:06:08+00:00",
-    "text": "Юрьев-Польский район\nВладимирская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Юрьев-Польский",
-    "region": "Владимирская область",
-    "lat": 56.4971948,
-    "lon": 39.67864
-  },
-  {
-    "id": "radarrussiia_80617_Спасский",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T22:06:22+00:00",
-    "text": "Спасский район\nРязанская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Спасский",
-    "region": "Рязанская область",
-    "lat": 54.5079588,
-    "lon": 40.5809989
-  },
-  {
-    "id": "vrv_radar_71049",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:06:34+00:00",
-    "text": "Московская область \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_80618",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T22:06:50+00:00",
-    "text": "Московская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "missile",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_71050_Елецкий",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:07:10+00:00",
-    "text": "Елецкий район\nЛипецкая область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Елецкий",
-    "region": "Липецкая область",
-    "lat": 52.631157,
-    "lon": 38.57095
-  },
-  {
-    "id": "radarrussiia_80619_Юрьев-Польский",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T22:07:21+00:00",
-    "text": "Юрьев-Польский район\nВладимирская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Юрьев-Польский",
-    "region": "Владимирская область",
-    "lat": 56.4971948,
-    "lon": 39.67864
-  },
-  {
-    "id": "vrv_radar_71051_Жердевский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:07:55+00:00",
-    "text": "Жердевский район \nТамбовская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Жердевский",
-    "region": "Тамбовская область",
-    "lat": 51.8619928,
-    "lon": 41.5913479
-  },
-  {
-    "id": "kupolrussia_97364",
-    "channel": "kupolrussia",
-    "date": "2026-07-07T22:08:04+00:00",
-    "text": "Московская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_71052_Эртильский",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T22:08:06+00:00",
-    "text": "Эртильский район\nВоронежская область \nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Эртильский",
-    "region": "Воронежская область",
-    "lat": 51.7502498,
-    "lon": 40.6662411
-  },
-  {
-    "id": "LPRalarm_199117",
-    "channel": "LPRalarm",
-    "date": "2026-07-07T22:08:12+00:00",
-    "text": "Московская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_80620_Елецкий",
     "channel": "radarrussiia",
     "date": "2026-07-07T22:08:15+00:00",
@@ -21996,6 +21886,116 @@
     "type": "unknown",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199507",
+    "channel": "LPRalarm",
+    "date": "2026-07-09T02:47:37+00:00",
+    "text": "В. Покровка, Старобельский район, тревога по БПЛА, возможно Хорнет\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97694",
+    "channel": "kupolrussia",
+    "date": "2026-07-09T02:48:06+00:00",
+    "text": "В. Покровка, Старобельский район, тревога по БПЛА, возможно Хорнет\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_71464",
+    "channel": "locatorru",
+    "date": "2026-07-09T02:49:12+00:00",
+    "text": "Ростовская область, Ставропольский край, Астраханская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_71465",
+    "channel": "vrv_radar",
+    "date": "2026-07-09T02:49:34+00:00",
+    "text": "Ставропольский край \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_71466",
+    "channel": "vrv_radar",
+    "date": "2026-07-09T02:51:50+00:00",
+    "text": "Ростовская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_71465",
+    "channel": "locatorru",
+    "date": "2026-07-09T02:54:17+00:00",
+    "text": "Уважаемые наши гражданские читатели, при фиксациях БПЛА, сбитиях сообщайте в нашу обратную связь — @locatorrubot",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_71467",
+    "channel": "vrv_radar",
+    "date": "2026-07-09T02:54:22+00:00",
+    "text": "Орловская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_71467",
+    "channel": "locatorru",
+    "date": "2026-07-09T02:55:06+00:00",
+    "text": "Тульская область, Орловская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97695",
+    "channel": "kupolrussia",
+    "date": "2026-07-09T02:58:47+00:00",
+    "text": "Калужская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199508",
+    "channel": "LPRalarm",
+    "date": "2026-07-09T02:58:56+00:00",
+    "text": "Калужская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Калужская область",
     "lat": null,
     "lon": null
   }
