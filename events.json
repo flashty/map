@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_71104",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T23:14:07+00:00",
-    "text": "Новомосковск \nТульская область \nРабота ПВО по БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_80656",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T23:14:20+00:00",
-    "text": "Новомосковск \nТульская область \nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_71269_Славянский",
-    "channel": "locatorru",
-    "date": "2026-07-07T23:14:40+00:00",
-    "text": "Славянский район, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Славянский",
-    "region": "Краснодарский край",
-    "lat": 44.6922114,
-    "lon": 40.5186028
-  },
-  {
-    "id": "vrv_radar_71105_Саратов\nЭнгельс",
-    "channel": "vrv_radar",
-    "date": "2026-07-07T23:14:46+00:00",
-    "text": "Саратов\nЭнгельс\nСаратовская область \nПродолжается работа ПВО по БПЛА\nМеры безопасности\nЕще фиксации",
-    "type": "drone",
-    "location_name": "Саратов\nЭнгельс",
-    "region": "Саратовская область",
-    "lat": 51.5173439,
-    "lon": 46.0702917
-  },
-  {
-    "id": "radarrussiia_80657",
-    "channel": "radarrussiia",
-    "date": "2026-07-07T23:14:50+00:00",
-    "text": "Московская область \nОрловская область \nКурская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "missile",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_71270_Саратов",
-    "channel": "locatorru",
-    "date": "2026-07-07T23:15:16+00:00",
-    "text": "Саратов, Энгельс - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Саратов",
-    "region": null,
-    "lat": 51.530018,
-    "lon": 46.034683
-  },
-  {
     "id": "locatorru_71271_Саратов",
     "channel": "locatorru",
     "date": "2026-07-07T23:16:58+00:00",
@@ -21996,6 +21930,72 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199553",
+    "channel": "LPRalarm",
+    "date": "2026-07-09T08:39:36+00:00",
+    "text": "Славянск запуски РСЗО от Семеновки",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199554",
+    "channel": "LPRalarm",
+    "date": "2026-07-09T08:41:15+00:00",
+    "text": "Суземка и близлежащие опасность по БПЛА \nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97731",
+    "channel": "kupolrussia",
+    "date": "2026-07-09T08:41:36+00:00",
+    "text": "Славянск запуски РСЗО от Семеновки",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_97732",
+    "channel": "kupolrussia",
+    "date": "2026-07-09T08:41:47+00:00",
+    "text": "Суземка и близлежащие \nБрянская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_71496",
+    "channel": "locatorru",
+    "date": "2026-07-09T08:42:32+00:00",
+    "text": "Опасность по БПЛА сохраняется в ранее объявленных регионах. Берегите себя и своих близких! \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_199555",
+    "channel": "LPRalarm",
+    "date": "2026-07-09T08:44:23+00:00",
+    "text": "Республика Крым \n❤️❤️❤️",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
