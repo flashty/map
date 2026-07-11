@@ -1,4 +1,35 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-11T09:45:24+00:00",
+        "last_updated": "2026-07-11T09:59:27+00:00",
+        "path_labels": [
+          "Ракитянский",
+          "Борисовский",
+          "Борисовский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.9006134,
+            50.8380326
+          ],
+          [
+            36.011682,
+            50.5951942
+          ],
+          [
+            36.011682,
+            50.5951942
+          ]
+        ]
+      }
+    }
+  ]
 }
