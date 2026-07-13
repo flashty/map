@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_201349",
-    "channel": "LPRalarm",
-    "date": "2026-07-12T22:20:52+00:00",
-    "text": "Балаклава\nмеры предосторожности\nтревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_201350",
-    "channel": "LPRalarm",
-    "date": "2026-07-12T22:21:07+00:00",
-    "text": "Чонгар\nВозможно пролет ракеты в сторону Керчи",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_99334",
-    "channel": "kupolrussia",
-    "date": "2026-07-12T22:21:09+00:00",
-    "text": "Чонгар\nВозможно пролет ракеты в сторону Керчи",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_72460_Калуга",
-    "channel": "vrv_radar",
-    "date": "2026-07-12T22:21:11+00:00",
-    "text": "Калуга\nКалужская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Калуга",
-    "region": "Калужская область",
-    "lat": 54.5101087,
-    "lon": 36.2598115
-  },
-  {
-    "id": "vrv_radar_72461_Шпаковский",
-    "channel": "vrv_radar",
-    "date": "2026-07-12T22:22:02+00:00",
-    "text": "Шпаковский район\nСтавропольский край \nМеры безопасности",
-    "type": "alert",
-    "location_name": "Шпаковский",
-    "region": "Ставропольский край",
-    "lat": 45.0451083,
-    "lon": 41.5668127
-  },
-  {
-    "id": "radarrussiia_81558",
-    "channel": "radarrussiia",
-    "date": "2026-07-12T22:22:11+00:00",
-    "text": "Ставропольский край \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_81559_Шпаковский",
     "channel": "radarrussiia",
     "date": "2026-07-12T22:22:43+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Саратовская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_201810",
+    "channel": "LPRalarm",
+    "date": "2026-07-13T21:38:02+00:00",
+    "text": "Керчь и близлежащие, тревога по БпЛА сохраняется!",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_99756",
+    "channel": "kupolrussia",
+    "date": "2026-07-13T21:38:06+00:00",
+    "text": "Керчь и близлежащие, тревога по БпЛА сохраняется!",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_72242_Славянский",
+    "channel": "locatorru",
+    "date": "2026-07-13T21:42:27+00:00",
+    "text": "Прорвенский, Славянский район, Краснодарский край - пролёты БПЛА на юг, юго-восток. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Славянский",
+    "region": "Краснодарский край",
+    "lat": 44.6922114,
+    "lon": 40.5186028
+  },
+  {
+    "id": "locatorru_72242_Прорвенский",
+    "channel": "locatorru",
+    "date": "2026-07-13T21:42:27+00:00",
+    "text": "Прорвенский, Славянский район, Краснодарский край - пролёты БПЛА на юг, юго-восток. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Прорвенский",
+    "region": "Краснодарский край",
+    "lat": 45.5281029,
+    "lon": 37.7040263
+  },
+  {
+    "id": "locatorru_72243_Липецкий",
+    "channel": "locatorru",
+    "date": "2026-07-13T21:44:48+00:00",
+    "text": "Кулешовка, Липецкий район, Липецкая область - пролёт БПЛА на Липецк. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Липецкий",
+    "region": "Липецкая область",
+    "lat": 52.6469042,
+    "lon": 39.4733083
+  },
+  {
+    "id": "locatorru_72243_Кулешовка",
+    "channel": "locatorru",
+    "date": "2026-07-13T21:44:48+00:00",
+    "text": "Кулешовка, Липецкий район, Липецкая область - пролёт БПЛА на Липецк. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Кулешовка",
+    "region": "Липецкая область",
+    "lat": 52.599033,
+    "lon": 39.362431
   }
 ]
