@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_201534",
-    "channel": "LPRalarm",
-    "date": "2026-07-13T09:26:16+00:00",
-    "text": "Белая Берёзка обстрел",
-    "type": "shelling",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_99493",
-    "channel": "kupolrussia",
-    "date": "2026-07-13T09:26:32+00:00",
-    "text": "Старобельск и близлежащие\n Направление блокпост\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_201535",
-    "channel": "LPRalarm",
-    "date": "2026-07-13T09:27:24+00:00",
-    "text": "ЛДНР, Запорожская область РФ, Харьковская область РФ, Белгородская область авиационная ракетная бомбовая опасность. От Черкассы самолёты в направлении",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_99494",
-    "channel": "kupolrussia",
-    "date": "2026-07-13T09:27:38+00:00",
-    "text": "ЛДНР, Запорожская область РФ, Харьковская область РФ, Белгородская область\nОт Черкассы самолёты в направлении\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_201536",
-    "channel": "LPRalarm",
-    "date": "2026-07-13T09:29:02+00:00",
-    "text": "Керченский пролив с северо-запада тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_99495",
-    "channel": "kupolrussia",
-    "date": "2026-07-13T09:29:51+00:00",
-    "text": "Керченский пролив с северо-запада\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_72600",
-    "channel": "vrv_radar",
-    "date": "2026-07-13T09:30:26+00:00",
-    "text": "Калужская область \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_81652",
-    "channel": "radarrussiia",
-    "date": "2026-07-13T09:31:00+00:00",
-    "text": "Калужская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "missile",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_99496",
     "channel": "kupolrussia",
     "date": "2026-07-13T09:31:15+00:00",
@@ -21996,6 +21908,94 @@
     "type": "missile",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_81812",
+    "channel": "radarrussiia",
+    "date": "2026-07-14T07:16:05+00:00",
+    "text": "Ростовская область\nОтбой ракетной опасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_72889",
+    "channel": "vrv_radar",
+    "date": "2026-07-14T07:16:10+00:00",
+    "text": "Воронежская область\nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_81813",
+    "channel": "radarrussiia",
+    "date": "2026-07-14T07:16:59+00:00",
+    "text": "Воронежская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "missile",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202046",
+    "channel": "LPRalarm",
+    "date": "2026-07-14T07:18:46+00:00",
+    "text": "Селидово ДНР и на юг тревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_99922",
+    "channel": "kupolrussia",
+    "date": "2026-07-14T07:18:53+00:00",
+    "text": "Селидово ДНР и на юг тревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_72315",
+    "channel": "locatorru",
+    "date": "2026-07-14T07:19:06+00:00",
+    "text": "Отбой ракетной опасности! Опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_72890",
+    "channel": "vrv_radar",
+    "date": "2026-07-14T07:22:04+00:00",
+    "text": "Воронежская область\nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_81814",
+    "channel": "radarrussiia",
+    "date": "2026-07-14T07:22:36+00:00",
+    "text": "Воронежская область\nОтбой ракетной опасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
     "lat": null,
     "lon": null
   }
