@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_201756",
-    "channel": "LPRalarm",
-    "date": "2026-07-13T20:12:00+00:00",
-    "text": "Саратовская область \nПовторно\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_72728_Орел",
-    "channel": "vrv_radar",
-    "date": "2026-07-13T20:13:26+00:00",
-    "text": "Орел\nОрловская область \nЕще фиксация БПЛА",
-    "type": "drone",
-    "location_name": "Орел",
-    "region": "Орловская область",
-    "lat": 52.9709262,
-    "lon": 36.0642127
-  },
-  {
-    "id": "locatorru_72218_Венёв",
-    "channel": "locatorru",
-    "date": "2026-07-13T20:13:55+00:00",
-    "text": "Венёв, Метростроевский, Мордовес, Тульская область - опасность по БПЛА и на север. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Венёв",
-    "region": "Тульская область",
-    "lat": 54.3504,
-    "lon": 38.2656
-  },
-  {
-    "id": "locatorru_72218_Метростроевский",
-    "channel": "locatorru",
-    "date": "2026-07-13T20:13:55+00:00",
-    "text": "Венёв, Метростроевский, Мордовес, Тульская область - опасность по БПЛА и на север. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Метростроевский",
-    "region": "Тульская область",
-    "lat": 54.4042807,
-    "lon": 38.2027264
-  },
-  {
     "id": "LPRalarm_201757",
     "channel": "LPRalarm",
     "date": "2026-07-13T20:14:41+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202290",
+    "channel": "LPRalarm",
+    "date": "2026-07-14T20:39:31+00:00",
+    "text": "Лисичанск и далее на восток\nТревога по БПЛА\nЛНр",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202291",
+    "channel": "LPRalarm",
+    "date": "2026-07-14T20:39:51+00:00",
+    "text": "От Лисичанска, ЛНР\nНа восток\nТревога по группе БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_73026",
+    "channel": "vrv_radar",
+    "date": "2026-07-14T20:40:48+00:00",
+    "text": "Липецкая область \nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_81900",
+    "channel": "radarrussiia",
+    "date": "2026-07-14T20:41:13+00:00",
+    "text": "Липецкая область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "missile",
+    "location_name": null,
+    "region": "Липецкая область",
     "lat": null,
     "lon": null
   }
