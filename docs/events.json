@@ -1,71 +1,5 @@
 [
   {
-    "id": "locatorru_72222_Милютинский",
-    "channel": "locatorru",
-    "date": "2026-07-13T20:33:45+00:00",
-    "text": "Миллеровский район, Чертковский район, Тарасовский район, Верхнедонской район, Кашарский район, Шолоховский район, Боковский район, Милютинский район, Ростовская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Милютинский",
-    "region": "Ростовская область",
-    "lat": 48.7280222,
-    "lon": 41.6400802
-  },
-  {
-    "id": "vrv_radar_72739",
-    "channel": "vrv_radar",
-    "date": "2026-07-13T20:33:57+00:00",
-    "text": "ГО Домодедово \nМосковская область \nРабота ПВО по БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_201770_Приморск",
-    "channel": "LPRalarm",
-    "date": "2026-07-13T20:34:50+00:00",
-    "text": "Приморск, очень много БпЛА в море",
-    "type": "drone",
-    "location_name": "Приморск",
-    "region": null,
-    "lat": 60.366665,
-    "lon": 28.616673
-  },
-  {
-    "id": "vrv_radar_72740_Рязань",
-    "channel": "vrv_radar",
-    "date": "2026-07-13T20:34:52+00:00",
-    "text": "Рязань\nРязанская область \nРабота ПВО по БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Рязань",
-    "region": "Рязанская область",
-    "lat": 54.6295687,
-    "lon": 39.7425039
-  },
-  {
-    "id": "kupolrussia_99719_Приморск",
-    "channel": "kupolrussia",
-    "date": "2026-07-13T20:34:56+00:00",
-    "text": "Приморск, очень много БпЛА в море",
-    "type": "drone",
-    "location_name": "Приморск",
-    "region": null,
-    "lat": 60.366665,
-    "lon": 28.616673
-  },
-  {
-    "id": "vrv_radar_72741_Рязанский",
-    "channel": "vrv_radar",
-    "date": "2026-07-13T20:35:08+00:00",
-    "text": "Рязанский район\nРязанская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Рязанский",
-    "region": "Рязанская область",
-    "lat": 54.6295687,
-    "lon": 39.7425039
-  },
-  {
     "id": "locatorru_72223_Крымск",
     "channel": "locatorru",
     "date": "2026-07-13T20:35:22+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100159",
+    "channel": "kupolrussia",
+    "date": "2026-07-14T22:15:56+00:00",
+    "text": "Мариуполь и близлежащие\nТревога по БПЛА\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202320",
+    "channel": "LPRalarm",
+    "date": "2026-07-14T22:24:28+00:00",
+    "text": "Анапа и близлежащие\nТревога по БПЛА\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100160",
+    "channel": "kupolrussia",
+    "date": "2026-07-14T22:24:50+00:00",
+    "text": "Анапа и близлежащие\nТревога по БПЛА\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_73033",
+    "channel": "vrv_radar",
+    "date": "2026-07-14T22:30:07+00:00",
+    "text": "Анапа и близлежащие\nКраснодарский край\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202321",
+    "channel": "LPRalarm",
+    "date": "2026-07-14T22:30:43+00:00",
+    "text": "Тамань и близлежащие\nТревога по БПЛА\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100161",
+    "channel": "kupolrussia",
+    "date": "2026-07-14T22:31:06+00:00",
+    "text": "Тамань и близлежащие\nТревога по БПЛА\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
