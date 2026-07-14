@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_72551",
-    "channel": "vrv_radar",
-    "date": "2026-07-13T02:02:00+00:00",
-    "text": "ГО Одинцово \nМосковская область \nРабота ПВО по БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_72552_Истра",
-    "channel": "vrv_radar",
-    "date": "2026-07-13T02:02:07+00:00",
-    "text": "МО Истра\nМосковская область \nРабота ПВО по БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Истра",
-    "region": "Московская область",
-    "lat": 55.9145993,
-    "lon": 36.8595482
-  },
-  {
-    "id": "radarrussiia_81618_Истра",
-    "channel": "radarrussiia",
-    "date": "2026-07-13T02:02:26+00:00",
-    "text": "ГО Одинцово \nМО Истра\nМосковская область \nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Истра",
-    "region": "Московская область",
-    "lat": 55.9145993,
-    "lon": 36.8595482
-  },
-  {
-    "id": "vrv_radar_72553_Коломна",
-    "channel": "vrv_radar",
-    "date": "2026-07-13T02:02:32+00:00",
-    "text": "ГО Коломна\nМосковская область \nРабота ПВО по БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Коломна",
-    "region": "Московская область",
-    "lat": 55.0938743,
-    "lon": 38.7670121
-  },
-  {
-    "id": "radarrussiia_81619_Коломна",
-    "channel": "radarrussiia",
-    "date": "2026-07-13T02:02:49+00:00",
-    "text": "ГО Коломна\nМосковская область \nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Коломна",
-    "region": "Московская область",
-    "lat": 55.0938743,
-    "lon": 38.7670121
-  },
-  {
-    "id": "vrv_radar_72554",
-    "channel": "vrv_radar",
-    "date": "2026-07-13T02:05:11+00:00",
-    "text": "МО Волоколамск \nМосковская область \nРабота ПВО по БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_81620",
     "channel": "radarrussiia",
     "date": "2026-07-13T02:05:40+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Тульская область",
     "lat": 54.1930321,
     "lon": 37.61754
+  },
+  {
+    "id": "vrv_radar_72840_Крымский",
+    "channel": "vrv_radar",
+    "date": "2026-07-14T03:18:15+00:00",
+    "text": "Крымский район\nКраснодарский край\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Крымский",
+    "region": "Краснодарский край",
+    "lat": 44.9624541,
+    "lon": 37.896802
+  },
+  {
+    "id": "LPRalarm_201941",
+    "channel": "LPRalarm",
+    "date": "2026-07-14T03:21:12+00:00",
+    "text": "Курская область \nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_99838",
+    "channel": "kupolrussia",
+    "date": "2026-07-14T03:21:45+00:00",
+    "text": "Курская область \nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_201942",
+    "channel": "LPRalarm",
+    "date": "2026-07-14T03:27:42+00:00",
+    "text": "Воронежская область, отбой опасности по БпЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_99839",
+    "channel": "kupolrussia",
+    "date": "2026-07-14T03:27:46+00:00",
+    "text": "Воронежская область, отбой опасности по БпЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_72841",
+    "channel": "vrv_radar",
+    "date": "2026-07-14T03:27:54+00:00",
+    "text": "Воронежская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
   }
 ]
