@@ -1,4 +1,60 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-14T23:02:38+00:00",
+        "last_updated": "2026-07-14T23:36:15+00:00",
+        "path_labels": [
+          "Азовский",
+          "Азовский",
+          "Таганрог"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.2767155,
+            46.8996123
+          ],
+          [
+            39.2767155,
+            46.8996123
+          ],
+          [
+            38.928362,
+            47.215495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-14T23:03:37+00:00",
+        "last_updated": "2026-07-14T23:36:15+00:00",
+        "path_labels": [
+          "Дону",
+          "Семибалки"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.7249086,
+            47.2610441
+          ],
+          [
+            39.046415,
+            47.0060975
+          ]
+        ]
+      }
+    }
+  ]
 }
