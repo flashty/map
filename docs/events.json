@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_201767_Ильский",
-    "channel": "LPRalarm",
-    "date": "2026-07-13T20:29:21+00:00",
-    "text": "Славянск на Кубани, Ильский, Афипский, Краснодар в направлении от Азовского моря фиксации БПЛА",
-    "type": "drone",
-    "location_name": "Ильский",
-    "region": null,
-    "lat": 44.8458544,
-    "lon": 38.5608255
-  },
-  {
-    "id": "LPRalarm_201767_Афипский",
-    "channel": "LPRalarm",
-    "date": "2026-07-13T20:29:21+00:00",
-    "text": "Славянск на Кубани, Ильский, Афипский, Краснодар в направлении от Азовского моря фиксации БПЛА",
-    "type": "drone",
-    "location_name": "Афипский",
-    "region": null,
-    "lat": 44.9040435,
-    "lon": 38.8426821
-  },
-  {
-    "id": "LPRalarm_201768",
-    "channel": "LPRalarm",
-    "date": "2026-07-13T20:29:39+00:00",
-    "text": "Запорожская область РФ \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_99717",
-    "channel": "kupolrussia",
-    "date": "2026-07-13T20:29:46+00:00",
-    "text": "Запорожская область РФ \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_201769",
-    "channel": "LPRalarm",
-    "date": "2026-07-13T20:30:19+00:00",
-    "text": "От Приморска, в сторону Бердянск\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_99718",
-    "channel": "kupolrussia",
-    "date": "2026-07-13T20:30:47+00:00",
-    "text": "От Приморска, в сторону Бердянск\nТревога по БПЛА\n\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_81729_Орловский",
     "channel": "radarrussiia",
     "date": "2026-07-13T20:31:27+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_81904",
+    "channel": "radarrussiia",
+    "date": "2026-07-14T21:34:04+00:00",
+    "text": "Тамбовская область \nОтбой ракетной опасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202307",
+    "channel": "LPRalarm",
+    "date": "2026-07-14T21:35:01+00:00",
+    "text": "Джанкойский район\nТревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100153",
+    "channel": "kupolrussia",
+    "date": "2026-07-14T21:35:23+00:00",
+    "text": "Джанкойский район\nТревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202308",
+    "channel": "LPRalarm",
+    "date": "2026-07-14T21:35:58+00:00",
+    "text": "Крымск и близлежащие\nТревога по БПЛА\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100154",
+    "channel": "kupolrussia",
+    "date": "2026-07-14T21:36:24+00:00",
+    "text": "Крымск и близлежащие\nТревога по БПЛА\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202309",
+    "channel": "LPRalarm",
+    "date": "2026-07-14T21:38:25+00:00",
+    "text": "Пуски БПЛА от Николаевской области",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
