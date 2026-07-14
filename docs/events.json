@@ -1,60 +1,5 @@
 [
   {
-    "id": "locatorru_72215_Ильский",
-    "channel": "locatorru",
-    "date": "2026-07-13T20:08:53+00:00",
-    "text": "НПЗ Ильский, НПЗ Афипский, пгт.Северская и близлежащие, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Ильский",
-    "region": "Краснодарский край",
-    "lat": 44.8458544,
-    "lon": 38.5608255
-  },
-  {
-    "id": "locatorru_72215_Афипский",
-    "channel": "locatorru",
-    "date": "2026-07-13T20:08:53+00:00",
-    "text": "НПЗ Ильский, НПЗ Афипский, пгт.Северская и близлежащие, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Афипский",
-    "region": "Краснодарский край",
-    "lat": 44.9040435,
-    "lon": 38.8426821
-  },
-  {
-    "id": "vrv_radar_72725_Россошанский",
-    "channel": "vrv_radar",
-    "date": "2026-07-13T20:09:07+00:00",
-    "text": "Россошанский район\nВоронежская область \nФиксация от 6 БПЛА",
-    "type": "drone",
-    "location_name": "Россошанский",
-    "region": "Воронежская область",
-    "lat": 50.1186442,
-    "lon": 39.6627682
-  },
-  {
-    "id": "vrv_radar_72726",
-    "channel": "vrv_radar",
-    "date": "2026-07-13T20:10:29+00:00",
-    "text": "ГО Домодедово \nМосковская область \nРабота ПВО по БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_201755",
-    "channel": "LPRalarm",
-    "date": "2026-07-13T20:10:54+00:00",
-    "text": "Мелитополь и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_99708",
     "channel": "kupolrussia",
     "date": "2026-07-13T20:11:00+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_73025",
+    "channel": "vrv_radar",
+    "date": "2026-07-14T20:01:57+00:00",
+    "text": "Таганрог и близлежащие \nРостовская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202284",
+    "channel": "LPRalarm",
+    "date": "2026-07-14T20:05:04+00:00",
+    "text": "От Батальное тревога по БПЛА в направлении Южное, Чауда\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202285",
+    "channel": "LPRalarm",
+    "date": "2026-07-14T20:10:47+00:00",
+    "text": "Донецк, Макеевка, Докучаевск, Ясиноватая, Пантелеймоновка ДНР и близлежащие \nОпасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100141",
+    "channel": "kupolrussia",
+    "date": "2026-07-14T20:10:51+00:00",
+    "text": "Донецк, Макеевка, Докучаевск, Ясиноватая, Пантелеймоновка ДНР и близлежащие \nОпасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_81899",
+    "channel": "radarrussiia",
+    "date": "2026-07-14T20:11:00+00:00",
+    "text": "Таганрог и близлежащие \nРостовская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
     "lat": null,
     "lon": null
   }
