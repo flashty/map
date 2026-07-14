@@ -65,6 +65,56 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-14T14:26:19+00:00",
+        "last_updated": "2026-07-14T14:48:05+00:00",
+        "path_labels": [
+          "Наро-Фоминский",
+          "Калугу"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.442581,
+            55.3808035
+          ],
+          [
+            36.4191882,
+            55.003173
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-14T14:26:19+00:00",
+        "last_updated": "2026-07-14T14:51:25+00:00",
+        "path_labels": [
+          "Чеховский",
+          "Клинский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.8061081,
+            55.9001837
+          ],
+          [
+            36.5338185,
+            56.332622
+          ]
+        ]
+      }
     }
   ]
 }
