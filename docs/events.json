@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_201785",
-    "channel": "LPRalarm",
-    "date": "2026-07-13T20:51:40+00:00",
-    "text": "Феодосия и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_99732",
-    "channel": "kupolrussia",
-    "date": "2026-07-13T20:51:46+00:00",
-    "text": "Феодосия и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_201786",
-    "channel": "LPRalarm",
-    "date": "2026-07-13T20:52:34+00:00",
-    "text": "Афипский и близлежащие, тревога по БпЛА! Очень много!",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_99733",
-    "channel": "kupolrussia",
-    "date": "2026-07-13T20:52:42+00:00",
-    "text": "Афипский и близлежащие, тревога по БпЛА! Очень много!",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_72748_Шолоховский",
-    "channel": "vrv_radar",
-    "date": "2026-07-13T20:53:06+00:00",
-    "text": "Шолоховский район \nРостовская область \nФиксация от 4 БПЛА в направлении Волгоградской области",
-    "type": "drone",
-    "location_name": "Шолоховский",
-    "region": "Ростовская область",
-    "lat": 48.282608,
-    "lon": 41.046478
-  },
-  {
     "id": "locatorru_72231_Северский",
     "channel": "locatorru",
     "date": "2026-07-13T20:53:23+00:00",
@@ -21998,5 +21943,60 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "locatorru_72385_Азовский",
+    "channel": "locatorru",
+    "date": "2026-07-15T00:02:43+00:00",
+    "text": "Кулешовка, Азовский район, Ростовская область - БПЛА противника на восток. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Азовский",
+    "region": "Ростовская область",
+    "lat": 46.8996123,
+    "lon": 39.2767155
+  },
+  {
+    "id": "locatorru_72385_Кулешовка",
+    "channel": "locatorru",
+    "date": "2026-07-15T00:02:43+00:00",
+    "text": "Кулешовка, Азовский район, Ростовская область - БПЛА противника на восток. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Кулешовка",
+    "region": "Ростовская область",
+    "lat": 47.07658,
+    "lon": 39.55418
+  },
+  {
+    "id": "LPRalarm_202343",
+    "channel": "LPRalarm",
+    "date": "2026-07-15T00:03:03+00:00",
+    "text": "Осипенко, Бердянск и близлежащие\nТревога по БПЛА\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100170",
+    "channel": "kupolrussia",
+    "date": "2026-07-15T00:03:36+00:00",
+    "text": "Осипенко, Бердянск и близлежащие\nТревога по БПЛА\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_72386_Вейделевский",
+    "channel": "locatorru",
+    "date": "2026-07-15T00:10:45+00:00",
+    "text": "Вейделевский район, Белгородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Вейделевский",
+    "region": "Белгородская область",
+    "lat": 50.1834343,
+    "lon": 38.5862881
   }
 ]
