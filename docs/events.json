@@ -1,137 +1,5 @@
 [
   {
-    "id": "vrv_radar_72819",
-    "channel": "vrv_radar",
-    "date": "2026-07-13T23:08:30+00:00",
-    "text": "Самарская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_99781",
-    "channel": "kupolrussia",
-    "date": "2026-07-13T23:08:33+00:00",
-    "text": "Крымский мост\nМеры предосторожности!",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_81764",
-    "channel": "radarrussiia",
-    "date": "2026-07-13T23:09:41+00:00",
-    "text": "Самарская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_72820",
-    "channel": "vrv_radar",
-    "date": "2026-07-13T23:13:53+00:00",
-    "text": "Сочи и близлежащие \nКраснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_72821_Сочи",
-    "channel": "vrv_radar",
-    "date": "2026-07-13T23:14:11+00:00",
-    "text": "Сочи\nКраснодарский край \nРабота ПВО по БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Сочи",
-    "region": "Краснодарский край",
-    "lat": 43.5854823,
-    "lon": 39.723109
-  },
-  {
-    "id": "locatorru_72263_Сочи",
-    "channel": "locatorru",
-    "date": "2026-07-13T23:14:29+00:00",
-    "text": "Сочи, Адлер, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Сочи",
-    "region": "Краснодарский край",
-    "lat": 43.5854823,
-    "lon": 39.723109
-  },
-  {
-    "id": "locatorru_72263_Адлер",
-    "channel": "locatorru",
-    "date": "2026-07-13T23:14:29+00:00",
-    "text": "Сочи, Адлер, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Адлер",
-    "region": "Краснодарский край",
-    "lat": 43.4439715,
-    "lon": 39.9400928
-  },
-  {
-    "id": "LPRalarm_201838",
-    "channel": "LPRalarm",
-    "date": "2026-07-13T23:18:29+00:00",
-    "text": "Адлер и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_99782",
-    "channel": "kupolrussia",
-    "date": "2026-07-13T23:18:36+00:00",
-    "text": "Адлер и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_99783",
-    "channel": "kupolrussia",
-    "date": "2026-07-13T23:20:46+00:00",
-    "text": "Севастополь\n Тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_201839",
-    "channel": "LPRalarm",
-    "date": "2026-07-13T23:20:49+00:00",
-    "text": "Севастополь\n Тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_201840",
-    "channel": "LPRalarm",
-    "date": "2026-07-13T23:21:08+00:00",
-    "text": "Симферополь и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_99784",
     "channel": "kupolrussia",
     "date": "2026-07-13T23:21:16+00:00",
@@ -21998,5 +21866,137 @@
     "region": "Краснодарский край",
     "lat": 44.9624541,
     "lon": 37.896802
+  },
+  {
+    "id": "LPRalarm_202402_Погарский",
+    "channel": "LPRalarm",
+    "date": "2026-07-15T06:46:48+00:00",
+    "text": "Погарский район от ГГ опасность по БПЛА, в том числе реактивным \n\nБрянская область",
+    "type": "drone",
+    "location_name": "Погарский",
+    "region": "Брянская область",
+    "lat": 52.5207056,
+    "lon": 33.2053408
+  },
+  {
+    "id": "kupolrussia_100218_Погарский",
+    "channel": "kupolrussia",
+    "date": "2026-07-15T06:47:06+00:00",
+    "text": "Погарский район от ГГ опасность по БПЛА, в том числе реактивным \n\nБрянская область",
+    "type": "drone",
+    "location_name": "Погарский",
+    "region": "Брянская область",
+    "lat": 52.5207056,
+    "lon": 33.2053408
+  },
+  {
+    "id": "LPRalarm_202403",
+    "channel": "LPRalarm",
+    "date": "2026-07-15T06:48:27+00:00",
+    "text": "Мелитополь и близлежащие опасность по БПЛА на электротяге",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100219",
+    "channel": "kupolrussia",
+    "date": "2026-07-15T06:48:32+00:00",
+    "text": "Мелитополь и близлежащие опасность по БПЛА на электротяге",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_73075",
+    "channel": "vrv_radar",
+    "date": "2026-07-15T06:51:26+00:00",
+    "text": "Туапсе и близлежащие \nКраснодарский край \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_81944",
+    "channel": "radarrussiia",
+    "date": "2026-07-15T06:52:20+00:00",
+    "text": "Туапсе и близлежащие \nКраснодарский край \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_73076",
+    "channel": "vrv_radar",
+    "date": "2026-07-15T06:55:51+00:00",
+    "text": "Анапа и близлежащие\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_81945",
+    "channel": "radarrussiia",
+    "date": "2026-07-15T06:56:58+00:00",
+    "text": "Анапа и близлежащие\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202404",
+    "channel": "LPRalarm",
+    "date": "2026-07-15T06:58:33+00:00",
+    "text": "Брянская область все районы опасность по БПЛА, в том числе реактивным",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100220",
+    "channel": "kupolrussia",
+    "date": "2026-07-15T06:58:39+00:00",
+    "text": "Брянская область все районы опасность по БПЛА, в том числе реактивным",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202405",
+    "channel": "LPRalarm",
+    "date": "2026-07-15T06:59:36+00:00",
+    "text": "Новороссийск от суши с запада, юго-запада опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100221",
+    "channel": "kupolrussia",
+    "date": "2026-07-15T06:59:43+00:00",
+    "text": "Новороссийск от суши с запада, юго-запада\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
