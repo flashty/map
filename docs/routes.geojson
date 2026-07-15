@@ -135,6 +135,81 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "missile",
+        "started_at": "2026-07-15T00:53:58+00:00",
+        "last_updated": "2026-07-15T01:04:11+00:00",
+        "path_labels": [
+          "Самара",
+          "Альметьевск"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.1014927,
+            53.1956255
+          ],
+          [
+            52.2963777,
+            54.9005008
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "missile",
+        "started_at": "2026-07-15T00:53:58+00:00",
+        "last_updated": "2026-07-15T01:04:11+00:00",
+        "path_labels": [
+          "Новокуйбышевск",
+          "Бугульма"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.948364,
+            53.099243
+          ],
+          [
+            52.7955953,
+            54.5384152
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "missile",
+        "started_at": "2026-07-15T00:55:51+00:00",
+        "last_updated": "2026-07-15T01:04:11+00:00",
+        "path_labels": [
+          "Чувашская",
+          "Зеленодольск"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.8306383,
+            55.8234944
+          ],
+          [
+            48.5097031,
+            55.8477605
+          ]
+        ]
+      }
     }
   ]
 }
