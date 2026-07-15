@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_202025",
-    "channel": "LPRalarm",
-    "date": "2026-07-14T06:54:02+00:00",
-    "text": "Севастополь \nЮБК и близлежащие \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_99902_Севастополь",
-    "channel": "kupolrussia",
-    "date": "2026-07-14T06:54:15+00:00",
-    "text": "Севастополь \nЮБК и близлежащие\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
-    "id": "LPRalarm_202026",
-    "channel": "LPRalarm",
-    "date": "2026-07-14T06:55:06+00:00",
-    "text": "Керченский полуостров \nКрымский мост \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_99903",
-    "channel": "kupolrussia",
-    "date": "2026-07-14T06:55:24+00:00",
-    "text": "Керченский полуостров \nКрымский мост\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202027",
-    "channel": "LPRalarm",
-    "date": "2026-07-14T06:55:40+00:00",
-    "text": "От Алушты в направлении Ялта БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_99904",
-    "channel": "kupolrussia",
-    "date": "2026-07-14T06:55:51+00:00",
-    "text": "От Алушты в направлении Ялта БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202028",
-    "channel": "LPRalarm",
-    "date": "2026-07-14T06:55:56+00:00",
-    "text": "ЮБК \nЯлта и далее в направлении Севастополя \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_99905_Севастополя",
-    "channel": "kupolrussia",
-    "date": "2026-07-14T06:56:13+00:00",
-    "text": "ЮБК \nЯлта и далее в направлении Севастополя\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Севастополя",
-    "region": null,
-    "lat": 48.7525209,
-    "lon": 44.538852
-  },
-  {
-    "id": "LPRalarm_202029",
-    "channel": "LPRalarm",
-    "date": "2026-07-14T06:56:30+00:00",
-    "text": "Новороссийск с юго-запада опасность по БПЛА с моря",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_99906",
     "channel": "kupolrussia",
     "date": "2026-07-14T06:56:50+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202587",
+    "channel": "LPRalarm",
+    "date": "2026-07-15T14:31:54+00:00",
+    "text": "ЛДНР, Запорожская область РФ авиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100381",
+    "channel": "kupolrussia",
+    "date": "2026-07-15T14:32:09+00:00",
+    "text": "Запорожская область РФ \nЛДНР\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nры ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202588_Феодосия",
+    "channel": "LPRalarm",
+    "date": "2026-07-15T14:35:16+00:00",
+    "text": "Восток Крыма \nКировский р-н \nНижнегорский р-н \nСоветский р-н \nФеодосия, Судак, Чауда и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Феодосия",
+    "region": null,
+    "lat": 51.7088258,
+    "lon": 36.1164524
+  },
+  {
+    "id": "LPRalarm_202588_Судак",
+    "channel": "LPRalarm",
+    "date": "2026-07-15T14:35:16+00:00",
+    "text": "Восток Крыма \nКировский р-н \nНижнегорский р-н \nСоветский р-н \nФеодосия, Судак, Чауда и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Судак",
+    "region": null,
+    "lat": 62.0375765,
+    "lon": 32.9920476
+  },
+  {
+    "id": "kupolrussia_100382_Феодосия",
+    "channel": "kupolrussia",
+    "date": "2026-07-15T14:35:40+00:00",
+    "text": "Восток Крыма \nКировский р-н \nНижнегорский р-н \nСоветский р-н \nФеодосия, Судак, Чауда и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Феодосия",
+    "region": null,
+    "lat": 51.7088258,
+    "lon": 36.1164524
+  },
+  {
+    "id": "kupolrussia_100382_Судак",
+    "channel": "kupolrussia",
+    "date": "2026-07-15T14:35:40+00:00",
+    "text": "Восток Крыма \nКировский р-н \nНижнегорский р-н \nСоветский р-н \nФеодосия, Судак, Чауда и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Судак",
+    "region": null,
+    "lat": 62.0375765,
+    "lon": 32.9920476
+  },
+  {
+    "id": "LPRalarm_202589",
+    "channel": "LPRalarm",
+    "date": "2026-07-15T14:43:24+00:00",
+    "text": "Гродовка, Очеретино ДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100383",
+    "channel": "kupolrussia",
+    "date": "2026-07-15T14:43:35+00:00",
+    "text": "Гродовка, Очеретино ДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202590",
+    "channel": "LPRalarm",
+    "date": "2026-07-15T14:45:55+00:00",
+    "text": "Пантелеймоновка, Енакиево, Углегорск ДНР и близлежащие \nОпасность по БПЛА сохраняется, ещё фиксации",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
