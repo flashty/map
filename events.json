@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_202078",
-    "channel": "LPRalarm",
-    "date": "2026-07-14T08:31:40+00:00",
-    "text": "Трасса Валуйки - Волоконовка\nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_99955",
-    "channel": "kupolrussia",
-    "date": "2026-07-14T08:31:56+00:00",
-    "text": "Трасса Валуйки - Волоконовка\nТревога по БПЛА Хорнет\nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202079_Много",
-    "channel": "LPRalarm",
-    "date": "2026-07-14T08:33:08+00:00",
-    "text": "От Мелитополь до Бердянск тревога по БПЛА. Много",
-    "type": "drone",
-    "location_name": "Много",
-    "region": null,
-    "lat": 66.0989134,
-    "lon": 59.9304618
-  },
-  {
-    "id": "kupolrussia_99956_Много",
-    "channel": "kupolrussia",
-    "date": "2026-07-14T08:33:27+00:00",
-    "text": "От Мелитополь до Бердянск\nМного\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Много",
-    "region": null,
-    "lat": 66.0989134,
-    "lon": 59.9304618
-  },
-  {
-    "id": "locatorru_72321",
-    "channel": "locatorru",
-    "date": "2026-07-14T08:33:43+00:00",
-    "text": "Бетлица, Спас-Деменск, Киров, Барятино, Мосальск, Юхнов, Людиново, Жиздра, Думиничи, Сухиничи, Мещовск, Бабынино, Боровск, Малоярославец, Жуков, Калуга, Обнинск, Таруса и близлежащие, Калужская область - опасность по БПЛА от Брянской области идут вражеские БПЛА в вашу сторону, с попыткой пролёта на Московскую область.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_72899",
-    "channel": "vrv_radar",
-    "date": "2026-07-14T08:36:43+00:00",
-    "text": "Движение автотранспорта по Крымскому мосту временно перекрыто.\n \nНаходящихся на мосту и в зоне досмотра просим сохранять спокойствие и следовать указаниям сотрудников транспортной безопасности.\n\nЧтобы получать информацию без задержек, подписывайтесь на официальный канал в MAX «КРЫМСКИЙ МОСТ: оперативная информация».\nть\n\nО РОЯ т\n\nКРЫМСКИЙ\nМОСТ",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202080",
-    "channel": "LPRalarm",
-    "date": "2026-07-14T08:37:03+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_99957",
     "channel": "kupolrussia",
     "date": "2026-07-14T08:37:32+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100419",
+    "channel": "kupolrussia",
+    "date": "2026-07-15T16:55:14+00:00",
+    "text": "Нижегородская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202627",
+    "channel": "LPRalarm",
+    "date": "2026-07-15T16:55:18+00:00",
+    "text": "Нижегородская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_73153",
+    "channel": "vrv_radar",
+    "date": "2026-07-15T16:55:30+00:00",
+    "text": "Нижегородская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202628",
+    "channel": "LPRalarm",
+    "date": "2026-07-15T16:56:17+00:00",
+    "text": "Армянск и близлежащие отбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100420",
+    "channel": "kupolrussia",
+    "date": "2026-07-15T16:56:35+00:00",
+    "text": "Армянск и близлежащие \nРеспублика Крым",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202629",
+    "channel": "LPRalarm",
+    "date": "2026-07-15T16:58:55+00:00",
+    "text": "Республика Крым и Севастополь. Всё хорошо. Тревог нет\nЗвуки угрозы НАМ не несут",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100421",
+    "channel": "kupolrussia",
+    "date": "2026-07-15T16:59:49+00:00",
+    "text": "Республика Крым и Севастополь. Всё хорошо. Тревог нет\nЗвуки угрозы НАМ не несут",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
