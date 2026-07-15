@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_201814_Керчь",
-    "channel": "LPRalarm",
-    "date": "2026-07-13T22:03:01+00:00",
-    "text": "Керчь, Курортное, Багерово и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Керчь",
-    "region": null,
-    "lat": 55.9354669,
-    "lon": 87.3751001
-  },
-  {
-    "id": "LPRalarm_201814_Курортное",
-    "channel": "LPRalarm",
-    "date": "2026-07-13T22:03:01+00:00",
-    "text": "Керчь, Курортное, Багерово и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Курортное",
-    "region": null,
-    "lat": 54.464897,
-    "lon": 21.125765
-  },
-  {
     "id": "radarrussiia_81755_Калуга",
     "channel": "radarrussiia",
     "date": "2026-07-13T22:03:07+00:00",
@@ -21996,6 +21974,28 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_81931",
+    "channel": "radarrussiia",
+    "date": "2026-07-15T03:49:42+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202367",
+    "channel": "LPRalarm",
+    "date": "2026-07-15T03:56:06+00:00",
+    "text": "Север Крыма опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
