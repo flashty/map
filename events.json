@@ -1,104 +1,5 @@
 [
   {
-    "id": "kupolrussia_100498",
-    "channel": "kupolrussia",
-    "date": "2026-07-15T19:44:29+00:00",
-    "text": "Ставропольский край от Армавир тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202714",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T19:44:35+00:00",
-    "text": "Ставропольский край от Армавир тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202715_Крым",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T19:44:56+00:00",
-    "text": "Геническая горка - бпла противника в сторону Счастливцево и далее на Крым",
-    "type": "drone",
-    "location_name": "Крым",
-    "region": null,
-    "lat": 47.303017,
-    "lon": 39.51408
-  },
-  {
-    "id": "kupolrussia_100499_Крым",
-    "channel": "kupolrussia",
-    "date": "2026-07-15T19:45:12+00:00",
-    "text": "Геническая горка - бпла противника в сторону Счастливцево и далее на Крым",
-    "type": "drone",
-    "location_name": "Крым",
-    "region": null,
-    "lat": 47.303017,
-    "lon": 39.51408
-  },
-  {
-    "id": "LPRalarm_202716",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T19:46:43+00:00",
-    "text": "Ещё фиксации БПЛА в направлении Геническ \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100500",
-    "channel": "kupolrussia",
-    "date": "2026-07-15T19:46:54+00:00",
-    "text": "Ещё фиксации БПЛА в направлении Геническ \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_73181_Россошанский",
-    "channel": "vrv_radar",
-    "date": "2026-07-15T19:47:05+00:00",
-    "text": "Россошанский район\nВоронежская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Россошанский",
-    "region": "Воронежская область",
-    "lat": 50.1186442,
-    "lon": 39.6627682
-  },
-  {
-    "id": "vrv_radar_73182",
-    "channel": "vrv_radar",
-    "date": "2026-07-15T19:48:26+00:00",
-    "text": "Орловская область \nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100501",
-    "channel": "kupolrussia",
-    "date": "2026-07-15T19:49:36+00:00",
-    "text": "Саратовская область \nТамбовская область \nПензенская область\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_202718",
     "channel": "LPRalarm",
     "date": "2026-07-15T19:49:40+00:00",
@@ -21998,5 +21899,104 @@
     "region": "Республика Крым",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_203098_Волна",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T14:02:33+00:00",
+    "text": "п. Волна и далее в тыл\nКраснодарский Край\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Волна",
+    "region": null,
+    "lat": 56.2765268,
+    "lon": 46.626371
+  },
+  {
+    "id": "kupolrussia_100796_Волна",
+    "channel": "kupolrussia",
+    "date": "2026-07-16T14:02:45+00:00",
+    "text": "п. Волна и далее в тыл\nКраснодарский Край\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Волна",
+    "region": null,
+    "lat": 56.2765268,
+    "lon": 46.626371
+  },
+  {
+    "id": "kupolrussia_100796_Краснодарский Край",
+    "channel": "kupolrussia",
+    "date": "2026-07-16T14:02:45+00:00",
+    "text": "п. Волна и далее в тыл\nКраснодарский Край\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Краснодарский Край",
+    "region": null,
+    "lat": 45.7682027,
+    "lon": 39.0258102
+  },
+  {
+    "id": "LPRalarm_203099",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T14:03:36+00:00",
+    "text": "ОПАСНОСТЬ АТАКИ БПЛА в Старооскольском ГО, Губкинском ГО, Прохоровский МО",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100797",
+    "channel": "kupolrussia",
+    "date": "2026-07-16T14:03:59+00:00",
+    "text": "Белгородская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_82280_Волна",
+    "channel": "radarrussiia",
+    "date": "2026-07-16T14:13:12+00:00",
+    "text": "п. Волна и далее в тыл\nКраснодарский Край\nТревога по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Волна",
+    "region": null,
+    "lat": 56.2765268,
+    "lon": 46.626371
+  },
+  {
+    "id": "LPRalarm_203100_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T14:14:57+00:00",
+    "text": "Красный Октябрь \nБелгородский район \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_100798_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-07-16T14:15:46+00:00",
+    "text": "Красный Октябрь \nБелгородский район\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_100798_Октябрь",
+    "channel": "kupolrussia",
+    "date": "2026-07-16T14:15:46+00:00",
+    "text": "Красный Октябрь \nБелгородский район\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Октябрь",
+    "region": null,
+    "lat": 57.82626,
+    "lon": 37.386513
   }
 ]
