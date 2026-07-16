@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_202602_Покровка",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T15:48:08+00:00",
-    "text": "Покровка, Прохоровка и близлежащие \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Покровка",
-    "region": null,
-    "lat": 59.425278,
-    "lon": 30.09763
-  },
-  {
-    "id": "LPRalarm_202603_Шебекинский",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T15:48:12+00:00",
-    "text": "Вознесеновка и близлежащие \nШебекинский район \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "kupolrussia_100395_Шебекинский",
-    "channel": "kupolrussia",
-    "date": "2026-07-15T15:48:28+00:00",
-    "text": "Вознесеновка и близлежащие \nШебекинский район \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
     "id": "kupolrussia_100396_Покровка",
     "channel": "kupolrussia",
     "date": "2026-07-15T15:48:36+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_73527",
+    "channel": "vrv_radar",
+    "date": "2026-07-16T07:32:31+00:00",
+    "text": "Московская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202970",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T07:34:23+00:00",
+    "text": "Пантелеймоновка - Енакиево ДНР и близлежащие \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100676",
+    "channel": "kupolrussia",
+    "date": "2026-07-16T07:34:30+00:00",
+    "text": "Пантелеймоновка - Енакиево ДНР и близлежащие \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
