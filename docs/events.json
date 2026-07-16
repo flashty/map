@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_202734_Керчь",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T20:02:51+00:00",
-    "text": "Керчь, порт Крым, переправа, Крымский мост, энергомост тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Керчь",
-    "region": null,
-    "lat": 55.9354669,
-    "lon": 87.3751001
-  },
-  {
-    "id": "LPRalarm_202734_Крым",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T20:02:51+00:00",
-    "text": "Керчь, порт Крым, переправа, Крымский мост, энергомост тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Крым",
-    "region": null,
-    "lat": 47.303017,
-    "lon": 39.51408
-  },
-  {
-    "id": "LPRalarm_202735",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T20:03:09+00:00",
-    "text": "Белая Березка и близлежащие \nОпасность по БПЛА \nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202736",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T20:03:15+00:00",
-    "text": "Таманский полуостров от Керченского полуострова опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202737",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T20:03:25+00:00",
-    "text": "Токмак и близлежащие \nТревога по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202738",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T20:03:52+00:00",
-    "text": "Красноперекопск с северо-запада тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202739",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T20:03:59+00:00",
-    "text": "Джанкойский район \nРеспублика Крым \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202740",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T20:04:42+00:00",
-    "text": "Джанкой и близлежащие тревога по БПЛА. Меры предосторожности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_202741",
     "channel": "LPRalarm",
     "date": "2026-07-15T20:05:59+00:00",
@@ -21996,6 +21908,94 @@
     "type": "drone",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_73563_Туапсинский",
+    "channel": "vrv_radar",
+    "date": "2026-07-16T15:16:06+00:00",
+    "text": "Туапсинский район \nКраснодарский край \nОтбой опасности по БПЛА \nОпасность на территории края сохраняется",
+    "type": "all_clear",
+    "location_name": "Туапсинский",
+    "region": "Краснодарский край",
+    "lat": 44.2686396,
+    "lon": 39.1884737
+  },
+  {
+    "id": "radarrussiia_82287_Туапсинский",
+    "channel": "radarrussiia",
+    "date": "2026-07-16T15:16:39+00:00",
+    "text": "Туапсинский район \nКраснодарский край \nОтбой опасности по БПЛА \nОпасность на территории края сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": "Туапсинский",
+    "region": "Краснодарский край",
+    "lat": 44.2686396,
+    "lon": 39.1884737
+  },
+  {
+    "id": "vrv_radar_73564",
+    "channel": "vrv_radar",
+    "date": "2026-07-16T15:19:49+00:00",
+    "text": "Геленджик и близлежащие \nКраснодарский край \nОтбой опасности по БПЛА \nОпасность на территории края сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_72763",
+    "channel": "locatorru",
+    "date": "2026-07-16T15:24:31+00:00",
+    "text": "Сбор остановился. 100₽ — ради наших воинов, ради тех, кто стоит за нас. Пусть каждый третий из наших близких откликнется и внесёт 100 рублей, и тогда наша цель будет достигнута, а сбор завершён! Общая аудитория наших близких и родных составляет 339000 тысяч. (Telegram, MAX). \n\nПринять участие в сборе можно через сервис Т-Банк(имеется оплата по СБП):\nhttps://pay.cloudtips.ru/p/f173a8cf",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203113",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T15:25:28+00:00",
+    "text": "Обоянь \nКурск и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100811",
+    "channel": "kupolrussia",
+    "date": "2026-07-16T15:25:39+00:00",
+    "text": "Обоянь \nКурск и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203114",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T15:27:50+00:00",
+    "text": "Керченский полуостров \nКерчь и близлежащие \nОпасность по БПЛА \nПовторно \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100812",
+    "channel": "kupolrussia",
+    "date": "2026-07-16T15:28:00+00:00",
+    "text": "Керченский полуостров \nКерчь и близлежащие \nОпасность по БПЛА \nПовторно \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
