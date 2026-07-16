@@ -1,137 +1,5 @@
 [
   {
-    "id": "LPRalarm_202718",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T19:49:40+00:00",
-    "text": "Брянская область \nОрловская область \nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202717",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T19:49:40+00:00",
-    "text": "Саратовская область \nТамбовская область \nПензенская область\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100502",
-    "channel": "kupolrussia",
-    "date": "2026-07-15T19:49:47+00:00",
-    "text": "Брянская область \nОрловская область \nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100503",
-    "channel": "kupolrussia",
-    "date": "2026-07-15T19:49:50+00:00",
-    "text": "Брянская область \nОрловская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202719_Россошанский",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T19:50:05+00:00",
-    "text": "Россошанский район \nВоронежская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Россошанский",
-    "region": "Воронежская область",
-    "lat": 50.1186442,
-    "lon": 39.6627682
-  },
-  {
-    "id": "vrv_radar_73183_Россошанский",
-    "channel": "vrv_radar",
-    "date": "2026-07-15T19:50:23+00:00",
-    "text": "Россошанский район \nВоронежская область \nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Россошанский",
-    "region": "Воронежская область",
-    "lat": 50.1186442,
-    "lon": 39.6627682
-  },
-  {
-    "id": "kupolrussia_100504",
-    "channel": "kupolrussia",
-    "date": "2026-07-15T19:50:54+00:00",
-    "text": "Калужская область \nМосковская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202720",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T19:50:57+00:00",
-    "text": "Калужская область \nМосковская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100505_Россошанский",
-    "channel": "kupolrussia",
-    "date": "2026-07-15T19:51:12+00:00",
-    "text": "Россошанский район \nВоронежская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Россошанский",
-    "region": "Воронежская область",
-    "lat": 50.1186442,
-    "lon": 39.6627682
-  },
-  {
-    "id": "LPRalarm_202721_Новоалексеевка",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T19:52:28+00:00",
-    "text": "Новоалексеевка, Геническ, Арабатская Стрелка повторно тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Новоалексеевка",
-    "region": null,
-    "lat": 54.288979,
-    "lon": 55.593761
-  },
-  {
-    "id": "kupolrussia_100506_Новоалексеевка",
-    "channel": "kupolrussia",
-    "date": "2026-07-15T19:52:45+00:00",
-    "text": "Новоалексеевка, Геническ, Арабатская Стрелка повторно\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Новоалексеевка",
-    "region": null,
-    "lat": 54.288979,
-    "lon": 55.593761
-  },
-  {
-    "id": "radarrussiia_82028_Россошанский",
-    "channel": "radarrussiia",
-    "date": "2026-07-15T19:53:24+00:00",
-    "text": "Россошанский район\nВоронежская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Россошанский",
-    "region": "Воронежская область",
-    "lat": 50.1186442,
-    "lon": 39.6627682
-  },
-  {
     "id": "radarrussiia_82029_Россошанский",
     "channel": "radarrussiia",
     "date": "2026-07-15T19:54:44+00:00",
@@ -21998,5 +21866,137 @@
     "region": null,
     "lat": 57.82626,
     "lon": 37.386513
+  },
+  {
+    "id": "LPRalarm_203101",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T14:18:32+00:00",
+    "text": "Белая Берёзка обстрел, меры безопасности",
+    "type": "shelling",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203102",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T14:20:02+00:00",
+    "text": "Осипенко и близлежащие, включая трассу на Бердянск\nТревога по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100799",
+    "channel": "kupolrussia",
+    "date": "2026-07-16T14:20:24+00:00",
+    "text": "Осипенко и близлежащие, включая трассу на Бердянск\nЗапорожская область РФ\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203103",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T14:20:30+00:00",
+    "text": "Давыдовка и близлежащие \nЗапорожская область РФ \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100800",
+    "channel": "kupolrussia",
+    "date": "2026-07-16T14:20:40+00:00",
+    "text": "Давыдовка и близлежащие \nЗапорожская область РФ\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203104",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T14:22:08+00:00",
+    "text": "Войково и близлежащие \nТревога по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100801",
+    "channel": "kupolrussia",
+    "date": "2026-07-16T14:22:20+00:00",
+    "text": "Войково и близлежащие \nРеспублика Крым\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203105",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T14:24:10+00:00",
+    "text": "Дорога\nПервомайское-Войково\nТревога по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100802",
+    "channel": "kupolrussia",
+    "date": "2026-07-16T14:24:33+00:00",
+    "text": "Дорога\nПервомайское-Войково\nРеспублика Крым\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_73558_Крымский",
+    "channel": "vrv_radar",
+    "date": "2026-07-16T14:29:58+00:00",
+    "text": "Крымский район \nКраснодарский край\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Крымский",
+    "region": "Краснодарский край",
+    "lat": 44.9624541,
+    "lon": 37.896802
+  },
+  {
+    "id": "vrv_radar_73559",
+    "channel": "vrv_radar",
+    "date": "2026-07-16T14:30:23+00:00",
+    "text": "Туапсе и близлежащие \nКраснодарский край \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_82281_Крымский",
+    "channel": "radarrussiia",
+    "date": "2026-07-16T14:31:00+00:00",
+    "text": "Крымский район \nКраснодарский край\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Крымский",
+    "region": "Краснодарский край",
+    "lat": 44.9624541,
+    "lon": 37.896802
   }
 ]
