@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_202741",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T20:05:59+00:00",
-    "text": "Мелитополь и близлежащие тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202742_Луганск",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T20:07:00+00:00",
-    "text": "Луганск, Краснодон и далее на Донецк Ростовская область, Гуково, Каменск-Шахтинский и близлежащие \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Луганск",
-    "region": "Ростовская область",
-    "lat": 48.9028518,
-    "lon": 40.4589559
-  },
-  {
-    "id": "LPRalarm_202742_Донецк",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T20:07:00+00:00",
-    "text": "Луганск, Краснодон и далее на Донецк Ростовская область, Гуково, Каменск-Шахтинский и близлежащие \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Донецк",
-    "region": "Ростовская область",
-    "lat": 48.3382864,
-    "lon": 39.9509488
-  },
-  {
-    "id": "kupolrussia_100517_Луганск",
-    "channel": "kupolrussia",
-    "date": "2026-07-15T20:07:06+00:00",
-    "text": "Луганск, Краснодон и далее на Донецк Ростовская область, Гуково, Каменск-Шахтинский и близлежащие \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Луганск",
-    "region": "Ростовская область",
-    "lat": 48.9028518,
-    "lon": 40.4589559
-  },
-  {
-    "id": "kupolrussia_100517_Донецк",
-    "channel": "kupolrussia",
-    "date": "2026-07-15T20:07:06+00:00",
-    "text": "Луганск, Краснодон и далее на Донецк Ростовская область, Гуково, Каменск-Шахтинский и близлежащие \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Донецк",
-    "region": "Ростовская область",
-    "lat": 48.3382864,
-    "lon": 39.9509488
-  },
-  {
     "id": "kupolrussia_100518",
     "channel": "kupolrussia",
     "date": "2026-07-15T20:09:48+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203115",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T15:31:17+00:00",
+    "text": "Тамань\nВолна и близлежащие \nОпасность по БПЛА с моря \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100813",
+    "channel": "kupolrussia",
+    "date": "2026-07-16T15:31:27+00:00",
+    "text": "Тамань\nВолна и близлежащие \nОпасность по БПЛА с моря \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100814",
+    "channel": "kupolrussia",
+    "date": "2026-07-16T15:40:10+00:00",
+    "text": "Ставропольский край",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_73565",
+    "channel": "vrv_radar",
+    "date": "2026-07-16T15:40:26+00:00",
+    "text": "Ставропольский край \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203116",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T15:40:52+00:00",
+    "text": "Ставропольский край",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Ставропольский край",
     "lat": null,
     "lon": null
   }
