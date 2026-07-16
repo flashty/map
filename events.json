@@ -1,16 +1,5 @@
 [
   {
-    "id": "vrv_radar_73392_Спас-Деменский",
-    "channel": "vrv_radar",
-    "date": "2026-07-16T01:31:21+00:00",
-    "text": "Спас-Деменский район\nКалужская область\nФиксация от 3 БПЛА",
-    "type": "drone",
-    "location_name": "Спас-Деменский",
-    "region": "Калужская область",
-    "lat": 54.3959568,
-    "lon": 33.9346202
-  },
-  {
     "id": "vrv_radar_73393",
     "channel": "vrv_radar",
     "date": "2026-07-16T01:32:01+00:00",
@@ -21996,6 +21985,17 @@
     "type": "unknown",
     "location_name": null,
     "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203419",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T23:43:42+00:00",
+    "text": "Гвардейское и близлежащие\nТревога по БПЛА, повторно\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
