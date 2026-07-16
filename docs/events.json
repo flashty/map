@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_73151_Знаменский",
-    "channel": "vrv_radar",
-    "date": "2026-07-15T16:43:19+00:00",
-    "text": "Знаменский район\nОрловская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Знаменский",
-    "region": "Орловская область",
-    "lat": 52.9974809,
-    "lon": 36.066136
-  },
-  {
-    "id": "kupolrussia_100417_Белгородский",
-    "channel": "kupolrussia",
-    "date": "2026-07-15T16:43:29+00:00",
-    "text": "Белгородский район\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
     "id": "vrv_radar_73152_Кирсановский",
     "channel": "vrv_radar",
     "date": "2026-07-15T16:44:19+00:00",
@@ -21996,6 +21974,28 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_82266_Туапсинский",
+    "channel": "radarrussiia",
+    "date": "2026-07-16T08:53:31+00:00",
+    "text": "Туапсинский район \nКраснодарский край \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Туапсинский",
+    "region": "Краснодарский край",
+    "lat": 44.2686396,
+    "lon": 39.1884737
+  },
+  {
+    "id": "LPRalarm_202995",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T09:01:21+00:00",
+    "text": "Константиновка, Дзержинск, Часов Яр, Артёмовск ДНР и близлежащие \nТревога по УАБ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
