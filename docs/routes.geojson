@@ -5,36 +5,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-07-16T17:37:06+00:00",
-        "last_updated": "2026-07-16T18:11:02+00:00",
-        "path_labels": [
-          "Брянской",
-          "Сосковский",
-          "Сосковский"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.414346,
-            53.2054944
-          ],
-          [
-            35.3808815,
-            52.742656
-          ],
-          [
-            35.3808815,
-            52.742656
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-07-16T18:20:08+00:00",
         "last_updated": "2026-07-16T18:37:53+00:00",
         "path_labels": [
@@ -102,6 +72,136 @@
           [
             36.011682,
             50.5951942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-16T20:07:06+00:00",
+        "last_updated": "2026-07-16T21:14:13+00:00",
+        "path_labels": [
+          "Грайворонский",
+          "Грайворонский",
+          "Строитель"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.5905721,
+            50.4309028
+          ],
+          [
+            35.5905721,
+            50.4309028
+          ],
+          [
+            36.485428,
+            50.785236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-16T20:36:50+00:00",
+        "last_updated": "2026-07-16T21:14:33+00:00",
+        "path_labels": [
+          "Погарский",
+          "Суземка"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.2053408,
+            52.5207056
+          ],
+          [
+            34.0759496,
+            52.316133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-16T20:56:00+00:00",
+        "last_updated": "2026-07-16T21:14:46+00:00",
+        "path_labels": [
+          "Сельцо",
+          "Брянск"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.1065866,
+            53.3709842
+          ],
+          [
+            34.3668288,
+            53.2423778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-16T20:56:00+00:00",
+        "last_updated": "2026-07-16T21:14:46+00:00",
+        "path_labels": [
+          "Брянск",
+          "Выгоничи"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.3668288,
+            53.2423778
+          ],
+          [
+            34.0683,
+            53.0978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-16T20:56:00+00:00",
+        "last_updated": "2026-07-16T21:14:46+00:00",
+        "path_labels": [
+          "Карачев",
+          "Навля"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.9825906,
+            53.1221822
+          ],
+          [
+            34.4993843,
+            52.8271323
           ]
         ]
       }
