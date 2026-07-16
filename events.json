@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_100487",
-    "channel": "kupolrussia",
-    "date": "2026-07-15T19:25:36+00:00",
-    "text": "Большое количество БПЛА Херсонская область в направлении Херсонской области РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202703",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T19:35:06+00:00",
-    "text": "Петровский район Донецк \nВнимание по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100488",
-    "channel": "kupolrussia",
-    "date": "2026-07-15T19:35:15+00:00",
-    "text": "Петровский район Донецк \nВнимание по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202704",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T19:35:35+00:00",
-    "text": "От Скворцово в направлении Севастополя внимание по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100489",
-    "channel": "kupolrussia",
-    "date": "2026-07-15T19:35:43+00:00",
-    "text": "От Скворцово в направлении Севастополя внимание по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202705",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T19:36:09+00:00",
-    "text": "Старобельск и близлежащие \nОпасность по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_100490",
     "channel": "kupolrussia",
     "date": "2026-07-15T19:36:35+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203087",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T13:06:54+00:00",
+    "text": "От Белгородской области на Курскую область\nПродолжаются фиксации БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курскую область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100787",
+    "channel": "kupolrussia",
+    "date": "2026-07-16T13:06:58+00:00",
+    "text": "От Белгородской области на Курскую область\nПродолжаются фиксации БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курскую область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203088",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T13:07:43+00:00",
+    "text": "Дебальцево\nДНР\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100788",
+    "channel": "kupolrussia",
+    "date": "2026-07-16T13:07:55+00:00",
+    "text": "Дебальцево\nДНР\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_73556_Туапсинский",
+    "channel": "vrv_radar",
+    "date": "2026-07-16T13:08:51+00:00",
+    "text": "Туапсинский район \nКраснодарский край \nОтбой опасности по БПЛА \nНа территории края опасность сохраняется",
+    "type": "all_clear",
+    "location_name": "Туапсинский",
+    "region": "Краснодарский край",
+    "lat": 44.2686396,
+    "lon": 39.1884737
+  },
+  {
+    "id": "vrv_radar_73557",
+    "channel": "vrv_radar",
+    "date": "2026-07-16T13:15:01+00:00",
+    "text": "Невинномысск \nСтавропольский край \nМеры безопасности",
+    "type": "alert",
+    "location_name": null,
+    "region": "Ставропольский край",
     "lat": null,
     "lon": null
   }
