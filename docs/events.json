@@ -1,104 +1,5 @@
 [
   {
-    "id": "kupolrussia_100392",
-    "channel": "kupolrussia",
-    "date": "2026-07-15T15:38:42+00:00",
-    "text": "Воздвиженка, Очеретино ДНР и близлежащие \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_72502_Тамбов",
-    "channel": "locatorru",
-    "date": "2026-07-15T15:38:54+00:00",
-    "text": "Тамбов, Котовск и близлежащие, Тамбовская область - опасность по БПЛА. \n\nМичуринск, меры предосторожности. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Тамбов",
-    "region": "Тамбовская область",
-    "lat": 52.7216164,
-    "lon": 41.4523988
-  },
-  {
-    "id": "locatorru_72501",
-    "channel": "locatorru",
-    "date": "2026-07-15T15:38:54+00:00",
-    "text": "Республика Мордовия - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_73143",
-    "channel": "vrv_radar",
-    "date": "2026-07-15T15:40:00+00:00",
-    "text": "Пензенская область\nВнимание по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_73144",
-    "channel": "vrv_radar",
-    "date": "2026-07-15T15:41:50+00:00",
-    "text": "Волгоградская область\nВнимание по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100393",
-    "channel": "kupolrussia",
-    "date": "2026-07-15T15:43:23+00:00",
-    "text": "Нижегородская область \nОпасность по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Нижегородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202600",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T15:43:25+00:00",
-    "text": "Нижегородская область \nОпасность по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Нижегородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202601",
-    "channel": "LPRalarm",
-    "date": "2026-07-15T15:43:27+00:00",
-    "text": "Торез, Снежное ДНР и близлежащие \nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100394",
-    "channel": "kupolrussia",
-    "date": "2026-07-15T15:43:42+00:00",
-    "text": "Торез, Снежное ДНР и близлежащие \nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_202602_Покровка",
     "channel": "LPRalarm",
     "date": "2026-07-15T15:48:08+00:00",
@@ -21996,6 +21897,105 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202967",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T07:16:06+00:00",
+    "text": "Курахово РСЗО\nДНР",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100673",
+    "channel": "kupolrussia",
+    "date": "2026-07-16T07:17:08+00:00",
+    "text": "Курахово РСЗО\nДНР",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_202968",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T07:21:40+00:00",
+    "text": "Опасность БпЛА Бердянский район \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100674",
+    "channel": "kupolrussia",
+    "date": "2026-07-16T07:22:07+00:00",
+    "text": "Бердянский район\nЗапорожская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_72738_Рыбинска",
+    "channel": "locatorru",
+    "date": "2026-07-16T07:24:23+00:00",
+    "text": "Ещё 1 БПЛА от Мышкин в сторону Рыбинска, Ярославская область. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Рыбинска",
+    "region": "Ярославская область",
+    "lat": 58.6048833,
+    "lon": 38.3617459
+  },
+  {
+    "id": "locatorru_72739_Рыбинск",
+    "channel": "locatorru",
+    "date": "2026-07-16T07:26:02+00:00",
+    "text": "Рыбинск, дайте нам обратную связь.\n\n📡Локатор России - @locatorru",
+    "type": "unknown",
+    "location_name": "Рыбинск",
+    "region": null,
+    "lat": 58.0489536,
+    "lon": 38.8558908
+  },
+  {
+    "id": "LPRalarm_202969",
+    "channel": "LPRalarm",
+    "date": "2026-07-16T07:28:35+00:00",
+    "text": "Краснодарский край \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_100675",
+    "channel": "kupolrussia",
+    "date": "2026-07-16T07:28:50+00:00",
+    "text": "Краснодарский край\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_72740",
+    "channel": "locatorru",
+    "date": "2026-07-16T07:29:10+00:00",
+    "text": "В районе Рыбинска тишина.\n\nЧереповец и близлежащие, особое внимание по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
