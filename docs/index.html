@@ -31,13 +31,15 @@
 <div id="panel">
   <h1>Легенда</h1>
   <div class="legend-row"><span class="swatch" style="background:#dc2626;"></span>Ракетна загроза</div>
+  <div class="legend-row"><span class="swatch" style="background:#a855f7;"></span>Балістична загроза</div>
   <div class="legend-row"><span class="swatch" style="background:#eab308;"></span>Загроза БПЛА</div>
   <div class="legend-row"><span class="swatch" style="background:#3b82f6;"></span>Авіація</div>
-  <div class="legend-row"><span class="swatch" style="background:#a855f7;"></span>Обстріл</div>
+  <div class="legend-row"><span class="swatch" style="background:#65a30d;"></span>Обстріл</div>
   <div class="legend-row"><span class="swatch" style="background:#f97316;"></span>Тривога (загальна)</div>
   <div class="legend-row"><span class="swatch" style="background:transparent;border:2px dashed #b91c1c;"></span>Лінія фронту (DeepState)</div>
   <div class="legend-row"><span class="swatch" style="background:transparent;border-top:3px solid #eab308;"></span>Маршрут БПЛА</div>
   <div class="legend-row"><span class="swatch" style="background:transparent;border-top:3px solid #dc2626;"></span>Маршрут ракети</div>
+  <div id="summary" style="margin-top:10px; padding-top:10px; border-top:0.5px solid rgba(255,255,255,0.15); font-size:13px;"></div>
   <div id="updated">Завантаження...</div>
 </div>
 
@@ -45,15 +47,17 @@
 <script>
 const TYPE_COLORS = {
   missile: "#dc2626",
+  ballistic: "#a855f7",
   drone: "#eab308",
   aviation: "#3b82f6",
-  shelling: "#a855f7",
+  shelling: "#65a30d",
   alert: "#f97316",
   unknown: "#8e8e93"
 };
 
 const TYPE_LABELS = {
   missile: "Ракетна загроза",
+  ballistic: "Балістична загроза",
   drone: "Загроза БПЛА",
   aviation: "Авіаційна загроза",
   shelling: "Обстріл",
@@ -174,14 +178,14 @@ async function loadRoutesLayer() {
   if (routesLayer) { map.removeLayer(routesLayer); }
   routesLayer = L.geoJSON(geo, {
     style: (feature) => ({
-      color: feature.properties.type === "missile" ? "#dc2626" : "#eab308",
+      color: TYPE_COLORS[feature.properties.type] || TYPE_COLORS.unknown,
       weight: 3,
       opacity: 0.85,
-      dashArray: feature.properties.type === "missile" ? null : "8 5"
+      dashArray: feature.properties.type === "drone" ? "8 5" : null
     }),
     onEachFeature: (feature, layer) => {
       const labels = (feature.properties.path_labels || []).join(" → ");
-      const typeLabel = feature.properties.type === "missile" ? "Ракета" : "БПЛА";
+      const typeLabel = TYPE_LABELS[feature.properties.type] || TYPE_LABELS.unknown;
       const started = new Date(feature.properties.started_at).toLocaleString('uk-UA');
       const updated = new Date(feature.properties.last_updated).toLocaleString('uk-UA');
       layer.bindPopup(
@@ -209,6 +213,40 @@ async function refreshRegionStatus() {
       occupiedLayer.eachLayer(layer => layer.setStyle(styleByStatus(layer.feature.properties.match_key)));
     }
     const activeCount = Object.keys(regionStatus).length;
+
+    // рахуємо кількість активних РЕГІОНІВ (не повідомлень!) за типом, а
+    // також сумарну кількість дронів/ракет, якщо канал її вказав — один
+    // регіон = один запис у regionStatus, незалежно від того, скільки
+    // разів і з яких каналів про нього писали, тож дублі з різних каналів
+    // тут природно не рахуються двічі
+    const counts = {}; // { type: { regions: n, units: n, unitsUnknown: n } }
+    for (const status of Object.values(regionStatus)) {
+      if (!counts[status.type]) counts[status.type] = { regions: 0, units: 0, unitsUnknown: 0 };
+      counts[status.type].regions += 1;
+      if (typeof status.count === "number") {
+        counts[status.type].units += status.count;
+      } else {
+        counts[status.type].unitsUnknown += 1;
+      }
+    }
+    const summaryHtml = Object.entries(counts)
+      .sort((a, b) => b[1].regions - a[1].regions)
+      .map(([type, c]) => {
+        const color = TYPE_COLORS[type] || TYPE_COLORS.unknown;
+        const label = TYPE_LABELS[type] || TYPE_LABELS.unknown;
+        let unitsText = "";
+        if (c.units > 0 && c.unitsUnknown > 0) {
+          unitsText = ` · від ${c.units}+ од.`;
+        } else if (c.units > 0) {
+          unitsText = ` · ${c.units} од.`;
+        }
+        return `<div class="legend-row"><span class="swatch" style="background:${color};"></span>${label}: ${c.regions} рег.${unitsText}</div>`;
+      })
+      .join("");
+    document.getElementById('summary').innerHTML =
+      `<div style="opacity:0.7; margin-bottom:4px;">Активні тривоги по регіонах:</div>` +
+      (summaryHtml || '<div style="opacity:0.5;">Немає активних тривог</div>');
+
     document.getElementById('updated').textContent =
       'Оновлено: ' + new Date().toLocaleTimeString('uk-UA') + ' · активних регіонів: ' + activeCount;
     await loadRoutesLayer();
