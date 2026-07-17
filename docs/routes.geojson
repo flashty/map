@@ -1,35 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-17T05:31:04+00:00",
-        "last_updated": "2026-07-17T06:13:01+00:00",
-        "path_labels": [
-          "Ростовской",
-          "Ростовской",
-          "Лакедемоновка"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.7224851,
-            47.223593
-          ],
-          [
-            39.7224851,
-            47.223593
-          ],
-          [
-            38.5449653,
-            47.1969749
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
