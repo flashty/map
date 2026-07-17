@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_73544_Туапсинский",
-    "channel": "vrv_radar",
-    "date": "2026-07-16T10:52:15+00:00",
-    "text": "Туапсинский район \nКраснодарский край\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Туапсинский",
-    "region": "Краснодарский край",
-    "lat": 44.2686396,
-    "lon": 39.1884737
-  },
-  {
-    "id": "kupolrussia_100736",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T10:53:17+00:00",
-    "text": "Корсунь и близлежащие \nДНР \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_203034",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T10:53:27+00:00",
-    "text": "Корсунь и близлежащие \n\nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_73545_Крымский",
-    "channel": "vrv_radar",
-    "date": "2026-07-16T10:53:52+00:00",
-    "text": "Крымский район \nКраснодарский край \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Крымский",
-    "region": "Краснодарский край",
-    "lat": 44.9624541,
-    "lon": 37.896802
-  },
-  {
-    "id": "radarrussiia_82276_Крымский",
-    "channel": "radarrussiia",
-    "date": "2026-07-16T10:54:34+00:00",
-    "text": "Крымский район \nКраснодарский край \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Крымский",
-    "region": "Краснодарский край",
-    "lat": 44.9624541,
-    "lon": 37.896802
-  },
-  {
     "id": "vrv_radar_73546",
     "channel": "vrv_radar",
     "date": "2026-07-16T10:55:38+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Республика Крым",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "locatorru_72897",
+    "channel": "locatorru",
+    "date": "2026-07-17T16:35:40+00:00",
+    "text": "Скоро появиться связь, ещё немного. \n\n📡Локатор России - @locatorru",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_73746_Грязинский",
+    "channel": "vrv_radar",
+    "date": "2026-07-17T16:36:38+00:00",
+    "text": "Грязинский район\nЛипецкая область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Грязинский",
+    "region": "Липецкая область",
+    "lat": 52.5095965,
+    "lon": 39.9816059
+  },
+  {
+    "id": "LPRalarm_203720",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T16:37:01+00:00",
+    "text": "Херсонская область РФ авиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101320",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T16:37:14+00:00",
+    "text": "Херсонская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_73747_Спасский",
+    "channel": "vrv_radar",
+    "date": "2026-07-17T16:37:37+00:00",
+    "text": "Спасский район\nРязанская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Спасский",
+    "region": "Рязанская область",
+    "lat": 54.5079588,
+    "lon": 40.5809989
   }
 ]
