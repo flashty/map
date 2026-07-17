@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_100776",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T12:40:21+00:00",
-    "text": "Курская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100777",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T12:40:34+00:00",
-    "text": "Липецкая область \nТульская область \nОпасность по БПЛА от Курской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_203076",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T12:40:37+00:00",
-    "text": "Липецкая область \nТульская область \nОпасность по БПЛА от Курской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_203077_Рыльск",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T12:40:56+00:00",
-    "text": "Рыльск, Льгов, Курчатов, Курск тревога по БПЛА. Много",
-    "type": "drone",
-    "location_name": "Рыльск",
-    "region": null,
-    "lat": 51.570538,
-    "lon": 34.683506
-  },
-  {
-    "id": "LPRalarm_203077_Льгов",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T12:40:56+00:00",
-    "text": "Рыльск, Льгов, Курчатов, Курск тревога по БПЛА. Много",
-    "type": "drone",
-    "location_name": "Льгов",
-    "region": null,
-    "lat": 51.6906587,
-    "lon": 35.2839999
-  },
-  {
-    "id": "LPRalarm_203077_Курчатов",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T12:40:56+00:00",
-    "text": "Рыльск, Льгов, Курчатов, Курск тревога по БПЛА. Много",
-    "type": "drone",
-    "location_name": "Курчатов",
-    "region": null,
-    "lat": 51.659466,
-    "lon": 35.658863
-  },
-  {
     "id": "LPRalarm_203077_Много",
     "channel": "LPRalarm",
     "date": "2026-07-16T12:40:56+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_72909",
+    "channel": "locatorru",
+    "date": "2026-07-17T17:45:54+00:00",
+    "text": "Пуски БПЛА от Сум в сторону Курской области. \n\nБрянская область, Белгородская область - опасность по БПЛА также от Сум. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203759_Грайворонский",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T17:47:47+00:00",
+    "text": "Грайворонский район и близлежащие \nТревога по БПЛА \nБелгородская область",
+    "type": "drone",
+    "location_name": "Грайворонский",
+    "region": "Белгородская область",
+    "lat": 50.4309028,
+    "lon": 35.5905721
+  },
+  {
+    "id": "LPRalarm_203760",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T17:51:00+00:00",
+    "text": "Причерноморье Краснодарский край возможны фиксации БПЛА. Приморско-Ахтарск и близлежащие особое внимание",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203761",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T17:52:52+00:00",
+    "text": "Ивнянский район \n\nОбоянский район, Солнцевский район, Курский район и далее на Орловскую область опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловскую область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203762",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T17:54:23+00:00",
+    "text": "Брянская область\nОпасность по БПЛА\nПовторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203763",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T17:55:48+00:00",
+    "text": "Бердянск и близлежащие тревога по БПЛА с запада, северо-запада, севера",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
