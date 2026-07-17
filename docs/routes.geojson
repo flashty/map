@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-17T10:20:10+00:00",
+        "last_updated": "2026-07-17T10:39:07+00:00",
+        "path_labels": [
+          "Дмитровск",
+          "Шаблыкинский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.145725,
+            52.509418
+          ],
+          [
+            35.1025788,
+            52.8579891
+          ]
+        ]
+      }
+    }
+  ]
 }
