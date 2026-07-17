@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_100619_Погарский",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T03:03:20+00:00",
-    "text": "Погарский район и далее в тыл\nТревога по БПЛА сохраняется\nБрянская область",
-    "type": "drone",
-    "location_name": "Погарский",
-    "region": "Брянская область",
-    "lat": 52.5207056,
-    "lon": 33.2053408
-  },
-  {
-    "id": "LPRalarm_202898_Погарский",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T03:03:23+00:00",
-    "text": "Погарский район и далее в тыл\nТревога по БПЛА сохраняется\nБрянская область",
-    "type": "drone",
-    "location_name": "Погарский",
-    "region": "Брянская область",
-    "lat": 52.5207056,
-    "lon": 33.2053408
-  },
-  {
-    "id": "LPRalarm_202899",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T03:03:29+00:00",
-    "text": "Белгородская область \nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_72651_Иваново",
-    "channel": "locatorru",
-    "date": "2026-07-16T03:03:36+00:00",
-    "text": "Иваново, аэ.Иваново(северный), Ивановская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Иваново",
-    "region": "Ивановская область",
-    "lat": 56.9956855,
-    "lon": 40.9812104
-  },
-  {
-    "id": "LPRalarm_202900",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T03:04:39+00:00",
-    "text": "Курская область\nБрянская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100620",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T03:04:44+00:00",
-    "text": "Курская область\nБрянская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_82172",
     "channel": "radarrussiia",
     "date": "2026-07-16T03:05:12+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203478",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T05:10:15+00:00",
+    "text": "Херсонская область РФ \nСевер Крыма опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101095",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T05:10:24+00:00",
+    "text": "Херсонская область РФ \nСевер Крыма опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_72834_Хлевенский",
+    "channel": "locatorru",
+    "date": "2026-07-17T05:11:36+00:00",
+    "text": "Хлевенский район, Липецкая область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": "Хлевенский",
+    "region": "Липецкая область",
+    "lat": 52.1662269,
+    "lon": 39.1137031
+  },
+  {
+    "id": "vrv_radar_73682",
+    "channel": "vrv_radar",
+    "date": "2026-07-17T05:14:33+00:00",
+    "text": "Липецкая область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203479",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T05:14:55+00:00",
+    "text": "Новознаменка Кашкарное ЛНР \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101096",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T05:15:18+00:00",
+    "text": "Новознаменка Кашкарное ЛНР\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
