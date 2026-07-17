@@ -1,60 +1,5 @@
 [
   {
-    "id": "locatorru_72684_Тиликтино",
-    "channel": "locatorru",
-    "date": "2026-07-16T03:58:12+00:00",
-    "text": "Тиликтино, Клинский район, Московская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Тиликтино",
-    "region": "Московская область",
-    "lat": 56.0911647,
-    "lon": 36.6106476
-  },
-  {
-    "id": "vrv_radar_73488_Истра",
-    "channel": "vrv_radar",
-    "date": "2026-07-16T03:58:34+00:00",
-    "text": "МО Истра\nМосковская область\nРабота ПВО по БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Истра",
-    "region": "Московская область",
-    "lat": 55.9145993,
-    "lon": 36.8595482
-  },
-  {
-    "id": "locatorru_72685",
-    "channel": "locatorru",
-    "date": "2026-07-16T03:58:49+00:00",
-    "text": "Ростовская область, Волгоградская область, Пензенская область, Саратовская область, Самарская область, Ульяновская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_82203_Истра",
-    "channel": "radarrussiia",
-    "date": "2026-07-16T03:59:08+00:00",
-    "text": "МО Истра\nМосковская область\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Истра",
-    "region": "Московская область",
-    "lat": 55.9145993,
-    "lon": 36.8595482
-  },
-  {
-    "id": "vrv_radar_73489",
-    "channel": "vrv_radar",
-    "date": "2026-07-16T03:59:11+00:00",
-    "text": "Ростовская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_73490_Ярославль",
     "channel": "vrv_radar",
     "date": "2026-07-16T04:00:22+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Орловская область",
     "lat": 52.957012,
     "lon": 37.64233
+  },
+  {
+    "id": "LPRalarm_203512",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T07:17:59+00:00",
+    "text": "Новотроицкое ракетная опасность ДНР",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101125",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T07:18:14+00:00",
+    "text": "Новотроицкое ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203513",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T07:19:20+00:00",
+    "text": "Шебекино\nМосковская, Дк, Белнефть\nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101126",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T07:19:37+00:00",
+    "text": "Шебекино\nМосковская, Дк, Белнефть\nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101127_Поныри",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T07:29:52+00:00",
+    "text": "Поныри Курская область в стороны Липецка пролёты бпла",
+    "type": "drone",
+    "location_name": "Поныри",
+    "region": "Курская область",
+    "lat": 52.3192156,
+    "lon": 36.3020868
   }
 ]
