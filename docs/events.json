@@ -1,82 +1,5 @@
 [
   {
-    "id": "kupolrussia_100711",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T09:38:42+00:00",
-    "text": "Север\nРеспублика Крым \nОпасность по реактивным БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_203007",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T09:44:55+00:00",
-    "text": "Каланчак и далее на юг \nФиксации БПЛА \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100712",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T09:45:04+00:00",
-    "text": "Каланчак и далее на юг \nФиксации БПЛА \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_203008",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T09:45:56+00:00",
-    "text": "Ленинский район \nОпасность по БПЛА с моря\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100713",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T09:46:09+00:00",
-    "text": "Ленинский район \n с моря\nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_203009",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T09:46:31+00:00",
-    "text": "Армянск\nКрасноперекопский район и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100714",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T09:46:48+00:00",
-    "text": "Армянск\nКрасноперекопский район и близлежащие \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_203010",
     "channel": "LPRalarm",
     "date": "2026-07-16T09:48:48+00:00",
@@ -21998,5 +21921,82 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_203697",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T14:50:15+00:00",
+    "text": "Север\nСеверо-Запад \nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101300",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T14:50:28+00:00",
+    "text": "Север\nСеверо-Запад \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_73736_Первомайский",
+    "channel": "vrv_radar",
+    "date": "2026-07-17T14:57:19+00:00",
+    "text": "Первомайский район\nТамбовская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Первомайский",
+    "region": "Тамбовская область",
+    "lat": 53.244999,
+    "lon": 40.285099
+  },
+  {
+    "id": "vrv_radar_73737_Сосновский",
+    "channel": "vrv_radar",
+    "date": "2026-07-17T14:57:41+00:00",
+    "text": "Сосновский район\nТамбовская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Сосновский",
+    "region": "Тамбовская область",
+    "lat": 53.1876684,
+    "lon": 41.3576139
+  },
+  {
+    "id": "vrv_radar_73738_Моршанский",
+    "channel": "vrv_radar",
+    "date": "2026-07-17T14:57:47+00:00",
+    "text": "Моршанский район\nТамбовская область\nФиксация от 2 БПЛА",
+    "type": "drone",
+    "location_name": "Моршанский",
+    "region": "Тамбовская область",
+    "lat": 53.5068109,
+    "lon": 41.7004248
+  },
+  {
+    "id": "vrv_radar_73739_Старожиловский",
+    "channel": "vrv_radar",
+    "date": "2026-07-17T14:58:37+00:00",
+    "text": "Старожиловский район\nРязанская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Старожиловский",
+    "region": "Рязанская область",
+    "lat": 54.2655268,
+    "lon": 39.9256774
+  },
+  {
+    "id": "vrv_radar_73740_Спасский",
+    "channel": "vrv_radar",
+    "date": "2026-07-17T14:58:44+00:00",
+    "text": "Спасский район\nРязанская область\nФиксация от 2 БПЛА",
+    "type": "drone",
+    "location_name": "Спасский",
+    "region": "Рязанская область",
+    "lat": 54.5079588,
+    "lon": 40.5809989
   }
 ]
