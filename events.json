@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_73446_Сычёвский",
-    "channel": "vrv_radar",
-    "date": "2026-07-16T02:48:28+00:00",
-    "text": "Сычёвский район\nСмоленская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Сычёвский",
-    "region": "Смоленская область",
-    "lat": 55.8656995,
-    "lon": 34.1217937
-  },
-  {
-    "id": "radarrussiia_82167_Сычёвский",
-    "channel": "radarrussiia",
-    "date": "2026-07-16T02:48:43+00:00",
-    "text": "Сычёвский район\nСмоленская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Сычёвский",
-    "region": "Смоленская область",
-    "lat": 55.8656995,
-    "lon": 34.1217937
-  },
-  {
-    "id": "kupolrussia_100616",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T02:48:47+00:00",
-    "text": "Калужская область опасность по БПЛА сохраняется. Соблюдаем меры предосторожности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_202894",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T02:48:50+00:00",
-    "text": "Калужская область опасность по БПЛА сохраняется. Соблюдаем меры предосторожности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_73447_Лихославльский",
     "channel": "vrv_radar",
     "date": "2026-07-16T02:48:54+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Орловская область",
     "lat": 52.9709262,
     "lon": 36.0642127
+  },
+  {
+    "id": "vrv_radar_73680",
+    "channel": "vrv_radar",
+    "date": "2026-07-17T04:36:24+00:00",
+    "text": "Сочи и близлежащие \nКраснодарский край \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203473",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T04:36:41+00:00",
+    "text": "Опасность БпЛА Приазовский Приморский районы \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101093",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T04:36:50+00:00",
+    "text": "Опасность БпЛА Приазовский Приморский районы \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_73681",
+    "channel": "vrv_radar",
+    "date": "2026-07-17T04:41:04+00:00",
+    "text": "ГО Бронницы \nМосковская область \nМеры безопасности",
+    "type": "alert",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
   }
 ]
