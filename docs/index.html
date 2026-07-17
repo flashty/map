@@ -73,13 +73,17 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
 // регіонів з GeoJSON з назвами, які видає парсер повідомлень
 function normalizeRegion(name) {
   if (!name) return "";
-  return name
+  const cleaned = name
     .toLowerCase()
     .replace(/\(.*?\)/g, "")
     .replace(/область|обл\.?|край|республика|автономный округ|-\s*кузбасс|-\s*югра|-\s*алания|-\s*чувашия/gi, "")
     .replace(/[^а-яё\- ]/gi, "")
     .replace(/\s+/g, " ")
     .trim();
+  const root = cleaned.split(" ")[0] || "";
+  // прибираємо закінчення відмінка (останні 2 літери), щоб "Калужскую"
+  // (знахідний відмінок) і "Калужская" (називний, офіційна назва) збігались
+  return root.length > 6 ? root.slice(0, -2) : root;
 }
 
 let regionStatus = {}; // { normalizedRegionName: {type, text, channel, updated_at} }
