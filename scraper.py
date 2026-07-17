@@ -32,6 +32,7 @@ CHANNELS = [
     "LPRalarm",
     "vrv_radar",
     "kupolrussia",
+    "radar_plus_bpla",
 ]
 
 STATE_FILE = "state.json"
@@ -99,6 +100,24 @@ def expand_region_abbreviations(text: str) -> str:
         text = re.sub(pattern, full_name, text, flags=re.IGNORECASE)
     return text
 
+
+# "через Калужскую, Тульскую область и далее..." — типова конструкція, де
+# слово "область" стоїть лише раз в кінці, але стосується ВСІХ прикметників
+# у переліку через кому. Розгортаємо в "Калужскую область, Тульскую область"
+ELIDED_SUFFIX_PATTERN = re.compile(
+    r"((?:[А-ЯЁ][а-яёА-ЯЁ\-]+,\s*)+)([А-ЯЁ][а-яёА-ЯЁ\-]+)\s+(область|край|автономный округ)"
+)
+
+
+def expand_elided_region_suffix(text: str) -> str:
+    def repl(m):
+        leading_words = [w.strip() for w in m.group(1).split(",") if w.strip()]
+        suffix = m.group(3)
+        expanded = ", ".join(f"{w} {suffix}" for w in leading_words)
+        return f"{expanded}, {m.group(2)} {suffix}"
+
+    return ELIDED_SUFFIX_PATTERN.sub(repl, text)
+
 # фрази-шум, які потрапляють у "хвіст" переліку локацій, але самі не є місцем
 LOCATION_STOPWORDS = [
     "и близлежащие населенные пункты",
@@ -121,6 +140,7 @@ def extract_locations_and_regions(text: str):
        республіки — тоді трактуємо кожну як окремий уражений регіон.
     """
     text = expand_region_abbreviations(text)
+    text = expand_elided_region_suffix(text)
     region_matches = list(REGION_PATTERN.finditer(text))
 
     if len(region_matches) >= 2:
@@ -308,6 +328,71 @@ def tracks_to_geojson(tracks):
     return {"type": "FeatureCollection", "features": features}
 
 
+# фрази, які явно вказують на РУХ через кілька регіонів в ОДНОМУ повідомленні
+# (на відміну від простого переліку "Область1, Область2, Область3 - опис",
+# де порядок нічого не означає) — напр. "через Калужскую, Тульскую и далее
+# на Московскую область". Тут порядок згадки регіонів = напрямок руху.
+MOVEMENT_KEYWORDS = [
+    "через", "и далее на", "и далее в", "далее на", "далее в тыл",
+    "движется в направлении", "движется на", "летит через", "продолжает движение",
+]
+
+
+def load_region_centroids():
+    """Рахує приблизний центр кожного регіону (з уже наявних geojson-файлів
+    карти) — потрібно, щоб малювати явний маршрут по регіонах з одного
+    повідомлення, де немає конкретного міста/району, тільки назви областей."""
+    from shapely.geometry import shape
+
+    centroids = {}
+    for path, name_field in (
+        ("docs/russia_regions.geojson", "region"),
+        ("docs/occupied_territories.geojson", "match_key"),
+    ):
+        try:
+            with open(path, encoding="utf-8") as f:
+                data = json.load(f)
+            for feat in data.get("features", []):
+                raw_name = feat["properties"].get(name_field, "")
+                key = (
+                    normalize_region_for_match(raw_name)
+                    if name_field == "region"
+                    else raw_name
+                )
+                if key and key not in centroids:
+                    c = shape(feat["geometry"]).centroid
+                    centroids[key] = [c.y, c.x]
+        except Exception as e:
+            print(f"Failed to load centroids from {path}: {e}")
+    return centroids
+
+
+def build_explicit_route(tracks, alert_type, regions, region_centroids, msg_time, channel):
+    """Будує маршрут напряму з ОДНОГО повідомлення, де канал явно перелічив
+    регіони в порядку руху (напр. "через Калужскую, Тульскую и далее на
+    Московскую область"). На відміну від try_extend_or_create_track, тут не
+    треба вгадувати зв'язок між окремими повідомленнями — порядок вже дано."""
+    if alert_type not in ("drone", "missile"):
+        return
+    points = []
+    for r in regions:
+        key = normalize_region_for_match(r)
+        c = region_centroids.get(key)
+        if c:
+            points.append({
+                "lat": c[0], "lon": c[1], "time": msg_time.isoformat(),
+                "location_name": r, "region": r,
+            })
+    if len(points) < 2:
+        return
+    tracks.append({
+        "id": f"{alert_type}_{msg_time.timestamp()}_explicit_{channel}",
+        "type": alert_type,
+        "points": points,
+        "last_time": msg_time.isoformat(),
+    })
+
+
 def detect_type(text: str) -> str:
     low = text.lower()
     for label, keywords in TYPE_KEYWORDS:
@@ -410,7 +495,13 @@ def normalize_region_for_match(name: str) -> str:
     n = re.sub(r"область|обл\.?|край|республика|автономный округ", "", n)
     n = re.sub(r"[^а-яё\- ]", "", n)
     n = re.sub(r"\s+", " ", n).strip()
-    return n.split(" ")[0] if n else ""
+    root = n.split(" ")[0] if n else ""
+    # прибираємо закінчення відмінка (останні 2 літери), щоб "Калужскую"
+    # (знахідний відмінок, напр. "через Калужскую область") і "Калужская"
+    # (називний, офіційна назва в geojson) зводились до одного кореня
+    if len(root) > 6:
+        root = root[:-2]
+    return root
 
 
 def geocode(name: str, region: str, cache: dict):
@@ -499,6 +590,7 @@ def main():
     geocode_cache = load_json(GEOCODE_CACHE_FILE, {})
     region_status = load_json(REGION_STATUS_FILE, {})
     tracks = load_json(ROUTES_STATE_FILE, {"tracks": []}).get("tracks", [])
+    region_centroids = load_region_centroids()
     now = datetime.now(timezone.utc)
 
     fetch_occupied_line()
@@ -578,6 +670,12 @@ def main():
             if alert_type != "unknown":
                 for region in regions:
                     update_region_status(region_status, region, alert_type, text, channel, msg_time)
+
+            # якщо канал явно описав напрямок руху через кілька регіонів в
+            # одному повідомленні — малюємо це як готовий маршрут одразу,
+            # без евристики між окремими повідомленнями
+            if len(regions) >= 2 and any(kw in text.lower() for kw in MOVEMENT_KEYWORDS):
+                build_explicit_route(tracks, alert_type, regions, region_centroids, msg_time, channel)
 
             primary_region = regions[0] if regions else None
 
