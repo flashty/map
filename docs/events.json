@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_203031_Рыльский",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T10:45:52+00:00",
-    "text": "Крупец пройти в укрытые от 5 ФПВ в вашу сторону!!\nКрупец - тревога по ФПВ!\n\nРыльский район \nКурская область",
-    "type": "alert",
-    "location_name": "Рыльский",
-    "region": "Курская область",
-    "lat": 51.5713767,
-    "lon": 34.624021
-  },
-  {
-    "id": "LPRalarm_203032",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T10:47:05+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100734",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T10:47:33+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_203033_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T10:50:33+00:00",
-    "text": "Белгородский район \nОпасность атаки БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "kupolrussia_100735_Белгородский",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T10:50:51+00:00",
-    "text": "Белгородский район \nОпасность атаки БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
     "id": "vrv_radar_73544_Туапсинский",
     "channel": "vrv_radar",
     "date": "2026-07-16T10:52:15+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101317",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T16:17:35+00:00",
+    "text": "Войково и далее на Симферополь трасса тревога по БПЛА. Транспортным средствам группы риска срочно покинуть дорогу",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203718",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T16:17:38+00:00",
+    "text": "Шахтерск ДНР бпла Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101318",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T16:17:50+00:00",
+    "text": "Шахтерск ДНР бпла Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203719",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T16:21:36+00:00",
+    "text": "Гвардейское с севера с полей между трассами тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101319",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T16:21:54+00:00",
+    "text": "Гвардейское с севера с полей между трассами тревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
