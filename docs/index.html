@@ -214,37 +214,32 @@ async function refreshRegionStatus() {
     }
     const activeCount = Object.keys(regionStatus).length;
 
-    // рахуємо кількість активних РЕГІОНІВ (не повідомлень!) за типом, а
-    // також сумарну кількість дронів/ракет, якщо канал її вказав — один
-    // регіон = один запис у regionStatus, незалежно від того, скільки
-    // разів і з яких каналів про нього писали, тож дублі з різних каналів
-    // тут природно не рахуються двічі
-    const counts = {}; // { type: { regions: n, units: n, unitsUnknown: n } }
+    // Головне число тут — кількість дронів/ракет, а не регіонів.
+    // Якщо канал не вказав точну кількість у повідомленні — рахуємо це як
+    // мінімум 1 (сам факт тривоги означає щонайменше одну ціль), інакше
+    // сума виглядала б порожньою для більшості типів.
+    const counts = {}; // { type: { regions: n, units: n, hasExact: bool } }
     for (const status of Object.values(regionStatus)) {
-      if (!counts[status.type]) counts[status.type] = { regions: 0, units: 0, unitsUnknown: 0 };
+      if (!counts[status.type]) counts[status.type] = { regions: 0, units: 0, hasUnknown: false };
       counts[status.type].regions += 1;
       if (typeof status.count === "number") {
         counts[status.type].units += status.count;
       } else {
-        counts[status.type].unitsUnknown += 1;
+        counts[status.type].units += 1;
+        counts[status.type].hasUnknown = true;
       }
     }
     const summaryHtml = Object.entries(counts)
-      .sort((a, b) => b[1].regions - a[1].regions)
+      .sort((a, b) => b[1].units - a[1].units)
       .map(([type, c]) => {
         const color = TYPE_COLORS[type] || TYPE_COLORS.unknown;
         const label = TYPE_LABELS[type] || TYPE_LABELS.unknown;
-        let unitsText = "";
-        if (c.units > 0 && c.unitsUnknown > 0) {
-          unitsText = ` · від ${c.units}+ од.`;
-        } else if (c.units > 0) {
-          unitsText = ` · ${c.units} од.`;
-        }
-        return `<div class="legend-row"><span class="swatch" style="background:${color};"></span>${label}: ${c.regions} рег.${unitsText}</div>`;
+        const approx = c.hasUnknown ? "~" : ""; // ~ означає, що частина точних кількостей невідома
+        return `<div class="legend-row"><span class="swatch" style="background:${color};"></span>${label}: <b>${approx}${c.units}</b> <span style="opacity:0.6;">(${c.regions} рег.)</span></div>`;
       })
       .join("");
     document.getElementById('summary').innerHTML =
-      `<div style="opacity:0.7; margin-bottom:4px;">Активні тривоги по регіонах:</div>` +
+      `<div style="opacity:0.7; margin-bottom:4px;">Орієнтовна кількість цілей:</div>` +
       (summaryHtml || '<div style="opacity:0.5;">Немає активних тривог</div>');
 
     document.getElementById('updated').textContent =
