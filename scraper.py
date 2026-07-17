@@ -53,7 +53,7 @@ REGION_BACKSTOP_HOURS = 1
 # послідовні повідомлення ОДНОГО типу (дрон/ракета) поєднуються в один
 # маршрут, якщо відстань між точками правдоподібна для часу між ними.
 ROUTES_STATE_FILE = "routes_state.json"
-TRACK_MAX_AGE_HOURS = 3          # маршрут "закривається" (зникає), якщо давно без нових точок
+TRACK_MAX_AGE_HOURS = 1            # маршрут "закривається" (зникає), якщо давно без нових точок
 MAX_POINTS_PER_TRACK = 6         # далі краще почати новий трек, ніж тягнути один нескінченно
 
 # Параметри навмисно жорсткі: краще пропустити реальний зв'язок між точками,
@@ -74,7 +74,8 @@ MISSILE_MAX_HOP_KM = 250
 # звірити результати з оригінальними постами і скоригувати список.
 TYPE_KEYWORDS = [
     ("all_clear", ["отбой", "угроза миновала"]),
-    ("missile", ["ракет", "баллистич", "калибр", "искандер", "х-101", "х-22", "х-59", "фламинго", "крылат"]),
+    ("ballistic", ["баллистич", "искандер", "кинжал", "циркон"]),
+    ("missile", ["ракет", "калибр", "х-101", "х-22", "х-59", "фламинго", "крылат"]),
     ("drone", ["бпла", "дрон", "шахед", "shahed", "герань"]),
     ("aviation", ["авиац", "ил-76", "миг-31", "миг-29", "су-34", "су-35", "взлет", "взлёт"]),
     ("shelling", ["обстрел", "артобстрел", "минометн"]),
@@ -195,6 +196,17 @@ def extract_locations_and_regions(text: str):
     return result, ([region] if region else [])
 
 
+COUNT_PATTERN = re.compile(r"(\d+)\s*(?:бпла|дрон\w*|ракет\w*|шахед\w*)", re.IGNORECASE)
+
+
+def extract_unit_count(text: str):
+    """Витягує кількість дронів/ракет з тексту, якщо канал її вказав
+    (напр. "Фиксация от 4 БПЛА", "От 30 БПЛА через..."). Повертає число
+    або None, якщо кількість не згадана."""
+    m = COUNT_PATTERN.search(text)
+    return int(m.group(1)) if m else None
+
+
 def update_region_status(region_status: dict, region: str, alert_type: str, text: str, channel: str, msg_time):
     """Оновлює статус регіону для підсвітки на карті.
 
@@ -222,6 +234,7 @@ def update_region_status(region_status: dict, region: str, alert_type: str, text
         "channel": channel,
         "updated_at": msg_time.isoformat(),
         "expires_at": expires_at.isoformat(),
+        "count": extract_unit_count(text),
     }
 
 
@@ -247,7 +260,7 @@ def try_extend_or_create_track(tracks, event_type, lat, lon, time_dt, location_n
     """Додає точку до існуючого маршруту (якщо стрибок правдоподібний за
     відстанню/часом) або починає новий маршрут. Маршрути будуємо тільки
     для дронів і ракет — для інших типів це не має сенсу."""
-    if event_type not in ("drone", "missile"):
+    if event_type not in ("drone", "missile", "ballistic"):
         return
 
     max_speed = DRONE_MAX_SPEED_KMH if event_type == "drone" else MISSILE_MAX_SPEED_KMH
@@ -367,24 +380,42 @@ def load_region_centroids():
     return centroids
 
 
+# якщо в "явному" маршруті раптом трапляється стрибок на неправдоподібну
+# відстань (напр. Москва -> Кримський міст в одному повідомленні) —
+# обрізаємо ланцюжок саме на цьому місці, а не малюємо абсурдну лінію
+EXPLICIT_ROUTE_MAX_HOP_KM = 500
+
+
 def build_explicit_route(tracks, alert_type, regions, region_centroids, msg_time, channel):
     """Будує маршрут напряму з ОДНОГО повідомлення, де канал явно перелічив
     регіони в порядку руху (напр. "через Калужскую, Тульскую и далее на
     Московскую область"). На відміну від try_extend_or_create_track, тут не
     треба вгадувати зв'язок між окремими повідомленнями — порядок вже дано."""
-    if alert_type not in ("drone", "missile"):
+    if alert_type not in ("drone", "missile", "ballistic"):
         return
-    points = []
+    raw_points = []
     for r in regions:
         key = normalize_region_for_match(r)
         c = region_centroids.get(key)
         if c:
-            points.append({
+            raw_points.append({
                 "lat": c[0], "lon": c[1], "time": msg_time.isoformat(),
                 "location_name": r, "region": r,
             })
+    if len(raw_points) < 2:
+        return
+
+    # обрізаємо ланцюжок на першому неправдоподібному стрибку
+    points = [raw_points[0]]
+    for p in raw_points[1:]:
+        prev = points[-1]
+        dist = haversine_km(prev["lat"], prev["lon"], p["lat"], p["lon"])
+        if dist > EXPLICIT_ROUTE_MAX_HOP_KM:
+            break
+        points.append(p)
     if len(points) < 2:
         return
+
     tracks.append({
         "id": f"{alert_type}_{msg_time.timestamp()}_explicit_{channel}",
         "type": alert_type,
