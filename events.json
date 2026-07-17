@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_203018_Одесса",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T10:20:17+00:00",
-    "text": "Пуски БПЛА от Одесса",
-    "type": "drone",
-    "location_name": "Одесса",
-    "region": null,
-    "lat": 43.0637267,
-    "lon": 43.2098205
-  },
-  {
-    "id": "kupolrussia_100721_Одесса",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T10:20:23+00:00",
-    "text": "Пуски БПЛА от Одесса",
-    "type": "drone",
-    "location_name": "Одесса",
-    "region": null,
-    "lat": 43.0637267,
-    "lon": 43.2098205
-  },
-  {
-    "id": "LPRalarm_203019_Валуйский",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T10:20:35+00:00",
-    "text": "Валуйский район \nОпасность атаки БПЛА",
-    "type": "drone",
-    "location_name": "Валуйский",
-    "region": null,
-    "lat": 53.1481885,
-    "lon": 36.3185713
-  },
-  {
-    "id": "kupolrussia_100722_Валуйский",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T10:20:58+00:00",
-    "text": "Валуйский район \nБелгородская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Валуйский",
-    "region": "Белгородская область",
-    "lat": 50.1632256,
-    "lon": 37.9638901
-  },
-  {
-    "id": "LPRalarm_203020",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T10:21:32+00:00",
-    "text": "Раздольненский район \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100723",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T10:21:49+00:00",
-    "text": "Раздольненский район \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_203021_Кача",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T10:22:58+00:00",
-    "text": "Кача, Бельбек, Севастополь \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Кача",
-    "region": null,
-    "lat": 56.1972669,
-    "lon": 92.5363666
-  },
-  {
     "id": "kupolrussia_100724_Кача",
     "channel": "kupolrussia",
     "date": "2026-07-16T10:23:18+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Мордовия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101306",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T15:17:59+00:00",
+    "text": "Нижегородская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203702",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T15:18:03+00:00",
+    "text": "Нижегородская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203703",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T15:19:46+00:00",
+    "text": "Скадовск и близлежащие внимание по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101307",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T15:19:53+00:00",
+    "text": "Скадовск и близлежащие внимание по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203704",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T15:21:56+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203705",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T15:22:08+00:00",
+    "text": "Курская область и близлежащие, Харьковская область РФ, ЛДНР, Запорожская область РФ \n\nАвиационная ракетная бомбовая опасность. Черкассы на восток самолёты. Возможно носители Штормов",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101308",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T15:22:08+00:00",
+    "text": "Курская область и близлежащие, Харьковская область РФ, ЛДНР, Запорожская область РФ \n\nАвиационная ракетная бомбовая опасность. Черкассы на восток самолёты. Возможно носители Штормов",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }
