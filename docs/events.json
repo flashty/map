@@ -1,104 +1,5 @@
 [
   {
-    "id": "vrv_radar_73542",
-    "channel": "vrv_radar",
-    "date": "2026-07-16T10:29:49+00:00",
-    "text": "МО Анапа \nКраснодарский край \nОпасность по БПЛА повторно",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100727_Валуйского",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T10:30:20+00:00",
-    "text": "Дальний \nВалуйского района \nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": "Валуйского",
-    "region": null,
-    "lat": 50.2167975,
-    "lon": 38.0908556
-  },
-  {
-    "id": "LPRalarm_203025",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T10:30:27+00:00",
-    "text": "Бухты Стрелецкая, Севастопольская \nСевастополь \nОпасность по МВШ с моря, в т.ч. со сбросами",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100728",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T10:30:42+00:00",
-    "text": "Бухты Стрелецкая, Севастопольская \nСевастополь \nОпасность по МВШ с моря, в т.ч. со сбросами",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_82275",
-    "channel": "radarrussiia",
-    "date": "2026-07-16T10:30:47+00:00",
-    "text": "МО Анапа \nКраснодарский край \nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_203026",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T10:38:22+00:00",
-    "text": "Севастополь \nОтбой беспилотной опасности по ранее объявленным",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100729",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T10:38:43+00:00",
-    "text": "Севастополь \nОтбой беспилотной опасности по ранее объявленным",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_203027",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T10:39:20+00:00",
-    "text": "Керченский полуостров \nКерчь\nКрымский мост \nТревога по БПЛА действует",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100730",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T10:39:28+00:00",
-    "text": "Керченский полуостров \nКерчь\nКрымский мост \nТревога по БПЛА действует",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_203028",
     "channel": "LPRalarm",
     "date": "2026-07-16T10:41:10+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203708",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T15:48:54+00:00",
+    "text": "Запорожская область РФ \nПриготовиться к пускам Уаб самолётами противника",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101311",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T15:49:06+00:00",
+    "text": "Запорожская область РФ \nПриготовиться к пускам Уаб самолётами противника",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203709",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T15:50:13+00:00",
+    "text": "Мальцевка Терны Харьковской области РФ \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101312",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T15:50:20+00:00",
+    "text": "Мальцевка Терны Харьковской области РФ \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203710",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T15:50:31+00:00",
+    "text": "Трасса Раздольное - Воинка опасность по БПЛА от Раздольного",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101313",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T15:50:37+00:00",
+    "text": "Трасса Раздольное - Воинка опасность по БПЛА от Раздольного",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203711",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T15:52:41+00:00",
+    "text": "Собрано для оборудования на МОГи \n500.000 рублей \n❤️❤️❤️\n\nПринять участие в сборе:\nhttps://pay.cloudtips.ru/p/d8f0d6f7",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203712",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T15:55:57+00:00",
+    "text": "Трасса АПП Джанкой - Джанкой тревога по БПЛА. Охотятся за транспортом",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101314",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T15:56:16+00:00",
+    "text": "Трасса АПП Джанкой - Джанкой тревога по БПЛА. Охотятся за транспортом",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
