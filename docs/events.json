@@ -1,93 +1,5 @@
 [
   {
-    "id": "kupolrussia_100602_Джанкойский",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T01:47:51+00:00",
-    "text": "Джанкойский район в направлении Нижнегорский район тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Джанкойский",
-    "region": null,
-    "lat": 55.5394245,
-    "lon": 37.5744389
-  },
-  {
-    "id": "kupolrussia_100602_Нижнегорский",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T01:47:51+00:00",
-    "text": "Джанкойский район в направлении Нижнегорский район тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Нижнегорский",
-    "region": null,
-    "lat": 53.3562241,
-    "lon": 51.1593807
-  },
-  {
-    "id": "locatorru_72632_Чернянский",
-    "channel": "locatorru",
-    "date": "2026-07-16T01:48:13+00:00",
-    "text": "Чернянский район, Старооскольский район, Белгородская область - меры безопасности! \n\n📡Локатор России - @locatorru",
-    "type": "alert",
-    "location_name": "Чернянский",
-    "region": "Белгородская область",
-    "lat": 50.9821216,
-    "lon": 37.8753291
-  },
-  {
-    "id": "locatorru_72632_Старооскольский",
-    "channel": "locatorru",
-    "date": "2026-07-16T01:48:13+00:00",
-    "text": "Чернянский район, Старооскольский район, Белгородская область - меры безопасности! \n\n📡Локатор России - @locatorru",
-    "type": "alert",
-    "location_name": "Старооскольский",
-    "region": "Белгородская область",
-    "lat": 51.2258539,
-    "lon": 38.070712
-  },
-  {
-    "id": "LPRalarm_202879",
-    "channel": "LPRalarm",
-    "date": "2026-07-16T01:49:10+00:00",
-    "text": "Железногорск и близлежащие и далее в направлении Орловской области тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_72633",
-    "channel": "locatorru",
-    "date": "2026-07-16T01:49:21+00:00",
-    "text": "стык Липецкой области, Воронежской области, Курской области, Белгородской области - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_100603",
-    "channel": "kupolrussia",
-    "date": "2026-07-16T01:49:22+00:00",
-    "text": "Железногорск и близлежащие и далее в направлении Орловской области тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_73408_Энгельс",
-    "channel": "vrv_radar",
-    "date": "2026-07-16T01:49:59+00:00",
-    "text": "Саратов/Энгельс\nСаратовская область \nЕще сбитие БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Энгельс",
-    "region": "Саратовская область",
-    "lat": 51.5013775,
-    "lon": 46.1233093
-  },
-  {
     "id": "vrv_radar_73409_Энгельс",
     "channel": "vrv_radar",
     "date": "2026-07-16T01:50:22+00:00",
@@ -21996,6 +21908,94 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203428",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T00:16:27+00:00",
+    "text": "Причерноморье Краснодарский край опасность по БПЛА от Керченского полуострова, повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101058",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T00:16:53+00:00",
+    "text": "Причерноморье Краснодарский край опасность по БПЛА от Керченского полуострова, повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203429",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T00:21:17+00:00",
+    "text": "Прибрежное. \nСаки. \nСакская ТЭС\nТревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101059",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T00:21:50+00:00",
+    "text": "Прибрежное. \nСаки. \nСакская ТЭС\nТревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203430",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T00:26:46+00:00",
+    "text": "Джанкойский район ,Крымка и близлежащие тревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101060",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T00:27:08+00:00",
+    "text": "Джанкойский район ,Крымка и близлежащие тревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_203431",
+    "channel": "LPRalarm",
+    "date": "2026-07-17T00:29:20+00:00",
+    "text": "Керчь и близлежащие\nТревога по БПЛА сохраняется\nСоблюдайте меры безопасности\nРеспублики Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101061",
+    "channel": "kupolrussia",
+    "date": "2026-07-17T00:29:47+00:00",
+    "text": "Керчь и близлежащие\nТревога по БПЛА сохраняется\nСоблюдайте меры безопасности\nРеспублики Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
