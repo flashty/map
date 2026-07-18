@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_203780_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T18:39:34+00:00",
-    "text": "Маслова Пристань, Крутой Лог Разумное \nБелгородский район \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "LPRalarm_203780_Маслова Пристань",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T18:39:34+00:00",
-    "text": "Маслова Пристань, Крутой Лог Разумное \nБелгородский район \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Маслова Пристань",
-    "region": null,
-    "lat": 50.4597389,
-    "lon": 36.7405722
-  },
-  {
-    "id": "LPRalarm_203781",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T18:41:37+00:00",
-    "text": "Седово, Новоазовск, Мариуполь ДНР и близлежащие \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_203782",
     "channel": "LPRalarm",
     "date": "2026-07-17T18:41:51+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Липецкая область",
     "lat": 52.855247,
     "lon": 38.788101
+  },
+  {
+    "id": "kupolrussia_101777",
+    "channel": "kupolrussia",
+    "date": "2026-07-18T14:41:54+00:00",
+    "text": "Енакиево\nДНР\n на электротяге\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101778",
+    "channel": "kupolrussia",
+    "date": "2026-07-18T14:44:14+00:00",
+    "text": "ЛДНР\nи далее в тыл\nТревога по БПЛА Фламинго \nЗапуски были от Днепропетровской области",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_204243",
+    "channel": "LPRalarm",
+    "date": "2026-07-18T14:44:23+00:00",
+    "text": "ЛДНР\nи далее в тыл\nТревога по БПЛА Фламинго \nЗапуски были от Днепропетровской области",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
