@@ -218,44 +218,25 @@ async function refreshRegionStatus() {
     // Якщо канал не вказав точну кількість у повідомленні — рахуємо це як
     // мінімум 1 (сам факт тривоги означає щонайменше одну ціль), інакше
     // сума виглядала б порожньою для більшості типів.
-    // Загальнодержавний дефолт "типового розміру групи", якщо цієї ночі
-    // канали взагалі не вказали жодного точного числа — краще розумний
-    // орієнтир, ніж голий "1" чи порожнеча
-    const FALLBACK_GROUP_SIZE = 3;
-
-    const counts = {}; // { type: { knownUnits: n, knownReports: n, unclearRegions: n } }
+    // рахуємо ЛИШЕ точні числа, які канал сам вказав у тексті — ніяких
+    // здогадок і оцінок для регіонів без вказаної кількості
+    const counts = {}; // { type: knownUnits }
     for (const status of Object.values(regionStatus)) {
-      if (!counts[status.type]) counts[status.type] = { knownUnits: 0, knownReports: 0, unclearRegions: 0 };
       if (typeof status.count === "number") {
-        counts[status.type].knownUnits += status.count;
-        counts[status.type].knownReports += 1;
-      } else {
-        counts[status.type].unclearRegions += 1;
+        counts[status.type] = (counts[status.type] || 0) + status.count;
       }
     }
     const summaryHtml = Object.entries(counts)
-      .map(([type, c]) => {
-        // середній розмір групи по ЦЬОМУ типу цієї ночі (якщо є дані),
-        // інакше — загальний дефолт
-        const avgGroupSize = c.knownReports > 0
-          ? c.knownUnits / c.knownReports
-          : FALLBACK_GROUP_SIZE;
-        const estimatedUnclear = Math.round(c.unclearRegions * avgGroupSize);
-        const total = c.knownUnits + estimatedUnclear;
-        return { type, total, hasEstimate: c.unclearRegions > 0 };
-      })
-      .sort((a, b) => b.total - a.total)
-      .map(({ type, total, hasEstimate }) => {
+      .sort((a, b) => b[1] - a[1])
+      .map(([type, total]) => {
         const color = TYPE_COLORS[type] || TYPE_COLORS.unknown;
         const label = TYPE_LABELS[type] || TYPE_LABELS.unknown;
-        const approx = hasEstimate ? "~" : "";
-        return `<div class="legend-row"><span class="swatch" style="background:${color};"></span>${label}: <b>${approx}${total}</b></div>`;
+        return `<div class="legend-row"><span class="swatch" style="background:${color};"></span>${label}: <b>${total}</b></div>`;
       })
       .join("");
     document.getElementById('summary').innerHTML =
-      `<div style="opacity:0.7; margin-bottom:4px;">Орієнтовна кількість цілей:</div>` +
-      (summaryHtml || '<div style="opacity:0.5;">Немає активних тривог</div>') +
-      (summaryHtml ? '<div style="opacity:0.45; font-size:11px; margin-top:4px;">~ означає оцінку за середнім розміром групи цієї ночі</div>' : '');
+      `<div style="opacity:0.7; margin-bottom:4px;">Кількість цілей (за точними даними каналів):</div>` +
+      (summaryHtml || '<div style="opacity:0.5;">Немає повідомлень з точною кількістю</div>');
 
     document.getElementById('updated').textContent =
       'Оновлено: ' + new Date().toLocaleTimeString('uk-UA') + ' · активних регіонів: ' + activeCount;
