@@ -1,115 +1,5 @@
 [
   {
-    "id": "kupolrussia_101232",
-    "channel": "kupolrussia",
-    "date": "2026-07-17T10:50:38+00:00",
-    "text": "Ставропольский край",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_203618",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T10:50:45+00:00",
-    "text": "Ставропольский край",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_101233",
-    "channel": "kupolrussia",
-    "date": "2026-07-17T10:50:59+00:00",
-    "text": "Астраханская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Астраханская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_203619",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T10:51:02+00:00",
-    "text": "Астраханская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Астраханская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_203620",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T10:51:59+00:00",
-    "text": "Портовое \nКумово и близлежащие \n\nОпасность по БПЛА с моря \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_101234",
-    "channel": "kupolrussia",
-    "date": "2026-07-17T10:53:10+00:00",
-    "text": "Портовое \nКумово и близлежащие \n с моря \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_73718_Кромской",
-    "channel": "vrv_radar",
-    "date": "2026-07-17T10:57:22+00:00",
-    "text": "Кромской район\nОрловская область\nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Кромской",
-    "region": "Орловская область",
-    "lat": 52.6353551,
-    "lon": 35.763628
-  },
-  {
-    "id": "vrv_radar_73719_Свердловский",
-    "channel": "vrv_radar",
-    "date": "2026-07-17T10:57:28+00:00",
-    "text": "Свердловский район\nОрловская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Свердловский",
-    "region": "Орловская область",
-    "lat": 52.6765295,
-    "lon": 36.2815763
-  },
-  {
-    "id": "vrv_radar_73720_Сосковский",
-    "channel": "vrv_radar",
-    "date": "2026-07-17T10:58:22+00:00",
-    "text": "Сосковский район\nОрловская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Сосковский",
-    "region": "Орловская область",
-    "lat": 52.742656,
-    "lon": 35.3808815
-  },
-  {
-    "id": "LPRalarm_203621",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T10:58:27+00:00",
-    "text": "Запорожская область РФ \nЛДНР \n\nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_203622",
     "channel": "LPRalarm",
     "date": "2026-07-17T10:58:29+00:00",
@@ -21998,5 +21888,115 @@
     "region": "Московская область",
     "lat": 55.5709361,
     "lon": 38.2282099
+  },
+  {
+    "id": "vrv_radar_73990",
+    "channel": "vrv_radar",
+    "date": "2026-07-18T03:02:47+00:00",
+    "text": "Ярославская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_73991_Раменское",
+    "channel": "vrv_radar",
+    "date": "2026-07-18T03:04:46+00:00",
+    "text": "МО Раменское\nМосковская область\nРабота ПВО по БПЛА\nМеры безопасности",
+    "type": "drone",
+    "location_name": "Раменское",
+    "region": "Московская область",
+    "lat": 55.5709361,
+    "lon": 38.2282099
+  },
+  {
+    "id": "vrv_radar_73992_Дмитровский",
+    "channel": "vrv_radar",
+    "date": "2026-07-18T03:08:17+00:00",
+    "text": "Дмитровский район\nОрловская область\nФиксация от 4 БПЛА",
+    "type": "drone",
+    "location_name": "Дмитровский",
+    "region": "Орловская область",
+    "lat": 52.6670934,
+    "lon": 35.5664814
+  },
+  {
+    "id": "vrv_radar_73993_Сосковский",
+    "channel": "vrv_radar",
+    "date": "2026-07-18T03:08:31+00:00",
+    "text": "Сосковский район\nОрловская область\nФиксация от 2 БПЛА",
+    "type": "drone",
+    "location_name": "Сосковский",
+    "region": "Орловская область",
+    "lat": 52.742656,
+    "lon": 35.3808815
+  },
+  {
+    "id": "vrv_radar_73994_Лебедянский",
+    "channel": "vrv_radar",
+    "date": "2026-07-18T03:08:54+00:00",
+    "text": "Лебедянский район\nЛипецкая область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Лебедянский",
+    "region": "Липецкая область",
+    "lat": 52.9521848,
+    "lon": 39.2048344
+  },
+  {
+    "id": "vrv_radar_73995_Пронский",
+    "channel": "vrv_radar",
+    "date": "2026-07-18T03:09:17+00:00",
+    "text": "Пронский район\nРязанская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Пронский",
+    "region": "Рязанская область",
+    "lat": 54.1832933,
+    "lon": 39.5528984
+  },
+  {
+    "id": "vrv_radar_73996_Шатура",
+    "channel": "vrv_radar",
+    "date": "2026-07-18T03:09:45+00:00",
+    "text": "ГО Шатура\nМосковская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Шатура",
+    "region": "Московская область",
+    "lat": 55.578403,
+    "lon": 39.5437584
+  },
+  {
+    "id": "vrv_radar_73997_Раменское",
+    "channel": "vrv_radar",
+    "date": "2026-07-18T03:11:30+00:00",
+    "text": "МО Раменское\nМосковская область\nРабота ПВО по БПЛА\nМеры безопасности",
+    "type": "drone",
+    "location_name": "Раменское",
+    "region": "Московская область",
+    "lat": 55.5709361,
+    "lon": 38.2282099
+  },
+  {
+    "id": "LPRalarm_204035",
+    "channel": "LPRalarm",
+    "date": "2026-07-18T03:12:11+00:00",
+    "text": "Шебекино \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_204036",
+    "channel": "LPRalarm",
+    "date": "2026-07-18T03:15:05+00:00",
+    "text": "Собрано для оборудования на МОГи \n855.000 рублей \n❤️❤️❤️\n\nПринять участие в сборе:\nhttps://pay.cloudtips.ru/p/d8f0d6f7",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
