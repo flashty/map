@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_203782",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T18:41:51+00:00",
-    "text": "Скадовск тревога по БПЛА и близлежащие",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_203783_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T18:42:40+00:00",
-    "text": "Белгородский район \nОпасность атаки БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "LPRalarm_203784",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T18:42:57+00:00",
-    "text": "Мариуполь\nДНР\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_203785",
     "channel": "LPRalarm",
     "date": "2026-07-17T18:43:11+00:00",
@@ -21998,5 +21965,38 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_12230",
+    "channel": "radar_plus_bpla",
+    "date": "2026-07-18T14:47:37+00:00",
+    "text": "🚨Фиксируем от 3 крылатых ракет \"Фламинго\" через ЛДНР в направлении Воронежской области и стыка с Ростовской области.\n\nВнимание все регионы по ракетной опасности.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_204244_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-07-18T14:53:58+00:00",
+    "text": "Белгородский район опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_101779_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-07-18T14:54:09+00:00",
+    "text": "Белгородский район\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
   }
 ]
