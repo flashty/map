@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_203776",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T18:31:19+00:00",
-    "text": "Скадовск\nХерсонская область РФ\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_203777",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T18:33:55+00:00",
-    "text": "Володарское ДНР в направлении Мариуполь и близлежащие \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_203778",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T18:34:51+00:00",
-    "text": "Мелитополь и близлежащие Тревога по БПЛА\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_203779_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T18:38:07+00:00",
-    "text": "Нижний Ольшанец \nБелгородский район \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
     "id": "LPRalarm_203780_Белгородский",
     "channel": "LPRalarm",
     "date": "2026-07-17T18:39:34+00:00",
@@ -21993,6 +21949,50 @@
     "channel": "vrv_radar",
     "date": "2026-07-18T14:28:52+00:00",
     "text": "Краснинский район\nЛипецкая область \nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Краснинский",
+    "region": "Липецкая область",
+    "lat": 52.855247,
+    "lon": 38.788101
+  },
+  {
+    "id": "vrv_radar_74064",
+    "channel": "vrv_radar",
+    "date": "2026-07-18T14:31:57+00:00",
+    "text": "Краснинский МО\nСтановлянский МО\nДанковский МО\nЛебедянский МО\nЛев-Толстовский МР\nЧаплыгинский МО\nЛипецкая область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_82583",
+    "channel": "radarrussiia",
+    "date": "2026-07-18T14:33:48+00:00",
+    "text": "Краснинский МО\nСтановлянский МО\nДанковский МО\nЛебедянский МО\nЛев-Толстовский МР\nЧаплыгинский МО\nЛипецкая область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_82584_Елецкий",
+    "channel": "radarrussiia",
+    "date": "2026-07-18T14:34:23+00:00",
+    "text": "Елецкий район\nКраснинский район\nЛипецкая область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Елецкий",
+    "region": "Липецкая область",
+    "lat": 52.631157,
+    "lon": 38.57095
+  },
+  {
+    "id": "radarrussiia_82584_Краснинский",
+    "channel": "radarrussiia",
+    "date": "2026-07-18T14:34:23+00:00",
+    "text": "Елецкий район\nКраснинский район\nЛипецкая область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "type": "drone",
     "location_name": "Краснинский",
     "region": "Липецкая область",
