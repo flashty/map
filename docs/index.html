@@ -202,10 +202,10 @@ async function refreshRegionStatus() {
   try {
     const res = await fetch('region_status.json?t=' + Date.now());
     const raw = await res.json();
-    regionStatus = {};
-    for (const [region, status] of Object.entries(raw)) {
-      regionStatus[normalizeRegion(region)] = status;
-    }
+    // ключі в region_status.json вже нормалізовані бекендом (тим самим
+    // алгоритмом normalizeRegion) — повторна нормалізація тут лише зайве
+    // подвійне обрізання закінчення, тому просто беремо як є
+    regionStatus = raw;
     if (regionsLayer) {
       regionsLayer.eachLayer(layer => layer.setStyle(styleByStatus(normalizeRegion(layer.feature.properties.region))));
     }
