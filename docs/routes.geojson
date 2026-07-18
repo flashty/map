@@ -1,4 +1,65 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-18T14:28:45+00:00",
+        "last_updated": "2026-07-18T15:13:17+00:00",
+        "path_labels": [
+          "Елецкий",
+          "Елецкий",
+          "Лебедянский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.57095,
+            52.631157
+          ],
+          [
+            38.57095,
+            52.631157
+          ],
+          [
+            39.2048344,
+            52.9521848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-18T14:28:52+00:00",
+        "last_updated": "2026-07-18T15:12:55+00:00",
+        "path_labels": [
+          "Краснинский",
+          "Краснинский",
+          "Данковский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.788101,
+            52.855247
+          ],
+          [
+            38.788101,
+            52.855247
+          ],
+          [
+            38.9597146,
+            53.3272015
+          ]
+        ]
+      }
+    }
+  ]
 }
