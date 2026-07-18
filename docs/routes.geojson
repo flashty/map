@@ -5,36 +5,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-07-18T19:51:56+00:00",
-        "last_updated": "2026-07-18T21:02:46+00:00",
-        "path_labels": [
-          "Лисичанск",
-          "Журавка",
-          "Верхнедонской"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            40.2125245,
-            49.4425265
-          ],
-          [
-            40.593887,
-            50.054405
-          ],
-          [
-            41.2630916,
-            49.7991115
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-07-18T20:53:16+00:00",
         "last_updated": "2026-07-18T21:58:59+00:00",
         "path_labels": [
@@ -97,6 +67,31 @@
           [
             39.7366093,
             52.0433307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-18T21:44:54+00:00",
+        "last_updated": "2026-07-18T22:08:24+00:00",
+        "path_labels": [
+          "Почеп",
+          "Трубчевск"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4544207,
+            52.9287784
+          ],
+          [
+            33.767467,
+            52.5835
           ]
         ]
       }
