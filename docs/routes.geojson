@@ -99,31 +99,6 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "drone",
-        "started_at": "2026-07-18T06:11:36+00:00",
-        "last_updated": "2026-07-18T06:11:36+00:00",
-        "path_labels": [
-          "Курская область",
-          "Белгородской область"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.12588265476281,
-            51.70340320764268
-          ],
-          [
-            37.54641255419135,
-            50.672051273603756
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "type": "missile",
         "started_at": "2026-07-18T06:30:41+00:00",
         "last_updated": "2026-07-18T06:35:21+00:00",
