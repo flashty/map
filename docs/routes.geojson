@@ -1,4 +1,35 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-18T04:57:35+00:00",
+        "last_updated": "2026-07-18T05:30:01+00:00",
+        "path_labels": [
+          "Белгородский",
+          "Тула",
+          "Тула"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.5167643,
+            54.3750277
+          ],
+          [
+            37.61754,
+            54.1930321
+          ],
+          [
+            37.61754,
+            54.1930321
+          ]
+        ]
+      }
+    }
+  ]
 }
