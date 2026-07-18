@@ -1,60 +1,5 @@
 [
   {
-    "id": "radarrussiia_82392_Первомайский",
-    "channel": "radarrussiia",
-    "date": "2026-07-17T15:08:07+00:00",
-    "text": "Первомайский район\nМоршанский район\nСосновский район\nТамбовская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Первомайский",
-    "region": "Тамбовская область",
-    "lat": 53.244999,
-    "lon": 40.285099
-  },
-  {
-    "id": "radarrussiia_82392_Моршанский",
-    "channel": "radarrussiia",
-    "date": "2026-07-17T15:08:07+00:00",
-    "text": "Первомайский район\nМоршанский район\nСосновский район\nТамбовская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Моршанский",
-    "region": "Тамбовская область",
-    "lat": 53.5068109,
-    "lon": 41.7004248
-  },
-  {
-    "id": "radarrussiia_82392_Сосновский",
-    "channel": "radarrussiia",
-    "date": "2026-07-17T15:08:07+00:00",
-    "text": "Первомайский район\nМоршанский район\nСосновский район\nТамбовская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Сосновский",
-    "region": "Тамбовская область",
-    "lat": 53.1876684,
-    "lon": 41.3576139
-  },
-  {
-    "id": "radarrussiia_82393",
-    "channel": "radarrussiia",
-    "date": "2026-07-17T15:08:50+00:00",
-    "text": "Анапа и близлежащие\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_82394",
-    "channel": "radarrussiia",
-    "date": "2026-07-17T15:09:22+00:00",
-    "text": "Север\nСеверо-Запад \nРеспублика Крым \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_101301",
     "channel": "kupolrussia",
     "date": "2026-07-17T15:10:54+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Белгородская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_74028",
+    "channel": "vrv_radar",
+    "date": "2026-07-18T06:49:45+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_82553",
+    "channel": "radarrussiia",
+    "date": "2026-07-18T06:50:55+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74029",
+    "channel": "vrv_radar",
+    "date": "2026-07-18T07:00:00+00:00",
+    "text": "Ленинградская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ленинградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74030_Крымский",
+    "channel": "vrv_radar",
+    "date": "2026-07-18T07:00:53+00:00",
+    "text": "Новороссийск и близлежащие \nКрымский район\nСлавянский район\nКраснодарский край \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": "Крымский",
+    "region": "Краснодарский край",
+    "lat": 44.9624541,
+    "lon": 37.896802
+  },
+  {
+    "id": "vrv_radar_74030_Славянский",
+    "channel": "vrv_radar",
+    "date": "2026-07-18T07:00:53+00:00",
+    "text": "Новороссийск и близлежащие \nКрымский район\nСлавянский район\nКраснодарский край \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": "Славянский",
+    "region": "Краснодарский край",
+    "lat": 44.6922114,
+    "lon": 40.5186028
   }
 ]
