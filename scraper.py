@@ -104,16 +104,27 @@ def expand_region_abbreviations(text: str) -> str:
 
 # "через Калужскую, Тульскую область и далее..." — типова конструкція, де
 # слово "область" стоїть лише раз в кінці, але стосується ВСІХ прикметників
-# у переліку через кому. Розгортаємо в "Калужскую область, Тульскую область"
+# у переліку через кому. Розгортаємо в "Калужскую область, Тульскую область".
+#
+# ВАЖЛИВО: спрацьовує ТІЛЬКИ якщо кожне попереднє слово схоже на прикметник
+# області за закінченням (-ая/-ую/-ой/-ий/...). Інакше на кшталт
+# "Тула, Щекино, Алексин, Тульская область" (перелік МІСТ, а не областей)
+# кожне місто помилково перетвориться на фейковий "регіон".
 ELIDED_SUFFIX_PATTERN = re.compile(
     r"((?:[А-ЯЁ][а-яёА-ЯЁ\-]+,\s*)+)([А-ЯЁ][а-яёА-ЯЁ\-]+)\s+(область|край|автономный округ)"
 )
+ADJECTIVE_ENDINGS = ("ая", "яя", "ое", "ее", "ый", "ий", "ую", "юю", "ой", "ей")
 
 
 def expand_elided_region_suffix(text: str) -> str:
     def repl(m):
         leading_words = [w.strip() for w in m.group(1).split(",") if w.strip()]
         suffix = m.group(3)
+        # якщо хоч ОДНЕ слово в переліку не схоже на прикметник області —
+        # не чіпаємо цей збіг взагалі (безпечніше недорозгорнути, ніж
+        # хибно перетворити назви міст на "регіони")
+        if not leading_words or not all(w.lower().endswith(ADJECTIVE_ENDINGS) for w in leading_words):
+            return m.group(0)
         expanded = ", ".join(f"{w} {suffix}" for w in leading_words)
         return f"{expanded}, {m.group(2)} {suffix}"
 
@@ -223,12 +234,17 @@ def update_region_status(region_status: dict, region: str, alert_type: str, text
     if not region:
         return
 
+    key = normalize_region_for_match(region)
+    if not key:
+        return
+
     if alert_type == "all_clear":
-        region_status.pop(region, None)
+        region_status.pop(key, None)
         return
 
     expires_at = msg_time + timedelta(hours=REGION_BACKSTOP_HOURS)
-    region_status[region] = {
+    region_status[key] = {
+        "display_name": region,
         "type": alert_type,
         "text": text[:300],
         "channel": channel,
