@@ -218,28 +218,30 @@ async function refreshRegionStatus() {
     // Якщо канал не вказав точну кількість у повідомленні — рахуємо це як
     // мінімум 1 (сам факт тривоги означає щонайменше одну ціль), інакше
     // сума виглядала б порожньою для більшості типів.
-    const counts = {}; // { type: { regions: n, units: n, hasExact: bool } }
+    const counts = {}; // { type: { knownUnits: n, unclearRegions: n } }
     for (const status of Object.values(regionStatus)) {
-      if (!counts[status.type]) counts[status.type] = { regions: 0, units: 0, hasUnknown: false };
-      counts[status.type].regions += 1;
+      if (!counts[status.type]) counts[status.type] = { knownUnits: 0, unclearRegions: 0 };
       if (typeof status.count === "number") {
-        counts[status.type].units += status.count;
+        counts[status.type].knownUnits += status.count;
       } else {
-        counts[status.type].units += 1;
-        counts[status.type].hasUnknown = true;
+        counts[status.type].unclearRegions += 1;
       }
     }
     const summaryHtml = Object.entries(counts)
-      .sort((a, b) => b[1].units - a[1].units)
+      .sort((a, b) => (b[1].knownUnits + b[1].unclearRegions) - (a[1].knownUnits + a[1].unclearRegions))
       .map(([type, c]) => {
         const color = TYPE_COLORS[type] || TYPE_COLORS.unknown;
         const label = TYPE_LABELS[type] || TYPE_LABELS.unknown;
-        const approx = c.hasUnknown ? "~" : ""; // ~ означає, що частина точних кількостей невідома
-        return `<div class="legend-row"><span class="swatch" style="background:${color};"></span>${label}: <b>${approx}${c.units}</b> <span style="opacity:0.6;">(${c.regions} рег.)</span></div>`;
+        let text = "";
+        if (c.knownUnits > 0) text += `${c.knownUnits} (за точними даними)`;
+        if (c.unclearRegions > 0) {
+          text += (text ? " + " : "") + `${c.unclearRegions} рег. без вказ. кількості`;
+        }
+        return `<div class="legend-row"><span class="swatch" style="background:${color};"></span>${label}: <b>${text}</b></div>`;
       })
       .join("");
     document.getElementById('summary').innerHTML =
-      `<div style="opacity:0.7; margin-bottom:4px;">Орієнтовна кількість цілей:</div>` +
+      `<div style="opacity:0.7; margin-bottom:4px;">Кількість цілей (де відомо):</div>` +
       (summaryHtml || '<div style="opacity:0.5;">Немає активних тривог</div>');
 
     document.getElementById('updated').textContent =
