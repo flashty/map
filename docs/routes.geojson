@@ -35,6 +35,31 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-18T19:51:56+00:00",
+        "last_updated": "2026-07-18T20:25:53+00:00",
+        "path_labels": [
+          "Лисичанск",
+          "Журавка"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.2125245,
+            49.4425265
+          ],
+          [
+            40.593887,
+            50.054405
+          ]
+        ]
+      }
     }
   ]
 }
