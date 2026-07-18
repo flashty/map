@@ -30,6 +30,31 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "missile",
+        "started_at": "2026-07-18T21:21:59+00:00",
+        "last_updated": "2026-07-18T21:26:01+00:00",
+        "path_labels": [
+          "Старый Оскол",
+          "Усмань"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.833202,
+            51.298038
+          ],
+          [
+            39.7366093,
+            52.0433307
+          ]
+        ]
+      }
     }
   ]
 }
