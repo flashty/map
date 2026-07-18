@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_203633",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T11:07:28+00:00",
-    "text": "БПЛА-разведчик на Белую Березку\nБрянская область\nВысокая опасность артобстрела",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_73721_Северский",
-    "channel": "vrv_radar",
-    "date": "2026-07-17T11:07:44+00:00",
-    "text": "Северский район \nКраснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Северский",
-    "region": "Краснодарский край",
-    "lat": 45.2258796,
-    "lon": 39.916274
-  },
-  {
-    "id": "vrv_radar_73722",
-    "channel": "vrv_radar",
-    "date": "2026-07-17T11:09:50+00:00",
-    "text": "Славянск-На-Кубани \nКраснодарский край \nФиксация БПЛА в вашем направлении",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_72886_Ачуево",
-    "channel": "locatorru",
-    "date": "2026-07-17T11:11:42+00:00",
-    "text": "Ачуево, Голубая Нива, Петровская, Полтавская, Славянск-на-Кубани, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Ачуево",
-    "region": "Краснодарский край",
-    "lat": 45.710182,
-    "lon": 37.775433
-  },
-  {
-    "id": "locatorru_72886_Голубая Нива",
-    "channel": "locatorru",
-    "date": "2026-07-17T11:11:42+00:00",
-    "text": "Ачуево, Голубая Нива, Петровская, Полтавская, Славянск-на-Кубани, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Голубая Нива",
-    "region": "Краснодарский край",
-    "lat": 45.66457,
-    "lon": 37.849636
-  },
-  {
-    "id": "locatorru_72886_Петровская",
-    "channel": "locatorru",
-    "date": "2026-07-17T11:11:42+00:00",
-    "text": "Ачуево, Голубая Нива, Петровская, Полтавская, Славянск-на-Кубани, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Петровская",
-    "region": "Краснодарский край",
-    "lat": 45.430317,
-    "lon": 37.956711
-  },
-  {
     "id": "locatorru_72886_Полтавская",
     "channel": "locatorru",
     "date": "2026-07-17T11:11:42+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_204045",
+    "channel": "LPRalarm",
+    "date": "2026-07-18T04:07:33+00:00",
+    "text": "Горловка, Пантелеймоновка, Ясиноватая ДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74010",
+    "channel": "vrv_radar",
+    "date": "2026-07-18T04:08:24+00:00",
+    "text": "Московская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_204046",
+    "channel": "LPRalarm",
+    "date": "2026-07-18T04:14:26+00:00",
+    "text": "Курская область Льгов и близлежащие внимание по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101592",
+    "channel": "kupolrussia",
+    "date": "2026-07-18T04:14:31+00:00",
+    "text": "Курская область Льгов и близлежащие внимание по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_204047",
+    "channel": "LPRalarm",
+    "date": "2026-07-18T04:15:08+00:00",
+    "text": "Крым и Севастополь отбой опасности по БПЛА. Режим повышенного внимания сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_82541",
+    "channel": "radarrussiia",
+    "date": "2026-07-18T04:16:09+00:00",
+    "text": "Московская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Московская область",
     "lat": null,
     "lon": null
   }
