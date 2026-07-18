@@ -1,71 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_12198",
-    "channel": "radar_plus_bpla",
-    "date": "2026-07-17T01:18:24+00:00",
-    "text": "Тула - сбитие БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_12199",
-    "channel": "radar_plus_bpla",
-    "date": "2026-07-17T03:37:01+00:00",
-    "text": "Без особовой массовости по Московскому направлению через Брянскую область.\n\nЭтой ночью уничтожено несколько групп в приграничных регионах.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Брянскую область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_12200",
-    "channel": "radar_plus_bpla",
-    "date": "2026-07-17T10:44:53+00:00",
-    "text": "Новгородская область\nПсковская область\nЛенинградская область\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Новгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_12201",
-    "channel": "radar_plus_bpla",
-    "date": "2026-07-17T11:33:56+00:00",
-    "text": "От 30 БПЛА через Калужскую, Тульскую область и далее на Московскую область.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужскую область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_12202",
-    "channel": "radar_plus_bpla",
-    "date": "2026-07-17T13:23:52+00:00",
-    "text": "Воронежская область - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_12203",
-    "channel": "radar_plus_bpla",
-    "date": "2026-07-17T14:27:10+00:00",
-    "text": "Воронежская область - отбой опасности БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radar_plus_bpla_12204",
     "channel": "radar_plus_bpla",
     "date": "2026-07-17T15:20:24+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101768",
+    "channel": "kupolrussia",
+    "date": "2026-07-18T13:45:51+00:00",
+    "text": "Приазовье Краснодарского края\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74061",
+    "channel": "vrv_radar",
+    "date": "2026-07-18T13:47:06+00:00",
+    "text": "Елец\nЕлецкий МО\nДолгоруковский МО\nСтановлянский МО\nИзмалковский МО\nЛипецкая область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_82580",
+    "channel": "radarrussiia",
+    "date": "2026-07-18T13:50:44+00:00",
+    "text": "Елец\nЕлецкий МО\nДолгоруковский МО\nСтановлянский МО\nИзмалковский МО\nЛипецкая область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_82581",
+    "channel": "radarrussiia",
+    "date": "2026-07-18T13:51:56+00:00",
+    "text": "Приазовье Краснодарского края \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_204234",
+    "channel": "LPRalarm",
+    "date": "2026-07-18T13:56:53+00:00",
+    "text": "Суземка \nБрянская область \nопасность по барражирующий боеприпасам",
+    "type": "alert",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101769",
+    "channel": "kupolrussia",
+    "date": "2026-07-18T13:56:59+00:00",
+    "text": "Суземка \nБрянская область \nопасность по барражирующий боеприпасам",
+    "type": "alert",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
