@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_101548_Тула",
-    "channel": "kupolrussia",
-    "date": "2026-07-17T22:59:19+00:00",
-    "text": "Мценск\nТула\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\n> д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Тула",
-    "region": null,
-    "lat": 54.1930321,
-    "lon": 37.61754
-  },
-  {
-    "id": "LPRalarm_203996_Мценск",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T22:59:23+00:00",
-    "text": "Мценск\nТула\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\n> д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Мценск",
-    "region": null,
-    "lat": 53.278984,
-    "lon": 36.576077
-  },
-  {
-    "id": "LPRalarm_203996_Тула",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T22:59:23+00:00",
-    "text": "Мценск\nТула\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\n> д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Тула",
-    "region": null,
-    "lat": 54.1930321,
-    "lon": 37.61754
-  },
-  {
     "id": "vrv_radar_73887_Серпухов",
     "channel": "vrv_radar",
     "date": "2026-07-17T23:00:14+00:00",
@@ -21996,6 +21963,39 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74176_Новороссийск",
+    "channel": "vrv_radar",
+    "date": "2026-07-19T03:54:53+00:00",
+    "text": "Новороссийск\nКраснодарский край\nОтбой опасности по БЭК",
+    "type": "all_clear",
+    "location_name": "Новороссийск",
+    "region": "Краснодарский край",
+    "lat": 44.7239578,
+    "lon": 37.7690711
+  },
+  {
+    "id": "LPRalarm_204505",
+    "channel": "LPRalarm",
+    "date": "2026-07-19T03:59:57+00:00",
+    "text": "Стерегущее, Портовое и близлежащие внимание по БПЛА с моря",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_82638",
+    "channel": "radarrussiia",
+    "date": "2026-07-19T04:02:08+00:00",
+    "text": "Волгоградская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Волгоградская область",
     "lat": null,
     "lon": null
   }
