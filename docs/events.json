@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_73886_Шиловский",
-    "channel": "vrv_radar",
-    "date": "2026-07-17T22:59:03+00:00",
-    "text": "Шиловский район\nРязанская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Шиловский",
-    "region": "Рязанская область",
-    "lat": 54.4778417,
-    "lon": 41.1857928
-  },
-  {
-    "id": "kupolrussia_101548_Мценск",
-    "channel": "kupolrussia",
-    "date": "2026-07-17T22:59:19+00:00",
-    "text": "Мценск\nТула\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\n> д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Мценск",
-    "region": null,
-    "lat": 53.278984,
-    "lon": 36.576077
-  },
-  {
     "id": "kupolrussia_101548_Тула",
     "channel": "kupolrussia",
     "date": "2026-07-17T22:59:19+00:00",
@@ -21996,6 +21974,28 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_204504",
+    "channel": "LPRalarm",
+    "date": "2026-07-19T03:38:47+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74175",
+    "channel": "vrv_radar",
+    "date": "2026-07-19T03:44:29+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
     "lat": null,
     "lon": null
   }
