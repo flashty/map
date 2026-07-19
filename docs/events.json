@@ -1,60 +1,5 @@
 [
   {
-    "id": "locatorru_73040",
-    "channel": "locatorru",
-    "date": "2026-07-17T23:03:08+00:00",
-    "text": "Рязанская область, Республика Мордовия, Владимирская область, Нижегородская область - опасность по БПЛА от Тамбовской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_73895_Ершичский",
-    "channel": "vrv_radar",
-    "date": "2026-07-17T23:03:26+00:00",
-    "text": "Ершичский район\nШумячский район\nСмоленская область\nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Ершичский",
-    "region": "Смоленская область",
-    "lat": 53.6046499,
-    "lon": 32.6901656
-  },
-  {
-    "id": "vrv_radar_73895_Шумячский",
-    "channel": "vrv_radar",
-    "date": "2026-07-17T23:03:26+00:00",
-    "text": "Ершичский район\nШумячский район\nСмоленская область\nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Шумячский",
-    "region": "Смоленская область",
-    "lat": 53.8994212,
-    "lon": 32.2079322
-  },
-  {
-    "id": "LPRalarm_203997",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T23:04:00+00:00",
-    "text": "Ейск и близлежащие, тревога по БпЛА повторно",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_101549",
-    "channel": "kupolrussia",
-    "date": "2026-07-17T23:04:06+00:00",
-    "text": "Ейск и близлежащие, тревога по БпЛА повторно",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_73896_Хотынецкий",
     "channel": "vrv_radar",
     "date": "2026-07-17T23:04:11+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Краснодарский край",
     "lat": 44.9624541,
     "lon": 37.896802
+  },
+  {
+    "id": "LPRalarm_204511",
+    "channel": "LPRalarm",
+    "date": "2026-07-19T05:07:42+00:00",
+    "text": "Курск\nОпасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_101988",
+    "channel": "kupolrussia",
+    "date": "2026-07-19T05:10:28+00:00",
+    "text": "Курск\nОпасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74178",
+    "channel": "vrv_radar",
+    "date": "2026-07-19T05:13:51+00:00",
+    "text": "Туапсе и близлежащие \nКраснодарский край \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74179",
+    "channel": "vrv_radar",
+    "date": "2026-07-19T05:14:09+00:00",
+    "text": "Воронежская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_82641",
+    "channel": "radarrussiia",
+    "date": "2026-07-19T05:15:27+00:00",
+    "text": "Воронежская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
   }
 ]
