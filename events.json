@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_203987_Фиолент",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T22:34:25+00:00",
-    "text": "Фиолент, Балаклава и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Фиолент",
-    "region": null,
-    "lat": 43.1192297,
-    "lon": 131.9618693
-  },
-  {
-    "id": "kupolrussia_101539_Фиолент",
-    "channel": "kupolrussia",
-    "date": "2026-07-17T22:34:31+00:00",
-    "text": "Фиолент, Балаклава и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Фиолент",
-    "region": null,
-    "lat": 43.1192297,
-    "lon": 131.9618693
-  },
-  {
     "id": "locatorru_73027",
     "channel": "locatorru",
     "date": "2026-07-17T22:35:06+00:00",
@@ -21996,6 +21974,28 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74168_Воронеж",
+    "channel": "vrv_radar",
+    "date": "2026-07-19T01:49:36+00:00",
+    "text": "Воронеж\nВоронежская область\nРабота ПВО по БЛПА\nМеры безопасности",
+    "type": "alert",
+    "location_name": "Воронеж",
+    "region": "Воронежская область",
+    "lat": 51.6605982,
+    "lon": 39.2005858
+  },
+  {
+    "id": "locatorru_73274",
+    "channel": "locatorru",
+    "date": "2026-07-19T02:00:46+00:00",
+    "text": "Астраханская область, Республика Калмыкия - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Астраханская область",
     "lat": null,
     "lon": null
   }
