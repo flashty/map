@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-19T17:24:22+00:00",
+        "last_updated": "2026-07-19T17:35:58+00:00",
+        "path_labels": [
+          "Томаровка (Белгородская область)",
+          "Белгородской"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.232243,
+            50.683018
+          ],
+          [
+            36.4841564,
+            50.5116428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-19T17:29:36+00:00",
+        "last_updated": "2026-07-19T17:44:54+00:00",
+        "path_labels": [
+          "Ивнянский",
+          "Строитель (Белгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.2197073,
+            51.0201731
+          ],
+          [
+            36.485428,
+            50.785236
+          ]
+        ]
+      }
+    }
+  ]
 }
