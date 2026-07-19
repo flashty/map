@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_73887_Серпухов",
-    "channel": "vrv_radar",
-    "date": "2026-07-17T23:00:14+00:00",
-    "text": "ГО Серпухов\nМосковская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Серпухов",
-    "region": "Московская область",
-    "lat": 54.9155247,
-    "lon": 37.4195533
-  },
-  {
-    "id": "vrv_radar_73888_Кашира",
-    "channel": "vrv_radar",
-    "date": "2026-07-17T23:00:34+00:00",
-    "text": "ГО Кашира\nМосковская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Кашира",
-    "region": "Московская область",
-    "lat": 54.837449,
-    "lon": 38.1505119
-  },
-  {
-    "id": "vrv_radar_73889",
-    "channel": "vrv_radar",
-    "date": "2026-07-17T23:00:51+00:00",
-    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_73890_Фоминск",
     "channel": "vrv_radar",
     "date": "2026-07-17T23:01:07+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Волгоградская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "radarrussiia_82639",
+    "channel": "radarrussiia",
+    "date": "2026-07-19T04:03:09+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_204506",
+    "channel": "LPRalarm",
+    "date": "2026-07-19T04:07:40+00:00",
+    "text": "Собрано для оборудования на МОГи \n1.335.000 рублей \n❤️❤️❤️\n\nПринять участие в сборе:\nhttps://pay.cloudtips.ru/p/d8f0d6f7",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_204507_Обоянский",
+    "channel": "LPRalarm",
+    "date": "2026-07-19T04:13:27+00:00",
+    "text": "Обоянский район, Курская область\nОт ГГ и далее в сторону Курска\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Обоянский",
+    "region": "Курская область",
+    "lat": 51.2346254,
+    "lon": 36.0784146
   }
 ]
