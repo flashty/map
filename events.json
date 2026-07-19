@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_204104",
-    "channel": "LPRalarm",
-    "date": "2026-07-18T07:24:29+00:00",
-    "text": "Владимирская область \nМосковская область\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Владимирская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_101642",
-    "channel": "kupolrussia",
-    "date": "2026-07-18T07:24:54+00:00",
-    "text": "Московская область \nТревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_204105",
     "channel": "LPRalarm",
     "date": "2026-07-18T07:24:56+00:00",
@@ -21998,5 +21976,27 @@
     "region": null,
     "lat": 52.0719529,
     "lon": 35.7811403
+  },
+  {
+    "id": "LPRalarm_204731",
+    "channel": "LPRalarm",
+    "date": "2026-07-19T11:31:26+00:00",
+    "text": "Шебекино \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_102180_Шебекино",
+    "channel": "kupolrussia",
+    "date": "2026-07-19T11:31:47+00:00",
+    "text": "Шебекино \nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Шебекино",
+    "region": "Белгородская область",
+    "lat": 50.4049335,
+    "lon": 36.8796822
   }
 ]
