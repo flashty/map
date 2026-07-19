@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_101700",
-    "channel": "kupolrussia",
-    "date": "2026-07-18T09:41:47+00:00",
-    "text": "Запорожская область \nЛДНР \n\nПовторно\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_101701",
-    "channel": "kupolrussia",
-    "date": "2026-07-18T09:41:51+00:00",
-    "text": "Тульская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_204166",
-    "channel": "LPRalarm",
-    "date": "2026-07-18T09:41:54+00:00",
-    "text": "Тульская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_74051",
-    "channel": "vrv_radar",
-    "date": "2026-07-18T09:42:29+00:00",
-    "text": "Калужская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_204167",
     "channel": "LPRalarm",
     "date": "2026-07-18T09:42:32+00:00",
@@ -21993,6 +21949,50 @@
     "channel": "kupolrussia",
     "date": "2026-07-19T15:59:12+00:00",
     "text": "Горловка Озеряновка БПЛА, опасность сохраняется так же и по ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_204805",
+    "channel": "LPRalarm",
+    "date": "2026-07-19T16:05:04+00:00",
+    "text": "БПЛА-разведчик на Белую Березку\nВозможно применение РСЗО\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_204806",
+    "channel": "LPRalarm",
+    "date": "2026-07-19T16:05:24+00:00",
+    "text": "Саки\nНовофедоровка и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_102247",
+    "channel": "kupolrussia",
+    "date": "2026-07-19T16:05:43+00:00",
+    "text": "Саки\nНовофедоровка и близлежащие \n\nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_204807",
+    "channel": "LPRalarm",
+    "date": "2026-07-19T16:15:34+00:00",
+    "text": "Разумное Бгд \nТревога по БПЛА",
     "type": "drone",
     "location_name": null,
     "region": null,
