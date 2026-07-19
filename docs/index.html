@@ -215,28 +215,39 @@ async function refreshRegionStatus() {
     const activeCount = Object.keys(regionStatus).length;
 
     // Головне число тут — кількість дронів/ракет, а не регіонів.
-    // Якщо канал не вказав точну кількість у повідомленні — рахуємо це як
-    // мінімум 1 (сам факт тривоги означає щонайменше одну ціль), інакше
-    // сума виглядала б порожньою для більшості типів.
-    // рахуємо ЛИШЕ точні числа, які канал сам вказав у тексті — ніяких
-    // здогадок і оцінок для регіонів без вказаної кількості
-    const counts = {}; // { type: knownUnits }
+    // рахуємо суму: точні числа як є, приблизні (сотні/десятки словом) —
+    // окремо, з позначкою ~, щоб не видавати оцінку за точний факт
+    const counts = {}; // { type: { exact: n, approx: n } }
     for (const status of Object.values(regionStatus)) {
       if (typeof status.count === "number") {
-        counts[status.type] = (counts[status.type] || 0) + status.count;
+        if (!counts[status.type]) counts[status.type] = { exact: 0, approx: 0 };
+        if (status.count_approx) {
+          counts[status.type].approx += status.count;
+        } else {
+          counts[status.type].exact += status.count;
+        }
       }
     }
     const summaryHtml = Object.entries(counts)
-      .sort((a, b) => b[1] - a[1])
-      .map(([type, total]) => {
+      .sort((a, b) => (b[1].exact + b[1].approx) - (a[1].exact + a[1].approx))
+      .map(([type, c]) => {
         const color = TYPE_COLORS[type] || TYPE_COLORS.unknown;
         const label = TYPE_LABELS[type] || TYPE_LABELS.unknown;
-        return `<div class="legend-row"><span class="swatch" style="background:${color};"></span>${label}: <b>${total}</b></div>`;
+        let text;
+        if (c.exact > 0 && c.approx > 0) {
+          text = `${c.exact} + ~${c.approx}`;
+        } else if (c.approx > 0) {
+          text = `~${c.approx}`;
+        } else {
+          text = `${c.exact}`;
+        }
+        return `<div class="legend-row"><span class="swatch" style="background:${color};"></span>${label}: <b>${text}</b></div>`;
       })
       .join("");
     document.getElementById('summary').innerHTML =
-      `<div style="opacity:0.7; margin-bottom:4px;">Кількість цілей (за точними даними каналів):</div>` +
-      (summaryHtml || '<div style="opacity:0.5;">Немає повідомлень з точною кількістю</div>');
+      `<div style="opacity:0.7; margin-bottom:4px;">Кількість цілей:</div>` +
+      (summaryHtml || '<div style="opacity:0.5;">Немає повідомлень з вказаною кількістю</div>') +
+      (summaryHtml ? '<div style="opacity:0.45; font-size:11px; margin-top:4px;">~ означає приблизну кількість зі слів каналу ("сотні", "десятки")</div>' : '');
 
     document.getElementById('updated').textContent =
       'Оновлено: ' + new Date().toLocaleTimeString('uk-UA') + ' · активних регіонів: ' + activeCount;
