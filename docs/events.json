@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_73880_Шумячский",
-    "channel": "vrv_radar",
-    "date": "2026-07-17T22:32:39+00:00",
-    "text": "Ершичский район\nШумячский район\nСмоленская область\nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Шумячский",
-    "region": "Смоленская область",
-    "lat": 53.8994212,
-    "lon": 32.2079322
-  },
-  {
-    "id": "radarrussiia_82472_Ершичский",
-    "channel": "radarrussiia",
-    "date": "2026-07-17T22:33:07+00:00",
-    "text": "Ершичский район\nШумячский район\nСмоленская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Ершичский",
-    "region": "Смоленская область",
-    "lat": 53.6046499,
-    "lon": 32.6901656
-  },
-  {
-    "id": "radarrussiia_82472_Шумячский",
-    "channel": "radarrussiia",
-    "date": "2026-07-17T22:33:07+00:00",
-    "text": "Ершичский район\nШумячский район\nСмоленская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Шумячский",
-    "region": "Смоленская область",
-    "lat": 53.8994212,
-    "lon": 32.2079322
-  },
-  {
     "id": "LPRalarm_203987_Фиолент",
     "channel": "LPRalarm",
     "date": "2026-07-17T22:34:25+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_82637_Воронеж",
+    "channel": "radarrussiia",
+    "date": "2026-07-19T01:38:22+00:00",
+    "text": "Воронеж\nВоронежская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "alert",
+    "location_name": "Воронеж",
+    "region": "Воронежская область",
+    "lat": 51.6605982,
+    "lon": 39.2005858
+  },
+  {
+    "id": "locatorru_73273",
+    "channel": "locatorru",
+    "date": "2026-07-19T01:40:18+00:00",
+    "text": "Ставропольский край - отбой опасности по БПЛА. Режим внимание. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74167",
+    "channel": "vrv_radar",
+    "date": "2026-07-19T01:42:01+00:00",
+    "text": "Ставропольский край \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ставропольский край",
     "lat": null,
     "lon": null
   }
