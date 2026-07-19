@@ -312,7 +312,15 @@ def try_extend_or_create_track(tracks, event_type, lat, lon, time_dt, location_n
         "lat": lat, "lon": lon, "time": time_dt.isoformat(),
         "location_name": location_name, "region": region,
     }
+
     if best_track is not None:
+        last = best_track["points"][-1]
+        # не додаємо точку, якщо вона фактично та сама, що й попередня
+        # (та сама назва локації й практично той самий стрибок) — це не
+        # рух, а просто повторна згадка того самого місця
+        if location_name and location_name == last.get("location_name") and best_dist is not None and best_dist <= 5:
+            best_track["last_time"] = time_dt.isoformat()
+            return
         best_track["points"].append(point)
         best_track["last_time"] = time_dt.isoformat()
     else:
@@ -348,7 +356,14 @@ def tracks_to_geojson(tracks):
             continue
 
         coords = [[p["lon"], p["lat"]] for p in tr["points"]]
-        labels = [p.get("location_name") or p.get("region") or "?" for p in tr["points"]]
+        def label_for(p):
+            loc = p.get("location_name")
+            reg = p.get("region")
+            if loc and reg and reg not in loc:
+                return f"{loc} ({reg})"
+            return loc or reg or "?"
+
+        labels = [label_for(p) for p in tr["points"]]
         features.append({
             "type": "Feature",
             "properties": {
