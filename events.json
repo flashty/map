@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_203990",
-    "channel": "LPRalarm",
-    "date": "2026-07-17T22:36:35+00:00",
-    "text": "Смоленская область\n2% > ВНИМАНИЕ!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_73881",
-    "channel": "vrv_radar",
-    "date": "2026-07-17T22:37:29+00:00",
-    "text": "ГО Бронницы \nМосковская область \nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_73028",
-    "channel": "locatorru",
-    "date": "2026-07-17T22:37:46+00:00",
-    "text": "Барыбино, Домодедово, Бронницы, Белозерский, Московская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Барыбино область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_82473",
-    "channel": "radarrussiia",
-    "date": "2026-07-17T22:38:27+00:00",
-    "text": "ГО Бронницы \nМосковская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_73029_Погарский",
-    "channel": "locatorru",
-    "date": "2026-07-17T22:38:34+00:00",
-    "text": "Погарский район, Почепский район, Выгоничский район, Брянский район, Брянская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Погарский",
-    "region": "Брянская область",
-    "lat": 52.5207056,
-    "lon": 33.2053408
-  },
-  {
-    "id": "locatorru_73029_Почепский",
-    "channel": "locatorru",
-    "date": "2026-07-17T22:38:34+00:00",
-    "text": "Погарский район, Почепский район, Выгоничский район, Брянский район, Брянская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Почепский",
-    "region": "Брянская область",
-    "lat": 52.9262598,
-    "lon": 33.493436
-  },
-  {
     "id": "locatorru_73029_Выгоничский",
     "channel": "locatorru",
     "date": "2026-07-17T22:38:34+00:00",
@@ -21996,6 +21930,72 @@
     "type": "missile",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74170",
+    "channel": "vrv_radar",
+    "date": "2026-07-19T02:16:38+00:00",
+    "text": "Тамбовская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_73278",
+    "channel": "locatorru",
+    "date": "2026-07-19T02:23:14+00:00",
+    "text": "Ростовская область - отбой ракетной опасности! \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74171",
+    "channel": "vrv_radar",
+    "date": "2026-07-19T02:24:10+00:00",
+    "text": "Ростовская область\nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_73279_Новороссийск",
+    "channel": "locatorru",
+    "date": "2026-07-19T02:25:59+00:00",
+    "text": "Новороссийск, Краснодарский край - опасность по безэкипажным катерам(БЭК). \n\n📡Локатор России - @locatorru",
+    "type": "alert",
+    "location_name": "Новороссийск",
+    "region": "Краснодарский край",
+    "lat": 44.7239578,
+    "lon": 37.7690711
+  },
+  {
+    "id": "kupolrussia_101977",
+    "channel": "kupolrussia",
+    "date": "2026-07-19T02:29:50+00:00",
+    "text": "Курская область \nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_204495",
+    "channel": "LPRalarm",
+    "date": "2026-07-19T02:30:41+00:00",
+    "text": "Курская область \nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }
