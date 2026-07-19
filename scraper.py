@@ -214,13 +214,34 @@ def extract_locations_and_regions(text: str):
 
 COUNT_PATTERN = re.compile(r"(\d+)\s*(?:бпла|дрон\w*|ракет\w*|шахед\w*)", re.IGNORECASE)
 
+# коли канал не дав точну цифру, а написав словом — беремо приблизну оцінку
+# з позначкою "це не точне число" (approx=True), а не просто ігноруємо
+WORD_COUNT_PATTERN = re.compile(
+    r"(сотн\w*|десятк\w*|единичн\w*)\s*(?:бпла|дрон\w*|ракет\w*|шахед\w*)", re.IGNORECASE
+)
+WORD_COUNT_VALUES = {"сотн": 100, "десятк": 10, "единичн": 1}
+
 
 def extract_unit_count(text: str):
-    """Витягує кількість дронів/ракет з тексту, якщо канал її вказав
-    (напр. "Фиксация от 4 БПЛА", "От 30 БПЛА через..."). Повертає число
-    або None, якщо кількість не згадана."""
+    """Витягує кількість дронів/ракет з тексту.
+
+    Повертає (count, approx):
+    - (число, False) — якщо канал вказав точну цифру ("Фиксация от 4 БПЛА")
+    - (число, True) — якщо канал написав приблизно словом ("сотни БПЛА" -> 100)
+    - (None, False) — якщо кількість взагалі не згадана
+    """
     m = COUNT_PATTERN.search(text)
-    return int(m.group(1)) if m else None
+    if m:
+        return int(m.group(1)), False
+
+    m = WORD_COUNT_PATTERN.search(text)
+    if m:
+        word = m.group(1).lower()
+        for stem, value in WORD_COUNT_VALUES.items():
+            if word.startswith(stem):
+                return value, True
+
+    return None, False
 
 
 def update_region_status(region_status: dict, region: str, alert_type: str, text: str, channel: str, msg_time):
@@ -248,6 +269,7 @@ def update_region_status(region_status: dict, region: str, alert_type: str, text
         return
 
     expires_at = msg_time + timedelta(hours=REGION_BACKSTOP_HOURS)
+    count, count_approx = extract_unit_count(text)
     region_status[key] = {
         "display_name": region,
         "type": alert_type,
@@ -255,7 +277,8 @@ def update_region_status(region_status: dict, region: str, alert_type: str, text
         "channel": channel,
         "updated_at": msg_time.isoformat(),
         "expires_at": expires_at.isoformat(),
-        "count": extract_unit_count(text),
+        "count": count,
+        "count_approx": count_approx,
     }
 
 
