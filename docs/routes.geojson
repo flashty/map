@@ -1,4 +1,35 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-20T12:46:12+00:00",
+        "last_updated": "2026-07-20T13:10:31+00:00",
+        "path_labels": [
+          "Крымский (Краснодарский край)",
+          "Крымск",
+          "Новороссийск"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.896802,
+            44.9624541
+          ],
+          [
+            37.9880177,
+            44.9295889
+          ],
+          [
+            37.7690711,
+            44.7239578
+          ]
+        ]
+      }
+    }
+  ]
 }
