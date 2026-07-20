@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_204688_Долгое",
-    "channel": "LPRalarm",
-    "date": "2026-07-19T09:59:27+00:00",
-    "text": "Долгое, Кукуевка \nВалуйского района \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Долгое",
-    "region": null,
-    "lat": 51.7208936,
-    "lon": 36.35381
-  },
-  {
-    "id": "kupolrussia_102139_Белгородский",
-    "channel": "kupolrussia",
-    "date": "2026-07-19T09:59:47+00:00",
-    "text": "Разумное \nБелгородский район\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "kupolrussia_102139_Разумное",
-    "channel": "kupolrussia",
-    "date": "2026-07-19T09:59:47+00:00",
-    "text": "Разумное \nБелгородский район\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Разумное",
-    "region": null,
-    "lat": 50.5347515,
-    "lon": 36.6859568
-  },
-  {
-    "id": "LPRalarm_204689",
-    "channel": "LPRalarm",
-    "date": "2026-07-19T10:00:09+00:00",
-    "text": "Белгород Сити Молл в укрытие \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_102140_Валуйского",
-    "channel": "kupolrussia",
-    "date": "2026-07-19T10:00:09+00:00",
-    "text": "Долгое, Кукуевка \nВалуйского района\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Валуйского",
-    "region": null,
-    "lat": 50.2167975,
-    "lon": 38.0908556
-  },
-  {
-    "id": "kupolrussia_102140_Долгое",
-    "channel": "kupolrussia",
-    "date": "2026-07-19T10:00:09+00:00",
-    "text": "Долгое, Кукуевка \nВалуйского района\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Долгое",
-    "region": null,
-    "lat": 51.7208936,
-    "lon": 36.35381
-  },
-  {
     "id": "kupolrussia_102140_Кукуевка",
     "channel": "kupolrussia",
     "date": "2026-07-19T10:00:09+00:00",
@@ -21998,5 +21932,71 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "kupolrussia_102511",
+    "channel": "kupolrussia",
+    "date": "2026-07-20T04:01:33+00:00",
+    "text": "Тульская область опасность по БПЛА от Орловской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_205106",
+    "channel": "LPRalarm",
+    "date": "2026-07-20T04:01:38+00:00",
+    "text": "Тульская область опасность по БПЛА от Орловской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_205107",
+    "channel": "LPRalarm",
+    "date": "2026-07-20T04:03:28+00:00",
+    "text": "Никольское Бгд \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_205108_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-07-20T04:03:51+00:00",
+    "text": "Шагаровка \nБелгородский район \nУдарный БПЛА в направлении",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_205109_Льгов",
+    "channel": "LPRalarm",
+    "date": "2026-07-20T04:13:25+00:00",
+    "text": "Льгов, Рыльск и близлежащие опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Льгов",
+    "region": null,
+    "lat": 51.6906587,
+    "lon": 35.2839999
+  },
+  {
+    "id": "kupolrussia_102512_Льгов",
+    "channel": "kupolrussia",
+    "date": "2026-07-20T04:13:34+00:00",
+    "text": "Льгов, Рыльск и близлежащие опасность по БПЛА\nКурская область",
+    "type": "drone",
+    "location_name": "Льгов",
+    "region": "Курская область",
+    "lat": 51.6906587,
+    "lon": 35.2839999
   }
 ]
