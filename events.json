@@ -1,27 +1,5 @@
 [
   {
-    "id": "locatorru_73335",
-    "channel": "locatorru",
-    "date": "2026-07-19T10:34:14+00:00",
-    "text": "Брянская область, Курская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_82682",
-    "channel": "radarrussiia",
-    "date": "2026-07-19T10:35:22+00:00",
-    "text": "Брянская область, Курская область - ракетная опасность.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "missile",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_74216",
     "channel": "vrv_radar",
     "date": "2026-07-19T10:35:22+00:00",
@@ -21998,5 +21976,27 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_205132_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-07-20T05:41:19+00:00",
+    "text": "Соломино, Таврово Дубовое \nБелгородский район \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_205132_Соломино",
+    "channel": "LPRalarm",
+    "date": "2026-07-20T05:41:19+00:00",
+    "text": "Соломино, Таврово Дубовое \nБелгородский район \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Соломино",
+    "region": null,
+    "lat": 52.517368,
+    "lon": 35.246559
   }
 ]
