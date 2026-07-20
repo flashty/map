@@ -1,14 +1,4 @@
 {
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Мценский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-20T00:04:55+00:00",
-    "expires_at": "2026-07-20T01:04:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "владимирск": {
     "display_name": "Владимирская область",
     "type": "drone",
@@ -21,51 +11,21 @@
   },
   "тульск": {
     "display_name": "Тульская область",
-    "type": "alert",
-    "text": "Новомосковск \nТульская область \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-20T00:48:06+00:00",
-    "expires_at": "2026-07-20T01:48:06+00:00",
+    "type": "drone",
+    "text": "Алексин, Тульская область - опасность по БПЛА сохраняется. Пролетают транзитом.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-20T01:02:37+00:00",
+    "expires_at": "2026-07-20T02:02:37+00:00",
     "count": null,
     "count_approx": false
   },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "МО Раменское \nМосковская область \nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-20T01:01:03+00:00",
-    "expires_at": "2026-07-20T02:01:03+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "рязанск": {
-    "display_name": "Рязанскую область",
-    "type": "drone",
-    "text": "БПЛА, летящие массово изначально на Рязанскую область от Тульской области по дуге ушли на Московскую область для нанесения ударов непосредственно в регионе.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-07-20T00:30:33+00:00",
-    "expires_at": "2026-07-20T01:30:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Тёмкинский район\nСмоленская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-20T00:12:07+00:00",
-    "expires_at": "2026-07-20T01:12:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Инжавинский район\nТамбовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-20T00:12:54+00:00",
-    "expires_at": "2026-07-20T01:12:54+00:00",
+    "text": "МО Раменское \nМосковская область \nСбитие БПЛА\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-20T01:29:57+00:00",
+    "expires_at": "2026-07-20T02:29:57+00:00",
     "count": null,
     "count_approx": false
   },
