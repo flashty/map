@@ -1,35 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-19T23:40:59+00:00",
-        "last_updated": "2026-07-20T01:38:22+00:00",
-        "path_labels": [
-          "Раменское",
-          "Подмосковье",
-          "Раменское (Московская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.2282099,
-            55.5709361
-          ],
-          [
-            38.0353929,
-            55.5043158
-          ],
-          [
-            38.2282099,
-            55.5709361
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
