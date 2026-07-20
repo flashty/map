@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_102148_Валуйского",
-    "channel": "kupolrussia",
-    "date": "2026-07-19T10:22:49+00:00",
-    "text": "Дальний Валуйского района \nНесколько БПЛА в небе\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Валуйского",
-    "region": null,
-    "lat": 50.2167975,
-    "lon": 38.0908556
-  },
-  {
-    "id": "vrv_radar_74215",
-    "channel": "vrv_radar",
-    "date": "2026-07-19T10:23:14+00:00",
-    "text": "Туапсе и близлежащие \nКраснодарский край\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_73331",
-    "channel": "locatorru",
-    "date": "2026-07-19T10:24:01+00:00",
-    "text": "Почеп и близлежащие, Брянская область - фиксации БПЛА на северо-восток. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_73332_Выгоничи",
-    "channel": "locatorru",
-    "date": "2026-07-19T10:24:21+00:00",
-    "text": "Выгоничи, Брянск, Сельцо и близлежащие, Брянская область - опасность по БПЛА от Почеп. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Выгоничи",
-    "region": "Брянская область",
-    "lat": 53.0978,
-    "lon": 34.0683
-  },
-  {
     "id": "locatorru_73332_Брянск",
     "channel": "locatorru",
     "date": "2026-07-19T10:24:21+00:00",
@@ -21996,6 +21952,50 @@
     "type": "alert",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_102527",
+    "channel": "kupolrussia",
+    "date": "2026-07-20T05:04:13+00:00",
+    "text": "Тульская область \nМосковская область \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_205128",
+    "channel": "LPRalarm",
+    "date": "2026-07-20T05:04:17+00:00",
+    "text": "Тульская область \nМосковская область \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74603",
+    "channel": "vrv_radar",
+    "date": "2026-07-20T05:11:53+00:00",
+    "text": "Сочи и близлежащие \nКраснодарский край \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_82933",
+    "channel": "radarrussiia",
+    "date": "2026-07-20T05:12:24+00:00",
+    "text": "Сочи и близлежащие \nКраснодарский край \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
