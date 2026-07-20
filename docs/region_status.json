@@ -9,33 +9,23 @@
     "count": null,
     "count_approx": false
   },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Зимино \nКормовое и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-20T20:17:52+00:00",
-    "expires_at": "2026-07-20T21:17:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "орловск": {
-    "display_name": "Орловская область",
+    "display_name": "Орловскую область",
     "type": "drone",
-    "text": "Колпнянский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-20T19:36:53+00:00",
-    "expires_at": "2026-07-20T20:36:53+00:00",
+    "text": "Хомутовский район, Курская область - пролёты БПЛА от госграницы в направлении Дмитриевский район, Железногорский район, далее на Орловскую область. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-20T20:33:20+00:00",
+    "expires_at": "2026-07-20T21:33:20+00:00",
     "count": null,
     "count_approx": false
   },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Ростовская область - внимание по БПЛА от ЛНР. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-20T20:19:19+00:00",
-    "expires_at": "2026-07-20T21:19:19+00:00",
+    "text": "Северодонецк и близлежащие и далее в тыл\nТревога по БПЛА\nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-20T20:35:10+00:00",
+    "expires_at": "2026-07-20T21:35:10+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,33 +49,13 @@
     "count": null,
     "count_approx": false
   },
-  "николаевск": {
-    "display_name": "Николаевской области",
-    "type": "drone",
-    "text": "Пуски БПЛА от Николаевской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-20T19:39:25+00:00",
-    "expires_at": "2026-07-20T20:39:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
-    "text": "Херсонская область РФ\nОпасность по БПЛА",
+    "text": "Каланчак, Харлы и близлежащие\nХерсонская область РФ\nОпасность по БПЛА",
     "channel": "LPRalarm",
-    "updated_at": "2026-07-20T20:30:32+00:00",
-    "expires_at": "2026-07-20T21:30:32+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Славянский район \nБрюховецкий район\nПриморско-Ахтарский район\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-20T20:21:12+00:00",
-    "expires_at": "2026-07-20T21:21:12+00:00",
+    "updated_at": "2026-07-20T20:31:32+00:00",
+    "expires_at": "2026-07-20T21:31:32+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,6 +86,36 @@
     "channel": "vrv_radar",
     "updated_at": "2026-07-20T20:30:15+00:00",
     "expires_at": "2026-07-20T21:30:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Хомутовский район, Курская область - пролёты БПЛА от госграницы в направлении Дмитриевский район, Железногорский район, далее на Орловскую область. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-20T20:33:20+00:00",
+    "expires_at": "2026-07-20T21:33:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Ейский район\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-20T20:45:15+00:00",
+    "expires_at": "2026-07-20T21:45:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Почтовое\nСкалистое\nБахчисарай и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-20T20:45:24+00:00",
+    "expires_at": "2026-07-20T21:45:24+00:00",
     "count": null,
     "count_approx": false
   }
