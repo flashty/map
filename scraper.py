@@ -78,6 +78,10 @@ TYPE_KEYWORDS = [
         "опасности нет", "опасности никакой нет", "угрозы нет",
         "всё хорошо", "все хорошо", "всё спокойно", "все спокойно",
         "ничего страшного",
+        # повідомлення про вже усунуту загрозу (минулий час) — це не
+        # активна тривога просто зараз, а фактично те саме, що відбій
+        "уничтожен", "уничтожено", "сбит", "сбито",
+        "обезврежен", "обезврежено", "перехвачен", "перехвачено",
     ]),
     ("ballistic", ["баллистич", "искандер", "кинжал", "циркон"]),
     ("missile", ["ракет", "калибр", "х-101", "х-22", "х-59", "фламинго", "крылат"]),
@@ -244,7 +248,7 @@ def extract_unit_count(text: str):
     return None, False
 
 
-def update_region_status(region_status: dict, region: str, alert_type: str, text: str, channel: str, msg_time):
+def update_region_status(region_status: dict, region: str, alert_type: str, text: str, channel: str, msg_time, count=None, count_approx=False):
     """Оновлює статус регіону для підсвітки на карті.
 
     ВАЖЛИВО: msg_time — це час САМОГО повідомлення в Telegram (m.date),
@@ -256,6 +260,12 @@ def update_region_status(region_status: dict, region: str, alert_type: str, text
     В іншому разі — оновлюється активний тип загрози й причина (текст
     повідомлення), з підстраховкою по часу (REGION_BACKSTOP_HOURS) на
     випадок, якщо канал просто замовк, а не дав явний відбій.
+
+    count/count_approx передаються ЗЗОВНІ (не рахуються тут із тексту)
+    навмисно: одне число з повідомлення може стосуватися ОДРАЗУ кількох
+    регіонів разом (напр. "уничтожено 161 БПЛА над 9 областями") — і його
+    не можна просто приписати кожному регіону окремо, інакше сума
+    роздується в рази. Викликач сам вирішує, чи можна довіряти числу.
     """
     if not region:
         return
@@ -269,7 +279,6 @@ def update_region_status(region_status: dict, region: str, alert_type: str, text
         return
 
     expires_at = msg_time + timedelta(hours=REGION_BACKSTOP_HOURS)
-    count, count_approx = extract_unit_count(text)
     region_status[key] = {
         "display_name": region,
         "type": alert_type,
@@ -758,8 +767,16 @@ def main():
             # тощо) без жодного реального ключового слова тривоги, може
             # хибно "запалити" підсвітку одразу в купі регіонів.
             if alert_type != "unknown":
+                # кількість (якщо канал її вказав) прив'язуємо ТІЛЬКИ коли
+                # повідомлення про ОДИН регіон — інакше одне спільне число
+                # на кілька областей ("уничтожено 161 БПЛА над 9 областями")
+                # хибно множилось би на кожен регіон окремо
+                if len(regions) == 1:
+                    count, count_approx = extract_unit_count(text)
+                else:
+                    count, count_approx = None, False
                 for region in regions:
-                    update_region_status(region_status, region, alert_type, text, channel, msg_time)
+                    update_region_status(region_status, region, alert_type, text, channel, msg_time, count, count_approx)
 
             # якщо канал явно описав напрямок руху через кілька регіонів в
             # одному повідомленні — малюємо це як готовий маршрут одразу,
