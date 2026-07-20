@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарско": {
-    "display_name": "Краснодарского края",
-    "type": "drone",
-    "text": "Приазовье Краснодарского края Приморско-Ахтарск и близлежащие опасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-20T04:48:50+00:00",
-    "expires_at": "2026-07-20T05:48:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "никольск": {
     "display_name": "Никольское область",
     "type": "drone",
@@ -56,6 +46,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-20T05:33:11+00:00",
     "expires_at": "2026-07-20T06:33:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Весёлое Запорожская область РФ опасность по БПЛА и далее, возможно, в направлении Мелитополь",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-20T05:51:02+00:00",
+    "expires_at": "2026-07-20T06:51:02+00:00",
     "count": null,
     "count_approx": false
   }

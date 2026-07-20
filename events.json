@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_74216",
-    "channel": "vrv_radar",
-    "date": "2026-07-19T10:35:22+00:00",
-    "text": "Новороссийск и близлежащие \nКраснодарский край \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_73336_Карачев",
-    "channel": "locatorru",
-    "date": "2026-07-19T10:35:42+00:00",
-    "text": "Карачев, Брянская область - БПЛА на Хвастовичи. Пойдет дальше по границе между областями. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Карачев",
-    "region": "Брянская область",
-    "lat": 53.1221822,
-    "lon": 34.9825906
-  },
-  {
-    "id": "radarrussiia_82683",
-    "channel": "radarrussiia",
-    "date": "2026-07-19T10:36:04+00:00",
-    "text": "Новороссийск и близлежащие \nКраснодарский край \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_204699",
-    "channel": "LPRalarm",
-    "date": "2026-07-19T10:36:44+00:00",
-    "text": "РАКЕТНАЯ ОПАСНОСТЬ! На территории СЕВСКОГО РАЙОНА!",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_204700_Севский",
-    "channel": "LPRalarm",
-    "date": "2026-07-19T10:36:59+00:00",
-    "text": "Севский район Ракетная опасность \nБрянская область",
-    "type": "missile",
-    "location_name": "Севский",
-    "region": "Брянская область",
-    "lat": 52.0922416,
-    "lon": 34.4204983
-  },
-  {
     "id": "kupolrussia_102151_Севский",
     "channel": "kupolrussia",
     "date": "2026-07-19T10:37:10+00:00",
@@ -21998,5 +21943,60 @@
     "region": null,
     "lat": 52.517368,
     "lon": 35.246559
+  },
+  {
+    "id": "LPRalarm_205133_Сочи",
+    "channel": "LPRalarm",
+    "date": "2026-07-20T05:49:14+00:00",
+    "text": "Сочи, Геленджик и близлежащие опасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": "Сочи",
+    "region": null,
+    "lat": 43.5854823,
+    "lon": 39.723109
+  },
+  {
+    "id": "kupolrussia_102530_Сочи",
+    "channel": "kupolrussia",
+    "date": "2026-07-20T05:49:24+00:00",
+    "text": "Сочи, Геленджик и близлежащие опасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": "Сочи",
+    "region": null,
+    "lat": 43.5854823,
+    "lon": 39.723109
+  },
+  {
+    "id": "LPRalarm_205134",
+    "channel": "LPRalarm",
+    "date": "2026-07-20T05:51:02+00:00",
+    "text": "Весёлое Запорожская область РФ опасность по БПЛА и далее, возможно, в направлении Мелитополь",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_205135",
+    "channel": "LPRalarm",
+    "date": "2026-07-20T05:56:25+00:00",
+    "text": "Туапсе и близлежащие опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_102531",
+    "channel": "kupolrussia",
+    "date": "2026-07-20T05:56:30+00:00",
+    "text": "Туапсе и близлежащие опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
