@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_102359",
-    "channel": "kupolrussia",
-    "date": "2026-07-19T20:21:27+00:00",
-    "text": "Волноваха и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_73403",
-    "channel": "locatorru",
-    "date": "2026-07-19T20:21:39+00:00",
-    "text": "Краснодарский край - опасность по БПЛА от Азовского моря.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_82725",
-    "channel": "radarrussiia",
-    "date": "2026-07-19T20:22:13+00:00",
-    "text": "Краснодарский край \nРеспублика Адыгея \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_204926_Староминская",
     "channel": "LPRalarm",
     "date": "2026-07-19T20:22:21+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Республика Крым",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_205372_Кача",
+    "channel": "LPRalarm",
+    "date": "2026-07-20T16:07:02+00:00",
+    "text": "Кача, Севастополь опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Кача",
+    "region": null,
+    "lat": 56.1972669,
+    "lon": 92.5363666
+  },
+  {
+    "id": "LPRalarm_205373",
+    "channel": "LPRalarm",
+    "date": "2026-07-20T16:07:10+00:00",
+    "text": "Кача\nБельбек и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_102758_Кача",
+    "channel": "kupolrussia",
+    "date": "2026-07-20T16:07:25+00:00",
+    "text": "Кача\nБельбек и близлежащие\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Кача",
+    "region": null,
+    "lat": 56.1972669,
+    "lon": 92.5363666
   }
 ]
