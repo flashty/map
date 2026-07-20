@@ -1,14 +1,4 @@
 {
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Тульская область \nРязанская область \nМосковская область \n\nПовторно\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-20T14:28:10+00:00",
-    "expires_at": "2026-07-20T15:28:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "missile",
@@ -106,6 +96,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-20T15:13:11+00:00",
     "expires_at": "2026-07-20T16:13:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "alert",
+    "text": "Макеевка и ближайшие опасность по Хорнет\nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-20T15:20:03+00:00",
+    "expires_at": "2026-07-20T16:20:03+00:00",
     "count": null,
     "count_approx": false
   }
