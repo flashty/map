@@ -39,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "alert",
-    "text": "Запорожская область РФ \nЛДНР\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-20T14:51:06+00:00",
-    "expires_at": "2026-07-20T15:51:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
@@ -61,11 +51,11 @@
   },
   "крым": {
     "display_name": "Республика Крым",
-    "type": "alert",
-    "text": "Новофедоровка \nСаки\nМеры безопасности \nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-20T14:48:03+00:00",
-    "expires_at": "2026-07-20T15:48:03+00:00",
+    "type": "drone",
+    "text": "Новофедоровка \nСаки и близлежащие \nОпасность по БПЛА сохраняется \nЕщё фиксации \nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-20T16:00:33+00:00",
+    "expires_at": "2026-07-20T17:00:33+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,16 +66,6 @@
     "channel": "locatorru",
     "updated_at": "2026-07-20T15:45:41+00:00",
     "expires_at": "2026-07-20T16:45:41+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "missile",
-    "text": "Краснореченское\nСватово\nЛНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-20T14:46:23+00:00",
-    "expires_at": "2026-07-20T15:46:23+00:00",
     "count": null,
     "count_approx": false
   },
@@ -101,11 +81,11 @@
   },
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "alert",
-    "text": "Макеевка и ближайшие опасность по Хорнет\nДНР",
+    "type": "drone",
+    "text": "Горловка ДНР опасность по БПЛА и ФПВ",
     "channel": "kupolrussia",
-    "updated_at": "2026-07-20T15:20:03+00:00",
-    "expires_at": "2026-07-20T16:20:03+00:00",
+    "updated_at": "2026-07-20T15:56:14+00:00",
+    "expires_at": "2026-07-20T16:56:14+00:00",
     "count": null,
     "count_approx": false
   },
