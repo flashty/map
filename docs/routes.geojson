@@ -60,6 +60,31 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-20T14:07:50+00:00",
+        "last_updated": "2026-07-20T14:33:24+00:00",
+        "path_labels": [
+          "Бронницы",
+          "Балаклава"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.2591,
+            55.422
+          ],
+          [
+            37.6542418,
+            55.7630085
+          ]
+        ]
+      }
     }
   ]
 }
