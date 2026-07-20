@@ -30,6 +30,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-07-20T20:18:04+00:00",
+        "last_updated": "2026-07-20T20:49:52+00:00",
+        "path_labels": [
+          "Хомутовка (Курская область)",
+          "Суземский (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.5554503,
+            51.9214393
+          ],
+          [
+            34.0616231,
+            52.410945
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-07-20T20:32:41+00:00",
         "last_updated": "2026-07-20T20:32:41+00:00",
         "path_labels": [
