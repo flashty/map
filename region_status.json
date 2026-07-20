@@ -1,41 +1,21 @@
 {
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Дмитровский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-20T12:48:49+00:00",
-    "expires_at": "2026-07-20T13:48:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Новороссийск и близлежащие \n\nКраснодарский край\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-20T13:16:10+00:00",
-    "expires_at": "2026-07-20T14:16:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Новомосковск \nТульская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-07-20T13:45:38+00:00",
-    "expires_at": "2026-07-20T14:45:38+00:00",
+    "text": "Ясногорский район\nЛенинский район\nНовомосковск \nТульская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-20T13:46:22+00:00",
+    "expires_at": "2026-07-20T14:46:22+00:00",
     "count": null,
     "count_approx": false
   },
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка\nПантелеймоновка, Енакиево, Корсунь, Углегорск ДНР и близлежащие внимание тоже\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "missile",
+    "text": "Новая Полтавка, Очеретино ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
     "channel": "kupolrussia",
-    "updated_at": "2026-07-20T13:03:25+00:00",
-    "expires_at": "2026-07-20T14:03:25+00:00",
+    "updated_at": "2026-07-20T13:57:57+00:00",
+    "expires_at": "2026-07-20T14:57:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +46,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-07-20T13:44:12+00:00",
     "expires_at": "2026-07-20T14:44:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Воробьевский район\nВоронежская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-20T13:49:06+00:00",
+    "expires_at": "2026-07-20T14:49:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Геленджик \nИ близлежащие \nКраснодарский край\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-20T13:57:45+00:00",
+    "expires_at": "2026-07-20T14:57:45+00:00",
     "count": null,
     "count_approx": false
   }
