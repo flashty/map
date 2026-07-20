@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-20T07:55:56+00:00",
+        "last_updated": "2026-07-20T08:27:44+00:00",
+        "path_labels": [
+          "Соломино",
+          "Железногорский (Курская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.246559,
+            52.517368
+          ],
+          [
+            35.457549,
+            52.2325992
+          ]
+        ]
+      }
+    }
+  ]
 }
