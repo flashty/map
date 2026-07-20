@@ -1,31 +1,61 @@
 {
   "орловск": {
-    "display_name": "Орловской области",
+    "display_name": "Орловская область",
     "type": "drone",
-    "text": "Тульская область опасность по БПЛА от Орловской области",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-20T04:01:38+00:00",
-    "expires_at": "2026-07-20T05:01:38+00:00",
+    "text": "Кромской район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-20T04:26:04+00:00",
+    "expires_at": "2026-07-20T05:26:04+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Тульская область опасность по БПЛА от Орловской области",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-20T04:01:38+00:00",
-    "expires_at": "2026-07-20T05:01:38+00:00",
+    "text": "Алексин\nТульская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-20T04:30:50+00:00",
+    "expires_at": "2026-07-20T05:30:50+00:00",
     "count": null,
     "count_approx": false
   },
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
-    "text": "Льгов, Рыльск и близлежащие опасность по БПЛА\nКурская область",
+    "text": "Курская область тревога по БПЛА Курск, Льгов, Рыльск, Курчатов и далее в направлении Орловской области",
     "channel": "kupolrussia",
-    "updated_at": "2026-07-20T04:13:34+00:00",
-    "expires_at": "2026-07-20T05:13:34+00:00",
+    "updated_at": "2026-07-20T04:19:32+00:00",
+    "expires_at": "2026-07-20T05:19:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московской области",
+    "type": "drone",
+    "text": "Тульская область и в направлении Московской области тревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-20T04:21:49+00:00",
+    "expires_at": "2026-07-20T05:21:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Туапсе и близлежащие \nКраснодарский край\nОпасность по БПЛА повторно",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-20T04:30:18+00:00",
+    "expires_at": "2026-07-20T05:30:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "missile",
+    "text": "Новоелизаветовка,\nСрибное\nДНР ракетная опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-20T04:31:27+00:00",
+    "expires_at": "2026-07-20T05:31:27+00:00",
     "count": null,
     "count_approx": false
   }
