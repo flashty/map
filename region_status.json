@@ -2,10 +2,10 @@
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
-    "text": "Дубовское поле\nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Белгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-07-20T16:43:43+00:00",
-    "expires_at": "2026-07-20T17:43:43+00:00",
+    "updated_at": "2026-07-20T17:30:14+00:00",
+    "expires_at": "2026-07-20T18:30:14+00:00",
     "count": null,
     "count_approx": false
   },
@@ -16,16 +16,6 @@
     "channel": "locatorru",
     "updated_at": "2026-07-20T16:38:47+00:00",
     "expires_at": "2026-07-20T17:38:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянской области",
-    "type": "alert",
-    "text": "Суземка и ближайшие, Брянской области, тревога по фпв",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-20T16:28:34+00:00",
-    "expires_at": "2026-07-20T17:28:34+00:00",
     "count": null,
     "count_approx": false
   },
@@ -60,12 +50,42 @@
     "count_approx": false
   },
   "рязанск": {
-    "display_name": "Рязанской области",
+    "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Западная часть Рязанской области - опасность по БПЛА от Богородицкого района. \n\n📡Локатор России - @locatorru",
+    "text": "Захаровский район\nКораблинский район\nРязанская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-20T17:28:14+00:00",
+    "expires_at": "2026-07-20T18:28:14+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Курская область \nБелгородская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-20T17:24:11+00:00",
+    "expires_at": "2026-07-20T18:24:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловской области",
+    "type": "drone",
+    "text": "Курская область - опасность по БПЛА сохраняется и далее в сторону Орловской области. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-07-20T16:45:14+00:00",
-    "expires_at": "2026-07-20T17:45:14+00:00",
+    "updated_at": "2026-07-20T17:19:24+00:00",
+    "expires_at": "2026-07-20T18:19:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородская область",
+    "type": "drone",
+    "text": "Нижегородская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-20T17:25:17+00:00",
+    "expires_at": "2026-07-20T18:25:17+00:00",
     "count": null,
     "count_approx": false
   }
