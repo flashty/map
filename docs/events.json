@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_102151_Севский",
-    "channel": "kupolrussia",
-    "date": "2026-07-19T10:37:10+00:00",
-    "text": "Севский район\nБрянская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": "Севский",
-    "region": "Брянская область",
-    "lat": 52.0922416,
-    "lon": 34.4204983
-  },
-  {
-    "id": "locatorru_73337",
-    "channel": "locatorru",
-    "date": "2026-07-19T10:38:07+00:00",
-    "text": "Севский район, Брянская область / Хомутовский район, Курская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_204701",
-    "channel": "LPRalarm",
-    "date": "2026-07-19T10:38:19+00:00",
-    "text": "Новознаменка ЛНР \nБПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_102152",
-    "channel": "kupolrussia",
-    "date": "2026-07-19T10:38:37+00:00",
-    "text": "Новознаменка ЛНР \nБПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_74217_Крымский",
-    "channel": "vrv_radar",
-    "date": "2026-07-19T10:38:47+00:00",
-    "text": "Крымский район\nКраснодарский край\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Крымский",
-    "region": "Краснодарский край",
-    "lat": 44.9624541,
-    "lon": 37.896802
-  },
-  {
-    "id": "radarrussiia_82684_Крымский",
-    "channel": "radarrussiia",
-    "date": "2026-07-19T10:39:15+00:00",
-    "text": "Крымский район\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Крымский",
-    "region": "Краснодарский край",
-    "lat": 44.9624541,
-    "lon": 37.896802
-  },
-  {
     "id": "LPRalarm_204702",
     "channel": "LPRalarm",
     "date": "2026-07-19T10:39:31+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_205136",
+    "channel": "LPRalarm",
+    "date": "2026-07-20T06:06:13+00:00",
+    "text": "Западные районы Белгородская область, Белгородский район \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_102532",
+    "channel": "kupolrussia",
+    "date": "2026-07-20T06:06:18+00:00",
+    "text": "Западные районы Белгородская область, Белгородский район \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74606",
+    "channel": "vrv_radar",
+    "date": "2026-07-20T06:12:26+00:00",
+    "text": "Нижегородская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74607",
+    "channel": "vrv_radar",
+    "date": "2026-07-20T06:14:37+00:00",
+    "text": "Ивановская область \nВладимирская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ивановская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_82934",
+    "channel": "radarrussiia",
+    "date": "2026-07-20T06:14:41+00:00",
+    "text": "Нижегородская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_82935",
+    "channel": "radarrussiia",
+    "date": "2026-07-20T06:15:31+00:00",
+    "text": "Ивановская область\nВладимирская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ивановская область",
     "lat": null,
     "lon": null
   }
