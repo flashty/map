@@ -1,14 +1,4 @@
 {
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Кромской район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-20T04:26:04+00:00",
-    "expires_at": "2026-07-20T05:26:04+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
@@ -16,16 +6,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-07-20T05:04:17+00:00",
     "expires_at": "2026-07-20T06:04:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Курская область тревога по БПЛА Курск, Льгов, Рыльск, Курчатов и далее в направлении Орловской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-20T04:19:32+00:00",
-    "expires_at": "2026-07-20T05:19:32+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "missile",
-    "text": "Новоелизаветовка,\nСрибное\nДНР ракетная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-20T04:31:27+00:00",
-    "expires_at": "2026-07-20T05:31:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарско": {
     "display_name": "Краснодарского края",
     "type": "drone",
@@ -56,6 +26,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-20T04:48:50+00:00",
     "expires_at": "2026-07-20T05:48:50+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "никольск": {
+    "display_name": "Никольское область",
+    "type": "drone",
+    "text": "Никольское\nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-20T05:30:31+00:00",
+    "expires_at": "2026-07-20T06:30:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Никольское\nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-20T05:30:31+00:00",
+    "expires_at": "2026-07-20T06:30:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Курчанская в направлении Лимана фиксация БПЛА \n\nКраснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-20T05:33:11+00:00",
+    "expires_at": "2026-07-20T06:33:11+00:00",
     "count": null,
     "count_approx": false
   }
