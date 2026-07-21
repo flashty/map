@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_102621",
-    "channel": "kupolrussia",
-    "date": "2026-07-20T09:20:51+00:00",
-    "text": "Тульская область \nКалужская область \nМосковская область \nПриготовиться к волне БПЛА от Орловской области \nМного",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205229",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T09:20:56+00:00",
-    "text": "Тульская область \nКалужская область \nМосковская область \nПриготовиться к волне БПЛА от Орловской области \nМного",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_73569_Лиски",
-    "channel": "locatorru",
-    "date": "2026-07-20T09:21:41+00:00",
-    "text": "Лиски, Острогожск, Нововоронеж, опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Лиски",
-    "region": null,
-    "lat": 50.9873813,
-    "lon": 39.4972321
-  },
-  {
-    "id": "locatorru_73569_Острогожск",
-    "channel": "locatorru",
-    "date": "2026-07-20T09:21:41+00:00",
-    "text": "Лиски, Острогожск, Нововоронеж, опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Острогожск",
-    "region": null,
-    "lat": 50.864902,
-    "lon": 39.077244
-  },
-  {
-    "id": "locatorru_73569_Нововоронеж",
-    "channel": "locatorru",
-    "date": "2026-07-20T09:21:41+00:00",
-    "text": "Лиски, Острогожск, Нововоронеж, опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Нововоронеж",
-    "region": null,
-    "lat": 51.30905,
-    "lon": 39.2160054
-  },
-  {
-    "id": "vrv_radar_74630_Острогожский",
-    "channel": "vrv_radar",
-    "date": "2026-07-20T09:22:03+00:00",
-    "text": "Нововоронеж \nОстрогожский район\nВоронежская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Острогожский",
-    "region": "Воронежская область",
-    "lat": 50.8584609,
-    "lon": 39.0772421
-  },
-  {
     "id": "LPRalarm_205230",
     "channel": "LPRalarm",
     "date": "2026-07-20T09:23:37+00:00",
@@ -21996,6 +21930,72 @@
     "type": "alert",
     "location_name": null,
     "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_205884",
+    "channel": "LPRalarm",
+    "date": "2026-07-21T17:06:13+00:00",
+    "text": "От пгт Новолуганское через Светлодарск БПЛА ДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103103",
+    "channel": "kupolrussia",
+    "date": "2026-07-21T17:06:44+00:00",
+    "text": "От пгт Новолуганское через Светлодарск БПЛА ДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_205885",
+    "channel": "LPRalarm",
+    "date": "2026-07-21T17:06:45+00:00",
+    "text": "Донецк Петровский район \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103104",
+    "channel": "kupolrussia",
+    "date": "2026-07-21T17:07:33+00:00",
+    "text": "Донецк Петровский район \nДНР\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_205886",
+    "channel": "LPRalarm",
+    "date": "2026-07-21T17:13:12+00:00",
+    "text": "Ленинский район \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103105",
+    "channel": "kupolrussia",
+    "date": "2026-07-21T17:13:32+00:00",
+    "text": "Ленинский район \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
