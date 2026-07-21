@@ -2,30 +2,20 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "МО Истра\nМосковская область \nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "ГО Клин\nМосковская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-07-21T06:47:16+00:00",
-    "expires_at": "2026-07-21T07:47:16+00:00",
+    "updated_at": "2026-07-21T06:48:35+00:00",
+    "expires_at": "2026-07-21T07:48:35+00:00",
     "count": 2,
     "count_approx": false
   },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Приморск и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-21T06:46:17+00:00",
-    "expires_at": "2026-07-21T07:46:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Херсонская область РФ \nЗапорожская область РФ \nАктивность БПЛА Хорнет \nОсобое внимание трассы",
+    "type": "alert",
+    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
     "channel": "kupolrussia",
-    "updated_at": "2026-07-21T05:55:23+00:00",
-    "expires_at": "2026-07-21T06:55:23+00:00",
+    "updated_at": "2026-07-21T06:54:13+00:00",
+    "expires_at": "2026-07-21T07:54:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,16 +26,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-21T06:16:52+00:00",
     "expires_at": "2026-07-21T07:16:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Лисичанск и близлежащие \nОпасность по БПЛА хорнет \nЛНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-21T06:00:23+00:00",
-    "expires_at": "2026-07-21T07:00:23+00:00",
     "count": null,
     "count_approx": false
   },
@@ -67,6 +47,16 @@
     "updated_at": "2026-07-21T06:26:08+00:00",
     "expires_at": "2026-07-21T07:26:08+00:00",
     "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Почеп, Брянская область - пролёт от 3 БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-21T06:54:17+00:00",
+    "expires_at": "2026-07-21T07:54:17+00:00",
+    "count": 3,
     "count_approx": false
   }
 }

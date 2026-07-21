@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-21T06:25:54+00:00",
+        "last_updated": "2026-07-21T06:54:17+00:00",
+        "path_labels": [
+          "Трубчевский (Брянская область)",
+          "Почеп (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.7892267,
+            52.5867776
+          ],
+          [
+            33.4544207,
+            52.9287784
+          ]
+        ]
+      }
+    }
+  ]
 }
