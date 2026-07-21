@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_74631_Крымский",
-    "channel": "vrv_radar",
-    "date": "2026-07-20T09:32:52+00:00",
-    "text": "Крымский район\nКраснодарский край\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Крымский",
-    "region": "Краснодарский край",
-    "lat": 44.9624541,
-    "lon": 37.896802
-  },
-  {
-    "id": "kupolrussia_102626_Белгород",
-    "channel": "kupolrussia",
-    "date": "2026-07-20T09:32:58+00:00",
-    "text": "Белгород\nПовторно\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Белгород",
-    "region": null,
-    "lat": 50.5955595,
-    "lon": 36.5873394
-  },
-  {
     "id": "radarrussiia_82946_Крымский",
     "channel": "radarrussiia",
     "date": "2026-07-20T09:33:34+00:00",
@@ -21996,6 +21974,28 @@
     "type": "drone",
     "location_name": null,
     "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_205893_Бахчисарайский",
+    "channel": "LPRalarm",
+    "date": "2026-07-21T17:37:14+00:00",
+    "text": "Бахчисарайский район опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Бахчисарайский",
+    "region": null,
+    "lat": 58.0385064,
+    "lon": 56.3629087
+  },
+  {
+    "id": "kupolrussia_103111",
+    "channel": "kupolrussia",
+    "date": "2026-07-21T17:37:38+00:00",
+    "text": "Бахчисарайский район\nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
