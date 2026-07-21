@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_74431_Коломна",
-    "channel": "vrv_radar",
-    "date": "2026-07-19T23:48:18+00:00",
-    "text": "ГО Коломна\nМосковская область \nПродолжаются фиксации БПЛА",
-    "type": "drone",
-    "location_name": "Коломна",
-    "region": "Московская область",
-    "lat": 55.0938743,
-    "lon": 38.7670121
-  },
-  {
-    "id": "locatorru_73513_Фоминск",
-    "channel": "locatorru",
-    "date": "2026-07-19T23:49:01+00:00",
-    "text": "Наро-Фоминск, Одинцово, Серпухов, Кашира, Ступино, Домодедово, Раменское, Московская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Фоминск",
-    "region": "Московская область",
-    "lat": 55.3842784,
-    "lon": 36.723507
-  },
-  {
     "id": "locatorru_73513_Одинцово",
     "channel": "locatorru",
     "date": "2026-07-19T23:49:01+00:00",
@@ -21996,6 +21974,28 @@
     "type": "drone",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_102897",
+    "channel": "kupolrussia",
+    "date": "2026-07-21T04:01:31+00:00",
+    "text": "Мыс Ахилеон\nтревога по БПЛА\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_205638",
+    "channel": "LPRalarm",
+    "date": "2026-07-21T04:13:14+00:00",
+    "text": "Новороссийск и близлежащие опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
