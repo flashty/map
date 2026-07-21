@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_205132_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T05:41:19+00:00",
-    "text": "Соломино, Таврово Дубовое \nБелгородский район \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "LPRalarm_205132_Соломино",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T05:41:19+00:00",
-    "text": "Соломино, Таврово Дубовое \nБелгородский район \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Соломино",
-    "region": null,
-    "lat": 52.517368,
-    "lon": 35.246559
-  },
-  {
-    "id": "LPRalarm_205133_Сочи",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T05:49:14+00:00",
-    "text": "Сочи, Геленджик и близлежащие опасность по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": "Сочи",
-    "region": null,
-    "lat": 43.5854823,
-    "lon": 39.723109
-  },
-  {
     "id": "kupolrussia_102530_Сочи",
     "channel": "kupolrussia",
     "date": "2026-07-20T05:49:24+00:00",
@@ -21998,5 +21965,38 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_205795",
+    "channel": "LPRalarm",
+    "date": "2026-07-21T11:05:24+00:00",
+    "text": "Стык Калужской и Брянской области, множественные фиксации БПЛА в направлении Московской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_205796",
+    "channel": "LPRalarm",
+    "date": "2026-07-21T11:06:33+00:00",
+    "text": "Шебекино \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103023_Шебекино",
+    "channel": "kupolrussia",
+    "date": "2026-07-21T11:06:55+00:00",
+    "text": "Шебекино \nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Шебекино",
+    "region": "Белгородская область",
+    "lat": 50.4049335,
+    "lon": 36.8796822
   }
 ]
