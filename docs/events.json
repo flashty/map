@@ -1,16 +1,5 @@
 [
   {
-    "id": "vrv_radar_74430",
-    "channel": "vrv_radar",
-    "date": "2026-07-19T23:48:03+00:00",
-    "text": "МО Раменское \nМосковская область \nСбитие БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_74431_Коломна",
     "channel": "vrv_radar",
     "date": "2026-07-19T23:48:18+00:00",
@@ -21998,5 +21987,16 @@
     "region": null,
     "lat": 51.6549389,
     "lon": 35.0143365
+  },
+  {
+    "id": "LPRalarm_205637",
+    "channel": "LPRalarm",
+    "date": "2026-07-21T04:01:00+00:00",
+    "text": "Мыс Ахилеон\n тревога по БПЛА\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
   }
 ]
