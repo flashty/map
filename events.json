@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_205080_Кача",
-    "channel": "LPRalarm",
-    "date": "2026-07-19T23:54:14+00:00",
-    "text": "Кача, Бельбек \nСеверная сторона Севастополя \nТревога по БПЛА с севера",
-    "type": "drone",
-    "location_name": "Кача",
-    "region": null,
-    "lat": 56.1972669,
-    "lon": 92.5363666
-  },
-  {
-    "id": "vrv_radar_74446",
-    "channel": "vrv_radar",
-    "date": "2026-07-19T23:54:16+00:00",
-    "text": "ГО Подольск \nМосковская область \nСбитие БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_74447",
-    "channel": "vrv_radar",
-    "date": "2026-07-19T23:54:45+00:00",
-    "text": "ГО Подольск \nМосковская область \nЕще сбитие БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_74448_Серебряные Пруды",
-    "channel": "vrv_radar",
-    "date": "2026-07-19T23:54:59+00:00",
-    "text": "ГО Серебряные Пруды\nМосковская область\nФиксация от 9 БПЛА",
-    "type": "drone",
-    "location_name": "Серебряные Пруды",
-    "region": "Московская область",
-    "lat": 54.4679803,
-    "lon": 38.7223679
-  },
-  {
-    "id": "radarrussiia_82858",
-    "channel": "radarrussiia",
-    "date": "2026-07-19T23:55:08+00:00",
-    "text": "Белгородская область\nКурская область\nКалужская область\nВоронежская область\nТульская область\nТамбовская область\nЛипецкая область\nМосковская область \nОтбой ракетной опасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_73518",
-    "channel": "locatorru",
-    "date": "2026-07-19T23:55:16+00:00",
-    "text": "Московская область - особое внимание по складам маркетплейсов.\n\n📡Локатор России - @locatorru",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_74449",
-    "channel": "vrv_radar",
-    "date": "2026-07-19T23:55:18+00:00",
-    "text": "Воронежская область \nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_74450",
     "channel": "vrv_radar",
     "date": "2026-07-19T23:55:28+00:00",
@@ -21998,5 +21921,82 @@
     "region": null,
     "lat": 44.849996,
     "lon": 38.4944065
+  },
+  {
+    "id": "LPRalarm_205661",
+    "channel": "LPRalarm",
+    "date": "2026-07-21T05:23:10+00:00",
+    "text": "Тарханкут и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_205662",
+    "channel": "LPRalarm",
+    "date": "2026-07-21T05:23:50+00:00",
+    "text": "Грайворон МО и далее в тыл тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_102905",
+    "channel": "kupolrussia",
+    "date": "2026-07-21T05:24:07+00:00",
+    "text": "Тарханкут и близлежащие \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_102906",
+    "channel": "kupolrussia",
+    "date": "2026-07-21T05:24:24+00:00",
+    "text": "Грайворон МО и далее в тыл\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74796",
+    "channel": "vrv_radar",
+    "date": "2026-07-21T05:25:14+00:00",
+    "text": "Ярославская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_83067",
+    "channel": "radarrussiia",
+    "date": "2026-07-21T05:25:51+00:00",
+    "text": "Ярославская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_12320",
+    "channel": "radar_plus_bpla",
+    "date": "2026-07-21T05:30:58+00:00",
+    "text": "⚡️За ночь силами ПВО было уничтожено 209 БПЛА территориями Белгородской, Брянской, Воронежской, Калужской, Курской, Ростовской, Рязанской областей, Московского региона, Краснодарского и Ставропольского краев, Республики Крым и над акваториями Азовского и Черного морей. \n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородской областей",
+    "lat": null,
+    "lon": null
   }
 ]
