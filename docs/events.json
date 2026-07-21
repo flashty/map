@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_205166",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T07:38:53+00:00",
-    "text": "Дамба Безлюдовка \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_102559",
-    "channel": "kupolrussia",
-    "date": "2026-07-20T07:38:59+00:00",
-    "text": "Керченский полуостров\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205167",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T07:39:15+00:00",
-    "text": "Сочи и близлежащие опасность по БПЛА повторно",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_102560",
-    "channel": "kupolrussia",
-    "date": "2026-07-20T07:39:16+00:00",
-    "text": "Дамба Безлюдовка \nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_102561",
     "channel": "kupolrussia",
     "date": "2026-07-20T07:39:37+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Брянская область",
     "lat": 53.1221822,
     "lon": 34.9825906
+  },
+  {
+    "id": "LPRalarm_205825",
+    "channel": "LPRalarm",
+    "date": "2026-07-21T14:04:31+00:00",
+    "text": "Белая Берёзка и близлежащие\nБрянская область\nГотовность к применению противником РСЗО в ближайшее время\nПринять меры безопасности",
+    "type": "alert",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103049",
+    "channel": "kupolrussia",
+    "date": "2026-07-21T14:04:39+00:00",
+    "text": "Белая Берёзка и близлежащие\nБрянская область\nГотовность к применению противником РСЗО в ближайшее время\nПринять меры безопасности",
+    "type": "alert",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_205826",
+    "channel": "LPRalarm",
+    "date": "2026-07-21T14:11:19+00:00",
+    "text": "Белгород \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103050_Белгород",
+    "channel": "kupolrussia",
+    "date": "2026-07-21T14:11:36+00:00",
+    "text": "Белгород\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Белгород",
+    "region": null,
+    "lat": 50.5955595,
+    "lon": 36.5873394
   }
 ]
