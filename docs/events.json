@@ -1,71 +1,5 @@
 [
   {
-    "id": "radarrussiia_82926_Плавский",
-    "channel": "radarrussiia",
-    "date": "2026-07-20T04:24:21+00:00",
-    "text": "Плавский район\nКиреевский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Плавский",
-    "region": "Тульская область",
-    "lat": 53.5992342,
-    "lon": 37.3013758
-  },
-  {
-    "id": "radarrussiia_82926_Киреевский",
-    "channel": "radarrussiia",
-    "date": "2026-07-20T04:24:21+00:00",
-    "text": "Плавский район\nКиреевский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Киреевский",
-    "region": "Тульская область",
-    "lat": 54.0220762,
-    "lon": 37.8625474
-  },
-  {
-    "id": "vrv_radar_74598",
-    "channel": "vrv_radar",
-    "date": "2026-07-20T04:24:34+00:00",
-    "text": "Сочи и близлежащие \nКраснодарский край\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_82927",
-    "channel": "radarrussiia",
-    "date": "2026-07-20T04:25:22+00:00",
-    "text": "Ростовская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205114",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T04:25:44+00:00",
-    "text": "Сочи и близлежащие опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_82928_Кромской",
-    "channel": "radarrussiia",
-    "date": "2026-07-20T04:26:04+00:00",
-    "text": "Кромской район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Кромской",
-    "region": "Орловская область",
-    "lat": 52.6353551,
-    "lon": 35.763628
-  },
-  {
     "id": "LPRalarm_205115",
     "channel": "LPRalarm",
     "date": "2026-07-20T04:26:10+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Тульская область",
     "lat": 54.5028103,
     "lon": 37.0667213
+  },
+  {
+    "id": "LPRalarm_205767",
+    "channel": "LPRalarm",
+    "date": "2026-07-21T09:36:03+00:00",
+    "text": "Сватово Уаб",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_102997",
+    "channel": "kupolrussia",
+    "date": "2026-07-21T09:36:13+00:00",
+    "text": "Сватово Уаб",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_205768",
+    "channel": "LPRalarm",
+    "date": "2026-07-21T09:36:14+00:00",
+    "text": "Шебекино \nУдарный БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_102998",
+    "channel": "kupolrussia",
+    "date": "2026-07-21T09:36:26+00:00",
+    "text": "Шебекино \nУдарный БПЛА\n\nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_205769",
+    "channel": "LPRalarm",
+    "date": "2026-07-21T09:36:50+00:00",
+    "text": "Акимовка и близлежащие \nЗапорожская область РФ \nТревога по БПЛА на электро тяге",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_102999",
+    "channel": "kupolrussia",
+    "date": "2026-07-21T09:37:04+00:00",
+    "text": "Акимовка и близлежащие \nЗапорожская область РФ \nТревога по БПЛА на электро тяге",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
   }
 ]
