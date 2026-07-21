@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_205154",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T07:06:15+00:00",
-    "text": "г. Белгород опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205155_Рыльский",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T07:06:25+00:00",
-    "text": "🟢 Внимание! Отбой ракетной опасности! Рыльский район!",
-    "type": "all_clear",
-    "location_name": "Рыльский",
-    "region": null,
-    "lat": 51.5713767,
-    "lon": 34.624021
-  },
-  {
-    "id": "kupolrussia_102548_Рыльский",
-    "channel": "kupolrussia",
-    "date": "2026-07-20T07:06:25+00:00",
-    "text": "🟢 Внимание! Отбой ракетной опасности! Рыльский район!",
-    "type": "all_clear",
-    "location_name": "Рыльский",
-    "region": null,
-    "lat": 51.5713767,
-    "lon": 34.624021
-  },
-  {
-    "id": "kupolrussia_102549_Белгород",
-    "channel": "kupolrussia",
-    "date": "2026-07-20T07:06:35+00:00",
-    "text": "Белгород\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Белгород",
-    "region": null,
-    "lat": 50.5955595,
-    "lon": 36.5873394
-  },
-  {
-    "id": "kupolrussia_102550_Глушковский",
-    "channel": "kupolrussia",
-    "date": "2026-07-20T07:12:46+00:00",
-    "text": "⚠️ Ракетная опасность! Глушковский район! Если вы находитесь дома, необходимо укрыться в помещениях без окон со сплошными стенами: в коридоре, ванной, кладовой. Если вы находитесь на улице — зайдите в ближайшее здание или подходящее укрытие.",
-    "type": "missile",
-    "location_name": "Глушковский",
-    "region": null,
-    "lat": 51.3286372,
-    "lon": 34.5075078
-  },
-  {
     "id": "LPRalarm_205156_Глушковский",
     "channel": "LPRalarm",
     "date": "2026-07-20T07:12:47+00:00",
@@ -21998,5 +21943,60 @@
     "region": null,
     "lat": 50.800701,
     "lon": 35.655228
+  },
+  {
+    "id": "LPRalarm_205815",
+    "channel": "LPRalarm",
+    "date": "2026-07-21T13:24:27+00:00",
+    "text": "Суземка и близлежащие БПЛА Hornet в небе",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103041",
+    "channel": "kupolrussia",
+    "date": "2026-07-21T13:24:38+00:00",
+    "text": "Суземка и близлежащие БПЛА Hornet в небе",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_205816",
+    "channel": "LPRalarm",
+    "date": "2026-07-21T13:28:43+00:00",
+    "text": "Наши каналы тревог:\n\nВ случае полной блокировки Телеграм, организуем ресурс приема информации на платформе MAX.\n\nMAX \n\nОсновной канал тревог\nhttps://max.ru/LPRalarm\n\n1. Республика Крым и Севастополь \nhttps://max.ru/join/DOoizVuiuVLm-zeEMPCItWCODPhdCmN4T2M6o5qoN7g\n\n2. Краснодарский Край \nhttps://max.ru/join/lu_tOyS1cXp_EC9k3jXYK5NQzjg6thUNQfiDwXxVfVM\n\n3. Ростовская область \nhttps://max.ru/join/_CGaToFGWNErDVRtK2cpRAHfJGk0gbjQsxbQGsHH2Dk\n\n4. Белгородская область \nhttps://max.ru/join/FDb4xA3Vlf08Cz",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_205817_Валуйский",
+    "channel": "LPRalarm",
+    "date": "2026-07-21T13:29:56+00:00",
+    "text": "Валуйский район приграничье \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": null,
+    "lat": 53.1481885,
+    "lon": 36.3185713
+  },
+  {
+    "id": "kupolrussia_103042_Валуйский",
+    "channel": "kupolrussia",
+    "date": "2026-07-21T13:30:12+00:00",
+    "text": "Валуйский район приграничье \nТревога по БПЛА Хорнет\nБелгородская область",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": "Белгородская область",
+    "lat": 50.1632256,
+    "lon": 37.9638901
   }
 ]
