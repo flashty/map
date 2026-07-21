@@ -1,4 +1,35 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-21T08:05:17+00:00",
+        "last_updated": "2026-07-21T09:15:43+00:00",
+        "path_labels": [
+          "Белгородский (Белгородская область)",
+          "Таврово",
+          "Шебекинский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.5762397,
+            50.5939358
+          ],
+          [
+            36.573505,
+            50.505955
+          ],
+          [
+            36.8728034,
+            50.438988
+          ]
+        ]
+      }
+    }
+  ]
 }
