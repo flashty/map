@@ -1,24 +1,4 @@
 {
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "alert",
-    "text": "Херсонская область РФ \nЗапорожская область РФ \nЛДНР \n повторно\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-21T16:56:07+00:00",
-    "expires_at": "2026-07-21T17:56:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Бахчисарайский район\nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-21T17:37:38+00:00",
-    "expires_at": "2026-07-21T18:37:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -26,26 +6,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-21T17:24:58+00:00",
     "expires_at": "2026-07-21T18:24:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульской области",
-    "type": "drone",
-    "text": "БПЛА Калужская область в направлении Никулино Тульской области на Каширы",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-21T17:27:26+00:00",
-    "expires_at": "2026-07-21T18:27:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "БПЛА Калужская область в направлении Никулино Тульской области на Каширы",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-21T17:27:26+00:00",
-    "expires_at": "2026-07-21T18:27:26+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,33 +19,13 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Большое Жирово, ​Фатежский район, Курская область - ещё пролёты БПЛА в сторону примерно Орловской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-21T16:47:42+00:00",
-    "expires_at": "2026-07-21T17:47:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловской области",
-    "type": "drone",
-    "text": "Большое Жирово, ​Фатежский район, Курская область - ещё пролёты БПЛА в сторону примерно Орловской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-21T16:47:42+00:00",
-    "expires_at": "2026-07-21T17:47:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ставропольск": {
     "display_name": "Ставропольский край",
     "type": "drone",
-    "text": "Ставропольский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-21T17:26:51+00:00",
-    "expires_at": "2026-07-21T18:26:51+00:00",
+    "text": "Ставропольский край\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-21T17:52:40+00:00",
+    "expires_at": "2026-07-21T18:52:40+00:00",
     "count": null,
     "count_approx": false
   }
