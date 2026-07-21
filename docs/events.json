@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_74609_Крымский",
-    "channel": "vrv_radar",
-    "date": "2026-07-20T06:54:18+00:00",
-    "text": "Крымский район\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
-    "type": "all_clear",
-    "location_name": "Крымский",
-    "region": "Краснодарский край",
-    "lat": 44.9624541,
-    "lon": 37.896802
-  },
-  {
-    "id": "vrv_radar_74610",
-    "channel": "vrv_radar",
-    "date": "2026-07-20T06:54:39+00:00",
-    "text": "Анапа и близлежащие\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205151_Глушковский",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T06:55:26+00:00",
-    "text": "🟢 Внимание! Отбой ракетной опасности! Глушковский район!",
-    "type": "all_clear",
-    "location_name": "Глушковский",
-    "region": null,
-    "lat": 51.3286372,
-    "lon": 34.5075078
-  },
-  {
-    "id": "kupolrussia_102545_Глушковский",
-    "channel": "kupolrussia",
-    "date": "2026-07-20T06:55:26+00:00",
-    "text": "🟢 Внимание! Отбой ракетной опасности! Глушковский район!",
-    "type": "all_clear",
-    "location_name": "Глушковский",
-    "region": null,
-    "lat": 51.3286372,
-    "lon": 34.5075078
-  },
-  {
     "id": "radarrussiia_82937_Крымский",
     "channel": "radarrussiia",
     "date": "2026-07-20T06:56:02+00:00",
@@ -21993,6 +21949,50 @@
     "channel": "LPRalarm",
     "date": "2026-07-21T12:45:25+00:00",
     "text": "Туапсе и близлежащие опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_83104",
+    "channel": "radarrussiia",
+    "date": "2026-07-21T12:45:51+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103037",
+    "channel": "kupolrussia",
+    "date": "2026-07-21T12:46:01+00:00",
+    "text": "Туапсе и близлежащие\nКраснодарский край\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_83105_Славянский",
+    "channel": "radarrussiia",
+    "date": "2026-07-21T12:46:12+00:00",
+    "text": "Славянский район\nКраснодарский край\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Славянский",
+    "region": "Краснодарский край",
+    "lat": 44.6922114,
+    "lon": 40.5186028
+  },
+  {
+    "id": "radarrussiia_83106",
+    "channel": "radarrussiia",
+    "date": "2026-07-21T12:46:44+00:00",
+    "text": "Туапсе и близлежащие \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "type": "drone",
     "location_name": null,
     "region": null,
