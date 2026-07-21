@@ -12,10 +12,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Брянская область \nПовторно\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Ещё фиксации БПЛА от ГГ на Белую Березку и далее в тыл Брянская область",
     "channel": "kupolrussia",
-    "updated_at": "2026-07-21T10:34:28+00:00",
-    "expires_at": "2026-07-21T11:34:28+00:00",
+    "updated_at": "2026-07-21T10:56:29+00:00",
+    "expires_at": "2026-07-21T11:56:29+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +66,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-07-21T10:31:12+00:00",
     "expires_at": "2026-07-21T11:31:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "alert",
+    "text": "Димитров ДНР и близлежащие \nТревога по УАБ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-21T10:48:22+00:00",
+    "expires_at": "2026-07-21T11:48:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Смоленская область Десногорск и далее в тыл тревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-21T10:54:30+00:00",
+    "expires_at": "2026-07-21T11:54:30+00:00",
     "count": null,
     "count_approx": false
   }
