@@ -1,4 +1,60 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-21T02:33:51+00:00",
+        "last_updated": "2026-07-21T03:08:48+00:00",
+        "path_labels": [
+          "Брянск (Брянская область)",
+          "Фокинский",
+          "Хвастовичский (Калужская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.3668288,
+            53.2423778
+          ],
+          [
+            34.4146243,
+            53.213139
+          ],
+          [
+            35.1820052,
+            53.4981708
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-21T02:39:33+00:00",
+        "last_updated": "2026-07-21T03:08:48+00:00",
+        "path_labels": [
+          "Бежицкий",
+          "Бояновичи (Калужская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.2805431,
+            53.3242154
+          ],
+          [
+            34.855301,
+            53.414299
+          ]
+        ]
+      }
+    }
+  ]
 }

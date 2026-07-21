@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_74426",
-    "channel": "vrv_radar",
-    "date": "2026-07-19T23:45:51+00:00",
-    "text": "ГО Домодедово \nМосковская область \nСбития БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_82847",
-    "channel": "radarrussiia",
-    "date": "2026-07-19T23:45:55+00:00",
-    "text": "ГО Домодедово \nМосковская область \nСбития БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_82848",
-    "channel": "radarrussiia",
-    "date": "2026-07-19T23:46:00+00:00",
-    "text": "Алексин \nТульская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_74427",
-    "channel": "vrv_radar",
-    "date": "2026-07-19T23:46:24+00:00",
-    "text": "МО Раменское \nМосковская область \nСбитие БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_82849",
-    "channel": "radarrussiia",
-    "date": "2026-07-19T23:46:38+00:00",
-    "text": "Очень много БПЛА залетают на Московскую область, роями от Тульской области\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московскую область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_74428",
-    "channel": "vrv_radar",
-    "date": "2026-07-19T23:46:55+00:00",
-    "text": "МО Раменское \nМосковская область \nСбитие БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_82850",
     "channel": "radarrussiia",
     "date": "2026-07-19T23:47:00+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_73730",
+    "channel": "locatorru",
+    "date": "2026-07-21T03:06:00+00:00",
+    "text": "Смоленская область, Тверская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_73731",
+    "channel": "locatorru",
+    "date": "2026-07-21T03:06:15+00:00",
+    "text": "Липецкая область - отбой опасности по БПЛА. \nРежим внимание. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_73732_Хвастовичский",
+    "channel": "locatorru",
+    "date": "2026-07-21T03:08:48+00:00",
+    "text": "Бояновичи, ​Хвастовичский район, Калужская область - пролёты БПЛА со стороны Брянска в сторону Киевской трассы и далее примерно на Калуга. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Хвастовичский",
+    "region": "Калужская область",
+    "lat": 53.4981708,
+    "lon": 35.1820052
+  },
+  {
+    "id": "locatorru_73732_Бояновичи",
+    "channel": "locatorru",
+    "date": "2026-07-21T03:08:48+00:00",
+    "text": "Бояновичи, ​Хвастовичский район, Калужская область - пролёты БПЛА со стороны Брянска в сторону Киевской трассы и далее примерно на Калуга. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Бояновичи",
+    "region": "Калужская область",
+    "lat": 53.414299,
+    "lon": 34.855301
+  },
+  {
+    "id": "vrv_radar_74791_Крымский",
+    "channel": "vrv_radar",
+    "date": "2026-07-21T03:10:33+00:00",
+    "text": "Крымский район\nКраснодарский край\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Крымский",
+    "region": "Краснодарский край",
+    "lat": 44.9624541,
+    "lon": 37.896802
+  },
+  {
+    "id": "LPRalarm_205634",
+    "channel": "LPRalarm",
+    "date": "2026-07-21T03:14:48+00:00",
+    "text": "Брянск и близлежащие\nТревога по БПЛА\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
