@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_74747",
-    "channel": "vrv_radar",
-    "date": "2026-07-20T23:58:54+00:00",
-    "text": "Ростовская область \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_73675",
-    "channel": "locatorru",
-    "date": "2026-07-20T23:58:57+00:00",
-    "text": "Ростовская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83032_Успенский",
-    "channel": "radarrussiia",
-    "date": "2026-07-20T23:59:23+00:00",
-    "text": "Успенский район \nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Успенский",
-    "region": "Краснодарский край",
-    "lat": 44.7361111,
-    "lon": 41.4627778
-  },
-  {
-    "id": "locatorru_73676_Кропоткин",
-    "channel": "locatorru",
-    "date": "2026-07-20T23:59:39+00:00",
-    "text": "Кропоткин, Тбилисская, Гулькевичи, Новокубанск, Армавир, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Кропоткин",
-    "region": "Краснодарский край",
-    "lat": 45.4344413,
-    "lon": 40.5750274
-  },
-  {
     "id": "locatorru_73676_Тбилисская",
     "channel": "locatorru",
     "date": "2026-07-20T23:59:39+00:00",
@@ -21996,6 +21952,50 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74994",
+    "channel": "vrv_radar",
+    "date": "2026-07-22T04:24:08+00:00",
+    "text": "Рязанская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_83219",
+    "channel": "radarrussiia",
+    "date": "2026-07-22T04:26:01+00:00",
+    "text": "Рязанская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74995",
+    "channel": "vrv_radar",
+    "date": "2026-07-22T04:27:32+00:00",
+    "text": "Анапа и близлежащие\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_83220",
+    "channel": "radarrussiia",
+    "date": "2026-07-22T04:29:12+00:00",
+    "text": "Анапа и близлежащие\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
