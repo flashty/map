@@ -9,33 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Скадовск и близлежащие \nХерсонская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-22T05:55:39+00:00",
-    "expires_at": "2026-07-22T06:55:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "missile",
-    "text": "Курская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-22T06:27:09+00:00",
-    "expires_at": "2026-07-22T07:27:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Север\nРеспублика Крым \nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-22T06:45:55+00:00",
-    "expires_at": "2026-07-22T07:45:55+00:00",
+    "text": "Север\nРеспублика Крым \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-22T06:54:41+00:00",
+    "expires_at": "2026-07-22T07:54:41+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +26,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-07-22T06:30:21+00:00",
     "expires_at": "2026-07-22T07:30:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "От Донецка над трассой в сторону Еленовки\nДНР\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-22T06:58:23+00:00",
+    "expires_at": "2026-07-22T07:58:23+00:00",
     "count": null,
     "count_approx": false
   }
