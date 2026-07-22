@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_205689",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T06:22:44+00:00",
-    "text": "Ставропольский край",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83075",
-    "channel": "radarrussiia",
-    "date": "2026-07-21T06:23:11+00:00",
-    "text": "Ставропольский край \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205690",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T06:25:42+00:00",
-    "text": "Горловка, Пантелеймоновка ДНР и далее на восток \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_102928",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T06:25:51+00:00",
-    "text": "Горловка, Пантелеймоновка ДНР и далее на восток \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205691_Трубчевский",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T06:25:54+00:00",
-    "text": "Трубчевский район и близлежащие \nОпасность по БПЛА \nБрянская область",
-    "type": "drone",
-    "location_name": "Трубчевский",
-    "region": "Брянская область",
-    "lat": 52.5867776,
-    "lon": 33.7892267
-  },
-  {
-    "id": "kupolrussia_102929",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T06:26:05+00:00",
-    "text": "Калужская область \nСмоленская область \nОпасность по БПЛА от Брянской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205692",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T06:26:08+00:00",
-    "text": "Калужская область \nСмоленская область \nОпасность по БПЛА от Брянской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_102930_Трубчевский",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T06:26:23+00:00",
-    "text": "Трубчевский район и близлежащие \nБрянская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Трубчевский",
-    "region": "Брянская область",
-    "lat": 52.5867776,
-    "lon": 33.7892267
-  },
-  {
-    "id": "locatorru_73733",
-    "channel": "locatorru",
-    "date": "2026-07-21T06:33:45+00:00",
-    "text": "Ещё пролёты БПЛА от гг я сторону Брянской области. Много. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянской области",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_74807_Боровский",
     "channel": "vrv_radar",
     "date": "2026-07-21T06:33:52+00:00",
@@ -21998,5 +21899,104 @@
     "region": null,
     "lat": 58.3597623,
     "lon": 60.0444713
+  },
+  {
+    "id": "kupolrussia_103405",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T13:11:48+00:00",
+    "text": "Разумное Бгд \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103406_Чонгар",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T13:11:55+00:00",
+    "text": "Новоалексеевка и далее на Чонгар, Геническ тревога по БПЛА на электротяге",
+    "type": "drone",
+    "location_name": "Чонгар",
+    "region": null,
+    "lat": 58.3597623,
+    "lon": 60.0444713
+  },
+  {
+    "id": "LPRalarm_206298_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T13:13:08+00:00",
+    "text": "Крейда\nБелгородский район\nТревога по БПЛА Дартс",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_206298_Дартс",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T13:13:08+00:00",
+    "text": "Крейда\nБелгородский район\nТревога по БПЛА Дартс",
+    "type": "drone",
+    "location_name": "Дартс",
+    "region": null,
+    "lat": 66.8198841,
+    "lon": 65.8038835
+  },
+  {
+    "id": "kupolrussia_103407_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T13:13:26+00:00",
+    "text": "Крейда\nБелгородский район\nТревога по БПЛА Дартс",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_103407_Дартс",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T13:13:26+00:00",
+    "text": "Крейда\nБелгородский район\nТревога по БПЛА Дартс",
+    "type": "drone",
+    "location_name": "Дартс",
+    "region": null,
+    "lat": 66.8198841,
+    "lon": 65.8038835
+  },
+  {
+    "id": "LPRalarm_206299",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T13:13:42+00:00",
+    "text": "Белгород крейда \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206300_Кача",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T13:14:40+00:00",
+    "text": "Кача, Бельбек, Северная Севастополь с севера тревога по БПЛА",
+    "type": "drone",
+    "location_name": "Кача",
+    "region": null,
+    "lat": 56.1972669,
+    "lon": 92.5363666
+  },
+  {
+    "id": "kupolrussia_103408_Кача",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T13:14:56+00:00",
+    "text": "Кача, Бельбек, Северная Севастополь с севера\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Кача",
+    "region": null,
+    "lat": 56.1972669,
+    "lon": 92.5363666
   }
 ]
