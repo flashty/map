@@ -1,115 +1,5 @@
 [
   {
-    "id": "vrv_radar_74795",
-    "channel": "vrv_radar",
-    "date": "2026-07-21T05:05:46+00:00",
-    "text": "Липецкая область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_102902",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T05:05:49+00:00",
-    "text": "Курская область \nВоронежская область \nОпасность по БПЛА от Белгородской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83065",
-    "channel": "radarrussiia",
-    "date": "2026-07-21T05:06:14+00:00",
-    "text": "Алексин \nТульская область\nОтбой опасности по БПЛА \nНа территории региона опасность сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205658",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T05:07:10+00:00",
-    "text": "Суземка тревога по ФПВ. Противник атакует гражданские автомобили. Всем в укрытия",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83066",
-    "channel": "radarrussiia",
-    "date": "2026-07-21T05:07:13+00:00",
-    "text": "Липецкая область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205659_Крыма",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T05:10:13+00:00",
-    "text": "Каховка - Чаплынка и далее в направлении Крыма, Чонгар \nВнимание по возможным БПЛА, в том числе реактивным",
-    "type": "drone",
-    "location_name": "Крыма",
-    "region": null,
-    "lat": 54.9683122,
-    "lon": 48.3030779
-  },
-  {
-    "id": "kupolrussia_102903_Крыма",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T05:10:16+00:00",
-    "text": "Каховка - Чаплынка и далее в направлении Крыма, Чонгар \nВнимание по возможным БПЛА, в том числе реактивным",
-    "type": "drone",
-    "location_name": "Крыма",
-    "region": null,
-    "lat": 54.9683122,
-    "lon": 48.3030779
-  },
-  {
-    "id": "LPRalarm_205660_Черноморский",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T05:13:24+00:00",
-    "text": "Черноморский район, Донузлав и близлежащие. Внимание по возможным БПЛА противника",
-    "type": "drone",
-    "location_name": "Черноморский",
-    "region": null,
-    "lat": 44.849996,
-    "lon": 38.4944065
-  },
-  {
-    "id": "kupolrussia_102904_Черноморский",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T05:13:34+00:00",
-    "text": "Черноморский район, Донузлав и близлежащие. Внимание по возможным БПЛА противника",
-    "type": "drone",
-    "location_name": "Черноморский",
-    "region": null,
-    "lat": 44.849996,
-    "lon": 38.4944065
-  },
-  {
-    "id": "LPRalarm_205661",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T05:23:10+00:00",
-    "text": "Тарханкут и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_205662",
     "channel": "LPRalarm",
     "date": "2026-07-21T05:23:50+00:00",
@@ -21996,6 +21886,116 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_73967",
+    "channel": "locatorru",
+    "date": "2026-07-22T11:33:27+00:00",
+    "text": "И почти тишина.🙏\n\n📡Локатор России - @locatorru",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206261",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T11:35:39+00:00",
+    "text": "Красная Яруга \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103375",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T11:35:50+00:00",
+    "text": "Красная Яруга \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206262",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T11:36:22+00:00",
+    "text": "Никольское Бгд \nБПЛА в направлении",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103376",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T11:39:42+00:00",
+    "text": "Никольское Бгд \nБПЛА в направлении",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206263",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T11:40:06+00:00",
+    "text": "Графовка Безлюдовка Дамба \nУдарный БПЛА в направлении",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206264",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T11:40:07+00:00",
+    "text": "Разумное от Новосадовый БПЛА Хорнет\nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103377",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T11:40:18+00:00",
+    "text": "Графовка Безлюдовка Дамба \nУдарный БПЛА в направлении",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206265",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T11:43:45+00:00",
+    "text": "Красная Яруга РЭС \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103378",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T11:44:14+00:00",
+    "text": "Красная Яруга РЭС \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
