@@ -1,93 +1,5 @@
 [
   {
-    "id": "vrv_radar_74742",
-    "channel": "vrv_radar",
-    "date": "2026-07-20T23:20:31+00:00",
-    "text": "Геленджик и близлежащие \nКраснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205580",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T23:21:48+00:00",
-    "text": "Мускатное и далее на Нижгегорск  фиксации БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_74743_Северский",
-    "channel": "vrv_radar",
-    "date": "2026-07-20T23:22:48+00:00",
-    "text": "Северский район \nКраснодарский край\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Северский",
-    "region": "Краснодарский край",
-    "lat": 45.2258796,
-    "lon": 39.916274
-  },
-  {
-    "id": "LPRalarm_205581",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T23:26:34+00:00",
-    "text": "Новоселовка в направлении Кольчугино, Пожарское еще фиксации БПЛА\nИ далее Симферополь, Бахчисарай, Севастополь\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205582",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T23:27:31+00:00",
-    "text": "Луганск и близлежащие\nТревога по БПЛА, повторно",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_73667_Шебекино",
-    "channel": "locatorru",
-    "date": "2026-07-20T23:29:00+00:00",
-    "text": "Ракетная опасность в сторону Шебекино, Белгородская область. \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": "Шебекино",
-    "region": "Белгородская область",
-    "lat": 50.4049335,
-    "lon": 36.8796822
-  },
-  {
-    "id": "LPRalarm_205583",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T23:29:03+00:00",
-    "text": "Великая Белозерка и далее на Мелитополь\nТревога по БПЛА\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83030_Северский",
-    "channel": "radarrussiia",
-    "date": "2026-07-20T23:30:24+00:00",
-    "text": "Северский район \nГеленджик и близлежащие \nКраснодарский край \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Северский",
-    "region": "Краснодарский край",
-    "lat": 45.2258796,
-    "lon": 39.916274
-  },
-  {
     "id": "LPRalarm_205584",
     "channel": "LPRalarm",
     "date": "2026-07-20T23:31:15+00:00",
@@ -21996,6 +21908,94 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206124_Клинцы",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T03:33:13+00:00",
+    "text": "Клинцы, Климово и близлежащие \nОпасность по БПЛА \nБрянская область",
+    "type": "drone",
+    "location_name": "Клинцы",
+    "region": "Брянская область",
+    "lat": 52.758511,
+    "lon": 32.240097
+  },
+  {
+    "id": "locatorru_73953",
+    "channel": "locatorru",
+    "date": "2026-07-22T03:34:13+00:00",
+    "text": "Псковская область, Новгородская область, Ленинградская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206125",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T03:40:55+00:00",
+    "text": "От Яковлевки в сторону Белогоровки тревога по ЮПЛА дартс и Хорнет\nДДНР",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74986",
+    "channel": "vrv_radar",
+    "date": "2026-07-22T03:43:19+00:00",
+    "text": "Санкт-Петербург\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206126",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T03:43:22+00:00",
+    "text": "Каховка\nХерсонская область РФ\nБПЛА разведчик",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74987_Крымский",
+    "channel": "vrv_radar",
+    "date": "2026-07-22T03:43:38+00:00",
+    "text": "Крымский район \nКраснодарский край \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": "Крымский",
+    "region": "Краснодарский край",
+    "lat": 44.9624541,
+    "lon": 37.896802
+  },
+  {
+    "id": "locatorru_73954",
+    "channel": "locatorru",
+    "date": "2026-07-22T03:44:13+00:00",
+    "text": "Ярославская область, Костромская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206127",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T03:45:26+00:00",
+    "text": "Красная Поляна\nВнуково\nРеспублика Крым \nОпасность по БПЛА с севера",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
