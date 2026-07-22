@@ -1,60 +1,5 @@
 [
   {
-    "id": "locatorru_73690",
-    "channel": "locatorru",
-    "date": "2026-07-21T00:24:55+00:00",
-    "text": "Рязанская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205601",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T00:25:01+00:00",
-    "text": "Чистенькое, Левадки и близлежащие\nТревога по БПЛА сохраняется\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205602",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T00:26:21+00:00",
-    "text": "Гончарное и близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83042",
-    "channel": "radarrussiia",
-    "date": "2026-07-21T00:26:28+00:00",
-    "text": "Калужская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "missile",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_73691",
-    "channel": "locatorru",
-    "date": "2026-07-21T00:26:37+00:00",
-    "text": "Пензенская область, Ульяновская область, Самарская область - ракетная опасность по крылатым ракетам «Фламинго».\n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_73692",
     "channel": "locatorru",
     "date": "2026-07-21T00:27:46+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Брянская область",
     "lat": 52.5207056,
     "lon": 33.2053408
+  },
+  {
+    "id": "LPRalarm_206158",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T06:39:31+00:00",
+    "text": "Армянск\nКрасноперекопский район и близлежащие \nОпасность по БПЛА Лелека \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103285",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T06:39:49+00:00",
+    "text": "Армянск\nКрасноперекопский район и близлежащие \nОпасность по БПЛА Лелека \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206159_Погар",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T06:43:09+00:00",
+    "text": "Погар, укрытия, возможно матка от Борщово\n\nБрянская область",
+    "type": "unknown",
+    "location_name": "Погар",
+    "region": "Брянская область",
+    "lat": 52.554283,
+    "lon": 33.263706
+  },
+  {
+    "id": "kupolrussia_103286_Погар",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T06:43:18+00:00",
+    "text": "Погар, укрытия, возможно матка от Борщово\n\nБрянская область",
+    "type": "unknown",
+    "location_name": "Погар",
+    "region": "Брянская область",
+    "lat": 52.554283,
+    "lon": 33.263706
+  },
+  {
+    "id": "LPRalarm_206160",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T06:45:55+00:00",
+    "text": "Север\nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
   }
 ]
