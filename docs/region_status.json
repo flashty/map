@@ -19,43 +19,23 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Каховка\nХерсонская область РФ\nБПЛА разведчик",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-22T03:43:22+00:00",
-    "expires_at": "2026-07-22T04:43:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ярославск": {
     "display_name": "Ярославская область",
     "type": "drone",
-    "text": "Ярославская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Некоузский район\nЯрославская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-07-22T04:09:28+00:00",
-    "expires_at": "2026-07-22T05:09:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "костромск": {
-    "display_name": "Костромская область",
-    "type": "drone",
-    "text": "Костромская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-07-22T03:45:51+00:00",
-    "expires_at": "2026-07-22T04:45:51+00:00",
+    "updated_at": "2026-07-22T04:41:51+00:00",
+    "expires_at": "2026-07-22T05:41:51+00:00",
     "count": null,
     "count_approx": false
   },
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Берестовое\nДНР\nТревога по БПЛА\nОсобое внимание НПЗ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-22T03:47:47+00:00",
-    "expires_at": "2026-07-22T04:47:47+00:00",
+    "type": "missile",
+    "text": "Гродовка ДНР ракетная опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-22T04:39:09+00:00",
+    "expires_at": "2026-07-22T05:39:09+00:00",
     "count": null,
     "count_approx": false
   }
