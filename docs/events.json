@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_102949_Каменка",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T07:22:04+00:00",
-    "text": "Глазовка\nКаменка\nПорт Крым и близлежащие\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Каменка",
-    "region": null,
-    "lat": 53.1850012,
-    "lon": 44.0529066
-  },
-  {
-    "id": "LPRalarm_205715",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T07:22:06+00:00",
-    "text": "Ракетная опасность по возможным УАБ в Белой Березке\nБрянская область",
-    "type": "missile",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_102950",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T07:22:11+00:00",
-    "text": "Ракетная опасность по возможным УАБ в Белой Березке\nБрянская область",
-    "type": "missile",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205716_Севский",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T07:22:31+00:00",
-    "text": "Севский район опасность по УАБ",
-    "type": "alert",
-    "location_name": "Севский",
-    "region": null,
-    "lat": 52.0922416,
-    "lon": 34.4204983
-  },
-  {
-    "id": "kupolrussia_102951_Севский",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T07:22:36+00:00",
-    "text": "Севский район опасность по УАБ",
-    "type": "alert",
-    "location_name": "Севский",
-    "region": null,
-    "lat": 52.0922416,
-    "lon": 34.4204983
-  },
-  {
-    "id": "LPRalarm_205717_Малиновка",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T07:22:46+00:00",
-    "text": "Малиновка, Отрадное Бгд \nУдарный БПЛА в направлении",
-    "type": "drone",
-    "location_name": "Малиновка",
-    "region": null,
-    "lat": 56.4995875,
-    "lon": 36.1461924
-  },
-  {
     "id": "kupolrussia_102952_Малиновка",
     "channel": "kupolrussia",
     "date": "2026-07-21T07:22:57+00:00",
@@ -21996,6 +21930,72 @@
     "type": "unknown",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206333",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T14:35:02+00:00",
+    "text": "Трасса Брянка - Алчевск, ЛНР\nОпасность по БАЛА Хорнет",
+    "type": "alert",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103440",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T14:35:12+00:00",
+    "text": "Трасса Брянка - Алчевск, ЛНР\nОпасность по БАЛА Хорнет",
+    "type": "alert",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206334",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T14:43:59+00:00",
+    "text": "От Доброполья УАБ\nДНР",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103441",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T14:44:09+00:00",
+    "text": "От Доброполья УАБ\nДНР",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206335",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T14:45:41+00:00",
+    "text": "Родинское\nКрасноармейск\n\nТревога по УАБ",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103442",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T14:45:52+00:00",
+    "text": "Родинское\nКрасноармейск\n\nТревога по УАБ",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }

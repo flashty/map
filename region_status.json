@@ -9,26 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Армянск \nКрасноперекопский район и близлежащие \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-22T13:44:02+00:00",
-    "expires_at": "2026-07-22T14:44:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "alert",
-    "text": "ЛДНР Запорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-22T13:39:01+00:00",
-    "expires_at": "2026-07-22T14:39:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -36,6 +16,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-22T14:24:00+00:00",
     "expires_at": "2026-07-22T15:24:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "alert",
+    "text": "Трасса Брянка - Алчевск, ЛНР\nОпасность по БАЛА Хорнет",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-22T14:35:12+00:00",
+    "expires_at": "2026-07-22T15:35:12+00:00",
     "count": null,
     "count_approx": false
   }
