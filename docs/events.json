@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_102907",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T05:31:49+00:00",
-    "text": "Мысхако \nНовороссийск \nВнимание по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_102908",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T05:31:56+00:00",
-    "text": "От Мелитополя до Акимовка \nОпасность по БПЛА Хорнет\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_74798_Малоярославецкий",
-    "channel": "vrv_radar",
-    "date": "2026-07-21T05:32:51+00:00",
-    "text": "Малоярославецкий район\nКалужская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Малоярославецкий",
-    "region": "Калужская область",
-    "lat": 54.8898368,
-    "lon": 36.4160867
-  },
-  {
     "id": "radarrussiia_83068",
     "channel": "radarrussiia",
     "date": "2026-07-21T05:33:03+00:00",
@@ -21998,5 +21965,38 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "kupolrussia_103382_Чонгар",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T12:01:45+00:00",
+    "text": "Новоалексеевка и далее на Геническ, Чонгар\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Чонгар",
+    "region": null,
+    "lat": 58.3597623,
+    "lon": 60.0444713
+  },
+  {
+    "id": "LPRalarm_206272_Погар",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T12:09:11+00:00",
+    "text": "Погар , укрытия Дартс от гг",
+    "type": "unknown",
+    "location_name": "Погар",
+    "region": null,
+    "lat": 52.554283,
+    "lon": 33.263706
+  },
+  {
+    "id": "kupolrussia_103383_Погар",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T12:09:22+00:00",
+    "text": "Погар , укрытия Дартс от гг",
+    "type": "unknown",
+    "location_name": "Погар",
+    "region": null,
+    "lat": 52.554283,
+    "lon": 33.263706
   }
 ]
