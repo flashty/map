@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_205740",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T08:07:11+00:00",
-    "text": "Отбой ракетной опасности, опасности по УАБ Курская область, Брянская область",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_102973",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T08:07:14+00:00",
-    "text": "Отбой ракетной опасности, опасности по УАБ Курская область, Брянская область",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_74821",
-    "channel": "vrv_radar",
-    "date": "2026-07-21T08:10:09+00:00",
-    "text": "Новороссийск и близлежащие \nКраснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83093",
-    "channel": "radarrussiia",
-    "date": "2026-07-21T08:11:09+00:00",
-    "text": "Новороссийск и близлежащие \nКраснодарский край \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205741_Погарский",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T08:12:37+00:00",
-    "text": "Погарский район все направления дорог от ГГ к Погару и в соседние населенные пункты режим повышенного внимания по ФПВ противника! \n\nБыть в готовности к остановке движения! \n\nПогар и близлежащие опасность по ФПВ противника!",
-    "type": "alert",
-    "location_name": "Погарский",
-    "region": null,
-    "lat": 50.4015692,
-    "lon": 36.5165733
-  },
-  {
     "id": "LPRalarm_205742",
     "channel": "LPRalarm",
     "date": "2026-07-21T08:12:38+00:00",
@@ -21993,6 +21938,61 @@
     "channel": "kupolrussia",
     "date": "2026-07-22T17:13:17+00:00",
     "text": "Северо-запад Армянск и далее дорога через город на Красноперекопск срочно меры безопасности. БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_73975",
+    "channel": "locatorru",
+    "date": "2026-07-22T17:19:41+00:00",
+    "text": "С 08:00 до 20:00 силами противовоздушной обороны было уничтожено 80 БПЛА над территориями Белгородской, Курской областей, Республики Крым и над акваториями Азовского и Черного морей.\n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородской областей",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206376",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T17:22:19+00:00",
+    "text": "Славянск\nВыходы рсзо",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103482",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T17:22:23+00:00",
+    "text": "Славянск\nВыходы рсзо",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206377",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T17:22:25+00:00",
+    "text": "Новобогдановка, Мелитополь и близлежащие тревога по БПЛА с севера",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103483",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T17:22:30+00:00",
+    "text": "Новобогдановка, Мелитополь и близлежащие тревога по БПЛА с севера",
     "type": "drone",
     "location_name": null,
     "region": null,
