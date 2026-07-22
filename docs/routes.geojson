@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-22T01:37:50+00:00",
-        "last_updated": "2026-07-22T02:09:31+00:00",
-        "path_labels": [
-          "Пронский (Рязанская область)",
-          "Старожиловский (Рязанская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.5528984,
-            54.1832933
-          ],
-          [
-            39.9256774,
-            54.2655268
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
