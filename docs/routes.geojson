@@ -1,35 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-22T14:29:01+00:00",
-        "last_updated": "2026-07-22T14:58:53+00:00",
-        "path_labels": [
-          "Белгород",
-          "Пролетарский (Белгородская область)",
-          "Ракитное (Белгородская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.5873394,
-            50.5955595
-          ],
-          [
-            35.772,
-            50.7915
-          ],
-          [
-            35.832,
-            50.8343
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
