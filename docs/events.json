@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_205745",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T08:24:55+00:00",
-    "text": "Трасса Токмак - Мелитополь и далее на Мелитополь или Приазовское опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_102978",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T08:25:08+00:00",
-    "text": "Трасса Токмак - Мелитополь и далее на Мелитополь или Приазовское опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_73758_Верховье",
-    "channel": "locatorru",
-    "date": "2026-07-21T08:26:35+00:00",
-    "text": "Верховье, Орловская область - с 11:15 по 13:00 будет проводиться проверка системы оповещения с включением электросирены по адресу: ул. Ленина, ул. Коминтерна, ул. Советская.\n\n📡Локатор России - @locatorru",
-    "type": "unknown",
-    "location_name": "Верховье",
-    "region": "Орловская область",
-    "lat": 52.81056,
-    "lon": 37.23908
-  },
-  {
-    "id": "locatorru_73759",
-    "channel": "locatorru",
-    "date": "2026-07-21T08:31:36+00:00",
-    "text": "г.Белгород - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83095",
-    "channel": "radarrussiia",
-    "date": "2026-07-21T08:32:02+00:00",
-    "text": "г.Белгород - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_205746",
     "channel": "LPRalarm",
     "date": "2026-07-21T08:35:02+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Брянская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "locatorru_73978_Суземский",
+    "channel": "locatorru",
+    "date": "2026-07-22T18:16:02+00:00",
+    "text": "Суземский район, Навлинский район, Брянская область - внимание по пролётам БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Суземский",
+    "region": "Брянская область",
+    "lat": 52.410945,
+    "lon": 34.0616231
+  },
+  {
+    "id": "locatorru_73978_Навлинский",
+    "channel": "locatorru",
+    "date": "2026-07-22T18:16:02+00:00",
+    "text": "Суземский район, Навлинский район, Брянская область - внимание по пролётам БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Навлинский",
+    "region": "Брянская область",
+    "lat": 52.8910027,
+    "lon": 34.4096754
+  },
+  {
+    "id": "LPRalarm_206382",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T18:27:02+00:00",
+    "text": "Симферополь и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103487",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T18:27:20+00:00",
+    "text": "Симферополь и близлежащие  \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_73979_Ярославль",
+    "channel": "locatorru",
+    "date": "2026-07-22T18:29:11+00:00",
+    "text": "Ярославль, всё хорошо.\n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": "Ярославль",
+    "region": null,
+    "lat": 57.6263877,
+    "lon": 39.8933705
   }
 ]
