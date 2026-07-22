@@ -1,93 +1,5 @@
 [
   {
-    "id": "kupolrussia_102877",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T00:35:37+00:00",
-    "text": "Белгород Харгора \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_74758",
-    "channel": "vrv_radar",
-    "date": "2026-07-21T00:37:07+00:00",
-    "text": "Пензенская область \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_74759_Волгоград",
-    "channel": "vrv_radar",
-    "date": "2026-07-21T00:37:19+00:00",
-    "text": "Волгоград\nВолгоградская область \nМеры безопасности",
-    "type": "alert",
-    "location_name": "Волгоград",
-    "region": "Волгоградская область",
-    "lat": 48.7081906,
-    "lon": 44.5153353
-  },
-  {
-    "id": "locatorru_73697",
-    "channel": "locatorru",
-    "date": "2026-07-21T00:37:21+00:00",
-    "text": "Пензенская область, Саратовская область, Ульяновская область, Самарская область - ракетная опасность по крылатым ракетам «Фламинго», ещё раз. \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_74760",
-    "channel": "vrv_radar",
-    "date": "2026-07-21T00:37:38+00:00",
-    "text": "Самарская область \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83046",
-    "channel": "radarrussiia",
-    "date": "2026-07-21T00:37:45+00:00",
-    "text": "Пензенская область \nУльяновская область\nСамарская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "missile",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_74761",
-    "channel": "vrv_radar",
-    "date": "2026-07-21T00:38:02+00:00",
-    "text": "Ульяновская область \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205608",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T00:38:03+00:00",
-    "text": "ЛДНР \nРостовская область \nОпасность по БПЛА Фламинго, повторно, и далее в тыл",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_83047_Волгоград",
     "channel": "radarrussiia",
     "date": "2026-07-21T00:38:45+00:00",
@@ -21998,5 +21910,93 @@
     "region": "Донецкая область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_206174",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T07:34:24+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103299",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T07:34:45+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206175",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T07:34:52+00:00",
+    "text": "Витино и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103300",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T07:35:03+00:00",
+    "text": "Витино и близлежащие \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_83227",
+    "channel": "radarrussiia",
+    "date": "2026-07-22T07:40:16+00:00",
+    "text": "Ивановская область \nВладимирская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ивановская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206176_Приазовье",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T07:41:48+00:00",
+    "text": "Приазовье Краснодарский край \nВнимание по БПЛА",
+    "type": "drone",
+    "location_name": "Приазовье",
+    "region": "Краснодарский край",
+    "lat": 45.2696697,
+    "lon": 38.1017316
+  },
+  {
+    "id": "kupolrussia_103301_Приазовье",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T07:43:14+00:00",
+    "text": "Приазовье Краснодарский край \nВнимание по БПЛА",
+    "type": "drone",
+    "location_name": "Приазовье",
+    "region": "Краснодарский край",
+    "lat": 45.2696697,
+    "lon": 38.1017316
+  },
+  {
+    "id": "LPRalarm_206177_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T07:45:42+00:00",
+    "text": "Белгородский район \nОпасность атаки БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
   }
 ]
