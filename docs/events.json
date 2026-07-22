@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_205569",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T22:52:58+00:00",
-    "text": "Красная Зорька, Гвардейское\nИ близлежащие\nТревога по БПЛА  повторно\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_102866",
-    "channel": "kupolrussia",
-    "date": "2026-07-20T22:53:16+00:00",
-    "text": "Красная Зорька, Гвардейское\nИ близлежащие\nТревога по БПЛА  повторно\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205570",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T22:54:29+00:00",
-    "text": "Первомайск, Попасная\n\"Дорога жизни\" тревога по БПЛА\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205571",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T22:57:42+00:00",
-    "text": "Новоандреевка и далее\nна Гвардейское\nГРЭС\nСимферополь\nИ близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_102867",
-    "channel": "kupolrussia",
-    "date": "2026-07-20T22:58:01+00:00",
-    "text": "Новоандреевка и далее\nна Гвардейское\nГРЭС\nСимферополь\nИ близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_74737",
-    "channel": "vrv_radar",
-    "date": "2026-07-20T23:02:08+00:00",
-    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205572_Новороссийск",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T23:03:15+00:00",
-    "text": "Новороссийск, Геленджик, Туапсе, Сочи тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Новороссийск",
-    "region": null,
-    "lat": 44.7239578,
-    "lon": 37.7690711
-  },
-  {
-    "id": "LPRalarm_205572_Геленджик",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T23:03:15+00:00",
-    "text": "Новороссийск, Геленджик, Туапсе, Сочи тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Геленджик",
-    "region": null,
-    "lat": 44.5609447,
-    "lon": 38.0766832
-  },
-  {
     "id": "LPRalarm_205572_Туапсе",
     "channel": "LPRalarm",
     "date": "2026-07-20T23:03:15+00:00",
@@ -21996,6 +21908,94 @@
     "type": "drone",
     "location_name": null,
     "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206109",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T02:34:03+00:00",
+    "text": "Армавир и близлежащие\nНапоминаем, действует тревога по БПЛА\nСоблюдайте меры безопасности",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_73944_Армавир",
+    "channel": "locatorru",
+    "date": "2026-07-22T02:34:39+00:00",
+    "text": "Армавир, Краснодарский край - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Армавир",
+    "region": "Краснодарский край",
+    "lat": 44.9993585,
+    "lon": 41.1294061
+  },
+  {
+    "id": "locatorru_73945",
+    "channel": "locatorru",
+    "date": "2026-07-22T02:36:09+00:00",
+    "text": "Краснодарский край - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "type": "missile",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_12327_Невинномысск",
+    "channel": "radar_plus_bpla",
+    "date": "2026-07-22T02:41:34+00:00",
+    "text": "⚡️⚡️Атакован ещё один логистический центр Wildberries, расположенный в городе Невинномысск, Ставропольский край.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "unknown",
+    "location_name": "Невинномысск",
+    "region": "Ставропольский край",
+    "lat": 44.6245814,
+    "lon": 41.9475941
+  },
+  {
+    "id": "LPRalarm_206110",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T02:42:17+00:00",
+    "text": "Армавир и близлежащие\nНапоминаем, действует тревога по БПЛА\nСоблюдайте меры безопасности",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74976",
+    "channel": "vrv_radar",
+    "date": "2026-07-22T02:42:36+00:00",
+    "text": "Невинномысск \nСтавропольский край \nМеры безопасности",
+    "type": "alert",
+    "location_name": null,
+    "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74977",
+    "channel": "vrv_radar",
+    "date": "2026-07-22T02:44:47+00:00",
+    "text": "Краснодарский край\nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74978",
+    "channel": "vrv_radar",
+    "date": "2026-07-22T02:45:17+00:00",
+    "text": "Республика Адыгея\nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Республика Адыгея",
     "lat": null,
     "lon": null
   }
