@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_205572_Туапсе",
-    "channel": "LPRalarm",
-    "date": "2026-07-20T23:03:15+00:00",
-    "text": "Новороссийск, Геленджик, Туапсе, Сочи тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Туапсе",
-    "region": null,
-    "lat": 44.0984747,
-    "lon": 39.0718875
-  },
-  {
-    "id": "radarrussiia_83026_Новороссийск",
-    "channel": "radarrussiia",
-    "date": "2026-07-20T23:03:45+00:00",
-    "text": "Новороссийск, Геленджик, Туапсе, Сочи \nТревога по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Новороссийск",
-    "region": null,
-    "lat": 44.7239578,
-    "lon": 37.7690711
-  },
-  {
-    "id": "radarrussiia_83026_Геленджик",
-    "channel": "radarrussiia",
-    "date": "2026-07-20T23:03:45+00:00",
-    "text": "Новороссийск, Геленджик, Туапсе, Сочи \nТревога по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Геленджик",
-    "region": null,
-    "lat": 44.5609447,
-    "lon": 38.0766832
-  },
-  {
-    "id": "radarrussiia_83026_Туапсе",
-    "channel": "radarrussiia",
-    "date": "2026-07-20T23:03:45+00:00",
-    "text": "Новороссийск, Геленджик, Туапсе, Сочи \nТревога по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Туапсе",
-    "region": null,
-    "lat": 44.0984747,
-    "lon": 39.0718875
-  },
-  {
-    "id": "vrv_radar_74738",
-    "channel": "vrv_radar",
-    "date": "2026-07-20T23:03:46+00:00",
-    "text": "Анапа и близлежащие \nКраснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83027",
-    "channel": "radarrussiia",
-    "date": "2026-07-20T23:04:18+00:00",
-    "text": "Анапа и близлежащие \nКраснодарский край \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_73663_Волна",
-    "channel": "locatorru",
-    "date": "2026-07-20T23:04:45+00:00",
-    "text": "Волна, Тамань, Анапа, Новороссийск, Кабардинка, Геленджик, Туапсе, Сочи, Адлер, Краснодарский край - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Волна",
-    "region": "Краснодарский край",
-    "lat": 45.1265845,
-    "lon": 36.7105844
-  },
-  {
     "id": "locatorru_73663_Тамань",
     "channel": "locatorru",
     "date": "2026-07-20T23:04:45+00:00",
@@ -21996,6 +21919,83 @@
     "type": "missile",
     "location_name": null,
     "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206111",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T02:46:22+00:00",
+    "text": "Северная сторона Севастополя \nИнкерман\nБалаклавская ТЭС \nОпасность по БПЛА от Бахчисарайского р-на",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_74979_Россошанский",
+    "channel": "vrv_radar",
+    "date": "2026-07-22T02:46:42+00:00",
+    "text": "Россошанский район\nВоронежская область\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": "Россошанский",
+    "region": "Воронежская область",
+    "lat": 50.1186442,
+    "lon": 39.6627682
+  },
+  {
+    "id": "radarrussiia_83210",
+    "channel": "radarrussiia",
+    "date": "2026-07-22T02:53:37+00:00",
+    "text": "Республика Адыгея\nКраснодарский край\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "missile",
+    "location_name": null,
+    "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_83211_Россошанский",
+    "channel": "radarrussiia",
+    "date": "2026-07-22T02:54:23+00:00",
+    "text": "Россошанский район\nВоронежская область\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": "Россошанский",
+    "region": "Воронежская область",
+    "lat": 50.1186442,
+    "lon": 39.6627682
+  },
+  {
+    "id": "locatorru_73946_Невинномысск",
+    "channel": "locatorru",
+    "date": "2026-07-22T02:56:38+00:00",
+    "text": "Невинномысск, Ставропольский край - отбой угрозы атаки БПЛА. Режим внимание. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": "Невинномысск",
+    "region": "Ставропольский край",
+    "lat": 44.6245814,
+    "lon": 41.9475941
+  },
+  {
+    "id": "kupolrussia_103257",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T02:58:56+00:00",
+    "text": "Ленинградская область \nСанкт-Петербург \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ленинградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206112",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T02:58:59+00:00",
+    "text": "Ленинградская область \nСанкт-Петербург \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ленинградская область",
     "lat": null,
     "lon": null
   }
