@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_205632",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T02:59:13+00:00",
-    "text": "Ивановская область\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ® ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ивановская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_73729",
-    "channel": "locatorru",
-    "date": "2026-07-21T02:59:29+00:00",
-    "text": "Ивановская область - опасность по БПЛА от Владимирской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ивановская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_102895",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T02:59:47+00:00",
-    "text": "Смоленская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу © \"КРАСНЫЙ УРОВЕНЬ\"\n(Х © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205633",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T02:59:56+00:00",
-    "text": "Смоленская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу © \"КРАСНЫЙ УРОВЕНЬ\"\n(Х © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_73730",
     "channel": "locatorru",
     "date": "2026-07-21T03:06:00+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Запорожская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_206236",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T10:23:38+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103354",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T10:23:56+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206237",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T10:27:47+00:00",
+    "text": "Разумное \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103355_Разумное",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T10:28:14+00:00",
+    "text": "Разумное\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Разумное",
+    "region": null,
+    "lat": 50.5347515,
+    "lon": 36.6859568
   }
 ]
