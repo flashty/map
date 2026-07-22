@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-22T07:23:23+00:00",
+        "last_updated": "2026-07-22T07:54:34+00:00",
+        "path_labels": [
+          "Черемошное",
+          "Ивнянский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.4937641,
+            50.3870509
+          ],
+          [
+            36.2197073,
+            51.0201731
+          ]
+        ]
+      }
+    }
+  ]
 }
