@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_74754",
-    "channel": "vrv_radar",
-    "date": "2026-07-21T00:21:34+00:00",
-    "text": "Калужская область \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_102873",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T00:22:18+00:00",
-    "text": "Курская область и близлежащие\nРакетная опасность\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83041",
-    "channel": "radarrussiia",
-    "date": "2026-07-21T00:22:20+00:00",
-    "text": "Липецкая область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "missile",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_102874",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T00:23:15+00:00",
-    "text": "Саратовская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_205600",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T00:23:22+00:00",
-    "text": "Саратовская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_73690",
     "channel": "locatorru",
     "date": "2026-07-21T00:24:55+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Республика Крым",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_206155_Запорожье",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T06:23:12+00:00",
+    "text": "Днепропетровск 3 самолёта в направлении Запорожье",
+    "type": "unknown",
+    "location_name": "Запорожье",
+    "region": null,
+    "lat": 59.8442,
+    "lon": 32.360348
+  },
+  {
+    "id": "kupolrussia_103283_Запорожье",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T06:23:19+00:00",
+    "text": "Днепропетровск 3 самолёта в направлении Запорожье",
+    "type": "unknown",
+    "location_name": "Запорожье",
+    "region": null,
+    "lat": 59.8442,
+    "lon": 32.360348
+  },
+  {
+    "id": "LPRalarm_206156",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T06:26:47+00:00",
+    "text": "⚠️ Курская область: ракетная опасность! Если вы находитесь дома, необходимо укрыться в помещениях без окон со сплошными стенами: в коридоре, ванной, кладовой. Если вы находитесь на улице — зайдите в ближайшее здание или подходящее укрытие.",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103284",
+    "channel": "kupolrussia",
+    "date": "2026-07-22T06:27:09+00:00",
+    "text": "Курская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206157_Погарский",
+    "channel": "LPRalarm",
+    "date": "2026-07-22T06:30:21+00:00",
+    "text": "Погарский район возможно матка с фпв, меры безопасности\nБрянская область",
+    "type": "alert",
+    "location_name": "Погарский",
+    "region": "Брянская область",
+    "lat": 52.5207056,
+    "lon": 33.2053408
   }
 ]

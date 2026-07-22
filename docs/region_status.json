@@ -1,24 +1,4 @@
 {
-  "ярославск": {
-    "display_name": "Ярославская область",
-    "type": "drone",
-    "text": "Ярославская область \nКостромская область \nОпасность по БПЛА сохраняется",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-22T05:27:50+00:00",
-    "expires_at": "2026-07-22T06:27:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "костромск": {
-    "display_name": "Костромская область",
-    "type": "drone",
-    "text": "Ярославская область \nКостромская область \nОпасность по БПЛА сохраняется",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-22T05:27:50+00:00",
-    "expires_at": "2026-07-22T06:27:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "missile",
@@ -62,10 +42,10 @@
   "курск": {
     "display_name": "Курская область",
     "type": "missile",
-    "text": "Курская область и близлежащие авиационная ракетная бомбовая опасность",
+    "text": "Курская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
     "channel": "kupolrussia",
-    "updated_at": "2026-07-22T06:09:44+00:00",
-    "expires_at": "2026-07-22T07:09:44+00:00",
+    "updated_at": "2026-07-22T06:27:09+00:00",
+    "expires_at": "2026-07-22T07:27:09+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +56,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-22T06:14:06+00:00",
     "expires_at": "2026-07-22T07:14:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "alert",
+    "text": "Погарский район возможно матка с фпв, меры безопасности\nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-22T06:30:21+00:00",
+    "expires_at": "2026-07-22T07:30:21+00:00",
     "count": null,
     "count_approx": false
   }
