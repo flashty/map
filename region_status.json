@@ -21,11 +21,11 @@
   },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Акимовка и близлежащие \nОсобое внимание трассы \nОпасность по БПЛА Хорнет \nЗапорожская область РФ",
+    "type": "missile",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
     "channel": "kupolrussia",
-    "updated_at": "2026-07-22T05:33:14+00:00",
-    "expires_at": "2026-07-22T06:33:14+00:00",
+    "updated_at": "2026-07-22T06:06:06+00:00",
+    "expires_at": "2026-07-22T07:06:06+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +56,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-22T05:55:39+00:00",
     "expires_at": "2026-07-22T06:55:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "missile",
+    "text": "Курская область и близлежащие авиационная ракетная бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-22T06:09:44+00:00",
+    "expires_at": "2026-07-22T07:09:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Саки\nНовофедоровка и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-22T06:14:06+00:00",
+    "expires_at": "2026-07-22T07:14:06+00:00",
     "count": null,
     "count_approx": false
   }
