@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Донузлав\nМирный\nМедведево\nОпасность по БПЛА \nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-22T03:51:27+00:00",
-    "expires_at": "2026-07-22T04:51:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ярославск": {
     "display_name": "Ярославская область",
     "type": "drone",
@@ -31,11 +21,21 @@
   },
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "missile",
-    "text": "Гродовка ДНР ракетная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-22T04:39:09+00:00",
-    "expires_at": "2026-07-22T05:39:09+00:00",
+    "type": "drone",
+    "text": "Горловка ДНР опасность по БПЛА \n\nСевер, с-в и восток особенно аккуратно",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-22T04:55:36+00:00",
+    "expires_at": "2026-07-22T05:55:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Аношкино Троицкое Лнр \nОпасность по БПЛА Хорнет",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-22T04:49:02+00:00",
+    "expires_at": "2026-07-22T05:49:02+00:00",
     "count": null,
     "count_approx": false
   }
