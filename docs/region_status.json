@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "новгородск": {
-    "display_name": "Новгородская область",
-    "type": "drone",
-    "text": "Нагово, Старорусский район, Новгородская область - пролёт 2 БПЛА на север.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-22T00:32:15+00:00",
-    "expires_at": "2026-07-22T01:32:15+00:00",
-    "count": 2,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -32,10 +22,10 @@
   "ленинградск": {
     "display_name": "Ленинградская область",
     "type": "drone",
-    "text": "Всеволожский район, Ленинградская область - особое внимание по БПЛА. Маркетплейс!\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-22T01:18:58+00:00",
-    "expires_at": "2026-07-22T02:18:58+00:00",
+    "text": "Всеволожский район\nЛенинградская область \nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-22T01:45:39+00:00",
+    "expires_at": "2026-07-22T02:45:39+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,10 +42,50 @@
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Тульская область\nРязанская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу © \"КРАСНЫЙ УРОВЕНЬ\"\n(Х © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-22T00:52:26+00:00",
-    "expires_at": "2026-07-22T01:52:26+00:00",
+    "text": "Михайловский район\nПронский район\nСпасский район\nРязанская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-22T01:39:26+00:00",
+    "expires_at": "2026-07-22T02:39:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Пеновский район\nТверская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-22T01:42:09+00:00",
+    "expires_at": "2026-07-22T02:42:09+00:00",
+    "count": 2,
+    "count_approx": false
+  },
+  "псковск": {
+    "display_name": "Псковская область",
+    "type": "drone",
+    "text": "Куньинский район\nПсковская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-22T01:42:23+00:00",
+    "expires_at": "2026-07-22T02:42:23+00:00",
+    "count": 2,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородская область",
+    "type": "drone",
+    "text": "Нижегородская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-22T01:42:44+00:00",
+    "expires_at": "2026-07-22T02:42:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Малоярославец, Обнинск, Калужская область - БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-22T01:43:08+00:00",
+    "expires_at": "2026-07-22T02:43:08+00:00",
     "count": null,
     "count_approx": false
   }
