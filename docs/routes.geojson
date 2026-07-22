@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-22T08:44:18+00:00",
+        "last_updated": "2026-07-22T09:17:55+00:00",
+        "path_labels": [
+          "Ржавец",
+          "Пролетарский (Белгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.8364135,
+            50.8719367
+          ],
+          [
+            35.772,
+            50.7915
+          ]
+        ]
+      }
+    }
+  ]
 }
