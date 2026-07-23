@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-23T01:32:45+00:00",
-        "last_updated": "2026-07-23T02:08:02+00:00",
-        "path_labels": [
-          "Кочетовка (Нижегородская область)",
-          "Болтинка (Нижегородская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.1208333,
-            55.2430556
-          ],
-          [
-            45.8333333,
-            55.3275
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
