@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-23T14:35:36+00:00",
-        "last_updated": "2026-07-23T14:57:45+00:00",
-        "path_labels": [
-          "Ракитное (Белгородская область)",
-          "Грайворонский (Белгородская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.832,
-            50.8343
-          ],
-          [
-            35.5905721,
-            50.4309028
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
