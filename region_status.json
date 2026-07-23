@@ -40,13 +40,13 @@
     "count_approx": false
   },
   "марий": {
-    "display_name": "Республика Марий",
+    "display_name": "Республики Марий",
     "type": "drone",
-    "text": "Республика Марий Эл\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-23T02:32:38+00:00",
-    "expires_at": "2026-07-23T03:32:38+00:00",
-    "count": null,
+    "text": "2 БПЛА в районе Чебоксар ушли в направлении Республики Марий Эл.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-07-23T03:00:33+00:00",
+    "expires_at": "2026-07-23T04:00:33+00:00",
+    "count": 2,
     "count_approx": false
   },
   "татарст": {
@@ -56,6 +56,36 @@
     "channel": "radarrussiia",
     "updated_at": "2026-07-23T02:35:55+00:00",
     "expires_at": "2026-07-23T03:35:55+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "кировск": {
+    "display_name": "Кировская область",
+    "type": "drone",
+    "text": "Кировская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-23T02:55:06+00:00",
+    "expires_at": "2026-07-23T03:55:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "башкортост": {
+    "display_name": "Республика Башкортостан",
+    "type": "drone",
+    "text": "Республика Башкортостан\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-23T02:54:29+00:00",
+    "expires_at": "2026-07-23T03:54:29+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "-": {
+    "display_name": "Республика -",
+    "type": "drone",
+    "text": "Чувашская Республика - пролёты БПЛА в регионе в направлении Чебоксар и близлежащих, возможно транзитным маршрутом через Волгу в направлении Республики Марий Эл\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-23T02:55:21+00:00",
+    "expires_at": "2026-07-23T03:55:21+00:00",
     "count": null,
     "count_approx": false
   }
