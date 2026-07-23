@@ -1,93 +1,5 @@
 [
   {
-    "id": "kupolrussia_103236",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T23:29:48+00:00",
-    "text": "Усть-Лабинск и близлежащие, тревога по БПЛА\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_73883_Лабинск",
-    "channel": "locatorru",
-    "date": "2026-07-21T23:30:06+00:00",
-    "text": "Много идет от Динской на Усть-Лабинск, Армавир, Краснодарский край. Близлежащие, внимательно! \n\n📡Локатор России - @locatorru",
-    "type": "unknown",
-    "location_name": "Лабинск",
-    "region": "Краснодарский край",
-    "lat": 44.6347953,
-    "lon": 40.7242185
-  },
-  {
-    "id": "locatorru_73883_Армавир",
-    "channel": "locatorru",
-    "date": "2026-07-21T23:30:06+00:00",
-    "text": "Много идет от Динской на Усть-Лабинск, Армавир, Краснодарский край. Близлежащие, внимательно! \n\n📡Локатор России - @locatorru",
-    "type": "unknown",
-    "location_name": "Армавир",
-    "region": "Краснодарский край",
-    "lat": 44.9993585,
-    "lon": 41.1294061
-  },
-  {
-    "id": "LPRalarm_206084",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T23:30:16+00:00",
-    "text": "Армавир и близлежащие\nТревога по БПЛА сохраняется\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_74919",
-    "channel": "vrv_radar",
-    "date": "2026-07-21T23:30:22+00:00",
-    "text": "Армавир и близлежащие \nКраснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_103237",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T23:30:38+00:00",
-    "text": "Армавир и близлежащие\nТревога по БПЛА сохраняется\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_74920_Целинский",
-    "channel": "vrv_radar",
-    "date": "2026-07-21T23:31:23+00:00",
-    "text": "Целинский район \nРостовская область \nФиксация 4х БПЛА",
-    "type": "drone",
-    "location_name": "Целинский",
-    "region": "Ростовская область",
-    "lat": 46.5730213,
-    "lon": 41.0272229
-  },
-  {
-    "id": "LPRalarm_206085",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T23:31:33+00:00",
-    "text": "Ялта и близлежащие\nЕще фиксации БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_103238",
     "channel": "kupolrussia",
     "date": "2026-07-21T23:31:49+00:00",
@@ -21996,6 +21908,94 @@
     "type": "drone",
     "location_name": null,
     "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206607",
+    "channel": "LPRalarm",
+    "date": "2026-07-23T07:19:09+00:00",
+    "text": "ЛДНР, Запорожская область РФ, Курская область и близлежащие, Харьковская область РФ \n\nАвиационная ракетная бомбовая опасность повторно",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103686",
+    "channel": "kupolrussia",
+    "date": "2026-07-23T07:19:21+00:00",
+    "text": "ЛДНР, Запорожская область РФ, Курская область и близлежащие, Харьковская область РФ \n повторно\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_74134_Курск",
+    "channel": "locatorru",
+    "date": "2026-07-23T07:24:47+00:00",
+    "text": "Много кто спрашивал какой звук у ракеты, вот ночной звук пролёта ракеты через г.Курчатов в сторону г.Курск, Курская область. \n\n📡Локатор России - @locatorru",
+    "type": "missile",
+    "location_name": "Курск",
+    "region": "Курская область",
+    "lat": 51.7270357,
+    "lon": 36.192248
+  },
+  {
+    "id": "kupolrussia_103687",
+    "channel": "kupolrussia",
+    "date": "2026-07-23T07:25:52+00:00",
+    "text": "Каланчак \nАрмянск и близлежащие\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_74135",
+    "channel": "locatorru",
+    "date": "2026-07-23T07:26:12+00:00",
+    "text": "г.Ярославль - режим внимание по БПЛА. \n\nг.Рыбинск и близлежащие, опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_74136_Белгород",
+    "channel": "locatorru",
+    "date": "2026-07-23T07:30:06+00:00",
+    "text": "Белгород, район, Белгородская область - высокая активность БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Белгород",
+    "region": "Белгородская область",
+    "lat": 50.5955595,
+    "lon": 36.5873394
+  },
+  {
+    "id": "LPRalarm_206608",
+    "channel": "LPRalarm",
+    "date": "2026-07-23T07:30:11+00:00",
+    "text": "г. Белгород и район опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103688",
+    "channel": "kupolrussia",
+    "date": "2026-07-23T07:30:24+00:00",
+    "text": "г. Белгород и район опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
