@@ -1,14 +1,4 @@
 {
-  "белгородск": {
-    "display_name": "Белгородской области",
-    "type": "missile",
-    "text": "Воронежская область режим повышенного внимания по возможным авиационным ракетам от Белгородской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-23T16:16:01+00:00",
-    "expires_at": "2026-07-23T17:16:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -22,40 +12,30 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Север\nСеверо-Запад \nРеспублика Крым \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-23T16:52:44+00:00",
-    "expires_at": "2026-07-23T17:52:44+00:00",
+    "text": "Портовое по суше в направлении Стерегущее, Черноморское фиксация БПЛА\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-23T17:16:53+00:00",
+    "expires_at": "2026-07-23T18:16:53+00:00",
     "count": null,
     "count_approx": false
   },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "МО Зарайск\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "ГО Шатура\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-07-23T16:18:01+00:00",
-    "expires_at": "2026-07-23T17:18:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курской области",
-    "type": "missile",
-    "text": "Белгород, Белгородский район и ситуативно Белгородская область! \nРакетная опасность! Займите Безопасные места!\n\n\nПотенциальная опасность для Курской области и Воронежской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-23T16:15:26+00:00",
-    "expires_at": "2026-07-23T17:15:26+00:00",
+    "updated_at": "2026-07-23T17:10:02+00:00",
+    "expires_at": "2026-07-23T18:10:02+00:00",
     "count": null,
     "count_approx": false
   },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Должанский район\nКолпнянский район\nСвердловский район\nОрловская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Должанский район\nНовосильский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-07-23T16:15:54+00:00",
-    "expires_at": "2026-07-23T17:15:54+00:00",
+    "updated_at": "2026-07-23T17:09:01+00:00",
+    "expires_at": "2026-07-23T18:09:01+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +56,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-23T17:00:08+00:00",
     "expires_at": "2026-07-23T18:00:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "drone",
+    "text": "Петушинский район\nВладимирская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-23T17:11:00+00:00",
+    "expires_at": "2026-07-23T18:11:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ярославск": {
+    "display_name": "Ярославская область",
+    "type": "drone",
+    "text": "Ярославская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-23T17:15:53+00:00",
+    "expires_at": "2026-07-23T18:15:53+00:00",
     "count": null,
     "count_approx": false
   }
