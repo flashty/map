@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-23T15:26:11+00:00",
+        "last_updated": "2026-07-23T16:33:08+00:00",
+        "path_labels": [
+          "Феодосия",
+          "Макеевка"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.1164524,
+            51.7088258
+          ],
+          [
+            35.7811403,
+            52.0719529
+          ]
+        ]
+      }
+    }
+  ]
 }
