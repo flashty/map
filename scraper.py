@@ -164,6 +164,16 @@ def extract_locations_and_regions(text: str):
     text = expand_elided_region_suffix(text)
     region_matches = list(REGION_PATTERN.finditer(text))
 
+    # "опасность по БПЛА ОТ Смоленской области" — тут Смоленська просто
+    # напрямок ЗВІДКИ летять дрони, а не ціль просто зараз. Виключаємо такі
+    # згадки зі списку "уражених" регіонів, інакше вони хибно перезаписують
+    # прямі повідомлення саме про цей регіон як ціль.
+    def preceded_by_ot(m):
+        prefix = text[: m.start()]
+        return bool(re.search(r"\bот\s*$", prefix, re.IGNORECASE))
+
+    region_matches = [m for m in region_matches if not preceded_by_ot(m)]
+
     if len(region_matches) >= 2:
         regions, seen = [], set()
         for m in region_matches:
