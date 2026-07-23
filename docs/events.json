@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_74880_Чертковский",
-    "channel": "vrv_radar",
-    "date": "2026-07-21T21:32:12+00:00",
-    "text": "Чертковский район\nРостовская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Чертковский",
-    "region": "Ростовская область",
-    "lat": 49.4049606,
-    "lon": 40.6115668
-  },
-  {
-    "id": "LPRalarm_206033",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T21:32:19+00:00",
-    "text": "Орловская область\nОтбой Ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_103205",
-    "channel": "kupolrussia",
-    "date": "2026-07-21T21:32:35+00:00",
-    "text": "Орловская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_74881",
-    "channel": "vrv_radar",
-    "date": "2026-07-21T21:34:16+00:00",
-    "text": "Калужская область \nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_206034",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T21:35:11+00:00",
-    "text": "Приморско-Ахтарск и близлежащие\nТревога по БПЛА\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_83144_Чертковский",
     "channel": "radarrussiia",
     "date": "2026-07-21T21:35:45+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Оренбургская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "locatorru_74106",
+    "channel": "locatorru",
+    "date": "2026-07-23T01:51:18+00:00",
+    "text": "Алексин, Тула, Узловая, Щёкино, Киреевск, Новомосковск, Кимовск, Донской, Липки, Венев, Ясногорск и близлежащие, Тульская область - опасность по БПЛА сохраняется и в сторону Московской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_75153_Алексин",
+    "channel": "vrv_radar",
+    "date": "2026-07-23T01:52:45+00:00",
+    "text": "Алексин\nТульская область\nРабота ПВО по БПЛА\nМеры безопасности",
+    "type": "drone",
+    "location_name": "Алексин",
+    "region": "Тульская область",
+    "lat": 54.5028103,
+    "lon": 37.0667213
+  },
+  {
+    "id": "vrv_radar_75154",
+    "channel": "vrv_radar",
+    "date": "2026-07-23T01:54:45+00:00",
+    "text": "Воронежская область\nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_12353",
+    "channel": "radar_plus_bpla",
+    "date": "2026-07-23T01:55:18+00:00",
+    "text": "Республика Марий Эл - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Марий",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_83325_Алексин",
+    "channel": "radarrussiia",
+    "date": "2026-07-23T01:57:18+00:00",
+    "text": "Алексин\nТульская область\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Алексин",
+    "region": "Тульская область",
+    "lat": 54.5028103,
+    "lon": 37.0667213
   }
 ]
