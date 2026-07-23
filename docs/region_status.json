@@ -8,5 +8,35 @@
     "expires_at": "2026-07-23T06:51:27+00:00",
     "count": null,
     "count_approx": false
+  },
+  "костромск": {
+    "display_name": "Костромская область",
+    "type": "drone",
+    "text": "Ярославская область \nКостромская область \nОпасность по БПЛА сохраняется \nМеры безопасности",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-23T06:07:37+00:00",
+    "expires_at": "2026-07-23T07:07:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ярославск": {
+    "display_name": "Ярославская область",
+    "type": "drone",
+    "text": "Ярославская область \nКостромская область \nОпасность по БПЛА сохраняется \nМеры безопасности",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-23T06:07:37+00:00",
+    "expires_at": "2026-07-23T07:07:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "missile",
+    "text": "Новоелизаветовка \nДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-23T06:08:13+00:00",
+    "expires_at": "2026-07-23T07:08:13+00:00",
+    "count": null,
+    "count_approx": false
   }
 }
