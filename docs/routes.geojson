@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-23T13:42:52+00:00",
+        "last_updated": "2026-07-23T13:42:52+00:00",
+        "path_labels": [
+          "Тульскую область",
+          "Московской области"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.583841187312565,
+            53.87840033487443
+          ],
+          [
+            37.667932788940334,
+            55.64097189330182
+          ]
+        ]
+      }
+    }
+  ]
 }
