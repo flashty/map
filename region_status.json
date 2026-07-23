@@ -2,10 +2,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Авиагородок и близлежащие \nЕвпатория \nТревога по БПЛА \nРеспублика Крым",
+    "text": "Малореченское\nАлушта и близлежащие \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-07-23T19:24:19+00:00",
-    "expires_at": "2026-07-23T20:24:19+00:00",
+    "updated_at": "2026-07-23T19:45:47+00:00",
+    "expires_at": "2026-07-23T20:45:47+00:00",
     "count": null,
     "count_approx": false
   },
@@ -119,26 +119,6 @@
     "count": null,
     "count_approx": false
   },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Воронежская область, Липецкая область, Орловская область - опасность по БПЛА от Белгородской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-23T18:36:41+00:00",
-    "expires_at": "2026-07-23T19:36:41+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "рязанск": {
-    "display_name": "Рязанской области",
-    "type": "drone",
-    "text": "От 15 БПЛА от Тульской области в направлении Рязанской области.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-07-23T18:42:35+00:00",
-    "expires_at": "2026-07-23T19:42:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "черниговск": {
     "display_name": "Черниговской области",
     "type": "drone",
@@ -230,22 +210,22 @@
     "count_approx": false
   },
   "брянск": {
-    "display_name": "Брянская область",
+    "display_name": "Брянскую область",
     "type": "drone",
-    "text": "Почеп, Брянская область - пролёты БПЛА .\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-23T19:30:18+00:00",
-    "expires_at": "2026-07-23T20:30:18+00:00",
+    "text": "Продолжается массовые пролёты БПЛА через Брянскую область.",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-23T19:40:10+00:00",
+    "expires_at": "2026-07-23T20:40:10+00:00",
     "count": null,
     "count_approx": false
   },
   "калужск": {
-    "display_name": "Калужская область",
-    "type": "alert",
-    "text": "Калужская область \nСрочно принять меры безопасности",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-23T19:28:56+00:00",
-    "expires_at": "2026-07-23T20:28:56+00:00",
+    "display_name": "Калужской области",
+    "type": "drone",
+    "text": "Володарский район, г.Брянск - пролёт БПЛА в сторону Калужской области.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-23T19:44:19+00:00",
+    "expires_at": "2026-07-23T20:44:19+00:00",
     "count": null,
     "count_approx": false
   },
@@ -256,6 +236,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-07-23T19:29:50+00:00",
     "expires_at": "2026-07-23T20:29:50+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Чонгар и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-23T19:35:15+00:00",
+    "expires_at": "2026-07-23T20:35:15+00:00",
     "count": null,
     "count_approx": false
   }
