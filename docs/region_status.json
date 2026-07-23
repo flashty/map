@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Пантелеймоновка, Енакиево ДНР и близлежащие \nОпасность по БПЛА \nОсобое внимание на дорогах!",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-23T09:27:06+00:00",
-    "expires_at": "2026-07-23T10:27:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "воронежск": {
     "display_name": "Воронежской области",
     "type": "missile",
@@ -129,16 +119,6 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "alert",
-    "text": "Белгородская область\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-23T10:13:21+00:00",
-    "expires_at": "2026-07-23T11:13:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "харьковск": {
     "display_name": "Харьковская область",
     "type": "aviation",
@@ -146,6 +126,16 @@
     "channel": "locatorru",
     "updated_at": "2026-07-23T10:10:06+00:00",
     "expires_at": "2026-07-23T11:10:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Экстренная информация РСЧС (Белгородская область): ОПАСНОСТЬ АТАКИ БПЛА в Чернянском МО. 13:24. Оставайтесь дома, не подходите к окнам или пройдите в укрытие.",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-23T10:27:41+00:00",
+    "expires_at": "2026-07-23T11:27:41+00:00",
     "count": null,
     "count_approx": false
   }
