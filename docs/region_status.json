@@ -1,31 +1,11 @@
 {
-  "марий": {
-    "display_name": "Республики Марий",
-    "type": "drone",
-    "text": "2 БПЛА в районе Чебоксар ушли в направлении Республики Марий Эл.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-07-23T03:00:33+00:00",
-    "expires_at": "2026-07-23T04:00:33+00:00",
-    "count": 2,
-    "count_approx": false
-  },
   "татарст": {
     "display_name": "Республика Татарстан",
-    "type": "alert",
-    "text": "Верхнеуслонский район \nРеспублика Татарстан\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-07-23T03:43:12+00:00",
-    "expires_at": "2026-07-23T04:43:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "кировск": {
-    "display_name": "Кировская область",
     "type": "drone",
-    "text": "Кировская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-23T02:55:06+00:00",
-    "expires_at": "2026-07-23T03:55:06+00:00",
+    "text": "Костромская область \nРеспублика Татарстан\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-23T03:54:46+00:00",
+    "expires_at": "2026-07-23T04:54:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +46,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-07-23T03:44:05+00:00",
     "expires_at": "2026-07-23T04:44:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "костромск": {
+    "display_name": "Костромская область",
+    "type": "drone",
+    "text": "Костромская область \nРеспублика Татарстан\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-23T03:54:46+00:00",
+    "expires_at": "2026-07-23T04:54:46+00:00",
     "count": null,
     "count_approx": false
   }
