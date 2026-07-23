@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_206062",
-    "channel": "LPRalarm",
-    "date": "2026-07-21T22:37:52+00:00",
-    "text": "Новая Слободка - Ржавец \nТревога по БПЛА\nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83155_Славянский",
-    "channel": "radarrussiia",
-    "date": "2026-07-21T22:38:02+00:00",
-    "text": "Славянский район\nКраснодарский край\nОпасность по БПЛА\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Славянский",
-    "region": "Краснодарский край",
-    "lat": 44.6922114,
-    "lon": 40.5186028
-  },
-  {
-    "id": "vrv_radar_74893",
-    "channel": "vrv_radar",
-    "date": "2026-07-21T22:38:21+00:00",
-    "text": "Новороссийск и близлежащие \nКраснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83156",
-    "channel": "radarrussiia",
-    "date": "2026-07-21T22:38:41+00:00",
-    "text": "Новороссийск и близлежащие \nКраснодарский край \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_73856_Новороссийск",
-    "channel": "locatorru",
-    "date": "2026-07-21T22:39:12+00:00",
-    "text": "Новороссийск, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Новороссийск",
-    "region": "Краснодарский край",
-    "lat": 44.7239578,
-    "lon": 37.7690711
-  },
-  {
     "id": "LPRalarm_206063",
     "channel": "LPRalarm",
     "date": "2026-07-21T22:39:24+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Костромская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206566",
+    "channel": "LPRalarm",
+    "date": "2026-07-23T04:05:12+00:00",
+    "text": "Красноперекопск и близлежащие опасность по БПЛА на электротяге",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206567_Марсианин",
+    "channel": "LPRalarm",
+    "date": "2026-07-23T04:07:58+00:00",
+    "text": "Никольское на Белгород БПЛА/ФПВ Марсианин",
+    "type": "drone",
+    "location_name": "Марсианин",
+    "region": null,
+    "lat": 54.7001057,
+    "lon": 20.517393
+  },
+  {
+    "id": "vrv_radar_75175_Крымский",
+    "channel": "vrv_radar",
+    "date": "2026-07-23T04:10:28+00:00",
+    "text": "Крымский район \nКраснодарский край \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": "Крымский",
+    "region": "Краснодарский край",
+    "lat": 44.9624541,
+    "lon": 37.896802
+  },
+  {
+    "id": "LPRalarm_206568",
+    "channel": "LPRalarm",
+    "date": "2026-07-23T04:13:50+00:00",
+    "text": "Разумное Бгд \nБПЛА в направлении",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206569",
+    "channel": "LPRalarm",
+    "date": "2026-07-23T04:15:41+00:00",
+    "text": "Никольское Таврово Бгд \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
