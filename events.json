@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_206239",
-    "channel": "LPRalarm",
-    "date": "2026-07-22T10:47:15+00:00",
-    "text": "Трасса Дебальцево Светлодарск бпла Хорнет\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_206240",
-    "channel": "LPRalarm",
-    "date": "2026-07-22T10:48:53+00:00",
-    "text": "Волновахский район в строну трассы Мариуполь Донецк Хорнет\nДНР",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_103358",
-    "channel": "kupolrussia",
-    "date": "2026-07-22T10:49:19+00:00",
-    "text": "Волновахский район в строну трассы Мариуполь Донецк Хорнет\nДНР",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_206241",
-    "channel": "LPRalarm",
-    "date": "2026-07-22T10:50:28+00:00",
-    "text": "Гродовка, ДНР\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_103359",
-    "channel": "kupolrussia",
-    "date": "2026-07-22T10:50:45+00:00",
-    "text": "Гродовка, ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_206242",
-    "channel": "LPRalarm",
-    "date": "2026-07-22T10:52:18+00:00",
-    "text": "Светлодарск, Дебальцево и близлежащие ДНР опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_103360",
-    "channel": "kupolrussia",
-    "date": "2026-07-22T10:52:23+00:00",
-    "text": "Светлодарск, Дебальцево и близлежащие ДНР опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_206243",
-    "channel": "LPRalarm",
-    "date": "2026-07-22T10:55:07+00:00",
-    "text": "Белгородская область, Харьковская область РФ, ЛДНР, Запорожская область РФ \n\nАвиационная ракетная бомбовая опасность. Полтава самолёты на восток",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_103361",
-    "channel": "kupolrussia",
-    "date": "2026-07-22T10:55:18+00:00",
-    "text": "Белгородская область, Харьковская область РФ, ЛДНР, Запорожская область РФ \n Полтава самолёты на восток\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_206244",
     "channel": "LPRalarm",
     "date": "2026-07-22T10:59:30+00:00",
@@ -21998,5 +21899,104 @@
     "region": "Республика Крым",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_206805",
+    "channel": "LPRalarm",
+    "date": "2026-07-23T15:03:14+00:00",
+    "text": "Мелитопольский район \nМелитополь и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103875",
+    "channel": "kupolrussia",
+    "date": "2026-07-23T15:03:30+00:00",
+    "text": "Мелитопольский район \nМелитополь и близлежащие \nЗапорожская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206806",
+    "channel": "LPRalarm",
+    "date": "2026-07-23T15:07:01+00:00",
+    "text": "Севастополь \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103876_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-07-23T15:07:18+00:00",
+    "text": "Севастополь\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "vrv_radar_75227",
+    "channel": "vrv_radar",
+    "date": "2026-07-23T15:09:52+00:00",
+    "text": "Геленджик и близлежащие \nКраснодарский край\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_206807",
+    "channel": "LPRalarm",
+    "date": "2026-07-23T15:10:22+00:00",
+    "text": "ОПАСНОСТЬ АТАКИ БПЛА в Вейделевском МО.",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_103877",
+    "channel": "kupolrussia",
+    "date": "2026-07-23T15:10:53+00:00",
+    "text": "ОПАСНОСТЬ АТАКИ БПЛА в Вейделевском МО.",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_75228_Щекинский",
+    "channel": "vrv_radar",
+    "date": "2026-07-23T15:13:41+00:00",
+    "text": "Щекинский район\nТульская область\nРабота ПВО по БПЛА\nМеры безопасности",
+    "type": "drone",
+    "location_name": "Щекинский",
+    "region": "Тульская область",
+    "lat": 53.8906918,
+    "lon": 37.3865251
+  },
+  {
+    "id": "radarrussiia_83383_Щекинский",
+    "channel": "radarrussiia",
+    "date": "2026-07-23T15:14:50+00:00",
+    "text": "Щекинский район\nТульская область\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Щекинский",
+    "region": "Тульская область",
+    "lat": 53.8906918,
+    "lon": 37.3865251
   }
 ]
