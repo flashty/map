@@ -39,6 +39,7 @@ STATE_FILE = "state.json"
 EVENTS_FILE = "events.json"
 GEOCODE_CACHE_FILE = "geocode_cache.json"
 REGION_STATUS_FILE = "region_status.json"
+NATIONAL_ESTIMATE_FILE = "national_estimate.json"
 MAX_EVENTS_KEPT = 2000
 MESSAGES_PER_CHANNEL_PER_RUN = 200
 
@@ -323,7 +324,15 @@ def try_extend_or_create_track(tracks, event_type, lat, lon, time_dt, location_n
     """Додає точку до існуючого маршруту (якщо стрибок правдоподібний за
     відстанню/часом) або починає новий маршрут. Маршрути будуємо тільки
     для дронів і ракет — для інших типів це не має сенсу."""
-    if event_type not in ("drone", "missile", "ballistic"):
+    # ВАЖЛИВО: евристику "зв'яжи окремі повідомлення в один маршрут" лишаємо
+    # ТІЛЬКИ для дронів. Ракети/балістика летять хвилини, тож дві окремі,
+    # НЕ пов'язані згадки різних регіонів з різних повідомлень (напр.
+    # "Москва" о 01:35 і "Тула" о 01:41) майже завжди НЕ один і той самий
+    # об'єкт, а просто два різні випадки — раніше це постійно давало
+    # безглузді "маршрути" типу Москва → Тула. Для ракет маршрут малюємо
+    # лише коли канал сам явно описав послідовність в ОДНОМУ повідомленні
+    # (див. build_explicit_route).
+    if event_type != "drone":
         return
 
     max_speed = DRONE_MAX_SPEED_KMH if event_type == "drone" else MISSILE_MAX_SPEED_KMH
@@ -698,6 +707,7 @@ def main():
     events = load_json(EVENTS_FILE, [])
     geocode_cache = load_json(GEOCODE_CACHE_FILE, {})
     region_status = load_json(REGION_STATUS_FILE, {})
+    national_estimates = load_json(NATIONAL_ESTIMATE_FILE, {})
     tracks = load_json(ROUTES_STATE_FILE, {"tracks": []}).get("tracks", [])
     region_centroids = load_region_centroids()
     now = datetime.now(timezone.utc)
@@ -785,6 +795,22 @@ def main():
                     count, count_approx = extract_unit_count(text)
                 else:
                     count, count_approx = None, False
+                    # тут число (якщо є) стосується ВСІХ регіонів РАЗОМ, а не
+                    # кожного окремо ("300 БПЛА над 4 областями") — не
+                    # приписуємо його жодному регіону, але зберігаємо як
+                    # окрему "загальну оцінку" ПО ЦЬОМУ ТИПУ (дрони і ракети
+                    # окремо, щоб не перезаписували одне одного)
+                    total_count, total_approx = extract_unit_count(text)
+                    if total_count is not None and alert_type in ("drone", "missile", "ballistic"):
+                        national_estimates[alert_type] = {
+                            "count": total_count,
+                            "count_approx": total_approx,
+                            "regions": regions,
+                            "text": text[:300],
+                            "channel": channel,
+                            "updated_at": msg_time.isoformat(),
+                            "expires_at": (msg_time + timedelta(hours=REGION_BACKSTOP_HOURS)).isoformat(),
+                        }
                 for region in regions:
                     update_region_status(region_status, region, alert_type, text, channel, msg_time, count, count_approx)
 
@@ -843,12 +869,14 @@ def main():
     # знімаємо підсвітку з регіонів, де давно не було жодних новин
     # (підстраховка на випадок, якщо явного "відбою" так і не було)
     prune_expired_regions(region_status, now)
+    prune_expired_regions(national_estimates, now)  # та сама структура (є "expires_at"), підходить і тут
     tracks = prune_tracks(tracks, now)
 
     save_json(STATE_FILE, state)
     save_json(EVENTS_FILE, events)
     save_json(GEOCODE_CACHE_FILE, geocode_cache)
     save_json(REGION_STATUS_FILE, region_status)
+    save_json(NATIONAL_ESTIMATE_FILE, national_estimates)
     save_json(ROUTES_STATE_FILE, {"tracks": tracks})
     save_json("docs/routes.geojson", tracks_to_geojson(tracks))
     print(f"Done. Total events stored: {len(events)}, active regions: {len(region_status)}, active tracks: {len(tracks)}")
