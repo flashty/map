@@ -40,6 +40,7 @@
   <div class="legend-row"><span class="swatch" style="background:transparent;border-top:3px solid #eab308;"></span>Маршрут БПЛА</div>
   <div class="legend-row"><span class="swatch" style="background:transparent;border-top:3px solid #dc2626;"></span>Маршрут ракети</div>
   <div id="summary" style="margin-top:10px; padding-top:10px; border-top:0.5px solid rgba(255,255,255,0.15); font-size:13px;"></div>
+  <div id="national" style="margin-top:8px; padding-top:8px; border-top:0.5px solid rgba(255,255,255,0.15); font-size:13px; display:none;"></div>
   <div id="updated">Завантаження...</div>
 </div>
 
@@ -248,6 +249,36 @@ async function refreshRegionStatus() {
       `<div style="opacity:0.7; margin-bottom:4px;">Кількість цілей:</div>` +
       (summaryHtml || '<div style="opacity:0.5;">Немає повідомлень з вказаною кількістю</div>') +
       (summaryHtml ? '<div style="opacity:0.45; font-size:11px; margin-top:4px;">~ означає приблизну кількість зі слів каналу ("сотні", "десятки")</div>' : '');
+
+    // окремий рядок для повідомлень типу "300 БПЛА над 4 областями разом" —
+    // таке число НЕ приписується жодному регіону окремо (інакше сума
+    // роздулась би в рази), але лишається видимим тут як "загальна оцінка"
+    try {
+      const natRes = await fetch('national_estimate.json?t=' + Date.now());
+      const nat = await natRes.json();
+      const nowTs = Date.now();
+      const rows = Object.entries(nat)
+        .filter(([, e]) => new Date(e.expires_at).getTime() > nowTs)
+        .map(([type, e]) => {
+          const color = TYPE_COLORS[type] || TYPE_COLORS.unknown;
+          const label = TYPE_LABELS[type] || TYPE_LABELS.unknown;
+          const approx = e.count_approx ? "~" : "";
+          const regionsText = (e.regions || []).join(", ");
+          const minsAgo = Math.round((nowTs - new Date(e.updated_at).getTime()) / 60000);
+          return `<div class="legend-row"><span class="swatch" style="background:${color};"></span>${label}: <b>${approx}${e.count}</b></div>` +
+                 `<div style="font-size:11px; opacity:0.55; margin:-2px 0 4px 24px;">${regionsText} · ${minsAgo} хв тому</div>`;
+        })
+        .join("");
+      const natBlock = document.getElementById('national');
+      if (rows) {
+        natBlock.innerHTML = `<div style="opacity:0.7; margin-bottom:4px;">Востаннє про масовий наліт:</div>` + rows;
+        natBlock.style.display = "";
+      } else {
+        natBlock.style.display = "none";
+      }
+    } catch (e) {
+      // немає файлу чи порожньо - просто не показуємо цей блок
+    }
 
     document.getElementById('updated').textContent =
       'Оновлено: ' + new Date().toLocaleTimeString('uk-UA') + ' · активних регіонів: ' + activeCount;
