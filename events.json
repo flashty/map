@@ -1,49 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_12377",
-    "channel": "radar_plus_bpla",
-    "date": "2026-07-23T19:19:35+00:00",
-    "text": "Ярославская область\nКостромская область \nИвановская область\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ярославская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_206949_Рыково",
-    "channel": "LPRalarm",
-    "date": "2026-07-23T19:19:51+00:00",
-    "text": "Рыково, Геническ и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Рыково",
-    "region": null,
-    "lat": 56.761912,
-    "lon": 29.0319085
-  },
-  {
-    "id": "kupolrussia_104013_Рыково",
-    "channel": "kupolrussia",
-    "date": "2026-07-23T19:19:55+00:00",
-    "text": "Рыково, Геническ и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Рыково",
-    "region": null,
-    "lat": 56.761912,
-    "lon": 29.0319085
-  },
-  {
-    "id": "locatorru_74253",
-    "channel": "locatorru",
-    "date": "2026-07-23T19:20:16+00:00",
-    "text": "Жуковка, Брянская область - пролёт от 2 БПЛА в сторону примерно Людиново, Калужская область.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_104014",
     "channel": "kupolrussia",
     "date": "2026-07-23T19:20:18+00:00",
@@ -21996,6 +21952,50 @@
     "type": "alert",
     "location_name": null,
     "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_75573",
+    "channel": "vrv_radar",
+    "date": "2026-07-24T11:55:20+00:00",
+    "text": "Сочи и близлежащие \nКраснодарский край \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_207322",
+    "channel": "LPRalarm",
+    "date": "2026-07-24T11:58:01+00:00",
+    "text": "Геническ и близлежащие, Арабатская Стрелка с дальнейшим выходом в Азовское море тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_104345",
+    "channel": "kupolrussia",
+    "date": "2026-07-24T11:58:17+00:00",
+    "text": "Геническ и близлежащие, Арабатская Стрелка с дальнейшим выходом в Азовское море\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_104346",
+    "channel": "kupolrussia",
+    "date": "2026-07-24T12:00:11+00:00",
+    "text": "ЛДНР Запорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
