@@ -32,10 +32,10 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Брянка, Алчевск, Стаханов и далее на Луганск\nТревога по БПЛА\nЛНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-24T21:27:56+00:00",
-    "expires_at": "2026-07-24T22:27:56+00:00",
+    "text": "ЛНР\nКраснодон\nСвердловск \nтревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-24T22:24:48+00:00",
+    "expires_at": "2026-07-24T23:24:48+00:00",
     "count": null,
     "count_approx": false
   },
@@ -50,22 +50,22 @@
     "count_approx": false
   },
   "саратовск": {
-    "display_name": "Саратовской области",
+    "display_name": "Саратовская область",
     "type": "drone",
-    "text": "Михайловка, Большой Лычак, Волгоградская область - пролёт от 6 БПЛА. Примерно в сторону Саратовской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-24T21:59:05+00:00",
-    "expires_at": "2026-07-24T22:59:05+00:00",
+    "text": "Саратовская область\nопасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-24T22:28:55+00:00",
+    "expires_at": "2026-07-24T23:28:55+00:00",
     "count": null,
     "count_approx": false
   },
   "тамбовск": {
     "display_name": "Тамбовская область",
     "type": "drone",
-    "text": "Инжавино, Тамбовская область - ещё пролёт БПЛА в сторону Кирсанов.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-24T21:50:38+00:00",
-    "expires_at": "2026-07-24T22:50:38+00:00",
+    "text": "Моршанский район\nТамбовская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-24T22:16:15+00:00",
+    "expires_at": "2026-07-24T23:16:15+00:00",
     "count": null,
     "count_approx": false
   },
@@ -162,20 +162,50 @@
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Таганрог, Ростовская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-24T22:15:38+00:00",
-    "expires_at": "2026-07-24T23:15:38+00:00",
+    "text": "Ростовская область \nтревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-24T22:25:24+00:00",
+    "expires_at": "2026-07-24T23:25:24+00:00",
     "count": null,
     "count_approx": false
   },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Орёл\nОрловская область\nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-07-24T22:13:02+00:00",
-    "expires_at": "2026-07-24T23:13:02+00:00",
+    "text": "Орёл\nОрловская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-24T22:20:30+00:00",
+    "expires_at": "2026-07-24T23:20:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калуга\nКалужская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-24T22:21:57+00:00",
+    "expires_at": "2026-07-24T23:21:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Одоевский район, Тульская область - БПЛА.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-24T22:21:26+00:00",
+    "expires_at": "2026-07-24T23:21:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Давыдовка и близлежащие \nтревога по БПЛА Лютый\nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-24T22:27:54+00:00",
+    "expires_at": "2026-07-24T23:27:54+00:00",
     "count": null,
     "count_approx": false
   }
