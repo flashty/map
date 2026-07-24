@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_103961",
-    "channel": "kupolrussia",
-    "date": "2026-07-23T18:10:18+00:00",
-    "text": "Брянск соблюдаем меры безопасности при БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_206895_Новоозерное",
-    "channel": "LPRalarm",
-    "date": "2026-07-23T18:10:43+00:00",
-    "text": "Новоозерное, Мирный, Витино с севера \n\nЧерноморское, Межводное с востока \n\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Новоозерное",
-    "region": null,
-    "lat": 53.4770285,
-    "lon": 85.613183
-  },
-  {
-    "id": "LPRalarm_206895_Мирный",
-    "channel": "LPRalarm",
-    "date": "2026-07-23T18:10:43+00:00",
-    "text": "Новоозерное, Мирный, Витино с севера \n\nЧерноморское, Межводное с востока \n\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Мирный",
-    "region": null,
-    "lat": 62.5410457,
-    "lon": 113.978516
-  },
-  {
-    "id": "LPRalarm_206895_Черноморское",
-    "channel": "LPRalarm",
-    "date": "2026-07-23T18:10:43+00:00",
-    "text": "Новоозерное, Мирный, Витино с севера \n\nЧерноморское, Межводное с востока \n\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Черноморское",
-    "region": null,
-    "lat": 44.8604244,
-    "lon": 38.4855598
-  },
-  {
-    "id": "kupolrussia_103962_Новоозерное",
-    "channel": "kupolrussia",
-    "date": "2026-07-23T18:10:56+00:00",
-    "text": "Новоозерное, Мирный, Витино с севера \n\nЧерноморское, Межводное с востока \n\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Новоозерное",
-    "region": null,
-    "lat": 53.4770285,
-    "lon": 85.613183
-  },
-  {
-    "id": "kupolrussia_103962_Мирный",
-    "channel": "kupolrussia",
-    "date": "2026-07-23T18:10:56+00:00",
-    "text": "Новоозерное, Мирный, Витино с севера \n\nЧерноморское, Межводное с востока \n\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Мирный",
-    "region": null,
-    "lat": 62.5410457,
-    "lon": 113.978516
-  },
-  {
     "id": "kupolrussia_103962_Черноморское",
     "channel": "kupolrussia",
     "date": "2026-07-23T18:10:56+00:00",
@@ -21996,6 +21930,72 @@
     "type": "alert",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_207262_Никуличи",
+    "channel": "LPRalarm",
+    "date": "2026-07-24T09:32:10+00:00",
+    "text": "Никуличи, Орловская область пролёт БПЛА в сторону Болхова",
+    "type": "drone",
+    "location_name": "Никуличи",
+    "region": "Орловская область",
+    "lat": 52.7808842,
+    "lon": 36.5100563
+  },
+  {
+    "id": "kupolrussia_104289_Никуличи",
+    "channel": "kupolrussia",
+    "date": "2026-07-24T09:32:29+00:00",
+    "text": "Никуличи, Орловская область пролёт БПЛА в сторону Болхова",
+    "type": "drone",
+    "location_name": "Никуличи",
+    "region": "Орловская область",
+    "lat": 52.7808842,
+    "lon": 36.5100563
+  },
+  {
+    "id": "LPRalarm_207263",
+    "channel": "LPRalarm",
+    "date": "2026-07-24T09:34:47+00:00",
+    "text": "Белгород \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_104290_Белгород",
+    "channel": "kupolrussia",
+    "date": "2026-07-24T09:35:00+00:00",
+    "text": "Белгород\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Белгород",
+    "region": null,
+    "lat": 50.5955595,
+    "lon": 36.5873394
+  },
+  {
+    "id": "LPRalarm_207264",
+    "channel": "LPRalarm",
+    "date": "2026-07-24T09:41:27+00:00",
+    "text": "Графовка Безлюдовка Дамба \nУдарный БПЛА в направлении",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_104291",
+    "channel": "kupolrussia",
+    "date": "2026-07-24T09:41:49+00:00",
+    "text": "Графовка Безлюдовка Дамба \nУдарный БПЛА в направлении\nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
     "lat": null,
     "lon": null
   }
