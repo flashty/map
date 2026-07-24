@@ -1,44 +1,4 @@
 {
-  "московск": {
-    "display_name": "Московская область",
-    "type": "missile",
-    "text": "Московская область\nИвановская область\nВладимирская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-24T02:02:26+00:00",
-    "expires_at": "2026-07-24T03:02:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ивановск": {
-    "display_name": "Ивановская область",
-    "type": "missile",
-    "text": "Московская область\nИвановская область\nВладимирская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-24T02:02:26+00:00",
-    "expires_at": "2026-07-24T03:02:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "владимирск": {
-    "display_name": "Владимирская область",
-    "type": "missile",
-    "text": "Московская область\nИвановская область\nВладимирская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-24T02:02:26+00:00",
-    "expires_at": "2026-07-24T03:02:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "missile",
-    "text": "Ульяновская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-24T02:02:16+00:00",
-    "expires_at": "2026-07-24T03:02:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "самарск": {
     "display_name": "Самарская область",
     "type": "missile",
@@ -52,20 +12,10 @@
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "missile",
-    "text": "Зеленодольск, Казань, Елабуга, Нижнекамск, Набережные Челны, Альметьевск, Бугульма и близлежащие населённые пункты, Республика Татарстан \nРакетная опасность по крылатым ракетам «Фламинго»\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-24T02:37:13+00:00",
-    "expires_at": "2026-07-24T03:37:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "мордов": {
-    "display_name": "Республика Мордовия",
-    "type": "missile",
-    "text": "Ульяновская область\nСамарская область\nРеспублика Татарстан\nРеспублика Мордовия \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-24T02:01:34+00:00",
-    "expires_at": "2026-07-24T03:01:34+00:00",
+    "text": "Зеленодольск, Казань, Елабуга, Нижнекамск, Набережные Челны, Альметьевск, Бугульма и близлежащие населённые пункты, Республика Татарстан - ракетная опасность по крылатым ракетам «Фламинго», повторно!\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-24T03:11:28+00:00",
+    "expires_at": "2026-07-24T04:11:28+00:00",
     "count": null,
     "count_approx": false
   },
@@ -92,10 +42,10 @@
   "-": {
     "display_name": "Республика -",
     "type": "missile",
-    "text": "Ижевск, Воткинск и близлежащие, Удмуртская Республика - ракетная опасность по крылатым ракетам «Фламинго»\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-24T02:49:23+00:00",
-    "expires_at": "2026-07-24T03:49:23+00:00",
+    "text": "Ижевск, Воткинск и близлежащие, Удмуртская Республика - ракетная опасность по крылатым ракетам «Фламинго», повторно!\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-24T03:11:42+00:00",
+    "expires_at": "2026-07-24T04:11:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -166,6 +116,46 @@
     "channel": "radarrussiia",
     "updated_at": "2026-07-24T03:01:05+00:00",
     "expires_at": "2026-07-24T04:01:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Вяземский район\nСмоленская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-24T03:02:30+00:00",
+    "expires_at": "2026-07-24T04:02:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Почеп, Брянская область - опасность по БПЛА от Погара. Идут к вам. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-24T03:03:13+00:00",
+    "expires_at": "2026-07-24T04:03:13+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Пеновский район\nТверская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-24T03:02:48+00:00",
+    "expires_at": "2026-07-24T04:02:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-24T03:03:52+00:00",
+    "expires_at": "2026-07-24T04:03:52+00:00",
     "count": null,
     "count_approx": false
   }
