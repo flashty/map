@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-24T17:57:02+00:00",
+        "last_updated": "2026-07-24T18:30:58+00:00",
+        "path_labels": [
+          "Алексин (Тульская область)",
+          "Ленинский (Тульская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.0667213,
+            54.5028103
+          ],
+          [
+            37.4636154,
+            54.2868111
+          ]
+        ]
+      }
+    }
+  ]
 }

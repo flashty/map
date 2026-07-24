@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Троицкое Лнр \nВнимание по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-24T17:30:40+00:00",
-    "expires_at": "2026-07-24T18:30:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московской области",
     "type": "drone",
@@ -37,6 +27,36 @@
     "updated_at": "2026-07-24T17:43:07+00:00",
     "expires_at": "2026-07-24T18:43:07+00:00",
     "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Трубчевск и близлежащие \nОпасность по БПЛА \nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-24T18:19:29+00:00",
+    "expires_at": "2026-07-24T19:19:29+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Бехтеры на Железный Порт фиксации БПЛА. Херсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-24T18:23:48+00:00",
+    "expires_at": "2026-07-24T19:23:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Ленинский район\nТульская область\nФиксация от 3 БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-24T18:30:58+00:00",
+    "expires_at": "2026-07-24T19:30:58+00:00",
+    "count": 3,
     "count_approx": false
   }
 }
