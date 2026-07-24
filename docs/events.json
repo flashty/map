@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_206830",
-    "channel": "LPRalarm",
-    "date": "2026-07-23T16:03:14+00:00",
-    "text": "трасса Иловайск - Макеевка \nДНР \n\nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_103901",
-    "channel": "kupolrussia",
-    "date": "2026-07-23T16:03:24+00:00",
-    "text": "трасса Иловайск - Макеевка \nДНР \n\nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_206831",
-    "channel": "LPRalarm",
-    "date": "2026-07-23T16:03:25+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_103902",
-    "channel": "kupolrussia",
-    "date": "2026-07-23T16:03:39+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_206832_Коктебель",
     "channel": "LPRalarm",
     "date": "2026-07-23T16:04:14+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Калужская область",
     "lat": 54.5101087,
     "lon": 36.2598115
+  },
+  {
+    "id": "LPRalarm_207197",
+    "channel": "LPRalarm",
+    "date": "2026-07-24T06:10:16+00:00",
+    "text": "Ростовская область \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_104224",
+    "channel": "kupolrussia",
+    "date": "2026-07-24T06:10:24+00:00",
+    "text": "Ростовская область\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_104225",
+    "channel": "kupolrussia",
+    "date": "2026-07-24T06:10:33+00:00",
+    "text": "Возможно подготовка к пускам Штормов \n\nВсе приграничные регионы внимание",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_207198",
+    "channel": "LPRalarm",
+    "date": "2026-07-24T06:10:42+00:00",
+    "text": "Возможно подготовка к пускам Штормов \n\nВсе приграничные регионы внимание",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
