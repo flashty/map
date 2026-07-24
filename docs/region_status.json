@@ -19,43 +19,33 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Ракитное, Ивня и близлежащие, тревога по БпЛА \nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-23T23:09:43+00:00",
-    "expires_at": "2026-07-24T00:09:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
-    "text": "Тверь\nТверская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-23T23:44:43+00:00",
-    "expires_at": "2026-07-24T00:44:43+00:00",
+    "text": "Калининский район, Тверская область и г.Тверь - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-24T00:01:41+00:00",
+    "expires_at": "2026-07-24T01:01:41+00:00",
     "count": null,
     "count_approx": false
   },
   "новгородск": {
     "display_name": "Новгородская область",
     "type": "drone",
-    "text": "Новгородская область \nТревога по БПЛА сохраняется \nПринять меры безопасности",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-24T00:00:38+00:00",
-    "expires_at": "2026-07-24T01:00:38+00:00",
+    "text": "Старорусский район\nНовгородская область \nПродолжается работа ВКС по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-24T00:14:19+00:00",
+    "expires_at": "2026-07-24T01:14:19+00:00",
     "count": null,
     "count_approx": false
   },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Дубна\nМосковская область \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-07-23T23:59:52+00:00",
-    "expires_at": "2026-07-24T00:59:52+00:00",
+    "text": "ГО Дубна\nМосковская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-24T00:11:27+00:00",
+    "expires_at": "2026-07-24T01:11:27+00:00",
     "count": null,
     "count_approx": false
   },
@@ -80,13 +70,23 @@
     "count_approx": false
   },
   "ленинградск": {
-    "display_name": "Ленинградской области",
+    "display_name": "Ленинградская область",
     "type": "drone",
-    "text": "Тосненский район Ленинградской области пролёт 2 БПЛА в направлении Санкт-Петербурга.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-07-24T00:00:55+00:00",
-    "expires_at": "2026-07-24T01:00:55+00:00",
-    "count": 2,
+    "text": "Будогощь, ​Киришский район, Ленинградская область - ещё пролёт БПЛА на Кириши.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-24T00:13:19+00:00",
+    "expires_at": "2026-07-24T01:13:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Гвардейское \nСимферополь \nГРЭС и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-24T00:01:32+00:00",
+    "expires_at": "2026-07-24T01:01:32+00:00",
+    "count": null,
     "count_approx": false
   }
 }
