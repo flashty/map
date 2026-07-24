@@ -1,24 +1,4 @@
 {
-  "татарст": {
-    "display_name": "Республика Татарстан",
-    "type": "missile",
-    "text": "Зеленодольск, Казань, Елабуга, Нижнекамск, Набережные Челны, Альметьевск, Бугульма и близлежащие населённые пункты, Республика Татарстан - ракетная опасность по крылатым ракетам «Фламинго», повторно!\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-24T03:11:28+00:00",
-    "expires_at": "2026-07-24T04:11:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "-": {
-    "display_name": "Республика -",
-    "type": "missile",
-    "text": "Ижевск, Воткинск и близлежащие, Удмуртская Республика - ракетная опасность по крылатым ракетам «Фламинго», повторно!\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-24T03:11:42+00:00",
-    "expires_at": "2026-07-24T04:11:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -39,43 +19,13 @@
     "count": null,
     "count_approx": false
   },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Вяземский район\nСмоленская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-24T03:02:30+00:00",
-    "expires_at": "2026-07-24T04:02:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Брянская область, продолжаются пролеты БпЛА на север",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-24T03:25:09+00:00",
-    "expires_at": "2026-07-24T04:25:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тверск": {
-    "display_name": "Тверская область",
-    "type": "drone",
-    "text": "Пеновский район\nТверская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Карачев и близлежащие, Брянская область - фиксации БПЛА в сторону Орла. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-07-24T03:02:48+00:00",
-    "expires_at": "2026-07-24T04:02:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-24T03:03:52+00:00",
-    "expires_at": "2026-07-24T04:03:52+00:00",
+    "updated_at": "2026-07-24T04:10:18+00:00",
+    "expires_at": "2026-07-24T05:10:18+00:00",
     "count": null,
     "count_approx": false
   },
@@ -136,6 +86,26 @@
     "channel": "locatorru",
     "updated_at": "2026-07-24T04:01:11+00:00",
     "expires_at": "2026-07-24T05:01:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужской области",
+    "type": "drone",
+    "text": "Над Брянской областью продолжаются фиксации БПЛА почти во всех районах. \n\nИдут в сторону Калужской области и Орловской области и далее в тыл. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-24T04:08:07+00:00",
+    "expires_at": "2026-07-24T05:08:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловской области",
+    "type": "drone",
+    "text": "Над Брянской областью продолжаются фиксации БПЛА почти во всех районах. \n\nИдут в сторону Калужской области и Орловской области и далее в тыл. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-24T04:08:07+00:00",
+    "expires_at": "2026-07-24T05:08:07+00:00",
     "count": null,
     "count_approx": false
   }
