@@ -9,26 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Шиловский район \nРязанская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-23T23:06:40+00:00",
-    "expires_at": "2026-07-24T00:06:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ивановск": {
-    "display_name": "Ивановская области",
-    "type": "missile",
-    "text": "Рязанская область от Тульской\n ситуативно Владимирская и Ивановская области\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-23T22:46:20+00:00",
-    "expires_at": "2026-07-23T23:46:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ярославск": {
     "display_name": "Ярославская область",
     "type": "drone",
@@ -62,20 +42,20 @@
   "новгородск": {
     "display_name": "Новгородская область",
     "type": "drone",
-    "text": "Старорусский район\nНовгородская область \nРабота ВКС по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-23T23:39:34+00:00",
-    "expires_at": "2026-07-24T00:39:34+00:00",
+    "text": "Новгородская область \nТревога по БПЛА сохраняется \nПринять меры безопасности",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-24T00:00:38+00:00",
+    "expires_at": "2026-07-24T01:00:38+00:00",
     "count": null,
     "count_approx": false
   },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Подольск\nМосковская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-23T23:42:42+00:00",
-    "expires_at": "2026-07-24T00:42:42+00:00",
+    "text": "ГО Дубна\nМосковская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-23T23:59:52+00:00",
+    "expires_at": "2026-07-24T00:59:52+00:00",
     "count": null,
     "count_approx": false
   },
@@ -97,6 +77,16 @@
     "updated_at": "2026-07-23T23:42:37+00:00",
     "expires_at": "2026-07-24T00:42:37+00:00",
     "count": null,
+    "count_approx": false
+  },
+  "ленинградск": {
+    "display_name": "Ленинградской области",
+    "type": "drone",
+    "text": "Тосненский район Ленинградской области пролёт 2 БПЛА в направлении Санкт-Петербурга.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-07-24T00:00:55+00:00",
+    "expires_at": "2026-07-24T01:00:55+00:00",
+    "count": 2,
     "count_approx": false
   }
 }
