@@ -1,14 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Донецк \nМакеевка \nХарцызск \nЗугрэс и близлежащие \nТревога по БПЛА \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-24T21:34:49+00:00",
-    "expires_at": "2026-07-24T22:34:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -51,11 +41,11 @@
   },
   "саратовск": {
     "display_name": "Саратовская область",
-    "type": "drone",
-    "text": "Саратовская область\nопасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-24T22:28:55+00:00",
-    "expires_at": "2026-07-24T23:28:55+00:00",
+    "type": "alert",
+    "text": "Ленинский район \nСаратовская область \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-24T22:34:44+00:00",
+    "expires_at": "2026-07-24T23:34:44+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,10 +62,10 @@
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Поим, Башмаково, Земетчино, Верхний и Нижний Ломов, Вадинск, Пензенская область - опасность по БПЛА от Кирсанов.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-24T21:51:21+00:00",
-    "expires_at": "2026-07-24T22:51:21+00:00",
+    "text": "Пенза\nПензенская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-24T22:39:50+00:00",
+    "expires_at": "2026-07-24T23:39:50+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,16 +86,6 @@
     "channel": "vrv_radar",
     "updated_at": "2026-07-24T22:04:03+00:00",
     "expires_at": "2026-07-24T23:04:03+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "мордов": {
-    "display_name": "Республика Мордовия",
-    "type": "drone",
-    "text": "Пензенская область\nРеспублика Мордовия\nНижегородская область\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-07-24T21:40:01+00:00",
-    "expires_at": "2026-07-24T22:40:01+00:00",
     "count": null,
     "count_approx": false
   },
@@ -159,16 +139,6 @@
     "count": null,
     "count_approx": false
   },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Ростовская область \nтревога по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-24T22:25:24+00:00",
-    "expires_at": "2026-07-24T23:25:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
@@ -206,6 +176,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-24T22:27:54+00:00",
     "expires_at": "2026-07-24T23:27:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Гуково, Новошахтинск, Ростовская область - также опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-24T22:44:23+00:00",
+    "expires_at": "2026-07-24T23:44:23+00:00",
     "count": null,
     "count_approx": false
   }
