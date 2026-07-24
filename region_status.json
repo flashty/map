@@ -1,14 +1,4 @@
 {
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "alert",
-    "text": "ЛДНР \nЗапорожская область РФ \n повторно\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-24T12:38:57+00:00",
-    "expires_at": "2026-07-24T13:38:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -16,16 +6,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-24T13:07:35+00:00",
     "expires_at": "2026-07-24T14:07:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Славянский район\nКраснодарский край\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-24T13:25:25+00:00",
-    "expires_at": "2026-07-24T14:25:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,10 +52,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Белая Березка и близлежащие тревога по БПЛА Дартс\nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-24T13:20:12+00:00",
-    "expires_at": "2026-07-24T14:20:12+00:00",
+    "text": "Белая Березка Брянская область БПЛА разведчик.\n\nГотовность к обстрелу. Особые меры предосторожности район церкви",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-24T13:38:11+00:00",
+    "expires_at": "2026-07-24T14:38:11+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +76,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-24T13:30:20+00:00",
     "expires_at": "2026-07-24T14:30:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Славянск-на-Кубани \nИльский \nАфипский и близлежащие \nКраснодарский край\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-24T13:45:30+00:00",
+    "expires_at": "2026-07-24T14:45:30+00:00",
     "count": null,
     "count_approx": false
   }
