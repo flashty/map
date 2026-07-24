@@ -39,33 +39,13 @@
     "count": null,
     "count_approx": false
   },
-  "московск": {
-    "display_name": "Московскую область",
-    "type": "drone",
-    "text": "Стык Калужской и Тульской области \nТревога по БПЛА с юга и далее на Московскую область\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-24T13:29:46+00:00",
-    "expires_at": "2026-07-24T14:29:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Херсонская область РФ повторно\n все районы от Дудчаны\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-24T13:30:20+00:00",
-    "expires_at": "2026-07-24T14:30:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Динский район\nКраснодарский край\nОпасность по БПЛА",
+    "text": "Славянский район\nКраснодарский край\nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-07-24T14:01:12+00:00",
-    "expires_at": "2026-07-24T15:01:12+00:00",
+    "updated_at": "2026-07-24T14:26:32+00:00",
+    "expires_at": "2026-07-24T15:26:32+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +56,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-24T14:08:00+00:00",
     "expires_at": "2026-07-24T15:08:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Харцызск \nЗугрэс \nШахтёрск и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-24T14:29:52+00:00",
+    "expires_at": "2026-07-24T15:29:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Таганрог, Таганрогский залив, Азов , Ростов на Дону, Батайск, южные районы Ростовская область \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-24T14:30:32+00:00",
+    "expires_at": "2026-07-24T15:30:32+00:00",
     "count": null,
     "count_approx": false
   }
