@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "марий": {
-    "display_name": "Республика Марий",
-    "type": "missile",
-    "text": "Республика Марий Эл\nРакетная опасность",
-    "channel": "vrv_radar",
-    "updated_at": "2026-07-24T02:52:19+00:00",
-    "expires_at": "2026-07-24T03:52:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -39,43 +29,13 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "missile",
-    "text": "Курская область и близлежащие \nАвиационно ракетно бомбовая опасность",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-24T02:48:26+00:00",
-    "expires_at": "2026-07-24T03:48:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "удмурт": {
-    "display_name": "Республика Удмуртия",
-    "type": "missile",
-    "text": "Республика Удмуртия\nРакетная опасность",
-    "channel": "vrv_radar",
-    "updated_at": "2026-07-24T02:50:48+00:00",
-    "expires_at": "2026-07-24T03:50:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "кировск": {
     "display_name": "Кировская область",
     "type": "missile",
-    "text": "Кировская область, Пермский край - ракетная опасность по крылатым ракетам «Фламинго».\n\n📡Локатор России - @locatorru",
+    "text": "Киров и близлежащие, Кировская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-07-24T03:45:51+00:00",
-    "expires_at": "2026-07-24T04:45:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Медынский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-24T03:01:05+00:00",
-    "expires_at": "2026-07-24T04:01:05+00:00",
+    "updated_at": "2026-07-24T03:59:21+00:00",
+    "expires_at": "2026-07-24T04:59:21+00:00",
     "count": null,
     "count_approx": false
   },
@@ -122,20 +82,20 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Краснодарский край, опасность по БпЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-24T03:24:17+00:00",
-    "expires_at": "2026-07-24T04:24:17+00:00",
+    "text": "Причерноморье Краснодарский край от Керченского полуострова опасность по БПЛА \n\nОт Анапа и далее на восток",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-24T03:46:50+00:00",
+    "expires_at": "2026-07-24T04:46:50+00:00",
     "count": null,
     "count_approx": false
   },
   "пермск": {
     "display_name": "Пермский край",
     "type": "missile",
-    "text": "Кировская область, Пермский край - ракетная опасность по крылатым ракетам «Фламинго».\n\n📡Локатор России - @locatorru",
+    "text": "Березники, Губаха, Пермь, Соликамск, Пермский край - ракетная опасность! \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-07-24T03:45:51+00:00",
-    "expires_at": "2026-07-24T04:45:51+00:00",
+    "updated_at": "2026-07-24T04:00:29+00:00",
+    "expires_at": "2026-07-24T05:00:29+00:00",
     "count": null,
     "count_approx": false
   },
@@ -146,6 +106,36 @@
     "channel": "vrv_radar",
     "updated_at": "2026-07-24T03:45:40+00:00",
     "expires_at": "2026-07-24T04:45:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Московская область от Калужской и Тульской области опасность по БПЛА действует. Соблюдаем меры безопасности",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-24T03:50:18+00:00",
+    "expires_at": "2026-07-24T04:50:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульской области",
+    "type": "drone",
+    "text": "Московская область от Калужской и Тульской области опасность по БПЛА действует. Соблюдаем меры безопасности",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-24T03:50:18+00:00",
+    "expires_at": "2026-07-24T04:50:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Белгород, район, Белгородская область - опасность по БПЛА. \n\nМного летит на город, тип БПЛА «Дартс».\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-24T04:01:11+00:00",
+    "expires_at": "2026-07-24T05:01:11+00:00",
     "count": null,
     "count_approx": false
   }
