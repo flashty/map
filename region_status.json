@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Хвастовичский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-24T11:07:49+00:00",
-    "expires_at": "2026-07-24T12:07:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -26,16 +16,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-24T11:35:08+00:00",
     "expires_at": "2026-07-24T12:35:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Щекинский район\nТульская область\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-24T11:09:44+00:00",
-    "expires_at": "2026-07-24T12:09:44+00:00",
     "count": null,
     "count_approx": false
   },
@@ -61,11 +41,11 @@
   },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "alert",
-    "text": "ЛДНР Запорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-24T12:00:11+00:00",
-    "expires_at": "2026-07-24T13:00:11+00:00",
+    "type": "missile",
+    "text": "ЛДНР Запорожская область РФ \nАвиационно ракетно бомбовая опасность",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-24T12:02:23+00:00",
+    "expires_at": "2026-07-24T13:02:23+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +56,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-07-24T11:24:03+00:00",
     "expires_at": "2026-07-24T12:24:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Рыково и близлежащие \nХерсонская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-24T12:11:36+00:00",
+    "expires_at": "2026-07-24T13:11:36+00:00",
     "count": null,
     "count_approx": false
   }
