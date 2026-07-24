@@ -1,16 +1,5 @@
 [
   {
-    "id": "vrv_radar_75487",
-    "channel": "vrv_radar",
-    "date": "2026-07-24T03:04:42+00:00",
-    "text": "Санкт-Петербург\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_83596",
     "channel": "radarrussiia",
     "date": "2026-07-24T03:04:59+00:00",
@@ -21998,5 +21987,16 @@
     "region": "Ростовская область",
     "lat": 47.7962698,
     "lon": 39.8935604
+  },
+  {
+    "id": "locatorru_74647_Инжавино",
+    "channel": "locatorru",
+    "date": "2026-07-24T21:45:59+00:00",
+    "text": "Инжавино, Тамбовская область - пролёт 2 БПЛА в сторону Кирсанов.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Инжавино",
+    "region": "Тамбовская область",
+    "lat": 52.3183696,
+    "lon": 42.4953939
   }
 ]
