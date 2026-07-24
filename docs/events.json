@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_206832_Коктебель",
-    "channel": "LPRalarm",
-    "date": "2026-07-23T16:04:14+00:00",
-    "text": "Ещё на Коктебель, Судак с севера фиксации БПЛА",
-    "type": "drone",
-    "location_name": "Коктебель",
-    "region": null,
-    "lat": 56.7289637,
-    "lon": 37.1489587
-  },
-  {
-    "id": "kupolrussia_103903_Коктебель",
-    "channel": "kupolrussia",
-    "date": "2026-07-23T16:04:18+00:00",
-    "text": "Ещё на Коктебель, Судак с севера фиксации БПЛА",
-    "type": "drone",
-    "location_name": "Коктебель",
-    "region": null,
-    "lat": 56.7289637,
-    "lon": 37.1489587
-  },
-  {
-    "id": "LPRalarm_206833",
-    "channel": "LPRalarm",
-    "date": "2026-07-23T16:05:23+00:00",
-    "text": "Керченский полуостров \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_103904",
-    "channel": "kupolrussia",
-    "date": "2026-07-23T16:05:39+00:00",
-    "text": "Керченский полуостров\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_206834",
-    "channel": "LPRalarm",
-    "date": "2026-07-23T16:07:24+00:00",
-    "text": "Судак тревога по БПЛА. Меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_103905_Судак",
-    "channel": "kupolrussia",
-    "date": "2026-07-23T16:07:39+00:00",
-    "text": "Судак \nМеры безопасности\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Судак",
-    "region": null,
-    "lat": 62.0375765,
-    "lon": 32.9920476
-  },
-  {
-    "id": "LPRalarm_206835_Луганск",
-    "channel": "LPRalarm",
-    "date": "2026-07-23T16:08:14+00:00",
-    "text": "Луганск, Счастье, Станица Луганская и близлежащие опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Луганск",
-    "region": null,
-    "lat": 53.622169,
-    "lon": 77.599037
-  },
-  {
-    "id": "LPRalarm_206835_Счастье",
-    "channel": "LPRalarm",
-    "date": "2026-07-23T16:08:14+00:00",
-    "text": "Луганск, Счастье, Станица Луганская и близлежащие опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Счастье",
-    "region": null,
-    "lat": 44.2833363,
-    "lon": 40.0108772
-  },
-  {
     "id": "LPRalarm_206836",
     "channel": "LPRalarm",
     "date": "2026-07-23T16:08:15+00:00",
@@ -21996,6 +21908,94 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_207199",
+    "channel": "LPRalarm",
+    "date": "2026-07-24T06:18:19+00:00",
+    "text": "Курская область и близлежащие \nАвиационно ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_104226",
+    "channel": "kupolrussia",
+    "date": "2026-07-24T06:18:29+00:00",
+    "text": "Курская область и близлежащие\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_75516",
+    "channel": "vrv_radar",
+    "date": "2026-07-24T06:25:55+00:00",
+    "text": "Ставропольский край\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_83618",
+    "channel": "radarrussiia",
+    "date": "2026-07-24T06:26:33+00:00",
+    "text": "Ставропольский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_104227",
+    "channel": "kupolrussia",
+    "date": "2026-07-24T06:29:08+00:00",
+    "text": "Ставропольский край\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_207200",
+    "channel": "LPRalarm",
+    "date": "2026-07-24T06:29:11+00:00",
+    "text": "Ставропольский край\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_104228",
+    "channel": "kupolrussia",
+    "date": "2026-07-24T06:29:48+00:00",
+    "text": "Костромская область \nЯрославская область \nТверская область \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Костромская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_207201",
+    "channel": "LPRalarm",
+    "date": "2026-07-24T06:29:51+00:00",
+    "text": "Костромская область \nЯрославская область \nТверская область \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Костромская область",
     "lat": null,
     "lon": null
   }
