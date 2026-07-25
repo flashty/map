@@ -2,20 +2,10 @@
   "челябинск": {
     "display_name": "Челябинская область",
     "type": "drone",
-    "text": "Челябинская область опасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-25T04:14:43+00:00",
-    "expires_at": "2026-07-25T05:14:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "свердловск": {
-    "display_name": "Свердловская область",
-    "type": "drone",
-    "text": "Свердловская область - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-07-25T03:45:14+00:00",
-    "expires_at": "2026-07-25T04:45:14+00:00",
+    "text": "Челябинская область - опасность БПЛА.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-25T04:38:24+00:00",
+    "expires_at": "2026-07-25T05:38:24+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +26,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-25T04:28:44+00:00",
     "expires_at": "2026-07-25T05:28:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Орловская область сохраняется опасность по БПЛА. Соблюдаем меры предосторожности",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-25T04:32:48+00:00",
+    "expires_at": "2026-07-25T05:32:48+00:00",
     "count": null,
     "count_approx": false
   }
