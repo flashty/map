@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_207465",
-    "channel": "LPRalarm",
-    "date": "2026-07-24T18:33:41+00:00",
-    "text": "Ялта и близлежащие \nРеспублика Крым \nВнимание по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_104477",
-    "channel": "kupolrussia",
-    "date": "2026-07-24T18:33:55+00:00",
-    "text": "Ялта и близлежащие \nРеспублика Крым \nВнимание по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_207466",
-    "channel": "LPRalarm",
-    "date": "2026-07-24T18:34:37+00:00",
-    "text": "Ялта республика Крым \nОтбой внимание по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_104478",
     "channel": "kupolrussia",
     "date": "2026-07-24T18:34:54+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Рязанская область",
     "lat": 53.9730891,
     "lon": 40.0359164
+  },
+  {
+    "id": "radarrussiia_83837_Старожиловский",
+    "channel": "radarrussiia",
+    "date": "2026-07-25T10:59:26+00:00",
+    "text": "Старожиловский район\nРязанская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Старожиловский",
+    "region": "Рязанская область",
+    "lat": 54.2655268,
+    "lon": 39.9256774
+  },
+  {
+    "id": "radarrussiia_83838_Селивановский",
+    "channel": "radarrussiia",
+    "date": "2026-07-25T11:00:01+00:00",
+    "text": "Селивановский район\nВладимирская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Селивановский",
+    "region": "Владимирская область",
+    "lat": 55.8084368,
+    "lon": 41.6616923
+  },
+  {
+    "id": "vrv_radar_75846",
+    "channel": "vrv_radar",
+    "date": "2026-07-25T11:02:07+00:00",
+    "text": "Республика Калмыкия\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Калмыкия",
+    "lat": null,
+    "lon": null
   }
 ]
