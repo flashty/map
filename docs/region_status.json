@@ -21,11 +21,11 @@
   },
   "луганск": {
     "display_name": "Луганская область",
-    "type": "alert",
-    "text": "Ирмино и близлежащие ЛНР тревога по барражирующим боеприпасам",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-25T04:28:44+00:00",
-    "expires_at": "2026-07-25T05:28:44+00:00",
+    "type": "drone",
+    "text": "Дорога Первомайск - Молодёжный - Попасная стоп движение! \nОпасность по БПЛА \nЛНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-25T04:55:04+00:00",
+    "expires_at": "2026-07-25T05:55:04+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +36,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-25T04:32:48+00:00",
     "expires_at": "2026-07-25T05:32:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Бердянск, Приморск, Кирилловка и близлежащие опасность по БПЛА \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-25T04:59:19+00:00",
+    "expires_at": "2026-07-25T05:59:19+00:00",
     "count": null,
     "count_approx": false
   }
