@@ -9,23 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Воронежская область\nот Губкин Белгородская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-25T07:53:35+00:00",
-    "expires_at": "2026-07-25T08:53:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Новоэкономическое ДНР и близлежащие \nТревога по БПЛА Хорнет",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-25T08:44:02+00:00",
-    "expires_at": "2026-07-25T09:44:02+00:00",
+    "text": "Макеевка, Харцызск ДНР и близлежащие \nОпасность по БПЛА Хорнет",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-25T08:49:41+00:00",
+    "expires_at": "2026-07-25T09:49:41+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "тюменск": {
-    "display_name": "Тюменская область",
-    "type": "drone",
-    "text": "Тюмень \nТюменская область \nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-25T07:53:06+00:00",
-    "expires_at": "2026-07-25T08:53:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -56,36 +36,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-25T08:33:07+00:00",
     "expires_at": "2026-07-25T09:33:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "харьковск": {
-    "display_name": "Харьковская область",
-    "type": "alert",
-    "text": "Повторно Запорожская область РФ, ЛДНР, Харьковская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-25T07:54:48+00:00",
-    "expires_at": "2026-07-25T08:54:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "пушкарн": {
-    "display_name": "Пушкарное область",
-    "type": "drone",
-    "text": "Пушкарное\nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-25T07:56:44+00:00",
-    "expires_at": "2026-07-25T08:56:44+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курганск": {
-    "display_name": "Курганская область",
-    "type": "drone",
-    "text": "Курганская область\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-25T08:00:40+00:00",
-    "expires_at": "2026-07-25T09:00:40+00:00",
     "count": null,
     "count_approx": false
   },
@@ -112,10 +62,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Ленинский район \nКировское \nЧауда \nФеодосия \nКерченский полуостров \nКерчь и близлежащие \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Раздольненский район \nПервомайский район \nИ близлежащие \n\n\nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-07-25T08:10:14+00:00",
-    "expires_at": "2026-07-25T09:10:14+00:00",
+    "updated_at": "2026-07-25T08:57:33+00:00",
+    "expires_at": "2026-07-25T09:57:33+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +76,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-25T08:28:10+00:00",
     "expires_at": "2026-07-25T09:28:10+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "drone",
+    "text": "Владимирская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-25T09:03:20+00:00",
+    "expires_at": "2026-07-25T10:03:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Клепиковский район\nШиловский район\nРязанская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-25T09:04:08+00:00",
+    "expires_at": "2026-07-25T10:04:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородская область",
+    "type": "drone",
+    "text": "Нижегородская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-25T09:01:40+00:00",
+    "expires_at": "2026-07-25T10:01:40+00:00",
     "count": null,
     "count_approx": false
   }
