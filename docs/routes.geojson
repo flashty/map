@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-25T11:05:12+00:00",
+        "last_updated": "2026-07-25T11:19:05+00:00",
+        "path_labels": [
+          "Погарский",
+          "Белгород"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.5165733,
+            50.4015692
+          ],
+          [
+            36.5873394,
+            50.5955595
+          ]
+        ]
+      }
+    }
+  ]
 }
