@@ -1,14 +1,4 @@
 {
-  "башкортост": {
-    "display_name": "Республика Башкортостан",
-    "type": "drone",
-    "text": "Степановка, Аургазинский район, Республика Башкортостан - пролёт 5 БПЛА в сторону Уфа. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-25T03:21:16+00:00",
-    "expires_at": "2026-07-25T04:21:16+00:00",
-    "count": 5,
-    "count_approx": false
-  },
   "челябинск": {
     "display_name": "Челябинская область",
     "type": "drone",
@@ -36,6 +26,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-07-25T04:06:40+00:00",
     "expires_at": "2026-07-25T05:06:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "alert",
+    "text": "Ирмино и близлежащие ЛНР тревога по барражирующим боеприпасам",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-25T04:28:44+00:00",
+    "expires_at": "2026-07-25T05:28:44+00:00",
     "count": null,
     "count_approx": false
   }
