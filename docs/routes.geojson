@@ -60,31 +60,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-07-25T11:05:12+00:00",
-        "last_updated": "2026-07-25T11:19:05+00:00",
-        "path_labels": [
-          "Погарский",
-          "Белгород"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.5165733,
-            50.4015692
-          ],
-          [
-            36.5873394,
-            50.5955595
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-07-25T11:05:46+00:00",
         "last_updated": "2026-07-25T11:44:34+00:00",
         "path_labels": [
@@ -102,6 +77,31 @@
           [
             33.2053408,
             52.5207056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-25T11:54:16+00:00",
+        "last_updated": "2026-07-25T12:22:17+00:00",
+        "path_labels": [
+          "Севастополь",
+          "Белые Берега (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.186371,
+            53.456383
+          ],
+          [
+            34.6634137,
+            53.2076699
           ]
         ]
       }
