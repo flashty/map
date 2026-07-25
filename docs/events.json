@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_207308",
-    "channel": "LPRalarm",
-    "date": "2026-07-24T11:00:00+00:00",
-    "text": "Макеевка, Ханжонкова,  Харцызск, Зугрэс ДНР и близлежащие \nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_104333",
-    "channel": "kupolrussia",
-    "date": "2026-07-24T11:00:23+00:00",
-    "text": "Группа БПЛА от Михайловки в направлении г. Мелитополь\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_104334",
-    "channel": "kupolrussia",
-    "date": "2026-07-24T11:00:30+00:00",
-    "text": "Макеевка, Ханжонкова,  Харцызск, Зугрэс ДНР и близлежащие \nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_83640",
     "channel": "radarrussiia",
     "date": "2026-07-24T11:04:25+00:00",
@@ -21996,6 +21963,39 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_74764_Аургазинский",
+    "channel": "locatorru",
+    "date": "2026-07-25T03:21:16+00:00",
+    "text": "Степановка, Аургазинский район, Республика Башкортостан - пролёт 5 БПЛА в сторону Уфа. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Аургазинский",
+    "region": "Республика Башкортостан",
+    "lat": 54.0244945,
+    "lon": 55.872677
+  },
+  {
+    "id": "locatorru_74764_Степановка",
+    "channel": "locatorru",
+    "date": "2026-07-25T03:21:16+00:00",
+    "text": "Степановка, Аургазинский район, Республика Башкортостан - пролёт 5 БПЛА в сторону Уфа. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Степановка",
+    "region": "Республика Башкортостан",
+    "lat": 54.001038,
+    "lon": 55.682865
+  },
+  {
+    "id": "locatorru_74765",
+    "channel": "locatorru",
+    "date": "2026-07-25T03:21:52+00:00",
+    "text": "Волгоградская область, Республика Калмыкия - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Волгоградская область",
     "lat": null,
     "lon": null
   }
