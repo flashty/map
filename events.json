@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_104563_Белгород",
-    "channel": "kupolrussia",
-    "date": "2026-07-24T19:47:19+00:00",
-    "text": "Белгород\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Белгород",
-    "region": null,
-    "lat": 50.5955595,
-    "lon": 36.5873394
-  },
-  {
-    "id": "LPRalarm_207569_Краснодара",
-    "channel": "LPRalarm",
-    "date": "2026-07-24T19:47:28+00:00",
-    "text": "Новотиторовская \nФиксация в направлении Краснодара",
-    "type": "unknown",
-    "location_name": "Краснодара",
-    "region": null,
-    "lat": 45.7682027,
-    "lon": 39.0258102
-  },
-  {
-    "id": "kupolrussia_104564_Краснодара",
-    "channel": "kupolrussia",
-    "date": "2026-07-24T19:47:30+00:00",
-    "text": "Новотиторовская \nФиксация в направлении Краснодара",
-    "type": "unknown",
-    "location_name": "Краснодара",
-    "region": null,
-    "lat": 45.7682027,
-    "lon": 39.0258102
-  },
-  {
-    "id": "vrv_radar_75622_Каменский",
-    "channel": "vrv_radar",
-    "date": "2026-07-24T19:47:42+00:00",
-    "text": "Каменский район\nВоронежская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Каменский",
-    "region": "Воронежская область",
-    "lat": 50.9705693,
-    "lon": 41.1152706
-  },
-  {
     "id": "LPRalarm_207570",
     "channel": "LPRalarm",
     "date": "2026-07-24T19:47:59+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_208057",
+    "channel": "LPRalarm",
+    "date": "2026-07-25T16:08:23+00:00",
+    "text": "Туапсе и близлежащие \nОпасность по БПЛА сохраняется \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_208058",
+    "channel": "LPRalarm",
+    "date": "2026-07-25T16:08:38+00:00",
+    "text": "Причерноморье \nКраснодарский край \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_104970",
+    "channel": "kupolrussia",
+    "date": "2026-07-25T16:09:17+00:00",
+    "text": "Причерноморье \nКраснодарский край \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_104971",
+    "channel": "kupolrussia",
+    "date": "2026-07-25T16:09:23+00:00",
+    "text": "Туапсе и близлежащие \nОпасность по БПЛА сохраняется \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
