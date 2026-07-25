@@ -1,14 +1,4 @@
 {
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Север\nРеспублика Крым \nОпасность по БПЛА \nПовторно",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-24T23:30:45+00:00",
-    "expires_at": "2026-07-25T00:30:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "самарск": {
     "display_name": "Самарская область",
     "type": "drone",
@@ -16,16 +6,6 @@
     "channel": "locatorru",
     "updated_at": "2026-07-24T23:48:30+00:00",
     "expires_at": "2026-07-25T00:48:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калужская область \nСмоленская область \nТульская область \nОпасность по БПЛА от Брянской области\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-24T23:29:43+00:00",
-    "expires_at": "2026-07-25T00:29:43+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,43 +19,23 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Запорожская область РФ\nТревога по БПЛА сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-24T23:16:28+00:00",
-    "expires_at": "2026-07-25T00:16:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "missile",
-    "text": "Ростовская область ракетная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-25T00:05:26+00:00",
-    "expires_at": "2026-07-25T01:05:26+00:00",
+    "display_name": "Ростовской области",
+    "type": "drone",
+    "text": "Очередная волна БПЛА идёт от ЛНР в сторону Ростовской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-25T00:22:54+00:00",
+    "expires_at": "2026-07-25T01:22:54+00:00",
     "count": null,
     "count_approx": false
   },
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Тульская область \nРязанская область \nОпасность по БПЛА \nПовторно",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-24T23:34:00+00:00",
-    "expires_at": "2026-07-25T00:34:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянская область - опасность по БПЛА, повторно! \n\n📡Локатор России - @locatorru",
+    "text": "Рязанская область - опасность по БПЛА ещё действует. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-07-24T23:30:20+00:00",
-    "expires_at": "2026-07-25T00:30:20+00:00",
+    "updated_at": "2026-07-25T00:21:26+00:00",
+    "expires_at": "2026-07-25T01:21:26+00:00",
     "count": null,
     "count_approx": false
   },
@@ -90,13 +50,13 @@
     "count_approx": false
   },
   "нижегородск": {
-    "display_name": "Нижегородская область",
+    "display_name": "Нижегородской области",
     "type": "drone",
-    "text": "Краснооктябрьский район\nНижегородская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-25T00:08:24+00:00",
-    "expires_at": "2026-07-25T01:08:24+00:00",
-    "count": null,
+    "text": "От Сергач, Нижегородской области прошло от 12 БПЛА в сторону Чувашской Республики. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-25T00:19:14+00:00",
+    "expires_at": "2026-07-25T01:19:14+00:00",
+    "count": 12,
     "count_approx": false
   },
   "татарст": {
@@ -106,26 +66,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-07-25T00:06:17+00:00",
     "expires_at": "2026-07-25T01:06:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Приазовье Краснодарский край \nРостовская область \nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-24T23:20:12+00:00",
-    "expires_at": "2026-07-25T00:20:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Херсонская область РФ \nТревога по БПЛА сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-24T23:24:12+00:00",
-    "expires_at": "2026-07-25T00:24:12+00:00",
     "count": null,
     "count_approx": false
   },
@@ -172,10 +112,10 @@
   "чуваш": {
     "display_name": "Республика Чувашия",
     "type": "drone",
-    "text": "Республика Чувашия \nАстраханская область\nтревога по БПЛА",
+    "text": "Республика Чувашия \nТревога по БПЛА.",
     "channel": "LPRalarm",
-    "updated_at": "2026-07-24T23:57:16+00:00",
-    "expires_at": "2026-07-25T00:57:16+00:00",
+    "updated_at": "2026-07-25T00:25:57+00:00",
+    "expires_at": "2026-07-25T01:25:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -212,10 +152,10 @@
   "ярославск": {
     "display_name": "Ярославская область",
     "type": "drone",
-    "text": "Ярославская область \nТверская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-25T00:00:50+00:00",
-    "expires_at": "2026-07-25T01:00:50+00:00",
+    "text": "Ярославская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-25T00:21:05+00:00",
+    "expires_at": "2026-07-25T01:21:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -230,12 +170,12 @@
     "count_approx": false
   },
   "марий": {
-    "display_name": "Республики Марий",
+    "display_name": "Республика Марий",
     "type": "drone",
-    "text": "🚨Фиксируем 13 БПЛА в направлении Чувашской Республики / Республики Марий Эл через Нижегородскую область.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-07-24T23:51:00+00:00",
-    "expires_at": "2026-07-25T00:51:00+00:00",
+    "text": "Республика Марий Эл - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-25T00:19:25+00:00",
+    "expires_at": "2026-07-25T01:19:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -286,6 +226,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-24T23:59:48+00:00",
     "expires_at": "2026-07-25T00:59:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "drone",
+    "text": "Липецкая область\nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-25T00:18:34+00:00",
+    "expires_at": "2026-07-25T01:18:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "группа": {
+    "display_name": "Республики группа",
+    "type": "drone",
+    "text": "На подлете к Чебоксарам, Чувашской Республики группа БПЛА.\n\nОтойдите от окон!\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-07-25T00:29:28+00:00",
+    "expires_at": "2026-07-25T01:29:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Луганск\nЛНР\nТревога по БПЛА сохраняется",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-25T00:30:29+00:00",
+    "expires_at": "2026-07-25T01:30:29+00:00",
     "count": null,
     "count_approx": false
   }
