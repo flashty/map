@@ -2,10 +2,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Север\nСеверо-Запад \nРеспублика Крым \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-25T14:02:44+00:00",
-    "expires_at": "2026-07-25T15:02:44+00:00",
+    "text": "Север\nРеспублика Крым \nОпасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-25T14:41:09+00:00",
+    "expires_at": "2026-07-25T15:41:09+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +46,26 @@
     "channel": "locatorru",
     "updated_at": "2026-07-25T14:09:20+00:00",
     "expires_at": "2026-07-25T15:09:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Шахтёрск ДНР в направлении Торез и близлежащие \nТревога по БПЛА Хорнет",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-25T14:44:12+00:00",
+    "expires_at": "2026-07-25T15:44:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Селечня, Суземский район фиксации БПЛА\nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-25T14:45:13+00:00",
+    "expires_at": "2026-07-25T15:45:13+00:00",
     "count": null,
     "count_approx": false
   }
