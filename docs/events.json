@@ -1,82 +1,5 @@
 [
   {
-    "id": "vrv_radar_75571_Щекинский",
-    "channel": "vrv_radar",
-    "date": "2026-07-24T11:08:18+00:00",
-    "text": "Щекинский район\nТульская область\nРабота ПВО по БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Щекинский",
-    "region": "Тульская область",
-    "lat": 53.8906918,
-    "lon": 37.3865251
-  },
-  {
-    "id": "LPRalarm_207312",
-    "channel": "LPRalarm",
-    "date": "2026-07-24T11:09:08+00:00",
-    "text": "Горловка ДНР запад БПЛА на восток, ю-в",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_104336",
-    "channel": "kupolrussia",
-    "date": "2026-07-24T11:09:15+00:00",
-    "text": "Горловка ДНР запад БПЛА на восток, ю-в",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83642_Щекинский",
-    "channel": "radarrussiia",
-    "date": "2026-07-24T11:09:29+00:00",
-    "text": "Щекинский район\nТульская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Щекинский",
-    "region": "Тульская область",
-    "lat": 53.8906918,
-    "lon": 37.3865251
-  },
-  {
-    "id": "radarrussiia_83643_Щекинский",
-    "channel": "radarrussiia",
-    "date": "2026-07-24T11:09:44+00:00",
-    "text": "Щекинский район\nТульская область\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Щекинский",
-    "region": "Тульская область",
-    "lat": 53.8906918,
-    "lon": 37.3865251
-  },
-  {
-    "id": "vrv_radar_75572",
-    "channel": "vrv_radar",
-    "date": "2026-07-24T11:19:09+00:00",
-    "text": "Ставропольский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_207313",
-    "channel": "LPRalarm",
-    "date": "2026-07-24T11:19:48+00:00",
-    "text": "Опытное Карловка, Донецк ДНР и близлежащие \nВнимание по БПЛА и возможным ФПВ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_104337",
     "channel": "kupolrussia",
     "date": "2026-07-24T11:20:08+00:00",
@@ -21996,6 +21919,83 @@
     "type": "missile",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_74770",
+    "channel": "locatorru",
+    "date": "2026-07-25T04:03:18+00:00",
+    "text": "Шатура и близлежащие, Московская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_83803",
+    "channel": "radarrussiia",
+    "date": "2026-07-25T04:06:40+00:00",
+    "text": "Шатура и близлежащие, Московская область - опасность по БПЛА.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_75798",
+    "channel": "vrv_radar",
+    "date": "2026-07-25T04:06:48+00:00",
+    "text": "❗️В течение прошедшей ночи враг применил не менее 6-8 крылатых ракет «Фламинго», все сбиты средствами ПВО и ВКС РФ. \n\n4 из них сбито над Ростовской областью, по остальным регионам информация уточняется.\n\n#СВО",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовской область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_83804",
+    "channel": "radarrussiia",
+    "date": "2026-07-25T04:08:14+00:00",
+    "text": "В течение прошедшей ночи враг применил не менее 6-8 крылатых ракет «Фламинго», все сбиты средствами ПВО и ВКС РФ. \n\n4 из них сбито над Ростовской областью, по остальным регионам информация уточняется.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовской область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_207793",
+    "channel": "LPRalarm",
+    "date": "2026-07-25T04:13:41+00:00",
+    "text": "Дубовое Таврово Бгд \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_104729",
+    "channel": "kupolrussia",
+    "date": "2026-07-25T04:14:39+00:00",
+    "text": "Челябинская область опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Челябинская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_207794",
+    "channel": "LPRalarm",
+    "date": "2026-07-25T04:14:43+00:00",
+    "text": "Челябинская область опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Челябинская область",
     "lat": null,
     "lon": null
   }
