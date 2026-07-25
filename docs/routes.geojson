@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-25T17:20:17+00:00",
+        "last_updated": "2026-07-25T17:42:21+00:00",
+        "path_labels": [
+          "Козельский (Калужская область)",
+          "Бабынинский (Калужская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.8308211,
+            54.0330263
+          ],
+          [
+            35.7914785,
+            54.4017825
+          ]
+        ]
+      }
+    }
+  ]
 }
