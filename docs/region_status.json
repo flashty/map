@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Спасский район\nРязанская область \nФиксация от 4 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-25T12:11:46+00:00",
-    "expires_at": "2026-07-25T13:11:46+00:00",
-    "count": 4,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -42,20 +32,10 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Калужская область \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-07-25T11:53:13+00:00",
-    "expires_at": "2026-07-25T12:53:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "разумн": {
-    "display_name": "Разумное область",
-    "type": "drone",
-    "text": "Разумное\nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-25T11:39:34+00:00",
-    "expires_at": "2026-07-25T12:39:34+00:00",
+    "text": "Калужская область \nМосковская область \nТульская область \nРязанская область \nОпасность по БПЛА сохраняется \nМеры безопасности",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-25T12:33:08+00:00",
+    "expires_at": "2026-07-25T13:33:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -82,20 +62,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-25T12:30:43+00:00",
-    "expires_at": "2026-07-25T13:30:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "missile",
-    "text": "Тульская область - повода для ракетной опасности от службы пока не видим. \n\nОпасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-25T12:30:35+00:00",
-    "expires_at": "2026-07-25T13:30:35+00:00",
+    "text": "Темрюкский район\nКрымский район\nАбинский район\nСеверский район\nАнапа\nНовороссийск\nГеленджик\nТуапсе\nГорячий Ключ\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-25T12:41:50+00:00",
+    "expires_at": "2026-07-25T13:41:50+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +96,66 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-25T12:30:46+00:00",
     "expires_at": "2026-07-25T13:30:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "alert",
+    "text": "Орловская область\nОпасность по МВШ",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-25T12:45:50+00:00",
+    "expires_at": "2026-07-25T13:45:50+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Калужская область \nМосковская область \nТульская область \nРязанская область \nОпасность по БПЛА сохраняется \nМеры безопасности",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-25T12:33:08+00:00",
+    "expires_at": "2026-07-25T13:33:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "missile",
+    "text": "Московская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-25T12:38:40+00:00",
+    "expires_at": "2026-07-25T13:38:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "alert",
+    "text": "Липецкая область\nОпасность по МВШ",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-25T12:45:58+00:00",
+    "expires_at": "2026-07-25T13:45:58+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-25T12:38:28+00:00",
+    "expires_at": "2026-07-25T13:38:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Восток \nМелитополь \nОпасность по БПЛА Хорнет \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-25T12:45:15+00:00",
+    "expires_at": "2026-07-25T13:45:15+00:00",
     "count": null,
     "count_approx": false
   }
