@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-25T05:36:12+00:00",
+        "last_updated": "2026-07-25T05:58:06+00:00",
+        "path_labels": [
+          "Яковлевский (Белгородская область)",
+          "Грайворон (Белгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.2290154,
+            50.7321022
+          ],
+          [
+            35.6712018,
+            50.4837728
+          ]
+        ]
+      }
+    }
+  ]
 }
