@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-26T17:06:12+00:00",
+        "last_updated": "2026-07-26T17:42:10+00:00",
+        "path_labels": [
+          "Ивановка",
+          "Ровеньский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.0339075,
+            51.9508498
+          ],
+          [
+            35.1579787,
+            52.3649058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-26T17:25:09+00:00",
+        "last_updated": "2026-07-26T17:42:10+00:00",
+        "path_labels": [
+          "Ровеньки (Белгородская область)",
+          "Вейделевский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.892006,
+            49.91473
+          ],
+          [
+            38.5862881,
+            50.1834343
+          ]
+        ]
+      }
+    }
+  ]
 }
