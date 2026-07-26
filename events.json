@@ -1,126 +1,5 @@
 [
   {
-    "id": "LPRalarm_207879",
-    "channel": "LPRalarm",
-    "date": "2026-07-25T08:05:17+00:00",
-    "text": "Брянская область \nУаб",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_104800",
-    "channel": "kupolrussia",
-    "date": "2026-07-25T08:05:25+00:00",
-    "text": "Брянская область \nУаб",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_104801",
-    "channel": "kupolrussia",
-    "date": "2026-07-25T08:06:29+00:00",
-    "text": "Московская область \nОпасность по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_207880",
-    "channel": "LPRalarm",
-    "date": "2026-07-25T08:06:33+00:00",
-    "text": "Московская область \nОпасность по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_207881_Погарский",
-    "channel": "LPRalarm",
-    "date": "2026-07-25T08:07:08+00:00",
-    "text": "Погарский район \nРакетная опасность \nБрянская область",
-    "type": "missile",
-    "location_name": "Погарский",
-    "region": "Брянская область",
-    "lat": 52.5207056,
-    "lon": 33.2053408
-  },
-  {
-    "id": "kupolrussia_104802_Погарский",
-    "channel": "kupolrussia",
-    "date": "2026-07-25T08:07:25+00:00",
-    "text": "Погарский район \nБрянская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": "Погарский",
-    "region": "Брянская область",
-    "lat": 52.5207056,
-    "lon": 33.2053408
-  },
-  {
-    "id": "LPRalarm_207882",
-    "channel": "LPRalarm",
-    "date": "2026-07-25T08:10:04+00:00",
-    "text": "Ленинский район \nКировское \nЧауда \nФеодосия \nКерченский полуостров \nКерчь и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_104803",
-    "channel": "kupolrussia",
-    "date": "2026-07-25T08:10:14+00:00",
-    "text": "Ленинский район \nКировское \nЧауда \nФеодосия \nКерченский полуостров \nКерчь и близлежащие \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_207883",
-    "channel": "LPRalarm",
-    "date": "2026-07-25T08:10:22+00:00",
-    "text": "Готовность к возможным запускам с самолётов от Краматорска",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_104804",
-    "channel": "kupolrussia",
-    "date": "2026-07-25T08:10:27+00:00",
-    "text": "Готовность к возможным запускам с самолётов от Краматорска",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_207884_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-07-25T08:10:31+00:00",
-    "text": "Белгород, Белгородский район тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
     "id": "LPRalarm_207884_Белгород",
     "channel": "LPRalarm",
     "date": "2026-07-25T08:10:31+00:00",
@@ -21998,5 +21877,126 @@
     "region": "Саратовская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_75979",
+    "channel": "vrv_radar",
+    "date": "2026-07-26T21:03:17+00:00",
+    "text": "Орловская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_105387",
+    "channel": "kupolrussia",
+    "date": "2026-07-26T21:04:41+00:00",
+    "text": "От Алушты до Симферополя по дороге\nтревога по БПЛА \n\nВодители, будьте будьте бдительными!\n\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_208568",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T21:04:42+00:00",
+    "text": "От Алушты до Симферополя по дороге\nтревога по БПЛА \n\nВодители, будьте будьте бдительными!\n\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_105388",
+    "channel": "kupolrussia",
+    "date": "2026-07-26T21:07:38+00:00",
+    "text": "Мелитополь\nКирилловка\nтревога по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_208569",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T21:07:39+00:00",
+    "text": "Мелитополь\nКирилловка\nтревога по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_208570",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T21:09:07+00:00",
+    "text": "Луганск\nЛНР\nопасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_105389",
+    "channel": "kupolrussia",
+    "date": "2026-07-26T21:09:09+00:00",
+    "text": "Луганск\nЛНР\nопасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_105390",
+    "channel": "kupolrussia",
+    "date": "2026-07-26T21:12:49+00:00",
+    "text": "Ульяновская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_208571",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T21:12:55+00:00",
+    "text": "Ульяновская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_75980_Дмитровский",
+    "channel": "vrv_radar",
+    "date": "2026-07-26T21:14:48+00:00",
+    "text": "Дмитровский район \nОрловская область \nФиксация от 2 БПЛА",
+    "type": "drone",
+    "location_name": "Дмитровский",
+    "region": "Орловская область",
+    "lat": 52.6670934,
+    "lon": 35.5664814
+  },
+  {
+    "id": "vrv_radar_75981_Калининский",
+    "channel": "vrv_radar",
+    "date": "2026-07-26T21:15:39+00:00",
+    "text": "Калининский район\nСаратовская область \nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Калининский",
+    "region": "Саратовская область",
+    "lat": 51.443285,
+    "lon": 44.2509472
   }
 ]
