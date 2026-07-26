@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_104688",
-    "channel": "kupolrussia",
-    "date": "2026-07-24T23:19:01+00:00",
-    "text": "Таганрог \nТаганрогский залив и близлежащие \nОпасность по БПЛА \nРостовская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83730",
-    "channel": "radarrussiia",
-    "date": "2026-07-24T23:19:10+00:00",
-    "text": "Таганрог \nТаганрогский залив и близлежащие \nОпасность по БПЛА \nРостовская область\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_75701",
-    "channel": "vrv_radar",
-    "date": "2026-07-24T23:19:52+00:00",
-    "text": "Ульяновская область \nВнимание по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83731",
-    "channel": "radarrussiia",
-    "date": "2026-07-24T23:20:06+00:00",
-    "text": "Ульяновская область \nВнимание по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_207748",
-    "channel": "LPRalarm",
-    "date": "2026-07-24T23:20:07+00:00",
-    "text": "Приазовье Краснодарский край \nРостовская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_104689",
     "channel": "kupolrussia",
     "date": "2026-07-24T23:20:12+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_208321_Запад",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T10:40:07+00:00",
+    "text": "Запад, северо-запад Крыма опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Запад",
+    "region": null,
+    "lat": 57.8723,
+    "lon": 41.669
+  },
+  {
+    "id": "kupolrussia_105168_Запад",
+    "channel": "kupolrussia",
+    "date": "2026-07-26T10:40:16+00:00",
+    "text": "Запад, северо-запад Крыма\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Запад",
+    "region": null,
+    "lat": 57.8723,
+    "lon": 41.669
+  },
+  {
+    "id": "kupolrussia_105168_Крыма",
+    "channel": "kupolrussia",
+    "date": "2026-07-26T10:40:16+00:00",
+    "text": "Запад, северо-запад Крыма\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Крыма",
+    "region": null,
+    "lat": 54.9683122,
+    "lon": 48.3030779
+  },
+  {
+    "id": "locatorru_74865",
+    "channel": "locatorru",
+    "date": "2026-07-26T10:40:43+00:00",
+    "text": "Сбор остановился, уже все устали. 100₽ — ради наших воинов, ради тех, кто стоит за нас. Пусть каждый третий из наших близких откликнется и внесёт 100 рублей, и тогда наша цель будет достигнута, а сбор завершён! Общая аудитория наших близких и родных составляет 359200 тысяч. (Telegram, MAX). \n\nПринять участие в сборе можно через сервис Т-Банк(имеется оплата по СБП):\nhttps://pay.cloudtips.ru/p/f173a8cf",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_208322",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T10:45:37+00:00",
+    "text": "Брянская область, Западные районы и далее в направлении Калужской, Смоленской области \n\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
