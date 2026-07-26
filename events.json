@@ -1,82 +1,5 @@
 [
   {
-    "id": "locatorru_74672",
-    "channel": "locatorru",
-    "date": "2026-07-24T22:54:37+00:00",
-    "text": "Ещё волна БПЛА от ЛНР идёт на Ростовскую область.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовскую область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_75693_Екатериновский",
-    "channel": "vrv_radar",
-    "date": "2026-07-24T22:55:56+00:00",
-    "text": "Екатериновский район\nСаратовская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Екатериновский",
-    "region": "Саратовская область",
-    "lat": 51.6701815,
-    "lon": 44.3482314
-  },
-  {
-    "id": "radarrussiia_83723_Екатериновский",
-    "channel": "radarrussiia",
-    "date": "2026-07-24T22:56:13+00:00",
-    "text": "Екатериновский район\nСаратовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Екатериновский",
-    "region": "Саратовская область",
-    "lat": 51.6701815,
-    "lon": 44.3482314
-  },
-  {
-    "id": "locatorru_74673_Трубчевский",
-    "channel": "locatorru",
-    "date": "2026-07-24T22:57:11+00:00",
-    "text": "Трубчевский район, Брянская область - опасность по барражирующим боеприпасам. От 4 RAM-2X через Трубчевск.\n\n📡Локатор России - @locatorru",
-    "type": "alert",
-    "location_name": "Трубчевский",
-    "region": "Брянская область",
-    "lat": 52.5867776,
-    "lon": 33.7892267
-  },
-  {
-    "id": "locatorru_74674",
-    "channel": "locatorru",
-    "date": "2026-07-24T23:00:23+00:00",
-    "text": "Воронежская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_74675",
-    "channel": "locatorru",
-    "date": "2026-07-24T23:00:28+00:00",
-    "text": "Тамбовская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_75694",
-    "channel": "vrv_radar",
-    "date": "2026-07-24T23:00:31+00:00",
-    "text": "Воронежская область \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_74676",
     "channel": "locatorru",
     "date": "2026-07-24T23:00:33+00:00",
@@ -21998,5 +21921,82 @@
     "region": "Брянская область",
     "lat": 52.5867776,
     "lon": 33.7892267
+  },
+  {
+    "id": "LPRalarm_208293",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T08:54:34+00:00",
+    "text": "Старобешево, Еленовка, Донецк ДНР и близлежащие \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_208294_Глушковский",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T08:54:40+00:00",
+    "text": "Внимание! Отбой ракетной опасности! Глушковский район!",
+    "type": "all_clear",
+    "location_name": "Глушковский",
+    "region": null,
+    "lat": 51.3286372,
+    "lon": 34.5075078
+  },
+  {
+    "id": "kupolrussia_105145",
+    "channel": "kupolrussia",
+    "date": "2026-07-26T08:54:45+00:00",
+    "text": "Старобешево, Еленовка, Донецк ДНР и близлежащие \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_105146_Глушковский",
+    "channel": "kupolrussia",
+    "date": "2026-07-26T08:54:59+00:00",
+    "text": "Глушковский район \nКурская область",
+    "type": "unknown",
+    "location_name": "Глушковский",
+    "region": "Курская область",
+    "lat": 51.3286372,
+    "lon": 34.5075078
+  },
+  {
+    "id": "LPRalarm_208295",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T08:58:23+00:00",
+    "text": "ЛДНР \nПриготовиться к пускам Уаб самолётами противника",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_105147",
+    "channel": "kupolrussia",
+    "date": "2026-07-26T08:59:39+00:00",
+    "text": "ЛДНР \nПриготовиться к пускам Уаб самолётами противника",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_83897",
+    "channel": "radarrussiia",
+    "date": "2026-07-26T09:00:06+00:00",
+    "text": "Фиксаций над нашим воздушным пространством не наблюдаем\n\nВ случае возникновения угрозы незамедлительно сообщим!\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
