@@ -1,60 +1,5 @@
 [
   {
-    "id": "radarrussiia_83840",
-    "channel": "radarrussiia",
-    "date": "2026-07-25T11:24:57+00:00",
-    "text": "Орловская область \nКурская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83841",
-    "channel": "radarrussiia",
-    "date": "2026-07-25T11:25:45+00:00",
-    "text": "Калужская область \nСмоленская область \nТревога по БПЛА от Брянской области\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_207972",
-    "channel": "LPRalarm",
-    "date": "2026-07-25T11:26:16+00:00",
-    "text": "Межводное \nУютное\nЕвпатория \nСаки и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_104892",
-    "channel": "kupolrussia",
-    "date": "2026-07-25T11:26:32+00:00",
-    "text": "Межводное \nУютное\nЕвпатория \nСаки и близлежащие \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_207973",
-    "channel": "LPRalarm",
-    "date": "2026-07-25T11:27:22+00:00",
-    "text": "Целинное \nКолоски и близлежащие \n\nРеспублика Крым \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_74786",
     "channel": "locatorru",
     "date": "2026-07-25T11:27:39+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Ивановская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_208591",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T23:32:29+00:00",
+    "text": "Севастополь \nОт Бахчисарайского р-на по Тавриде фиксации БПЛА в направлении",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_74998_Сампурский",
+    "channel": "locatorru",
+    "date": "2026-07-26T23:33:24+00:00",
+    "text": "Ивановка, ​Сампурский район, Тамбовская область - пролёт БПЛА в сторону Знаменка, возможно на Котовск.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Сампурский",
+    "region": "Тамбовская область",
+    "lat": 52.2485567,
+    "lon": 41.6544668
+  },
+  {
+    "id": "locatorru_74998_Ивановка",
+    "channel": "locatorru",
+    "date": "2026-07-26T23:33:24+00:00",
+    "text": "Ивановка, ​Сампурский район, Тамбовская область - пролёт БПЛА в сторону Знаменка, возможно на Котовск.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Ивановка",
+    "region": "Тамбовская область",
+    "lat": 53.6971809,
+    "lon": 42.0696591
+  },
+  {
+    "id": "LPRalarm_208592",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T23:34:40+00:00",
+    "text": "Винницкое, Кольчугино \nРеспублика Крым \nФиксация БПЛА с севера",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_74999_Борисоглебск",
+    "channel": "locatorru",
+    "date": "2026-07-26T23:34:46+00:00",
+    "text": "Борисоглебск, Воронежская область - пролетают низко, меры безопасности!\n\n📡Локатор России - @locatorru",
+    "type": "alert",
+    "location_name": "Борисоглебск",
+    "region": "Воронежская область",
+    "lat": 51.368015,
+    "lon": 42.075169
   }
 ]
