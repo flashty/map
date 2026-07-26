@@ -1,38 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_12478",
-    "channel": "radar_plus_bpla",
-    "date": "2026-07-24T23:22:42+00:00",
-    "text": "Пенза - сбитие БПЛА. Ещё много фиксаций в вашу сторону.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_74684_Таганрог",
-    "channel": "locatorru",
-    "date": "2026-07-24T23:23:54+00:00",
-    "text": "Таганрогский залив, Таганрог, Чалтырь, Ростов-на-Дону, Койсуг, Азов и близлежащие, Ростовская область - продолжается активная работа по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Таганрог",
-    "region": "Ростовская область",
-    "lat": 47.215495,
-    "lon": 38.928362
-  },
-  {
-    "id": "locatorru_74684_Чалтырь",
-    "channel": "locatorru",
-    "date": "2026-07-24T23:23:54+00:00",
-    "text": "Таганрогский залив, Таганрог, Чалтырь, Ростов-на-Дону, Койсуг, Азов и близлежащие, Ростовская область - продолжается активная работа по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Чалтырь",
-    "region": "Ростовская область",
-    "lat": 47.283455,
-    "lon": 39.501518
-  },
-  {
     "id": "locatorru_74684_Дону",
     "channel": "locatorru",
     "date": "2026-07-24T23:23:54+00:00",
@@ -21996,6 +21963,39 @@
     "type": "missile",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_105173",
+    "channel": "kupolrussia",
+    "date": "2026-07-26T11:16:11+00:00",
+    "text": "Успеновка \nДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_208327",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T11:18:07+00:00",
+    "text": "ЛДНР Запорожская область РФ \nАвиационно ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_105174",
+    "channel": "kupolrussia",
+    "date": "2026-07-26T11:18:24+00:00",
+    "text": "ЛДНР Запорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
