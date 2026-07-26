@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_207750",
-    "channel": "LPRalarm",
-    "date": "2026-07-24T23:23:57+00:00",
-    "text": "Геническ и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_207751",
-    "channel": "LPRalarm",
-    "date": "2026-07-24T23:24:07+00:00",
-    "text": "Херсонская область РФ \nТревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_104690",
-    "channel": "kupolrussia",
-    "date": "2026-07-24T23:24:12+00:00",
-    "text": "Херсонская область РФ \nТревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_75704",
     "channel": "vrv_radar",
     "date": "2026-07-24T23:24:20+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Брянская область",
     "lat": 52.7501468,
     "lon": 32.8823703
+  },
+  {
+    "id": "LPRalarm_208329",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T11:52:40+00:00",
+    "text": "Белая Берёзка обстрел",
+    "type": "shelling",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_208330",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T11:58:40+00:00",
+    "text": "Евпатория \nУютное и близлежащие \nВнимание по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_105176",
+    "channel": "kupolrussia",
+    "date": "2026-07-26T11:58:47+00:00",
+    "text": "Евпатория \nУютное и близлежащие \nВнимание по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
   }
 ]
