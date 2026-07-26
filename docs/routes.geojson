@@ -105,6 +105,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-07-26T19:42:25+00:00",
+        "last_updated": "2026-07-26T20:01:49+00:00",
+        "path_labels": [
+          "Тарасовский",
+          "Ольховый Рог (Ростовская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.3554416,
+            48.727145
+          ],
+          [
+            40.6819191,
+            49.0072951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-07-26T19:44:14+00:00",
         "last_updated": "2026-07-26T19:44:14+00:00",
         "path_labels": [
