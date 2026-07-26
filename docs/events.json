@@ -1,60 +1,5 @@
 [
   {
-    "id": "radarrussiia_83702_Чертковский",
-    "channel": "radarrussiia",
-    "date": "2026-07-24T21:40:03+00:00",
-    "text": "Чертковский район\nРостовская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Чертковский",
-    "region": "Ростовская область",
-    "lat": 49.4049606,
-    "lon": 40.6115668
-  },
-  {
-    "id": "radarrussiia_83703_Тамбовский",
-    "channel": "radarrussiia",
-    "date": "2026-07-24T21:40:27+00:00",
-    "text": "Тамбовский район \nТамбовская область \nМеры безопасности \nПодлетное время 00:50~\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "alert",
-    "location_name": "Тамбовский",
-    "region": "Тамбовская область",
-    "lat": 52.1628557,
-    "lon": 41.8324077
-  },
-  {
-    "id": "radarrussiia_83704_Миллеровский",
-    "channel": "radarrussiia",
-    "date": "2026-07-24T21:40:51+00:00",
-    "text": "Миллеровский район\nРостовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Миллеровский",
-    "region": "Ростовская область",
-    "lat": 49.0249872,
-    "lon": 40.2651861
-  },
-  {
-    "id": "vrv_radar_75664_Серафимовичский",
-    "channel": "vrv_radar",
-    "date": "2026-07-24T21:41:03+00:00",
-    "text": "Серафимовичский район\nФроловский район\nВолгоградская область\nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Серафимовичский",
-    "region": "Волгоградская область",
-    "lat": 49.4953466,
-    "lon": 42.7517542
-  },
-  {
-    "id": "vrv_radar_75664_Фроловский",
-    "channel": "vrv_radar",
-    "date": "2026-07-24T21:41:03+00:00",
-    "text": "Серафимовичский район\nФроловский район\nВолгоградская область\nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Фроловский",
-    "region": "Волгоградская область",
-    "lat": 49.8599222,
-    "lon": 43.8082806
-  },
-  {
     "id": "radarrussiia_83705_Куйбышевский",
     "channel": "radarrussiia",
     "date": "2026-07-24T21:41:15+00:00",
@@ -21994,6 +21939,61 @@
     "date": "2026-07-26T02:21:33+00:00",
     "text": "Константиновка РСЗО!",
     "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_75912",
+    "channel": "vrv_radar",
+    "date": "2026-07-26T02:32:29+00:00",
+    "text": "Ярославская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_75913",
+    "channel": "vrv_radar",
+    "date": "2026-07-26T02:33:37+00:00",
+    "text": "Воронежская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_75914",
+    "channel": "vrv_radar",
+    "date": "2026-07-26T02:33:44+00:00",
+    "text": "Орловская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_75915",
+    "channel": "vrv_radar",
+    "date": "2026-07-26T02:38:43+00:00",
+    "text": "Калужская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_12544",
+    "channel": "radar_plus_bpla",
+    "date": "2026-07-26T02:44:41+00:00",
+    "text": "Отбой опасности БПЛА по всем ранее объявленным регионам.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
     "location_name": null,
     "region": null,
     "lat": null,
