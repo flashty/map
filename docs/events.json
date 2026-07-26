@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_75654_Никифоровский",
-    "channel": "vrv_radar",
-    "date": "2026-07-24T21:37:00+00:00",
-    "text": "Никифоровский район\nМордовский район\nТамбовская область\nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Никифоровский",
-    "region": "Тамбовская область",
-    "lat": 52.8625686,
-    "lon": 40.894064
-  },
-  {
-    "id": "vrv_radar_75654_Мордовский",
-    "channel": "vrv_radar",
-    "date": "2026-07-24T21:37:00+00:00",
-    "text": "Никифоровский район\nМордовский район\nТамбовская область\nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Мордовский",
-    "region": "Тамбовская область",
-    "lat": 52.1698137,
-    "lon": 40.8366875
-  },
-  {
-    "id": "radarrussiia_83696_Тамбовский",
-    "channel": "radarrussiia",
-    "date": "2026-07-24T21:37:10+00:00",
-    "text": "Тамбовский район\nТамбовская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Тамбовский",
-    "region": "Тамбовская область",
-    "lat": 52.1628557,
-    "lon": 41.8324077
-  },
-  {
-    "id": "vrv_radar_75655",
-    "channel": "vrv_radar",
-    "date": "2026-07-24T21:37:26+00:00",
-    "text": "Республика Мордовия \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_83697_Никифоровский",
     "channel": "radarrussiia",
     "date": "2026-07-24T21:37:31+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_83886",
+    "channel": "radarrussiia",
+    "date": "2026-07-26T00:03:04+00:00",
+    "text": "Сочи и близлежащие \nКраснодарский край \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_208220",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T00:05:06+00:00",
+    "text": "Кировское и близлежащие\nЧерноморский район\nТревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_208221",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T00:07:09+00:00",
+    "text": "Нижнегорский район\nБелогорский район\nТревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_208222",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T00:12:05+00:00",
+    "text": "Зуя и близлежащие\nТревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
