@@ -1,82 +1,5 @@
 [
   {
-    "id": "vrv_radar_75658_Пензенский",
-    "channel": "vrv_radar",
-    "date": "2026-07-24T21:38:36+00:00",
-    "text": "Октябрьский район \nПензенский район\nПензенская область \nМеры безопасности \nПодлетное время 02:00~",
-    "type": "alert",
-    "location_name": "Пензенский",
-    "region": "Пензенская область",
-    "lat": 53.1819165,
-    "lon": 45.0024519
-  },
-  {
-    "id": "kupolrussia_104663",
-    "channel": "kupolrussia",
-    "date": "2026-07-24T21:38:38+00:00",
-    "text": "Республика Мордовия\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_207716",
-    "channel": "LPRalarm",
-    "date": "2026-07-24T21:38:41+00:00",
-    "text": "Республика Мордовия\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83700",
-    "channel": "radarrussiia",
-    "date": "2026-07-24T21:38:43+00:00",
-    "text": "Нижегородская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Нижегородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_75659_Чертковский",
-    "channel": "vrv_radar",
-    "date": "2026-07-24T21:38:50+00:00",
-    "text": "Чертковский район\nРостовская область\nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Чертковский",
-    "region": "Ростовская область",
-    "lat": 49.4049606,
-    "lon": 40.6115668
-  },
-  {
-    "id": "radarrussiia_83701_Октябрьский",
-    "channel": "radarrussiia",
-    "date": "2026-07-24T21:39:05+00:00",
-    "text": "Октябрьский район \nПензенский район\nПензенская область \nМеры безопасности \nПодлетное время 02:00~\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "alert",
-    "location_name": "Октябрьский",
-    "region": "Пензенская область",
-    "lat": 53.8098416,
-    "lon": 43.7657114
-  },
-  {
-    "id": "radarrussiia_83701_Пензенский",
-    "channel": "radarrussiia",
-    "date": "2026-07-24T21:39:05+00:00",
-    "text": "Октябрьский район \nПензенский район\nПензенская область \nМеры безопасности \nПодлетное время 02:00~\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "alert",
-    "location_name": "Пензенский",
-    "region": "Пензенская область",
-    "lat": 53.1819165,
-    "lon": 45.0024519
-  },
-  {
     "id": "vrv_radar_75660_Тамбовский",
     "channel": "vrv_radar",
     "date": "2026-07-24T21:39:08+00:00",
@@ -21998,5 +21921,82 @@
     "region": "Республика Крым",
     "lat": 44.9423753,
     "lon": 34.0968267
+  },
+  {
+    "id": "radar_plus_bpla_12541",
+    "channel": "radar_plus_bpla",
+    "date": "2026-07-26T00:47:57+00:00",
+    "text": "Массовости в регионах не наблюдаем. Единичные фиксации от Брянской области.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_208232",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T00:48:46+00:00",
+    "text": "Алушта и близлежащие\nТревога по БПЛА сохраняется\nЕще фиксации с моря",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_105093",
+    "channel": "kupolrussia",
+    "date": "2026-07-26T00:48:59+00:00",
+    "text": "Алушта и близлежащие\nТревога по БПЛА сохраняется\nЕще фиксации с моря",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_208233_Перевальное",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T00:55:54+00:00",
+    "text": "Верхняя Кутузова и далее через Ангарский перевал\nв направлении  Перевальное, Таврическая ТЭС  тревога по БПЛА",
+    "type": "drone",
+    "location_name": "Перевальное",
+    "region": null,
+    "lat": 50.543098,
+    "lon": 39.513237
+  },
+  {
+    "id": "radar_plus_bpla_12542",
+    "channel": "radar_plus_bpla",
+    "date": "2026-07-26T00:58:00+00:00",
+    "text": "Московская область - опасность БПЛА.\n\nГруппа на подлёте.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_75909",
+    "channel": "vrv_radar",
+    "date": "2026-07-26T01:00:25+00:00",
+    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_75910",
+    "channel": "vrv_radar",
+    "date": "2026-07-26T01:01:35+00:00",
+    "text": "Волгоградская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
   }
 ]

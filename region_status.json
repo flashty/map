@@ -19,13 +19,23 @@
     "count": null,
     "count_approx": false
   },
-  "ростовск": {
-    "display_name": "Ростовская область",
+  "московск": {
+    "display_name": "Московская область",
     "type": "drone",
-    "text": "Ростовская область, северная часть, \nТревога БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-26T00:01:12+00:00",
-    "expires_at": "2026-07-26T01:01:12+00:00",
+    "text": "Московская область - опасность БПЛА.\n\nГруппа на подлёте.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-07-26T00:58:00+00:00",
+    "expires_at": "2026-07-26T01:58:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградская область",
+    "type": "drone",
+    "text": "Волгоградская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-26T01:01:35+00:00",
+    "expires_at": "2026-07-26T02:01:35+00:00",
     "count": null,
     "count_approx": false
   }
