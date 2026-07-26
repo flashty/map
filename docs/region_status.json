@@ -21,12 +21,12 @@
   },
   "ростовск": {
     "display_name": "Ростовская область",
-    "type": "alert",
-    "text": "Тарасовский район \nРостовская область \nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-07-26T21:59:11+00:00",
-    "expires_at": "2026-07-26T22:59:11+00:00",
-    "count": null,
+    "type": "drone",
+    "text": "Чертковский район \nРостовская область \nФиксация от 8 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-26T22:14:58+00:00",
+    "expires_at": "2026-07-26T23:14:58+00:00",
+    "count": 8,
     "count_approx": false
   },
   "донецк": {
@@ -46,26 +46,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-07-26T21:49:14+00:00",
     "expires_at": "2026-07-26T22:49:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "От Алушты до Симферополя по дороге\nтревога по БПЛА \n\nВодители, будьте будьте бдительными!\n\nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-26T21:04:42+00:00",
-    "expires_at": "2026-07-26T22:04:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Луганск\nЛНР\nопасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-26T21:09:09+00:00",
-    "expires_at": "2026-07-26T22:09:09+00:00",
     "count": null,
     "count_approx": false
   },
@@ -192,11 +172,11 @@
   "волгоградск": {
     "display_name": "Волгоградская область",
     "type": "drone",
-    "text": "Нехаевский район\nВолгоградская область \nФиксация от 4 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Киквидзенский район\nВолгоградская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-07-26T21:54:29+00:00",
-    "expires_at": "2026-07-26T22:54:29+00:00",
-    "count": 4,
+    "updated_at": "2026-07-26T22:14:05+00:00",
+    "expires_at": "2026-07-26T23:14:05+00:00",
+    "count": null,
     "count_approx": false
   },
   "кировск": {
@@ -262,11 +242,11 @@
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Лискинский район\nВоронежская область \nРабота ПВО по БПЛА\nМеры безопасности",
+    "text": "Таловский район\nВоронежская область \nФиксация от 2 БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-07-26T22:00:56+00:00",
-    "expires_at": "2026-07-26T23:00:56+00:00",
-    "count": null,
+    "updated_at": "2026-07-26T22:15:46+00:00",
+    "expires_at": "2026-07-26T23:15:46+00:00",
+    "count": 2,
     "count_approx": false
   }
 }
