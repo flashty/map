@@ -1,31 +1,11 @@
 {
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "missile",
-    "text": "ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-26T15:29:57+00:00",
-    "expires_at": "2026-07-26T16:29:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
     "type": "drone",
-    "text": "Вознесеновка \nШебекинский район\nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "text": "Торез ДНР в направлении Успенка и близлежащие\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-07-26T15:37:25+00:00",
-    "expires_at": "2026-07-26T16:37:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калужская область соблюдаем меры предосторожности при БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-26T14:49:51+00:00",
-    "expires_at": "2026-07-26T15:49:51+00:00",
+    "updated_at": "2026-07-26T15:55:25+00:00",
+    "expires_at": "2026-07-26T16:55:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +16,56 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-26T15:10:05+00:00",
     "expires_at": "2026-07-26T16:10:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-26T15:49:24+00:00",
+    "expires_at": "2026-07-26T16:49:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Штормово - Шульгинка по трассе БПЛА Хорнет \nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-26T15:53:15+00:00",
+    "expires_at": "2026-07-26T16:53:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "alert",
+    "text": "Запорожская область РФ \nЛДНР\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-26T15:55:09+00:00",
+    "expires_at": "2026-07-26T16:55:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "missile",
+    "text": "Белгородская область - ракетная опасность! \nВ направлении Валуйского района. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-26T15:58:26+00:00",
+    "expires_at": "2026-07-26T16:58:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "alert",
+    "text": "Ростовская область\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-26T15:59:33+00:00",
+    "expires_at": "2026-07-26T16:59:33+00:00",
     "count": null,
     "count_approx": false
   }
