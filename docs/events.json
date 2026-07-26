@@ -1,82 +1,5 @@
 [
   {
-    "id": "vrv_radar_75753",
-    "channel": "vrv_radar",
-    "date": "2026-07-25T00:59:45+00:00",
-    "text": "Ростов-на-Дону \nРостовская область \nМеры безопасности",
-    "type": "alert",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83773",
-    "channel": "radarrussiia",
-    "date": "2026-07-25T01:00:04+00:00",
-    "text": "Ростов-на-Дону \nРостовская область \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "alert",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_12501",
-    "channel": "radar_plus_bpla",
-    "date": "2026-07-25T01:00:13+00:00",
-    "text": "Все приграничье - ракетная опасность по крылатым ракетам «Фламинго».\n\nАктивность над ЛДНР.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_83774",
-    "channel": "radarrussiia",
-    "date": "2026-07-25T01:00:42+00:00",
-    "text": "Белгородская опасность\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_74729_Таганрог",
-    "channel": "locatorru",
-    "date": "2026-07-25T01:00:54+00:00",
-    "text": "Таганрог, Ростов-на-Дону и близлежащие, действует опасность по БПЛА + ракетная. Займите безопасные места. \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": "Таганрог",
-    "region": null,
-    "lat": 47.215495,
-    "lon": 38.928362
-  },
-  {
-    "id": "kupolrussia_104719",
-    "channel": "kupolrussia",
-    "date": "2026-07-25T01:01:08+00:00",
-    "text": "Саратовская область ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_75754",
-    "channel": "vrv_radar",
-    "date": "2026-07-25T01:01:12+00:00",
-    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_83775",
     "channel": "radarrussiia",
     "date": "2026-07-25T01:01:14+00:00",
@@ -21998,5 +21921,82 @@
     "region": "Донецкая область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_208441_Геройское",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T17:06:12+00:00",
+    "text": "Геройское, Красное, Ивановка, Новофедоровка и близлежащие опасность по БПЛА Сакский район",
+    "type": "drone",
+    "location_name": "Геройское",
+    "region": null,
+    "lat": 54.8808811,
+    "lon": 20.2976704
+  },
+  {
+    "id": "LPRalarm_208441_Красное",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T17:06:12+00:00",
+    "text": "Геройское, Красное, Ивановка, Новофедоровка и близлежащие опасность по БПЛА Сакский район",
+    "type": "drone",
+    "location_name": "Красное",
+    "region": null,
+    "lat": 57.0587063,
+    "lon": 34.633189
+  },
+  {
+    "id": "LPRalarm_208441_Ивановка",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T17:06:12+00:00",
+    "text": "Геройское, Красное, Ивановка, Новофедоровка и близлежащие опасность по БПЛА Сакский район",
+    "type": "drone",
+    "location_name": "Ивановка",
+    "region": null,
+    "lat": 51.9508498,
+    "lon": 36.0339075
+  },
+  {
+    "id": "kupolrussia_105278",
+    "channel": "kupolrussia",
+    "date": "2026-07-26T17:06:37+00:00",
+    "text": "Геройское, Красное, Ивановка, Новофедоровка и близлежащие\n Сакский район\nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_208442_Кача",
+    "channel": "LPRalarm",
+    "date": "2026-07-26T17:12:57+00:00",
+    "text": "Кача, Бельбек, Севастополь \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Кача",
+    "region": null,
+    "lat": 56.1972669,
+    "lon": 92.5363666
+  },
+  {
+    "id": "kupolrussia_105279_Кача",
+    "channel": "kupolrussia",
+    "date": "2026-07-26T17:13:17+00:00",
+    "text": "Кача, Бельбек, Севастополь\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Кача",
+    "region": null,
+    "lat": 56.1972669,
+    "lon": 92.5363666
+  },
+  {
+    "id": "kupolrussia_105279_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-07-26T17:13:17+00:00",
+    "text": "Кача, Бельбек, Севастополь\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
   }
 ]

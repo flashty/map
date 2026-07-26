@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "alert",
-    "text": "Харьковская область РФ, север ЛНР\nВНИМАНИЕ!!!\n„Зи ОБЪЯВЛЕН\n\"КРАСНЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-26T16:09:27+00:00",
-    "expires_at": "2026-07-26T17:09:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -29,26 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "харьковск": {
-    "display_name": "Харьковская область",
-    "type": "alert",
-    "text": "Харьковская область РФ, север ЛНР\nВНИМАНИЕ!!!\n„Зи ОБЪЯВЛЕН\n\"КРАСНЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-26T16:09:27+00:00",
-    "expires_at": "2026-07-26T17:09:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарско": {
-    "display_name": "Краснодарского края",
-    "type": "drone",
-    "text": "Приазовье Краснодарского края и в направлении Ильский, Афипский, Краснодар, Славянск на Кубани \nВнимание по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-26T16:11:45+00:00",
-    "expires_at": "2026-07-26T17:11:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "alert",
@@ -56,6 +26,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-07-26T16:27:08+00:00",
     "expires_at": "2026-07-26T17:27:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Геройское, Красное, Ивановка, Новофедоровка и близлежащие\n Сакский район\nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-26T17:06:37+00:00",
+    "expires_at": "2026-07-26T18:06:37+00:00",
     "count": null,
     "count_approx": false
   }
