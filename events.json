@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_75941_Подгоренский",
-    "channel": "vrv_radar",
-    "date": "2026-07-26T17:42:51+00:00",
-    "text": "Подгоренский район\nВоронежская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Подгоренский",
-    "region": "Воронежская область",
-    "lat": 50.403614,
-    "lon": 39.638832
-  },
-  {
-    "id": "radarrussiia_83904_Ольховатский",
-    "channel": "radarrussiia",
-    "date": "2026-07-26T17:43:12+00:00",
-    "text": "Ольховатский район\nПодгоренский район\nВоронежская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Ольховатский",
-    "region": "Воронежская область",
-    "lat": 50.3121144,
-    "lon": 39.2495873
-  },
-  {
-    "id": "radarrussiia_83904_Подгоренский",
-    "channel": "radarrussiia",
-    "date": "2026-07-26T17:43:12+00:00",
-    "text": "Ольховатский район\nПодгоренский район\nВоронежская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Подгоренский",
-    "region": "Воронежская область",
-    "lat": 50.403614,
-    "lon": 39.638832
-  },
-  {
-    "id": "LPRalarm_208454_Днепропетровск",
-    "channel": "LPRalarm",
-    "date": "2026-07-26T17:43:16+00:00",
-    "text": "Днепропетровск район Авиаторское запуски БПЛА. Много",
-    "type": "drone",
-    "location_name": "Днепропетровск",
-    "region": null,
-    "lat": 55.7497351,
-    "lon": 49.173934
-  },
-  {
-    "id": "LPRalarm_208454_Много",
-    "channel": "LPRalarm",
-    "date": "2026-07-26T17:43:16+00:00",
-    "text": "Днепропетровск район Авиаторское запуски БПЛА. Много",
-    "type": "drone",
-    "location_name": "Много",
-    "region": null,
-    "lat": 66.0989134,
-    "lon": 59.9304618
-  },
-  {
     "id": "kupolrussia_105291",
     "channel": "kupolrussia",
     "date": "2026-07-26T17:43:26+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Брянская область",
     "lat": 52.5207056,
     "lon": 33.2053408
+  },
+  {
+    "id": "LPRalarm_208789",
+    "channel": "LPRalarm",
+    "date": "2026-07-27T08:33:25+00:00",
+    "text": "Великая Новосёлка ДНР, Гуляйполе Запорожская область РФ \nУАБы",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_105565",
+    "channel": "kupolrussia",
+    "date": "2026-07-27T08:33:29+00:00",
+    "text": "Великая Новосёлка ДНР, Гуляйполе Запорожская область РФ \nУАБы",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_76209",
+    "channel": "vrv_radar",
+    "date": "2026-07-27T08:37:01+00:00",
+    "text": "Тульская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_208790",
+    "channel": "LPRalarm",
+    "date": "2026-07-27T08:40:30+00:00",
+    "text": "Взлет самолёта Авиаторское Днепропетровск",
+    "type": "aviation",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_105566",
+    "channel": "kupolrussia",
+    "date": "2026-07-27T08:40:42+00:00",
+    "text": "Взлет самолёта Авиаторское Днепропетровск",
+    "type": "aviation",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
