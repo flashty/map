@@ -1,60 +1,5 @@
 [
   {
-    "id": "locatorru_74934_Ахтанизовская",
-    "channel": "locatorru",
-    "date": "2026-07-26T21:56:17+00:00",
-    "text": "Кучугуры,Голубицкая, Старотитаровская, Темрюк, Стрелка, Курчанская, Ахтанизовская, Темрюкский район, Краснодарский край - опасность по БПЛА с Азовского моря.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Ахтанизовская",
-    "region": "Краснодарский край",
-    "lat": 45.3213372,
-    "lon": 37.1049025
-  },
-  {
-    "id": "vrv_radar_75998_Лискинский",
-    "channel": "vrv_radar",
-    "date": "2026-07-26T21:58:58+00:00",
-    "text": "Лискинский район\nВоронежская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Лискинский",
-    "region": "Воронежская область",
-    "lat": 51.0241236,
-    "lon": 39.5840497
-  },
-  {
-    "id": "locatorru_74935",
-    "channel": "locatorru",
-    "date": "2026-07-26T21:59:05+00:00",
-    "text": "западнее Романовка, ​Саратовская область - фиксации БПЛА в сторону Тамал, Беково, Пензенская область.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_12556",
-    "channel": "radar_plus_bpla",
-    "date": "2026-07-26T21:59:05+00:00",
-    "text": "В разных районах Воронежской области идут сбития групп БПЛА, летящих в тыл.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_75999_Тарасовский",
-    "channel": "vrv_radar",
-    "date": "2026-07-26T21:59:11+00:00",
-    "text": "Тарасовский район \nРостовская область \nМеры безопасности",
-    "type": "alert",
-    "location_name": "Тарасовский",
-    "region": "Ростовская область",
-    "lat": 48.727145,
-    "lon": 40.3554416
-  },
-  {
     "id": "locatorru_74936_Каменский",
     "channel": "locatorru",
     "date": "2026-07-26T22:00:03+00:00",
@@ -21996,6 +21941,61 @@
     "type": "unknown",
     "location_name": null,
     "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_76238",
+    "channel": "vrv_radar",
+    "date": "2026-07-27T16:32:53+00:00",
+    "text": "Смоленская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_76239",
+    "channel": "vrv_radar",
+    "date": "2026-07-27T16:33:03+00:00",
+    "text": "Тверская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тверская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_208960",
+    "channel": "LPRalarm",
+    "date": "2026-07-27T16:35:40+00:00",
+    "text": "Курчатов и близлежащие \nОпасность по БПЛА \n\nКурская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_105721",
+    "channel": "kupolrussia",
+    "date": "2026-07-27T16:35:54+00:00",
+    "text": "Курчатов и близлежащие \n\nКурская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_84109",
+    "channel": "radarrussiia",
+    "date": "2026-07-27T16:41:37+00:00",
+    "text": "Смоленская область \nТверская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Смоленская область",
     "lat": null,
     "lon": null
   }
