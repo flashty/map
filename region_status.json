@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "г. Курск\nКурская область \nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-27T14:55:24+00:00",
-    "expires_at": "2026-07-27T15:55:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "alert",
@@ -62,10 +52,10 @@
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Орловская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-27T15:29:32+00:00",
-    "expires_at": "2026-07-27T16:29:32+00:00",
+    "text": "Орел \nОрловская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-27T16:01:28+00:00",
+    "expires_at": "2026-07-27T17:01:28+00:00",
     "count": null,
     "count_approx": false
   }
