@@ -1,11 +1,11 @@
 {
   "тамбовск": {
     "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Сосновский район \nСампурский район\nТамбовская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-27T00:29:50+00:00",
-    "expires_at": "2026-07-27T01:29:50+00:00",
+    "type": "missile",
+    "text": "Воронежская область\nЛипецкая область\nТамбовская область\n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-07-27T01:15:21+00:00",
+    "expires_at": "2026-07-27T02:15:21+00:00",
     "count": null,
     "count_approx": false
   },
@@ -22,20 +22,20 @@
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Городищенский район\nПензенская область \nЕще фиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Пенза\nПензенская область\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-07-27T00:58:32+00:00",
-    "expires_at": "2026-07-27T01:58:32+00:00",
+    "updated_at": "2026-07-27T01:05:46+00:00",
+    "expires_at": "2026-07-27T02:05:46+00:00",
     "count": null,
     "count_approx": false
   },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Евпатория, Саки, Новофедоровка\nРеспублика Крым \nС моря опасность по БПЛА",
+    "text": "Бахчисарай и близлежащие \nРеспублика Крым \nТревога по БПЛА",
     "channel": "LPRalarm",
-    "updated_at": "2026-07-27T00:41:37+00:00",
-    "expires_at": "2026-07-27T01:41:37+00:00",
+    "updated_at": "2026-07-27T01:04:32+00:00",
+    "expires_at": "2026-07-27T02:04:32+00:00",
     "count": null,
     "count_approx": false
   },
@@ -71,11 +71,11 @@
   },
   "липецк": {
     "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Лебедянский район\nДолгоруковский район\nЛипецкая область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-27T00:27:03+00:00",
-    "expires_at": "2026-07-27T01:27:03+00:00",
+    "type": "missile",
+    "text": "Липецкая область\nРакетная опасность",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-27T01:15:23+00:00",
+    "expires_at": "2026-07-27T02:15:23+00:00",
     "count": null,
     "count_approx": false
   },
@@ -112,10 +112,10 @@
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Рязанская область \nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-27T00:34:25+00:00",
-    "expires_at": "2026-07-27T01:34:25+00:00",
+    "text": "Каширин, Александро-Невский район, Рязанская область - БПЛА на север, возможно на Рязань.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-27T01:11:04+00:00",
+    "expires_at": "2026-07-27T02:11:04+00:00",
     "count": null,
     "count_approx": false
   },
@@ -182,10 +182,10 @@
   "владимирск": {
     "display_name": "Владимирская область",
     "type": "drone",
-    "text": "Владимирская область - опасность по БПЛА от Нижегородской области.\n\n📡Локатор России - @locatorru",
+    "text": "Вязниковский район, Владимирская область - опасность по БПЛА и в сторону Ивановской области. Фиксации БПЛА от Нижегородской области.\n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-07-27T00:59:22+00:00",
-    "expires_at": "2026-07-27T01:59:22+00:00",
+    "updated_at": "2026-07-27T01:03:26+00:00",
+    "expires_at": "2026-07-27T02:03:26+00:00",
     "count": null,
     "count_approx": false
   },
@@ -207,6 +207,86 @@
     "updated_at": "2026-07-27T01:01:55+00:00",
     "expires_at": "2026-07-27T02:01:55+00:00",
     "count": 3,
+    "count_approx": false
+  },
+  "ивановск": {
+    "display_name": "Ивановская область",
+    "type": "drone",
+    "text": "Ивановская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-27T01:03:41+00:00",
+    "expires_at": "2026-07-27T02:03:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Смоленская область\nТверская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-27T01:11:20+00:00",
+    "expires_at": "2026-07-27T02:11:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Смоленская область\nТверская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-27T01:11:20+00:00",
+    "expires_at": "2026-07-27T02:11:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ульяновск": {
+    "display_name": "Ульяновская область",
+    "type": "drone",
+    "text": "Павловка, Старая Кулатка, Радищево, Николаевка, Новоспасское, Ульяновская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-27T01:13:08+00:00",
+    "expires_at": "2026-07-27T02:13:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ярославск": {
+    "display_name": "Ярославская область",
+    "type": "drone",
+    "text": "Ярославская область - внимание по БПЛА.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-27T01:14:04+00:00",
+    "expires_at": "2026-07-27T02:14:04+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "missile",
+    "text": "Курская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-27T01:14:46+00:00",
+    "expires_at": "2026-07-27T02:14:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "missile",
+    "text": "Воронежская область\nЛипецкая область\nТамбовская область\n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-07-27T01:15:21+00:00",
+    "expires_at": "2026-07-27T02:15:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "missile",
+    "text": "Тульская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-27T01:15:09+00:00",
+    "expires_at": "2026-07-27T02:15:09+00:00",
+    "count": null,
     "count_approx": false
   }
 }
