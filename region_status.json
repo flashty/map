@@ -12,10 +12,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Пантелеймоновка, Макеевка, Харцызск ДНР и близлежащие \nТревога по БПЛА Хорнет",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-27T12:52:19+00:00",
-    "expires_at": "2026-07-27T13:52:19+00:00",
+    "text": "Горловка ДНР Калиновка БПЛА \n\nКондратьевка, Углегорск, Енакиево и близлежащие внимание!",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-27T13:56:25+00:00",
+    "expires_at": "2026-07-27T14:56:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +46,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-27T13:06:22+00:00",
     "expires_at": "2026-07-27T14:06:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Каховка, Херсонская область РФ\nБПЛА разведчик",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-27T13:47:33+00:00",
+    "expires_at": "2026-07-27T14:47:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "БПЛА-разведчик Белая Берёзка, возможно подготовка к обстрелу РСЗО\nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-27T14:00:56+00:00",
+    "expires_at": "2026-07-27T15:00:56+00:00",
     "count": null,
     "count_approx": false
   }
