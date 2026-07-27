@@ -62,20 +62,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Керченский полуостров \nКерчь \nКрымский Мост \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-27T06:44:38+00:00",
-    "expires_at": "2026-07-27T07:44:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "-": {
-    "display_name": "Республика -",
-    "type": "drone",
-    "text": "Сарапул, маркетплейс, Удмуртская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-27T05:53:58+00:00",
-    "expires_at": "2026-07-27T06:53:58+00:00",
+    "text": "Судак \nАлушта и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-27T07:01:44+00:00",
+    "expires_at": "2026-07-27T08:01:44+00:00",
     "count": null,
     "count_approx": false
   },
@@ -246,6 +236,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-07-27T06:43:11+00:00",
     "expires_at": "2026-07-27T07:43:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Темрюкский район\n Краснодарский край\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-27T06:50:24+00:00",
+    "expires_at": "2026-07-27T07:50:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "вологодск": {
+    "display_name": "Вологодская область",
+    "type": "drone",
+    "text": "Вологодская область \nОпасность по БПЛА \nПовторно",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-27T06:59:45+00:00",
+    "expires_at": "2026-07-27T07:59:45+00:00",
     "count": null,
     "count_approx": false
   }
