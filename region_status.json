@@ -12,10 +12,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Трасса Макеевка  Харцызск\nДНР\nОпасность по бпла хорнет",
+    "text": "Снежное бпла шарк\nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-07-27T11:26:01+00:00",
-    "expires_at": "2026-07-27T12:26:01+00:00",
+    "updated_at": "2026-07-27T12:23:57+00:00",
+    "expires_at": "2026-07-27T13:23:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Приморско-Ахтарский район\nСлавянский район\nКалининский район\nБрюховецкий район\nВыселковский район\nДинской район\nУсть-Лабинский район\nКрасноармейский район\nКореновский район\nТомашевский район\nКраснодар\nГорячий ключ\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход б",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-27T11:27:07+00:00",
-    "expires_at": "2026-07-27T12:27:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "alert",
@@ -46,16 +36,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-27T11:49:23+00:00",
     "expires_at": "2026-07-27T12:49:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-27T11:26:10+00:00",
-    "expires_at": "2026-07-27T12:26:10+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,10 +52,30 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "missile",
-    "text": "Сычёвка \nЛНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "text": "Лисичанск и близлежащие \nЛНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
     "channel": "kupolrussia",
-    "updated_at": "2026-07-27T12:06:32+00:00",
-    "expires_at": "2026-07-27T13:06:32+00:00",
+    "updated_at": "2026-07-27T12:26:13+00:00",
+    "expires_at": "2026-07-27T13:26:13+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курской области",
+    "type": "drone",
+    "text": "Пролёты БПЛА от Рыльска, Курской области в сторону Льгов, Курчатов, Курск. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-27T12:15:50+00:00",
+    "expires_at": "2026-07-27T13:15:50+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "alert",
+    "text": "Белая Березка \nМеры безопасности \nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-27T12:18:33+00:00",
+    "expires_at": "2026-07-27T13:18:33+00:00",
     "count": null,
     "count_approx": false
   }
