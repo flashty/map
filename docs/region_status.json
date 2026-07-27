@@ -49,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "drone",
-    "text": "Малый Труев, Кузнецкий район, Пензенская область - группа БПЛА на восток в сторону южной части Ульяновской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-27T03:24:03+00:00",
-    "expires_at": "2026-07-27T04:24:03+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "-": {
     "display_name": "Республика -",
     "type": "drone",
@@ -71,11 +61,11 @@
   },
   "свердловск": {
     "display_name": "Свердловская область",
-    "type": "missile",
-    "text": "Екатеринбург, Свердловская область - приготовится к возможной ракетной атаке.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-27T04:05:05+00:00",
-    "expires_at": "2026-07-27T05:05:05+00:00",
+    "type": "drone",
+    "text": "Свердловская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-27T04:31:20+00:00",
+    "expires_at": "2026-07-27T05:31:20+00:00",
     "count": null,
     "count_approx": false
   },
@@ -122,10 +112,10 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "Наро-Фоминск, Одинцово, Серпухов, Кашира, Ступино, Домодедово, Раменское, Московская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-27T04:15:42+00:00",
-    "expires_at": "2026-07-27T05:15:42+00:00",
+    "text": "Наро-Фоминск, Одинцово, Серпухов, Кашира, Ступино, Домодедово, Раменское, Московская область - опасность по БПЛА, ещё раз. Ещё летят. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-27T04:26:20+00:00",
+    "expires_at": "2026-07-27T05:26:20+00:00",
     "count": null,
     "count_approx": false
   },
@@ -162,20 +152,80 @@
   "тюменск": {
     "display_name": "Тюменская область",
     "type": "missile",
-    "text": "Тюменская область - внимание по ракетной опасности от Свердловской области.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Тюменская область \nВнимание по ракетной опасности от Свердловской области.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-07-27T04:16:37+00:00",
-    "expires_at": "2026-07-27T05:16:37+00:00",
+    "updated_at": "2026-07-27T04:25:57+00:00",
+    "expires_at": "2026-07-27T05:25:57+00:00",
     "count": null,
     "count_approx": false
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "От Туапсе до Сочи, Адлер, Краснодарский край - опасность по БПЛА, ещё раз.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-27T04:15:07+00:00",
-    "expires_at": "2026-07-27T05:15:07+00:00",
+    "text": "От Туапсе до Сочи, Адлер, Краснодарский край - опасность по БПЛА, ещё раз.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-27T04:17:07+00:00",
+    "expires_at": "2026-07-27T05:17:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курганск": {
+    "display_name": "Курганская область",
+    "type": "missile",
+    "text": "Курганская область - внимание по ракетной опасности.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-27T04:27:06+00:00",
+    "expires_at": "2026-07-27T05:27:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "кировск": {
+    "display_name": "Кировская область",
+    "type": "drone",
+    "text": "Кировская область, Республика Марий Эл - опасность по БПЛА ещё действует. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-27T04:29:38+00:00",
+    "expires_at": "2026-07-27T05:29:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "марий": {
+    "display_name": "Республика Марий",
+    "type": "drone",
+    "text": "Кировская область, Республика Марий Эл - опасность по БПЛА ещё действует. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-27T04:29:38+00:00",
+    "expires_at": "2026-07-27T05:29:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Республика Татарстан\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-27T04:31:21+00:00",
+    "expires_at": "2026-07-27T05:31:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "удмурт": {
+    "display_name": "Республика Удмуртия",
+    "type": "drone",
+    "text": "Сарапульский район\nРеспублика Удмуртия\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-27T04:28:53+00:00",
+    "expires_at": "2026-07-27T05:28:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "missile",
+    "text": "ЛДНР, Запорожская область РФ \nАвиационно ракетно бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-27T04:31:11+00:00",
+    "expires_at": "2026-07-27T05:31:11+00:00",
     "count": null,
     "count_approx": false
   }
