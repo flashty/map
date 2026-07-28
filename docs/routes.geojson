@@ -250,6 +250,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-07-28T16:56:32+00:00",
+        "last_updated": "2026-07-28T17:17:10+00:00",
+        "path_labels": [
+          "Почеп (Брянская область)",
+          "Погарский (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4544207,
+            52.9287784
+          ],
+          [
+            33.2053408,
+            52.5207056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-07-28T17:11:02+00:00",
         "last_updated": "2026-07-28T17:11:02+00:00",
         "path_labels": [
