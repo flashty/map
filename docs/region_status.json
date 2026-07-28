@@ -19,63 +19,23 @@
     "count": null,
     "count_approx": false
   },
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "drone",
-    "text": "Земетчинский район\nПензенская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-28T00:53:43+00:00",
-    "expires_at": "2026-07-28T01:53:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Клепиковский район \nРязанская область\nПродолжаются фиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-28T01:39:29+00:00",
-    "expires_at": "2026-07-28T02:39:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "нижегородск": {
-    "display_name": "Нижегородской области",
-    "type": "drone",
-    "text": "От Тамбовской области и Республики Мордовия продолжаются пролёты БПЛА в сторону Рязанской области, Нижегородской области, Владимирской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-28T00:46:34+00:00",
-    "expires_at": "2026-07-28T01:46:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "мордов": {
-    "display_name": "Республики Мордовия",
-    "type": "drone",
-    "text": "От Тамбовской области и Республики Мордовия продолжаются пролёты БПЛА в сторону Рязанской области, Нижегородской области, Владимирской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-28T00:46:34+00:00",
-    "expires_at": "2026-07-28T01:46:34+00:00",
+    "text": "Клепиковский район \nРязанская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-28T01:58:16+00:00",
+    "expires_at": "2026-07-28T02:58:16+00:00",
     "count": null,
     "count_approx": false
   },
   "липецк": {
     "display_name": "Липецкая область",
     "type": "drone",
-    "text": "Косыревка, Липецк, Грязи, Липецкая область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "text": "Липецкая область - опасность по БПЛА сохраняется на всей территории. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-07-28T01:05:15+00:00",
-    "expires_at": "2026-07-28T02:05:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовскую область",
-    "type": "drone",
-    "text": "Счастье, Луганск, Станица Луганская и близлежащие, тревога по БпЛА \nИ далее на Ростовскую область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-28T00:56:32+00:00",
-    "expires_at": "2026-07-28T01:56:32+00:00",
+    "updated_at": "2026-07-28T02:01:06+00:00",
+    "expires_at": "2026-07-28T03:01:06+00:00",
     "count": null,
     "count_approx": false
   },
@@ -109,16 +69,6 @@
     "count": null,
     "count_approx": false
   },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "ГО Бронницы \nМосковская область \nПродолжается работа ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-28T01:44:51+00:00",
-    "expires_at": "2026-07-28T02:44:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
@@ -136,16 +86,6 @@
     "channel": "locatorru",
     "updated_at": "2026-07-28T01:38:50+00:00",
     "expires_at": "2026-07-28T02:38:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "саратовск": {
-    "display_name": "Саратовская область",
-    "type": "drone",
-    "text": "Калининский район\nСаратовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-28T00:54:40+00:00",
-    "expires_at": "2026-07-28T01:54:40+00:00",
     "count": null,
     "count_approx": false
   },
@@ -176,6 +116,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-07-28T01:28:34+00:00",
     "expires_at": "2026-07-28T02:28:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Воскресенск \nМосковская область \nПродолжается работа ПВО по БПЛА\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-28T01:59:39+00:00",
+    "expires_at": "2026-07-28T02:59:39+00:00",
     "count": null,
     "count_approx": false
   }
