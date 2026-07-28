@@ -1,4 +1,80 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-28T15:11:50+00:00",
+        "last_updated": "2026-07-28T16:01:26+00:00",
+        "path_labels": [
+          "Темрюкский",
+          "Натухаевская"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.3098799,
+            45.4964119
+          ],
+          [
+            37.5649206,
+            44.9088818
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-28T15:32:26+00:00",
+        "last_updated": "2026-07-28T15:58:53+00:00",
+        "path_labels": [
+          "Крымский (Краснодарский край)",
+          "Анапы (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.896802,
+            44.9624541
+          ],
+          [
+            37.3223756,
+            44.8825484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-28T15:32:26+00:00",
+        "last_updated": "2026-07-28T16:00:22+00:00",
+        "path_labels": [
+          "Абинский (Краснодарский край)",
+          "Новороссийск"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.288214,
+            44.8852141
+          ],
+          [
+            37.7690711,
+            44.7239578
+          ]
+        ]
+      }
+    }
+  ]
 }
