@@ -39,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "alert",
-    "text": "Подольск\nЧехов\nКлимовск\nМосковская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-28T08:21:25+00:00",
-    "expires_at": "2026-07-28T09:21:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -66,26 +56,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-28T08:16:45+00:00",
     "expires_at": "2026-07-28T09:16:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Первомайск \nТошковка и близлежащие \nОпасность по бпла\nЛНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-28T07:39:15+00:00",
-    "expires_at": "2026-07-28T08:39:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Республика Адыгея\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-28T07:35:27+00:00",
-    "expires_at": "2026-07-28T08:35:27+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,6 +86,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-28T08:16:45+00:00",
     "expires_at": "2026-07-28T09:16:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Чонгар и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-28T08:43:45+00:00",
+    "expires_at": "2026-07-28T09:43:45+00:00",
     "count": null,
     "count_approx": false
   }
