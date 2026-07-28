@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_208941",
-    "channel": "LPRalarm",
-    "date": "2026-07-27T15:51:10+00:00",
-    "text": "Пуски БПЛА от Одесской области",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_105702",
-    "channel": "kupolrussia",
-    "date": "2026-07-27T15:51:26+00:00",
-    "text": "Пуски БПЛА от Одесской области",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_208942_Солнечного",
-    "channel": "LPRalarm",
-    "date": "2026-07-27T15:52:09+00:00",
-    "text": "Верхнесадовое, Бельбек \nФиксация БПЛА от Солнечного",
-    "type": "drone",
-    "location_name": "Солнечного",
-    "region": null,
-    "lat": 46.913479,
-    "lon": 142.760026
-  },
-  {
-    "id": "kupolrussia_105703_Солнечного",
-    "channel": "kupolrussia",
-    "date": "2026-07-27T15:52:47+00:00",
-    "text": "Верхнесадовое, Бельбек \nФиксация БПЛА от Солнечного",
-    "type": "drone",
-    "location_name": "Солнечного",
-    "region": null,
-    "lat": 46.913479,
-    "lon": 142.760026
-  },
-  {
-    "id": "LPRalarm_208943",
-    "channel": "LPRalarm",
-    "date": "2026-07-27T15:53:01+00:00",
-    "text": "Краматорск\nВыходы рсзо",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_105704",
-    "channel": "kupolrussia",
-    "date": "2026-07-27T15:53:06+00:00",
-    "text": "Краматорск\nВыходы рсзо",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_208944_Севастополь",
-    "channel": "LPRalarm",
-    "date": "2026-07-27T15:58:09+00:00",
-    "text": "Камышовая бухта\nКазачья бухта\nОмега\nПарк победы\nТревога по БПЛА\nСевастополь",
-    "type": "drone",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
-    "id": "kupolrussia_105705_Севастополь",
-    "channel": "kupolrussia",
-    "date": "2026-07-27T15:58:13+00:00",
-    "text": "Камышовая бухта\nКазачья бухта\nОмега\nПарк победы\nТревога по БПЛА\nСевастополь",
-    "type": "drone",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
-    "id": "LPRalarm_208945_Севастополь",
-    "channel": "LPRalarm",
-    "date": "2026-07-27T15:59:05+00:00",
-    "text": "От фиолентовского кольца в сторону 5км \nФиксация БПЛА\nСевастополь",
-    "type": "drone",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
     "id": "LPRalarm_208946_Белгородский",
     "channel": "LPRalarm",
     "date": "2026-07-27T15:59:06+00:00",
@@ -21996,6 +21897,105 @@
     "type": "alert",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_209267",
+    "channel": "LPRalarm",
+    "date": "2026-07-28T05:34:07+00:00",
+    "text": "Дорогие наши подписчики, которые никогда не принимали участие в сборах на помощь военнослужащим!\n\nНас около 2 млн. подписчиков каналов, суммарно просмотров в каналах +-400 тысяч. Даже если бы 4-я часть перечислила на оборудование для МОГов по 50 рублей (а на сегодняшний день это полчашки кофе в аппарате), то сбор бы мы завершили сразу же.\n\nУ всех у нас отлично получается требовать: почему не сбили, почему плохо стреляют, почему пули летят близко к жилому и т.д. Но каждый, кто возмущается, не хоч",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_76541_Туапсинский",
+    "channel": "vrv_radar",
+    "date": "2026-07-28T05:34:09+00:00",
+    "text": "Туапсинский район \nАбинский район\nКраснодарский край \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Туапсинский",
+    "region": "Краснодарский край",
+    "lat": 44.2686396,
+    "lon": 39.1884737
+  },
+  {
+    "id": "vrv_radar_76541_Абинский",
+    "channel": "vrv_radar",
+    "date": "2026-07-28T05:34:09+00:00",
+    "text": "Туапсинский район \nАбинский район\nКраснодарский край \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Абинский",
+    "region": "Краснодарский край",
+    "lat": 44.8852141,
+    "lon": 38.288214
+  },
+  {
+    "id": "vrv_radar_76542",
+    "channel": "vrv_radar",
+    "date": "2026-07-28T05:34:33+00:00",
+    "text": "Владимирская область \nИвановская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Владимирская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_76543",
+    "channel": "vrv_radar",
+    "date": "2026-07-28T05:36:11+00:00",
+    "text": "Московская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_84313",
+    "channel": "radarrussiia",
+    "date": "2026-07-28T05:39:53+00:00",
+    "text": "Владимирская область \nИвановская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Владимирская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_84314",
+    "channel": "radarrussiia",
+    "date": "2026-07-28T05:41:31+00:00",
+    "text": "Московская область \nОпасность по БПЛА\nПовторно \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_209268",
+    "channel": "LPRalarm",
+    "date": "2026-07-28T05:45:18+00:00",
+    "text": "Приморский Посад и далее в Азовское море Запорожская область РФ фиксации БПЛА Лютый",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_105996",
+    "channel": "kupolrussia",
+    "date": "2026-07-28T05:45:21+00:00",
+    "text": "Приморский Посад и далее в Азовское море Запорожская область РФ фиксации БПЛА Лютый",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
