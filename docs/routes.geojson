@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-28T06:10:41+00:00",
+        "last_updated": "2026-07-28T06:39:44+00:00",
+        "path_labels": [
+          "Шебекинский",
+          "Строитель"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.8728034,
+            50.438988
+          ],
+          [
+            36.485428,
+            50.785236
+          ]
+        ]
+      }
+    }
+  ]
 }
