@@ -1,82 +1,5 @@
 [
   {
-    "id": "vrv_radar_76249_Лискинский",
-    "channel": "vrv_radar",
-    "date": "2026-07-27T18:52:50+00:00",
-    "text": "Бобровский район \nЛискинский район \nОстрогожский район \nВоронежская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Лискинский",
-    "region": "Воронежская область",
-    "lat": 51.0241236,
-    "lon": 39.5840497
-  },
-  {
-    "id": "vrv_radar_76249_Острогожский",
-    "channel": "vrv_radar",
-    "date": "2026-07-27T18:52:50+00:00",
-    "text": "Бобровский район \nЛискинский район \nОстрогожский район \nВоронежская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Острогожский",
-    "region": "Воронежская область",
-    "lat": 50.8584609,
-    "lon": 39.0772421
-  },
-  {
-    "id": "kupolrussia_105777",
-    "channel": "kupolrussia",
-    "date": "2026-07-27T18:52:50+00:00",
-    "text": "От Харьковской области на восток фиксации БПЛА\nЛНР\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_209023",
-    "channel": "LPRalarm",
-    "date": "2026-07-27T18:52:52+00:00",
-    "text": "Кача\nБельбек и близлежащие \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_105778_Кача",
-    "channel": "kupolrussia",
-    "date": "2026-07-27T18:53:04+00:00",
-    "text": "Кача\nБельбек и близлежащие\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Кача",
-    "region": null,
-    "lat": 56.1972669,
-    "lon": 92.5363666
-  },
-  {
-    "id": "radarrussiia_84118_Бобровский",
-    "channel": "radarrussiia",
-    "date": "2026-07-27T18:53:18+00:00",
-    "text": "Бобровский район \nЛискинский район \nОстрогожский район \nВоронежская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Бобровский",
-    "region": "Воронежская область",
-    "lat": 51.0966142,
-    "lon": 40.0397707
-  },
-  {
-    "id": "radarrussiia_84118_Лискинский",
-    "channel": "radarrussiia",
-    "date": "2026-07-27T18:53:18+00:00",
-    "text": "Бобровский район \nЛискинский район \nОстрогожский район \nВоронежская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Лискинский",
-    "region": "Воронежская область",
-    "lat": 51.0241236,
-    "lon": 39.5840497
-  },
-  {
     "id": "radarrussiia_84118_Острогожский",
     "channel": "radarrussiia",
     "date": "2026-07-27T18:53:18+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_209337",
+    "channel": "LPRalarm",
+    "date": "2026-07-28T08:52:58+00:00",
+    "text": "Зугрэс и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_106060",
+    "channel": "kupolrussia",
+    "date": "2026-07-28T08:58:23+00:00",
+    "text": "Зугрэс и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_75541",
+    "channel": "locatorru",
+    "date": "2026-07-28T08:58:39+00:00",
+    "text": "Ярославская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_75542",
+    "channel": "locatorru",
+    "date": "2026-07-28T08:59:04+00:00",
+    "text": "Ленинградская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ленинградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_75543",
+    "channel": "locatorru",
+    "date": "2026-07-28T08:59:41+00:00",
+    "text": "Псковская область, Новгородская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_75544",
+    "channel": "locatorru",
+    "date": "2026-07-28T09:00:50+00:00",
+    "text": "Костромская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Костромская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_84338",
+    "channel": "radarrussiia",
+    "date": "2026-07-28T09:01:19+00:00",
+    "text": "Костромская область - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Костромская область",
     "lat": null,
     "lon": null
   }
