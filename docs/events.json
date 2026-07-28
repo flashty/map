@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_105628",
-    "channel": "kupolrussia",
-    "date": "2026-07-27T12:04:00+00:00",
-    "text": "Сватово \nЛНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_208860",
-    "channel": "LPRalarm",
-    "date": "2026-07-27T12:04:33+00:00",
-    "text": "Джанкойский район \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_208861",
-    "channel": "LPRalarm",
-    "date": "2026-07-27T12:05:02+00:00",
-    "text": "Сычёвка \nРакетная опасность \nЛНР",
-    "type": "missile",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_105630",
     "channel": "kupolrussia",
     "date": "2026-07-27T12:06:32+00:00",
@@ -21996,6 +21963,39 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_76523",
+    "channel": "vrv_radar",
+    "date": "2026-07-28T03:46:26+00:00",
+    "text": "Московская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_209240",
+    "channel": "LPRalarm",
+    "date": "2026-07-28T03:50:57+00:00",
+    "text": "Курская область и близлежащие\nАвиационная, ракетная, бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_105979",
+    "channel": "kupolrussia",
+    "date": "2026-07-28T03:51:24+00:00",
+    "text": "Курская область и близлежащие\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }
