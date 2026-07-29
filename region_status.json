@@ -1,14 +1,4 @@
 {
-  "курск": {
-    "display_name": "Курская область",
-    "type": "missile",
-    "text": "Глушковский район \nКурская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-29T09:02:22+00:00",
-    "expires_at": "2026-07-29T10:02:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -16,26 +6,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-29T09:13:28+00:00",
     "expires_at": "2026-07-29T10:13:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Орловская область\nЛипецкая область\nФиксация группы БПЛА в вашем направлении от Курской области\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-29T09:44:01+00:00",
-    "expires_at": "2026-07-29T10:44:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Саки\nНовофедоровка и близлежащие \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-07-29T09:19:16+00:00",
-    "expires_at": "2026-07-29T10:19:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,13 +19,23 @@
     "count": null,
     "count_approx": false
   },
-  "липецк": {
-    "display_name": "Липецкая область",
+  "херсонск": {
+    "display_name": "Херсонская область",
     "type": "drone",
-    "text": "Орловская область\nЛипецкая область\nФиксация группы БПЛА в вашем направлении от Курской области\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-29T09:44:01+00:00",
-    "expires_at": "2026-07-29T10:44:01+00:00",
+    "text": "Геническ и близлежащие \n\nХерсонская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-29T09:51:55+00:00",
+    "expires_at": "2026-07-29T10:51:55+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Луганск и близлежащие \n\nЛНР\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-29T10:01:14+00:00",
+    "expires_at": "2026-07-29T11:01:14+00:00",
     "count": null,
     "count_approx": false
   }
