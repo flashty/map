@@ -1,27 +1,5 @@
 [
   {
-    "id": "kupolrussia_106218",
-    "channel": "kupolrussia",
-    "date": "2026-07-28T16:56:10+00:00",
-    "text": "Рахманово и близлежащие \nБрянская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_209510",
-    "channel": "LPRalarm",
-    "date": "2026-07-28T16:56:31+00:00",
-    "text": "Новые Ивайтëнки и далее на Почеп\nТревога по БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_209511_Почеп",
     "channel": "LPRalarm",
     "date": "2026-07-28T16:56:32+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Курская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_210065_Акимовка",
+    "channel": "LPRalarm",
+    "date": "2026-07-29T14:15:12+00:00",
+    "text": "Акимовка, Мелитополь и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": "Акимовка",
+    "region": null,
+    "lat": 51.5043614,
+    "lon": 34.3882124
+  },
+  {
+    "id": "kupolrussia_106659_Акимовка",
+    "channel": "kupolrussia",
+    "date": "2026-07-29T14:15:18+00:00",
+    "text": "Акимовка, Мелитополь и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": "Акимовка",
+    "region": null,
+    "lat": 51.5043614,
+    "lon": 34.3882124
   }
 ]
