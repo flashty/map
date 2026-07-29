@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_106130_Бухта Южная",
-    "channel": "kupolrussia",
-    "date": "2026-07-28T11:31:12+00:00",
-    "text": "ЖД вокзал, автовокзал\nГорпищенко\nГероев Севастополя \nБухта Южная \nСевастополь\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Бухта Южная",
-    "region": null,
-    "lat": 52.9558975,
-    "lon": 158.6871993
-  },
-  {
-    "id": "kupolrussia_106130_Севастополь",
-    "channel": "kupolrussia",
-    "date": "2026-07-28T11:31:12+00:00",
-    "text": "ЖД вокзал, автовокзал\nГорпищенко\nГероев Севастополя \nБухта Южная \nСевастополь\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
-    "id": "LPRalarm_209413",
-    "channel": "LPRalarm",
-    "date": "2026-07-28T11:34:19+00:00",
-    "text": "Балаклавская ТЭС \nЕще фиксации БПЛА в направлении",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_106131",
-    "channel": "kupolrussia",
-    "date": "2026-07-28T11:34:27+00:00",
-    "text": "Балаклавская ТЭС \nЕще фиксации БПЛА в направлении",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_76595_Рязань",
-    "channel": "vrv_radar",
-    "date": "2026-07-28T11:34:41+00:00",
-    "text": "Рязань\nРязанская область\nСбитие БПЛА\nМеры безопасности",
-    "type": "all_clear",
-    "location_name": "Рязань",
-    "region": "Рязанская область",
-    "lat": 54.6295687,
-    "lon": 39.7425039
-  },
-  {
     "id": "radarrussiia_84359_Рязань",
     "channel": "radarrussiia",
     "date": "2026-07-28T11:35:13+00:00",
@@ -21994,6 +21939,61 @@
     "date": "2026-07-29T07:34:48+00:00",
     "text": "Севастополь \nТревога по ФПВ",
     "type": "alert",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_76780",
+    "channel": "vrv_radar",
+    "date": "2026-07-29T07:36:50+00:00",
+    "text": "Тамбовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_209940",
+    "channel": "LPRalarm",
+    "date": "2026-07-29T07:38:22+00:00",
+    "text": "Севастополь \nОпасность по МРШ со сбросами",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_106544",
+    "channel": "kupolrussia",
+    "date": "2026-07-29T07:38:30+00:00",
+    "text": "Севастополь \nОпасность по МРШ со сбросами",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_209941",
+    "channel": "LPRalarm",
+    "date": "2026-07-29T07:44:54+00:00",
+    "text": "Горловка - Кондратьевка, Углегорск, Енакиево, Пантелеймоновка ДНР и близлежащие \n\nОпасность по БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_209942",
+    "channel": "LPRalarm",
+    "date": "2026-07-29T07:45:43+00:00",
+    "text": "Симферополь внимание по БПЛА \nРайон ЖД и близлежащие",
+    "type": "drone",
     "location_name": null,
     "region": null,
     "lat": null,
