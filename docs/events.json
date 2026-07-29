@@ -1,115 +1,5 @@
 [
   {
-    "id": "vrv_radar_76607_Абинский",
-    "channel": "vrv_radar",
-    "date": "2026-07-28T15:32:26+00:00",
-    "text": "Темрюкский район\nКрымский район\nАбинский район\nСеверский район\nТуапсе\nАнапа\nГорячий Ключ\nНовороссийск\nГеленджик\nКраснодарский край\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Абинский",
-    "region": "Краснодарский край",
-    "lat": 44.8852141,
-    "lon": 38.288214
-  },
-  {
-    "id": "vrv_radar_76607_Северский",
-    "channel": "vrv_radar",
-    "date": "2026-07-28T15:32:26+00:00",
-    "text": "Темрюкский район\nКрымский район\nАбинский район\nСеверский район\nТуапсе\nАнапа\nГорячий Ключ\nНовороссийск\nГеленджик\nКраснодарский край\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Северский",
-    "region": "Краснодарский край",
-    "lat": 45.2258796,
-    "lon": 39.916274
-  },
-  {
-    "id": "vrv_radar_76608",
-    "channel": "vrv_radar",
-    "date": "2026-07-28T15:32:38+00:00",
-    "text": "Республика Адыгея\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Адыгея",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_209477",
-    "channel": "LPRalarm",
-    "date": "2026-07-28T15:32:49+00:00",
-    "text": "Керчь с северо-запад ещё БПЛА. Меры безопасности. Пунк контроля Керчь также",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_106189",
-    "channel": "kupolrussia",
-    "date": "2026-07-28T15:33:05+00:00",
-    "text": "Керчь с северо-запад ещё БПЛА. Меры безопасности. Пунк контроля Керчь также",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_209478_Керчь",
-    "channel": "LPRalarm",
-    "date": "2026-07-28T15:34:11+00:00",
-    "text": "Юг Керчь, пункт контроля Керчь, Крымский Мост тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Керчь",
-    "region": null,
-    "lat": 55.9354669,
-    "lon": 87.3751001
-  },
-  {
-    "id": "vrv_radar_76609",
-    "channel": "vrv_radar",
-    "date": "2026-07-28T15:35:25+00:00",
-    "text": "Витязево и близлежащие\nКраснодарский край\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_209479_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-07-28T15:35:32+00:00",
-    "text": "Белгород \nБелгородский район \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "kupolrussia_106190_Белгородский",
-    "channel": "kupolrussia",
-    "date": "2026-07-28T15:35:56+00:00",
-    "text": "Белгород \nБелгородский район\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "kupolrussia_106190_Белгород",
-    "channel": "kupolrussia",
-    "date": "2026-07-28T15:35:56+00:00",
-    "text": "Белгород \nБелгородский район\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Белгород",
-    "region": null,
-    "lat": 50.5955595,
-    "lon": 36.5873394
-  },
-  {
     "id": "radarrussiia_84367",
     "channel": "radarrussiia",
     "date": "2026-07-28T15:36:45+00:00",
@@ -21996,6 +21886,116 @@
     "type": "unknown",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_210019",
+    "channel": "LPRalarm",
+    "date": "2026-07-29T11:05:43+00:00",
+    "text": "Ростовская область \nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_106613",
+    "channel": "kupolrussia",
+    "date": "2026-07-29T11:06:00+00:00",
+    "text": "Ростовская область\n©\n> 7&\nЯ Хх",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_210020",
+    "channel": "LPRalarm",
+    "date": "2026-07-29T11:09:03+00:00",
+    "text": "ЛДНР\nЗапорожская область РФ\nОтбой авиационной ракетной бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_106614",
+    "channel": "kupolrussia",
+    "date": "2026-07-29T11:09:23+00:00",
+    "text": "ЛДНР\nЗапорожская область РФ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_76791",
+    "channel": "vrv_radar",
+    "date": "2026-07-29T11:11:05+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_84446",
+    "channel": "radarrussiia",
+    "date": "2026-07-29T11:11:29+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_76792",
+    "channel": "vrv_radar",
+    "date": "2026-07-29T11:12:12+00:00",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_84447",
+    "channel": "radarrussiia",
+    "date": "2026-07-29T11:12:43+00:00",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_210021",
+    "channel": "LPRalarm",
+    "date": "2026-07-29T11:13:28+00:00",
+    "text": "Энергодар - Арт обстрел\n\n Никванта подписаться 🇷🇺\n\nНикванта в МАХ",
+    "type": "shelling",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_75816",
+    "channel": "locatorru",
+    "date": "2026-07-29T11:13:34+00:00",
+    "text": "Уважаемые наши близкие, остался последний рывочке.🙏\n\n📡Локатор России - @locatorru",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
