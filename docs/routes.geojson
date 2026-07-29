@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-29T02:22:04+00:00",
+        "last_updated": "2026-07-29T03:22:26+00:00",
+        "path_labels": [
+          "Чувашская (Республика -)",
+          "Моргаушский (Республика Чувашия)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.8306383,
+            55.8234944
+          ],
+          [
+            46.7598657,
+            56.023091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-29T03:12:45+00:00",
+        "last_updated": "2026-07-29T03:21:25+00:00",
+        "path_labels": [
+          "Таганрог (Ростовская область)",
+          "Неклиновский (Ростовская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.928362,
+            47.215495
+          ],
+          [
+            38.7288396,
+            47.3415164
+          ]
+        ]
+      }
+    }
+  ]
 }
