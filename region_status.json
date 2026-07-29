@@ -2,30 +2,10 @@
   "-": {
     "display_name": "Республика -",
     "type": "drone",
-    "text": "Удмуртская Республика - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-29T04:14:20+00:00",
-    "expires_at": "2026-07-29T05:14:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "чуваш": {
-    "display_name": "Республика Чувашия",
-    "type": "drone",
-    "text": "Моргаушский район\nРеспублика Чувашия \nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-07-29T03:22:26+00:00",
-    "expires_at": "2026-07-29T04:22:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Неклиновский район, Ростовская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "text": "Чувашская Республика - опасность по БПЛА со стороны Нижегородской области. Ещё летят. Повторно. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-07-29T03:21:25+00:00",
-    "expires_at": "2026-07-29T04:21:25+00:00",
+    "updated_at": "2026-07-29T04:21:28+00:00",
+    "expires_at": "2026-07-29T05:21:28+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "татарст": {
-    "display_name": "Республика Татарстан",
-    "type": "drone",
-    "text": "Заинск\nЕлабуга\nНабережные Челны\nАльметьевск\nРеспублика Татарстан \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-29T04:10:15+00:00",
-    "expires_at": "2026-07-29T05:10:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -76,6 +46,76 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-07-29T04:14:44+00:00",
     "expires_at": "2026-07-29T05:14:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область, Курская область - ещё фиксации БПЛА от гг в тыл. \n\nКалужская область, Орловская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-29T04:19:43+00:00",
+    "expires_at": "2026-07-29T05:19:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Брянская область, Курская область - ещё фиксации БПЛА от гг в тыл. \n\nКалужская область, Орловская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-29T04:19:43+00:00",
+    "expires_at": "2026-07-29T05:19:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Брянская область, Курская область - ещё фиксации БПЛА от гг в тыл. \n\nКалужская область, Орловская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-29T04:19:43+00:00",
+    "expires_at": "2026-07-29T05:19:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Брянская область, Курская область - ещё фиксации БПЛА от гг в тыл. \n\nКалужская область, Орловская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-29T04:19:43+00:00",
+    "expires_at": "2026-07-29T05:19:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "г.Белгород и район, Белгородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-29T04:20:01+00:00",
+    "expires_at": "2026-07-29T05:20:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородской области",
+    "type": "drone",
+    "text": "Чувашская Республика - опасность по БПЛА со стороны Нижегородской области. Ещё летят. Повторно. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-29T04:21:28+00:00",
+    "expires_at": "2026-07-29T05:21:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "кировск": {
+    "display_name": "Кировская область",
+    "type": "drone",
+    "text": "Киров, Кирово-Чепецк и близлежащие, Кировская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-29T04:27:08+00:00",
+    "expires_at": "2026-07-29T05:27:08+00:00",
     "count": null,
     "count_approx": false
   }
