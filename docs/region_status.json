@@ -1,34 +1,4 @@
 {
-  "оренбургск": {
-    "display_name": "Оренбургская область",
-    "type": "drone",
-    "text": "Оренбургская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-30T04:15:50+00:00",
-    "expires_at": "2026-07-30T05:15:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "башкортост": {
-    "display_name": "Республике Башкортостан",
-    "type": "drone",
-    "text": "Опасность БПЛА сохраняется в Удмуртской Республике, Республике Татарстан, Республике Башкортостан, Кировской, Оренбургской областях.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-07-30T04:29:19+00:00",
-    "expires_at": "2026-07-30T05:29:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "кировск": {
-    "display_name": "Кировская область",
-    "type": "drone",
-    "text": "Киров, Кирово-Чепецк и близлежащие, Кировская область - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-30T04:17:30+00:00",
-    "expires_at": "2026-07-30T05:17:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "-": {
     "display_name": "Республика -",
     "type": "drone",
@@ -36,16 +6,6 @@
     "channel": "locatorru",
     "updated_at": "2026-07-30T04:38:56+00:00",
     "expires_at": "2026-07-30T05:38:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Попасная, Первомайск ЛНР и близлежащие тревога по БПЛА Хорнет",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-30T04:20:27+00:00",
-    "expires_at": "2026-07-30T05:20:27+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +56,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-07-30T05:09:27+00:00",
     "expires_at": "2026-07-30T06:09:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "челябинск": {
+    "display_name": "Челябинская область",
+    "type": "drone",
+    "text": "Свердловская область\nЧелябинская область\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-07-30T05:22:10+00:00",
+    "expires_at": "2026-07-30T06:22:10+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "свердловск": {
+    "display_name": "Свердловской области",
+    "type": "drone",
+    "text": "🚨Приготовится к возможной атаке БПЛА на логистический центр «Wildberries» в Екатеринбурге, Свердловской области.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-07-30T05:26:31+00:00",
+    "expires_at": "2026-07-30T06:26:31+00:00",
     "count": null,
     "count_approx": false
   }
