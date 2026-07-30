@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_106598",
-    "channel": "kupolrussia",
-    "date": "2026-07-29T10:10:07+00:00",
-    "text": "Шебекино \nТревога по БПЛА повторно",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_75813",
-    "channel": "locatorru",
-    "date": "2026-07-29T10:10:15+00:00",
-    "text": "29/07/2026 13:10 МСК.\n\nОпасность по БПЛА сохраняется:\n\n🔻Брянская область;\n🔻Смоленская область;\n🔻Белгородская область;\n🔻Курская область;\n🔻Орловская область.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_75814",
-    "channel": "locatorru",
-    "date": "2026-07-29T10:10:40+00:00",
-    "text": "Сегодня последний день помощи для семьи Владимира и сбор для ДШП, просим всех проявить максимальную активность.\n\nПомощь семье погибшему воину, нашему админу:\n\nhttps://pay.cloudtips.ru/p/7573097a\n(Семье собрано 301.716₽) \n\nСбор для ДШП:\n\nhttps://pay.cloudtips.ru/p/f173a8cf\n(Осталось собрать 84.311₽)",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_210004",
-    "channel": "LPRalarm",
-    "date": "2026-07-29T10:12:09+00:00",
-    "text": "Каменское, Семисотка, Уварово\nРеспублика Крым \nТревога по БПЛА от Азовского моря",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_106599",
-    "channel": "kupolrussia",
-    "date": "2026-07-29T10:12:31+00:00",
-    "text": "Каменское, Семисотка, Уварово\nРеспублика Крым\n от Азовского моря\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_210005_Ленинский",
     "channel": "LPRalarm",
     "date": "2026-07-29T10:13:33+00:00",
@@ -21998,5 +21943,60 @@
     "region": null,
     "lat": 50.5955595,
     "lon": 36.5873394
+  },
+  {
+    "id": "kupolrussia_106999",
+    "channel": "kupolrussia",
+    "date": "2026-07-30T07:24:50+00:00",
+    "text": "Нижегородская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_210452",
+    "channel": "LPRalarm",
+    "date": "2026-07-30T07:24:53+00:00",
+    "text": "Нижегородская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_77017",
+    "channel": "vrv_radar",
+    "date": "2026-07-30T07:25:05+00:00",
+    "text": "Нижегородская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_12808",
+    "channel": "radar_plus_bpla",
+    "date": "2026-07-30T07:27:58+00:00",
+    "text": "Уничтожен.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_210453",
+    "channel": "LPRalarm",
+    "date": "2026-07-30T07:31:22+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
   }
 ]
