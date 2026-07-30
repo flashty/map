@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_106689",
-    "channel": "kupolrussia",
-    "date": "2026-07-29T16:08:04+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_210100",
-    "channel": "LPRalarm",
-    "date": "2026-07-29T16:08:07+00:00",
-    "text": "Вейделевка \nАлексеевка \nОпасность по БПЛА \nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_75830",
-    "channel": "locatorru",
-    "date": "2026-07-29T16:08:41+00:00",
-    "text": "По северной части ЛНР ещё фиксации БПЛА в сторону Вейделевского района, Белгородской области. \n\nТарасовский, Миллерово, Чертково, Ростовская область - опасность по БПЛА от северной части ЛНР. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_106690",
-    "channel": "kupolrussia",
-    "date": "2026-07-29T16:08:49+00:00",
-    "text": "Вейделевка \nАлексеевка \nОпасность по БПЛА \nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_75831",
     "channel": "locatorru",
     "date": "2026-07-29T16:10:34+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Донецкая область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_210536",
+    "channel": "LPRalarm",
+    "date": "2026-07-30T13:40:22+00:00",
+    "text": "Дебальцево и близлежащие трассы тревога по БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_107078",
+    "channel": "kupolrussia",
+    "date": "2026-07-30T13:40:36+00:00",
+    "text": "Дебальцево и близлежащие трассы тревога по БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_210537_Горловка",
+    "channel": "LPRalarm",
+    "date": "2026-07-30T13:42:19+00:00",
+    "text": "Горловка район ГАИ, Кочегарка БПЛА",
+    "type": "drone",
+    "location_name": "Горловка",
+    "region": null,
+    "lat": 54.8546767,
+    "lon": 20.561607
+  },
+  {
+    "id": "kupolrussia_107079_Горловка",
+    "channel": "kupolrussia",
+    "date": "2026-07-30T13:42:52+00:00",
+    "text": "Горловка район ГАИ, Кочегарка БПЛА",
+    "type": "drone",
+    "location_name": "Горловка",
+    "region": null,
+    "lat": 54.8546767,
+    "lon": 20.561607
   }
 ]
