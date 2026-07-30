@@ -1,21 +1,11 @@
 {
-  "саратовск": {
-    "display_name": "Саратовской областей",
-    "type": "drone",
-    "text": "Ульяновская область, Самарская область - опасность по БПЛА от Пензенской и Саратовской областей. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-30T00:48:33+00:00",
-    "expires_at": "2026-07-30T01:48:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ульяновск": {
     "display_name": "Ульяновская область",
     "type": "drone",
-    "text": "Республика Мордовия \nСамарская область\nУльяновская область\nРеспублика Татарстан\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-07-30T01:27:31+00:00",
-    "expires_at": "2026-07-30T02:27:31+00:00",
+    "text": "Новоспасский район \nУльяновская область \nРабота ВКС по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-30T01:59:43+00:00",
+    "expires_at": "2026-07-30T02:59:43+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,10 +42,10 @@
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Нижняя Маза, Радищевский район, Пензенская область - возможно пролёты БПЛА в сторону Самарской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-30T01:21:44+00:00",
-    "expires_at": "2026-07-30T02:21:44+00:00",
+    "text": "Кузнецкий район \nПензенская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-30T01:52:36+00:00",
+    "expires_at": "2026-07-30T02:52:36+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,10 +62,10 @@
   "мордов": {
     "display_name": "Республика Мордовия",
     "type": "drone",
-    "text": "Республика Мордовия \nСамарская область\nУльяновская область\nРеспублика Татарстан\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-07-30T01:27:31+00:00",
-    "expires_at": "2026-07-30T02:27:31+00:00",
+    "text": "Зубово-Полянский район \nРеспублика Мордовия \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-30T01:51:12+00:00",
+    "expires_at": "2026-07-30T02:51:12+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +76,56 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-07-30T01:27:31+00:00",
     "expires_at": "2026-07-30T02:27:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградская область",
+    "type": "drone",
+    "text": "Алексеевский район\nВолгоградская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-30T01:46:23+00:00",
+    "expires_at": "2026-07-30T02:46:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "оренбургск": {
+    "display_name": "Оренбургская область",
+    "type": "drone",
+    "text": "Оренбургская область, Республика Башкортостан - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-30T01:46:29+00:00",
+    "expires_at": "2026-07-30T02:46:29+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "башкортост": {
+    "display_name": "Республика Башкортостан",
+    "type": "drone",
+    "text": "Оренбургская область, Республика Башкортостан - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-30T01:46:29+00:00",
+    "expires_at": "2026-07-30T02:46:29+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "чуваш": {
+    "display_name": "Республика Чувашия",
+    "type": "drone",
+    "text": "Республика Чувашия \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-30T01:54:59+00:00",
+    "expires_at": "2026-07-30T02:54:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "-": {
+    "display_name": "Республика -",
+    "type": "drone",
+    "text": "Чувашская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-30T02:01:10+00:00",
+    "expires_at": "2026-07-30T03:01:10+00:00",
     "count": null,
     "count_approx": false
   }
