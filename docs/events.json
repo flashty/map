@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_210053",
-    "channel": "LPRalarm",
-    "date": "2026-07-29T13:04:44+00:00",
-    "text": "Курская область \nТревога по БПЛА от Белгородской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_106647",
-    "channel": "kupolrussia",
-    "date": "2026-07-29T13:04:52+00:00",
-    "text": "Курская область\nот Белгородской области\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_210054",
-    "channel": "LPRalarm",
-    "date": "2026-07-29T13:05:07+00:00",
-    "text": "Акимовка, Родионовка и близлежащие\nЗапорожская область РФ\nТревога по Хорнет",
-    "type": "alert",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_106648",
-    "channel": "kupolrussia",
-    "date": "2026-07-29T13:05:13+00:00",
-    "text": "Акимовка, Родионовка и близлежащие\nЗапорожская область РФ\nТревога по Хорнет",
-    "type": "alert",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_84453",
-    "channel": "radarrussiia",
-    "date": "2026-07-29T13:08:27+00:00",
-    "text": "Курская область \nТревога по БПЛА от Белгородской области\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_210055",
-    "channel": "LPRalarm",
-    "date": "2026-07-29T13:16:33+00:00",
-    "text": "Курск и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_106649",
-    "channel": "kupolrussia",
-    "date": "2026-07-29T13:16:39+00:00",
-    "text": "Курск и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_210056",
-    "channel": "LPRalarm",
-    "date": "2026-07-29T13:17:21+00:00",
-    "text": "Орловская область, внимание по БпЛА от Курской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_106650",
-    "channel": "kupolrussia",
-    "date": "2026-07-29T13:17:27+00:00",
-    "text": "Орловская область, внимание по БпЛА от Курской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_84454",
     "channel": "radarrussiia",
     "date": "2026-07-29T13:17:47+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_12820",
+    "channel": "radar_plus_bpla",
+    "date": "2026-07-30T09:48:56+00:00",
+    "text": "Отбой опасности БПЛА по всем ранее объявленным регионам.\n\nВсе оставшиеся цели уничтожены, не достигнув своих целей!\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_84595",
+    "channel": "radarrussiia",
+    "date": "2026-07-30T09:49:51+00:00",
+    "text": "Отбой опасности БПЛА по всем ранее объявленным регионам.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_210497_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-07-30T09:52:56+00:00",
+    "text": "Нижний Ольшанец, Белгородский район \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_210497_Нижний Ольшанец",
+    "channel": "LPRalarm",
+    "date": "2026-07-30T09:52:56+00:00",
+    "text": "Нижний Ольшанец, Белгородский район \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": "Нижний Ольшанец",
+    "region": null,
+    "lat": 50.4887539,
+    "lon": 36.6811703
+  },
+  {
+    "id": "kupolrussia_107041_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-07-30T09:53:09+00:00",
+    "text": "Нижний Ольшанец, Белгородский район \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_107041_Нижний Ольшанец",
+    "channel": "kupolrussia",
+    "date": "2026-07-30T09:53:09+00:00",
+    "text": "Нижний Ольшанец, Белгородский район \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": "Нижний Ольшанец",
+    "region": null,
+    "lat": 50.4887539,
+    "lon": 36.6811703
+  },
+  {
+    "id": "LPRalarm_210498_Шебекинский",
+    "channel": "LPRalarm",
+    "date": "2026-07-30T09:53:21+00:00",
+    "text": "Вознесеновка \nШебекинский район\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": null,
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "kupolrussia_107042_Шебекинский",
+    "channel": "kupolrussia",
+    "date": "2026-07-30T09:55:48+00:00",
+    "text": "Вознесеновка \nШебекинский район\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": null,
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "radar_plus_bpla_12821",
+    "channel": "radar_plus_bpla",
+    "date": "2026-07-30T10:00:39+00:00",
+    "text": "⚡️⚡️Четыре человека пострадали в результате террористической атаки 15 украинских БПЛА на логистический центр «Wildberries» в Пензе.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
