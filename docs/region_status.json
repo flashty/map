@@ -10,12 +10,12 @@
     "count_approx": false
   },
   "татарст": {
-    "display_name": "Республики Татарстан",
+    "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Кошки, Самарская область - ещё пролёт 1 БПЛА в сторону примерно Нурлат, Республики Татарстан и далее вглубь. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-30T03:21:52+00:00",
-    "expires_at": "2026-07-30T04:21:52+00:00",
+    "text": "Альметьевск \nРеспублика Татарстан \nВ вашем направлении фиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-30T03:44:45+00:00",
+    "expires_at": "2026-07-30T04:44:45+00:00",
     "count": null,
     "count_approx": false
   },
@@ -32,10 +32,10 @@
   "башкортост": {
     "display_name": "Республика Башкортостан",
     "type": "drone",
-    "text": "Республика Башкортостан - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-30T03:05:16+00:00",
-    "expires_at": "2026-07-30T04:05:16+00:00",
+    "text": "Республика Удмуртия \nРеспублика Башкортостан \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-30T03:34:14+00:00",
+    "expires_at": "2026-07-30T04:34:14+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +86,26 @@
     "channel": "vrv_radar",
     "updated_at": "2026-07-30T03:16:31+00:00",
     "expires_at": "2026-07-30T04:16:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "-": {
+    "display_name": "Республика -",
+    "type": "drone",
+    "text": "Удмуртская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-30T03:33:02+00:00",
+    "expires_at": "2026-07-30T04:33:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "удмурт": {
+    "display_name": "Республика Удмуртия",
+    "type": "drone",
+    "text": "Республика Удмуртия \nРеспублика Башкортостан \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-30T03:34:14+00:00",
+    "expires_at": "2026-07-30T04:34:14+00:00",
     "count": null,
     "count_approx": false
   }
