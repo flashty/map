@@ -1,35 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-07-30T09:39:35+00:00",
-        "last_updated": "2026-07-30T09:53:09+00:00",
-        "path_labels": [
-          "Разумное",
-          "Белгород",
-          "Нижний Ольшанец"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.6859568,
-            50.5347515
-          ],
-          [
-            36.5873394,
-            50.5955595
-          ],
-          [
-            36.6811703,
-            50.4887539
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
