@@ -1,104 +1,5 @@
 [
   {
-    "id": "vrv_radar_76804",
-    "channel": "vrv_radar",
-    "date": "2026-07-29T15:59:56+00:00",
-    "text": "Тамбовская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_210092",
-    "channel": "LPRalarm",
-    "date": "2026-07-29T16:00:13+00:00",
-    "text": "Новогродовка ДНР и близлежащие \nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_106684",
-    "channel": "kupolrussia",
-    "date": "2026-07-29T16:00:22+00:00",
-    "text": "Горловка, Кондратьевка, Углегорск, Енакиево ДНР и близлежащие\n\nи возможным ФПВ повторно, ещё фиксации\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_106685",
-    "channel": "kupolrussia",
-    "date": "2026-07-29T16:00:32+00:00",
-    "text": "Новогродовка ДНР и близлежащие \nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_210093_Луганск",
-    "channel": "LPRalarm",
-    "date": "2026-07-29T16:00:53+00:00",
-    "text": "Луганск, Юбилейное и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Луганск",
-    "region": null,
-    "lat": 53.622169,
-    "lon": 77.599037
-  },
-  {
-    "id": "kupolrussia_106686_Луганск",
-    "channel": "kupolrussia",
-    "date": "2026-07-29T16:01:05+00:00",
-    "text": "Луганск, Юбилейное и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Луганск",
-    "region": null,
-    "lat": 53.622169,
-    "lon": 77.599037
-  },
-  {
-    "id": "LPRalarm_210094",
-    "channel": "LPRalarm",
-    "date": "2026-07-29T16:05:16+00:00",
-    "text": "Титовка и близлежащие \nОпасность по БПЛА \nРостовская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_106687",
-    "channel": "kupolrussia",
-    "date": "2026-07-29T16:05:24+00:00",
-    "text": "Титовка и близлежащие \nРостовская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_210095_Грайворонский",
-    "channel": "LPRalarm",
-    "date": "2026-07-29T16:05:54+00:00",
-    "text": "Грайворонский район \nМассовый пролет ударных БПЛА в тыл \nБелгородская область",
-    "type": "drone",
-    "location_name": "Грайворонский",
-    "region": "Белгородская область",
-    "lat": 50.4309028,
-    "lon": 35.5905721
-  },
-  {
     "id": "radarrussiia_84460",
     "channel": "radarrussiia",
     "date": "2026-07-29T16:05:58+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_76112",
+    "channel": "locatorru",
+    "date": "2026-07-30T12:54:24+00:00",
+    "text": "РСЧС: Тюменская область, Курганская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тюменская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_77045_Таганрог",
+    "channel": "vrv_radar",
+    "date": "2026-07-30T12:54:29+00:00",
+    "text": "Таганрог\nРостовская область\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": "Таганрог",
+    "region": "Ростовская область",
+    "lat": 47.215495,
+    "lon": 38.928362
+  },
+  {
+    "id": "radarrussiia_84602_Таганрог",
+    "channel": "radarrussiia",
+    "date": "2026-07-30T12:54:52+00:00",
+    "text": "Таганрог\nРостовская область\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": "Таганрог",
+    "region": "Ростовская область",
+    "lat": 47.215495,
+    "lon": 38.928362
+  },
+  {
+    "id": "vrv_radar_77046",
+    "channel": "vrv_radar",
+    "date": "2026-07-30T12:56:36+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_210530",
+    "channel": "LPRalarm",
+    "date": "2026-07-30T12:56:52+00:00",
+    "text": "Отбой опасности по БПЛА Ростовская область ранее объявленные районы",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_77047",
+    "channel": "vrv_radar",
+    "date": "2026-07-30T12:57:12+00:00",
+    "text": "Курганская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_76113",
+    "channel": "locatorru",
+    "date": "2026-07-30T12:57:21+00:00",
+    "text": "Ростовская область - отбой опасности по БПЛА в ранее объявленных районах, режим внимание. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_107074",
+    "channel": "kupolrussia",
+    "date": "2026-07-30T12:59:27+00:00",
+    "text": "Отбой опасности по БПЛА Ростовская область ранее объявленные районы",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_84603",
+    "channel": "radarrussiia",
+    "date": "2026-07-30T13:00:54+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
     "lat": null,
     "lon": null
   }
