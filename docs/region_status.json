@@ -11,51 +11,11 @@
   },
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Ждановка, Кировское, Харцызск ДНР и близлежащие \nВнимание по БПЛА от Енакиево",
+    "type": "missile",
+    "text": "Новоелизаветовка\nФилия\nТроицкое\nБогатырь\n\nРакетная опасность повторно\nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-07-31T07:09:52+00:00",
-    "expires_at": "2026-07-31T08:09:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "сверловск": {
-    "display_name": "Сверловская область",
-    "type": "drone",
-    "text": "Сверловская область - опасность по БПЛА, повторно.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-31T06:26:31+00:00",
-    "expires_at": "2026-07-31T07:26:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тюменск": {
-    "display_name": "Тюменская область",
-    "type": "drone",
-    "text": "Тюменская область - внимание по БПЛА от Свердловской области. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-31T06:29:25+00:00",
-    "expires_at": "2026-07-31T07:29:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "челябинск": {
-    "display_name": "Челябинская область",
-    "type": "drone",
-    "text": "Арасланово, Нязепетровский район, Челябинская область - пролёт БПЛА на восток.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-31T06:30:13+00:00",
-    "expires_at": "2026-07-31T07:30:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "пермск": {
-    "display_name": "Пермским краем",
-    "type": "drone",
-    "text": "БПЛА над Пермским краем в направлении Перми.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-07-31T06:53:49+00:00",
-    "expires_at": "2026-07-31T07:53:49+00:00",
+    "updated_at": "2026-07-31T07:24:08+00:00",
+    "expires_at": "2026-07-31T08:24:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +46,46 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-31T06:57:57+00:00",
     "expires_at": "2026-07-31T07:57:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "missile",
+    "text": "Херсонская область РФ \nАвиационная ракетно бомбовая опасность",
+    "channel": "LPRalarm",
+    "updated_at": "2026-07-31T07:27:44+00:00",
+    "expires_at": "2026-07-31T08:27:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Мелитопольский район и близлежащие \nМеры безопасности \nЗапорожская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-31T07:30:41+00:00",
+    "expires_at": "2026-07-31T08:30:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Сочи и близлежащие\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-07-31T07:26:16+00:00",
+    "expires_at": "2026-07-31T08:26:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-07-31T07:30:52+00:00",
+    "expires_at": "2026-07-31T08:30:52+00:00",
     "count": null,
     "count_approx": false
   }
