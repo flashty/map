@@ -55,6 +55,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-07-31T00:53:11+00:00",
+        "last_updated": "2026-07-31T01:31:06+00:00",
+        "path_labels": [
+          "Николаевский (Ульяновская область)",
+          "Старокулаткинский (Ульяновская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.2565168,
+            53.1039795
+          ],
+          [
+            47.4949158,
+            52.7627355
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-07-31T01:23:48+00:00",
         "last_updated": "2026-07-31T01:23:48+00:00",
         "path_labels": [
