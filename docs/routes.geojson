@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-07-31T09:24:38+00:00",
+        "last_updated": "2026-07-31T09:57:24+00:00",
+        "path_labels": [
+          "Маслова Пристань (Белгородская область)",
+          "Томаровка (Белгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.7405722,
+            50.4597389
+          ],
+          [
+            36.232243,
+            50.683018
+          ]
+        ]
+      }
+    }
+  ]
 }
