@@ -22,10 +22,10 @@
   "башкортост": {
     "display_name": "Республика Башкортостан",
     "type": "drone",
-    "text": "Ермекеево, ​Республика Башкортостан - возможно группа БПЛА в сторону Уфы.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-07-31T02:42:29+00:00",
-    "expires_at": "2026-07-31T03:42:29+00:00",
+    "text": "Чекмагушевский район\nРеспублика Башкортостан\nРабота ВКС по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-31T02:48:14+00:00",
+    "expires_at": "2026-07-31T03:48:14+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "ЛНР\nопасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-07-31T01:57:31+00:00",
-    "expires_at": "2026-07-31T02:57:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "пролёт": {
     "display_name": "Республика\nПролёт",
     "type": "drone",
@@ -70,13 +60,13 @@
     "count_approx": false
   },
   "татарст": {
-    "display_name": "Республикой Татарстан",
+    "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "🚨От 18 БПЛА над Республикой Татарстан в направлении Удмуртской Республики.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-07-31T02:45:20+00:00",
-    "expires_at": "2026-07-31T03:45:20+00:00",
-    "count": 18,
+    "text": "Заинский район \nРеспублика Татарстан \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-07-31T02:59:40+00:00",
+    "expires_at": "2026-07-31T03:59:40+00:00",
+    "count": null,
     "count_approx": false
   },
   "крым": {
@@ -156,6 +146,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-07-31T02:41:43+00:00",
     "expires_at": "2026-07-31T03:41:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "динск": {
+    "display_name": "Динская край",
+    "type": "drone",
+    "text": "Динская, Краснодарский край - пролёт БПЛА в сторону Кореновск.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-31T02:53:32+00:00",
+    "expires_at": "2026-07-31T03:53:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Динская, Краснодарский край - пролёт БПЛА в сторону Кореновск.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-07-31T02:53:32+00:00",
+    "expires_at": "2026-07-31T03:53:32+00:00",
     "count": null,
     "count_approx": false
   }
