@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_77374",
-    "channel": "vrv_radar",
-    "date": "2026-07-31T06:13:01+00:00",
-    "text": "Ростовская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_84801",
-    "channel": "radarrussiia",
-    "date": "2026-07-31T06:13:30+00:00",
-    "text": "Ростовская область\nОтбой ракетной опасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_77375",
-    "channel": "vrv_radar",
-    "date": "2026-07-31T06:16:04+00:00",
-    "text": "Республика Калмыкия\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Калмыкия",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_84802",
     "channel": "radarrussiia",
     "date": "2026-07-31T06:18:20+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_76598_Неклиновский",
+    "channel": "locatorru",
+    "date": "2026-07-31T23:35:00+00:00",
+    "text": "Золотая Коса, Неклиновский район, Ростовская область - пролёт БПЛА, возможно в сторону Таганрога.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Неклиновский",
+    "region": "Ростовская область",
+    "lat": 47.3415164,
+    "lon": 38.7288396
+  },
+  {
+    "id": "locatorru_76598_Золотая Коса",
+    "channel": "locatorru",
+    "date": "2026-07-31T23:35:00+00:00",
+    "text": "Золотая Коса, Неклиновский район, Ростовская область - пролёт БПЛА, возможно в сторону Таганрога.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Золотая Коса",
+    "region": "Ростовская область",
+    "lat": 47.144646,
+    "lon": 38.631199
+  },
+  {
+    "id": "LPRalarm_211455",
+    "channel": "LPRalarm",
+    "date": "2026-07-31T23:35:05+00:00",
+    "text": "Войково и близлежащие\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
