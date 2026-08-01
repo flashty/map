@@ -1,51 +1,31 @@
 {
-  "оренбургск": {
-    "display_name": "Оренбургская область",
-    "type": "drone",
-    "text": "Оренбургская область\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ® ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-01T04:44:07+00:00",
-    "expires_at": "2026-08-01T05:44:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ярославск": {
     "display_name": "Ярославская область",
     "type": "drone",
-    "text": "Ярославская область - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-01T05:03:55+00:00",
-    "expires_at": "2026-08-01T06:03:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "самарск": {
-    "display_name": "Самарская область",
-    "type": "drone",
-    "text": "Сызрань, Самара, Новокуйбышевск, Тольятти, Самарская область - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-01T05:14:39+00:00",
-    "expires_at": "2026-08-01T06:14:39+00:00",
+    "text": "Рыбинск, Ярославская область - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-01T05:38:48+00:00",
+    "expires_at": "2026-08-01T06:38:48+00:00",
     "count": null,
     "count_approx": false
   },
   "башкортост": {
     "display_name": "Республика Башкортостан",
     "type": "drone",
-    "text": "Уфа и близлежащие, Республика Башкортостан - не попадите под атаку БПЛА. Работает ПВО. \n\n📡Локатор России - @locatorru",
+    "text": "Чишма, Республика Башкортостан - ещё пролёт БПЛА в направлении аэропорта, Уфа. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-08-01T05:32:14+00:00",
-    "expires_at": "2026-08-01T06:32:14+00:00",
+    "updated_at": "2026-08-01T05:37:04+00:00",
+    "expires_at": "2026-08-01T06:37:04+00:00",
     "count": null,
     "count_approx": false
   },
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "missile",
-    "text": "Комар, Великая Новоселка ДНР \nРакетная опасность",
+    "type": "drone",
+    "text": "Шахтерск и близлежащие \nВнимание по БПЛА \nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-01T05:25:52+00:00",
-    "expires_at": "2026-08-01T06:25:52+00:00",
+    "updated_at": "2026-08-01T05:38:14+00:00",
+    "expires_at": "2026-08-01T06:38:14+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +36,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-01T05:27:59+00:00",
     "expires_at": "2026-08-01T06:27:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "костромск": {
+    "display_name": "Костромская область",
+    "type": "drone",
+    "text": "Костромская область\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-01T05:36:02+00:00",
+    "expires_at": "2026-08-01T06:36:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "вологодск": {
+    "display_name": "Вологодская область",
+    "type": "drone",
+    "text": "Вологодская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-01T05:41:02+00:00",
+    "expires_at": "2026-08-01T06:41:02+00:00",
     "count": null,
     "count_approx": false
   }
