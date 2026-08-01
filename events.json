@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_210901",
-    "channel": "LPRalarm",
-    "date": "2026-07-31T06:51:58+00:00",
-    "text": "Свердловская область \nОпасность по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Свердловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_77381_Новороссийск",
-    "channel": "vrv_radar",
-    "date": "2026-07-31T06:52:07+00:00",
-    "text": "Новороссийск\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
-    "type": "all_clear",
-    "location_name": "Новороссийск",
-    "region": "Краснодарский край",
-    "lat": 44.7239578,
-    "lon": 37.7690711
-  },
-  {
-    "id": "radar_plus_bpla_12907",
-    "channel": "radar_plus_bpla",
-    "date": "2026-07-31T06:52:22+00:00",
-    "text": "БПЛА над Пермским краем в направлении Перми.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Пермским краем",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_76456",
-    "channel": "locatorru",
-    "date": "2026-07-31T06:52:51+00:00",
-    "text": "Екатеринбург и близлежащие, опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_84812",
-    "channel": "radarrussiia",
-    "date": "2026-07-31T06:53:49+00:00",
-    "text": "БПЛА над Пермским краем в направлении Перми.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Пермским краем",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_84813_Туапсе",
     "channel": "radarrussiia",
     "date": "2026-07-31T06:54:10+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_77570",
+    "channel": "vrv_radar",
+    "date": "2026-08-01T01:27:27+00:00",
+    "text": "Нижегородская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_77571_Калуга",
+    "channel": "vrv_radar",
+    "date": "2026-08-01T01:29:42+00:00",
+    "text": "г. Калуга\nКалужская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Калуга",
+    "region": "Калужская область",
+    "lat": 54.5101087,
+    "lon": 36.2598115
+  },
+  {
+    "id": "LPRalarm_211474",
+    "channel": "LPRalarm",
+    "date": "2026-08-01T01:29:57+00:00",
+    "text": "Приморско-Ахтарск и близлежащие\nТревога по БПЛА, повторно\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_77572_Саратов",
+    "channel": "vrv_radar",
+    "date": "2026-08-01T01:30:09+00:00",
+    "text": "г. Саратов\nСаратовская область\nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": "Саратов",
+    "region": "Саратовская область",
+    "lat": 51.530018,
+    "lon": 46.034683
+  },
+  {
+    "id": "radar_plus_bpla_12933",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-01T01:30:41+00:00",
+    "text": "Саратов - сбитие БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }

@@ -12,10 +12,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "г. Краснодар\nКраснодарский край\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-01T01:14:14+00:00",
-    "expires_at": "2026-08-01T02:14:14+00:00",
+    "text": "Приморско-Ахтарск и близлежащие\nТревога по БПЛА, повторно\nКраснодарский край",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-01T01:29:57+00:00",
+    "expires_at": "2026-08-01T02:29:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,10 +52,10 @@
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
-    "text": "Саратовская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-01T01:15:05+00:00",
-    "expires_at": "2026-08-01T02:15:05+00:00",
+    "text": "г. Саратов\nСаратовская область\nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-01T01:30:09+00:00",
+    "expires_at": "2026-08-01T02:30:09+00:00",
     "count": null,
     "count_approx": false
   },
@@ -79,33 +79,13 @@
     "count": null,
     "count_approx": false
   },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Дмитровск-Орловский\nОрловская область\nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-01T00:20:27+00:00",
-    "expires_at": "2026-08-01T01:20:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "нижегородск": {
     "display_name": "Нижегородская область",
     "type": "drone",
-    "text": "Лукояновский район, Нижегородская область - начались фиксации БПЛА от Тамбовской области, Республики Мордовия. \n\nНаправление на Чувашскую Республику. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-01T01:17:53+00:00",
-    "expires_at": "2026-08-01T02:17:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Льговский район\nТревога по БПЛА сохраняется\nКурская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-01T00:24:25+00:00",
-    "expires_at": "2026-08-01T01:24:25+00:00",
+    "text": "Нижегородская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-01T01:27:27+00:00",
+    "expires_at": "2026-08-01T02:27:27+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +106,16 @@
     "channel": "locatorru",
     "updated_at": "2026-08-01T01:16:26+00:00",
     "expires_at": "2026-08-01T02:16:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "г. Калуга\nКалужская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-01T01:29:42+00:00",
+    "expires_at": "2026-08-01T02:29:42+00:00",
     "count": null,
     "count_approx": false
   }
