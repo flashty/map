@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-01T16:50:34+00:00",
+        "last_updated": "2026-08-01T17:18:29+00:00",
+        "path_labels": [
+          "Климово (Брянская область)",
+          "Стародубский (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.1971433,
+            52.3790542
+          ],
+          [
+            32.7150092,
+            52.5153759
+          ]
+        ]
+      }
+    }
+  ]
 }
