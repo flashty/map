@@ -90,6 +90,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-07-31T22:41:37+00:00",
+        "last_updated": "2026-08-01T00:06:39+00:00",
+        "path_labels": [
+          "Золотая Коса (Ростовская область)",
+          "Калининский (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.631199,
+            47.144646
+          ],
+          [
+            39.294868,
+            46.694134
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-07-31T22:52:13+00:00",
         "last_updated": "2026-07-31T23:14:21+00:00",
         "path_labels": [
