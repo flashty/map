@@ -21,21 +21,11 @@
   },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Бердянск дорожное Р280\nЗапорожская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "alert",
+    "text": "ЛДНР, Запорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-01T10:50:49+00:00",
-    "expires_at": "2026-08-01T11:50:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Тамбовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-01T10:34:23+00:00",
-    "expires_at": "2026-08-01T11:34:23+00:00",
+    "updated_at": "2026-08-01T11:35:30+00:00",
+    "expires_at": "2026-08-01T12:35:30+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +36,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-01T11:15:53+00:00",
     "expires_at": "2026-08-01T12:15:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область. Стародуб и близлежащие опасность по БПЛА и ФПВ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-01T11:34:55+00:00",
+    "expires_at": "2026-08-01T12:34:55+00:00",
     "count": null,
     "count_approx": false
   }
