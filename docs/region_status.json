@@ -1,14 +1,4 @@
 {
-  "ярославск": {
-    "display_name": "Ярославская область",
-    "type": "drone",
-    "text": "Рыбинск, Ярославская область - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-01T05:38:48+00:00",
-    "expires_at": "2026-08-01T06:38:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -29,26 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "костромск": {
-    "display_name": "Костромская область",
-    "type": "drone",
-    "text": "Костромская область\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-01T05:36:02+00:00",
-    "expires_at": "2026-08-01T06:36:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "вологодск": {
-    "display_name": "Вологодская область",
-    "type": "drone",
-    "text": "Вологодская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-01T05:41:02+00:00",
-    "expires_at": "2026-08-01T06:41:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "одесск": {
     "display_name": "Одесская область",
     "type": "drone",
@@ -66,16 +36,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-01T05:54:23+00:00",
     "expires_at": "2026-08-01T06:54:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "missile",
-    "text": "Ракитянский район Белгородская область ракетная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-01T06:18:54+00:00",
-    "expires_at": "2026-08-01T07:18:54+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +86,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-01T06:24:45+00:00",
     "expires_at": "2026-08-01T07:24:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Строитель, Белгород, Яковлевский район и близлежащие\nБелгородская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-01T06:46:31+00:00",
+    "expires_at": "2026-08-01T07:46:31+00:00",
     "count": null,
     "count_approx": false
   }
