@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_211240",
-    "channel": "LPRalarm",
-    "date": "2026-07-31T18:25:18+00:00",
-    "text": "Север\nСеверо-Запад \nРеспублика Крым \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_107701",
-    "channel": "kupolrussia",
-    "date": "2026-07-31T18:25:32+00:00",
-    "text": "Север\nСеверо-Запад \nРеспублика Крым \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_211241",
-    "channel": "LPRalarm",
-    "date": "2026-07-31T18:25:54+00:00",
-    "text": "Горловка ДНР Калиновка БПЛА, близлежащие тоже аккуратно",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_107702",
-    "channel": "kupolrussia",
-    "date": "2026-07-31T18:26:18+00:00",
-    "text": "Горловка ДНР Калиновка БПЛА, близлежащие тоже аккуратно",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_107703_Вертное",
-    "channel": "kupolrussia",
-    "date": "2026-07-31T18:26:45+00:00",
-    "text": "Думиничи и далее на Вертное, Сухиничи\nПролет ракеты или реактивного БПЛА\nКалужская область",
-    "type": "missile",
-    "location_name": "Вертное",
-    "region": "Калужская область",
-    "lat": 53.9511,
-    "lon": 35.1836
-  },
-  {
-    "id": "LPRalarm_211242_Вертное",
-    "channel": "LPRalarm",
-    "date": "2026-07-31T18:26:57+00:00",
-    "text": "Думиничи и далее на Вертное, Сухиничи\nПролет ракеты или реактивного БПЛА\nКалужская область",
-    "type": "missile",
-    "location_name": "Вертное",
-    "region": "Калужская область",
-    "lat": 53.9511,
-    "lon": 35.1836
-  },
-  {
     "id": "LPRalarm_211243",
     "channel": "LPRalarm",
     "date": "2026-07-31T18:29:20+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_77659",
+    "channel": "vrv_radar",
+    "date": "2026-08-01T15:41:28+00:00",
+    "text": "Тульская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_211762_Витязево",
+    "channel": "LPRalarm",
+    "date": "2026-08-01T15:42:35+00:00",
+    "text": "Витязево, Анапа и близлежащие тревога по БПЛА \n\nКраснодарский край",
+    "type": "drone",
+    "location_name": "Витязево",
+    "region": "Краснодарский край",
+    "lat": 44.9897066,
+    "lon": 37.2607195
+  },
+  {
+    "id": "kupolrussia_108121_Витязево",
+    "channel": "kupolrussia",
+    "date": "2026-08-01T15:42:50+00:00",
+    "text": "Витязево, Анапа и близлежащие тревога по БПЛА \n\nКраснодарский край",
+    "type": "drone",
+    "location_name": "Витязево",
+    "region": "Краснодарский край",
+    "lat": 44.9897066,
+    "lon": 37.2607195
+  },
+  {
+    "id": "radarrussiia_84998",
+    "channel": "radarrussiia",
+    "date": "2026-08-01T15:43:34+00:00",
+    "text": "Витязево и близлежащие \nМО Анапа \nНовороссийск и близлежащие \nКраснодарский край \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_84999",
+    "channel": "radarrussiia",
+    "date": "2026-08-01T15:44:27+00:00",
+    "text": "Таганрог \nРостовская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_85000",
+    "channel": "radarrussiia",
+    "date": "2026-08-01T15:45:59+00:00",
+    "text": "Тульская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тульская область",
     "lat": null,
     "lon": null
   }
