@@ -22,10 +22,10 @@
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Калужская область \nТульская область \nРязанская область \nПриготовиться к очередной волне БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-01T17:47:22+00:00",
-    "expires_at": "2026-08-01T18:47:22+00:00",
+    "text": "Рязанский район \nРязанская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-01T17:49:31+00:00",
+    "expires_at": "2026-08-01T18:49:31+00:00",
     "count": null,
     "count_approx": false
   },
@@ -92,10 +92,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Рохманово и близлежащие \nТревога по БПЛА \nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-01T17:48:26+00:00",
-    "expires_at": "2026-08-01T18:48:26+00:00",
+    "text": "Высокое, Унечский район, Брянская область - пролёт БПЛА в сторону Новые Ивайтенки. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-01T18:02:10+00:00",
+    "expires_at": "2026-08-01T19:02:10+00:00",
     "count": null,
     "count_approx": false
   },
@@ -112,30 +112,30 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Север, Северо-Запад \nРеспублика Крым \nопасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-01T17:40:15+00:00",
-    "expires_at": "2026-08-01T18:40:15+00:00",
+    "text": "От Завет Ленинского в сторону Джанкоя фиксации БПЛА \nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-01T17:55:55+00:00",
+    "expires_at": "2026-08-01T18:55:55+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Калужская область \nТульская область \nРязанская область \nПриготовиться к очередной волне БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-01T17:47:22+00:00",
-    "expires_at": "2026-08-01T18:47:22+00:00",
+    "text": "Суворовский район \nТульская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-01T17:48:35+00:00",
+    "expires_at": "2026-08-01T18:48:35+00:00",
     "count": null,
     "count_approx": false
   },
   "липецк": {
     "display_name": "Липецкая область",
     "type": "drone",
-    "text": "Хлевенский район \nЛипецкая область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-01T17:43:10+00:00",
-    "expires_at": "2026-08-01T18:43:10+00:00",
+    "text": "Липецк \nЛипецкая область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-01T17:55:17+00:00",
+    "expires_at": "2026-08-01T18:55:17+00:00",
     "count": null,
     "count_approx": false
   },
@@ -146,6 +146,36 @@
     "channel": "vrv_radar",
     "updated_at": "2026-08-01T17:48:05+00:00",
     "expires_at": "2026-08-01T18:48:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Смоленская область \nТверская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-01T17:57:16+00:00",
+    "expires_at": "2026-08-01T18:57:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Смоленская область \nТверская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-01T17:57:16+00:00",
+    "expires_at": "2026-08-01T18:57:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Ростовская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-01T18:00:12+00:00",
+    "expires_at": "2026-08-01T19:00:12+00:00",
     "count": null,
     "count_approx": false
   }
