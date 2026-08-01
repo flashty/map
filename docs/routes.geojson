@@ -5,6 +5,56 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-08-01T01:41:36+00:00",
+        "last_updated": "2026-08-01T02:13:33+00:00",
+        "path_labels": [
+          "Сызрань (Самарская область)",
+          "Старокулаткинский (Ульяновская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.474121,
+            53.15538
+          ],
+          [
+            47.4949158,
+            52.7627355
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-01T01:43:08+00:00",
+        "last_updated": "2026-08-01T02:05:53+00:00",
+        "path_labels": [
+          "Ровенский (Саратовская область)",
+          "Краснокутский (Саратовская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.3283754,
+            50.8440198
+          ],
+          [
+            46.9679154,
+            50.8652774
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-08-01T01:52:52+00:00",
         "last_updated": "2026-08-01T01:52:52+00:00",
         "path_labels": [
