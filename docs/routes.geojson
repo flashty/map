@@ -116,6 +116,31 @@
       "properties": {
         "type": "drone",
         "started_at": "2026-08-01T13:45:57+00:00",
+        "last_updated": "2026-08-01T14:27:34+00:00",
+        "path_labels": [
+          "Ильский",
+          "Крымский (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.5608255,
+            44.8458544
+          ],
+          [
+            37.896802,
+            44.9624541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-01T13:45:57+00:00",
         "last_updated": "2026-08-01T14:15:47+00:00",
         "path_labels": [
           "Новороссийск",
