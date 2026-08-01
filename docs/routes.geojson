@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-01T11:07:53+00:00",
+        "last_updated": "2026-08-01T11:58:28+00:00",
+        "path_labels": [
+          "Ленинский",
+          "Волна"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.2661214,
+            56.0736587
+          ],
+          [
+            46.626371,
+            56.2765268
+          ]
+        ]
+      }
+    }
+  ]
 }
