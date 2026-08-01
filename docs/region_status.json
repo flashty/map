@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Смоленская область, Калужская область, Орловская область - опасность по БПЛА от Брянской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-01T14:15:47+00:00",
-    "expires_at": "2026-08-01T15:15:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -42,20 +32,10 @@
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
-    "text": "Белгородская область \nКурская область \nТревога по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-01T15:00:30+00:00",
-    "expires_at": "2026-08-01T16:00:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "воронежск": {
-    "display_name": "Воронежской области",
-    "type": "missile",
-    "text": "Белгород, Белгородский район и ситуативно Белгородская область! \nРакетная опасность! Займите Безопасные места!\n\n\nПотенциальная опасность для Курской области и Воронежской области",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-01T14:09:51+00:00",
-    "expires_at": "2026-08-01T15:09:51+00:00",
+    "text": "Крупец - фиксации БПЛА в сторону Рыльска!\nКурская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-01T15:02:00+00:00",
+    "expires_at": "2026-08-01T16:02:00+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,16 +46,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-01T14:19:33+00:00",
     "expires_at": "2026-08-01T15:19:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "никольск": {
-    "display_name": "Никольское область",
-    "type": "drone",
-    "text": "Никольское\nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-01T14:11:52+00:00",
-    "expires_at": "2026-08-01T15:11:52+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +76,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-01T15:01:26+00:00",
     "expires_at": "2026-08-01T16:01:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Волноваха и близлежащие \nДНР\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-01T15:11:56+00:00",
+    "expires_at": "2026-08-01T16:11:56+00:00",
     "count": null,
     "count_approx": false
   }
