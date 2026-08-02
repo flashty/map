@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_211678",
-    "channel": "LPRalarm",
-    "date": "2026-08-01T12:30:14+00:00",
-    "text": "ЛДНР отбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_108037",
-    "channel": "kupolrussia",
-    "date": "2026-08-01T12:30:44+00:00",
-    "text": "ЛДНР",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_108038",
-    "channel": "kupolrussia",
-    "date": "2026-08-01T12:31:09+00:00",
-    "text": "Белгородская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_211679",
     "channel": "LPRalarm",
     "date": "2026-08-01T12:33:24+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Саратовской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_77963_Безенчукский",
+    "channel": "vrv_radar",
+    "date": "2026-08-02T03:24:56+00:00",
+    "text": "Безенчукский район\nСамарская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Безенчукский",
+    "region": "Самарская область",
+    "lat": 52.9893625,
+    "lon": 49.2578128
+  },
+  {
+    "id": "LPRalarm_212118",
+    "channel": "LPRalarm",
+    "date": "2026-08-02T03:28:20+00:00",
+    "text": "Геленджик\nТревога по БПЛА сохраняется \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_108441",
+    "channel": "kupolrussia",
+    "date": "2026-08-02T03:28:25+00:00",
+    "text": "Геленджик\nТревога по БПЛА сохраняется \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }

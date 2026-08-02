@@ -39,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "нижегородск": {
-    "display_name": "Нижегородская область",
-    "type": "drone",
-    "text": "Перевозский ГО\nБутурлинский ГО\nНижегородская область\nФиксация единичных БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-02T02:34:06+00:00",
-    "expires_at": "2026-08-02T03:34:06+00:00",
-    "count": 1,
-    "count_approx": true
-  },
   "саратовск": {
     "display_name": "Саратовской области",
     "type": "drone",
@@ -86,6 +76,26 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-08-02T03:13:12+00:00",
     "expires_at": "2026-08-02T04:13:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "самарск": {
+    "display_name": "Самарская область",
+    "type": "drone",
+    "text": "Безенчукский район\nСамарская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-02T03:24:56+00:00",
+    "expires_at": "2026-08-02T04:24:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Геленджик\nТревога по БПЛА сохраняется \nКраснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-02T03:28:25+00:00",
+    "expires_at": "2026-08-02T04:28:25+00:00",
     "count": null,
     "count_approx": false
   }
