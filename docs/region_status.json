@@ -1,14 +1,4 @@
 {
-  "саратовск": {
-    "display_name": "Саратовской области",
-    "type": "drone",
-    "text": "⚡️⚡️2 погибших в Энгельсе, Саратовской области после удара БПЛА в многоэтажный дом.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-02T03:15:51+00:00",
-    "expires_at": "2026-08-02T04:15:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "кировск": {
     "display_name": "Кировская область",
     "type": "drone",
@@ -16,26 +6,6 @@
     "channel": "vrv_radar",
     "updated_at": "2026-08-02T03:53:04+00:00",
     "expires_at": "2026-08-02T04:53:04+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "удмурт": {
-    "display_name": "Республика Удмуртия",
-    "type": "drone",
-    "text": "Республика Удмуртия\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-02T03:12:52+00:00",
-    "expires_at": "2026-08-02T04:12:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "-": {
-    "display_name": "Республика -",
-    "type": "drone",
-    "text": "Удмуртская Республика - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-02T03:13:12+00:00",
-    "expires_at": "2026-08-02T04:13:12+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,10 +22,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Краснодарский край\nБпла опасность сохраняется",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-02T04:04:45+00:00",
-    "expires_at": "2026-08-02T05:04:45+00:00",
+    "text": "Новороссийск и близлежащие\nКраснодарский край\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-02T04:11:08+00:00",
+    "expires_at": "2026-08-02T05:11:08+00:00",
     "count": null,
     "count_approx": false
   },
