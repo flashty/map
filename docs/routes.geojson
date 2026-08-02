@@ -110,6 +110,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-08-02T07:40:09+00:00",
+        "last_updated": "2026-08-02T08:11:59+00:00",
+        "path_labels": [
+          "Грайворонский (Белгородская область)",
+          "Ракитянский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.5905721,
+            50.4309028
+          ],
+          [
+            35.9006134,
+            50.8380326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-08-02T07:43:52+00:00",
         "last_updated": "2026-08-02T07:43:52+00:00",
         "path_labels": [
