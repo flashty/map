@@ -1,71 +1,5 @@
 [
   {
-    "id": "locatorru_76895_Ворша",
-    "channel": "locatorru",
-    "date": "2026-08-01T23:12:39+00:00",
-    "text": "Курлово, Гусь-Хрустальный, Лакинск, Владимир, Ворша, Второво и близлежащие, Владимирская область - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Ворша",
-    "region": "Владимирская область",
-    "lat": 56.0473768,
-    "lon": 40.0782981
-  },
-  {
-    "id": "vrv_radar_77870_Михайловка",
-    "channel": "vrv_radar",
-    "date": "2026-08-01T23:12:54+00:00",
-    "text": "Михайловка\nВолгоградская область\nФиксации групп БПЛА",
-    "type": "drone",
-    "location_name": "Михайловка",
-    "region": "Волгоградская область",
-    "lat": 50.0797109,
-    "lon": 43.2342365
-  },
-  {
-    "id": "vrv_radar_77871",
-    "channel": "vrv_radar",
-    "date": "2026-08-01T23:13:17+00:00",
-    "text": "Ростовская область \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_76896",
-    "channel": "locatorru",
-    "date": "2026-08-01T23:14:34+00:00",
-    "text": "Терновка, Воронежская область - пролёт БПЛА в сторону Тамбовской области на Жердевка.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_12996",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-01T23:15:12+00:00",
-    "text": "Самарская область\nУльяновская область\n\nОпасность БПЛА с 3:30.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_77872_Бронницы",
-    "channel": "vrv_radar",
-    "date": "2026-08-01T23:15:16+00:00",
-    "text": "ГО Бронницы\nМосковская область\nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Бронницы",
-    "region": "Московская область",
-    "lat": 55.422,
-    "lon": 38.2591
-  },
-  {
     "id": "locatorru_76897",
     "channel": "locatorru",
     "date": "2026-08-01T23:15:22+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_212504",
+    "channel": "LPRalarm",
+    "date": "2026-08-02T21:35:22+00:00",
+    "text": "Шахтерск и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_108796",
+    "channel": "kupolrussia",
+    "date": "2026-08-02T21:35:31+00:00",
+    "text": "Шахтерск и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_77151",
+    "channel": "locatorru",
+    "date": "2026-08-02T21:36:56+00:00",
+    "text": "Продолжают лететь БПЛА со стороны Харьковской области в сторону северной части ЛНР (Новознаменка, Троицкое, Лантратовка, Сиротино) в направлении Валуйского района, Вейделевского района, Ровеньского района и далее на Воронежскую область.\n\nСо стороны Запорожской области РФ и ДНР пролёты БПЛА в акваторию Азовского моря, Таганрогского залива.\n\nВозможный попытки пролётам БПЛА в сторону Матвеев Курган, Куйбышево, Ростовской области.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Харьковской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_212505",
+    "channel": "LPRalarm",
+    "date": "2026-08-02T21:43:09+00:00",
+    "text": "Кантемировка и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_108797",
+    "channel": "kupolrussia",
+    "date": "2026-08-02T21:43:13+00:00",
+    "text": "Кантемировка и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_13089",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-02T21:45:05+00:00",
+    "text": "От Саратовской области до Ульяновской области - отбой опасности БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ульяновской области",
     "lat": null,
     "lon": null
   }
