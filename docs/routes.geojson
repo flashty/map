@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-02T06:48:13+00:00",
+        "last_updated": "2026-08-02T07:17:39+00:00",
+        "path_labels": [
+          "Климово (Брянская область)",
+          "Унеча (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.1971433,
+            52.3790542
+          ],
+          [
+            32.6700113,
+            52.8449574
+          ]
+        ]
+      }
+    }
+  ]
 }
