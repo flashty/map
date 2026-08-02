@@ -2,20 +2,20 @@
   "кировск": {
     "display_name": "Кировская область",
     "type": "drone",
-    "text": "Яранский район\nКировская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-02T03:53:04+00:00",
-    "expires_at": "2026-08-02T04:53:04+00:00",
+    "text": "Киров, Кирово-Чепецк и близлежащие, Кировская область - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-02T05:03:45+00:00",
+    "expires_at": "2026-08-02T06:03:45+00:00",
     "count": null,
     "count_approx": false
   },
   "пермск": {
     "display_name": "Пермский край",
     "type": "drone",
-    "text": "Пермский край - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Березники, Губаха, Пермь, Соликамск, Пермский край - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-02T04:50:40+00:00",
-    "expires_at": "2026-08-02T05:50:40+00:00",
+    "updated_at": "2026-08-02T04:56:10+00:00",
+    "expires_at": "2026-08-02T05:56:10+00:00",
     "count": null,
     "count_approx": false
   },
@@ -30,13 +30,13 @@
     "count_approx": false
   },
   "татарст": {
-    "display_name": "Республика Татарстан",
+    "display_name": "Республиками Татарстан",
     "type": "drone",
-    "text": "Новошешминский район\nРеспублика Татарстан\nФиксация 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "До 40 БПЛА над Ульяновской областью, Республиками Татарстан и Башкортостан.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-02T04:47:59+00:00",
-    "expires_at": "2026-08-02T05:47:59+00:00",
-    "count": 3,
+    "updated_at": "2026-08-02T05:01:32+00:00",
+    "expires_at": "2026-08-02T06:01:32+00:00",
+    "count": null,
     "count_approx": false
   },
   "самарск": {
@@ -92,10 +92,90 @@
   "башкортост": {
     "display_name": "Республика Башкортостан",
     "type": "drone",
-    "text": "Салават, Стерлитамак, Уфа и близлежащие населённые пункты, Республика Башкортостан - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Благоварский район\nРеспублика Башкортостан\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-02T04:51:37+00:00",
-    "expires_at": "2026-08-02T05:51:37+00:00",
+    "updated_at": "2026-08-02T05:00:59+00:00",
+    "expires_at": "2026-08-02T06:00:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "-": {
+    "display_name": "Республика -",
+    "type": "drone",
+    "text": "Селтинский район, Сюмсинский район, Увинский район, Вавожский район, Удмуртская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-02T05:02:45+00:00",
+    "expires_at": "2026-08-02T06:02:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "свердловск": {
+    "display_name": "Свердловская область",
+    "type": "drone",
+    "text": "Свердловская область\nЧелябинская область\n\nОпасность БПЛА от Республики Башкортостан.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-02T05:03:04+00:00",
+    "expires_at": "2026-08-02T06:03:04+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "челябинск": {
+    "display_name": "Челябинская область",
+    "type": "drone",
+    "text": "Челябинская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-02T05:05:02+00:00",
+    "expires_at": "2026-08-02T06:05:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ульяновск": {
+    "display_name": "Ульяновской область",
+    "type": "drone",
+    "text": "До 40 БПЛА над Ульяновской областью, Республиками Татарстан и Башкортостан.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-02T05:01:32+00:00",
+    "expires_at": "2026-08-02T06:01:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "коми": {
+    "display_name": "Республика Коми",
+    "type": "drone",
+    "text": "Республика Коми - внимание по БПЛА от Кирова. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-02T05:04:09+00:00",
+    "expires_at": "2026-08-02T06:04:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "в": {
+    "display_name": "Республикой в",
+    "type": "drone",
+    "text": "От 5 БПЛА над Удмуртской Республикой в направлении Перми.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-02T05:01:22+00:00",
+    "expires_at": "2026-08-02T06:01:22+00:00",
+    "count": 5,
+    "count_approx": false
+  },
+  "удмурт": {
+    "display_name": "Республика Удмуртия",
+    "type": "drone",
+    "text": "Селтинский район\nСюмсинский район\nУвинский район\nВавожский район\nРеспублика Удмуртия\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-02T05:03:42+00:00",
+    "expires_at": "2026-08-02T06:03:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Геленджик, Кабардинка, Новороссийск, Джанхот, Бетта, Архипо-Осиповка, Джубга, Лермонтово, Ольгинка, Агой, Краснодарский край - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-02T05:04:22+00:00",
+    "expires_at": "2026-08-02T06:04:22+00:00",
     "count": null,
     "count_approx": false
   }
