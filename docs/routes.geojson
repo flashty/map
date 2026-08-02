@@ -1,4 +1,35 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-02T13:12:24+00:00",
+        "last_updated": "2026-08-02T13:39:57+00:00",
+        "path_labels": [
+          "Омский (Омская область)",
+          "Омского",
+          "Омский (Омская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.3482544,
+            55.1042423
+          ],
+          [
+            73.3750213,
+            54.976687
+          ],
+          [
+            73.3482544,
+            55.1042423
+          ]
+        ]
+      }
+    }
+  ]
 }
