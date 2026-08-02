@@ -9,64 +9,94 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Крымский район\nКраснодарский край\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-02T04:38:06+00:00",
-    "expires_at": "2026-08-02T05:38:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "Старомайнский район\nУльяновская область\nФиксация группы БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-02T03:52:00+00:00",
-    "expires_at": "2026-08-02T04:52:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "пермск": {
     "display_name": "Пермский край",
     "type": "drone",
-    "text": "Пермский край - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-02T04:26:48+00:00",
-    "expires_at": "2026-08-02T05:26:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "missile",
-    "text": "Курская область и близлежащие \nАвиационно ракетно бомбовая опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-02T04:27:49+00:00",
-    "expires_at": "2026-08-02T05:27:49+00:00",
+    "text": "Пермский край - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-02T04:50:40+00:00",
+    "expires_at": "2026-08-02T05:50:40+00:00",
     "count": null,
     "count_approx": false
   },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Новогродовка ДНР и близлежащие \nОпасность по БПЛА Хорнет",
+    "text": "Горловка ДНР опасность по БПЛА и возможным ФПВ \n\nЗапад, ю-з особое внимание!",
     "channel": "LPRalarm",
-    "updated_at": "2026-08-02T04:30:01+00:00",
-    "expires_at": "2026-08-02T05:30:01+00:00",
+    "updated_at": "2026-08-02T04:44:03+00:00",
+    "expires_at": "2026-08-02T05:44:03+00:00",
     "count": null,
     "count_approx": false
   },
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Заинск\nЕлабуга\nНабережные Челны\nНижнекамск\n\nРеспублика Татарстан. От 15 БПЛА в вашу сторону.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-02T04:36:35+00:00",
-    "expires_at": "2026-08-02T05:36:35+00:00",
-    "count": 15,
+    "text": "Новошешминский район\nРеспублика Татарстан\nФиксация 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-02T04:47:59+00:00",
+    "expires_at": "2026-08-02T05:47:59+00:00",
+    "count": 3,
+    "count_approx": false
+  },
+  "самарск": {
+    "display_name": "Самарская область",
+    "type": "drone",
+    "text": "Сызрань, Самара, Новокуйбышевск, Тольятти, Самарская область - опасность по БПЛА.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-02T04:49:56+00:00",
+    "expires_at": "2026-08-02T05:49:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "missile",
+    "text": "Херсонская область РФ, Запорожская область РФ, ЛДНР авиационная ракетная бомбовая опасность",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-02T04:43:19+00:00",
+    "expires_at": "2026-08-02T05:43:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "missile",
+    "text": "Херсонская область РФ, Запорожская область РФ, ЛДНР авиационная ракетная бомбовая опасность",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-02T04:43:19+00:00",
+    "expires_at": "2026-08-02T05:43:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Попасная, Первомайск и близлежащие ЛНР опасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-02T04:46:24+00:00",
+    "expires_at": "2026-08-02T05:46:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "оренбургск": {
+    "display_name": "Оренбургская область",
+    "type": "drone",
+    "text": "Шарлыкский район, Оренбургская область - пролёт от 2 БПЛА в сторону Республики Башкортостан. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-02T04:51:05+00:00",
+    "expires_at": "2026-08-02T05:51:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "башкортост": {
+    "display_name": "Республика Башкортостан",
+    "type": "drone",
+    "text": "Салават, Стерлитамак, Уфа и близлежащие населённые пункты, Республика Башкортостан - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-02T04:51:37+00:00",
+    "expires_at": "2026-08-02T05:51:37+00:00",
+    "count": null,
     "count_approx": false
   }
 }
