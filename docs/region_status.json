@@ -1,14 +1,4 @@
 {
-  "оренбургск": {
-    "display_name": "Оренбургская область",
-    "type": "drone",
-    "text": "Оренбургская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-02T02:50:52+00:00",
-    "expires_at": "2026-08-02T03:50:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "саратовск": {
     "display_name": "Саратовской области",
     "type": "drone",
@@ -22,10 +12,10 @@
   "кировск": {
     "display_name": "Кировская область",
     "type": "drone",
-    "text": "Кировская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-02T03:06:49+00:00",
-    "expires_at": "2026-08-02T04:06:49+00:00",
+    "text": "Яранский район\nКировская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-02T03:53:04+00:00",
+    "expires_at": "2026-08-02T04:53:04+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,10 +52,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Геленджик\nТревога по БПЛА сохраняется \nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-02T03:28:25+00:00",
-    "expires_at": "2026-08-02T04:28:25+00:00",
+    "text": "Краснодарский край\nБпла опасность сохраняется",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-02T04:04:45+00:00",
+    "expires_at": "2026-08-02T05:04:45+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +96,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-08-02T03:38:02+00:00",
     "expires_at": "2026-08-02T04:38:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ульяновск": {
+    "display_name": "Ульяновская область",
+    "type": "drone",
+    "text": "Старомайнский район\nУльяновская область\nФиксация группы БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-02T03:52:00+00:00",
+    "expires_at": "2026-08-02T04:52:00+00:00",
     "count": null,
     "count_approx": false
   }
