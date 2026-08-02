@@ -12,10 +12,10 @@
   "тюменск": {
     "display_name": "Тюменская область",
     "type": "drone",
-    "text": "Армизонское, Тюменская область - пролёт БПЛА на восток, юго-восток.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-02T10:00:22+00:00",
-    "expires_at": "2026-08-02T11:00:22+00:00",
+    "text": "Равнец, Ишимский район, Тюменская область - пролёт БПЛА на восток в сторону Омской области. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-02T10:15:50+00:00",
+    "expires_at": "2026-08-02T11:15:50+00:00",
     "count": null,
     "count_approx": false
   },
@@ -60,13 +60,13 @@
     "count_approx": false
   },
   "орловск": {
-    "display_name": "Орловской области",
+    "display_name": "Орловская область",
     "type": "drone",
-    "text": "Грайворонский район, Белгородская область всё ещё продолжается массовый пролёт БПЛА в сторону Ракитное, Ивня, Борисовка, Строитель, Белгород, Прохоровка, Короча, Губкин, Старый Оскол и далее в сторону Орловской области, Липецкой области, Воронежской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-02T09:38:05+00:00",
-    "expires_at": "2026-08-02T10:38:05+00:00",
-    "count": null,
+    "text": "Орловский район\nОрловская область\nФиксация от 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-02T10:10:22+00:00",
+    "expires_at": "2026-08-02T11:10:22+00:00",
+    "count": 3,
     "count_approx": false
   },
   "липецк": {
@@ -99,53 +99,43 @@
     "count": null,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Новогродовка ДНР и близлежащие \nОпасность по БПЛА Хорнет",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-02T09:10:23+00:00",
-    "expires_at": "2026-08-02T10:10:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "омской": {
     "display_name": "Омской области",
     "type": "drone",
-    "text": "2 БПЛА в направлении Омской области от Тюменской области.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Равнец, Ишимский район, Тюменская область - пролёт БПЛА на восток в сторону Омской области. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-02T09:59:37+00:00",
-    "expires_at": "2026-08-02T10:59:37+00:00",
-    "count": 2,
+    "updated_at": "2026-08-02T10:15:50+00:00",
+    "expires_at": "2026-08-02T11:15:50+00:00",
+    "count": null,
     "count_approx": false
   },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Калуга и близлежащие\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-02T09:53:32+00:00",
-    "expires_at": "2026-08-02T10:53:32+00:00",
+    "text": "Калуга\nКалужская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-02T10:09:43+00:00",
+    "expires_at": "2026-08-02T11:09:43+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Тульская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-02T09:25:03+00:00",
-    "expires_at": "2026-08-02T10:25:03+00:00",
+    "text": "Алексин, Тула, Узловая, Щёкино, Киреевск, Новомосковск, Кимовск, Донской, Липки, Венев, Ясногорск и близлежащие, Тульская область - опасность по БПЛА от Орловской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-02T10:08:35+00:00",
+    "expires_at": "2026-08-02T11:08:35+00:00",
     "count": null,
     "count_approx": false
   },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "Калужская область \nТульская область \nМосковская область \nОпасность по БПЛА \nМеры безопасности",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-02T09:15:14+00:00",
-    "expires_at": "2026-08-02T10:15:14+00:00",
+    "text": "Московская область - опасность по БПЛА от Тульской области. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-02T10:09:25+00:00",
+    "expires_at": "2026-08-02T11:09:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -176,6 +166,46 @@
     "channel": "locatorru",
     "updated_at": "2026-08-02T10:00:22+00:00",
     "expires_at": "2026-08-02T11:00:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "drone",
+    "text": "Владимирская область\nИвановская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-02T10:07:51+00:00",
+    "expires_at": "2026-08-02T11:07:51+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ивановск": {
+    "display_name": "Ивановская область",
+    "type": "drone",
+    "text": "Владимирская область\nИвановская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-02T10:07:51+00:00",
+    "expires_at": "2026-08-02T11:07:51+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Николаевка орион БПЛА \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-02T10:15:10+00:00",
+    "expires_at": "2026-08-02T11:15:10+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Ершичский район\nСмоленская область\nФиксация группы БПЛА от Брянской области\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-02T10:11:28+00:00",
+    "expires_at": "2026-08-02T11:11:28+00:00",
     "count": null,
     "count_approx": false
   }
