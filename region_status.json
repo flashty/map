@@ -62,10 +62,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Ильский, Северская, Афипский, Северский район, Краснодарский край - готовность к отражению атаки БПЛА со стороны Ахтырский, много.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-02T00:12:56+00:00",
-    "expires_at": "2026-08-02T01:12:56+00:00",
+    "text": "Краснодарский край\nБпла опасность сохраняется",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-02T00:30:54+00:00",
+    "expires_at": "2026-08-02T01:30:54+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,16 +76,6 @@
     "channel": "locatorru",
     "updated_at": "2026-08-01T23:35:23+00:00",
     "expires_at": "2026-08-02T00:35:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "Ульяновская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-01T23:25:16+00:00",
-    "expires_at": "2026-08-02T00:25:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -146,6 +136,46 @@
     "channel": "vrv_radar",
     "updated_at": "2026-08-02T00:16:16+00:00",
     "expires_at": "2026-08-02T01:16:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Алексин\nТульская область\nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-02T00:21:55+00:00",
+    "expires_at": "2026-08-02T01:21:55+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "drone",
+    "text": "Усманский район, Липецкая область / Рамонский район, Воронежская область - опасность по БПЛА и на восток.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-02T00:27:22+00:00",
+    "expires_at": "2026-08-02T01:27:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Усманский район, Липецкая область / Рамонский район, Воронежская область - опасность по БПЛА и на восток.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-02T00:27:22+00:00",
+    "expires_at": "2026-08-02T01:27:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "опаснос": {
+    "display_name": "Республика\nОпасность",
+    "type": "drone",
+    "text": "Чувашская Республика\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-02T00:32:37+00:00",
+    "expires_at": "2026-08-02T01:32:37+00:00",
     "count": null,
     "count_approx": false
   }
