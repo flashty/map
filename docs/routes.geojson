@@ -170,6 +170,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-08-02T07:44:28+00:00",
+        "last_updated": "2026-08-02T08:24:40+00:00",
+        "path_labels": [
+          "Рохманово (Брянская область)",
+          "Прохоровский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.8823703,
+            52.7501468
+          ],
+          [
+            33.7029167,
+            52.833725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-08-02T07:56:58+00:00",
         "last_updated": "2026-08-02T07:56:58+00:00",
         "path_labels": [
