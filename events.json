@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_108656",
-    "channel": "kupolrussia",
-    "date": "2026-08-02T15:40:06+00:00",
-    "text": "Экстренная информация РСЧС (Белгородская область): РАКЕТНАЯ ОПАСНОСТЬ в Шебекинском МО 18:38. Спуститесь в подвальное помещение или подземное пространство.",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_212350",
-    "channel": "LPRalarm",
-    "date": "2026-08-02T15:40:11+00:00",
-    "text": "РАКЕТНАЯ ОПАСНОСТЬ в Шебекинском МО 18:38. Спуститесь в подвальное помещение или подземное пространство.",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_108657",
-    "channel": "kupolrussia",
-    "date": "2026-08-02T15:41:25+00:00",
-    "text": "Рыльск дали в тыл \n\nКурская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_77117",
-    "channel": "locatorru",
-    "date": "2026-08-02T15:41:27+00:00",
-    "text": "Тюменская область, Курганская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тюменская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_212352",
-    "channel": "LPRalarm",
-    "date": "2026-08-02T15:41:27+00:00",
-    "text": "РАКЕТНАЯ ОПАСНОСТЬ в Белгородском МО 18:39. Спуститесь в подвальное помещение или подземное пространство.",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_77118",
-    "channel": "locatorru",
-    "date": "2026-08-02T15:41:51+00:00",
-    "text": "Шебекино — Белгород - ракетная опасность ещё раз! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_212353_Рыльск",
     "channel": "LPRalarm",
     "date": "2026-08-02T15:41:51+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Мордовия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_13112",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-03T22:33:41+00:00",
+    "text": "Самарская область\nУльяновская область\nРеспублика Татарстан\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_77325_Мичуринск",
+    "channel": "locatorru",
+    "date": "2026-08-03T22:35:28+00:00",
+    "text": "Уважаемые водители мопедов, вы существенно затрудняете деятельность наших мобильных огневых групп, поскольку ваш шум отвлекает внимание и дезориентирует, а летит очень много. Спасибо. \n\nМичуринск, загоняйте свои мопеды.\n\n📡Локатор России - @locatorru",
+    "type": "unknown",
+    "location_name": "Мичуринск",
+    "region": null,
+    "lat": 52.8946613,
+    "lon": 40.5071721
+  },
+  {
+    "id": "locatorru_77326",
+    "channel": "locatorru",
+    "date": "2026-08-03T22:36:00+00:00",
+    "text": "Псковская область, Новгородская область - опасность по БПЛА от Смоленской и Тверской областей.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_78326",
+    "channel": "vrv_radar",
+    "date": "2026-08-03T22:36:24+00:00",
+    "text": "Владимирская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Владимирская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_78327",
+    "channel": "vrv_radar",
+    "date": "2026-08-03T22:36:30+00:00",
+    "text": "Ивановская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ивановская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_85405",
+    "channel": "radarrussiia",
+    "date": "2026-08-03T22:36:51+00:00",
+    "text": "Владимирская область\nИвановская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Владимирская область",
     "lat": null,
     "lon": null
   }
