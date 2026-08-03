@@ -1,71 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_13037",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-02T05:01:22+00:00",
-    "text": "От 5 БПЛА над Удмуртской Республикой в направлении Перми.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республикой в",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_76979",
-    "channel": "locatorru",
-    "date": "2026-08-02T05:01:27+00:00",
-    "text": "Челябинская область, Свердловская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Челябинская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_85134",
-    "channel": "radarrussiia",
-    "date": "2026-08-02T05:01:32+00:00",
-    "text": "До 40 БПЛА над Ульяновской областью, Республиками Татарстан и Башкортостан.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ульяновской область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_77983",
-    "channel": "vrv_radar",
-    "date": "2026-08-02T05:01:52+00:00",
-    "text": "Свердловская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Свердловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_76980_Удмуртская",
-    "channel": "locatorru",
-    "date": "2026-08-02T05:02:45+00:00",
-    "text": "Селтинский район, Сюмсинский район, Увинский район, Вавожский район, Удмуртская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Удмуртская",
-    "region": "Республика -",
-    "lat": 55.9295327,
-    "lon": 52.1436421
-  },
-  {
-    "id": "radarrussiia_85135",
-    "channel": "radarrussiia",
-    "date": "2026-08-02T05:02:53+00:00",
-    "text": "Свердловская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Свердловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radar_plus_bpla_13038",
     "channel": "radar_plus_bpla",
     "date": "2026-08-02T05:03:04+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_212585",
+    "channel": "LPRalarm",
+    "date": "2026-08-03T06:46:40+00:00",
+    "text": "Алексеево-Дружковка, Константиновка и близлежащие ДНР \n\nАвиационная ракетная бомбовая тревога",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_108872",
+    "channel": "kupolrussia",
+    "date": "2026-08-03T06:46:55+00:00",
+    "text": "Опасность БпЛА Приморский и Приазовский районы \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_108873",
+    "channel": "kupolrussia",
+    "date": "2026-08-03T06:47:11+00:00",
+    "text": "Алексеево-Дружковка, Константиновка и близлежащие ДНР\nВНИМАНИЕ!!!\n„Зи ОБЪЯВЛЕН\n\"КРАСНЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_212586",
+    "channel": "LPRalarm",
+    "date": "2026-08-03T06:57:05+00:00",
+    "text": "Новогродовка, Гродовка, Селидово ДНР и близлежащие \n\nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_108874",
+    "channel": "kupolrussia",
+    "date": "2026-08-03T06:57:17+00:00",
+    "text": "Новогродовка, Гродовка, Селидово ДНР и близлежащие \n\nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_85338",
+    "channel": "radarrussiia",
+    "date": "2026-08-03T07:00:00+00:00",
+    "text": "❗️ВНИМАНИЕ\n\nПродолжаются массивные атаки по всем регионам России. Наши ПВО за сутки сбивают ТЮСЯЧИ дронов. Во многих областях введен режим ЧРЕЗВЫЧАЙНОГО ПОЛОЖЕНИЯ. Всем настоятельно рекомендуем следить за ситуацией в специальных каналах вашего города! КАНАЛЫ БУДУТ РАБОТАТЬ ДАЖЕ БЕЗ МОБИЛЬНОЙ СВЯЗИ.\n\nУбедительная просьба, найти свой город и подписаться:\n\nМосква: @msklive\nПитер: @petrlive\n\nАбакан: @abknlive\nАрхангельск: @arhangelsklive\nАстрахань: @astrakhanlive\nБарнаул: @barnaullive\nБалашиха: @bal",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
