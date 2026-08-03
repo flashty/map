@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_212130_Абинск",
-    "channel": "LPRalarm",
-    "date": "2026-08-02T04:56:35+00:00",
-    "text": "Крымск, Абинск, Ильский, Афипский, Славянск на Кубани, возможно на Новороссийск по суше\n\nСохраняется опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Абинск",
-    "region": null,
-    "lat": 44.8649528,
-    "lon": 38.1578189
-  },
-  {
-    "id": "LPRalarm_212130_Ильский",
-    "channel": "LPRalarm",
-    "date": "2026-08-02T04:56:35+00:00",
-    "text": "Крымск, Абинск, Ильский, Афипский, Славянск на Кубани, возможно на Новороссийск по суше\n\nСохраняется опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Ильский",
-    "region": null,
-    "lat": 44.8458544,
-    "lon": 38.5608255
-  },
-  {
-    "id": "LPRalarm_212130_Афипский",
-    "channel": "LPRalarm",
-    "date": "2026-08-02T04:56:35+00:00",
-    "text": "Крымск, Абинск, Ильский, Афипский, Славянск на Кубани, возможно на Новороссийск по суше\n\nСохраняется опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Афипский",
-    "region": null,
-    "lat": 44.9040435,
-    "lon": 38.8426821
-  },
-  {
     "id": "LPRalarm_212130_Кубани",
     "channel": "LPRalarm",
     "date": "2026-08-02T04:56:35+00:00",
@@ -21996,6 +21963,39 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Костромская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_13099",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-03T05:51:17+00:00",
+    "text": "⚡️⚡️Один человек пострадал при атаке на склад Wildberries под Владимирой после атаки БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_212576",
+    "channel": "LPRalarm",
+    "date": "2026-08-03T05:51:20+00:00",
+    "text": "Бердянск и близлежащие тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_108863",
+    "channel": "kupolrussia",
+    "date": "2026-08-03T05:51:41+00:00",
+    "text": "Бердянск и близлежащие\nЗапорожская область РФ\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
