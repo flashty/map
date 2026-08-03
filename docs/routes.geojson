@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-03T02:15:46+00:00",
+        "last_updated": "2026-08-03T02:39:05+00:00",
+        "path_labels": [
+          "Шуя (Ивановская область)",
+          "Савинский (Ивановская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.3838496,
+            56.8558465
+          ],
+          [
+            41.2788572,
+            56.5933563
+          ]
+        ]
+      }
+    }
+  ]
 }
