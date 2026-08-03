@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_212116",
-    "channel": "LPRalarm",
-    "date": "2026-08-02T02:46:22+00:00",
-    "text": "Севастополь\nТревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_108440",
-    "channel": "kupolrussia",
-    "date": "2026-08-02T02:46:28+00:00",
-    "text": "Севастополь\nТревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_77958",
-    "channel": "vrv_radar",
-    "date": "2026-08-02T02:50:52+00:00",
-    "text": "Оренбургская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Оренбургская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_77959",
-    "channel": "vrv_radar",
-    "date": "2026-08-02T03:01:16+00:00",
-    "text": "Новороссийск и близлежащие\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_77960",
-    "channel": "vrv_radar",
-    "date": "2026-08-02T03:05:25+00:00",
-    "text": "Кировская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Кировская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_85117",
-    "channel": "radarrussiia",
-    "date": "2026-08-02T03:06:49+00:00",
-    "text": "Кировская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Кировская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_77961",
-    "channel": "vrv_radar",
-    "date": "2026-08-02T03:12:52+00:00",
-    "text": "Республика Удмуртия\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Удмуртия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_13025_Удмуртская",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-02T03:13:12+00:00",
-    "text": "Удмуртская Республика - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": "Удмуртская",
-    "region": "Республика -",
-    "lat": 55.9295327,
-    "lon": 52.1436421
-  },
-  {
     "id": "LPRalarm_212117_Фиолент",
     "channel": "LPRalarm",
     "date": "2026-08-02T03:15:08+00:00",
@@ -21998,5 +21910,93 @@
     "region": null,
     "lat": 45.854679,
     "lon": 40.128124
+  },
+  {
+    "id": "vrv_radar_78228",
+    "channel": "vrv_radar",
+    "date": "2026-08-03T03:36:46+00:00",
+    "text": "Вологодская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Вологодская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_108844",
+    "channel": "kupolrussia",
+    "date": "2026-08-03T03:37:03+00:00",
+    "text": "Отбой опасности БпЛА по всей Запорожской области РФ",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Запорожской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_77210",
+    "channel": "locatorru",
+    "date": "2026-08-03T03:37:10+00:00",
+    "text": "Тульская область, Московская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_77211",
+    "channel": "locatorru",
+    "date": "2026-08-03T03:37:35+00:00",
+    "text": "Липецкая область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_212554",
+    "channel": "LPRalarm",
+    "date": "2026-08-03T03:37:38+00:00",
+    "text": "Отбой опасности БпЛА по всей Запорожской области РФ",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Запорожской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_77212",
+    "channel": "locatorru",
+    "date": "2026-08-03T03:38:26+00:00",
+    "text": "Ярославская область, Вологодская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_77213",
+    "channel": "locatorru",
+    "date": "2026-08-03T03:39:33+00:00",
+    "text": "Рязанская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_78229",
+    "channel": "vrv_radar",
+    "date": "2026-08-03T03:40:28+00:00",
+    "text": "Рязанская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
   }
 ]
