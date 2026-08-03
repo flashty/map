@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-03T09:00:07+00:00",
+        "last_updated": "2026-08-03T09:36:46+00:00",
+        "path_labels": [
+          "Ракитное (Белгородская область)",
+          "Чайки (Белгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.832,
+            50.8343
+          ],
+          [
+            36.2601094,
+            50.4966383
+          ]
+        ]
+      }
+    }
+  ]
 }
