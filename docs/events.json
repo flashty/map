@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_212179",
-    "channel": "LPRalarm",
-    "date": "2026-08-02T07:05:00+00:00",
-    "text": "Тамбовская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_13053",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-02T07:05:18+00:00",
-    "text": "В районе Перми несколько БПЛА.\n\nБудьте осторожны, возможны фиксации на город.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_212180",
-    "channel": "LPRalarm",
-    "date": "2026-08-02T07:06:11+00:00",
-    "text": "Белгородская область \nРакетная опасность \nПовторно",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_108494",
-    "channel": "kupolrussia",
-    "date": "2026-08-02T07:06:19+00:00",
-    "text": "Белгородская область \nРакетная опасность \nПовторно",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_77019_Кушвинский",
     "channel": "locatorru",
     "date": "2026-08-02T07:06:41+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Краснодарский край",
     "lat": 44.4220236,
     "lon": 38.2047592
+  },
+  {
+    "id": "LPRalarm_212689",
+    "channel": "LPRalarm",
+    "date": "2026-08-03T13:52:18+00:00",
+    "text": "Красноармейск ДНР \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_108967",
+    "channel": "kupolrussia",
+    "date": "2026-08-03T13:52:34+00:00",
+    "text": "Красноармейск ДНР \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_212690",
+    "channel": "LPRalarm",
+    "date": "2026-08-03T13:59:20+00:00",
+    "text": "⚠️ Курская область: ракетная опасность! Если вы находитесь дома, необходимо укрыться в помещениях без окон со сплошными стенами: в коридоре, ванной, кладовой. Если вы находитесь на улице — зайдите в ближайшее здание или подходящее укрытие.",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_108968",
+    "channel": "kupolrussia",
+    "date": "2026-08-03T13:59:20+00:00",
+    "text": "⚠️ Курская область: ракетная опасность! Если вы находитесь дома, необходимо укрыться в помещениях без окон со сплошными стенами: в коридоре, ванной, кладовой. Если вы находитесь на улице — зайдите в ближайшее здание или подходящее укрытие.",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
   }
 ]
