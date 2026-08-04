@@ -105,6 +105,36 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-08-04T19:04:36+00:00",
+        "last_updated": "2026-08-04T19:48:12+00:00",
+        "path_labels": [
+          "Внуково",
+          "Джанкойский",
+          "Каховский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.300255,
+            55.611698
+          ],
+          [
+            37.5744389,
+            55.5394245
+          ],
+          [
+            37.5878649,
+            55.6473478
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-08-04T19:06:09+00:00",
         "last_updated": "2026-08-04T19:35:29+00:00",
         "path_labels": [
