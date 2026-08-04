@@ -145,6 +145,56 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-08-04T00:47:35+00:00",
+        "last_updated": "2026-08-04T01:25:10+00:00",
+        "path_labels": [
+          "Волосовский (Ленинградская область)",
+          "Саба (Ленинградская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.3456608,
+            59.357817
+          ],
+          [
+            29.095276,
+            59.031895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-04T00:55:13+00:00",
+        "last_updated": "2026-08-04T01:17:29+00:00",
+        "path_labels": [
+          "Венев (Тульская область)",
+          "Ожерелье (Московская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.2656,
+            54.3504
+          ],
+          [
+            38.2738244,
+            54.8029359
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-08-04T01:14:54+00:00",
         "last_updated": "2026-08-04T01:14:54+00:00",
         "path_labels": [
