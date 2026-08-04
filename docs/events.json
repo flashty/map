@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_212695",
-    "channel": "LPRalarm",
-    "date": "2026-08-03T14:11:45+00:00",
-    "text": "Черноморское возможно БПЛА. Меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_108972",
-    "channel": "kupolrussia",
-    "date": "2026-08-03T14:11:55+00:00",
-    "text": "Черноморское возможно БПЛА. Меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_212696_Валуйский",
-    "channel": "LPRalarm",
-    "date": "2026-08-03T14:15:19+00:00",
-    "text": "Валуйский район приграничье \nОпасность по БПЛА Хорнет сохраняется",
-    "type": "drone",
-    "location_name": "Валуйский",
-    "region": null,
-    "lat": 53.1481885,
-    "lon": 36.3185713
-  },
-  {
-    "id": "kupolrussia_108973_Валуйский",
-    "channel": "kupolrussia",
-    "date": "2026-08-03T14:15:37+00:00",
-    "text": "Валуйский район приграничье \nОпасность по БПЛА Хорнет сохраняется",
-    "type": "drone",
-    "location_name": "Валуйский",
-    "region": null,
-    "lat": 53.1481885,
-    "lon": 36.3185713
-  },
-  {
-    "id": "LPRalarm_212697",
-    "channel": "LPRalarm",
-    "date": "2026-08-03T14:15:51+00:00",
-    "text": "Черноморское отбой внимания по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_108974",
-    "channel": "kupolrussia",
-    "date": "2026-08-03T14:16:00+00:00",
-    "text": "Черноморское отбой внимания по БПЛА\nРеспублика Крым",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_212698",
     "channel": "LPRalarm",
     "date": "2026-08-03T14:24:16+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Тульская область",
     "lat": 54.1930321,
     "lon": 37.61754
+  },
+  {
+    "id": "locatorru_77513_Новороссийск",
+    "channel": "locatorru",
+    "date": "2026-08-04T14:01:55+00:00",
+    "text": "Новороссийск, Краснодарский край - опасность по БПЛА с моря. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Новороссийск",
+    "region": "Краснодарский край",
+    "lat": 44.7239578,
+    "lon": 37.7690711
+  },
+  {
+    "id": "vrv_radar_78480",
+    "channel": "vrv_radar",
+    "date": "2026-08-04T14:04:19+00:00",
+    "text": "Новороссийск и близлежащие\nКраснодарский край\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_77514_Кабардинка",
+    "channel": "locatorru",
+    "date": "2026-08-04T14:07:04+00:00",
+    "text": "Прибрежная зона г.Новороссийск - с.Кабардинка, г.Геледжик, Краснодарский край - опасность по БПЛА с моря. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Кабардинка",
+    "region": "Краснодарский край",
+    "lat": 44.6515718,
+    "lon": 37.9395292
+  },
+  {
+    "id": "locatorru_77515",
+    "channel": "locatorru",
+    "date": "2026-08-04T14:08:02+00:00",
+    "text": "Брянская область - очередная волна БПЛА из-под Чернигов в вашем направлении.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_213134",
+    "channel": "LPRalarm",
+    "date": "2026-08-04T14:15:52+00:00",
+    "text": "Брянская область следующая волна БПЛА от ГГ прошлым маршрутом. Ожидаем много",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_109366",
+    "channel": "kupolrussia",
+    "date": "2026-08-04T14:16:04+00:00",
+    "text": "Брянская область следующая волна БПЛА от ГГ прошлым маршрутом. Ожидаем много",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
   }
 ]
