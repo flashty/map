@@ -98,5 +98,25 @@
     "expires_at": "2026-08-04T16:06:18+00:00",
     "count": null,
     "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "alert",
+    "text": "ЛДНР, Запорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-04T15:51:56+00:00",
+    "expires_at": "2026-08-04T16:51:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Первомайск \nИрмино и близлежащие опасность по БПЛА хорнет\nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-04T15:59:53+00:00",
+    "expires_at": "2026-08-04T16:59:53+00:00",
+    "count": null,
+    "count_approx": false
   }
 }

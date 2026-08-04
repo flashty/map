@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_212750",
-    "channel": "LPRalarm",
-    "date": "2026-08-03T18:15:14+00:00",
-    "text": "Стерегущее - Межводное с моря опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_212751",
-    "channel": "LPRalarm",
-    "date": "2026-08-03T18:15:17+00:00",
-    "text": "Донское\nМазанка\nТрудовое\nТаврическая ТЭС\nИ близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_78257",
-    "channel": "vrv_radar",
-    "date": "2026-08-03T18:15:36+00:00",
-    "text": "Ростовская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_109022",
-    "channel": "kupolrussia",
-    "date": "2026-08-03T18:16:00+00:00",
-    "text": "Стерегущее - Межводное с моря \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_109023",
-    "channel": "kupolrussia",
-    "date": "2026-08-03T18:16:11+00:00",
-    "text": "Донское\nМазанка\nТрудовое\nТаврическая ТЭС\nИ близлежащие\nРеспублика Крым\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_212752",
     "channel": "LPRalarm",
     "date": "2026-08-03T18:19:16+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_213169",
+    "channel": "LPRalarm",
+    "date": "2026-08-04T15:51:42+00:00",
+    "text": "ЛДНР, Запорожская область РФ \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_109400",
+    "channel": "kupolrussia",
+    "date": "2026-08-04T15:51:56+00:00",
+    "text": "ЛДНР, Запорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_109401",
+    "channel": "kupolrussia",
+    "date": "2026-08-04T15:55:55+00:00",
+    "text": "Дорогие наши близкие!\n\nСпасибо огромное всем поддерживающим наш канал. И за теплые слова благодарности в комментариях! Это для нас очень важно! \n❤️❤️❤️\n\nhttps://pay.cloudtips.ru/p/991df385",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_213170",
+    "channel": "LPRalarm",
+    "date": "2026-08-04T15:59:34+00:00",
+    "text": "Первомайск \nИрмино и близлежащие опасность по БПЛА хорнет\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_109402",
+    "channel": "kupolrussia",
+    "date": "2026-08-04T15:59:53+00:00",
+    "text": "Первомайск \nИрмино и близлежащие опасность по БПЛА хорнет\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
