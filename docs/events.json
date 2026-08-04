@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_212676",
-    "channel": "LPRalarm",
-    "date": "2026-08-03T12:22:56+00:00",
-    "text": "🟢 Курская область: внимание! Отбой ракетной опасности.",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_108955",
-    "channel": "kupolrussia",
-    "date": "2026-08-03T12:23:18+00:00",
-    "text": "🟢 Курская область: внимание! Отбой ракетной опасности.",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_212678",
-    "channel": "LPRalarm",
-    "date": "2026-08-03T12:34:55+00:00",
-    "text": "Трасса Р-280\nОпасность по БПЛА Хорнет \nПовторно \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_108957",
     "channel": "kupolrussia",
     "date": "2026-08-03T12:35:08+00:00",
@@ -21996,6 +21963,39 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_78469_Хотынецкий",
+    "channel": "vrv_radar",
+    "date": "2026-08-04T12:19:01+00:00",
+    "text": "Хотынецкий район \nОрловская область \nФиксации БПЛА",
+    "type": "drone",
+    "location_name": "Хотынецкий",
+    "region": "Орловская область",
+    "lat": 53.1360589,
+    "lon": 35.3773008
+  },
+  {
+    "id": "LPRalarm_213123",
+    "channel": "LPRalarm",
+    "date": "2026-08-04T12:25:42+00:00",
+    "text": "Донецк ДНР и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_109356",
+    "channel": "kupolrussia",
+    "date": "2026-08-04T12:25:54+00:00",
+    "text": "Донецк ДНР и близлежащие\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
