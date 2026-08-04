@@ -35,6 +35,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-08-03T23:48:26+00:00",
+        "last_updated": "2026-08-04T00:02:35+00:00",
+        "path_labels": [
+          "Духовщина (Смоленская область)",
+          "Ярцево (Смоленская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.4060434,
+            55.1907803
+          ],
+          [
+            32.6883609,
+            55.0662279
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-08-03T23:52:09+00:00",
         "last_updated": "2026-08-03T23:52:09+00:00",
         "path_labels": [
