@@ -1,14 +1,4 @@
 {
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Геленджик и близлежащие\nКраснодарский край\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-05T12:59:30+00:00",
-    "expires_at": "2026-08-05T13:59:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -16,16 +6,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-05T13:12:12+00:00",
     "expires_at": "2026-08-05T14:12:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Становлянский район\nБоловский район\nЛипецкая область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-05T12:45:08+00:00",
-    "expires_at": "2026-08-05T13:45:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,33 +19,13 @@
     "count": 2,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Курская область\nОрловская область\nГраница Орловской и Липецкой областей\nТревога по БПЛА сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-05T12:34:20+00:00",
-    "expires_at": "2026-08-05T13:34:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Каменский район\nТульская область\nФиксация от 4 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Щекино\nТульская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-05T13:21:30+00:00",
-    "expires_at": "2026-08-05T14:21:30+00:00",
-    "count": 4,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Тульская область \nКалужская область \nПриготовиться к очередной волне БПЛА от Орловской области",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-05T12:31:25+00:00",
-    "expires_at": "2026-08-05T13:31:25+00:00",
+    "updated_at": "2026-08-05T13:45:24+00:00",
+    "expires_at": "2026-08-05T14:45:24+00:00",
     "count": null,
     "count_approx": false
   },
@@ -82,10 +42,30 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Горловка ДНР ещё БПЛА с запада на город",
+    "text": "Горловка ДНР опасность по БПЛА повторно, внимание по возможным ФПВ \n\nКрыло с горловского моря в сторону горыныча ❗дмг",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-05T13:26:54+00:00",
-    "expires_at": "2026-08-05T14:26:54+00:00",
+    "updated_at": "2026-08-05T13:43:37+00:00",
+    "expires_at": "2026-08-05T14:43:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Анапа\n повторно\nКраснодарский край\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-05T13:37:38+00:00",
+    "expires_at": "2026-08-05T14:37:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-05T13:40:19+00:00",
+    "expires_at": "2026-08-05T14:40:19+00:00",
     "count": null,
     "count_approx": false
   }
