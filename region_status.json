@@ -1,51 +1,11 @@
 {
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязанский район\nРязанская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-05T15:25:32+00:00",
-    "expires_at": "2026-08-05T16:25:32+00:00",
-    "count": 2,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "missile",
-    "text": "Ростовская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-05T15:19:23+00:00",
-    "expires_at": "2026-08-05T16:19:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Керченский полуостров \nКерчь и близлежащие \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-05T15:24:57+00:00",
-    "expires_at": "2026-08-05T16:24:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "missile",
-    "text": "Краснодарский край\nРеспублика Адыгея\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-05T15:21:19+00:00",
-    "expires_at": "2026-08-05T16:21:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "Запорожская область РФ в направлении Мелитополь крылатые ракеты и далее на Бердянск, Азовское море",
+    "type": "drone",
+    "text": "Приморск Запорожская область РФ и близлежащие трассы тревога по БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-05T15:19:33+00:00",
-    "expires_at": "2026-08-05T16:19:33+00:00",
+    "updated_at": "2026-08-05T16:26:49+00:00",
+    "expires_at": "2026-08-05T17:26:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,26 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "missile",
-    "text": "Краснодарский край\nРеспублика Адыгея\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-05T15:21:19+00:00",
-    "expires_at": "2026-08-05T16:21:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Венёвский район\nТульская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-05T15:23:51+00:00",
-    "expires_at": "2026-08-05T16:23:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -86,6 +26,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-05T15:57:20+00:00",
     "expires_at": "2026-08-05T16:57:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Каховка и близлежащие \nХерсонская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-05T16:18:15+00:00",
+    "expires_at": "2026-08-05T17:18:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Вадьковка Брянская область Погарский район сбросы с БПЛА марки ФПВ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-05T16:31:21+00:00",
+    "expires_at": "2026-08-05T17:31:21+00:00",
     "count": null,
     "count_approx": false
   }
