@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_213352",
-    "channel": "LPRalarm",
-    "date": "2026-08-04T21:19:39+00:00",
-    "text": "Нижнегорский район \nРеспублика Крым \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_109541",
-    "channel": "kupolrussia",
-    "date": "2026-08-04T21:19:42+00:00",
-    "text": "Нижнегорский район \nРеспублика Крым \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_109542_Одессы",
-    "channel": "kupolrussia",
-    "date": "2026-08-04T21:19:52+00:00",
-    "text": "Пуски БПЛА от Одессы",
-    "type": "drone",
-    "location_name": "Одессы",
-    "region": null,
-    "lat": 48.7490351,
-    "lon": 44.5413187
-  },
-  {
-    "id": "LPRalarm_213353",
-    "channel": "LPRalarm",
-    "date": "2026-08-04T21:20:08+00:00",
-    "text": "Керченский полуостров \nКерчь\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_109543",
-    "channel": "kupolrussia",
-    "date": "2026-08-04T21:20:12+00:00",
-    "text": "Керченский полуостров \nКерчь\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_77609",
-    "channel": "locatorru",
-    "date": "2026-08-04T21:20:21+00:00",
-    "text": "Массовый пролёт БПЛА над Брасовским районом, Комаричским районом в сторону Шаблыкинского района, Сосковского района, Орловского района, Орловской области. \n\nНаправление на Тульскую область.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловской области",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_77610",
     "channel": "locatorru",
     "date": "2026-08-04T21:20:40+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Тульская область",
     "lat": 54.004465,
     "lon": 37.5179079
+  },
+  {
+    "id": "LPRalarm_213722",
+    "channel": "LPRalarm",
+    "date": "2026-08-05T13:46:52+00:00",
+    "text": "Причерноморье Краснодарский край от Анапы и далее на Новороссийск - Туапсе - Сочи опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_109866",
+    "channel": "kupolrussia",
+    "date": "2026-08-05T13:47:06+00:00",
+    "text": "Причерноморье Краснодарский край от Анапы и далее на Новороссийск - Туапсе - Сочи опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_78886_Анапа",
+    "channel": "vrv_radar",
+    "date": "2026-08-05T13:50:12+00:00",
+    "text": "Анапа\nКраснодарский край\nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": "Анапа",
+    "region": "Краснодарский край",
+    "lat": 44.894272,
+    "lon": 37.316887
+  },
+  {
+    "id": "vrv_radar_78887",
+    "channel": "vrv_radar",
+    "date": "2026-08-05T14:00:07+00:00",
+    "text": "Ростовская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_213723",
+    "channel": "LPRalarm",
+    "date": "2026-08-05T14:00:22+00:00",
+    "text": "Углегорск, Дебальцево ДНР и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_109867",
+    "channel": "kupolrussia",
+    "date": "2026-08-05T14:00:37+00:00",
+    "text": "Углегорск, Дебальцево ДНР и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
   }
 ]
