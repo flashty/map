@@ -1,14 +1,4 @@
 {
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Должанский район\nВерховский район\nНоводеревеньковский район\nОрловская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-05T13:21:55+00:00",
-    "expires_at": "2026-08-05T14:21:55+00:00",
-    "count": 2,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
@@ -29,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Крымский район\nКраснодарский край\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-05T14:14:42+00:00",
-    "expires_at": "2026-08-05T15:14:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
@@ -50,12 +30,12 @@
     "count_approx": false
   },
   "ростовск": {
-    "display_name": "Ростовская область",
+    "display_name": "Ростовской областей",
     "type": "drone",
-    "text": "Ростовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-05T14:14:23+00:00",
-    "expires_at": "2026-08-05T15:14:23+00:00",
+    "text": "🚨Ожидаем массовый запуск БПЛА в течении 2-х суток в направлении Воронежской и Ростовской областей и далее в глубокий тыл по направлению Свердловской и Омской областей.\n\nОбщее количество от 200 БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-05T14:25:38+00:00",
+    "expires_at": "2026-08-05T15:25:38+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +46,36 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-05T14:04:18+00:00",
     "expires_at": "2026-08-05T15:04:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Армянск и близлежащие внимание по БПЛА\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-05T14:21:38+00:00",
+    "expires_at": "2026-08-05T15:21:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Славянск-на-Кубани \nИльский \nАфипский и близлежащие \nОпасность по БПЛА \nКраснодарский край\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-05T14:26:35+00:00",
+    "expires_at": "2026-08-05T15:26:35+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "омской": {
+    "display_name": "Омской областей",
+    "type": "drone",
+    "text": "🚨Ожидаем массовый запуск БПЛА в течении 2-х суток в направлении Воронежской и Ростовской областей и далее в глубокий тыл по направлению Свердловской и Омской областей.\n\nОбщее количество от 200 БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-05T14:25:38+00:00",
+    "expires_at": "2026-08-05T15:25:38+00:00",
     "count": null,
     "count_approx": false
   }
