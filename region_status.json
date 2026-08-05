@@ -12,10 +12,10 @@
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Елабуга и близлежащие \nНабережные Челны и близлежащие \nРеспублика Татарстан \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-05T04:42:00+00:00",
-    "expires_at": "2026-08-05T05:42:00+00:00",
+    "text": "Новошешемский район \nРеспублика Татарстан\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-05T04:48:16+00:00",
+    "expires_at": "2026-08-05T05:48:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,10 +62,20 @@
   "адыгея": {
     "display_name": "Республика Адыгея",
     "type": "drone",
-    "text": "Республика Адыгея \nОпасность по БПЛА",
+    "text": "Республика Адыгея \nОпасность по БПЛА\n\n❗️Радар Адыгея - @radar_adygeya\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-05T04:47:37+00:00",
+    "expires_at": "2026-08-05T05:47:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "башкортост": {
+    "display_name": "Республика Башкортостан",
+    "type": "drone",
+    "text": "Республика Башкортостан \nОпасность по БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-08-05T04:45:39+00:00",
-    "expires_at": "2026-08-05T05:45:39+00:00",
+    "updated_at": "2026-08-05T05:01:12+00:00",
+    "expires_at": "2026-08-05T06:01:12+00:00",
     "count": null,
     "count_approx": false
   }
