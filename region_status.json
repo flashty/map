@@ -9,63 +9,33 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Тендровская коса Херсонская область РФ с запада с моря,\n\nРаздольненский район, Черноморский район с северо-запада \n\nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-05T05:31:59+00:00",
-    "expires_at": "2026-08-05T06:31:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "alert",
     "text": "Сириус \nКраснодарский край \nРабота ПВО \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-05T05:46:26+00:00",
-    "expires_at": "2026-08-05T06:46:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "missile",
-    "text": "Краснодарский край \nРеспублика Адыгея\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-05T05:35:36+00:00",
-    "expires_at": "2026-08-05T06:35:36+00:00",
+    "updated_at": "2026-08-05T06:40:05+00:00",
+    "expires_at": "2026-08-05T07:40:05+00:00",
     "count": null,
     "count_approx": false
   },
   "башкортост": {
     "display_name": "Республика Башкортостан",
     "type": "drone",
-    "text": "Чекмагушевский район \nРеспублика Башкортостан \nФиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-05T06:28:30+00:00",
-    "expires_at": "2026-08-05T07:28:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "удмурт": {
-    "display_name": "Республика Удмуртия",
-    "type": "drone",
-    "text": "Республика Удмуртия\n2% (>) ВНИМАНИЕ!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-05T05:39:13+00:00",
-    "expires_at": "2026-08-05T06:39:13+00:00",
-    "count": null,
+    "text": "Чекмагуш, Республика Башкортостан - пролёт от 5 БПЛА в сторону Уфы.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-05T06:45:41+00:00",
+    "expires_at": "2026-08-05T07:45:41+00:00",
+    "count": 5,
     "count_approx": false
   },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
-    "text": "Ракитянский район \nБелгородская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-05T06:22:54+00:00",
-    "expires_at": "2026-08-05T07:22:54+00:00",
+    "text": "Короча и близлежащие \nВнимание по БПЛА Шарк\nБелгородская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-05T06:39:39+00:00",
+    "expires_at": "2026-08-05T07:39:39+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +46,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-05T06:21:30+00:00",
     "expires_at": "2026-08-05T07:21:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Курская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-05T06:45:17+00:00",
+    "expires_at": "2026-08-05T07:45:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тамбовск": {
+    "display_name": "Тамбовская область",
+    "type": "drone",
+    "text": "Тамбовская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-05T06:44:39+00:00",
+    "expires_at": "2026-08-05T07:44:39+00:00",
     "count": null,
     "count_approx": false
   }
