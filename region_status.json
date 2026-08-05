@@ -52,10 +52,10 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Тульская область от Орловской области\nВНИМАНИЕ!!\n< (> ОБЪЯВЛЕН\nг © \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-05T08:21:02+00:00",
-    "expires_at": "2026-08-05T09:21:02+00:00",
+    "text": "Тульская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-05T09:00:39+00:00",
+    "expires_at": "2026-08-05T10:00:39+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +76,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-05T08:41:06+00:00",
     "expires_at": "2026-08-05T09:41:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "БПЛА Дартс с Суворова на Погар, \n\nБелевица опасность по ФПВ\n\nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-05T08:53:21+00:00",
+    "expires_at": "2026-08-05T09:53:21+00:00",
     "count": null,
     "count_approx": false
   }
