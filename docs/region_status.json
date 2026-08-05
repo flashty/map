@@ -2,20 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Центр Донецк ДНР\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-05T07:50:19+00:00",
-    "expires_at": "2026-08-05T08:50:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "башкортост": {
-    "display_name": "Республика Башкортостан",
-    "type": "drone",
-    "text": "Салават, Стерлитамак, Уфа и близлежащие населённые пункты, Республика Башкортостан - опасность по БПЛА, повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-05T07:39:01+00:00",
-    "expires_at": "2026-08-05T08:39:01+00:00",
+    "text": "Авдеевка, Спартак, Донецк ДНР и близлежащие \n\nОпасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-05T08:34:54+00:00",
+    "expires_at": "2026-08-05T09:34:54+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,16 +16,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-05T08:20:24+00:00",
     "expires_at": "2026-08-05T09:20:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "shelling",
-    "text": "Окраины Белая Берёзка обстрел\nБрянская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-05T07:44:13+00:00",
-    "expires_at": "2026-08-05T08:44:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -50,32 +30,22 @@
     "count_approx": false
   },
   "белгородск": {
-    "display_name": "Белгородской области",
+    "display_name": "Белгородская область",
     "type": "drone",
-    "text": "Борисовский район \nБелгородской области \nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-05T07:37:29+00:00",
-    "expires_at": "2026-08-05T08:37:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "костромск": {
-    "display_name": "Костромская область",
-    "type": "drone",
-    "text": "Костромская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-05T07:46:39+00:00",
-    "expires_at": "2026-08-05T08:46:39+00:00",
+    "text": "Корочанский район\nВнимание по БПЛА\nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-05T08:45:55+00:00",
+    "expires_at": "2026-08-05T09:45:55+00:00",
     "count": null,
     "count_approx": false
   },
   "липецк": {
     "display_name": "Липецкая область",
     "type": "drone",
-    "text": "Г. Елец \nЕлецкий МО\nДолгоруковский МО\nСтановлянский МО\nИзмалковский МО\nЛипецкая область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-05T08:18:33+00:00",
-    "expires_at": "2026-08-05T09:18:33+00:00",
+    "text": "Липецкая область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-05T08:37:49+00:00",
+    "expires_at": "2026-08-05T09:37:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +66,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-05T08:18:33+00:00",
     "expires_at": "2026-08-05T09:18:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Приморск, Приморский район \nЗапорожская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-05T08:41:06+00:00",
+    "expires_at": "2026-08-05T09:41:06+00:00",
     "count": null,
     "count_approx": false
   }
