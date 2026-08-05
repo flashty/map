@@ -12,10 +12,10 @@
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Чистополь и близлежащие \nЗаинск и близлежащие \nРеспублика Татарстан \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-05T04:30:50+00:00",
-    "expires_at": "2026-08-05T05:30:50+00:00",
+    "text": "Елабуга и близлежащие \nНабережные Челны и близлежащие \nРеспублика Татарстан \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-05T04:42:00+00:00",
+    "expires_at": "2026-08-05T05:42:00+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +36,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-05T04:27:52+00:00",
     "expires_at": "2026-08-05T05:27:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "С Горностаевки на Нижние Торгаи Херсонская область РФ фиксации БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-05T04:40:59+00:00",
+    "expires_at": "2026-08-05T05:40:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Сочи\nТуапсинский район \nАбинский район\nКраснодарский край \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-05T04:45:28+00:00",
+    "expires_at": "2026-08-05T05:45:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Республика Адыгея \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-05T04:45:39+00:00",
+    "expires_at": "2026-08-05T05:45:39+00:00",
     "count": null,
     "count_approx": false
   }
