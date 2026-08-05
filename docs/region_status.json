@@ -1,14 +1,4 @@
 {
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Россошанский район\nВоронежская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-05T00:49:32+00:00",
-    "expires_at": "2026-08-05T01:49:32+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -26,16 +16,6 @@
     "channel": "vrv_radar",
     "updated_at": "2026-08-05T00:46:14+00:00",
     "expires_at": "2026-08-05T01:46:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Новодугинский район\nСмоленская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-05T00:39:29+00:00",
-    "expires_at": "2026-08-05T01:39:29+00:00",
     "count": null,
     "count_approx": false
   },
@@ -60,22 +40,12 @@
     "count_approx": false
   },
   "татарст": {
-    "display_name": "Республики Татарстан",
+    "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Канаш, Чувашская Республика - пролёт БПЛА в сторону Республики Татарстан\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-05T01:22:40+00:00",
-    "expires_at": "2026-08-05T02:22:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тверск": {
-    "display_name": "Тверская область",
-    "type": "drone",
-    "text": "Зубцовский район\nТверская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-05T00:43:49+00:00",
-    "expires_at": "2026-08-05T01:43:49+00:00",
+    "text": "Республика Татарстан \nМеры безопасности\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-05T01:45:52+00:00",
+    "expires_at": "2026-08-05T02:45:52+00:00",
     "count": null,
     "count_approx": false
   },
@@ -102,10 +72,10 @@
   "-": {
     "display_name": "Республика -",
     "type": "drone",
-    "text": "Канаш, Чувашская Республика - пролёт БПЛА в сторону Республики Татарстан\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-05T01:22:40+00:00",
-    "expires_at": "2026-08-05T02:22:40+00:00",
+    "text": "Удмуртская Республика - опасность по БПЛА от Республики Татарстан. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-05T01:45:14+00:00",
+    "expires_at": "2026-08-05T02:45:14+00:00",
     "count": null,
     "count_approx": false
   },
@@ -122,10 +92,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Причерноморье Краснодарский край \nГруппа БПЛА в обход Крыма",
+    "text": "Анапа и близлежащие \nОпасность по БПЛА \nКраснодарский край",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-05T01:12:42+00:00",
-    "expires_at": "2026-08-05T02:12:42+00:00",
+    "updated_at": "2026-08-05T01:40:09+00:00",
+    "expires_at": "2026-08-05T02:40:09+00:00",
     "count": null,
     "count_approx": false
   },
@@ -150,22 +120,12 @@
     "count_approx": false
   },
   "марий": {
-    "display_name": "Республика Марий",
+    "display_name": "Республику Марий",
     "type": "drone",
-    "text": "Республика Марий Эл - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "text": "Эльбарусово, Чувашская Республика  - ещё пролёт БПЛА в сторону Марианский Посад, предварительно дальше на Республику Марий Эл. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-08-05T00:43:01+00:00",
-    "expires_at": "2026-08-05T01:43:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "засечн": {
-    "display_name": "Засечное область",
-    "type": "drone",
-    "text": "Засечное, Пензенская область - возможно БПЛА на север, северо-восток.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-05T00:36:34+00:00",
-    "expires_at": "2026-08-05T01:36:34+00:00",
+    "updated_at": "2026-08-05T01:42:15+00:00",
+    "expires_at": "2026-08-05T02:42:15+00:00",
     "count": null,
     "count_approx": false
   },
