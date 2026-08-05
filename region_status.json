@@ -12,20 +12,20 @@
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Аннинский район\nВоронежская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-04T23:15:48+00:00",
-    "expires_at": "2026-08-05T00:15:48+00:00",
+    "text": "Новоусманский район\nВоронежская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-04T23:58:20+00:00",
+    "expires_at": "2026-08-05T00:58:20+00:00",
     "count": null,
     "count_approx": false
   },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Огоньки\nЧелядиново и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "text": "Русаковка\nЦветочное\nЗуя и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
     "channel": "LPRalarm",
-    "updated_at": "2026-08-04T23:42:37+00:00",
-    "expires_at": "2026-08-05T00:42:37+00:00",
+    "updated_at": "2026-08-04T23:56:34+00:00",
+    "expires_at": "2026-08-05T00:56:34+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,16 +36,6 @@
     "channel": "locatorru",
     "updated_at": "2026-08-04T23:05:52+00:00",
     "expires_at": "2026-08-05T00:05:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Ещё фиксации БПЛА в направлении Мелитополь \nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-04T22:59:59+00:00",
-    "expires_at": "2026-08-04T23:59:59+00:00",
     "count": null,
     "count_approx": false
   },
@@ -60,33 +50,33 @@
     "count_approx": false
   },
   "московск": {
-    "display_name": "Московской области",
+    "display_name": "Московская область",
     "type": "drone",
-    "text": "Товарково, Дзержинский район, Калужская область - опасность по БПЛА и в сторону Малоярославец, Обнинск, Боровск и с попыткой пролёта на Наро-Фоминский район, Московской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-04T23:43:46+00:00",
-    "expires_at": "2026-08-05T00:43:46+00:00",
-    "count": null,
+    "text": "ГО Наро-Фоминский\nМосковская область\nФиксация от 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-04T23:51:53+00:00",
+    "expires_at": "2026-08-05T00:51:53+00:00",
+    "count": 3,
     "count_approx": false
   },
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
-    "text": "Десногорский район\nРославльский район\nВяземский район\nСмоленская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Дорогобужский район\nСмоленская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-04T22:54:32+00:00",
-    "expires_at": "2026-08-04T23:54:32+00:00",
-    "count": 2,
+    "updated_at": "2026-08-04T23:55:15+00:00",
+    "expires_at": "2026-08-05T00:55:15+00:00",
+    "count": null,
     "count_approx": false
   },
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Земетчино, Нижний Ломов, Пенза, Белинский, Каменка и близлежащие населённые пункты, Пензенская область - внимание по пролётам БПЛА в сторону Республики Мордовия.\n\n📡Локатор России - @locatorru",
+    "text": "Мокшан, Пензенская область - возможно 3 БПЛА в сторону Бессоновка, Пенза.\n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-08-04T23:22:31+00:00",
-    "expires_at": "2026-08-05T00:22:31+00:00",
-    "count": null,
+    "updated_at": "2026-08-04T23:59:49+00:00",
+    "expires_at": "2026-08-05T00:59:49+00:00",
+    "count": 3,
     "count_approx": false
   },
   "ростовск": {
@@ -96,16 +86,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-04T23:06:12+00:00",
     "expires_at": "2026-08-05T00:06:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "Ульяновская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-04T22:53:51+00:00",
-    "expires_at": "2026-08-04T23:53:51+00:00",
     "count": null,
     "count_approx": false
   },
@@ -139,33 +119,13 @@
     "count": null,
     "count_approx": false
   },
-  "чуваш": {
-    "display_name": "Республика Чувашия",
-    "type": "drone",
-    "text": "Ульяновская область\nРеспублика Чувашия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-04T22:51:38+00:00",
-    "expires_at": "2026-08-04T23:51:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Товарково, Дзержинский район, Калужская область - опасность по БПЛА и в сторону Малоярославец, Обнинск, Боровск и с попыткой пролёта на Наро-Фоминский район, Московской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-04T23:43:46+00:00",
-    "expires_at": "2026-08-05T00:43:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "-": {
-    "display_name": "Республика -",
-    "type": "drone",
-    "text": "Чувашская Республика - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-04T23:00:23+00:00",
-    "expires_at": "2026-08-05T00:00:23+00:00",
+    "text": "Калуга\nКалужская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-04T23:58:47+00:00",
+    "expires_at": "2026-08-05T00:58:47+00:00",
     "count": null,
     "count_approx": false
   },
@@ -209,13 +169,33 @@
     "count": null,
     "count_approx": false
   },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Республика Татарстан\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-04T23:57:29+00:00",
+    "expires_at": "2026-08-05T00:57:29+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Калининский район\nТверская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-04T23:58:00+00:00",
+    "expires_at": "2026-08-05T00:58:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Тульская область \nТревога по БПЛА сохраняется \nМеры безопасности",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-04T23:43:00+00:00",
-    "expires_at": "2026-08-05T00:43:00+00:00",
+    "text": "Веневский район\nТульская область\nФиксация группы БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-05T00:01:12+00:00",
+    "expires_at": "2026-08-05T01:01:12+00:00",
     "count": null,
     "count_approx": false
   }
