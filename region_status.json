@@ -42,10 +42,10 @@
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
-    "text": "Балашовский район\nСаратовская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-06T21:42:24+00:00",
-    "expires_at": "2026-08-06T22:42:24+00:00",
+    "text": "Балашовский район\nСаратовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-06T22:00:33+00:00",
+    "expires_at": "2026-08-06T23:00:33+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,10 +62,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Между Сары-Баш, Ровное\nФиксация БПЛА\nв направлении Войково\nРеспублика Крым",
+    "text": "Чехово\nЗимино \nКормовое и близлежащие \nТревога по БПЛА \nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-06T21:52:23+00:00",
-    "expires_at": "2026-08-06T22:52:23+00:00",
+    "updated_at": "2026-08-06T21:59:13+00:00",
+    "expires_at": "2026-08-06T22:59:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -89,16 +89,6 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарско": {
-    "display_name": "Краснодарского края",
-    "type": "drone",
-    "text": "Азовское побережье Краснодарского края - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-06T20:56:55+00:00",
-    "expires_at": "2026-08-06T21:56:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -116,6 +106,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-08-06T21:36:41+00:00",
     "expires_at": "2026-08-06T22:36:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Кимовский район \nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-06T22:01:24+00:00",
+    "expires_at": "2026-08-06T23:01:24+00:00",
     "count": null,
     "count_approx": false
   }
