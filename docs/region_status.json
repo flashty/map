@@ -1,14 +1,4 @@
 {
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Кантемировский район\nВоронежская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-06T21:14:48+00:00",
-    "expires_at": "2026-08-06T22:14:48+00:00",
-    "count": 2,
-    "count_approx": false
-  },
   "тамбовск": {
     "display_name": "Тамбовская область",
     "type": "drone",
@@ -22,11 +12,11 @@
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Пензенская область\nПовторно\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ® ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-06T21:35:02+00:00",
-    "expires_at": "2026-08-06T22:35:02+00:00",
-    "count": null,
+    "text": "Сурск, Городищееский район, Пензенская область - пролёт от 3 БПЛА в сторону Ульяновска. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-06T22:15:33+00:00",
+    "expires_at": "2026-08-06T23:15:33+00:00",
+    "count": 3,
     "count_approx": false
   },
   "волгоградск": {
@@ -42,30 +32,20 @@
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
-    "text": "Балашовский район\nСаратовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-06T22:00:33+00:00",
-    "expires_at": "2026-08-06T23:00:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Мариуполь и близлежащие\nТревога по БПЛА сохраняется\nСоблюдайте меры безопасности\nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-06T21:13:40+00:00",
-    "expires_at": "2026-08-06T22:13:40+00:00",
-    "count": null,
+    "text": "Вольский район\nСаратовская область\nФиксация от 2 БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-06T22:11:43+00:00",
+    "expires_at": "2026-08-06T23:11:43+00:00",
+    "count": 2,
     "count_approx": false
   },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Чехово\nЗимино \nКормовое и близлежащие \nТревога по БПЛА \nРеспублика Крым",
+    "text": "Славное и далее\nРылеевка \nНива\nи близлежащие \nТревога по БПЛА\n\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-06T21:59:13+00:00",
-    "expires_at": "2026-08-06T22:59:13+00:00",
+    "updated_at": "2026-08-06T22:12:39+00:00",
+    "expires_at": "2026-08-06T23:12:39+00:00",
     "count": null,
     "count_approx": false
   },
@@ -89,16 +69,6 @@
     "count": null,
     "count_approx": false
   },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянск и близлежащие\nТревога по БПЛА\nПовторно\nБрянская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-06T21:01:40+00:00",
-    "expires_at": "2026-08-06T22:01:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
@@ -116,6 +86,36 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-06T22:01:24+00:00",
     "expires_at": "2026-08-06T23:01:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-06T22:11:56+00:00",
+    "expires_at": "2026-08-06T23:11:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "самарск": {
+    "display_name": "Самарская область",
+    "type": "drone",
+    "text": "Самарская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-06T22:09:18+00:00",
+    "expires_at": "2026-08-06T23:09:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-06T22:11:56+00:00",
+    "expires_at": "2026-08-06T23:11:56+00:00",
     "count": null,
     "count_approx": false
   }
