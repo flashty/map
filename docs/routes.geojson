@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-06T10:34:06+00:00",
+        "last_updated": "2026-08-06T11:11:20+00:00",
+        "path_labels": [
+          "Прохоровский (Белгородская область)",
+          "Курск (Курская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.0023244,
+            51.1537288
+          ],
+          [
+            36.192248,
+            51.7270357
+          ]
+        ]
+      }
+    }
+  ]
 }
