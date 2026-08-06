@@ -1,24 +1,4 @@
 {
-  "московск": {
-    "display_name": "Московская область",
-    "type": "alert",
-    "text": "ГО Шатура\nМосковская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-06T00:04:16+00:00",
-    "expires_at": "2026-08-06T01:04:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Холм-Жирковский район\nСмоленская область\nФиксация от 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-06T00:12:39+00:00",
-    "expires_at": "2026-08-06T01:12:39+00:00",
-    "count": 3,
-    "count_approx": false
-  },
   "мордов": {
     "display_name": "Республика Мордовия",
     "type": "drone",
@@ -46,16 +26,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-06T00:24:36+00:00",
     "expires_at": "2026-08-06T01:24:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Выгоничи и близлежащие, Брянская область - пролёты БПЛА в сторону Брянска.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-06T00:01:49+00:00",
-    "expires_at": "2026-08-06T01:01:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -122,10 +92,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Краснодарский край - опасность по БПЛА сохраняется на всей территории региона. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-06T00:27:19+00:00",
-    "expires_at": "2026-08-06T01:27:19+00:00",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-06T01:03:56+00:00",
+    "expires_at": "2026-08-06T02:03:56+00:00",
     "count": null,
     "count_approx": false
   },
@@ -169,13 +139,23 @@
     "count": null,
     "count_approx": false
   },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-06T01:03:56+00:00",
+    "expires_at": "2026-08-06T02:03:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
   "ярославск": {
     "display_name": "Ярославская область",
-    "type": "drone",
-    "text": "Мокеевское, Ярославский район, Ярославская область - продолжаются пролёты БПЛА в сторону НПЗ, Ярославль.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-06T00:58:54+00:00",
-    "expires_at": "2026-08-06T01:58:54+00:00",
+    "type": "alert",
+    "text": "Ярославль\nЯрославская область\nПродолжается работа ПВО \nМеры безопасности!",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-06T01:14:45+00:00",
+    "expires_at": "2026-08-06T02:14:45+00:00",
     "count": null,
     "count_approx": false
   }
