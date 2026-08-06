@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-06T23:09:03+00:00",
+        "last_updated": "2026-08-06T23:22:19+00:00",
+        "path_labels": [
+          "Геленджик (Краснодарский край)",
+          "Широкая Балка (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.0766832,
+            44.5609447
+          ],
+          [
+            37.686314,
+            44.666824
+          ]
+        ]
+      }
+    }
+  ]
 }
