@@ -31,11 +31,11 @@
   },
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "alert",
-    "text": "Трасса Ясиноватая Пантелеймоновка опасность ФПВ!!!\nАктивно!!\nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-06T08:36:55+00:00",
-    "expires_at": "2026-08-06T09:36:55+00:00",
+    "type": "drone",
+    "text": "Волноваха \nДНР \nОпасность по БПЛА Хорнет",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-06T09:27:48+00:00",
+    "expires_at": "2026-08-06T10:27:48+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,26 +76,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-06T09:14:56+00:00",
     "expires_at": "2026-08-06T10:14:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "коми": {
-    "display_name": "Республики Коми",
-    "type": "missile",
-    "text": "Были фиксации крылатых ракет «Фламинго» над Пермским краем в направлении Республики Коми / Ханты-Мантийского автономного округа.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-06T08:24:06+00:00",
-    "expires_at": "2026-08-06T09:24:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ханты-мантийско": {
-    "display_name": "Ханты-Мантийского автономного округа",
-    "type": "missile",
-    "text": "Были фиксации крылатых ракет «Фламинго» над Пермским краем в направлении Республики Коми / Ханты-Мантийского автономного округа.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-06T08:24:06+00:00",
-    "expires_at": "2026-08-06T09:24:06+00:00",
     "count": null,
     "count_approx": false
   },

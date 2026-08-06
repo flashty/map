@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_213894",
-    "channel": "LPRalarm",
-    "date": "2026-08-05T20:13:12+00:00",
-    "text": "Брянск\nИ ближайшие \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_78981_Бобровский",
-    "channel": "vrv_radar",
-    "date": "2026-08-05T20:13:18+00:00",
-    "text": "Бобровский район\nВоронежская область\nСбитие БПЛА\nМеры безопасности",
-    "type": "all_clear",
-    "location_name": "Бобровский",
-    "region": "Воронежская область",
-    "lat": 51.0966142,
-    "lon": 40.0397707
-  },
-  {
-    "id": "kupolrussia_110028",
-    "channel": "kupolrussia",
-    "date": "2026-08-05T20:13:28+00:00",
-    "text": "Брянск\nИ ближайшие \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_85866_Бобровский",
-    "channel": "radarrussiia",
-    "date": "2026-08-05T20:13:38+00:00",
-    "text": "Бобровский район\nВоронежская область\nСбитие БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": "Бобровский",
-    "region": "Воронежская область",
-    "lat": 51.0966142,
-    "lon": 40.0397707
-  },
-  {
-    "id": "locatorru_77942_Уваровский",
-    "channel": "locatorru",
-    "date": "2026-08-05T20:14:18+00:00",
-    "text": "Лебяжье, Уваровский район, Тамбовская область - пролёт от 4 БПЛА в сторону Рассказово, возможно далее на север.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Уваровский",
-    "region": "Тамбовская область",
-    "lat": 51.9591961,
-    "lon": 42.5970473
-  },
-  {
-    "id": "locatorru_77942_Лебяжье",
-    "channel": "locatorru",
-    "date": "2026-08-05T20:14:18+00:00",
-    "text": "Лебяжье, Уваровский район, Тамбовская область - пролёт от 4 БПЛА в сторону Рассказово, возможно далее на север.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Лебяжье",
-    "region": "Тамбовская область",
-    "lat": 52.113415,
-    "lon": 42.349632
-  },
-  {
     "id": "locatorru_77943_Инжавино",
     "channel": "locatorru",
     "date": "2026-08-05T20:14:31+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Белгородская область",
     "lat": 50.1632256,
     "lon": 37.9638901
+  },
+  {
+    "id": "LPRalarm_214231",
+    "channel": "LPRalarm",
+    "date": "2026-08-06T09:19:01+00:00",
+    "text": "Горловка ДНР опасность по БПЛА, в том числе и на электротяге \n\nСв, восток особенно аккуратно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_110328",
+    "channel": "kupolrussia",
+    "date": "2026-08-06T09:19:11+00:00",
+    "text": "Горловка ДНР опасность по БПЛА, в том числе и на электротяге \n\nСв, восток особенно аккуратно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_214232_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-08-06T09:25:49+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_110329_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-08-06T09:26:09+00:00",
+    "text": "Белгородский район\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_214233",
+    "channel": "LPRalarm",
+    "date": "2026-08-06T09:27:33+00:00",
+    "text": "Волноваха \nДНР \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_110330",
+    "channel": "kupolrussia",
+    "date": "2026-08-06T09:27:48+00:00",
+    "text": "Волноваха \nДНР \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
   }
 ]
