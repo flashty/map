@@ -20,22 +20,12 @@
     "count_approx": false
   },
   "мордов": {
-    "display_name": "Республики Мордовия",
+    "display_name": "Республика Мордовия",
     "type": "drone",
-    "text": "Земетчино, Нижний Ломов, Пенза, Белинский, Каменка и близлежащие населённые пункты, Пензенская область - внимание по пролётам БПЛА в сторону Республики Мордовия.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-06T00:13:24+00:00",
-    "expires_at": "2026-08-06T01:13:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Охримовка\nтревога по БПЛА \nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-05T23:37:53+00:00",
-    "expires_at": "2026-08-06T00:37:53+00:00",
+    "text": "Краснослободский район\nРеспублика Мордовия\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-06T00:45:33+00:00",
+    "expires_at": "2026-08-06T01:45:33+00:00",
     "count": null,
     "count_approx": false
   },
@@ -74,18 +64,8 @@
     "type": "drone",
     "text": "Суздальский район, Владмирская область - всё ещё продолжаются пролёты БПЛА в сторону Нерльское, Тейковский район, Ивановской области и далее на г.Ярославль. Много.\n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-08-06T00:07:29+00:00",
-    "expires_at": "2026-08-06T01:07:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Джанкойский район\nДжанкой\nтревога по БПЛА\nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-05T23:31:36+00:00",
-    "expires_at": "2026-08-06T00:31:36+00:00",
+    "updated_at": "2026-08-06T00:37:21+00:00",
+    "expires_at": "2026-08-06T01:37:21+00:00",
     "count": null,
     "count_approx": false
   },
@@ -119,33 +99,13 @@
     "count": null,
     "count_approx": false
   },
-  "гусь-хрустальн": {
-    "display_name": "Гусь-Хрустальный область",
-    "type": "drone",
-    "text": "Гусь-Хрустальный, Владимрская область - пролёт от 1 БПЛА на север.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-05T23:39:47+00:00",
-    "expires_at": "2026-08-06T00:39:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "владимрск": {
-    "display_name": "Владимрская область",
-    "type": "drone",
-    "text": "Гусь-Хрустальный, Владимрская область - пролёт от 1 БПЛА на север.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-05T23:39:47+00:00",
-    "expires_at": "2026-08-06T00:39:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "владмирск": {
     "display_name": "Владмирская область",
     "type": "drone",
     "text": "Суздальский район, Владмирская область - всё ещё продолжаются пролёты БПЛА в сторону Нерльское, Тейковский район, Ивановской области и далее на г.Ярославль. Много.\n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-08-06T00:07:29+00:00",
-    "expires_at": "2026-08-06T01:07:29+00:00",
+    "updated_at": "2026-08-06T00:37:21+00:00",
+    "expires_at": "2026-08-06T01:37:21+00:00",
     "count": null,
     "count_approx": false
   },
@@ -172,10 +132,10 @@
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Новоусманский район\nВоронежская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-06T00:03:00+00:00",
-    "expires_at": "2026-08-06T01:03:00+00:00",
+    "text": "Таловский район\nВоронежская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-06T00:35:45+00:00",
+    "expires_at": "2026-08-06T01:35:45+00:00",
     "count": null,
     "count_approx": false
   },
@@ -192,10 +152,10 @@
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Новосильский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-06T00:11:32+00:00",
-    "expires_at": "2026-08-06T01:11:32+00:00",
+    "text": "Глазуновский район\nОрловская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-06T00:39:55+00:00",
+    "expires_at": "2026-08-06T01:39:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -219,16 +179,6 @@
     "count": null,
     "count_approx": false
   },
-  "ярославск": {
-    "display_name": "Ярославская область",
-    "type": "alert",
-    "text": "Ярославль\nЯрославская область\nМеры безопасности\nУйти от окон\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-06T00:29:11+00:00",
-    "expires_at": "2026-08-06T01:29:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калмык": {
     "display_name": "Республика Калмыкия",
     "type": "drone",
@@ -236,6 +186,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-06T00:30:05+00:00",
     "expires_at": "2026-08-06T01:30:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "чуваш": {
+    "display_name": "Республика Чувашия",
+    "type": "drone",
+    "text": "Республика Чувашия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-06T00:35:50+00:00",
+    "expires_at": "2026-08-06T01:35:50+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ярославск": {
+    "display_name": "Ярославская область",
+    "type": "alert",
+    "text": "Ярославль\nЯрославская область\nПродолжается работа ПВО и фиксации в вашем направлении\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-06T00:45:15+00:00",
+    "expires_at": "2026-08-06T01:45:15+00:00",
     "count": null,
     "count_approx": false
   }
