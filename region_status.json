@@ -52,10 +52,10 @@
   "владимирск": {
     "display_name": "Владимирская область",
     "type": "drone",
-    "text": "Суздальский район\nВладимирская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Кольчугинский район\nВладимирская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-06T00:14:12+00:00",
-    "expires_at": "2026-08-06T01:14:12+00:00",
+    "updated_at": "2026-08-06T00:24:36+00:00",
+    "expires_at": "2026-08-06T01:24:36+00:00",
     "count": null,
     "count_approx": false
   },
@@ -182,11 +182,11 @@
   "липецк": {
     "display_name": "Липецкая область",
     "type": "drone",
-    "text": "Добровский район\nЛипецкая область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-06T00:04:00+00:00",
-    "expires_at": "2026-08-06T01:04:00+00:00",
-    "count": null,
+    "text": "Измалково, Липецкая область - пролёт 2 БПЛА в сторону  примерно на северо-восток.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-06T00:16:37+00:00",
+    "expires_at": "2026-08-06T01:16:37+00:00",
+    "count": 2,
     "count_approx": false
   },
   "орловск": {
@@ -196,6 +196,46 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-06T00:11:32+00:00",
     "expires_at": "2026-08-06T01:11:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "астраханск": {
+    "display_name": "Астраханская область",
+    "type": "drone",
+    "text": "Астраханская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-06T00:29:34+00:00",
+    "expires_at": "2026-08-06T01:29:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Краснодарский край - опасность по БПЛА сохраняется на всей территории региона. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-06T00:27:19+00:00",
+    "expires_at": "2026-08-06T01:27:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ярославск": {
+    "display_name": "Ярославская область",
+    "type": "alert",
+    "text": "Ярославль\nЯрославская область\nМеры безопасности\nУйти от окон\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-06T00:29:11+00:00",
+    "expires_at": "2026-08-06T01:29:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калмык": {
+    "display_name": "Республика Калмыкия",
+    "type": "drone",
+    "text": "Республика Калмыкия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-06T00:30:05+00:00",
+    "expires_at": "2026-08-06T01:30:05+00:00",
     "count": null,
     "count_approx": false
   }
