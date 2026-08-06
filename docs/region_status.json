@@ -19,33 +19,13 @@
     "count": 2,
     "count_approx": false
   },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Гвардейское и близлежащие\nТревога по БПЛА сохраняется\nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-06T22:45:59+00:00",
-    "expires_at": "2026-08-06T23:45:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ульяновск": {
     "display_name": "Ульяновская область",
     "type": "drone",
-    "text": "Павловка, Старая Кулатка, Радищево, Николаевка, Новоспасское, Ульяновская область - опасность по БПЛА и в сторону Самарской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-06T22:41:17+00:00",
-    "expires_at": "2026-08-06T23:41:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Кимовский район \nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-06T22:01:24+00:00",
-    "expires_at": "2026-08-06T23:01:24+00:00",
+    "text": "Майнский район\nУльяновская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-06T23:01:16+00:00",
+    "expires_at": "2026-08-07T00:01:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -60,12 +40,12 @@
     "count_approx": false
   },
   "самарск": {
-    "display_name": "Самарской области",
+    "display_name": "Самарская область",
     "type": "drone",
-    "text": "Павловка, Старая Кулатка, Радищево, Николаевка, Новоспасское, Ульяновская область - опасность по БПЛА и в сторону Самарской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-06T22:41:17+00:00",
-    "expires_at": "2026-08-06T23:41:17+00:00",
+    "text": "Самарская область \nРеспублика Мордовия\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-06T22:51:20+00:00",
+    "expires_at": "2026-08-06T23:51:20+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +86,66 @@
     "channel": "locatorru",
     "updated_at": "2026-08-06T22:44:13+00:00",
     "expires_at": "2026-08-06T23:44:13+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "оренбургск": {
+    "display_name": "Оренбургская область",
+    "type": "drone",
+    "text": "Оренбургская область, Республика Татарстан - опасность по БПЛА от Ульновской и Самарской областей.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-06T22:46:59+00:00",
+    "expires_at": "2026-08-06T23:46:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Республика Татарстан\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-06T22:51:42+00:00",
+    "expires_at": "2026-08-06T23:51:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "мордов": {
+    "display_name": "Республика Мордовия",
+    "type": "drone",
+    "text": "Саранск\nРеспублика Мордовия\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-06T22:56:55+00:00",
+    "expires_at": "2026-08-06T23:56:55+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Республика \nНижегородская",
+    "type": "drone",
+    "text": "Чувашская Республика \nНижегородская область\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-06T22:54:01+00:00",
+    "expires_at": "2026-08-06T23:54:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Белогорский район\nТревога по БПЛА\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-06T22:57:39+00:00",
+    "expires_at": "2026-08-06T23:57:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянской области",
+    "type": "drone",
+    "text": "Ожидается запуск БПЛА из-под Чернигов в сторону Брянской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-06T23:00:56+00:00",
+    "expires_at": "2026-08-07T00:00:56+00:00",
     "count": null,
     "count_approx": false
   }
