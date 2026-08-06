@@ -270,6 +270,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-08-05T23:21:13+00:00",
+        "last_updated": "2026-08-06T00:03:00+00:00",
+        "path_labels": [
+          "Воронеж (Воронежская область)",
+          "Новоусманский (Воронежская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.2005858,
+            51.6605982
+          ],
+          [
+            39.49049,
+            51.717129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-08-05T23:35:51+00:00",
         "last_updated": "2026-08-06T00:00:02+00:00",
         "path_labels": [
