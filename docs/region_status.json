@@ -1,14 +1,4 @@
 {
-  "нижегородск": {
-    "display_name": "Нижегородской области",
-    "type": "drone",
-    "text": "По западной части Нижегородской области ещё фиксируются БПЛА в сторону Владимирской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-06T01:37:01+00:00",
-    "expires_at": "2026-08-06T02:37:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -20,22 +10,22 @@
     "count_approx": false
   },
   "чуваш": {
-    "display_name": "Республика Чувашия",
+    "display_name": "Республика Чуваший",
     "type": "drone",
-    "text": "Республика Чувашия \nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-06T01:44:14+00:00",
-    "expires_at": "2026-08-06T02:44:14+00:00",
+    "text": "Чебоксарский район\nРеспублика Чуваший\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-06T02:39:29+00:00",
+    "expires_at": "2026-08-06T03:39:29+00:00",
     "count": null,
     "count_approx": false
   },
   "ярославск": {
     "display_name": "Ярославская область",
     "type": "drone",
-    "text": "Обнинск\nЯрославская область\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-06T02:13:28+00:00",
-    "expires_at": "2026-08-06T03:13:28+00:00",
+    "text": "Гаврилов-Ям, Ярославская область - ещё БПЛА на НПЗ. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-06T02:42:33+00:00",
+    "expires_at": "2026-08-06T03:42:33+00:00",
     "count": null,
     "count_approx": false
   },
@@ -69,26 +59,6 @@
     "count": null,
     "count_approx": false
   },
-  "донск": {
-    "display_name": "Донское область",
-    "type": "drone",
-    "text": "Донское, Липецкая область - пролёт БПЛА на г. Липецк. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-06T01:37:35+00:00",
-    "expires_at": "2026-08-06T02:37:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Донское, Липецкая область - пролёт БПЛА на г. Липецк. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-06T01:37:35+00:00",
-    "expires_at": "2026-08-06T02:37:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
@@ -116,6 +86,36 @@
     "channel": "locatorru",
     "updated_at": "2026-08-06T02:28:35+00:00",
     "expires_at": "2026-08-06T03:28:35+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пензенск": {
+    "display_name": "Пензенская область",
+    "type": "drone",
+    "text": "Пензенская область, Республика Мордовия - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-06T02:33:23+00:00",
+    "expires_at": "2026-08-06T03:33:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "мордов": {
+    "display_name": "Республика Мордовия",
+    "type": "drone",
+    "text": "Пензенская область, Республика Мордовия - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-06T02:33:23+00:00",
+    "expires_at": "2026-08-06T03:33:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Подольский район, Домодедовский район, Каширский район, Воскресенский район, Коломенский район, Московская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-06T02:34:24+00:00",
+    "expires_at": "2026-08-06T03:34:24+00:00",
     "count": null,
     "count_approx": false
   }
