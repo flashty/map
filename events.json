@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_214334",
-    "channel": "LPRalarm",
-    "date": "2026-08-06T12:49:34+00:00",
-    "text": "Республика Крым \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_86130",
-    "channel": "radarrussiia",
-    "date": "2026-08-06T12:49:54+00:00",
-    "text": "Республика Крым \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_110424",
     "channel": "kupolrussia",
     "date": "2026-08-06T12:49:54+00:00",
@@ -21996,6 +21974,28 @@
     "type": "unknown",
     "location_name": null,
     "region": "Краснодарского края",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_79665",
+    "channel": "vrv_radar",
+    "date": "2026-08-07T16:53:14+00:00",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_214811",
+    "channel": "LPRalarm",
+    "date": "2026-08-07T17:01:22+00:00",
+    "text": "Херсонская область РФ авиационная ракетная бомбовая опасность. В направлении примерно Херсон от Кривой Рог самолёты",
+    "type": "missile",
+    "location_name": null,
+    "region": "Херсонская область",
     "lat": null,
     "lon": null
   }
