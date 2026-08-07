@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-07T11:05:03+00:00",
+        "last_updated": "2026-08-07T11:35:40+00:00",
+        "path_labels": [
+          "Калининский (Краснодарский край)",
+          "Южные (Ростовская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.294868,
+            46.694134
+          ],
+          [
+            39.3999559,
+            47.0980537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-07T11:07:56+00:00",
+        "last_updated": "2026-08-07T11:37:32+00:00",
+        "path_labels": [
+          "Бондаренков",
+          "Валуйского"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.1516595,
+            50.4452137
+          ],
+          [
+            38.0908556,
+            50.2167975
+          ]
+        ]
+      }
+    }
+  ]
 }
