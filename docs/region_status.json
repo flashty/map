@@ -11,21 +11,31 @@
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "alert",
-    "text": "Геленджик и близлежащие\nКраснодарский край\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-07T01:54:59+00:00",
-    "expires_at": "2026-08-07T02:54:59+00:00",
+    "type": "drone",
+    "text": "Геленджик и близлежащие\nКраснодарский край \nРабота ПВО по БПЛА\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-07T02:16:26+00:00",
+    "expires_at": "2026-08-07T03:16:26+00:00",
     "count": null,
     "count_approx": false
   },
-  "татарст": {
-    "display_name": "Республика Татарстан",
+  "пермск": {
+    "display_name": "Пермский край",
     "type": "drone",
-    "text": "Муслюмовский район\nАзнакаевский район\nРеспублика Татарстан\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-07T01:47:00+00:00",
-    "expires_at": "2026-08-07T02:47:00+00:00",
+    "text": "Пермский край\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-07T02:27:09+00:00",
+    "expires_at": "2026-08-07T03:27:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "свердловск": {
+    "display_name": "Свердловская область",
+    "type": "drone",
+    "text": "Пермский край, Свердловская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-07T02:25:20+00:00",
+    "expires_at": "2026-08-07T03:25:20+00:00",
     "count": null,
     "count_approx": false
   }
