@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_79319",
-    "channel": "vrv_radar",
-    "date": "2026-08-06T08:13:51+00:00",
-    "text": "Республика Марий Эл\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Марий",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_86099",
-    "channel": "radarrussiia",
-    "date": "2026-08-06T08:14:40+00:00",
-    "text": "Республика Марий Эл\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Марий",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_110297",
-    "channel": "kupolrussia",
-    "date": "2026-08-06T08:16:25+00:00",
-    "text": "Республика Марий Эл",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Республика Марий",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_214199",
-    "channel": "LPRalarm",
-    "date": "2026-08-06T08:16:34+00:00",
-    "text": "Республика Марий Эл",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Республика Марий",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_79320",
-    "channel": "vrv_radar",
-    "date": "2026-08-06T08:18:56+00:00",
-    "text": "Вологодская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Вологодская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_214200",
-    "channel": "LPRalarm",
-    "date": "2026-08-06T08:19:44+00:00",
-    "text": "Карачаев, Брянск и близлежащие соблюдаем меры безопасности при БПЛА. И далее в направлении Орловской и Калужской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужской области",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_110298",
     "channel": "kupolrussia",
     "date": "2026-08-06T08:20:02+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Брянская область",
     "lat": 52.5867776,
     "lon": 33.7892267
+  },
+  {
+    "id": "LPRalarm_214685_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-08-07T08:41:23+00:00",
+    "text": "Белгородский район \nОпасность атаки БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_214686",
+    "channel": "LPRalarm",
+    "date": "2026-08-07T08:42:37+00:00",
+    "text": "Возможно БЭК Ялта от пляж Приморский в направлении порт",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_13320",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-07T08:42:42+00:00",
+    "text": "Московская область - звуки в небе наши. Опасности нет.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_110726",
+    "channel": "kupolrussia",
+    "date": "2026-08-07T08:42:46+00:00",
+    "text": "Возможно БЭК Ялта от пляж Приморский в направлении порт",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_214687",
+    "channel": "LPRalarm",
+    "date": "2026-08-07T08:43:39+00:00",
+    "text": "Ялта порт тревога по БЭК",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_110727",
+    "channel": "kupolrussia",
+    "date": "2026-08-07T08:43:58+00:00",
+    "text": "Ялта порт тревога по БЭК",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
