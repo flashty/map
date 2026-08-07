@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_214181",
-    "channel": "LPRalarm",
-    "date": "2026-08-06T07:55:28+00:00",
-    "text": "Республика Чувашия",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Республика Чувашия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_79306",
-    "channel": "vrv_radar",
-    "date": "2026-08-06T07:55:44+00:00",
-    "text": "Ульяновская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_110278",
-    "channel": "kupolrussia",
-    "date": "2026-08-06T07:56:20+00:00",
-    "text": "Пензенская область \nУльяновская область \nСамарская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_214182",
-    "channel": "LPRalarm",
-    "date": "2026-08-06T07:56:23+00:00",
-    "text": "Пензенская область \nУльяновская область \nСамарская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_214183",
-    "channel": "LPRalarm",
-    "date": "2026-08-06T07:56:51+00:00",
-    "text": "Курская область \nОпасность по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_110279",
-    "channel": "kupolrussia",
-    "date": "2026-08-06T07:57:02+00:00",
-    "text": "Курская область \nОпасность по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_110280",
-    "channel": "kupolrussia",
-    "date": "2026-08-06T07:58:27+00:00",
-    "text": "Пермский край",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Пермский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_214184",
-    "channel": "LPRalarm",
-    "date": "2026-08-06T07:58:30+00:00",
-    "text": "Пермский край",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Пермский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_79307",
-    "channel": "vrv_radar",
-    "date": "2026-08-06T07:58:43+00:00",
-    "text": "Республика Чувашия\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Чувашия",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_79308",
     "channel": "vrv_radar",
     "date": "2026-08-06T07:58:52+00:00",
@@ -21998,5 +21899,104 @@
     "region": null,
     "lat": 50.5955595,
     "lon": 36.5873394
+  },
+  {
+    "id": "LPRalarm_214663_Погар",
+    "channel": "LPRalarm",
+    "date": "2026-08-07T07:16:59+00:00",
+    "text": "БПЛА Дартс на Погар, сейчас в районе Дареевска \nБрянская область",
+    "type": "drone",
+    "location_name": "Погар",
+    "region": "Брянская область",
+    "lat": 52.554283,
+    "lon": 33.263706
+  },
+  {
+    "id": "LPRalarm_214664_Валуйский",
+    "channel": "LPRalarm",
+    "date": "2026-08-07T07:17:03+00:00",
+    "text": "Уразово\nВалуйский район \nБПЛА разведка",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": null,
+    "lat": 53.1481885,
+    "lon": 36.3185713
+  },
+  {
+    "id": "kupolrussia_110706_Погар",
+    "channel": "kupolrussia",
+    "date": "2026-08-07T07:17:09+00:00",
+    "text": "БПЛА Дартс на Погар, сейчас в районе Дареевска \nБрянская область",
+    "type": "drone",
+    "location_name": "Погар",
+    "region": "Брянская область",
+    "lat": 52.554283,
+    "lon": 33.263706
+  },
+  {
+    "id": "LPRalarm_214665",
+    "channel": "LPRalarm",
+    "date": "2026-08-07T07:24:47+00:00",
+    "text": "Разумное Бгд \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_110707",
+    "channel": "kupolrussia",
+    "date": "2026-08-07T07:25:24+00:00",
+    "text": "Разумное\nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Разумное область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_214666",
+    "channel": "LPRalarm",
+    "date": "2026-08-07T07:30:56+00:00",
+    "text": "ЛДНР\nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_110708",
+    "channel": "kupolrussia",
+    "date": "2026-08-07T07:31:01+00:00",
+    "text": "ЛДНР\nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_214667_Погарский",
+    "channel": "LPRalarm",
+    "date": "2026-08-07T07:31:13+00:00",
+    "text": "Еще БПЛА Дартс в тыл Погарский район в районе Просвета",
+    "type": "drone",
+    "location_name": "Погарский",
+    "region": null,
+    "lat": 50.4015692,
+    "lon": 36.5165733
+  },
+  {
+    "id": "kupolrussia_110709_Погарский",
+    "channel": "kupolrussia",
+    "date": "2026-08-07T07:31:22+00:00",
+    "text": "Еще БПЛА Дартс в тыл Погарский район в районе Просвета",
+    "type": "drone",
+    "location_name": "Погарский",
+    "region": null,
+    "lat": 50.4015692,
+    "lon": 36.5165733
   }
 ]
