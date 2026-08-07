@@ -1,31 +1,11 @@
 {
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "Майнский район\nУльяновская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-06T23:01:31+00:00",
-    "expires_at": "2026-08-07T00:01:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Геленджик\nКраснодарский край\nРабота ПВО по БПЛА\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-06T23:28:11+00:00",
-    "expires_at": "2026-08-07T00:28:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "самарск": {
     "display_name": "Самарская область",
     "type": "drone",
-    "text": "Сызрань, Самара, Новокуйбышевск, Тольятти, Самарская область - опасность по БПЛА от Ульяновской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-06T23:10:27+00:00",
-    "expires_at": "2026-08-07T00:10:27+00:00",
+    "text": "Безенчукский район\nСамарская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-06T23:58:43+00:00",
+    "expires_at": "2026-08-07T00:58:43+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,40 +32,20 @@
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Республика Татарстан\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ® ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-06T23:40:56+00:00",
-    "expires_at": "2026-08-07T00:40:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "мордов": {
-    "display_name": "Республика Мордовия",
-    "type": "drone",
-    "text": "Саранск\nРеспублика Мордовия\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-06T22:56:55+00:00",
-    "expires_at": "2026-08-06T23:56:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "нижегородск": {
-    "display_name": "Республика \nНижегородская",
-    "type": "drone",
-    "text": "Чувашская Республика \nНижегородская область\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-06T22:54:01+00:00",
-    "expires_at": "2026-08-06T23:54:01+00:00",
+    "text": "Елабуга, Нижнекамск, Набережные Челны, Альметьевск, Бугульма и близлежащие населённые пункты, Республика Татарстан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-06T23:53:07+00:00",
+    "expires_at": "2026-08-07T00:53:07+00:00",
     "count": null,
     "count_approx": false
   },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Березовка \nЧехово \nСолдатское\nЕлизаветово и близлежащие \nТревога по БПЛА\nРеспублика Крым",
+    "text": "Целинное\nКолоски и далее на Джанкой\nКрасногвардейский район\nТревога по БПЛА\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-06T23:39:53+00:00",
-    "expires_at": "2026-08-07T00:39:53+00:00",
+    "updated_at": "2026-08-07T00:01:09+00:00",
+    "expires_at": "2026-08-07T01:01:09+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,16 +56,6 @@
     "channel": "locatorru",
     "updated_at": "2026-08-06T23:37:58+00:00",
     "expires_at": "2026-08-07T00:37:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "-": {
-    "display_name": "Республика -",
-    "type": "drone",
-    "text": "Чувашская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-06T23:10:56+00:00",
-    "expires_at": "2026-08-07T00:10:56+00:00",
     "count": null,
     "count_approx": false
   },
@@ -146,6 +96,16 @@
     "channel": "locatorru",
     "updated_at": "2026-08-06T23:37:42+00:00",
     "expires_at": "2026-08-07T00:37:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Мариуполь и близлежащие\nТревога по БПЛА сохраняется\nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-06T23:47:24+00:00",
+    "expires_at": "2026-08-07T00:47:24+00:00",
     "count": null,
     "count_approx": false
   }
