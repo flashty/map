@@ -9,43 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Геленджик\nКраснодарский край\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-07T07:47:29+00:00",
-    "expires_at": "2026-08-07T08:47:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "БПЛА Дартс на Погар, сейчас в районе Дареевска \nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-07T07:17:09+00:00",
-    "expires_at": "2026-08-07T08:17:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "разумн": {
-    "display_name": "Разумное область",
-    "type": "drone",
-    "text": "Разумное\nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-07T07:25:24+00:00",
-    "expires_at": "2026-08-07T08:25:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "ЛДНР\nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-07T08:15:46+00:00",
-    "expires_at": "2026-08-07T09:15:46+00:00",
+    "type": "alert",
+    "text": "ЛДНР\nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-07T08:16:05+00:00",
+    "expires_at": "2026-08-07T09:16:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,10 +32,30 @@
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
-    "text": "От Каирка на восток БПЛА Хорнет \n\nХерсонская область РФ",
+    "text": "Херсонская область РФ \nОсобое внимание трассы \nОпасность по БПЛА Хорнет",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-07T08:10:58+00:00",
-    "expires_at": "2026-08-07T09:10:58+00:00",
+    "updated_at": "2026-08-07T08:30:27+00:00",
+    "expires_at": "2026-08-07T09:30:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "alert",
+    "text": "Тульская область\nЗвуки опасности не несут!",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-07T08:16:13+00:00",
+    "expires_at": "2026-08-07T09:16:13+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "alert",
+    "text": "Московская область\nЗвуки опасности не несут!",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-07T08:16:36+00:00",
+    "expires_at": "2026-08-07T09:16:36+00:00",
     "count": null,
     "count_approx": false
   }
