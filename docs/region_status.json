@@ -19,36 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Целинное\nКолоски и далее на Джанкой\nКрасногвардейский район\nТревога по БПЛА\nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-07T00:01:09+00:00",
-    "expires_at": "2026-08-07T01:01:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Мариуполь и близлежащие\nТревога по БПЛА сохраняется\nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-06T23:47:24+00:00",
-    "expires_at": "2026-08-07T00:47:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Геленджик, село Кабардинка\nКраснодарский край\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-07T00:44:49+00:00",
-    "expires_at": "2026-08-07T01:44:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ульяновск": {
     "display_name": "Ульяновская область",
     "type": "drone",
@@ -96,6 +66,26 @@
     "channel": "locatorru",
     "updated_at": "2026-08-07T00:22:55+00:00",
     "expires_at": "2026-08-07T01:22:55+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Ростовская область\nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-07T00:58:08+00:00",
+    "expires_at": "2026-08-07T01:58:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Геленджик, село Кабардинка\nКраснодарский край\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-07T00:58:52+00:00",
+    "expires_at": "2026-08-07T01:58:52+00:00",
     "count": null,
     "count_approx": false
   }
