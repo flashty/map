@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_79361_Мценский",
-    "channel": "vrv_radar",
-    "date": "2026-08-06T11:16:06+00:00",
-    "text": "Мценский район\nОрловская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Мценский",
-    "region": "Орловская область",
-    "lat": 53.2451748,
-    "lon": 36.5945584
-  },
-  {
-    "id": "radarrussiia_86121_Орловский",
-    "channel": "radarrussiia",
-    "date": "2026-08-06T11:16:48+00:00",
-    "text": "Орловский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Орловский",
-    "region": "Орловская область",
-    "lat": 52.9856621,
-    "lon": 35.9383453
-  },
-  {
     "id": "kupolrussia_110381",
     "channel": "kupolrussia",
     "date": "2026-08-06T11:18:05+00:00",
@@ -21998,5 +21976,27 @@
     "region": null,
     "lat": 53.1481885,
     "lon": 36.3185713
+  },
+  {
+    "id": "LPRalarm_214763",
+    "channel": "LPRalarm",
+    "date": "2026-08-07T13:36:05+00:00",
+    "text": "ЛДНР\nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_110797",
+    "channel": "kupolrussia",
+    "date": "2026-08-07T13:36:50+00:00",
+    "text": "ЛДНР\nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
   }
 ]
