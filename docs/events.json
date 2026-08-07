@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_214123",
-    "channel": "LPRalarm",
-    "date": "2026-08-06T06:13:37+00:00",
-    "text": "Брянская область ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_79270",
-    "channel": "vrv_radar",
-    "date": "2026-08-06T06:13:37+00:00",
-    "text": "Геленджик и близлежащие \nКраснодарский край \nОтбой опасности по БЭК",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_110215",
-    "channel": "kupolrussia",
-    "date": "2026-08-06T06:13:43+00:00",
-    "text": "Брянская область ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_86044",
     "channel": "radarrussiia",
     "date": "2026-08-06T06:14:26+00:00",
@@ -21998,5 +21965,38 @@
     "region": null,
     "lat": 56.4546339,
     "lon": 31.3572492
+  },
+  {
+    "id": "LPRalarm_214611",
+    "channel": "LPRalarm",
+    "date": "2026-08-07T01:41:05+00:00",
+    "text": "Новофедоровка и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_110664",
+    "channel": "kupolrussia",
+    "date": "2026-08-07T01:41:09+00:00",
+    "text": "Новофедоровка и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_79582_Муслюмовский",
+    "channel": "vrv_radar",
+    "date": "2026-08-07T01:45:32+00:00",
+    "text": "Муслюмовский район\nРеспублика Татарстан\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Муслюмовский",
+    "region": "Республика Татарстан",
+    "lat": 55.3111303,
+    "lon": 53.29269
   }
 ]
