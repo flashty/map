@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_79308",
-    "channel": "vrv_radar",
-    "date": "2026-08-06T07:58:52+00:00",
-    "text": "Республика Чувашия\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Чувашия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_214185",
-    "channel": "LPRalarm",
-    "date": "2026-08-06T07:59:00+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_79309",
     "channel": "vrv_radar",
     "date": "2026-08-06T07:59:10+00:00",
@@ -21998,5 +21976,27 @@
     "region": null,
     "lat": 50.4015692,
     "lon": 36.5165733
+  },
+  {
+    "id": "radarrussiia_86291",
+    "channel": "radarrussiia",
+    "date": "2026-08-07T07:42:04+00:00",
+    "text": "Новороссийск и близлежащие\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_79634_Геленджик",
+    "channel": "vrv_radar",
+    "date": "2026-08-07T07:45:36+00:00",
+    "text": "Геленджик\nКраснодарский край\nПродолжается работа ПВО по БПЛА\nМеры безопасности",
+    "type": "drone",
+    "location_name": "Геленджик",
+    "region": "Краснодарский край",
+    "lat": 44.5609447,
+    "lon": 38.0766832
   }
 ]
