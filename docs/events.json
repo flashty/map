@@ -1,71 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_13250",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-06T07:36:09+00:00",
-    "text": "Тюменская область - ракетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "missile",
-    "location_name": null,
-    "region": "Тюменская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_78300",
-    "channel": "locatorru",
-    "date": "2026-08-06T07:36:12+00:00",
-    "text": "Пензенская область, Саратовская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_13251",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-06T07:38:24+00:00",
-    "text": "Курганская область - ракетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "missile",
-    "location_name": null,
-    "region": "Курганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_110267",
-    "channel": "kupolrussia",
-    "date": "2026-08-06T07:39:20+00:00",
-    "text": "Тюменская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Тюменская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_214173",
-    "channel": "LPRalarm",
-    "date": "2026-08-06T07:39:23+00:00",
-    "text": "Тюменская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Тюменская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_79300",
-    "channel": "vrv_radar",
-    "date": "2026-08-06T07:39:30+00:00",
-    "text": "Сочи и близлежащие\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории края опасность сохраняется",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_86078",
     "channel": "radarrussiia",
     "date": "2026-08-06T07:40:02+00:00",
@@ -21998,5 +21932,71 @@
     "region": null,
     "lat": 59.121197,
     "lon": 49.985012
+  },
+  {
+    "id": "LPRalarm_214648_Корочанский",
+    "channel": "LPRalarm",
+    "date": "2026-08-07T06:19:02+00:00",
+    "text": "Корочанский район \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Корочанский",
+    "region": null,
+    "lat": 50.8026787,
+    "lon": 37.1914961
+  },
+  {
+    "id": "kupolrussia_110691_Корочанский",
+    "channel": "kupolrussia",
+    "date": "2026-08-07T06:19:29+00:00",
+    "text": "Корочанский район \nБелгородская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Корочанский",
+    "region": "Белгородская область",
+    "lat": 50.8026787,
+    "lon": 37.1914961
+  },
+  {
+    "id": "vrv_radar_79626",
+    "channel": "vrv_radar",
+    "date": "2026-08-07T06:23:46+00:00",
+    "text": "Смоленская область\nТверская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_79627",
+    "channel": "vrv_radar",
+    "date": "2026-08-07T06:24:58+00:00",
+    "text": "Астраханская область\nРеспублика Калмыкия\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Астраханская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_214649_Яковлевский",
+    "channel": "LPRalarm",
+    "date": "2026-08-07T06:27:34+00:00",
+    "text": "Яковлевский район Белгородская область опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Яковлевский",
+    "region": "Белгородская область",
+    "lat": 50.7321022,
+    "lon": 36.2290154
+  },
+  {
+    "id": "kupolrussia_110692_Яковлевский",
+    "channel": "kupolrussia",
+    "date": "2026-08-07T06:27:57+00:00",
+    "text": "Яковлевский район\nБелгородская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Яковлевский",
+    "region": "Белгородская область",
+    "lat": 50.7321022,
+    "lon": 36.2290154
   }
 ]
