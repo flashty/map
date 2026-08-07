@@ -1,148 +1,5 @@
 [
   {
-    "id": "LPRalarm_214203_Корочанский",
-    "channel": "LPRalarm",
-    "date": "2026-08-06T08:30:34+00:00",
-    "text": "Корочанский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Корочанский",
-    "region": null,
-    "lat": 50.8026787,
-    "lon": 37.1914961
-  },
-  {
-    "id": "kupolrussia_110302_Корочанский",
-    "channel": "kupolrussia",
-    "date": "2026-08-06T08:30:55+00:00",
-    "text": "Корочанский район\n\nБелгородская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Корочанский",
-    "region": "Белгородская область",
-    "lat": 50.8026787,
-    "lon": 37.1914961
-  },
-  {
-    "id": "vrv_radar_79322",
-    "channel": "vrv_radar",
-    "date": "2026-08-06T08:31:08+00:00",
-    "text": "Кировская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Кировская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_214204_Борисовский",
-    "channel": "LPRalarm",
-    "date": "2026-08-06T08:35:53+00:00",
-    "text": "Борисовский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Борисовский",
-    "region": null,
-    "lat": 57.6609585,
-    "lon": 34.1590521
-  },
-  {
-    "id": "vrv_radar_79323",
-    "channel": "vrv_radar",
-    "date": "2026-08-06T08:36:05+00:00",
-    "text": "Оренбургская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Оренбургская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_110303_Борисовский",
-    "channel": "kupolrussia",
-    "date": "2026-08-06T08:36:19+00:00",
-    "text": "Борисовский район \n\nБелгородская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Борисовский",
-    "region": "Белгородская область",
-    "lat": 50.5951942,
-    "lon": 36.011682
-  },
-  {
-    "id": "LPRalarm_214205_Белая Березка",
-    "channel": "LPRalarm",
-    "date": "2026-08-06T08:36:44+00:00",
-    "text": "Белая Березка\nБрянская область\n\nОпасность по Бпла-разведчику\nВозможен обстрел",
-    "type": "drone",
-    "location_name": "Белая Березка",
-    "region": "Брянская область",
-    "lat": 52.381847,
-    "lon": 33.487415
-  },
-  {
-    "id": "vrv_radar_79324",
-    "channel": "vrv_radar",
-    "date": "2026-08-06T08:36:49+00:00",
-    "text": "Новороссийск\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории края опасность сохраняется",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_214206",
-    "channel": "LPRalarm",
-    "date": "2026-08-06T08:36:55+00:00",
-    "text": "Трасса Ясиноватая Пантелеймоновка опасность ФПВ!!!\nАктивно!!\nДНР",
-    "type": "alert",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_79325",
-    "channel": "vrv_radar",
-    "date": "2026-08-06T08:37:11+00:00",
-    "text": "Ярославская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ярославская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_110304",
-    "channel": "kupolrussia",
-    "date": "2026-08-06T08:37:48+00:00",
-    "text": "По ранее объявленным тыловым регионам",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_79326",
-    "channel": "vrv_radar",
-    "date": "2026-08-06T08:37:49+00:00",
-    "text": "Республика Удмуртия\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Удмуртия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_214207",
-    "channel": "LPRalarm",
-    "date": "2026-08-06T08:37:50+00:00",
-    "text": "По ранее объявленным тыловым регионам",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_214208",
     "channel": "LPRalarm",
     "date": "2026-08-06T08:38:20+00:00",
@@ -21998,5 +21855,148 @@
     "region": null,
     "lat": 50.4015692,
     "lon": 36.5165733
+  },
+  {
+    "id": "kupolrussia_110731",
+    "channel": "kupolrussia",
+    "date": "2026-08-07T09:08:00+00:00",
+    "text": "Форос\nАлушта \nЯлта \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_214693",
+    "channel": "LPRalarm",
+    "date": "2026-08-07T09:08:06+00:00",
+    "text": "Форос\nАлушта \nЯлта \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_79639",
+    "channel": "vrv_radar",
+    "date": "2026-08-07T09:11:41+00:00",
+    "text": "Геленджик\nСочи\nКраснодарский край\nОтбой опасности по БПЛА\nОпасность по региону сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_214694_Приморский",
+    "channel": "LPRalarm",
+    "date": "2026-08-07T09:15:29+00:00",
+    "text": "Приморский район, Бердянский район тревога по БПЛА",
+    "type": "drone",
+    "location_name": "Приморский",
+    "region": null,
+    "lat": 52.931834,
+    "lon": 158.405383
+  },
+  {
+    "id": "kupolrussia_110732_Приморский",
+    "channel": "kupolrussia",
+    "date": "2026-08-07T09:15:46+00:00",
+    "text": "Приморский район, Бердянский район\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Приморский",
+    "region": null,
+    "lat": 52.931834,
+    "lon": 158.405383
+  },
+  {
+    "id": "radarrussiia_86295",
+    "channel": "radarrussiia",
+    "date": "2026-08-07T09:17:27+00:00",
+    "text": "Геленджик\nСочи\nКраснодарский край\nОтбой опасности по БПЛА\nОпасность по региону сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_214695",
+    "channel": "LPRalarm",
+    "date": "2026-08-07T09:18:51+00:00",
+    "text": "Новороссия - Бердянск - Приазовское участок трассы Р-280 \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_214696",
+    "channel": "LPRalarm",
+    "date": "2026-08-07T09:18:55+00:00",
+    "text": "Запорожская область РФ \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_110733",
+    "channel": "kupolrussia",
+    "date": "2026-08-07T09:19:01+00:00",
+    "text": "Новороссия - Бердянск - Приазовское участок трассы Р-280 \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_110734",
+    "channel": "kupolrussia",
+    "date": "2026-08-07T09:19:13+00:00",
+    "text": "Запорожская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_214697",
+    "channel": "LPRalarm",
+    "date": "2026-08-07T09:19:31+00:00",
+    "text": "Каланчак и близлежащие тревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_110735",
+    "channel": "kupolrussia",
+    "date": "2026-08-07T09:19:48+00:00",
+    "text": "Каланчак и близлежащие тревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_79640",
+    "channel": "vrv_radar",
+    "date": "2026-08-07T09:20:24+00:00",
+    "text": "Благодарим тех кто участвует в сборе❤️\n\nСобрано:  32.750 из 170.000₽\n\nСсылки для перевода: \nhttps://pay.cloudtips.ru/p/0376bf3f\n\nhttps://yoomoney.ru/fundraise/1H7FOEKHABB.260418",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
