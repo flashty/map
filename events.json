@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_214261",
-    "channel": "LPRalarm",
-    "date": "2026-08-06T10:35:40+00:00",
-    "text": "Горловка Гольмовский БПЛА на восток, ю-в",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_110357",
-    "channel": "kupolrussia",
-    "date": "2026-08-06T10:35:49+00:00",
-    "text": "Горловка Гольмовский БПЛА на восток, ю-в",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_214262_Запад",
-    "channel": "LPRalarm",
-    "date": "2026-08-06T10:38:30+00:00",
-    "text": "Запад, северо-запад Крыма опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Запад",
-    "region": null,
-    "lat": 57.8723,
-    "lon": 41.669
-  },
-  {
-    "id": "kupolrussia_110358_Запад",
-    "channel": "kupolrussia",
-    "date": "2026-08-06T10:38:41+00:00",
-    "text": "Запад, северо-запад Крыма\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Запад",
-    "region": null,
-    "lat": 57.8723,
-    "lon": 41.669
-  },
-  {
     "id": "kupolrussia_110358_Крыма",
     "channel": "kupolrussia",
     "date": "2026-08-06T10:38:41+00:00",
@@ -21998,5 +21954,49 @@
     "region": null,
     "lat": 58.5510763,
     "lon": 48.8892307
+  },
+  {
+    "id": "vrv_radar_79652",
+    "channel": "vrv_radar",
+    "date": "2026-08-07T11:27:38+00:00",
+    "text": "Сочи и близлежащие\nКраснодарский край\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_86304",
+    "channel": "radarrussiia",
+    "date": "2026-08-07T11:28:10+00:00",
+    "text": "Сочи и близлежащие\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_214737",
+    "channel": "LPRalarm",
+    "date": "2026-08-07T11:28:43+00:00",
+    "text": "Сочи и близлежащие опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_110771",
+    "channel": "kupolrussia",
+    "date": "2026-08-07T11:28:54+00:00",
+    "text": "Сочи и близлежащие опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
