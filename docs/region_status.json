@@ -19,24 +19,14 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Троицкое и близлежащие Лнр \nОпасность по БПЛА Хорнет",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-07T03:31:01+00:00",
-    "expires_at": "2026-08-07T04:31:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "свердловск": {
-    "display_name": "Свердловской области",
+    "display_name": "Свердловская область",
     "type": "drone",
-    "text": "6 БПЛА в направлении Екатеринбурга, Свердловской области от Республики Башкортостан.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-07T03:45:02+00:00",
-    "expires_at": "2026-08-07T04:45:02+00:00",
-    "count": 6,
+    "text": "Екатеринбург\nСвердловская область\nФиксация 4 БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-07T04:28:18+00:00",
+    "expires_at": "2026-08-07T05:28:18+00:00",
+    "count": 4,
     "count_approx": false
   },
   "краснодарско": {
@@ -52,10 +42,10 @@
   "курганск": {
     "display_name": "Курганская область",
     "type": "drone",
-    "text": "Курганская область\nТюменская область\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-07T04:11:08+00:00",
-    "expires_at": "2026-08-07T05:11:08+00:00",
+    "text": "Курганская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-07T04:18:08+00:00",
+    "expires_at": "2026-08-07T05:18:08+00:00",
     "count": null,
     "count_approx": false
   },
