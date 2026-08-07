@@ -41,11 +41,11 @@
   },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "alert",
-    "text": "ЛДНР\nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-07T07:31:01+00:00",
-    "expires_at": "2026-08-07T08:31:01+00:00",
+    "type": "missile",
+    "text": "ЛДНР\nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-07T08:15:46+00:00",
+    "expires_at": "2026-08-07T09:15:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +56,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-07T07:59:11+00:00",
     "expires_at": "2026-08-07T08:59:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "От Каирка на восток БПЛА Хорнет \n\nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-07T08:10:58+00:00",
+    "expires_at": "2026-08-07T09:10:58+00:00",
     "count": null,
     "count_approx": false
   }
