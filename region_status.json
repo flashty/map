@@ -1,14 +1,4 @@
 {
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "alert",
-    "text": "Бердянский район и близлежащие \nОпасность по МРШ со сбросами \nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-07T15:07:26+00:00",
-    "expires_at": "2026-08-07T16:07:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "alert",
@@ -39,26 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-07T15:03:14+00:00",
-    "expires_at": "2026-08-07T16:03:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "alert",
-    "text": "Херсонская область РФ \nОпасность по МРШ со сбросами",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-07T15:05:57+00:00",
-    "expires_at": "2026-08-07T16:05:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -72,10 +42,20 @@
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
-    "text": "Белгородская область \nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-07T15:57:13+00:00",
-    "expires_at": "2026-08-07T16:57:13+00:00",
+    "text": "Белгородская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-07T16:06:41+00:00",
+    "expires_at": "2026-08-07T17:06:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Вся территория Белгородской области - опасность по БПЛА. \n\nВоронежская область - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-07T16:06:14+00:00",
+    "expires_at": "2026-08-07T17:06:14+00:00",
     "count": null,
     "count_approx": false
   }
