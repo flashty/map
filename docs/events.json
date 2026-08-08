@@ -1,93 +1,5 @@
 [
   {
-    "id": "vrv_radar_79798_Сызрань",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T23:48:05+00:00",
-    "text": "Сызрань\nСамарская область\nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Сызрань",
-    "region": "Самарская область",
-    "lat": 53.15538,
-    "lon": 48.474121
-  },
-  {
-    "id": "vrv_radar_79799_Сухиничский",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T23:48:17+00:00",
-    "text": "Сухиничский район\nКалужская область\nФиксация от 3 БПЛА",
-    "type": "drone",
-    "location_name": "Сухиничский",
-    "region": "Калужская область",
-    "lat": 54.0945612,
-    "lon": 35.3488687
-  },
-  {
-    "id": "radar_plus_bpla_13342_Сызрань",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-07T23:48:27+00:00",
-    "text": "Сызрань, Самарская область - сбития БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": "Сызрань",
-    "region": "Самарская область",
-    "lat": 53.15538,
-    "lon": 48.474121
-  },
-  {
-    "id": "vrv_radar_79800_Липецк",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T23:48:38+00:00",
-    "text": "Липецк\nЛипецкая область\nМеры безопасности",
-    "type": "alert",
-    "location_name": "Липецк",
-    "region": "Липецкая область",
-    "lat": 52.6051488,
-    "lon": 39.5963775
-  },
-  {
-    "id": "vrv_radar_79801_Дубенский",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T23:48:58+00:00",
-    "text": "Дубенский район\nТульская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Дубенский",
-    "region": "Тульская область",
-    "lat": 54.1486417,
-    "lon": 36.9480547
-  },
-  {
-    "id": "vrv_radar_79802",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T23:49:02+00:00",
-    "text": "Сызрань \nСамарская область\nЕщё сбитие БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_13343",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-07T23:49:03+00:00",
-    "text": "Липецк - сбитие БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_79803_Плавский",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T23:49:27+00:00",
-    "text": "Плавский район\nТульская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Плавский",
-    "region": "Тульская область",
-    "lat": 53.5992342,
-    "lon": 37.3013758
-  },
-  {
     "id": "radarrussiia_86412_Сызрань",
     "channel": "radarrussiia",
     "date": "2026-08-07T23:49:30+00:00",
@@ -21998,5 +21910,93 @@
     "region": "Запорожская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_215491",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T16:18:53+00:00",
+    "text": "Харьковская область РФ \nБелгородская область \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Харьковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215492",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T16:19:15+00:00",
+    "text": "Мелитополь и близлежащие \nОпасность по БПЛА Хорнет \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111439",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T16:19:16+00:00",
+    "text": "Харьковская область РФ \nБелгородская область\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Харьковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111440",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T16:19:23+00:00",
+    "text": "Мелитополь и близлежащие \nОпасность по БПЛА Хорнет \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_80069_Тула",
+    "channel": "vrv_radar",
+    "date": "2026-08-08T16:29:16+00:00",
+    "text": "Тула\nТульская область\nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": "Тула",
+    "region": "Тульская область",
+    "lat": 54.1930321,
+    "lon": 37.61754
+  },
+  {
+    "id": "radar_plus_bpla_13377",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-08T16:29:32+00:00",
+    "text": "Тула - сбитие БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215493_Валуйки",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T16:30:22+00:00",
+    "text": "Балаклея самолёты. Возможно пуск УАБов или ракеты в направлении Валуйки, ШБК",
+    "type": "missile",
+    "location_name": "Валуйки",
+    "region": null,
+    "lat": 50.211296,
+    "lon": 38.100227
+  },
+  {
+    "id": "kupolrussia_111441_Валуйки",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T16:30:29+00:00",
+    "text": "Балаклея самолёты. Возможно пуск УАБов или ракеты в направлении Валуйки, ШБК",
+    "type": "missile",
+    "location_name": "Валуйки",
+    "region": null,
+    "lat": 50.211296,
+    "lon": 38.100227
   }
 ]
