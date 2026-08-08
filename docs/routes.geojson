@@ -55,31 +55,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-08-08T17:32:58+00:00",
-        "last_updated": "2026-08-08T18:18:43+00:00",
-        "path_labels": [
-          "Тербунский (Липецкая область)",
-          "Хохольский (Воронежская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.4170401,
-            52.144083
-          ],
-          [
-            38.7866515,
-            51.5779217
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-08-08T17:34:01+00:00",
         "last_updated": "2026-08-08T18:20:47+00:00",
         "path_labels": [
@@ -155,6 +130,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-08-08T18:45:26+00:00",
+        "last_updated": "2026-08-08T19:16:29+00:00",
+        "path_labels": [
+          "Тарусский",
+          "Дубенский (Тульская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.1690689,
+            54.7179122
+          ],
+          [
+            36.9480547,
+            54.1486417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-08-08T18:47:59+00:00",
         "last_updated": "2026-08-08T19:10:01+00:00",
         "path_labels": [
@@ -197,6 +197,31 @@
           [
             38.6867154,
             50.6299364
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-08T19:19:43+00:00",
+        "last_updated": "2026-08-08T19:19:43+00:00",
+        "path_labels": [
+          "Брянская область",
+          "Курской области"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.40561331430358,
+            52.91017768916833
+          ],
+          [
+            36.12588265476281,
+            51.70340320764268
           ]
         ]
       }
