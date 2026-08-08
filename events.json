@@ -1,104 +1,5 @@
 [
   {
-    "id": "vrv_radar_79773",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T23:04:52+00:00",
-    "text": "Самарская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_78640",
-    "channel": "locatorru",
-    "date": "2026-08-07T23:05:43+00:00",
-    "text": "Московская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_214987_Джанкойский",
-    "channel": "LPRalarm",
-    "date": "2026-08-07T23:06:01+00:00",
-    "text": "Джанкойский район и далее на Нижнегорский район\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Джанкойский",
-    "region": null,
-    "lat": 55.5394245,
-    "lon": 37.5744389
-  },
-  {
-    "id": "LPRalarm_214987_Нижнегорский",
-    "channel": "LPRalarm",
-    "date": "2026-08-07T23:06:01+00:00",
-    "text": "Джанкойский район и далее на Нижнегорский район\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Нижнегорский",
-    "region": null,
-    "lat": 53.3562241,
-    "lon": 51.1593807
-  },
-  {
-    "id": "vrv_radar_79774",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T23:06:05+00:00",
-    "text": "Московская область\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_86388",
-    "channel": "radarrussiia",
-    "date": "2026-08-07T23:06:12+00:00",
-    "text": "Калужская область\nМосковская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "missile",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_110993_Джанкойский",
-    "channel": "kupolrussia",
-    "date": "2026-08-07T23:06:33+00:00",
-    "text": "Джанкойский район и далее на Нижнегорский район\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Джанкойский",
-    "region": null,
-    "lat": 55.5394245,
-    "lon": 37.5744389
-  },
-  {
-    "id": "kupolrussia_110993_Нижнегорский",
-    "channel": "kupolrussia",
-    "date": "2026-08-07T23:06:33+00:00",
-    "text": "Джанкойский район и далее на Нижнегорский район\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Нижнегорский",
-    "region": null,
-    "lat": 53.3562241,
-    "lon": 51.1593807
-  },
-  {
-    "id": "locatorru_78641_Тамбов",
-    "channel": "locatorru",
-    "date": "2026-08-07T23:06:40+00:00",
-    "text": "Через Мичуринск возможно ещё 2 ракеты в сторону Тамбов, Рассказово, Платоновский. \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": "Тамбов",
-    "region": null,
-    "lat": 52.7216164,
-    "lon": 41.4523988
-  },
-  {
     "id": "locatorru_78641_Рассказово",
     "channel": "locatorru",
     "date": "2026-08-07T23:06:40+00:00",
@@ -21998,5 +21899,104 @@
     "region": null,
     "lat": 53.1481885,
     "lon": 36.3185713
+  },
+  {
+    "id": "LPRalarm_215455",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T12:34:21+00:00",
+    "text": "Троицкое ЛНР, Валуйский округ ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111406",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T12:34:41+00:00",
+    "text": "Троицкое ЛНР, Валуйский округ\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_80030",
+    "channel": "vrv_radar",
+    "date": "2026-08-08T12:35:03+00:00",
+    "text": "Новороссийск и близлежащие\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории края опасность сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_80031_Щекино",
+    "channel": "vrv_radar",
+    "date": "2026-08-08T12:35:21+00:00",
+    "text": "Щекино\nТульская область\nСбитие БПЛА\nМеры безопасности",
+    "type": "all_clear",
+    "location_name": "Щекино",
+    "region": "Тульская область",
+    "lat": 54.004465,
+    "lon": 37.5179079
+  },
+  {
+    "id": "LPRalarm_215456",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T12:36:01+00:00",
+    "text": "Валуйский округ отбой ракетной опасности.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111407",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T12:36:20+00:00",
+    "text": "Валуйский округ",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_13375_Щёкино",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-08T12:36:24+00:00",
+    "text": "Щёкино, Тульская область - сбитие БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": "Щёкино",
+    "region": "Тульская область",
+    "lat": 54.004465,
+    "lon": 37.5179079
+  },
+  {
+    "id": "LPRalarm_215457_Вам",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T12:37:30+00:00",
+    "text": "https://pay.cloudtips.ru/p/f2a9c1d8\n\nДорогие наши близкие!\n\nВаша поддержка нашей деятельности для нас очень важна.\n❤️❤️❤️\n\nСпасибо огромное всем это понимающим. \n\nМы никогда не получали государственного финансирования, мы смогли создать на начальном этапе единственный в своем роде ресурс оповещения и в дальнейшем развиться благодаря Вам!\nя\nИЕ г4СА Г\nЕ:",
+    "type": "unknown",
+    "location_name": "Вам",
+    "region": null,
+    "lat": 56.8256374,
+    "lon": 60.6352387
+  },
+  {
+    "id": "LPRalarm_215458",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T12:45:43+00:00",
+    "text": "Бердянск и близлежащие, полигон тревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
