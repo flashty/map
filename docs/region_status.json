@@ -2,10 +2,10 @@
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Малоархангельский район\nОрловская область\nФиксация БПЛА",
+    "text": "Орловский район\nОрловская область\nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-08-08T22:05:53+00:00",
-    "expires_at": "2026-08-08T23:05:53+00:00",
+    "updated_at": "2026-08-08T23:10:16+00:00",
+    "expires_at": "2026-08-09T00:10:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "волгоградск": {
-    "display_name": "Волгоградская область",
-    "type": "drone",
-    "text": "Елань\nВолгоградская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-08T22:10:38+00:00",
-    "expires_at": "2026-08-08T23:10:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -50,32 +40,12 @@
     "count_approx": false
   },
   "калужск": {
-    "display_name": "Калужской области",
+    "display_name": "Калужская область",
     "type": "drone",
-    "text": "Жуковка, Брянская область - пролёт БПЛА в сторону Калужской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-08T22:33:59+00:00",
-    "expires_at": "2026-08-08T23:33:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Грязинский район\nЛипецкая область\nФиксация БПЛА",
+    "text": "Кировский район\nКалужская область\nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-08-08T22:06:44+00:00",
-    "expires_at": "2026-08-08T23:06:44+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Поворинский район\nВоронежская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-08T22:07:47+00:00",
-    "expires_at": "2026-08-08T23:07:47+00:00",
+    "updated_at": "2026-08-08T23:11:41+00:00",
+    "expires_at": "2026-08-09T00:11:41+00:00",
     "count": null,
     "count_approx": false
   },
@@ -92,10 +62,10 @@
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Пензенская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-08T22:46:23+00:00",
-    "expires_at": "2026-08-08T23:46:23+00:00",
+    "text": "Ульяновская область\nСамарская область \nПензенская область\nтревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-08T23:02:40+00:00",
+    "expires_at": "2026-08-09T00:02:40+00:00",
     "count": null,
     "count_approx": false
   },
@@ -122,10 +92,20 @@
   "ульяновск": {
     "display_name": "Ульяновская область",
     "type": "drone",
-    "text": "Ульяновская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-08T23:00:48+00:00",
-    "expires_at": "2026-08-09T00:00:48+00:00",
+    "text": "Ульяновская область - опасность по БПЛА. \nОт Пензенской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-08T23:06:04+00:00",
+    "expires_at": "2026-08-09T00:06:04+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "самарск": {
+    "display_name": "Самарская область",
+    "type": "drone",
+    "text": "Самарская область\nУльяновская область\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-08T23:04:12+00:00",
+    "expires_at": "2026-08-09T00:04:12+00:00",
     "count": null,
     "count_approx": false
   }
