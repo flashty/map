@@ -2,10 +2,10 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Куркинский район \nТульская область \nФиксация БПЛА",
+    "text": "Алексин\nТульская область \nПродолжается работа ПВО по БПЛА\nМеры безопасности",
     "channel": "vrv_radar",
-    "updated_at": "2026-08-08T03:31:53+00:00",
-    "expires_at": "2026-08-08T04:31:53+00:00",
+    "updated_at": "2026-08-08T04:10:55+00:00",
+    "expires_at": "2026-08-08T05:10:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +46,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-08T03:49:19+00:00",
     "expires_at": "2026-08-08T04:49:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Курск и близлежащие\nТревога по БПЛА\nповторно\nКурская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-08T04:02:15+00:00",
+    "expires_at": "2026-08-08T05:02:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Маяк, Тарханкут тревога по БПЛА с моря \nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-08T04:05:35+00:00",
+    "expires_at": "2026-08-08T05:05:35+00:00",
     "count": null,
     "count_approx": false
   }
