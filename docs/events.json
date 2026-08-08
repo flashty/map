@@ -1,82 +1,5 @@
 [
   {
-    "id": "vrv_radar_79736",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T22:13:49+00:00",
-    "text": "Ульяновская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_79737",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T22:13:59+00:00",
-    "text": "Калужская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_86371",
-    "channel": "radarrussiia",
-    "date": "2026-08-07T22:14:08+00:00",
-    "text": "Калужская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_79738_Орел",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T22:14:09+00:00",
-    "text": "Орел\nОрловская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Орел",
-    "region": "Орловская область",
-    "lat": 52.9709262,
-    "lon": 36.0642127
-  },
-  {
-    "id": "radarrussiia_86372",
-    "channel": "radarrussiia",
-    "date": "2026-08-07T22:14:21+00:00",
-    "text": "Ульяновская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_214956",
-    "channel": "LPRalarm",
-    "date": "2026-08-07T22:14:51+00:00",
-    "text": "Карачев и близлежащие\nТревога по БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_86373_Орел",
-    "channel": "radarrussiia",
-    "date": "2026-08-07T22:14:52+00:00",
-    "text": "Орел\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Орел",
-    "region": "Орловская область",
-    "lat": 52.9709262,
-    "lon": 36.0642127
-  },
-  {
     "id": "locatorru_78603_Брасовский",
     "channel": "locatorru",
     "date": "2026-08-07T22:15:04+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_79993_Геленджик",
+    "channel": "vrv_radar",
+    "date": "2026-08-08T09:51:00+00:00",
+    "text": "Геленджик\nКраснодарский край\nПродолжается работа ПВО по БПЛА \nМеры безопасности",
+    "type": "drone",
+    "location_name": "Геленджик",
+    "region": "Краснодарский край",
+    "lat": 44.5609447,
+    "lon": 38.0766832
+  },
+  {
+    "id": "vrv_radar_79994_Геленджик",
+    "channel": "vrv_radar",
+    "date": "2026-08-08T09:52:01+00:00",
+    "text": "Геленджик\nКраснодарский край\nПриготовиться к сбитию\nМеры безопасности",
+    "type": "all_clear",
+    "location_name": "Геленджик",
+    "region": "Краснодарский край",
+    "lat": 44.5609447,
+    "lon": 38.0766832
+  },
+  {
+    "id": "LPRalarm_215397",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T09:55:43+00:00",
+    "text": "Красная яруга \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111350",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T09:56:11+00:00",
+    "text": "Красная яруга \nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_79995",
+    "channel": "vrv_radar",
+    "date": "2026-08-08T09:58:00+00:00",
+    "text": "Ярославская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215398",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T09:59:36+00:00",
+    "text": "Первомайск \nПопасная и близлежащие \nОпасность по БПЛА повторно\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111351",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T09:59:47+00:00",
+    "text": "Первомайск \nПопасная и близлежащие \n повторно\nЛНР\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
