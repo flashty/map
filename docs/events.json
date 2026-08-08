@@ -1,104 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_13353",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-08T00:45:28+00:00",
-    "text": "Тула\nНовомосковск\nУзловая\n\nСбития реактивных БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_78700",
-    "channel": "locatorru",
-    "date": "2026-08-08T00:46:22+00:00",
-    "text": "Рязанская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_215027",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T00:46:27+00:00",
-    "text": "Витино и далее на Евпаторию\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_78701",
-    "channel": "locatorru",
-    "date": "2026-08-08T00:46:42+00:00",
-    "text": "Возможно ракета от Михайлов в сторону Рязань. \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_111020",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T00:46:51+00:00",
-    "text": "Витино и далее на Евпаторию\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_215028",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T00:47:10+00:00",
-    "text": "Сельцо \nИ ближайшие \nОпасность по БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_78702_Рязань",
-    "channel": "locatorru",
-    "date": "2026-08-08T00:47:17+00:00",
-    "text": "Рязань, аэ.Дягилево, Рязанская область - опасность по БПЛА + ракетная. \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": "Рязань",
-    "region": "Рязанская область",
-    "lat": 54.6295687,
-    "lon": 39.7425039
-  },
-  {
-    "id": "locatorru_78702_Дягилево",
-    "channel": "locatorru",
-    "date": "2026-08-08T00:47:17+00:00",
-    "text": "Рязань, аэ.Дягилево, Рязанская область - опасность по БПЛА + ракетная. \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": "Дягилево",
-    "region": "Рязанская область",
-    "lat": 54.6438076,
-    "lon": 39.5729428
-  },
-  {
-    "id": "vrv_radar_79870_Тула",
-    "channel": "vrv_radar",
-    "date": "2026-08-08T00:47:23+00:00",
-    "text": "Тула\nТульская область\nМеры безопасности",
-    "type": "alert",
-    "location_name": "Тула",
-    "region": "Тульская область",
-    "lat": 54.1930321,
-    "lon": 37.61754
-  },
-  {
     "id": "kupolrussia_111021",
     "channel": "kupolrussia",
     "date": "2026-08-08T00:47:34+00:00",
@@ -21998,5 +21899,104 @@
     "region": null,
     "lat": 67.560455,
     "lon": 33.639561
+  },
+  {
+    "id": "kupolrussia_111491_Перекоп",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T18:53:13+00:00",
+    "text": "п. Перекоп и близлежащие тревога по БПЛА действует. Соблюдаем меры безопасности и далее на АПП Перекоп, Титан, Армянск",
+    "type": "drone",
+    "location_name": "Перекоп",
+    "region": null,
+    "lat": 59.121197,
+    "lon": 49.985012
+  },
+  {
+    "id": "kupolrussia_111491_Титан",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T18:53:13+00:00",
+    "text": "п. Перекоп и близлежащие тревога по БПЛА действует. Соблюдаем меры безопасности и далее на АПП Перекоп, Титан, Армянск",
+    "type": "drone",
+    "location_name": "Титан",
+    "region": null,
+    "lat": 67.560455,
+    "lon": 33.639561
+  },
+  {
+    "id": "LPRalarm_215548",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T18:55:41+00:00",
+    "text": "Острогожск и далее на Воронеж фиксации БПЛА, также возможно реактивных",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111492",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T18:55:44+00:00",
+    "text": "Острогожск и далее на Воронеж фиксации БПЛА, также возможно реактивных",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_78841",
+    "channel": "locatorru",
+    "date": "2026-08-08T18:55:45+00:00",
+    "text": "Волоконовский район, Шебекинский район, Валуйский район, Белгородская область - продолжается массовый пролёт БПЛА в сторону Воронежской области. Идут электрические БПЛА, полудохлые БПЛА - нагружают ПВО, МОГ.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_78842_Бирюч",
+    "channel": "locatorru",
+    "date": "2026-08-08T18:59:13+00:00",
+    "text": "Бирюч, Белгородская область - БПЛА на Алексеевку.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Бирюч",
+    "region": "Белгородская область",
+    "lat": 50.6488476,
+    "lon": 38.396442
+  },
+  {
+    "id": "LPRalarm_215549",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T18:59:17+00:00",
+    "text": "Аскания Нова в направлении Армянск тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111493",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T18:59:25+00:00",
+    "text": "Аскания Нова в направлении Армянск тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_80089",
+    "channel": "vrv_radar",
+    "date": "2026-08-08T19:00:50+00:00",
+    "text": "Просим службы МЧС РСЧС и подразделения ДРО РЛС ПВН ПВО выйти с нами на связь по контакту обратной связи @vrv_support а так же, ОД(оперативных дежурных) , работников НПЗ, аэродромов и тд, обладающих информацией \n\nУ нас в команде более 270 человек(со служб ~235), работаем с мая 24 года\n\nДля подписчиков, свидетелей пролетов/сбитий БПЛА есть обратная связь по кнопке снизу в TG(в MAX в описании, в ВК кнопка сверху страницы)\n\nОбратная связь MAX для военных: https://max.ru/u/f9LHodD0cOICV1Ss9Q5rHZiKLYF",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
