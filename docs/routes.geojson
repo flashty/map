@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-08T06:57:45+00:00",
+        "last_updated": "2026-08-08T07:38:48+00:00",
+        "path_labels": [
+          "Стародуб (Брянская область)",
+          "Погарский (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.7603126,
+            52.5853016
+          ],
+          [
+            33.2053408,
+            52.5207056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-08T07:21:22+00:00",
+        "last_updated": "2026-08-08T07:40:21+00:00",
+        "path_labels": [
+          "Новороссийск (Краснодарский край)",
+          "Анапский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.7690711,
+            44.7239578
+          ],
+          [
+            37.755292,
+            45.0702704
+          ]
+        ]
+      }
+    }
+  ]
 }
