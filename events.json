@@ -1,93 +1,5 @@
 [
   {
-    "id": "kupolrussia_110980_Обоянь",
-    "channel": "kupolrussia",
-    "date": "2026-08-07T22:41:36+00:00",
-    "text": "Пристень, Обоянь, Солнцево и близлежащие\nКурская область\nТревога по БпЛА",
-    "type": "drone",
-    "location_name": "Обоянь",
-    "region": "Курская область",
-    "lat": 51.211079,
-    "lon": 36.276245
-  },
-  {
-    "id": "locatorru_78621",
-    "channel": "locatorru",
-    "date": "2026-08-07T22:42:12+00:00",
-    "text": "Владимирская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Владимирская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_214974",
-    "channel": "LPRalarm",
-    "date": "2026-08-07T22:44:52+00:00",
-    "text": "Карачев и близлежащие\nТревога по БПЛА сохраняется\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_110981",
-    "channel": "kupolrussia",
-    "date": "2026-08-07T22:45:21+00:00",
-    "text": "Карачев и близлежащие\nТревога по БПЛА сохраняется\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_79752_Воронеж",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T22:45:37+00:00",
-    "text": "Воронеж\nВоронежская область\nСбитие БПЛА\nМеры безопасности",
-    "type": "all_clear",
-    "location_name": "Воронеж",
-    "region": "Воронежская область",
-    "lat": 51.6605982,
-    "lon": 39.2005858
-  },
-  {
-    "id": "LPRalarm_214975",
-    "channel": "LPRalarm",
-    "date": "2026-08-07T22:46:12+00:00",
-    "text": "Воронеж и близлежащие\nТревога по БПЛА, повторно\nВоронежская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_13331",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-07T22:46:12+00:00",
-    "text": "Воронеж - сбитие БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_78622_Балтимор",
-    "channel": "locatorru",
-    "date": "2026-08-07T22:46:25+00:00",
-    "text": "Балтимор, Воронеж, Новая Усмань, Александровка, Воронежская область - опасность по БПЛА, ещё раз!\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Балтимор",
-    "region": "Воронежская область",
-    "lat": 51.616971,
-    "lon": 39.1521851
-  },
-  {
     "id": "locatorru_78622_Воронеж",
     "channel": "locatorru",
     "date": "2026-08-07T22:46:25+00:00",
@@ -21996,6 +21908,94 @@
     "type": "unknown",
     "location_name": null,
     "region": "Республика Мордовия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215425",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T10:49:03+00:00",
+    "text": "Трасса Таврида от Ленинское в направлении Керчь тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111379",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T10:49:13+00:00",
+    "text": "Трасса Таврида от Ленинское в направлении Керчь тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215426_Курчатов",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T10:49:58+00:00",
+    "text": "Курчатов, Курск и близлежащие опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Курчатов",
+    "region": null,
+    "lat": 51.659466,
+    "lon": 35.658863
+  },
+  {
+    "id": "kupolrussia_111380_Курчатов",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T10:50:07+00:00",
+    "text": "Курчатов, Курск и близлежащие опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Курчатов",
+    "region": null,
+    "lat": 51.659466,
+    "lon": 35.658863
+  },
+  {
+    "id": "vrv_radar_80007_Алексин",
+    "channel": "vrv_radar",
+    "date": "2026-08-08T10:50:37+00:00",
+    "text": "Алексин\nТульская область\nМеры безопасности",
+    "type": "alert",
+    "location_name": "Алексин",
+    "region": "Тульская область",
+    "lat": 54.5028103,
+    "lon": 37.0667213
+  },
+  {
+    "id": "locatorru_78799",
+    "channel": "locatorru",
+    "date": "2026-08-08T10:57:14+00:00",
+    "text": "Огромное вам спасибо за помощь! ❤️\nВидим что многие не могут, или не хотят помогать, ничего страшного!🙏\n\nЗа сегодняшний день приняли участие 16 наших близких, спасибо вам! \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_80008",
+    "channel": "vrv_radar",
+    "date": "2026-08-08T11:00:34+00:00",
+    "text": "Новороссийск и близлежащие\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории края опасность сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_80009",
+    "channel": "vrv_radar",
+    "date": "2026-08-08T11:01:01+00:00",
+    "text": "Владимирская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Владимирская область",
     "lat": null,
     "lon": null
   }
