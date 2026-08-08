@@ -1,14 +1,4 @@
 {
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Херсонская область РФ\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-08T07:27:21+00:00",
-    "expires_at": "2026-08-08T08:27:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -19,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Славянский район \nКраснодарский край\nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-08T08:15:17+00:00",
-    "expires_at": "2026-08-08T09:15:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
@@ -36,16 +16,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-08T08:03:56+00:00",
     "expires_at": "2026-08-08T09:03:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ивановск": {
-    "display_name": "Ивановская область",
-    "type": "drone",
-    "text": "Ивановская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-08T07:16:50+00:00",
-    "expires_at": "2026-08-08T08:16:50+00:00",
     "count": null,
     "count_approx": false
   },
@@ -79,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Калужская область \nСмоленская область \nТульская область \nМосковская область \nТверская область \nТревога по БПЛА сохраняется \nОчередная волна БПЛА от Брянской области\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-08T07:25:48+00:00",
-    "expires_at": "2026-08-08T08:25:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
@@ -111,11 +71,11 @@
   },
   "курск": {
     "display_name": "Курская область",
-    "type": "alert",
-    "text": "Курская область и близлежащие\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-08T07:23:54+00:00",
-    "expires_at": "2026-08-08T08:23:54+00:00",
+    "type": "drone",
+    "text": "Рыльский район, Курская область - опасность по БПЛА и в сторону Льгова.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-08T08:30:16+00:00",
+    "expires_at": "2026-08-08T09:30:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -216,6 +176,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-08T08:05:16+00:00",
     "expires_at": "2026-08-08T09:05:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Приморско-Ахтарский район\nСлавянский район\nКраснодарский край\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-08T08:31:08+00:00",
+    "expires_at": "2026-08-08T09:31:08+00:00",
     "count": null,
     "count_approx": false
   }
