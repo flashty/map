@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Геленджик и близлежащие\nТревога по БПЛА\nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-08T04:26:36+00:00",
-    "expires_at": "2026-08-08T05:26:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
@@ -42,10 +32,10 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Запорожская область РФ\nБердянск и близлежащие\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
+    "text": "Запорожская область РФ все районы\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-08T05:12:49+00:00",
-    "expires_at": "2026-08-08T06:12:49+00:00",
+    "updated_at": "2026-08-08T05:29:06+00:00",
+    "expires_at": "2026-08-08T06:29:06+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,10 +52,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Между Шелковичное, Геройское\nВ направлении Крымское\nФиксация БПЛА\nРеспублика Крым",
+    "text": "Песчаное\nВилино\nИ далее\nЕще фиксации БПЛА\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-08T05:11:10+00:00",
-    "expires_at": "2026-08-08T06:11:10+00:00",
+    "updated_at": "2026-08-08T05:24:43+00:00",
+    "expires_at": "2026-08-08T06:24:43+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +66,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-08T05:12:01+00:00",
     "expires_at": "2026-08-08T06:12:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Таврово \nБелгородская область \nУдарный БПЛА в направлении",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-08T05:20:05+00:00",
+    "expires_at": "2026-08-08T06:20:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-08T05:23:44+00:00",
+    "expires_at": "2026-08-08T06:23:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "missile",
+    "text": "Артёмовск, Часов Яр ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-08T05:30:30+00:00",
+    "expires_at": "2026-08-08T06:30:30+00:00",
     "count": null,
     "count_approx": false
   }
