@@ -1,34 +1,4 @@
 {
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Алексин\nТульская область \nПродолжается работа ПВО по БПЛА\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-08T04:10:55+00:00",
-    "expires_at": "2026-08-08T05:10:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Данковский район\nЛипецкая область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-08T03:32:36+00:00",
-    "expires_at": "2026-08-08T04:32:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Рохманово и близлежащие\nТревога по БПЛА\nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-08T03:59:59+00:00",
-    "expires_at": "2026-08-08T04:59:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
@@ -39,26 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Курск и близлежащие\nТревога по БПЛА\nповторно\nКурская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-08T04:02:15+00:00",
-    "expires_at": "2026-08-08T05:02:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Евпатория и близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-08T04:30:27+00:00",
-    "expires_at": "2026-08-08T05:30:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -66,6 +16,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-08T04:26:36+00:00",
     "expires_at": "2026-08-08T05:26:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Ферзиковский район\nКалужская область \nФиксации групп БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-08T04:44:04+00:00",
+    "expires_at": "2026-08-08T05:44:04+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Серпухов \nГО Подольск \nМосковская область \nФиксации групп БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-08T04:45:48+00:00",
+    "expires_at": "2026-08-08T05:45:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Алексин\nЗаокский район\nТульская область\nФиксации групп БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-08T04:45:12+00:00",
+    "expires_at": "2026-08-08T05:45:12+00:00",
     "count": null,
     "count_approx": false
   }
