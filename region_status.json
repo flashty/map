@@ -50,12 +50,12 @@
     "count_approx": false
   },
   "калужск": {
-    "display_name": "Калужская область",
+    "display_name": "Калужской области",
     "type": "drone",
-    "text": "Бабынинский район, Дзержинский район, Козельский район, Медынский район, Перемышльский район, Хвастовичский район, Юхновский район, Калужская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "text": "Жуковка, Брянская область - пролёт БПЛА в сторону Калужской области. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-08-08T21:53:13+00:00",
-    "expires_at": "2026-08-08T22:53:13+00:00",
+    "updated_at": "2026-08-08T22:33:59+00:00",
+    "expires_at": "2026-08-08T23:33:59+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,16 +86,6 @@
     "channel": "vrv_radar",
     "updated_at": "2026-08-08T22:07:47+00:00",
     "expires_at": "2026-08-08T23:07:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Суворовский район\nТульская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-08T21:41:35+00:00",
-    "expires_at": "2026-08-08T22:41:35+00:00",
     "count": null,
     "count_approx": false
   },
@@ -132,10 +122,10 @@
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Пензенская область - опасность по БПЛА от Саратовской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-08T22:05:37+00:00",
-    "expires_at": "2026-08-08T23:05:37+00:00",
+    "text": "Пензенская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-08T22:39:15+00:00",
+    "expires_at": "2026-08-08T23:39:15+00:00",
     "count": null,
     "count_approx": false
   },
@@ -146,6 +136,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-08T22:21:19+00:00",
     "expires_at": "2026-08-08T23:21:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Жуковка, Брянская область - пролёт БПЛА в сторону Калужской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-08T22:33:59+00:00",
+    "expires_at": "2026-08-08T23:33:59+00:00",
     "count": null,
     "count_approx": false
   }
