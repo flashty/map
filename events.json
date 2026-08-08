@@ -1,16 +1,5 @@
 [
   {
-    "id": "LPRalarm_215208_Джанкойский",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T05:22:27+00:00",
-    "text": "Новоалексеевка, Геническ, Чонгар, Арабатская Стрелка и далее на Джанкойский, Нижнегорский район и через Азовское море в направлении Керченского, Таманского полуострова \n\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Джанкойский",
-    "region": null,
-    "lat": 55.5394245,
-    "lon": 37.5744389
-  },
-  {
     "id": "LPRalarm_215208_Керченского",
     "channel": "LPRalarm",
     "date": "2026-08-08T05:22:27+00:00",
@@ -21996,6 +21985,17 @@
     "type": "all_clear",
     "location_name": null,
     "region": "область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_86629",
+    "channel": "radarrussiia",
+    "date": "2026-08-08T22:46:23+00:00",
+    "text": "Пензенская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пензенская область",
     "lat": null,
     "lon": null
   }
