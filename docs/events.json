@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_215208_Керченского",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T05:22:27+00:00",
-    "text": "Новоалексеевка, Геническ, Чонгар, Арабатская Стрелка и далее на Джанкойский, Нижнегорский район и через Азовское море в направлении Керченского, Таманского полуострова \n\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Керченского",
-    "region": null,
-    "lat": 45.328523,
-    "lon": 36.6374842
-  },
-  {
-    "id": "vrv_radar_79949",
-    "channel": "vrv_radar",
-    "date": "2026-08-08T05:22:39+00:00",
-    "text": "Республика Марий Эл \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Марий",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_215209_Симферопольский",
     "channel": "LPRalarm",
     "date": "2026-08-08T05:23:09+00:00",
@@ -21996,6 +21974,28 @@
     "type": "drone",
     "location_name": null,
     "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_80188",
+    "channel": "vrv_radar",
+    "date": "2026-08-08T23:00:23+00:00",
+    "text": "Ульяновская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_86630",
+    "channel": "radarrussiia",
+    "date": "2026-08-08T23:00:48+00:00",
+    "text": "Ульяновская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ульяновская область",
     "lat": null,
     "lon": null
   }
