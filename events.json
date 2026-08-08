@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_79782_Саранск",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T23:13:23+00:00",
-    "text": "Саранск\nРеспублика Мордовия\nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Саранск",
-    "region": "Республика Мордовия",
-    "lat": 54.18671,
-    "lon": 45.18383
-  },
-  {
-    "id": "radarrussiia_86397_Ливны",
-    "channel": "radarrussiia",
-    "date": "2026-08-07T23:13:48+00:00",
-    "text": "Ливны\nОрловская область \nТревога по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Ливны",
-    "region": "Орловская область",
-    "lat": 52.4253859,
-    "lon": 37.6089
-  },
-  {
-    "id": "radarrussiia_86398_Саранск",
-    "channel": "radarrussiia",
-    "date": "2026-08-07T23:14:25+00:00",
-    "text": "Саранск\nРеспублика Мордовия\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Саранск",
-    "region": "Республика Мордовия",
-    "lat": 54.18671,
-    "lon": 45.18383
-  },
-  {
-    "id": "LPRalarm_214992",
-    "channel": "LPRalarm",
-    "date": "2026-08-07T23:14:25+00:00",
-    "text": "Краснодар и близлежащие\nТревога по БПЛА\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_78645_Южный",
-    "channel": "locatorru",
-    "date": "2026-08-07T23:14:45+00:00",
-    "text": "Южный, Динская, Пластуновская, Краснодар - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Южный",
-    "region": null,
-    "lat": 54.5502447,
-    "lon": 20.5928836
-  },
-  {
-    "id": "locatorru_78645_Динская",
-    "channel": "locatorru",
-    "date": "2026-08-07T23:14:45+00:00",
-    "text": "Южный, Динская, Пластуновская, Краснодар - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Динская",
-    "region": null,
-    "lat": 45.2168713,
-    "lon": 39.2249757
-  },
-  {
     "id": "locatorru_78645_Пластуновская",
     "channel": "locatorru",
     "date": "2026-08-07T23:14:45+00:00",
@@ -21996,6 +21930,72 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215461_Кировский",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T13:01:48+00:00",
+    "text": "Кировский район в направлении Ленинский район, Керченский полуостров фиксация БПЛА",
+    "type": "drone",
+    "location_name": "Кировский",
+    "region": null,
+    "lat": 51.298489,
+    "lon": 36.685303
+  },
+  {
+    "id": "LPRalarm_215461_Ленинский",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T13:01:48+00:00",
+    "text": "Кировский район в направлении Ленинский район, Керченский полуостров фиксация БПЛА",
+    "type": "drone",
+    "location_name": "Ленинский",
+    "region": null,
+    "lat": 56.0736587,
+    "lon": 46.2661214
+  },
+  {
+    "id": "kupolrussia_111411_Кировский",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T13:01:57+00:00",
+    "text": "Кировский район в направлении Ленинский район, Керченский полуостров фиксация БПЛА",
+    "type": "drone",
+    "location_name": "Кировский",
+    "region": null,
+    "lat": 51.298489,
+    "lon": 36.685303
+  },
+  {
+    "id": "kupolrussia_111411_Ленинский",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T13:01:57+00:00",
+    "text": "Кировский район в направлении Ленинский район, Керченский полуостров фиксация БПЛА",
+    "type": "drone",
+    "location_name": "Ленинский",
+    "region": null,
+    "lat": 56.0736587,
+    "lon": 46.2661214
+  },
+  {
+    "id": "kupolrussia_111412",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T13:03:06+00:00",
+    "text": "Липецкая область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215462",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T13:07:25+00:00",
+    "text": "Белая Берёзка\nОпасность по БПЛА-разведчик\nВозможен обстрел",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
