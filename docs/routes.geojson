@@ -530,6 +530,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-08-08T08:25:49+00:00",
+        "last_updated": "2026-08-08T09:01:15+00:00",
+        "path_labels": [
+          "Краснодар (Краснодарский край)",
+          "Динская"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.9772396,
+            45.0351532
+          ],
+          [
+            39.2249757,
+            45.2168713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-08-08T08:34:31+00:00",
         "last_updated": "2026-08-08T08:54:56+00:00",
         "path_labels": [
