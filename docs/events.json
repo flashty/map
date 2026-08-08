@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_79771",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T23:03:41+00:00",
-    "text": "Калужская область\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_110992",
-    "channel": "kupolrussia",
-    "date": "2026-08-07T23:03:51+00:00",
-    "text": "Керчь и близлежащие\nТревога по БПЛА сохраняется\nСоблюдайте меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_86387",
-    "channel": "radarrussiia",
-    "date": "2026-08-07T23:03:53+00:00",
-    "text": "Смоленская область \nТверская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_79772_Бобровский",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T23:04:27+00:00",
-    "text": "Бобровский район\nВоронежская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Бобровский",
-    "region": "Воронежская область",
-    "lat": 51.0966142,
-    "lon": 40.0397707
-  },
-  {
     "id": "vrv_radar_79773",
     "channel": "vrv_radar",
     "date": "2026-08-07T23:04:52+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Краснодарский край",
     "lat": 44.6922114,
     "lon": 40.5186028
+  },
+  {
+    "id": "LPRalarm_215453",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T12:17:45+00:00",
+    "text": "ДКАД ДНР и близлежащие \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111404",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T12:17:58+00:00",
+    "text": "ДКАД ДНР и близлежащие \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215454_Валуйский",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T12:30:23+00:00",
+    "text": "Валуйский район приграничье \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": null,
+    "lat": 53.1481885,
+    "lon": 36.3185713
+  },
+  {
+    "id": "kupolrussia_111405_Валуйский",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T12:30:53+00:00",
+    "text": "Валуйский район приграничье \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": null,
+    "lat": 53.1481885,
+    "lon": 36.3185713
   }
 ]
