@@ -9,23 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Пушкарное, Белгородская область \nФиксация БПЛА в сторону полигона ТБО",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-08T02:31:35+00:00",
-    "expires_at": "2026-08-08T03:31:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Алексин\nТульская область \nПродолжается работа ПВО по БПЛА",
+    "text": "Куркинский район \nТульская область \nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-08-08T03:21:25+00:00",
-    "expires_at": "2026-08-08T04:21:25+00:00",
+    "updated_at": "2026-08-08T03:31:53+00:00",
+    "expires_at": "2026-08-08T04:31:53+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,26 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "пушкарн": {
-    "display_name": "Пушкарное область",
-    "type": "drone",
-    "text": "Пушкарное, Белгородская область \nФиксация БПЛА в сторону полигона ТБО",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-08T02:31:35+00:00",
-    "expires_at": "2026-08-08T03:31:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Найдорф, Динской район, Краснодарский край - пролёт БПЛА сторону ст.Нововеличковской и далее примерно на Краснодар. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-08T02:37:25+00:00",
-    "expires_at": "2026-08-08T03:37:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
@@ -66,6 +36,26 @@
     "channel": "vrv_radar",
     "updated_at": "2026-08-08T03:30:45+00:00",
     "expires_at": "2026-08-08T04:30:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "drone",
+    "text": "Данковский район\nЛипецкая область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-08T03:32:36+00:00",
+    "expires_at": "2026-08-08T04:32:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Стародубский район\nКлинцовский район\nКлимовский район \nТревога по БПЛА \nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-08T03:42:50+00:00",
+    "expires_at": "2026-08-08T04:42:50+00:00",
     "count": null,
     "count_approx": false
   }
