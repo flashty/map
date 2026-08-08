@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_79815_Задонский",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T23:53:35+00:00",
-    "text": "Задонский район\nЛипецкая область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Задонский",
-    "region": "Липецкая область",
-    "lat": 52.3920935,
-    "lon": 38.9189356
-  },
-  {
-    "id": "vrv_radar_79816_Липецк",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T23:53:45+00:00",
-    "text": "Липецк\nЛипецкая область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Липецк",
-    "region": "Липецкая область",
-    "lat": 52.6051488,
-    "lon": 39.5963775
-  },
-  {
-    "id": "vrv_radar_79817_Репьёвский",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T23:53:59+00:00",
-    "text": "Репьёвский район\nВоронежская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Репьёвский",
-    "region": "Воронежская область",
-    "lat": 51.1646691,
-    "lon": 38.7476643
-  },
-  {
-    "id": "kupolrussia_111006",
-    "channel": "kupolrussia",
-    "date": "2026-08-07T23:54:22+00:00",
-    "text": "Липецкая область\nПовторно\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу © \"КРАСНЫЙ УРОВЕНЬ\"\n(Х © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_215010",
-    "channel": "LPRalarm",
-    "date": "2026-08-07T23:54:29+00:00",
-    "text": "Липецкая область\nПовторно\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу © \"КРАСНЫЙ УРОВЕНЬ\"\n(Х © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_79818_Шемышейский",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T23:54:32+00:00",
-    "text": "Шемышейский район\nПензенская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Шемышейский",
-    "region": "Пензенская область",
-    "lat": 52.8403735,
-    "lon": 45.491912
-  },
-  {
     "id": "radarrussiia_86416_Мценский",
     "channel": "radarrussiia",
     "date": "2026-08-07T23:55:12+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Ивановская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_80073",
+    "channel": "vrv_radar",
+    "date": "2026-08-08T17:05:15+00:00",
+    "text": "Ивановская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ивановская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_86563",
+    "channel": "radarrussiia",
+    "date": "2026-08-08T17:06:32+00:00",
+    "text": "Вологодская область \nИвановская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Вологодская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215506",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T17:07:53+00:00",
+    "text": "Скадовск и близлежащие опасность по БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111454",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T17:08:06+00:00",
+    "text": "Скадовск и близлежащие опасность по БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_80074",
+    "channel": "vrv_radar",
+    "date": "2026-08-08T17:09:03+00:00",
+    "text": "Ковров \nВладимирская область \nМеры безопасности",
+    "type": "alert",
+    "location_name": null,
+    "region": "Владимирская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_86564",
+    "channel": "radarrussiia",
+    "date": "2026-08-08T17:09:34+00:00",
+    "text": "Ковров \nВладимирская область \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "alert",
+    "location_name": null,
+    "region": "Владимирская область",
     "lat": null,
     "lon": null
   }

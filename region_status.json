@@ -82,20 +82,30 @@
   "вологодск": {
     "display_name": "Вологодская область",
     "type": "drone",
-    "text": "Вологодская область \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-08T17:01:12+00:00",
-    "expires_at": "2026-08-08T18:01:12+00:00",
+    "text": "Вологодская область \nИвановская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-08T17:06:32+00:00",
+    "expires_at": "2026-08-08T18:06:32+00:00",
     "count": null,
     "count_approx": false
   },
   "ивановск": {
     "display_name": "Ивановская область",
     "type": "drone",
-    "text": "Ивановская область \nПовторно\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-08T17:04:27+00:00",
-    "expires_at": "2026-08-08T18:04:27+00:00",
+    "text": "Вологодская область \nИвановская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-08T17:06:32+00:00",
+    "expires_at": "2026-08-08T18:06:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "alert",
+    "text": "Ковров \nВладимирская область \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-08T17:09:34+00:00",
+    "expires_at": "2026-08-08T18:09:34+00:00",
     "count": null,
     "count_approx": false
   }
