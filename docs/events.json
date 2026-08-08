@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_79766",
-    "channel": "vrv_radar",
-    "date": "2026-08-07T22:56:52+00:00",
-    "text": "Ивановская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ивановская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_86386",
-    "channel": "radarrussiia",
-    "date": "2026-08-07T22:57:20+00:00",
-    "text": "Тульская область\nТамбовская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "missile",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_78635_Тамбов",
-    "channel": "locatorru",
-    "date": "2026-08-07T22:57:28+00:00",
-    "text": "От Мичуринска возможно ракета в сторону Тамбов, Рассказово. \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": "Тамбов",
-    "region": null,
-    "lat": 52.7216164,
-    "lon": 41.4523988
-  },
-  {
     "id": "kupolrussia_110990",
     "channel": "kupolrussia",
     "date": "2026-08-07T22:58:13+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_80028",
+    "channel": "vrv_radar",
+    "date": "2026-08-08T12:01:27+00:00",
+    "text": "Новороссийск и близлежащие \nКраснодарский край \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215448",
+    "channel": "LPRalarm",
+    "date": "2026-08-08T12:03:12+00:00",
+    "text": "Старооскольский ГО\nОпасность атаки БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111399",
+    "channel": "kupolrussia",
+    "date": "2026-08-08T12:03:38+00:00",
+    "text": "Старооскольский ГО\nОпасность атаки БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
