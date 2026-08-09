@@ -1,115 +1,5 @@
 [
   {
-    "id": "radarrussiia_86511_Краснодар",
-    "channel": "radarrussiia",
-    "date": "2026-08-08T08:46:19+00:00",
-    "text": "Краснодар\nКраснодарский край\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "alert",
-    "location_name": "Краснодар",
-    "region": "Краснодарский край",
-    "lat": 45.0351532,
-    "lon": 38.9772396
-  },
-  {
-    "id": "LPRalarm_215352",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T08:48:55+00:00",
-    "text": "г. Брянск тревога по БПЛА повторно. Соблюдаем меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_111308",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T08:48:59+00:00",
-    "text": "г. Брянск тревога по БПЛА повторно. Соблюдаем меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_215353_Шебекинский",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T08:49:25+00:00",
-    "text": "Ржевка премиксы \nШебекинский район \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "kupolrussia_111309_Шебекинский",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T08:49:49+00:00",
-    "text": "Ржевка премиксы \nШебекинский район \nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": "Белгородская область",
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "LPRalarm_215354",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T08:50:13+00:00",
-    "text": "Моква (Курская область) в направлении север на Орловскую область фиксации БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_111310",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T08:50:16+00:00",
-    "text": "Моква (Курская область) в направлении север на Орловскую область фиксации БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_215355_Севастополь",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T08:50:58+00:00",
-    "text": "Нахимовское училище внимание! Возможно сбросы мин или ФПВ с БПЛА \nСевастополь",
-    "type": "drone",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
-    "id": "kupolrussia_111311_Севастополь",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T08:51:05+00:00",
-    "text": "Нахимовское училище внимание! Возможно сбросы мин или ФПВ с БПЛА \nСевастополь",
-    "type": "drone",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
-    "id": "LPRalarm_215356_Севастополь",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T08:52:14+00:00",
-    "text": "Авторынок\nПролетел БПЛА в сторону 5 км\nСевастополь",
-    "type": "drone",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
     "id": "kupolrussia_111312_Севастополь",
     "channel": "kupolrussia",
     "date": "2026-08-08T08:52:19+00:00",
@@ -21998,5 +21888,115 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_215792",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T09:32:19+00:00",
+    "text": "Запорожская область РФ \nЛДНР \n\nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111712",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T09:32:32+00:00",
+    "text": "Запорожская область РФ \nЛДНР\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215793",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T09:34:31+00:00",
+    "text": "Троицкое Лнр \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111713",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T09:34:42+00:00",
+    "text": "Троицкое Лнр \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215794",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T09:37:06+00:00",
+    "text": "В направлении Николаевской области самолёты противника с северо-запада",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Николаевской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111714",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T09:37:11+00:00",
+    "text": "В направлении Николаевской области самолёты противника с северо-запада",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Николаевской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215795",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T09:40:05+00:00",
+    "text": "Возможно подготовка к пускам Штормов от Николаевской области",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111715",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T09:40:07+00:00",
+    "text": "Возможно подготовка к пускам Штормов от Николаевской области",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215796_Ивановка",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T09:41:16+00:00",
+    "text": "Ивановка, Губкинский ГО фиксация БПЛА высоко майя.\n\nБелгородская область",
+    "type": "drone",
+    "location_name": "Ивановка",
+    "region": "Белгородская область",
+    "lat": 50.939036,
+    "lon": 36.6386431
+  },
+  {
+    "id": "kupolrussia_111716_Ивановка",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T09:41:17+00:00",
+    "text": "Ивановка, Губкинский ГО фиксация БПЛА высоко майя.\n\nБелгородская область",
+    "type": "drone",
+    "location_name": "Ивановка",
+    "region": "Белгородская область",
+    "lat": 50.939036,
+    "lon": 36.6386431
   }
 ]
