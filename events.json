@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_111312_Севастополь",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T08:52:19+00:00",
-    "text": "Авторынок\nПролетел БПЛА в сторону 5 км\nСевастополь",
-    "type": "drone",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
-    "id": "LPRalarm_215357_Много",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T08:52:53+00:00",
-    "text": "Продолжаются фиксации БПЛА с моря с запада и юго-запада на Севастополь и близлежащие \n\nСоблюдаем меры безопасности. Много",
-    "type": "drone",
-    "location_name": "Много",
-    "region": null,
-    "lat": 66.0989134,
-    "lon": 59.9304618
-  },
-  {
-    "id": "kupolrussia_111313_Много",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T08:53:01+00:00",
-    "text": "Продолжаются фиксации БПЛА с моря с запада и юго-запада на Севастополь и близлежащие \n\nСоблюдаем меры безопасности. Много",
-    "type": "drone",
-    "location_name": "Много",
-    "region": null,
-    "lat": 66.0989134,
-    "lon": 59.9304618
-  },
-  {
-    "id": "LPRalarm_215358_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T08:53:12+00:00",
-    "text": "Белгородский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "LPRalarm_215359",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T08:53:21+00:00",
-    "text": "Балаклава и близлежащие и далее на ЮБК тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_111314",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T08:53:34+00:00",
-    "text": "Балаклава и близлежащие и далее на ЮБК\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_215360",
     "channel": "LPRalarm",
     "date": "2026-08-08T08:53:41+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Белгородская область",
     "lat": 50.939036,
     "lon": 36.6386431
+  },
+  {
+    "id": "LPRalarm_215797_Дартс",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T09:47:56+00:00",
+    "text": "Трасса Валуйки Пятницкое \nТревога по БПЛА Дартс",
+    "type": "drone",
+    "location_name": "Дартс",
+    "region": null,
+    "lat": 66.8198841,
+    "lon": 65.8038835
+  },
+  {
+    "id": "kupolrussia_111717",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T09:48:11+00:00",
+    "text": "Трасса Валуйки Пятницкое \nТревога по БПЛА Дартс\nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_80287",
+    "channel": "vrv_radar",
+    "date": "2026-08-09T09:51:08+00:00",
+    "text": "Московская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_86669",
+    "channel": "radarrussiia",
+    "date": "2026-08-09T09:52:01+00:00",
+    "text": "Московская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215798",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T09:53:13+00:00",
+    "text": "🟢 Курская область: внимание! Отбой ракетной опасности.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111718",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T09:53:31+00:00",
+    "text": "Курская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
   }
 ]
