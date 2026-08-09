@@ -2,20 +2,20 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Курская область \nБрянская область \nОрловская область \n\nТревога по БПЛА \nСохраняется",
+    "text": "Брянская область \nОчередная группа БПЛА от ГГ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-09T14:43:05+00:00",
-    "expires_at": "2026-08-09T15:43:05+00:00",
+    "updated_at": "2026-08-09T14:55:36+00:00",
+    "expires_at": "2026-08-09T15:55:36+00:00",
     "count": null,
     "count_approx": false
   },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Калуга \nКалужская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Думиничский район \nСухиничский район \nКалужская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-09T14:45:47+00:00",
-    "expires_at": "2026-08-09T15:45:47+00:00",
+    "updated_at": "2026-08-09T14:46:38+00:00",
+    "expires_at": "2026-08-09T15:46:38+00:00",
     "count": null,
     "count_approx": false
   },
@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязанская область \nКалужская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу © \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-09T13:53:30+00:00",
-    "expires_at": "2026-08-09T14:53:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -49,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Каховка БПЛА разведчик\nХерсонская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-09T13:47:31+00:00",
-    "expires_at": "2026-08-09T14:47:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "нижегородск": {
     "display_name": "Нижегородская область",
     "type": "drone",
@@ -66,16 +46,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-09T14:44:23+00:00",
     "expires_at": "2026-08-09T15:44:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка ДНР опасность по БПЛА и ФПВ сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-09T13:52:56+00:00",
-    "expires_at": "2026-08-09T14:52:56+00:00",
     "count": null,
     "count_approx": false
   },
@@ -92,20 +62,20 @@
   "мордов": {
     "display_name": "Республика Мордовия",
     "type": "drone",
-    "text": "Нижегородская область\nРеспублика Мордовия \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Темниковский район \nРеспублика Мордовия \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-09T14:44:23+00:00",
-    "expires_at": "2026-08-09T15:44:23+00:00",
+    "updated_at": "2026-08-09T14:48:37+00:00",
+    "expires_at": "2026-08-09T15:48:37+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Калужская область \nТульская область \nСмоленская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-09T14:43:33+00:00",
-    "expires_at": "2026-08-09T15:43:33+00:00",
+    "type": "alert",
+    "text": "Алексин \nТульская область\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-09T14:58:08+00:00",
+    "expires_at": "2026-08-09T15:58:08+00:00",
     "count": null,
     "count_approx": false
   },
