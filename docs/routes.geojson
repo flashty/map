@@ -1,35 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-08-09T15:46:48+00:00",
-        "last_updated": "2026-08-09T16:44:55+00:00",
-        "path_labels": [
-          "Льгов (Курская область)",
-          "Курчатов",
-          "Курск"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2839999,
-            51.6906587
-          ],
-          [
-            35.658863,
-            51.659466
-          ],
-          [
-            36.1923123,
-            51.7309249
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }

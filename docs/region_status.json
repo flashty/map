@@ -1,24 +1,4 @@
 {
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "missile",
-    "text": "Ракетная опасность Климовский район Брянская область \n\nПуски самолётами",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-09T16:43:33+00:00",
-    "expires_at": "2026-08-09T17:43:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Разветье Железногорский район Курская область в направлении Орёл тревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-09T16:32:42+00:00",
-    "expires_at": "2026-08-09T17:32:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -36,16 +16,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-09T16:56:11+00:00",
     "expires_at": "2026-08-09T17:56:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Шебекино \nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-09T16:59:23+00:00",
-    "expires_at": "2026-08-09T17:59:23+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +56,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-09T17:25:21+00:00",
     "expires_at": "2026-08-09T18:25:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Шебекино\nТревога по БПЛА\nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-09T17:39:30+00:00",
+    "expires_at": "2026-08-09T18:39:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "николаевск": {
+    "display_name": "Николаевской область",
+    "type": "drone",
+    "text": "Николаевская область подготовка к запускам БПЛА с выходом в Чёрное море между Одесской и Николаевской областью",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-09T17:45:42+00:00",
+    "expires_at": "2026-08-09T18:45:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонской области",
+    "type": "drone",
+    "text": "Николаевская область запуски БПЛА в направлении Херсонской области РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-09T17:43:28+00:00",
+    "expires_at": "2026-08-09T18:43:28+00:00",
     "count": null,
     "count_approx": false
   }
