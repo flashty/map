@@ -1,27 +1,5 @@
 [
   {
-    "id": "radarrussiia_86552_Старожиловский",
-    "channel": "radarrussiia",
-    "date": "2026-08-08T15:06:14+00:00",
-    "text": "Рыбновский район\nСпасский район\nСтарожиловский район\nРязанская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Старожиловский",
-    "region": "Рязанская область",
-    "lat": 54.2655268,
-    "lon": 39.9256774
-  },
-  {
-    "id": "vrv_radar_80060_Захаровский",
-    "channel": "vrv_radar",
-    "date": "2026-08-08T15:06:38+00:00",
-    "text": "Захаровский район\nПронский район\nРязанская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Захаровский",
-    "region": "Рязанская область",
-    "lat": 54.7872539,
-    "lon": 41.9312913
-  },
-  {
     "id": "vrv_radar_80060_Пронский",
     "channel": "vrv_radar",
     "date": "2026-08-08T15:06:38+00:00",
@@ -21996,6 +21974,28 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215934",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T16:01:25+00:00",
+    "text": "Донецк, п. Октябрьский\nТревога по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111844",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T16:01:35+00:00",
+    "text": "Донецк, п. Октябрьский\nДНР\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Октябрьский область",
     "lat": null,
     "lon": null
   }
