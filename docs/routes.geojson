@@ -30,6 +30,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-08-09T17:49:46+00:00",
+        "last_updated": "2026-08-09T18:29:13+00:00",
+        "path_labels": [
+          "Курчатов",
+          "Херсонес"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.658863,
+            51.659466
+          ],
+          [
+            36.1641683,
+            51.7152635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-08-09T17:51:25+00:00",
         "last_updated": "2026-08-09T18:13:03+00:00",
         "path_labels": [
@@ -47,6 +72,56 @@
           [
             36.2290154,
             50.7321022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-09T17:52:43+00:00",
+        "last_updated": "2026-08-09T18:20:07+00:00",
+        "path_labels": [
+          "Фокинский",
+          "Карачев (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.4146243,
+            53.213139
+          ],
+          [
+            34.9825906,
+            53.1221822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-09T18:09:38+00:00",
+        "last_updated": "2026-08-09T18:27:54+00:00",
+        "path_labels": [
+          "Болховский (Орловская область)",
+          "Белевский (Тульская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.9880329,
+            53.4361073
+          ],
+          [
+            36.1633658,
+            53.761018
           ]
         ]
       }
