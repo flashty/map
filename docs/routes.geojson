@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-08T23:14:38+00:00",
+        "last_updated": "2026-08-08T23:59:13+00:00",
+        "path_labels": [
+          "Клин (Московская область)",
+          "Истра (Московская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.7346463,
+            56.3353282
+          ],
+          [
+            36.8595482,
+            55.9145993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-08T23:35:15+00:00",
+        "last_updated": "2026-08-08T23:59:13+00:00",
+        "path_labels": [
+          "Конаково (Тверская область)",
+          "Клин (Московская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.779,
+            56.7126
+          ],
+          [
+            36.7346463,
+            56.3353282
+          ]
+        ]
+      }
+    }
+  ]
 }
