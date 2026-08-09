@@ -19,63 +19,33 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Белгородская область \nКурская область \nПовторно\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-09T08:20:51+00:00",
-    "expires_at": "2026-08-09T09:20:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Орловская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-09T08:21:23+00:00",
-    "expires_at": "2026-08-09T09:21:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "липецк": {
     "display_name": "Липецкая область",
     "type": "drone",
-    "text": "Чаплыгинский район\nЛипецкая область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-09T09:13:42+00:00",
-    "expires_at": "2026-08-09T10:13:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Ефремовский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Чаплыгинский район\nЛипецкая область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-09T08:23:57+00:00",
-    "expires_at": "2026-08-09T09:23:57+00:00",
+    "updated_at": "2026-08-09T09:25:20+00:00",
+    "expires_at": "2026-08-09T10:25:20+00:00",
     "count": null,
     "count_approx": false
   },
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Милославский район\nРязанская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-09T09:12:58+00:00",
-    "expires_at": "2026-08-09T10:12:58+00:00",
+    "text": "Захаровский район\nМилославский район\nРязанская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-09T09:24:29+00:00",
+    "expires_at": "2026-08-09T10:24:29+00:00",
     "count": null,
     "count_approx": false
   },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Троицкое Лнр \nТревога по БПЛА Хорнет",
+    "text": "Трасса Аношкино Троицкое Лнр \nТревога по БПЛА Хорнет",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-09T08:39:52+00:00",
-    "expires_at": "2026-08-09T09:39:52+00:00",
+    "updated_at": "2026-08-09T09:28:22+00:00",
+    "expires_at": "2026-08-09T10:28:22+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +76,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-09T09:13:44+00:00",
     "expires_at": "2026-08-09T10:13:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонской области",
+    "type": "drone",
+    "text": "Днепропетровская область в направлении Херсонской области РФ подготовка к пускам БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-09T09:21:29+00:00",
+    "expires_at": "2026-08-09T10:21:29+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "днепропетровск": {
+    "display_name": "Днепропетровская область",
+    "type": "drone",
+    "text": "Днепропетровская область в направлении Херсонской области РФ подготовка к пускам БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-09T09:21:29+00:00",
+    "expires_at": "2026-08-09T10:21:29+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Урзуф, Ялта ДНР, Мариуполь,Мангуш\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-09T09:29:20+00:00",
+    "expires_at": "2026-08-09T10:29:20+00:00",
     "count": null,
     "count_approx": false
   }
