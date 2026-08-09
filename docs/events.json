@@ -1,16 +1,5 @@
 [
   {
-    "id": "vrv_radar_79964",
-    "channel": "vrv_radar",
-    "date": "2026-08-08T06:12:36+00:00",
-    "text": "Оренбургская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Оренбургская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_111209_Саки",
     "channel": "kupolrussia",
     "date": "2026-08-08T06:12:38+00:00",
@@ -21998,5 +21987,16 @@
     "region": "Пензенская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_80224_Кошкинский",
+    "channel": "vrv_radar",
+    "date": "2026-08-09T02:10:41+00:00",
+    "text": "Кошкинский район\nСамарская область\nФиксация от 3 БПЛА",
+    "type": "drone",
+    "location_name": "Кошкинский",
+    "region": "Самарская область",
+    "lat": 54.2587424,
+    "lon": 50.5001011
   }
 ]
