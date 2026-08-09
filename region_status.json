@@ -9,36 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Луганск и ближайшее \nЛНР \nТревога по БПЛА Хорнет",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-09T07:03:23+00:00",
-    "expires_at": "2026-08-09T08:03:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "харьковск": {
-    "display_name": "Харьковская область",
-    "type": "missile",
-    "text": "Херсонская область РФ \nЗапорожская область РФ \nЛДНР \n\nКурская область и близлежащие, Харьковская область РФ \n\nПовторно авиационная ракетная бомбовая опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-09T07:03:16+00:00",
-    "expires_at": "2026-08-09T08:03:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "missile",
-    "text": "Херсонская область РФ \nЗапорожская область РФ \nЛДНР \n\nКурская область и близлежащие, Харьковская область РФ \n\nПовторно авиационная ракетная бомбовая опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-09T07:03:16+00:00",
-    "expires_at": "2026-08-09T08:03:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -106,6 +76,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-09T07:42:56+00:00",
     "expires_at": "2026-08-09T08:42:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тамбовск": {
+    "display_name": "Тамбовская область",
+    "type": "drone",
+    "text": "Тамбовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-09T08:10:18+00:00",
+    "expires_at": "2026-08-09T09:10:18+00:00",
     "count": null,
     "count_approx": false
   }
