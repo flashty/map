@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калуга \nМалоярославецкий район \nКалужская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-09T15:25:57+00:00",
-    "expires_at": "2026-08-09T16:25:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
@@ -39,26 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Чернский район \nЩекинский район \nВеневский район \nТульская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-09T15:28:13+00:00",
-    "expires_at": "2026-08-09T16:28:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Вяземский район \nСмоленская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-09T15:25:36+00:00",
-    "expires_at": "2026-08-09T16:25:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -72,50 +42,20 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Домодедово \nМосковская область\nРабота ПВО по БПЛА\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-09T16:15:33+00:00",
-    "expires_at": "2026-08-09T17:15:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тверск": {
-    "display_name": "Тверская область",
-    "type": "drone",
-    "text": "Смоленская область \nТверская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "ГО Домодедово \nМосковская область\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-09T15:22:51+00:00",
-    "expires_at": "2026-08-09T16:22:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Шиловский район \nРязанская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-09T15:24:23+00:00",
-    "expires_at": "2026-08-09T16:24:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белару": {
-    "display_name": "Республикой Беларусь",
-    "type": "drone",
-    "text": "От Черниговской области ближе к границе с Республикой Беларусь в районе н.п. Репки фиксации БПЛА в сторону Чуровичи, Климово, Брянской области и далее вглубь региона. Повторно! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-09T15:27:05+00:00",
-    "expires_at": "2026-08-09T16:27:05+00:00",
+    "updated_at": "2026-08-09T16:16:22+00:00",
+    "expires_at": "2026-08-09T17:16:22+00:00",
     "count": null,
     "count_approx": false
   },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Бердянск и близлежащие \nОпасность по БПЛА на электротяге \n\nЗапорожская область РФ",
+    "type": "alert",
+    "text": "ЛДНР\nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-09T15:54:47+00:00",
-    "expires_at": "2026-08-09T16:54:47+00:00",
+    "updated_at": "2026-08-09T16:29:14+00:00",
+    "expires_at": "2026-08-09T17:29:14+00:00",
     "count": null,
     "count_approx": false
   },
@@ -146,6 +86,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-09T16:06:20+00:00",
     "expires_at": "2026-08-09T17:06:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Север\nСеверо-Запад \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-09T16:20:17+00:00",
+    "expires_at": "2026-08-09T17:20:17+00:00",
     "count": null,
     "count_approx": false
   }
