@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "ГО Домодедово \nМосковская область\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-09T12:46:42+00:00",
-    "expires_at": "2026-08-09T13:46:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -76,6 +66,46 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-09T13:19:22+00:00",
     "expires_at": "2026-08-09T14:19:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "alert",
+    "text": "ЛДНР, Запорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-09T13:49:58+00:00",
+    "expires_at": "2026-08-09T14:49:58+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Каховка БПЛА разведчик\nХерсонская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-09T13:47:31+00:00",
+    "expires_at": "2026-08-09T14:47:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородская область",
+    "type": "drone",
+    "text": "Нижегородская область\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-09T13:49:01+00:00",
+    "expires_at": "2026-08-09T14:49:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка ДНР опасность по БПЛА и ФПВ сохраняется",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-09T13:52:43+00:00",
+    "expires_at": "2026-08-09T14:52:43+00:00",
     "count": null,
     "count_approx": false
   }
