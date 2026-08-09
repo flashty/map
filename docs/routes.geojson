@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-09T10:34:45+00:00",
+        "last_updated": "2026-08-09T10:54:42+00:00",
+        "path_labels": [
+          "Ставки",
+          "Белгород"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.0874509,
+            50.7501247
+          ],
+          [
+            36.5873394,
+            50.5955595
+          ]
+        ]
+      }
+    }
+  ]
 }
