@@ -1,93 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_13377",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-08T16:29:32+00:00",
-    "text": "Тула - сбитие БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_215493_Валуйки",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T16:30:22+00:00",
-    "text": "Балаклея самолёты. Возможно пуск УАБов или ракеты в направлении Валуйки, ШБК",
-    "type": "missile",
-    "location_name": "Валуйки",
-    "region": null,
-    "lat": 50.211296,
-    "lon": 38.100227
-  },
-  {
-    "id": "kupolrussia_111441_Валуйки",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T16:30:29+00:00",
-    "text": "Балаклея самолёты. Возможно пуск УАБов или ракеты в направлении Валуйки, ШБК",
-    "type": "missile",
-    "location_name": "Валуйки",
-    "region": null,
-    "lat": 50.211296,
-    "lon": 38.100227
-  },
-  {
-    "id": "LPRalarm_215494_Ленинский",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T16:31:07+00:00",
-    "text": "Ленинский район, Щелкино и близлежащие возможно фиксация БПЛА",
-    "type": "drone",
-    "location_name": "Ленинский",
-    "region": null,
-    "lat": 56.0736587,
-    "lon": 46.2661214
-  },
-  {
-    "id": "kupolrussia_111442_Ленинский",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T16:31:15+00:00",
-    "text": "Ленинский район, Щелкино и близлежащие возможно фиксация БПЛА",
-    "type": "drone",
-    "location_name": "Ленинский",
-    "region": null,
-    "lat": 56.0736587,
-    "lon": 46.2661214
-  },
-  {
-    "id": "LPRalarm_215495",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T16:31:31+00:00",
-    "text": "От Изюм на Сватово тревога по УАБ",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_111443",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T16:31:39+00:00",
-    "text": "От Изюм на Сватово тревога по УАБ",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_80070",
-    "channel": "vrv_radar",
-    "date": "2026-08-08T16:31:49+00:00",
-    "text": "Рязанская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_215496",
     "channel": "LPRalarm",
     "date": "2026-08-08T16:36:02+00:00",
@@ -21996,6 +21908,94 @@
     "type": "drone",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215954",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T17:17:40+00:00",
+    "text": "Енакиево \nХарцызск и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111864",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T17:18:00+00:00",
+    "text": "Енакиево \nХарцызск и близлежащие \n\nДНР\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215955",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T17:20:03+00:00",
+    "text": "Горловка, Кондратьевка, Углегорск ДНР и близлежащие \n\nОпасность по БПЛА и ФПВ повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111865",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T17:20:15+00:00",
+    "text": "Горловка, Кондратьевка, Углегорск ДНР и близлежащие \n\nОпасность по БПЛА и ФПВ повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215956",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T17:25:02+00:00",
+    "text": "Харьковская область множественные фиксации БПЛА в направлении Сватово ЛНР и севернее.\n\nДалее пойдут от ЛНР на Воронежскую область, Ростовскую область \n\nПриготовиться к массовой атаке БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Харьковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111866",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T17:25:21+00:00",
+    "text": "Харьковская область множественные фиксации БПЛА в направлении Сватово ЛНР и севернее.\n\nДалее пойдут от ЛНР на Воронежскую область, Ростовскую область \n\nПриготовиться к массовой атаке БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Харьковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215957",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T17:29:15+00:00",
+    "text": "Отбой авиационной ракетной бомбовой опасности по всем ранее объявленным",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111867",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T17:29:34+00:00",
+    "text": "Отбой авиационной ракетной бомбовой опасности по всем ранее объявленным",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
