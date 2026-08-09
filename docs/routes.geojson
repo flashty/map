@@ -35,31 +35,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-08-09T17:49:46+00:00",
-        "last_updated": "2026-08-09T18:29:13+00:00",
-        "path_labels": [
-          "Курчатов",
-          "Херсонес"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.658863,
-            51.659466
-          ],
-          [
-            36.1641683,
-            51.7152635
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-08-09T17:51:25+00:00",
         "last_updated": "2026-08-09T19:08:06+00:00",
         "path_labels": [
@@ -87,31 +62,6 @@
           [
             36.8728034,
             50.438988
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-08-09T17:52:43+00:00",
-        "last_updated": "2026-08-09T18:20:07+00:00",
-        "path_labels": [
-          "Фокинский",
-          "Карачев (Брянская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.4146243,
-            53.213139
-          ],
-          [
-            34.9825906,
-            53.1221822
           ]
         ]
       }
