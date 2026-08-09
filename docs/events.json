@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_111439",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T16:19:16+00:00",
-    "text": "Харьковская область РФ \nБелгородская область\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n} ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Харьковская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_111440",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T16:19:23+00:00",
-    "text": "Мелитополь и близлежащие \nОпасность по БПЛА Хорнет \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_80069_Тула",
-    "channel": "vrv_radar",
-    "date": "2026-08-08T16:29:16+00:00",
-    "text": "Тула\nТульская область\nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Тула",
-    "region": "Тульская область",
-    "lat": 54.1930321,
-    "lon": 37.61754
-  },
-  {
     "id": "radar_plus_bpla_13377",
     "channel": "radar_plus_bpla",
     "date": "2026-08-08T16:29:32+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Белгородская область",
     "lat": 50.4049335,
     "lon": 36.8796822
+  },
+  {
+    "id": "kupolrussia_111862",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T17:04:40+00:00",
+    "text": "В направлении Брянск большое количество БПЛА. Меры безопасности",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215953",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T17:05:11+00:00",
+    "text": "Севернее Рубежное ЛНР в направлении Старобельск, Луганск, Счастье БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111863",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T17:05:27+00:00",
+    "text": "Севернее Рубежное ЛНР в направлении Старобельск, Луганск, Счастье БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
   }
 ]
