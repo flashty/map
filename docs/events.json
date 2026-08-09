@@ -1,148 +1,5 @@
 [
   {
-    "id": "vrv_radar_80028",
-    "channel": "vrv_radar",
-    "date": "2026-08-08T12:01:27+00:00",
-    "text": "Новороссийск и близлежащие \nКраснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_215448",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T12:03:12+00:00",
-    "text": "Старооскольский ГО\nОпасность атаки БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_111399",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T12:03:38+00:00",
-    "text": "Старооскольский ГО\nОпасность атаки БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_215449",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T12:04:51+00:00",
-    "text": "Курск и близлежащие районы тревога по БПЛА от Белгородской области",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_111400",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T12:05:13+00:00",
-    "text": "Курск и близлежащие районы\nот Белгородской области\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_215450",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T12:08:01+00:00",
-    "text": "Севастополь \nЮБК \nОтбой беспилотной опасности по ранее объявленным",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_111401",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T12:08:25+00:00",
-    "text": "Севастополь \nЮБК \nпо ранее объявленным",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_78809_Губкинский",
-    "channel": "locatorru",
-    "date": "2026-08-08T12:10:08+00:00",
-    "text": "Губкинский район, Старооскольский район, Белгородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Губкинский",
-    "region": "Белгородская область",
-    "lat": 51.1706934,
-    "lon": 37.3808082
-  },
-  {
-    "id": "locatorru_78809_Старооскольский",
-    "channel": "locatorru",
-    "date": "2026-08-08T12:10:08+00:00",
-    "text": "Губкинский район, Старооскольский район, Белгородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Старооскольский",
-    "region": "Белгородская область",
-    "lat": 51.2258539,
-    "lon": 38.070712
-  },
-  {
-    "id": "locatorru_78810",
-    "channel": "locatorru",
-    "date": "2026-08-08T12:10:35+00:00",
-    "text": "Воронежская область, Липецкая область - внимание по БПЛА от стыка Курской и Белгородской областей.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_80029",
-    "channel": "vrv_radar",
-    "date": "2026-08-08T12:11:08+00:00",
-    "text": "МО Анапа \nКраснодарский край \nОтбой опасности по БПЛА\nНа территории края опасность сохраняется",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_215451",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T12:13:34+00:00",
-    "text": "Новороссийск и близлежащие тревога по БПЛА действует. Соблюдаем меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_111402",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T12:13:42+00:00",
-    "text": "Новороссийск и близлежащие тревога по БПЛА действует. Соблюдаем меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_78811_Суземский",
     "channel": "locatorru",
     "date": "2026-08-08T12:13:47+00:00",
@@ -21998,5 +21855,148 @@
     "region": "Рязанская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_215887_Дартс",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T13:19:04+00:00",
+    "text": "Трасса Пятницкое Волоконовка \nТревога по БПЛА Дартс",
+    "type": "drone",
+    "location_name": "Дартс",
+    "region": null,
+    "lat": 66.8198841,
+    "lon": 65.8038835
+  },
+  {
+    "id": "kupolrussia_111797",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T13:19:22+00:00",
+    "text": "Трасса Пятницкое Волоконовка \nТревога по БПЛА Дартс\nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215888",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T13:22:00+00:00",
+    "text": "Внимание!\n\nПротивник использует в БПЛА поражающие элементы - шарики с фосфором. Радиус поражения до 500 метров. \nПары горения ядовиты. Выжигает при соприкосновении все предметы и живые ткани!",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111798",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T13:22:01+00:00",
+    "text": "Внимание!\n\nПротивник использует в БПЛА поражающие элементы - шарики с фосфором. Радиус поражения до 500 метров. \nПары горения ядовиты. Выжигает при соприкосновении все предметы и живые ткани!",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111799",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T13:23:12+00:00",
+    "text": "От Брянска в сторону Калужской области\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Калужской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215889",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T13:23:19+00:00",
+    "text": "От Брянска в сторону Калужской области\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Калужской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215890_Валуйский",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T13:24:25+00:00",
+    "text": "Валуйский район приграничье \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": null,
+    "lat": 53.1481885,
+    "lon": 36.3185713
+  },
+  {
+    "id": "kupolrussia_111800_Валуйский",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T13:24:54+00:00",
+    "text": "Валуйский район приграничье \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": null,
+    "lat": 53.1481885,
+    "lon": 36.3185713
+  },
+  {
+    "id": "LPRalarm_215891",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T13:26:02+00:00",
+    "text": "Брянская область опасность по БПЛА (от РСЧС)",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215892_Сосково",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T13:27:35+00:00",
+    "text": "Сосково Орловская область тревога по БПЛА и далее в тыл. Низко",
+    "type": "drone",
+    "location_name": "Сосково",
+    "region": "Орловская область",
+    "lat": 52.74749,
+    "lon": 35.38665
+  },
+  {
+    "id": "kupolrussia_111801",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T13:27:40+00:00",
+    "text": "Брянская область опасность по БПЛА (от РСЧС)",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_79041",
+    "channel": "locatorru",
+    "date": "2026-08-09T13:28:42+00:00",
+    "text": "Хотьково, Сосково, Нарышкино, Орёл, Орловская область - опасность по БПЛА от Брянской области и далее через вас в сторону Тульской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111802_Сосково",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T13:29:07+00:00",
+    "text": "Сосково Орловская область тревога по БПЛА и далее в тыл. Низко",
+    "type": "drone",
+    "location_name": "Сосково",
+    "region": "Орловская область",
+    "lat": 52.74749,
+    "lon": 35.38665
   }
 ]
