@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_215309",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T07:59:51+00:00",
-    "text": "Лисичанск \nРакетная опасность \nЛНР",
-    "type": "missile",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_215310_Константиновка",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T07:59:56+00:00",
-    "text": "Константиновка, Красноармейск, окраины Дружковка авиационная ракетная бомбовая тревога по УАБ",
-    "type": "missile",
-    "location_name": "Константиновка",
-    "region": null,
-    "lat": 51.4472135,
-    "lon": 35.951123
-  },
-  {
-    "id": "LPRalarm_215310_Красноармейск",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T07:59:56+00:00",
-    "text": "Константиновка, Красноармейск, окраины Дружковка авиационная ракетная бомбовая тревога по УАБ",
-    "type": "missile",
-    "location_name": "Красноармейск",
-    "region": null,
-    "lat": 56.1210895,
-    "lon": 38.1457655
-  },
-  {
-    "id": "kupolrussia_111262",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T08:00:04+00:00",
-    "text": "Лисичанск \nЛНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_111263_Константиновка",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T08:00:10+00:00",
-    "text": "Константиновка, Красноармейск, окраины Дружковка авиационная ракетная бомбовая тревога по УАБ",
-    "type": "missile",
-    "location_name": "Константиновка",
-    "region": null,
-    "lat": 51.4472135,
-    "lon": 35.951123
-  },
-  {
-    "id": "kupolrussia_111263_Красноармейск",
-    "channel": "kupolrussia",
-    "date": "2026-08-08T08:00:10+00:00",
-    "text": "Константиновка, Красноармейск, окраины Дружковка авиационная ракетная бомбовая тревога по УАБ",
-    "type": "missile",
-    "location_name": "Красноармейск",
-    "region": null,
-    "lat": 56.1210895,
-    "lon": 38.1457655
-  },
-  {
-    "id": "LPRalarm_215312_Северск",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T08:00:31+00:00",
-    "text": "Северск, Часов Яр, Артёмовск и близлежащие УАБы",
-    "type": "unknown",
-    "location_name": "Северск",
-    "region": null,
-    "lat": 56.603161,
-    "lon": 84.881012
-  },
-  {
-    "id": "LPRalarm_215312_Часов Яр",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T08:00:31+00:00",
-    "text": "Северск, Часов Яр, Артёмовск и близлежащие УАБы",
-    "type": "unknown",
-    "location_name": "Часов Яр",
-    "region": null,
-    "lat": 55.806887,
-    "lon": 37.7998021
-  },
-  {
-    "id": "LPRalarm_215311",
-    "channel": "LPRalarm",
-    "date": "2026-08-08T08:00:31+00:00",
-    "text": "Пуски Уаб от Краматорска",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_111264",
     "channel": "kupolrussia",
     "date": "2026-08-08T08:00:39+00:00",
@@ -21998,5 +21899,104 @@
     "region": "Курская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "kupolrussia_111624",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T05:54:58+00:00",
+    "text": "Курская область и близлежащие, Харьковская область РФ, ЛДНР, Запорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215699",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T05:55:24+00:00",
+    "text": "Первомайск, Кировск ЛНР и близлежащие тревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111625",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T05:55:40+00:00",
+    "text": "Первомайск, Кировск ЛНР и близлежащие тревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215700",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T05:58:18+00:00",
+    "text": "От Чернышево на юго-восток \nРеспублика Крым \nФиксации  БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111626",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T05:58:29+00:00",
+    "text": "От Чернышево на юго-восток \nРеспублика Крым \nФиксации  БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215701",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T05:58:45+00:00",
+    "text": "Противник готовит пуски БПЛА от Николаевской области",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_111627",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T05:58:50+00:00",
+    "text": "Противник готовит пуски БПЛА от Николаевской области",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_215702_Серебрянка",
+    "channel": "LPRalarm",
+    "date": "2026-08-09T05:59:15+00:00",
+    "text": "Западнее Раздольное в направлении Серебрянка, Новоселовское и далее на Саки или Евпаторию фиксации БПЛА",
+    "type": "drone",
+    "location_name": "Серебрянка",
+    "region": null,
+    "lat": 58.967659,
+    "lon": 28.87818
+  },
+  {
+    "id": "kupolrussia_111628_Серебрянка",
+    "channel": "kupolrussia",
+    "date": "2026-08-09T05:59:23+00:00",
+    "text": "Западнее Раздольное в направлении Серебрянка, Новоселовское и далее на Саки или Евпаторию фиксации БПЛА",
+    "type": "drone",
+    "location_name": "Серебрянка",
+    "region": null,
+    "lat": 58.967659,
+    "lon": 28.87818
   }
 ]
