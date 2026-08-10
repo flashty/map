@@ -1,14 +1,4 @@
 {
-  "свердловск": {
-    "display_name": "Свердловская области",
-    "type": "drone",
-    "text": "Тюменская, Омская, Курганская, Челябинская, Свердловская области, ХМАО опасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-10T09:44:06+00:00",
-    "expires_at": "2026-08-10T10:44:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -16,26 +6,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-10T10:11:49+00:00",
     "expires_at": "2026-08-10T11:11:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Джанкой и близлежащие\nс юга\nРеспублика Крым\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-10T09:38:06+00:00",
-    "expires_at": "2026-08-10T10:38:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Повторно тревога по БПЛА участок трассы Инзовка - Приморск Запорожская область РФ и далее на Бердянск",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-10T09:36:45+00:00",
-    "expires_at": "2026-08-10T10:36:45+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,33 +19,13 @@
     "count": null,
     "count_approx": false
   },
-  "ханты-мансийск": {
-    "display_name": "Ханты-Мансийский автономный округ",
-    "type": "drone",
-    "text": "Ханты-Мансийский автономный округ - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-10T09:33:23+00:00",
-    "expires_at": "2026-08-10T10:33:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тюменск": {
     "display_name": "Тюменская область",
-    "type": "alert",
-    "text": "Тюменская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-10T10:21:08+00:00",
-    "expires_at": "2026-08-10T11:21:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курганск": {
-    "display_name": "Курганская области",
     "type": "drone",
-    "text": "Тюменская, Омская, Курганская, Челябинская, Свердловская области, ХМАО опасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-10T09:44:06+00:00",
-    "expires_at": "2026-08-10T10:44:06+00:00",
+    "text": "Каскара\nТюменская область\nФиксация БПЛА в направлении Омской области",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-10T10:45:19+00:00",
+    "expires_at": "2026-08-10T11:45:19+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +46,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-10T10:00:54+00:00",
     "expires_at": "2026-08-10T11:00:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "омской": {
+    "display_name": "Омской области",
+    "type": "drone",
+    "text": "Каскара\nТюменская область\nФиксация БПЛА в направлении Омской области",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-10T10:45:19+00:00",
+    "expires_at": "2026-08-10T11:45:19+00:00",
     "count": null,
     "count_approx": false
   }
