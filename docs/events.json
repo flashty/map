@@ -1,115 +1,5 @@
 [
   {
-    "id": "LPRalarm_215863",
-    "channel": "LPRalarm",
-    "date": "2026-08-09T12:11:36+00:00",
-    "text": "Стерегущее - Межводное и близлежащие населенные пункты тревога по БПЛА с моря",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_111775",
-    "channel": "kupolrussia",
-    "date": "2026-08-09T12:11:58+00:00",
-    "text": "Центральные районы Брянская область от ГГ и далее в тыл\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_111776",
-    "channel": "kupolrussia",
-    "date": "2026-08-09T12:12:19+00:00",
-    "text": "Стерегущее - Межводное и близлежащие населенные пункты тревога по БПЛА с моря",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_79033",
-    "channel": "locatorru",
-    "date": "2026-08-09T12:13:38+00:00",
-    "text": "Смоленская область, Калужская область, Орловская область, Тульская область, Московская область - внимание к массовому появлению БПЛА от Брянской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_215864",
-    "channel": "LPRalarm",
-    "date": "2026-08-09T12:14:54+00:00",
-    "text": "Раздольненский район \nРеспублика Крым \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_111777",
-    "channel": "kupolrussia",
-    "date": "2026-08-09T12:15:04+00:00",
-    "text": "Раздольненский район \nРеспублика Крым \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_79034",
-    "channel": "locatorru",
-    "date": "2026-08-09T12:15:20+00:00",
-    "text": "Льгов и район, Курская область - пролёты БПЛА в сторону Орла. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_215865_Перекоп",
-    "channel": "LPRalarm",
-    "date": "2026-08-09T12:15:45+00:00",
-    "text": "АПП Армянск, АПП Перекоп, Титан и близлежащие тревога по БПЛА Хорнет от Каирка",
-    "type": "drone",
-    "location_name": "Перекоп",
-    "region": null,
-    "lat": 59.121197,
-    "lon": 49.985012
-  },
-  {
-    "id": "kupolrussia_111778_Перекоп",
-    "channel": "kupolrussia",
-    "date": "2026-08-09T12:15:57+00:00",
-    "text": "АПП Армянск, АПП Перекоп, Титан и близлежащие тревога по БПЛА Хорнет от Каирка",
-    "type": "drone",
-    "location_name": "Перекоп",
-    "region": null,
-    "lat": 59.121197,
-    "lon": 49.985012
-  },
-  {
-    "id": "LPRalarm_215866",
-    "channel": "LPRalarm",
-    "date": "2026-08-09T12:17:02+00:00",
-    "text": "Осипенко и близлежащие, Бердянск тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_111779",
     "channel": "kupolrussia",
     "date": "2026-08-09T12:17:23+00:00",
@@ -21996,6 +21886,116 @@
     "type": "drone",
     "location_name": null,
     "region": "Челябинская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_80573_Орел",
+    "channel": "vrv_radar",
+    "date": "2026-08-10T06:11:11+00:00",
+    "text": "Орел\nОрловская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Орел",
+    "region": "Орловская область",
+    "lat": 52.9709262,
+    "lon": 36.0642127
+  },
+  {
+    "id": "kupolrussia_112153",
+    "channel": "kupolrussia",
+    "date": "2026-08-10T06:12:06+00:00",
+    "text": "Пензенская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_216280",
+    "channel": "LPRalarm",
+    "date": "2026-08-10T06:12:10+00:00",
+    "text": "Пензенская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_80574",
+    "channel": "vrv_radar",
+    "date": "2026-08-10T06:12:11+00:00",
+    "text": "Мценский район\nОрловский район\nЗалегощенский район\nОрловская область\nФиксация группы БПЛА в направлении Тульской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_80575_Верховский",
+    "channel": "vrv_radar",
+    "date": "2026-08-10T06:13:00+00:00",
+    "text": "Верховский район\nОрловская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Верховский",
+    "region": "Орловская область",
+    "lat": 52.7164603,
+    "lon": 37.2542683
+  },
+  {
+    "id": "vrv_radar_80576_Свердловский",
+    "channel": "vrv_radar",
+    "date": "2026-08-10T06:13:35+00:00",
+    "text": "Свердловский район\nОрловская область\nФиксация от 2 БПЛА",
+    "type": "drone",
+    "location_name": "Свердловский",
+    "region": "Орловская область",
+    "lat": 52.6765295,
+    "lon": 36.2815763
+  },
+  {
+    "id": "LPRalarm_216281",
+    "channel": "LPRalarm",
+    "date": "2026-08-10T06:14:07+00:00",
+    "text": "Курская область и близлежащие, Харьковская область РФ, ЛДНР, Запорожская область РФ \n\nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_80577_Становлянский",
+    "channel": "vrv_radar",
+    "date": "2026-08-10T06:14:57+00:00",
+    "text": "Становлянский район\nЛипецкая область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Становлянский",
+    "region": "Липецкая область",
+    "lat": 52.8493616,
+    "lon": 38.3195659
+  },
+  {
+    "id": "kupolrussia_112154",
+    "channel": "kupolrussia",
+    "date": "2026-08-10T06:15:09+00:00",
+    "text": "Тамбовская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_216282",
+    "channel": "LPRalarm",
+    "date": "2026-08-10T06:15:13+00:00",
+    "text": "Тамбовская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Тамбовская область",
     "lat": null,
     "lon": null
   }
