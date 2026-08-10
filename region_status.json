@@ -1,11 +1,11 @@
 {
   "татарст": {
     "display_name": "Республика Татарстан",
-    "type": "alert",
-    "text": "Нижнекамск\nРеспублика Татарстан \nПродолжается работа ПВО \nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-10T04:00:46+00:00",
-    "expires_at": "2026-08-10T05:00:46+00:00",
+    "type": "drone",
+    "text": "Нижнекамский район\nРеспублика Татарстан \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-10T04:13:29+00:00",
+    "expires_at": "2026-08-10T05:13:29+00:00",
     "count": null,
     "count_approx": false
   },
@@ -22,10 +22,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Приморско-Ахтарск и близлежащие\nВнимание по БПЛА\nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-10T03:49:28+00:00",
-    "expires_at": "2026-08-10T04:49:28+00:00",
+    "text": "Забойский, Славянский район, Краснодарский край - пролёт БПЛА в сторону Полтавская, Славянск-на-Кубани. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-10T04:07:05+00:00",
+    "expires_at": "2026-08-10T05:07:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,16 +46,6 @@
     "channel": "vrv_radar",
     "updated_at": "2026-08-10T03:29:58+00:00",
     "expires_at": "2026-08-10T04:29:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "оренбургск": {
-    "display_name": "Оренбургская область",
-    "type": "drone",
-    "text": "Оренбургская область\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ® ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-10T03:03:08+00:00",
-    "expires_at": "2026-08-10T04:03:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +86,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-10T03:58:03+00:00",
     "expires_at": "2026-08-10T04:58:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Скадовск, Скадовский район\nТревога по БПЛА\nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-10T04:03:51+00:00",
+    "expires_at": "2026-08-10T05:03:51+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Курская область\nТревога по БПЛА,\nПовторно",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-10T04:13:09+00:00",
+    "expires_at": "2026-08-10T05:13:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "кировск": {
+    "display_name": "Кировская область",
+    "type": "drone",
+    "text": "Киров, Кирово-Чепецк и близлежащие, Кировская область - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-10T04:15:16+00:00",
+    "expires_at": "2026-08-10T05:15:16+00:00",
     "count": null,
     "count_approx": false
   }
