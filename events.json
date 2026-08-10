@@ -1,82 +1,5 @@
 [
   {
-    "id": "vrv_radar_80410_Хотынецкий",
-    "channel": "vrv_radar",
-    "date": "2026-08-09T22:21:07+00:00",
-    "text": "Шаблыкинский район\nХотынецкий район\nОрловская область\nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Хотынецкий",
-    "region": "Орловская область",
-    "lat": 53.1360589,
-    "lon": 35.3773008
-  },
-  {
-    "id": "vrv_radar_80411",
-    "channel": "vrv_radar",
-    "date": "2026-08-09T22:21:14+00:00",
-    "text": "Ульяновская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_79128",
-    "channel": "locatorru",
-    "date": "2026-08-09T22:21:21+00:00",
-    "text": "Самарская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_86763",
-    "channel": "radarrussiia",
-    "date": "2026-08-09T22:21:25+00:00",
-    "text": "Ульяновская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_216141",
-    "channel": "LPRalarm",
-    "date": "2026-08-09T22:21:33+00:00",
-    "text": "Приморский Посад и далее, возможно ,в Азовское море Запорожская область РФ фиксации БПЛА Лютый",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_80413_Знаменский",
-    "channel": "vrv_radar",
-    "date": "2026-08-09T22:21:44+00:00",
-    "text": "Знаменский район\nБолховский район\nОрловская область\nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Знаменский",
-    "region": "Орловская область",
-    "lat": 52.9974809,
-    "lon": 36.066136
-  },
-  {
-    "id": "vrv_radar_80413_Болховский",
-    "channel": "vrv_radar",
-    "date": "2026-08-09T22:21:44+00:00",
-    "text": "Знаменский район\nБолховский район\nОрловская область\nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Болховский",
-    "region": "Орловская область",
-    "lat": 53.4361073,
-    "lon": 35.9880329
-  },
-  {
     "id": "kupolrussia_112030",
     "channel": "kupolrussia",
     "date": "2026-08-09T22:21:47+00:00",
@@ -21996,6 +21919,83 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_216536_Погарский",
+    "channel": "LPRalarm",
+    "date": "2026-08-10T14:17:30+00:00",
+    "text": "Погарский район \nТревога по Фпв \nБрянская область",
+    "type": "alert",
+    "location_name": "Погарский",
+    "region": "Брянская область",
+    "lat": 52.5207056,
+    "lon": 33.2053408
+  },
+  {
+    "id": "LPRalarm_216537_Валуйского",
+    "channel": "LPRalarm",
+    "date": "2026-08-10T14:25:41+00:00",
+    "text": "Солоти\nВалуйского района \nБПЛА разведка",
+    "type": "drone",
+    "location_name": "Валуйского",
+    "region": null,
+    "lat": 50.2167975,
+    "lon": 38.0908556
+  },
+  {
+    "id": "LPRalarm_216538",
+    "channel": "LPRalarm",
+    "date": "2026-08-10T14:28:40+00:00",
+    "text": "Бердянск и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_112387",
+    "channel": "kupolrussia",
+    "date": "2026-08-10T14:28:55+00:00",
+    "text": "Бердянск и близлежащие \nЗапорожская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_112388",
+    "channel": "kupolrussia",
+    "date": "2026-08-10T14:30:45+00:00",
+    "text": "Омская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Омская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_216540",
+    "channel": "LPRalarm",
+    "date": "2026-08-10T14:30:47+00:00",
+    "text": "Омская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Омская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_216539",
+    "channel": "LPRalarm",
+    "date": "2026-08-10T14:30:47+00:00",
+    "text": "УГРОЗА ПОВТОРНОЙ АТАКИ БПЛА в Белгородском МО 17:30. Оставайтесь дома, не подходите к окнам или пройдите в укрытие.",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
