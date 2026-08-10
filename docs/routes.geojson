@@ -25,6 +25,56 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-10T11:51:48+00:00",
+        "last_updated": "2026-08-10T12:20:20+00:00",
+        "path_labels": [
+          "Анапский",
+          "Новороссийск"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.755292,
+            45.0702704
+          ],
+          [
+            37.7690711,
+            44.7239578
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-10T11:51:48+00:00",
+        "last_updated": "2026-08-10T12:20:20+00:00",
+        "path_labels": [
+          "Новороссийск",
+          "Утриш"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.7690711,
+            44.7239578
+          ],
+          [
+            37.3854412,
+            44.7604842
+          ]
+        ]
+      }
     }
   ]
 }
