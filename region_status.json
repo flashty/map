@@ -29,26 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Становлянский район\nЛипецкая область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-10T06:21:06+00:00",
-    "expires_at": "2026-08-10T07:21:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловской области",
-    "type": "drone",
-    "text": "Рязанская область опасность по единичным БПЛА от стыка Липецкой, Тульской и Орловской области",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-10T06:20:21+00:00",
-    "expires_at": "2026-08-10T07:20:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "челябинск": {
     "display_name": "Челябинская область",
     "type": "drone",
@@ -62,11 +42,11 @@
   "свердловск": {
     "display_name": "Свердловская область",
     "type": "drone",
-    "text": "Екатеринбург\nСвердловская область\nФиксация от 2 БПЛА в вашем направлении\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Екатеринбург\nСвердловская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-10T07:11:34+00:00",
-    "expires_at": "2026-08-10T08:11:34+00:00",
-    "count": 2,
+    "updated_at": "2026-08-10T07:19:26+00:00",
+    "expires_at": "2026-08-10T08:19:26+00:00",
+    "count": null,
     "count_approx": false
   },
   "донецк": {
@@ -79,23 +59,13 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калужская область \nМосковская область \nПриготовиться к волне БПЛА от Тульской области",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-10T06:21:11+00:00",
-    "expires_at": "2026-08-10T07:21:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Север\nСеверо-Запад \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Гвардейское\nСимферополь и близлежащие \nТревога по реактивным БПЛА \nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-10T07:14:59+00:00",
-    "expires_at": "2026-08-10T08:14:59+00:00",
+    "updated_at": "2026-08-10T07:30:47+00:00",
+    "expires_at": "2026-08-10T08:30:47+00:00",
     "count": null,
     "count_approx": false
   },
@@ -119,26 +89,6 @@
     "count": null,
     "count_approx": false
   },
-  "николаевск": {
-    "display_name": "Николаевская область",
-    "type": "drone",
-    "text": "Николаевская область запуски БПЛА в направлении Херсонской области РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-10T06:25:58+00:00",
-    "expires_at": "2026-08-10T07:25:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонской области",
-    "type": "drone",
-    "text": "Николаевская область запуски БПЛА в направлении Херсонской области РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-10T06:25:58+00:00",
-    "expires_at": "2026-08-10T07:25:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "сверловск": {
     "display_name": "Сверловской области",
     "type": "drone",
@@ -152,10 +102,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Таманский полуостров \nЧушка и близлежащие \nКраснодарский край\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-10T07:12:12+00:00",
-    "expires_at": "2026-08-10T08:12:12+00:00",
+    "text": "Новороссийск и близлежащие \nОпасность по БПЛА \nКраснодарский край",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-10T07:30:56+00:00",
+    "expires_at": "2026-08-10T08:30:56+00:00",
     "count": null,
     "count_approx": false
   },
@@ -166,6 +116,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-10T07:13:12+00:00",
     "expires_at": "2026-08-10T08:13:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курганск": {
+    "display_name": "Курганская область",
+    "type": "drone",
+    "text": "Курганская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-10T07:31:04+00:00",
+    "expires_at": "2026-08-10T08:31:04+00:00",
     "count": null,
     "count_approx": false
   }
