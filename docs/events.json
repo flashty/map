@@ -1,71 +1,5 @@
 [
   {
-    "id": "radarrussiia_86722",
-    "channel": "radarrussiia",
-    "date": "2026-08-09T19:49:33+00:00",
-    "text": "Белгородская область \nПродолжаются массовые фиксации БПЛА \nПринять меры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_111964",
-    "channel": "kupolrussia",
-    "date": "2026-08-09T19:49:45+00:00",
-    "text": "Белгородская область \nПродолжаются массовые фиксации БПЛА \nПринять меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_216062",
-    "channel": "LPRalarm",
-    "date": "2026-08-09T19:55:14+00:00",
-    "text": "Брянская область \nБелгородская область \nВоронежская область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_216063",
-    "channel": "LPRalarm",
-    "date": "2026-08-09T19:55:46+00:00",
-    "text": "Фиолент \nБалаклава \nСевастополь \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_111965",
-    "channel": "kupolrussia",
-    "date": "2026-08-09T19:56:06+00:00",
-    "text": "Брянская область \nБелгородская область \nВоронежская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_111966",
-    "channel": "kupolrussia",
-    "date": "2026-08-09T19:56:15+00:00",
-    "text": "Фиолент \nБалаклава \nСевастополь \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_216064",
     "channel": "LPRalarm",
     "date": "2026-08-09T19:56:48+00:00",
@@ -21998,5 +21932,71 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_216440_Чайка",
+    "channel": "LPRalarm",
+    "date": "2026-08-10T09:43:26+00:00",
+    "text": "От Джанкой в направлении АПП Джанкой, Чонгар тревога по БПЛА Чайка",
+    "type": "drone",
+    "location_name": "Чайка",
+    "region": null,
+    "lat": 58.3653576,
+    "lon": 30.9569549
+  },
+  {
+    "id": "kupolrussia_112300_Чайка",
+    "channel": "kupolrussia",
+    "date": "2026-08-10T09:43:32+00:00",
+    "text": "От Джанкой в направлении АПП Джанкой, Чонгар тревога по БПЛА Чайка",
+    "type": "drone",
+    "location_name": "Чайка",
+    "region": null,
+    "lat": 58.3653576,
+    "lon": 30.9569549
+  },
+  {
+    "id": "kupolrussia_112301",
+    "channel": "kupolrussia",
+    "date": "2026-08-10T09:44:03+00:00",
+    "text": "Тюменская, Омская, Курганская, Челябинская, Свердловская области, ХМАО опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тюменская области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_216441",
+    "channel": "LPRalarm",
+    "date": "2026-08-10T09:44:06+00:00",
+    "text": "Тюменская, Омская, Курганская, Челябинская, Свердловская области, ХМАО опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тюменская области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_216442",
+    "channel": "LPRalarm",
+    "date": "2026-08-10T09:44:42+00:00",
+    "text": "Джанкой приготовиться, ещё будут от 2 БПЛА Чайка с юга",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_80654_Тобольск",
+    "channel": "vrv_radar",
+    "date": "2026-08-10T09:45:40+00:00",
+    "text": "Тобольск\nТюменская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Тобольск",
+    "region": "Тюменская область",
+    "lat": 58.1998048,
+    "lon": 68.2512924
   }
 ]
