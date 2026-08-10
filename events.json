@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_216114",
-    "channel": "LPRalarm",
-    "date": "2026-08-09T21:04:48+00:00",
-    "text": "Брянка\nАлчевск\nИ далее на Луганск\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_79093",
-    "channel": "locatorru",
-    "date": "2026-08-09T21:04:58+00:00",
-    "text": "Сетенёво, ​Покровский район, Орловская область - пролёты БПЛА через Р-119 в сторону Верхоьвье и далее на Тульскую область.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_79094_Сельцо",
-    "channel": "locatorru",
-    "date": "2026-08-09T21:06:46+00:00",
-    "text": "БПЛА через Жирятино на Сельцо, Брянская область.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Сельцо",
-    "region": "Брянская область",
-    "lat": 53.3709842,
-    "lon": 34.1065866
-  },
-  {
-    "id": "locatorru_79095",
-    "channel": "locatorru",
-    "date": "2026-08-09T21:08:35+00:00",
-    "text": "Подгоренский, Воронежская область - пролёт 1 БПЛА на восток примерно на Павловск.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Подгоренский область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_79096",
-    "channel": "locatorru",
-    "date": "2026-08-09T21:08:54+00:00",
-    "text": "Село Гавриловка-2, Гавриловский округ, Тамбовская область - пролёт 1 БПЛА в направлении Пензенской области.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_79097_Дмитровск",
-    "channel": "locatorru",
-    "date": "2026-08-09T21:10:47+00:00",
-    "text": "Дмитровск, Орловская область - пролёт 1 БПЛА на север, примерно на Шаблыкино.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Дмитровск",
-    "region": "Орловская область",
-    "lat": 52.509418,
-    "lon": 35.145725
-  },
-  {
     "id": "vrv_radar_80379",
     "channel": "vrv_radar",
     "date": "2026-08-09T21:10:51+00:00",
@@ -21996,6 +21930,72 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_216491",
+    "channel": "LPRalarm",
+    "date": "2026-08-10T11:34:11+00:00",
+    "text": "Старомихайловка, Донецк - Петровский, Кировский, Ленинский районы и близлежащие \nОпасность по БПЛА и ФПВ \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_112346",
+    "channel": "kupolrussia",
+    "date": "2026-08-10T11:34:23+00:00",
+    "text": "Старомихайловка, Донецк - Петровский, Кировский, Ленинский районы и близлежащие \nОпасность по БПЛА и ФПВ \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_216492",
+    "channel": "LPRalarm",
+    "date": "2026-08-10T11:35:07+00:00",
+    "text": "Днепропетровск самолёты",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_112347",
+    "channel": "kupolrussia",
+    "date": "2026-08-10T11:35:41+00:00",
+    "text": "Днепропетровск самолёты",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_80684",
+    "channel": "vrv_radar",
+    "date": "2026-08-10T11:35:43+00:00",
+    "text": "Смоленская область\nТверская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_86972",
+    "channel": "radarrussiia",
+    "date": "2026-08-10T11:36:05+00:00",
+    "text": "Смоленская область\nТверская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Смоленская область",
     "lat": null,
     "lon": null
   }
