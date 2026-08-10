@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_80608",
-    "channel": "vrv_radar",
-    "date": "2026-08-10T07:30:15+00:00",
-    "text": "Движение автотранспорта по Крымскому мосту возобновлено.\n\nЧтобы получать информацию без задержек, подписывайтесь на официальный канал в MAX «КРЫМСКИЙ МОСТ: оперативная информация».\nть\n\nО РОЯ т\n\nКРЫМСКИЙ\nМОСТ",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_216315_Темрюкский",
-    "channel": "LPRalarm",
-    "date": "2026-08-10T07:30:18+00:00",
-    "text": "Темрюкский район \nТемрюк\nСлавянск-на-Кубани \nИльский \nАфипский и близлежащие \nОпасность по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": "Темрюкский",
-    "region": "Краснодарский край",
-    "lat": 45.4964119,
-    "lon": 37.3098799
-  },
-  {
-    "id": "locatorru_79324",
-    "channel": "locatorru",
-    "date": "2026-08-10T07:30:35+00:00",
-    "text": "Курганская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_216316",
     "channel": "LPRalarm",
     "date": "2026-08-10T07:30:38+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Московская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "radarrussiia_87145",
+    "channel": "radarrussiia",
+    "date": "2026-08-10T23:19:08+00:00",
+    "text": "АО Троицк\nМосква\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_80940_Рязань",
+    "channel": "vrv_radar",
+    "date": "2026-08-10T23:26:20+00:00",
+    "text": "Рязань\nРязанская область\nРабота ПВО по БПЛА\nМеры безопасности",
+    "type": "drone",
+    "location_name": "Рязань",
+    "region": "Рязанская область",
+    "lat": 54.6295687,
+    "lon": 39.7425039
+  },
+  {
+    "id": "radarrussiia_87146_Рязань",
+    "channel": "radarrussiia",
+    "date": "2026-08-10T23:27:58+00:00",
+    "text": "Рязань\nРязанская область\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Рязань",
+    "region": "Рязанская область",
+    "lat": 54.6295687,
+    "lon": 39.7425039
   }
 ]
