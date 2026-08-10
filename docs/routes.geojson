@@ -120,6 +120,31 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-10T09:24:25+00:00",
+        "last_updated": "2026-08-10T09:57:19+00:00",
+        "path_labels": [
+          "Пристень",
+          "Ялты"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.6941094,
+            51.236023
+          ],
+          [
+            36.0474323,
+            51.1341389
+          ]
+        ]
+      }
     }
   ]
 }
