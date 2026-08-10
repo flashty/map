@@ -2,10 +2,10 @@
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
-    "text": "Курская область \nТревога по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-10T13:52:29+00:00",
-    "expires_at": "2026-08-10T14:52:29+00:00",
+    "text": "Курская область \nОрловская область \nТревога по БПЛА сохраняется",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-10T14:54:04+00:00",
+    "expires_at": "2026-08-10T15:54:04+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +36,46 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-10T14:14:23+00:00",
     "expires_at": "2026-08-10T15:14:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Троснянский район \nОрловская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-10T14:56:27+00:00",
+    "expires_at": "2026-08-10T15:56:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Куркинский район \nТульская область \nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-10T14:54:09+00:00",
+    "expires_at": "2026-08-10T15:54:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Кировский район \nКалужская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-10T14:55:44+00:00",
+    "expires_at": "2026-08-10T15:55:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Черноморский район с. Владимировка пролёт бпла примерно на Кировское\n\nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-10T14:53:37+00:00",
+    "expires_at": "2026-08-10T15:53:37+00:00",
     "count": null,
     "count_approx": false
   }
