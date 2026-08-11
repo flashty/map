@@ -1,27 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_13454",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-10T11:52:10+00:00",
-    "text": "Группа БПЛА над Омской областью в направлении Омска.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Омской область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_80688_Анапский",
-    "channel": "vrv_radar",
-    "date": "2026-08-10T11:53:54+00:00",
-    "text": "Анапский район\nКраснодарский край\nОпасность по БПЛА\nПовторно",
-    "type": "drone",
-    "location_name": "Анапский",
-    "region": "Краснодарский край",
-    "lat": 45.0702704,
-    "lon": 37.755292
-  },
-  {
     "id": "radarrussiia_86978_Анапский",
     "channel": "radarrussiia",
     "date": "2026-08-10T11:54:09+00:00",
@@ -21996,6 +21974,28 @@
     "type": "unknown",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_216919",
+    "channel": "LPRalarm",
+    "date": "2026-08-11T10:42:30+00:00",
+    "text": "Все приграничные регионы отбой по возможной подготовке к пускам Штормов",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_112749",
+    "channel": "kupolrussia",
+    "date": "2026-08-11T10:42:40+00:00",
+    "text": "Все приграничные регионы отбой по возможной подготовке к пускам Штормов",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
