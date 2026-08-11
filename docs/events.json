@@ -1,60 +1,5 @@
 [
   {
-    "id": "locatorru_79355",
-    "channel": "locatorru",
-    "date": "2026-08-10T14:05:20+00:00",
-    "text": "Тюменская область - всё хорошо, у вас отбой. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тюменская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_80711",
-    "channel": "vrv_radar",
-    "date": "2026-08-10T14:08:58+00:00",
-    "text": "Тюменская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тюменская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_13464",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-10T14:12:37+00:00",
-    "text": "Последний БПЛА уничтожен над Тюменской областью, летящий на нефтебазу в Тобольске.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тюменской область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_216533_Погарский",
-    "channel": "LPRalarm",
-    "date": "2026-08-10T14:13:39+00:00",
-    "text": "Погарский район Брянская область тревога по барражирующим боеприпасам",
-    "type": "alert",
-    "location_name": "Погарский",
-    "region": "Брянская область",
-    "lat": 52.5207056,
-    "lon": 33.2053408
-  },
-  {
-    "id": "kupolrussia_112384_Погарский",
-    "channel": "kupolrussia",
-    "date": "2026-08-10T14:13:53+00:00",
-    "text": "Погарский район Брянская область тревога по барражирующим боеприпасам",
-    "type": "alert",
-    "location_name": "Погарский",
-    "region": "Брянская область",
-    "lat": 52.5207056,
-    "lon": 33.2053408
-  },
-  {
     "id": "LPRalarm_216534",
     "channel": "LPRalarm",
     "date": "2026-08-10T14:14:04+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Белгородская область",
     "lat": 50.1632256,
     "lon": 37.9638901
+  },
+  {
+    "id": "LPRalarm_216978",
+    "channel": "LPRalarm",
+    "date": "2026-08-11T14:32:09+00:00",
+    "text": "Евпатория и близлежащие повторно опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_112796",
+    "channel": "kupolrussia",
+    "date": "2026-08-11T14:32:25+00:00",
+    "text": "Евпатория и близлежащие повторно \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_216979",
+    "channel": "LPRalarm",
+    "date": "2026-08-11T14:33:01+00:00",
+    "text": "Запад Крыма \n❤️❤️❤️",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_216980",
+    "channel": "LPRalarm",
+    "date": "2026-08-11T14:34:27+00:00",
+    "text": "Противник готовит запуски БПЛА из Николаевской области в направлении западных районов Херсонской области РФ и далее Раздольненский и Черноморский район Республика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Николаевской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_112797",
+    "channel": "kupolrussia",
+    "date": "2026-08-11T14:34:42+00:00",
+    "text": "Противник готовит запуски БПЛА из Николаевской области в направлении западных районов Херсонской области РФ и далее Раздольненский и Черноморский район Республика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Николаевской области",
+    "lat": null,
+    "lon": null
   }
 ]
