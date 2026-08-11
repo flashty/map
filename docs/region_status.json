@@ -22,10 +22,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Керченский полуостров\nтревога по БПЛА!\nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-11T21:00:20+00:00",
-    "expires_at": "2026-08-11T22:00:20+00:00",
+    "text": "Курортное и близлежащие \nТревога по БПЛА с моря \nМеры безопасности \nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-11T21:30:24+00:00",
+    "expires_at": "2026-08-11T22:30:24+00:00",
     "count": null,
     "count_approx": false
   },
@@ -33,9 +33,9 @@
     "display_name": "Запорожская область",
     "type": "drone",
     "text": "Запорожская область РФ \nТревога по БПЛА \nПовторно",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-11T21:15:54+00:00",
-    "expires_at": "2026-08-11T22:15:54+00:00",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-11T21:16:13+00:00",
+    "expires_at": "2026-08-11T22:16:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,16 +66,6 @@
     "channel": "locatorru",
     "updated_at": "2026-08-11T20:35:08+00:00",
     "expires_at": "2026-08-11T21:35:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "missile",
-    "text": "От Тамани До Геленджика \nракетная опасность\nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-11T21:15:08+00:00",
-    "expires_at": "2026-08-11T22:15:08+00:00",
     "count": null,
     "count_approx": false
   },
