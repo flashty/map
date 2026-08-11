@@ -1,27 +1,5 @@
 [
   {
-    "id": "kupolrussia_112350_Ильский",
-    "channel": "kupolrussia",
-    "date": "2026-08-10T11:52:05+00:00",
-    "text": "Анапский район, Таманский полуостров, Темрюкский район, Крымский район и близлежащие тревога по БПЛА и далее в направлении Ильский, Афипский или Новороссийск",
-    "type": "drone",
-    "location_name": "Ильский",
-    "region": null,
-    "lat": 44.8458544,
-    "lon": 38.5608255
-  },
-  {
-    "id": "kupolrussia_112350_Новороссийск",
-    "channel": "kupolrussia",
-    "date": "2026-08-10T11:52:05+00:00",
-    "text": "Анапский район, Таманский полуостров, Темрюкский район, Крымский район и близлежащие тревога по БПЛА и далее в направлении Ильский, Афипский или Новороссийск",
-    "type": "drone",
-    "location_name": "Новороссийск",
-    "region": null,
-    "lat": 44.7239578,
-    "lon": 37.7690711
-  },
-  {
     "id": "radar_plus_bpla_13454",
     "channel": "radar_plus_bpla",
     "date": "2026-08-10T11:52:10+00:00",
@@ -21996,6 +21974,28 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_216918",
+    "channel": "LPRalarm",
+    "date": "2026-08-11T10:33:13+00:00",
+    "text": "Константиновка\nУаб\nДНР",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_112748",
+    "channel": "kupolrussia",
+    "date": "2026-08-11T10:33:25+00:00",
+    "text": "Константиновка\nУаб\nДНР",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
