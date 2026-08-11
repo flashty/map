@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_216371",
-    "channel": "LPRalarm",
-    "date": "2026-08-10T08:17:26+00:00",
-    "text": "Новоалексеевка, трасса и близлежащие\nХерсонская область РФ\n\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_112237",
-    "channel": "kupolrussia",
-    "date": "2026-08-10T08:17:33+00:00",
-    "text": "Новоалексеевка, трасса и близлежащие\nХерсонская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_216372",
-    "channel": "LPRalarm",
-    "date": "2026-08-10T08:17:43+00:00",
-    "text": "Шебекино\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_13438",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-10T08:17:43+00:00",
-    "text": "От Челябинской области ушли 3 БПЛА в направлении Курганской области, возможно далее по дуге уйдут на Омскую область.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курганской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_216373_Темрюкский",
-    "channel": "LPRalarm",
-    "date": "2026-08-10T08:17:48+00:00",
-    "text": "Темрюкский район продолжаются фиксации БПЛА с Азовского моря в тыл",
-    "type": "drone",
-    "location_name": "Темрюкский",
-    "region": null,
-    "lat": 45.4964119,
-    "lon": 37.3098799
-  },
-  {
     "id": "kupolrussia_112238_Шебекино",
     "channel": "kupolrussia",
     "date": "2026-08-10T08:17:59+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_80981",
+    "channel": "vrv_radar",
+    "date": "2026-08-11T03:19:28+00:00",
+    "text": "Ульяновская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_79484",
+    "channel": "locatorru",
+    "date": "2026-08-11T03:21:25+00:00",
+    "text": "Саратовская область, Пензенская область, Ульяновская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_79485_Медногорск",
+    "channel": "locatorru",
+    "date": "2026-08-11T03:25:11+00:00",
+    "text": "Медногорск, Оренбургская область - пролёт БПЛА в сторону Орска. Возможно не один. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Медногорск",
+    "region": "Оренбургская область",
+    "lat": 51.4049435,
+    "lon": 57.5803138
+  },
+  {
+    "id": "locatorru_79486_Орск",
+    "channel": "locatorru",
+    "date": "2026-08-11T03:26:43+00:00",
+    "text": "Орск, Оренбургская область - угроза атаки БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Орск",
+    "region": "Оренбургская область",
+    "lat": 51.2305015,
+    "lon": 58.4738015
+  },
+  {
+    "id": "vrv_radar_80982",
+    "channel": "vrv_radar",
+    "date": "2026-08-11T03:26:54+00:00",
+    "text": "Московская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Московская область",
     "lat": null,
     "lon": null
   }
