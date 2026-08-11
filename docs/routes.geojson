@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-11T16:33:15+00:00",
+        "last_updated": "2026-08-11T17:09:51+00:00",
+        "path_labels": [
+          "Шебекинский",
+          "Валуйский (Белгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.8728034,
+            50.438988
+          ],
+          [
+            37.9638901,
+            50.1632256
+          ]
+        ]
+      }
+    }
+  ]
 }
