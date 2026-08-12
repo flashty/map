@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Мангуш \nУрзуф \nМариуполь и близлежащие \nОпасность по БПЛА \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-12T21:33:10+00:00",
-    "expires_at": "2026-08-12T22:33:10+00:00",
+    "text": "Ждановка, Кировское ДНР и близлежащие\nТревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-12T21:51:43+00:00",
+    "expires_at": "2026-08-12T22:51:43+00:00",
     "count": null,
     "count_approx": false
   },
@@ -202,10 +202,10 @@
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Милютинский район\nРостовская область\nМножественные фиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-12T21:45:50+00:00",
-    "expires_at": "2026-08-12T22:45:50+00:00",
+    "text": "Новошахтинск и близлежащие опасность по БПЛА\nРостовская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-12T21:48:26+00:00",
+    "expires_at": "2026-08-12T22:48:26+00:00",
     "count": null,
     "count_approx": false
   },
@@ -216,6 +216,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-12T21:40:19+00:00",
     "expires_at": "2026-08-12T22:40:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Мелитополь, Приморск, Бердянск и близлежащие тревога по БПЛА\nСохраняется \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-12T21:51:38+00:00",
+    "expires_at": "2026-08-12T22:51:38+00:00",
     "count": null,
     "count_approx": false
   }

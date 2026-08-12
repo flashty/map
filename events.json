@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_217347",
-    "channel": "LPRalarm",
-    "date": "2026-08-11T21:38:21+00:00",
-    "text": "Саки\nНовофедоровка и близлежащие \nТревога по БПЛА \nПовторно \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_217348_Погар",
-    "channel": "LPRalarm",
-    "date": "2026-08-11T21:39:45+00:00",
-    "text": "Погар , укрытия Дартс , меры безопасности",
-    "type": "alert",
-    "location_name": "Погар",
-    "region": null,
-    "lat": 52.554283,
-    "lon": 33.263706
-  },
-  {
-    "id": "LPRalarm_217348_Дартс",
-    "channel": "LPRalarm",
-    "date": "2026-08-11T21:39:45+00:00",
-    "text": "Погар , укрытия Дартс , меры безопасности",
-    "type": "alert",
-    "location_name": "Дартс",
-    "region": null,
-    "lat": 66.8198841,
-    "lon": 65.8038835
-  },
-  {
-    "id": "kupolrussia_113111_Погар",
-    "channel": "kupolrussia",
-    "date": "2026-08-11T21:39:47+00:00",
-    "text": "Погар , укрытия Дартс , меры безопасности",
-    "type": "alert",
-    "location_name": "Погар",
-    "region": null,
-    "lat": 52.554283,
-    "lon": 33.263706
-  },
-  {
-    "id": "kupolrussia_113111_Дартс",
-    "channel": "kupolrussia",
-    "date": "2026-08-11T21:39:47+00:00",
-    "text": "Погар , укрытия Дартс , меры безопасности",
-    "type": "alert",
-    "location_name": "Дартс",
-    "region": null,
-    "lat": 66.8198841,
-    "lon": 65.8038835
-  },
-  {
-    "id": "kupolrussia_113112",
-    "channel": "kupolrussia",
-    "date": "2026-08-11T21:40:14+00:00",
-    "text": "Геленджик\nтревога по БПЛА \nприбрежная зона \nМеры безопасности! \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_217349",
     "channel": "LPRalarm",
     "date": "2026-08-11T21:40:15+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Ростовская область",
     "lat": 48.7280222,
     "lon": 41.6400802
+  },
+  {
+    "id": "LPRalarm_217951",
+    "channel": "LPRalarm",
+    "date": "2026-08-12T21:48:17+00:00",
+    "text": "Новошахтинск и близлежащие опасность по БПЛА\nРостовская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_113629",
+    "channel": "kupolrussia",
+    "date": "2026-08-12T21:48:26+00:00",
+    "text": "Новошахтинск и близлежащие опасность по БПЛА\nРостовская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_217952",
+    "channel": "LPRalarm",
+    "date": "2026-08-12T21:51:06+00:00",
+    "text": "Стародуб и близлежащие опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_217953",
+    "channel": "LPRalarm",
+    "date": "2026-08-12T21:51:32+00:00",
+    "text": "Мелитополь, Приморск, Бердянск и близлежащие тревога по БПЛА\nСохраняется \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_113630",
+    "channel": "kupolrussia",
+    "date": "2026-08-12T21:51:38+00:00",
+    "text": "Мелитополь, Приморск, Бердянск и близлежащие тревога по БПЛА\nСохраняется \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_217954",
+    "channel": "LPRalarm",
+    "date": "2026-08-12T21:51:43+00:00",
+    "text": "Ждановка, Кировское ДНР и близлежащие\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
   }
 ]
