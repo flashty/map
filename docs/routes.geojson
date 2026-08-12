@@ -30,6 +30,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-08-12T18:09:08+00:00",
+        "last_updated": "2026-08-12T18:32:07+00:00",
+        "path_labels": [
+          "Богучарский (Воронежская область)",
+          "Ольховатский (Воронежская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.6363652,
+            50.4979916
+          ],
+          [
+            39.2495873,
+            50.3121144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-08-12T18:17:49+00:00",
         "last_updated": "2026-08-12T18:17:49+00:00",
         "path_labels": [
