@@ -19,26 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "мордов": {
-    "display_name": "Республика Мордовия",
-    "type": "drone",
-    "text": "Республика Мордовия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-12T04:43:07+00:00",
-    "expires_at": "2026-08-12T05:43:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "владимирск": {
-    "display_name": "Владимирская область",
-    "type": "drone",
-    "text": "Московская область, Ивановская область, Владимирская область - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-12T04:37:38+00:00",
-    "expires_at": "2026-08-12T05:37:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
@@ -49,33 +29,23 @@
     "count": null,
     "count_approx": false
   },
-  "ивановск": {
-    "display_name": "Ивановская область",
-    "type": "drone",
-    "text": "Московская область, Ивановская область, Владимирская область - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-12T04:37:38+00:00",
-    "expires_at": "2026-08-12T05:37:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Черниговский район Запорожская область РФ и далее в направлении Бердянск, Ялта ДНР, Урзуф Мариуполь опасность по БПЛА \nИ близлежащие по пути следования",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-12T05:07:43+00:00",
-    "expires_at": "2026-08-12T06:07:43+00:00",
+    "text": "Все районы Запорожская область РФ опасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-12T05:37:37+00:00",
+    "expires_at": "2026-08-12T06:37:37+00:00",
     "count": null,
     "count_approx": false
   },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Черниговский район Запорожская область РФ и далее в направлении Бердянск, Ялта ДНР, Урзуф Мариуполь опасность по БПЛА \nИ близлежащие по пути следования",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-12T05:07:43+00:00",
-    "expires_at": "2026-08-12T06:07:43+00:00",
+    "text": "Харцызск Иловайск ДНР и близлежащие \nОпасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-12T05:39:53+00:00",
+    "expires_at": "2026-08-12T06:39:53+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +66,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-12T05:28:09+00:00",
     "expires_at": "2026-08-12T06:28:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "От Строитель на Белгород или Яковлевский район Белгородская область БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-12T05:40:58+00:00",
+    "expires_at": "2026-08-12T06:40:58+00:00",
     "count": null,
     "count_approx": false
   }
