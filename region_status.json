@@ -19,13 +19,43 @@
     "count": null,
     "count_approx": false
   },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "alert",
+    "text": "Неклиновский район\nРостовская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-12T01:59:48+00:00",
+    "expires_at": "2026-08-12T02:59:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "missile",
-    "text": "Новороссийск, Геленджик, Краснодарский край - ракетная опасность, повтор! \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "text": "Новороссийск\nГеленджик\nКраснодарский край\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-12T01:56:38+00:00",
+    "expires_at": "2026-08-12T02:56:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Белгородская область - опасность по БПЛА и в направлении Воронежской области. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-08-12T01:44:46+00:00",
-    "expires_at": "2026-08-12T02:44:46+00:00",
+    "updated_at": "2026-08-12T02:00:18+00:00",
+    "expires_at": "2026-08-12T03:00:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежской области",
+    "type": "drone",
+    "text": "Белгородская область - опасность по БПЛА и в направлении Воронежской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-12T02:00:18+00:00",
+    "expires_at": "2026-08-12T03:00:18+00:00",
     "count": null,
     "count_approx": false
   }
