@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_112952_Новороссийск",
-    "channel": "kupolrussia",
-    "date": "2026-08-11T18:52:01+00:00",
-    "text": "Новороссийск, Геленджик и близлежащие тревога по БПЛА с моря. Меры безопасности",
-    "type": "drone",
-    "location_name": "Новороссийск",
-    "region": null,
-    "lat": 44.7239578,
-    "lon": 37.7690711
-  },
-  {
-    "id": "LPRalarm_217152_Солнцевский",
-    "channel": "LPRalarm",
-    "date": "2026-08-11T18:53:17+00:00",
-    "text": "Солнцевский район, Обоянский район, Курский район опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Солнцевский",
-    "region": null,
-    "lat": 51.4751587,
-    "lon": 36.7106806
-  },
-  {
-    "id": "LPRalarm_217152_Обоянский",
-    "channel": "LPRalarm",
-    "date": "2026-08-11T18:53:17+00:00",
-    "text": "Солнцевский район, Обоянский район, Курский район опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Обоянский",
-    "region": null,
-    "lat": 51.2346254,
-    "lon": 36.0784146
-  },
-  {
     "id": "LPRalarm_217152_Курский",
     "channel": "LPRalarm",
     "date": "2026-08-11T18:53:17+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Рязанская область",
     "lat": 54.6295687,
     "lon": 39.7425039
+  },
+  {
+    "id": "radar_plus_bpla_13541",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-12T15:00:13+00:00",
+    "text": "Рязань - сбитие БПЛА.\n\nЕщё от 7 единиц в вашу сторону.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_217746",
+    "channel": "LPRalarm",
+    "date": "2026-08-12T15:00:58+00:00",
+    "text": "Горловка, Гольмовский ДНР ещё фиксации БПЛА на восток, ю-в",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_113442",
+    "channel": "kupolrussia",
+    "date": "2026-08-12T15:01:11+00:00",
+    "text": "Горловка, Гольмовский ДНР ещё фиксации БПЛА на восток, ю-в",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
   }
 ]
