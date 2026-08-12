@@ -1,14 +1,4 @@
 {
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "ЛНР \nОпасность по БПЛА сохраняется \nЕщё фиксации БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-12T14:00:00+00:00",
-    "expires_at": "2026-08-12T15:00:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курской области",
     "type": "missile",
@@ -19,23 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Липецкая область\nТамбовская область\nРязанская область\nТульская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_Д2А \"КРАСНЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-12T13:56:49+00:00",
-    "expires_at": "2026-08-12T14:56:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Рязанская область \nВладимирская область \nМосковская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-12T13:56:56+00:00",
-    "expires_at": "2026-08-12T14:56:56+00:00",
+    "text": "Рязань\nРязанская область\nРабота ПВО по БПЛА\nМеры безопасности!",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-12T14:57:18+00:00",
+    "expires_at": "2026-08-12T15:57:18+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,16 +36,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-12T14:00:53+00:00",
     "expires_at": "2026-08-12T15:00:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Каменский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-12T13:59:59+00:00",
-    "expires_at": "2026-08-12T14:59:59+00:00",
     "count": null,
     "count_approx": false
   },
@@ -99,16 +69,6 @@
     "count": null,
     "count_approx": false
   },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Мичуринский район\nПервомайский район\nТамбовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-12T13:59:38+00:00",
-    "expires_at": "2026-08-12T14:59:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
@@ -122,20 +82,40 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Ждановка, Нижняя Крынка, Харцызск, Зугрэс ДНР и близлежащие \nОпасность по БПЛА",
+    "text": "От Волновахи в сторону Мариуполя, по трассе\nТревога по БПЛА Хорнет\n\nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-12T14:43:13+00:00",
-    "expires_at": "2026-08-12T15:43:13+00:00",
+    "updated_at": "2026-08-12T14:56:59+00:00",
+    "expires_at": "2026-08-12T15:56:59+00:00",
     "count": null,
     "count_approx": false
   },
   "нижегородск": {
     "display_name": "Нижегородская область",
     "type": "drone",
-    "text": "Нижегородская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-12T14:43:36+00:00",
-    "expires_at": "2026-08-12T15:43:36+00:00",
+    "text": "Нижегородская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-12T14:51:05+00:00",
+    "expires_at": "2026-08-12T15:51:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "мордов": {
+    "display_name": "Республика Мордовия",
+    "type": "drone",
+    "text": "Республика Мордовия\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-12T14:52:57+00:00",
+    "expires_at": "2026-08-12T15:52:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Сырцево - Строитель БПЛА Белгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-12T14:53:20+00:00",
+    "expires_at": "2026-08-12T15:53:20+00:00",
     "count": null,
     "count_approx": false
   }
