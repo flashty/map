@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-12T14:45:20+00:00",
+        "last_updated": "2026-08-12T15:11:02+00:00",
+        "path_labels": [
+          "Белгородский",
+          "Михайловский (Рязанская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.5167643,
+            54.3750277
+          ],
+          [
+            39.0202073,
+            54.2303577
+          ]
+        ]
+      }
+    }
+  ]
 }
