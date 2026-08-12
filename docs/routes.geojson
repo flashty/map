@@ -135,6 +135,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-08-12T22:44:24+00:00",
+        "last_updated": "2026-08-12T23:14:51+00:00",
+        "path_labels": [
+          "Михайловский (Волгоградская область)",
+          "Фроловский (Волгоградская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.2061623,
+            50.0670428
+          ],
+          [
+            43.8082806,
+            49.8599222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-08-12T22:47:02+00:00",
         "last_updated": "2026-08-12T22:47:02+00:00",
         "path_labels": [
