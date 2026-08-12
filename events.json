@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_217394",
-    "channel": "LPRalarm",
-    "date": "2026-08-11T22:18:53+00:00",
-    "text": "Штормовое\nХуторок\nРомашкино\nМолочное и близлежащие \nТревога по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_81076_Анапа",
-    "channel": "vrv_radar",
-    "date": "2026-08-11T22:19:35+00:00",
-    "text": "Анапа\nКраснодарский край\nРабота ПВО по БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Анапа",
-    "region": "Краснодарский край",
-    "lat": 44.894272,
-    "lon": 37.316887
-  },
-  {
-    "id": "LPRalarm_217395",
-    "channel": "LPRalarm",
-    "date": "2026-08-11T22:20:04+00:00",
-    "text": "Новороссийск и близлежащие \nЕщё фиксации БПЛА \nМеры безопасности \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_113140",
-    "channel": "kupolrussia",
-    "date": "2026-08-11T22:20:08+00:00",
-    "text": "Новороссийск и близлежащие \nЕщё фиксации БПЛА \nМеры безопасности \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_113141_Севастополь",
-    "channel": "kupolrussia",
-    "date": "2026-08-11T22:20:25+00:00",
-    "text": "Казачья бухта и близлежащие\nтревога по БПЛА\nСевастополь",
-    "type": "drone",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
     "id": "LPRalarm_217396_Севастополь",
     "channel": "LPRalarm",
     "date": "2026-08-11T22:20:26+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Краснодарский край",
     "lat": 44.5609447,
     "lon": 38.0766832
+  },
+  {
+    "id": "radarrussiia_87426",
+    "channel": "radarrussiia",
+    "date": "2026-08-12T22:28:10+00:00",
+    "text": "Краснодарский край\nРеспублика Адыгея\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "missile",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_217968",
+    "channel": "LPRalarm",
+    "date": "2026-08-12T22:28:59+00:00",
+    "text": "Дебальцево и далее в сторону Чернухино, ДНР\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_113643",
+    "channel": "kupolrussia",
+    "date": "2026-08-12T22:29:05+00:00",
+    "text": "Дебальцево и далее в сторону Чернухино, ДНР\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_79731",
+    "channel": "locatorru",
+    "date": "2026-08-12T22:29:30+00:00",
+    "text": "Пензенская область, Саратовская область - опасность по БПЛА сохраняется.\n\nБПЛА по северу Волгоградской области будут смещаться в вашем направлении.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_79732_Почеп",
+    "channel": "locatorru",
+    "date": "2026-08-12T22:30:13+00:00",
+    "text": "Почеп, Брянская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Почеп",
+    "region": "Брянская область",
+    "lat": 52.9287784,
+    "lon": 33.4544207
   }
 ]
