@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-12T10:56:57+00:00",
+        "last_updated": "2026-08-12T10:56:57+00:00",
+        "path_labels": [
+          "Кировская область",
+          "Костромской области"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.845245621538076,
+            58.697809070186274
+          ],
+          [
+            43.815907530825974,
+            58.453181862243305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-12T10:58:41+00:00",
+        "last_updated": "2026-08-12T10:58:41+00:00",
+        "path_labels": [
+          "Костромская область",
+          "Вологодской области"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.815907530825974,
+            58.453181862243305
+          ],
+          [
+            40.5251390348419,
+            59.97006054069664
+          ]
+        ]
+      }
+    }
+  ]
 }
