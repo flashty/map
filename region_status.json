@@ -1,14 +1,4 @@
 {
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "missile",
-    "text": "Ростовская область\nРакетная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-12T02:21:36+00:00",
-    "expires_at": "2026-08-12T03:21:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
@@ -66,6 +56,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-12T02:11:29+00:00",
     "expires_at": "2026-08-12T03:11:29+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "drone",
+    "text": "г.Елец, Елецкий район, Долгоруковский район, Становлянский район, Измалковский район, Липецкая область - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-12T02:41:09+00:00",
+    "expires_at": "2026-08-12T03:41:09+00:00",
     "count": null,
     "count_approx": false
   }

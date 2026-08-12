@@ -1,93 +1,5 @@
 [
   {
-    "id": "vrv_radar_80991_Орск",
-    "channel": "vrv_radar",
-    "date": "2026-08-11T04:44:56+00:00",
-    "text": "Орск\nОренбургская область\nМеры безопасности",
-    "type": "alert",
-    "location_name": "Орск",
-    "region": "Оренбургская область",
-    "lat": 51.2305015,
-    "lon": 58.4738015
-  },
-  {
-    "id": "vrv_radar_80992_Орск",
-    "channel": "vrv_radar",
-    "date": "2026-08-11T04:45:32+00:00",
-    "text": "Орск\nОренбургская область\nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Орск",
-    "region": "Оренбургская область",
-    "lat": 51.2305015,
-    "lon": 58.4738015
-  },
-  {
-    "id": "radarrussiia_87188_Орск",
-    "channel": "radarrussiia",
-    "date": "2026-08-11T04:45:56+00:00",
-    "text": "Орск\nОренбургская область\nРабота ПВО по БПЛА\nМеры безопасности \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Орск",
-    "region": "Оренбургская область",
-    "lat": 51.2305015,
-    "lon": 58.4738015
-  },
-  {
-    "id": "radar_plus_bpla_13489",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-11T04:45:56+00:00",
-    "text": "Орск - сбития БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_80993_Орск",
-    "channel": "vrv_radar",
-    "date": "2026-08-11T04:46:15+00:00",
-    "text": "Орск\nОренбургская область\nПродолжаются фиксации БПЛА",
-    "type": "drone",
-    "location_name": "Орск",
-    "region": "Оренбургская область",
-    "lat": 51.2305015,
-    "lon": 58.4738015
-  },
-  {
-    "id": "radarrussiia_87189",
-    "channel": "radarrussiia",
-    "date": "2026-08-11T04:46:35+00:00",
-    "text": "Орск - сбития БПЛА.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_13490",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-11T04:47:01+00:00",
-    "text": "Челябинская область - опасность БПЛА.\n\n ✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Челябинская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_216812",
-    "channel": "LPRalarm",
-    "date": "2026-08-11T04:47:40+00:00",
-    "text": "Западное побережье Крыма \nСевастополь\nОпасность по БЭК, в т.ч. носителям ФПВ, БПЛА, РСЗО, ЗРК",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_112657",
     "channel": "kupolrussia",
     "date": "2026-08-11T04:48:09+00:00",
@@ -21996,6 +21908,94 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_79620_Елецкий",
+    "channel": "locatorru",
+    "date": "2026-08-12T02:41:09+00:00",
+    "text": "г.Елец, Елецкий район, Долгоруковский район, Становлянский район, Измалковский район, Липецкая область - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Елецкий",
+    "region": "Липецкая область",
+    "lat": 52.631157,
+    "lon": 38.57095
+  },
+  {
+    "id": "locatorru_79620_Долгоруковский",
+    "channel": "locatorru",
+    "date": "2026-08-12T02:41:09+00:00",
+    "text": "г.Елец, Елецкий район, Долгоруковский район, Становлянский район, Измалковский район, Липецкая область - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Долгоруковский",
+    "region": "Липецкая область",
+    "lat": 52.3429058,
+    "lon": 38.351378
+  },
+  {
+    "id": "locatorru_79620_Становлянский",
+    "channel": "locatorru",
+    "date": "2026-08-12T02:41:09+00:00",
+    "text": "г.Елец, Елецкий район, Долгоруковский район, Становлянский район, Измалковский район, Липецкая область - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Становлянский",
+    "region": "Липецкая область",
+    "lat": 52.8493616,
+    "lon": 38.3195659
+  },
+  {
+    "id": "locatorru_79620_Измалковский",
+    "channel": "locatorru",
+    "date": "2026-08-12T02:41:09+00:00",
+    "text": "г.Елец, Елецкий район, Долгоруковский район, Становлянский район, Измалковский район, Липецкая область - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Измалковский",
+    "region": "Липецкая область",
+    "lat": 52.6604933,
+    "lon": 37.9922082
+  },
+  {
+    "id": "locatorru_79620_Елец",
+    "channel": "locatorru",
+    "date": "2026-08-12T02:41:09+00:00",
+    "text": "г.Елец, Елецкий район, Долгоруковский район, Становлянский район, Измалковский район, Липецкая область - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Елец",
+    "region": "Липецкая область",
+    "lat": 52.6219865,
+    "lon": 38.5003298
+  },
+  {
+    "id": "LPRalarm_217493",
+    "channel": "LPRalarm",
+    "date": "2026-08-12T02:41:30+00:00",
+    "text": "Фпв на Восток Попасная\nЛНР",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_113214",
+    "channel": "kupolrussia",
+    "date": "2026-08-12T02:41:35+00:00",
+    "text": "Фпв на Восток Попасная\nЛНР",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_79621",
+    "channel": "locatorru",
+    "date": "2026-08-12T02:42:55+00:00",
+    "text": "Ростовская область - отбой ракетной опасности! \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
     "lat": null,
     "lon": null
   }
