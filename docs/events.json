@@ -1,71 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_13496_Октябрьский",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-11T05:30:31+00:00",
-    "text": "Октябрьский район Орска - сбитие БПЛА.\n\nЕщё от 3 единиц на подлёте.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": "Октябрьский",
-    "region": null,
-    "lat": 54.4809722,
-    "lon": 53.4660062
-  },
-  {
-    "id": "locatorru_79510",
-    "channel": "locatorru",
-    "date": "2026-08-11T05:30:38+00:00",
-    "text": "За прошедшую ночь и утро силами противовоздушной обороны было уничтожено 396 БПЛА типа над территориями Белгородской, Брянской, Владимирской, Воронежской, Калужской, Курской, Липецкой, Оренбургской, Орловской, Ростовской, Рязанской, Тамбовской, Тульской областей, Московского региона и Республики Крым.\n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Белгородской областей",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_79511_Ленинский",
-    "channel": "locatorru",
-    "date": "2026-08-11T05:31:45+00:00",
-    "text": "Ленинский район, г.Орск - пролёт БПЛА на НПЗ. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Ленинский",
-    "region": null,
-    "lat": 56.0736587,
-    "lon": 46.2661214
-  },
-  {
-    "id": "LPRalarm_216822",
-    "channel": "LPRalarm",
-    "date": "2026-08-11T05:31:52+00:00",
-    "text": "Погар и близлежащие опасность по БПЛА и ФПВ \nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_112666",
-    "channel": "kupolrussia",
-    "date": "2026-08-11T05:32:00+00:00",
-    "text": "Погар и близлежащие опасность по БПЛА и ФПВ \nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_216823",
-    "channel": "LPRalarm",
-    "date": "2026-08-11T05:33:05+00:00",
-    "text": "Врубовка, Горское и близлежащие ЛНР тревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_81004",
     "channel": "vrv_radar",
     "date": "2026-08-11T05:33:12+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Краснодарский край",
     "lat": 44.7239578,
     "lon": 37.7690711
+  },
+  {
+    "id": "vrv_radar_81133",
+    "channel": "vrv_radar",
+    "date": "2026-08-12T03:17:23+00:00",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_79630",
+    "channel": "locatorru",
+    "date": "2026-08-12T03:17:38+00:00",
+    "text": "Смоленская область, Калужская область, Орловская область, Липецкая область, Воронежская область, Тульская область - опасность по БПЛА. \n\nМного летит от Брянской области, Курской области, Белгородской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_79631",
+    "channel": "locatorru",
+    "date": "2026-08-12T03:19:55+00:00",
+    "text": "Тамбовская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_81134",
+    "channel": "vrv_radar",
+    "date": "2026-08-12T03:20:00+00:00",
+    "text": "Тамбовская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_81135",
+    "channel": "vrv_radar",
+    "date": "2026-08-12T03:28:51+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_79632",
+    "channel": "locatorru",
+    "date": "2026-08-12T03:28:52+00:00",
+    "text": "Ростовская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
   }
 ]
