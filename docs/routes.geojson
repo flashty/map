@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-12T08:24:39+00:00",
+        "last_updated": "2026-08-12T08:56:17+00:00",
+        "path_labels": [
+          "Новороссийск",
+          "Бетта (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.7690711,
+            44.7239578
+          ],
+          [
+            38.3956135,
+            44.3728016
+          ]
+        ]
+      }
+    }
+  ]
 }
