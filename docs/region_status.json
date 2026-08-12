@@ -1,31 +1,21 @@
 {
   "крым": {
     "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Керчь и близлежащие\nтревога по БПЛА сохраняется\nРеспублика Крым",
+    "type": "missile",
+    "text": "Республика Крым \nСевастополь \nРакетная опасность",
     "channel": "LPRalarm",
-    "updated_at": "2026-08-12T00:36:14+00:00",
-    "expires_at": "2026-08-12T01:36:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Мариуполь\nтревога по БПЛА\nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-12T00:20:54+00:00",
-    "expires_at": "2026-08-12T01:20:54+00:00",
+    "updated_at": "2026-08-12T01:21:23+00:00",
+    "expires_at": "2026-08-12T02:21:23+00:00",
     "count": null,
     "count_approx": false
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Геленджик\nКраснодарский край\nПродолжается работа ПВО по БПЛА\nМеры безопасности!",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-12T01:13:33+00:00",
-    "expires_at": "2026-08-12T02:13:33+00:00",
+    "type": "missile",
+    "text": "Краснодарский край\nРеспублика Адыгея\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-12T01:31:05+00:00",
+    "expires_at": "2026-08-12T02:31:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +26,16 @@
     "channel": "locatorru",
     "updated_at": "2026-08-12T00:44:26+00:00",
     "expires_at": "2026-08-12T01:44:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "missile",
+    "text": "Краснодарский край\nРеспублика Адыгея\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-12T01:31:05+00:00",
+    "expires_at": "2026-08-12T02:31:05+00:00",
     "count": null,
     "count_approx": false
   }
