@@ -9,26 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "Наро-Фоминск, Кубинка, Тучково, Одинцово, Руза, Истра, Красногорск, Зеленоград, Клин, Дубна и близлежащие города и населённые пункты, Московская область - опасность по БПЛА сохраняется от Калужской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-13T01:48:06+00:00",
-    "expires_at": "2026-08-13T02:48:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "мордов": {
-    "display_name": "Республика Мордовия",
-    "type": "drone",
-    "text": "Республика Мордовия, Чувашская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-13T01:56:58+00:00",
-    "expires_at": "2026-08-13T02:56:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
@@ -46,16 +26,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-13T02:38:37+00:00",
     "expires_at": "2026-08-13T03:38:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "-": {
-    "display_name": "Республика -",
-    "type": "drone",
-    "text": "Республика Мордовия, Чувашская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-13T01:56:58+00:00",
-    "expires_at": "2026-08-13T02:56:58+00:00",
     "count": null,
     "count_approx": false
   },
@@ -79,23 +49,23 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-13T02:31:07+00:00",
-    "expires_at": "2026-08-13T03:31:07+00:00",
-    "count": null,
+  "самарск": {
+    "display_name": "Самарская область",
+    "type": "drone",
+    "text": "Кошкинский район\nСамарская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-13T02:52:22+00:00",
+    "expires_at": "2026-08-13T03:52:22+00:00",
+    "count": 2,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "missile",
-    "text": "Херсонская область РФ \nАвиационная ракетная бомбовая опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-13T02:31:38+00:00",
-    "expires_at": "2026-08-13T03:31:38+00:00",
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рязанская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-13T03:01:03+00:00",
+    "expires_at": "2026-08-13T04:01:03+00:00",
     "count": null,
     "count_approx": false
   }
