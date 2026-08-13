@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-13T09:19:31+00:00",
+        "last_updated": "2026-08-13T09:53:10+00:00",
+        "path_labels": [
+          "Ракитянский",
+          "Прохоровском"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.9006134,
+            50.8380326
+          ],
+          [
+            36.6748742,
+            51.0194109
+          ]
+        ]
+      }
+    }
+  ]
 }
