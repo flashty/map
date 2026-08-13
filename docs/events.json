@@ -1,82 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_13555",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-12T23:04:54+00:00",
-    "text": "Волгоград \nВолжский\n\nПриготовится к сбитиям БПЛА с 2:20.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_113667",
-    "channel": "kupolrussia",
-    "date": "2026-08-12T23:04:58+00:00",
-    "text": "Сельцо\nИ ближайшие \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_217996",
-    "channel": "LPRalarm",
-    "date": "2026-08-12T23:05:41+00:00",
-    "text": "Керченский полуостров \nКерчь\nКрымский мост \nПролив\nТаманский полуостров \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_113668",
-    "channel": "kupolrussia",
-    "date": "2026-08-12T23:05:46+00:00",
-    "text": "Керченский полуостров \nКерчь\nКрымский мост \nПролив\nТаманский полуостров \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_217997",
-    "channel": "LPRalarm",
-    "date": "2026-08-12T23:06:25+00:00",
-    "text": "Молодогвардейск и близлежащие\nТревога по БПЛА сохраняется\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_113669",
-    "channel": "kupolrussia",
-    "date": "2026-08-12T23:06:30+00:00",
-    "text": "Молодогвардейск и близлежащие\nТревога по БПЛА сохраняется\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_81354",
-    "channel": "vrv_radar",
-    "date": "2026-08-12T23:07:10+00:00",
-    "text": "Астраханская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Астраханская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_87435",
     "channel": "radarrussiia",
     "date": "2026-08-12T23:07:26+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_218517_Шахтерск",
+    "channel": "LPRalarm",
+    "date": "2026-08-13T20:54:52+00:00",
+    "text": "Шахтерск, Снежное, Ровеньки и близлежащие \nОпасность по ударным БПЛА, группа \nЛДНР",
+    "type": "drone",
+    "location_name": "Шахтерск",
+    "region": null,
+    "lat": 49.1592435,
+    "lon": 142.1070013
+  },
+  {
+    "id": "LPRalarm_218517_Снежное",
+    "channel": "LPRalarm",
+    "date": "2026-08-13T20:54:52+00:00",
+    "text": "Шахтерск, Снежное, Ровеньки и близлежащие \nОпасность по ударным БПЛА, группа \nЛДНР",
+    "type": "drone",
+    "location_name": "Снежное",
+    "region": null,
+    "lat": 56.5036175,
+    "lon": 57.1800699
+  },
+  {
+    "id": "locatorru_79948_Ершичи",
+    "channel": "locatorru",
+    "date": "2026-08-13T20:55:58+00:00",
+    "text": "Ершичи, Смоленская область - пролёт ещё 3 БПЛА Рославль, Смоленск. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Ершичи",
+    "region": "Смоленская область",
+    "lat": 53.673527,
+    "lon": 32.748249
+  },
+  {
+    "id": "locatorru_79949",
+    "channel": "locatorru",
+    "date": "2026-08-13T20:57:29+00:00",
+    "text": "Ещё 2, туда же. \n\n📡Локатор России - @locatorru",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_79950",
+    "channel": "locatorru",
+    "date": "2026-08-13T20:59:26+00:00",
+    "text": "И ещё 2 БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_218518",
+    "channel": "LPRalarm",
+    "date": "2026-08-13T21:00:47+00:00",
+    "text": "Гуково\nНовошахтинск\nДонецк Ростовский \nИ близлежащие\nТревога по БПЛА от ЛДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_114120",
+    "channel": "kupolrussia",
+    "date": "2026-08-13T21:01:16+00:00",
+    "text": "Гуково\nНовошахтинск\nДонецк Ростовский \nИ близлежащие\nТревога по БПЛА от ЛДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
