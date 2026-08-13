@@ -1,31 +1,11 @@
 {
-  "башкортост": {
-    "display_name": "Республика Башкортостан",
-    "type": "drone",
-    "text": "Калмашево, Чишминский район, Республика Башкортостан - пролёты БПЛА в сторону примерно Уфа.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-13T05:28:14+00:00",
-    "expires_at": "2026-08-13T06:28:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Троицкий район Лнр \nОпасность по БПЛА Хорнет",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-13T04:35:53+00:00",
-    "expires_at": "2026-08-13T05:35:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "оренбургск": {
-    "display_name": "Оренбургская область",
-    "type": "drone",
-    "text": "Орск, Оренбургская область - могут быть повторные фиксации БПЛА от Зиянчурино, Дубенский, Новониколаевка.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-13T05:00:57+00:00",
-    "expires_at": "2026-08-13T06:00:57+00:00",
+    "text": "Троицкое Лнр \nТревога по БПЛА Хорнет",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-13T05:38:08+00:00",
+    "expires_at": "2026-08-13T06:38:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,10 +52,10 @@
   "челябинск": {
     "display_name": "Челябинская область",
     "type": "drone",
-    "text": "Челябинская область - опасность по БПЛА от Республики Башкортостан. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-13T05:18:45+00:00",
-    "expires_at": "2026-08-13T06:18:45+00:00",
+    "text": "Челябинская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-13T05:36:44+00:00",
+    "expires_at": "2026-08-13T06:36:44+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,6 +96,16 @@
     "channel": "locatorru",
     "updated_at": "2026-08-13T05:29:29+00:00",
     "expires_at": "2026-08-13T06:29:29+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "башкортост": {
+    "display_name": "Республика Башкортостан",
+    "type": "drone",
+    "text": "Маркетплейс Чишмы, Республика Башкортостан - угроза атаки БПЛА.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-13T05:38:40+00:00",
+    "expires_at": "2026-08-13T06:38:40+00:00",
     "count": null,
     "count_approx": false
   }
