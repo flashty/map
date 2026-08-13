@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_81174",
-    "channel": "vrv_radar",
-    "date": "2026-08-12T06:00:07+00:00",
-    "text": "Вологодская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Вологодская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_217535",
-    "channel": "LPRalarm",
-    "date": "2026-08-12T06:02:02+00:00",
-    "text": "Отбой ракетной опасности\nБелгородская область",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_81175_Рязанский",
-    "channel": "vrv_radar",
-    "date": "2026-08-12T06:02:12+00:00",
-    "text": "Рязанский район\nРязанская область\nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Рязанский",
-    "region": "Рязанская область",
-    "lat": 54.6295687,
-    "lon": 39.7425039
-  },
-  {
     "id": "locatorru_79646",
     "channel": "locatorru",
     "date": "2026-08-12T06:02:13+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_87515",
+    "channel": "radarrussiia",
+    "date": "2026-08-13T03:02:52+00:00",
+    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_218076",
+    "channel": "LPRalarm",
+    "date": "2026-08-13T03:11:07+00:00",
+    "text": "Отбой опасности по БПЛА Крым и Севастополь \n\nРежим повышенного внимания сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_113728",
+    "channel": "kupolrussia",
+    "date": "2026-08-13T03:11:13+00:00",
+    "text": "Отбой опасности по БПЛА Крым и Севастополь \n\nРежим повышенного внимания сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
