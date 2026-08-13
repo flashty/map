@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_113575_Лисичанск",
-    "channel": "kupolrussia",
-    "date": "2026-08-12T20:00:57+00:00",
-    "text": "Лисичанск, Северодонецк - Старобельск - Счастье/Луганск и близлежащие, по пути следования \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Лисичанск",
-    "region": null,
-    "lat": 49.4425265,
-    "lon": 40.2125245
-  },
-  {
-    "id": "LPRalarm_217883",
-    "channel": "LPRalarm",
-    "date": "2026-08-12T20:01:21+00:00",
-    "text": "Бердянск и близлежащие тревога по БПЛА. Меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_113576",
-    "channel": "kupolrussia",
-    "date": "2026-08-12T20:01:54+00:00",
-    "text": "Бердянск и близлежащие тревога по БПЛА. Меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_81316_Тарасовский",
-    "channel": "vrv_radar",
-    "date": "2026-08-12T20:02:28+00:00",
-    "text": "Тарасовский район\nРостовская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Тарасовский",
-    "region": "Ростовская область",
-    "lat": 48.727145,
-    "lon": 40.3554416
-  },
-  {
-    "id": "LPRalarm_217884",
-    "channel": "LPRalarm",
-    "date": "2026-08-12T20:02:57+00:00",
-    "text": "Красногвардейский район опасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_113577",
     "channel": "kupolrussia",
     "date": "2026-08-12T20:03:06+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Нижегородская область",
     "lat": 55.2462042,
     "lon": 42.212527
+  },
+  {
+    "id": "radarrussiia_87592_Хохольский",
+    "channel": "radarrussiia",
+    "date": "2026-08-13T16:05:35+00:00",
+    "text": "Хохольский район\nВоронежская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Хохольский",
+    "region": "Воронежская область",
+    "lat": 51.5779217,
+    "lon": 38.7866515
+  },
+  {
+    "id": "vrv_radar_81556",
+    "channel": "vrv_radar",
+    "date": "2026-08-13T16:09:49+00:00",
+    "text": "Владимирская область\nИвановская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Владимирская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_81557",
+    "channel": "vrv_radar",
+    "date": "2026-08-13T16:13:56+00:00",
+    "text": "Ярославская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_218411",
+    "channel": "LPRalarm",
+    "date": "2026-08-13T16:15:06+00:00",
+    "text": "Донецк, Еленовка, Докучаевск ДНР и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_114036",
+    "channel": "kupolrussia",
+    "date": "2026-08-13T16:15:24+00:00",
+    "text": "Донецк, Еленовка, Докучаевск ДНР и близлежащие\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
   }
 ]
