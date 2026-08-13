@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Скопинский район\nРязанская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-13T03:29:43+00:00",
-    "expires_at": "2026-08-13T04:29:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ульяновск": {
     "display_name": "Ульяновская область",
     "type": "drone",
@@ -86,6 +76,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-13T04:07:17+00:00",
     "expires_at": "2026-08-13T05:07:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Трасса от Дебальцево на Байрачки\nДНР\nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-13T04:28:02+00:00",
+    "expires_at": "2026-08-13T05:28:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "башкортост": {
+    "display_name": "Республика Башкортостан",
+    "type": "drone",
+    "text": "Республика Башкортостан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-13T04:30:34+00:00",
+    "expires_at": "2026-08-13T05:30:34+00:00",
     "count": null,
     "count_approx": false
   }
