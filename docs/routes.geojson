@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-08-13T05:28:14+00:00",
-        "last_updated": "2026-08-13T05:55:19+00:00",
-        "path_labels": [
-          "Чишминский (Республика Башкортостан)",
-          "Уфа (Республика Башкортостан)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.3307355,
-            54.5331151
-          ],
-          [
-            55.947499,
-            54.7261409
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
