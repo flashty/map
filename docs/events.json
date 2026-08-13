@@ -1,38 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_13545",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-12T18:17:49+00:00",
-    "text": "🚨От 40 БПЛА в направлении Воронежской области и далее на Тамбовскую, Саратовскую области.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_217818",
-    "channel": "LPRalarm",
-    "date": "2026-08-12T18:21:41+00:00",
-    "text": "Шахтёрск, Торез, Снежное ДНР \nТревога по БПЛА, особое внимание на дорогах!",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_217819",
-    "channel": "LPRalarm",
-    "date": "2026-08-12T18:22:28+00:00",
-    "text": "Севастополь \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_113513",
     "channel": "kupolrussia",
     "date": "2026-08-12T18:23:09+00:00",
@@ -21998,5 +21965,38 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_218349",
+    "channel": "LPRalarm",
+    "date": "2026-08-13T12:29:31+00:00",
+    "text": "Сочи\nАдлер\nИ близлежащие\nТревога по БПЛА\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_113978_Сочи",
+    "channel": "kupolrussia",
+    "date": "2026-08-13T12:29:57+00:00",
+    "text": "Сочи\nАдлер\nИ близлежащие\nКраснодарский край\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Сочи",
+    "region": "Краснодарский край",
+    "lat": 43.5854823,
+    "lon": 39.723109
+  },
+  {
+    "id": "kupolrussia_113978_Адлер",
+    "channel": "kupolrussia",
+    "date": "2026-08-13T12:29:57+00:00",
+    "text": "Сочи\nАдлер\nИ близлежащие\nКраснодарский край\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Адлер",
+    "region": "Краснодарский край",
+    "lat": 43.4439715,
+    "lon": 39.9400928
   }
 ]
