@@ -1,49 +1,5 @@
 [
   {
-    "id": "radarrussiia_87404_Бутурлиновский",
-    "channel": "radarrussiia",
-    "date": "2026-08-12T19:18:37+00:00",
-    "text": "Бутурлиновский район\nКалачевский район\nВоронежская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Бутурлиновский",
-    "region": "Воронежская область",
-    "lat": 50.7920286,
-    "lon": 40.5642561
-  },
-  {
-    "id": "radarrussiia_87404_Калачевский",
-    "channel": "radarrussiia",
-    "date": "2026-08-12T19:18:37+00:00",
-    "text": "Бутурлиновский район\nКалачевский район\nВоронежская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Калачевский",
-    "region": "Воронежская область",
-    "lat": 50.4227353,
-    "lon": 40.9872103
-  },
-  {
-    "id": "kupolrussia_113542",
-    "channel": "kupolrussia",
-    "date": "2026-08-12T19:18:55+00:00",
-    "text": "Северодонецк\nЛисичанск\nИ близлежащие\nТревога по БПЛА\nИ далее в тыл",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_81310_Ольховатский",
-    "channel": "vrv_radar",
-    "date": "2026-08-12T19:19:01+00:00",
-    "text": "Ольховатский район\nРоссошанский район\nВоронежская область\nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Ольховатский",
-    "region": "Воронежская область",
-    "lat": 50.3121144,
-    "lon": 39.2495873
-  },
-  {
     "id": "vrv_radar_81310_Россошанский",
     "channel": "vrv_radar",
     "date": "2026-08-12T19:19:01+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_81540",
+    "channel": "vrv_radar",
+    "date": "2026-08-13T14:13:16+00:00",
+    "text": "Новороссийск и близлежащие \nКраснодарский край\nОтбой опасности по БПЛА \nОпасность на территории региона сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_87581",
+    "channel": "radarrussiia",
+    "date": "2026-08-13T14:14:36+00:00",
+    "text": "Новороссийск и близлежащие \nКраснодарский край\nОтбой опасности по БПЛА \nОпасность на территории региона сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_218383",
+    "channel": "LPRalarm",
+    "date": "2026-08-13T14:14:56+00:00",
+    "text": "Донецк, Макеевка ДНР и близлежащие \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_114010",
+    "channel": "kupolrussia",
+    "date": "2026-08-13T14:15:06+00:00",
+    "text": "Донецк, Макеевка ДНР и близлежащие \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
