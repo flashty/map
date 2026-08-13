@@ -1,14 +1,4 @@
 {
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Евпатория \nУютное\nВитино \nЗаозёрное и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-13T01:20:34+00:00",
-    "expires_at": "2026-08-13T02:20:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
@@ -29,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Республика Адыгея\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-13T01:22:10+00:00",
-    "expires_at": "2026-08-13T02:22:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ульяновск": {
     "display_name": "Ульяновская область",
     "type": "drone",
@@ -49,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "самарск": {
-    "display_name": "Самарской областей",
-    "type": "drone",
-    "text": "Республика Татарстан - опасность по БПЛА от Ульяновской и Самарской областей. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-13T01:26:47+00:00",
-    "expires_at": "2026-08-13T02:26:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
@@ -66,16 +36,6 @@
     "channel": "locatorru",
     "updated_at": "2026-08-13T01:48:06+00:00",
     "expires_at": "2026-08-13T02:48:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ставропольск": {
-    "display_name": "Ставропольский край",
-    "type": "drone",
-    "text": "Кочубеевское, Невинномысск, Ставропольский край - внимание по БПЛА от Армавира.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-13T01:21:42+00:00",
-    "expires_at": "2026-08-13T02:21:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,16 +66,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-13T01:34:14+00:00",
     "expires_at": "2026-08-13T02:34:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тверск": {
-    "display_name": "Тверская область",
-    "type": "drone",
-    "text": "Московская область \nТверская область \nПриготовиться к массовой волне БПЛА от Калужской области\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-13T01:24:24+00:00",
-    "expires_at": "2026-08-13T02:24:24+00:00",
     "count": null,
     "count_approx": false
   },
@@ -162,10 +112,20 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Сочи\nКраснодарский край\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Сочи\nКраснодарский край\nПродолжается работа ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-13T02:08:26+00:00",
-    "expires_at": "2026-08-13T03:08:26+00:00",
+    "updated_at": "2026-08-13T02:29:58+00:00",
+    "expires_at": "2026-08-13T03:29:58+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "missile",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-13T02:31:07+00:00",
+    "expires_at": "2026-08-13T03:31:07+00:00",
     "count": null,
     "count_approx": false
   }
