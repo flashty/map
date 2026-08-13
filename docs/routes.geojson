@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-13T17:56:01+00:00",
+        "last_updated": "2026-08-13T18:09:57+00:00",
+        "path_labels": [
+          "Трубчевск (Брянская область)",
+          "Новенькое (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.767467,
+            52.5835
+          ],
+          [
+            33.8279692,
+            52.3899453
+          ]
+        ]
+      }
+    }
+  ]
 }
