@@ -1,104 +1,5 @@
 [
   {
-    "id": "locatorru_79646",
-    "channel": "locatorru",
-    "date": "2026-08-12T06:02:13+00:00",
-    "text": "Вологодская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Вологодская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_217536",
-    "channel": "LPRalarm",
-    "date": "2026-08-12T06:02:21+00:00",
-    "text": "Белгород \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_87311",
-    "channel": "radarrussiia",
-    "date": "2026-08-12T06:02:22+00:00",
-    "text": "Вологодская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Вологодская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_87312_Рязанский",
-    "channel": "radarrussiia",
-    "date": "2026-08-12T06:02:44+00:00",
-    "text": "Рязанский район\nРязанская область\nСбитие БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": "Рязанский",
-    "region": "Рязанская область",
-    "lat": 54.6295687,
-    "lon": 39.7425039
-  },
-  {
-    "id": "vrv_radar_81176_Вачский",
-    "channel": "vrv_radar",
-    "date": "2026-08-12T06:03:18+00:00",
-    "text": "Вачский район\nНижегородская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Вачский",
-    "region": "Нижегородская область",
-    "lat": 55.8023843,
-    "lon": 42.6418968
-  },
-  {
-    "id": "vrv_radar_81177_Сосновский",
-    "channel": "vrv_radar",
-    "date": "2026-08-12T06:03:52+00:00",
-    "text": "Сосновский район\nНижегородская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Сосновский",
-    "region": "Нижегородская область",
-    "lat": 55.7431953,
-    "lon": 43.2628977
-  },
-  {
-    "id": "LPRalarm_217537",
-    "channel": "LPRalarm",
-    "date": "2026-08-12T06:03:54+00:00",
-    "text": "В направлении Миллерово с запада возможно МВШ со сбросами ФПВ, БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_81178_Ардатовский",
-    "channel": "vrv_radar",
-    "date": "2026-08-12T06:04:13+00:00",
-    "text": "Ардатовский район\nНижегородская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Ардатовский",
-    "region": "Нижегородская область",
-    "lat": 55.329637,
-    "lon": 43.1582672
-  },
-  {
-    "id": "kupolrussia_113243",
-    "channel": "kupolrussia",
-    "date": "2026-08-12T06:04:14+00:00",
-    "text": "В направлении Миллерово с запада возможно МВШ со сбросами ФПВ, БПЛА\nРостовская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_81179_Вознесенский",
     "channel": "vrv_radar",
     "date": "2026-08-12T06:04:36+00:00",
@@ -21996,6 +21897,105 @@
     "type": "all_clear",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_81443",
+    "channel": "vrv_radar",
+    "date": "2026-08-13T03:18:04+00:00",
+    "text": "Республика Башкортостан\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_113730_Кировский",
+    "channel": "kupolrussia",
+    "date": "2026-08-13T03:18:33+00:00",
+    "text": "Феодосия, Ленинский, Кировский район отбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": "Кировский",
+    "region": null,
+    "lat": 51.298489,
+    "lon": 36.685303
+  },
+  {
+    "id": "kupolrussia_113730_Феодосия",
+    "channel": "kupolrussia",
+    "date": "2026-08-13T03:18:33+00:00",
+    "text": "Феодосия, Ленинский, Кировский район отбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": "Феодосия",
+    "region": null,
+    "lat": 51.7088258,
+    "lon": 36.1164524
+  },
+  {
+    "id": "kupolrussia_113730_Ленинский",
+    "channel": "kupolrussia",
+    "date": "2026-08-13T03:18:33+00:00",
+    "text": "Феодосия, Ленинский, Кировский район отбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": "Ленинский",
+    "region": null,
+    "lat": 56.0736587,
+    "lon": 46.2661214
+  },
+  {
+    "id": "radar_plus_bpla_13565",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-13T03:18:33+00:00",
+    "text": "Республика Башкортостан - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_81444",
+    "channel": "vrv_radar",
+    "date": "2026-08-13T03:25:38+00:00",
+    "text": "Саратовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_81445_Михайловский",
+    "channel": "vrv_radar",
+    "date": "2026-08-13T03:29:21+00:00",
+    "text": "Михайловский район\nРязанская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Михайловский",
+    "region": "Рязанская область",
+    "lat": 54.2303577,
+    "lon": 39.0202073
+  },
+  {
+    "id": "vrv_radar_81446_Скопинский",
+    "channel": "vrv_radar",
+    "date": "2026-08-13T03:29:43+00:00",
+    "text": "Скопинский район\nРязанская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Скопинский",
+    "region": "Рязанская область",
+    "lat": 54.6221937,
+    "lon": 39.7586495
+  },
+  {
+    "id": "vrv_radar_81447",
+    "channel": "vrv_radar",
+    "date": "2026-08-13T03:30:37+00:00",
+    "text": "Черлаклинский район\nУльяновская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ульяновская область",
     "lat": null,
     "lon": null
   }
