@@ -1,14 +1,4 @@
 {
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Мценский район\nБолховский район\nОрловский район\nМалоархангельский район\nОрловская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-13T01:39:21+00:00",
-    "expires_at": "2026-08-13T02:39:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
@@ -16,16 +6,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-13T02:06:13+00:00",
     "expires_at": "2026-08-13T03:06:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "Барышский район\nИнзенский район\nУльяновская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-13T01:33:42+00:00",
-    "expires_at": "2026-08-13T02:33:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,43 +29,23 @@
     "count": null,
     "count_approx": false
   },
-  "чуваш": {
-    "display_name": "Республика Чувашия",
-    "type": "drone",
-    "text": "Республика Чувашия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-13T01:35:59+00:00",
-    "expires_at": "2026-08-13T02:35:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Республика Татарстан\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-13T01:34:14+00:00",
-    "expires_at": "2026-08-13T02:34:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "саратовск": {
-    "display_name": "Саратовская область",
-    "type": "drone",
-    "text": "Краснокутский район \nСаратовская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Бугульма и близлежащие\nКазань и близлежащие\nНижнекамск и близлежащие\nРеспублика Татарстан\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-13T01:39:45+00:00",
-    "expires_at": "2026-08-13T02:39:45+00:00",
+    "updated_at": "2026-08-13T02:33:29+00:00",
+    "expires_at": "2026-08-13T03:33:29+00:00",
     "count": null,
     "count_approx": false
   },
   "белгородск": {
-    "display_name": "Белгородская область",
+    "display_name": "Белгородской области",
     "type": "drone",
-    "text": "г.Белгород и район, Белгородская область - не попадите под атаку БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-13T01:39:38+00:00",
-    "expires_at": "2026-08-13T02:39:38+00:00",
+    "text": "Зиборовка, Белгородской области опасность по БПЛА Лелека",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-13T02:38:37+00:00",
+    "expires_at": "2026-08-13T03:38:37+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +86,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-13T02:31:07+00:00",
     "expires_at": "2026-08-13T03:31:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "missile",
+    "text": "Херсонская область РФ \nАвиационная ракетная бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-13T02:31:38+00:00",
+    "expires_at": "2026-08-13T03:31:38+00:00",
     "count": null,
     "count_approx": false
   }
