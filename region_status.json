@@ -22,20 +22,20 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Новороссийск, Геленджик, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-14T12:43:56+00:00",
-    "expires_at": "2026-08-14T13:43:56+00:00",
+    "text": "Геленджик и близлежащие\nКраснодарский край\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T12:58:43+00:00",
+    "expires_at": "2026-08-14T13:58:43+00:00",
     "count": null,
     "count_approx": false
   },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Симферополь и близлежащие \nРеспублика Крым \nС юго-запада фиксации БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-14T12:41:17+00:00",
-    "expires_at": "2026-08-14T13:41:17+00:00",
+    "text": "Ленинский район \nУварово \nЛуговое и близлежащие \nТревога по БПЛА \nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-14T12:50:39+00:00",
+    "expires_at": "2026-08-14T13:50:39+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,23 +49,63 @@
     "count": null,
     "count_approx": false
   },
-  "николаевск": {
-    "display_name": "Николаевская область",
-    "type": "drone",
-    "text": "Николаевская область в направлении Каховка, Новая Каховка запуски БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-14T11:56:11+00:00",
-    "expires_at": "2026-08-14T12:56:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Тульская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-14T12:10:34+00:00",
-    "expires_at": "2026-08-14T13:10:34+00:00",
+    "text": "Алексин\nТульская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T12:58:24+00:00",
+    "expires_at": "2026-08-14T13:58:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "drone",
+    "text": "Владимирская область\nИвановская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T12:55:03+00:00",
+    "expires_at": "2026-08-14T13:55:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ивановск": {
+    "display_name": "Ивановская область",
+    "type": "drone",
+    "text": "Владимирская область\nИвановская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T12:55:03+00:00",
+    "expires_at": "2026-08-14T13:55:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Троицкое ЛНР\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-14T12:56:43+00:00",
+    "expires_at": "2026-08-14T13:56:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ярославск": {
+    "display_name": "Ярославская область",
+    "type": "drone",
+    "text": "Ярославская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T12:59:34+00:00",
+    "expires_at": "2026-08-14T13:59:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Белянка \nШебекинский район \nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-14T13:01:00+00:00",
+    "expires_at": "2026-08-14T14:01:00+00:00",
     "count": null,
     "count_approx": false
   }
