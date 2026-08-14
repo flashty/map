@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Мелитополь с запада, \nАкимовский район \nИ далее на юг опасность по БПЛА \n\nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-14T03:49:56+00:00",
-    "expires_at": "2026-08-14T04:49:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -52,10 +42,20 @@
   "марий": {
     "display_name": "Республика Марий",
     "type": "drone",
-    "text": "Республика Марий Эл - опасность по БПЛА от Нижегородской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-14T04:40:55+00:00",
-    "expires_at": "2026-08-14T05:40:55+00:00",
+    "text": "Республика Марий Эл\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T05:00:18+00:00",
+    "expires_at": "2026-08-14T06:00:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Донецк, Ясиноватая, Макеевка ДНР и близлежащие\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-14T05:00:46+00:00",
+    "expires_at": "2026-08-14T06:00:46+00:00",
     "count": null,
     "count_approx": false
   }
