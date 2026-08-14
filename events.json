@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_114041_Кача",
-    "channel": "kupolrussia",
-    "date": "2026-08-13T17:00:58+00:00",
-    "text": "Кача\nБельбек \nСевастополь \nЮБК от Севастополь\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Кача",
-    "region": null,
-    "lat": 56.1972669,
-    "lon": 92.5363666
-  },
-  {
-    "id": "kupolrussia_114041_Севастополь",
-    "channel": "kupolrussia",
-    "date": "2026-08-13T17:00:58+00:00",
-    "text": "Кача\nБельбек \nСевастополь \nЮБК от Севастополь\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
-    "id": "radarrussiia_87599",
-    "channel": "radarrussiia",
-    "date": "2026-08-13T17:04:29+00:00",
-    "text": "Сириус и близлежащие \nКраснодарский край\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_79872",
-    "channel": "locatorru",
-    "date": "2026-08-13T17:07:10+00:00",
-    "text": "Московская область, Рязанская область, Липецкая область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_81567",
-    "channel": "vrv_radar",
-    "date": "2026-08-13T17:07:25+00:00",
-    "text": "Рязанская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_218417_Красноперекопский",
-    "channel": "LPRalarm",
-    "date": "2026-08-13T17:12:15+00:00",
-    "text": "Скадовский район \nЧаплынкий район\nКрасноперекопский район \nРаздольненский район с моря\n\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Красноперекопский",
-    "region": null,
-    "lat": 57.5794386,
-    "lon": 39.8183464
-  },
-  {
     "id": "LPRalarm_218417_Раздольненский",
     "channel": "LPRalarm",
     "date": "2026-08-13T17:12:15+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_218865",
+    "channel": "LPRalarm",
+    "date": "2026-08-14T12:09:50+00:00",
+    "text": "ЮБК от Форос и далее на восток\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_114431",
+    "channel": "kupolrussia",
+    "date": "2026-08-14T12:10:11+00:00",
+    "text": "ЮБК от Форос и далее на восток\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_80122",
+    "channel": "locatorru",
+    "date": "2026-08-14T12:10:34+00:00",
+    "text": "Тульская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_218866",
+    "channel": "LPRalarm",
+    "date": "2026-08-14T12:11:39+00:00",
+    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_114432",
+    "channel": "kupolrussia",
+    "date": "2026-08-14T12:11:49+00:00",
+    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_80123",
+    "channel": "locatorru",
+    "date": "2026-08-14T12:12:39+00:00",
+    "text": "От Курского района, пролёты БПЛА в сторону Орловской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловской области",
     "lat": null,
     "lon": null
   }
