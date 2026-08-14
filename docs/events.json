@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_114093",
-    "channel": "kupolrussia",
-    "date": "2026-08-13T19:49:59+00:00",
-    "text": "ЛНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_218475_Выгоничский",
-    "channel": "LPRalarm",
-    "date": "2026-08-13T19:52:33+00:00",
-    "text": "Выгоничский район\nТревога по БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": "Выгоничский",
-    "region": "Брянская область",
-    "lat": 53.0368833,
-    "lon": 33.970228
-  },
-  {
-    "id": "kupolrussia_114094_Выгоничский",
-    "channel": "kupolrussia",
-    "date": "2026-08-13T19:53:00+00:00",
-    "text": "Выгоничский район\nБрянская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Выгоничский",
-    "region": "Брянская область",
-    "lat": 53.0368833,
-    "lon": 33.970228
-  },
-  {
-    "id": "locatorru_79914_Глаженка",
-    "channel": "locatorru",
-    "date": "2026-08-13T19:53:23+00:00",
-    "text": "Глаженка, Брянская область - пролёт БПЛА на север.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Глаженка",
-    "region": "Брянская область",
-    "lat": 53.375313,
-    "lon": 34.158607
-  },
-  {
-    "id": "vrv_radar_81584_Ершичский",
-    "channel": "vrv_radar",
-    "date": "2026-08-13T19:53:37+00:00",
-    "text": "Ершичский район\nСмоленская область\nФиксация от 3 БПЛА",
-    "type": "drone",
-    "location_name": "Ершичский",
-    "region": "Смоленская область",
-    "lat": 53.6046499,
-    "lon": 32.6901656
-  },
-  {
-    "id": "locatorru_79915_Дзержинский",
-    "channel": "locatorru",
-    "date": "2026-08-13T19:54:10+00:00",
-    "text": "Пятовский, Дзержинский район, Калужская область - пролёт БПЛА в сторону Малоярославец.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Дзержинский",
-    "region": "Калужская область",
-    "lat": 54.7265502,
-    "lon": 35.8404475
-  },
-  {
     "id": "locatorru_79915_Пятовский",
     "channel": "locatorru",
     "date": "2026-08-13T19:54:10+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_218940",
+    "channel": "LPRalarm",
+    "date": "2026-08-14T15:32:50+00:00",
+    "text": "Харцызск ДНР в направлении Иловайск БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_114505",
+    "channel": "kupolrussia",
+    "date": "2026-08-14T15:32:58+00:00",
+    "text": "Харцызск ДНР в направлении Иловайск БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_218941_Джанкойский",
+    "channel": "LPRalarm",
+    "date": "2026-08-14T15:34:14+00:00",
+    "text": "Джанкойский район от Целинное и далее на восток тревога по БПЛА",
+    "type": "drone",
+    "location_name": "Джанкойский",
+    "region": null,
+    "lat": 55.5394245,
+    "lon": 37.5744389
+  },
+  {
+    "id": "kupolrussia_114506",
+    "channel": "kupolrussia",
+    "date": "2026-08-14T15:34:39+00:00",
+    "text": "Джанкойский район\nот Целинное и далее на восток \nРеспублика Крым\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_218942",
+    "channel": "LPRalarm",
+    "date": "2026-08-14T15:42:57+00:00",
+    "text": "РСЗО на Суземку",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_114507",
+    "channel": "kupolrussia",
+    "date": "2026-08-14T15:43:05+00:00",
+    "text": "РСЗО на Суземку\nБрянская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
