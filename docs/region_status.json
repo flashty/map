@@ -39,26 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Калужская область \nСмоленская область \nТревога по БПЛА от Брянской области\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-14T09:40:30+00:00",
-    "expires_at": "2026-08-14T10:40:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Липецкая область \nОпасность по БПЛА от Курской области",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-14T09:34:19+00:00",
-    "expires_at": "2026-08-14T10:34:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -76,6 +56,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-14T10:21:37+00:00",
     "expires_at": "2026-08-14T11:21:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "От Антрацит в сторону Ровеньков\nЛНР\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-14T10:37:02+00:00",
+    "expires_at": "2026-08-14T11:37:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "1-е, 2-е Мальцево, Курская область - пролёты БПЛА в сторону г.Курск и района. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-14T10:38:32+00:00",
+    "expires_at": "2026-08-14T11:38:32+00:00",
     "count": null,
     "count_approx": false
   }
