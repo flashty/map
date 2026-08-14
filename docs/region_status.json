@@ -22,10 +22,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Краснодар\nТихорецк\nАрмавир\nИ близлежащие\nТревога по БПЛА\nКраснодарский край",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-14T02:15:30+00:00",
-    "expires_at": "2026-08-14T03:15:30+00:00",
+    "text": "Ачуево и далее на Славянск на Кубани\nТревога по БПЛА\nКраснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-14T02:25:10+00:00",
+    "expires_at": "2026-08-14T03:25:10+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,11 +72,11 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Козельский район\nМосальский район\nКалужская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Ульяновский район\nМещовский район\nКалужская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-14T01:32:50+00:00",
-    "expires_at": "2026-08-14T02:32:50+00:00",
-    "count": 2,
+    "updated_at": "2026-08-14T02:17:14+00:00",
+    "expires_at": "2026-08-14T03:17:14+00:00",
+    "count": null,
     "count_approx": false
   },
   "ивановск": {
@@ -89,23 +89,13 @@
     "count": null,
     "count_approx": false
   },
-  "ярославск": {
-    "display_name": "Ярославская область",
-    "type": "drone",
-    "text": "Ростовский район\nЯрославская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T01:16:51+00:00",
-    "expires_at": "2026-08-14T02:16:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "костромск": {
     "display_name": "Костромская область",
     "type": "drone",
-    "text": "Костромская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Нерехтский район\nКостромская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-14T01:37:00+00:00",
-    "expires_at": "2026-08-14T02:37:00+00:00",
+    "updated_at": "2026-08-14T02:18:39+00:00",
+    "expires_at": "2026-08-14T03:18:39+00:00",
     "count": null,
     "count_approx": false
   },
@@ -122,10 +112,10 @@
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
-    "text": "Жарковский район\nТверская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Бологовский район\nТверская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-14T01:39:48+00:00",
-    "expires_at": "2026-08-14T02:39:48+00:00",
+    "updated_at": "2026-08-14T02:20:48+00:00",
+    "expires_at": "2026-08-14T03:20:48+00:00",
     "count": null,
     "count_approx": false
   },
@@ -166,6 +156,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-14T01:57:05+00:00",
     "expires_at": "2026-08-14T02:57:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тамбовск": {
+    "display_name": "Тамбовская область",
+    "type": "drone",
+    "text": "Тамбовский район\nТамбовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T02:17:54+00:00",
+    "expires_at": "2026-08-14T03:17:54+00:00",
     "count": null,
     "count_approx": false
   }
