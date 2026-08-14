@@ -49,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Миллеровский район, Чертковский район, Тарасовский район, Верхнедонской район, Кашарский район, Шолоховский район, Боковский район, Милютинский район, Ростовская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-14T20:54:50+00:00",
-    "expires_at": "2026-08-14T21:54:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "missile",
@@ -92,10 +82,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Керченский полуостров \nТревога по БПЛА\nРеспублика Крым",
+    "text": "Северо-западная часть Крыма\nТревога по БПЛА с моря\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-14T21:26:51+00:00",
-    "expires_at": "2026-08-14T22:26:51+00:00",
+    "updated_at": "2026-08-14T21:50:46+00:00",
+    "expires_at": "2026-08-14T22:50:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -169,16 +159,6 @@
     "count": null,
     "count_approx": false
   },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Пронский район\nРязанская область\nВ вашем направлении группа БПЛА от Скопинского района",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-14T21:40:38+00:00",
-    "expires_at": "2026-08-14T22:40:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
@@ -189,16 +169,6 @@
     "count": null,
     "count_approx": false
   },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "alert",
-    "text": "ГО Подольск\nМосковская область\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-14T21:41:11+00:00",
-    "expires_at": "2026-08-14T22:41:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
@@ -206,6 +176,36 @@
     "channel": "locatorru",
     "updated_at": "2026-08-14T21:43:36+00:00",
     "expires_at": "2026-08-14T22:43:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "вологодск": {
+    "display_name": "Вологодская область",
+    "type": "drone",
+    "text": "Вологодская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T21:53:22+00:00",
+    "expires_at": "2026-08-14T22:53:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Тверская область, Вологодская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-14T21:51:52+00:00",
+    "expires_at": "2026-08-14T22:51:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Бронницы\nМосковская область\nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-14T21:56:25+00:00",
+    "expires_at": "2026-08-14T22:56:25+00:00",
     "count": null,
     "count_approx": false
   }
