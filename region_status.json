@@ -19,26 +19,6 @@
     "count": 3,
     "count_approx": false
   },
-  "ростовск": {
-    "display_name": "Ростовской области",
-    "type": "drone",
-    "text": "Краснодон и далее на Донецк\nРостовской области еще фиксации БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-14T00:23:12+00:00",
-    "expires_at": "2026-08-14T01:23:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Кировское и близлежащие\nТревога по БПЛА остаётся в действии\nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-14T00:21:21+00:00",
-    "expires_at": "2026-08-14T01:21:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ленинградск": {
     "display_name": "Ленинградская область",
     "type": "drone",
@@ -61,11 +41,11 @@
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "alert",
-    "text": "Экстренная информация РСЧС: БЕСПИЛОТНАЯ ОПАСНОСТЬ на территории муниципальных образований: Апшеронский, Белореченский, Горячий ключ, Динский, Кореновский, Краснодар, Туапсинский, Усть-Лабинский  районы. \nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-14T01:12:14+00:00",
-    "expires_at": "2026-08-14T02:12:14+00:00",
+    "type": "drone",
+    "text": "Туапсе и близлежащие\nКраснодарский край\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-14T01:22:53+00:00",
+    "expires_at": "2026-08-14T02:22:53+00:00",
     "count": null,
     "count_approx": false
   },
@@ -82,10 +62,10 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Дубна\nМосковская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "ГО Подольск\nГО Ступино\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-14T00:26:35+00:00",
-    "expires_at": "2026-08-14T01:26:35+00:00",
+    "updated_at": "2026-08-14T01:28:40+00:00",
+    "expires_at": "2026-08-14T02:28:40+00:00",
     "count": null,
     "count_approx": false
   },
@@ -112,11 +92,11 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Кировский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T01:13:46+00:00",
-    "expires_at": "2026-08-14T02:13:46+00:00",
-    "count": null,
+    "text": "Козельский район\nКалужская область \nФиксация от 3 БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-14T01:30:42+00:00",
+    "expires_at": "2026-08-14T02:30:42+00:00",
+    "count": 3,
     "count_approx": false
   },
   "тамбовск": {
@@ -156,6 +136,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-14T01:12:16+00:00",
     "expires_at": "2026-08-14T02:12:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ярославск": {
+    "display_name": "Ярославская область",
+    "type": "drone",
+    "text": "Ростовский район\nЯрославская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T01:16:51+00:00",
+    "expires_at": "2026-08-14T02:16:51+00:00",
     "count": null,
     "count_approx": false
   }
