@@ -1,93 +1,5 @@
 [
   {
-    "id": "locatorru_80058",
-    "channel": "locatorru",
-    "date": "2026-08-14T03:49:38+00:00",
-    "text": "Псковская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Псковская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114202",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T03:49:56+00:00",
-    "text": "Мелитополь с запада, \nАкимовский район \nИ далее на юг опасность по БПЛА \n\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114201_Шебекинский",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T03:49:56+00:00",
-    "text": "Вознесеновка и близлежащие \nШебекинский район \nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "vrv_radar_81780",
-    "channel": "vrv_radar",
-    "date": "2026-08-14T03:52:13+00:00",
-    "text": "Псковская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Псковская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_218617",
-    "channel": "LPRalarm",
-    "date": "2026-08-14T03:52:23+00:00",
-    "text": "Шебекино\nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114203",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T03:57:47+00:00",
-    "text": "Ленинградская область\nСанкт-Петербург",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Ленинградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_218618",
-    "channel": "LPRalarm",
-    "date": "2026-08-14T03:57:56+00:00",
-    "text": "Ленинградская область\nСанкт-Петербург",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Ленинградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_80059_Мулино",
-    "channel": "locatorru",
-    "date": "2026-08-14T03:58:57+00:00",
-    "text": "Мулино, Дзержинск, Кстово, Нижний Новгород, Нижегородская область - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Мулино",
-    "region": "Нижегородская область",
-    "lat": 56.314163,
-    "lon": 42.951706
-  },
-  {
     "id": "locatorru_80059_Дзержинск",
     "channel": "locatorru",
     "date": "2026-08-14T03:58:57+00:00",
@@ -21996,6 +21908,94 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82054",
+    "channel": "vrv_radar",
+    "date": "2026-08-14T23:01:53+00:00",
+    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_114686",
+    "channel": "kupolrussia",
+    "date": "2026-08-14T23:02:56+00:00",
+    "text": "Туапсе\nСочи\nопасность по БПЛА\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219131",
+    "channel": "LPRalarm",
+    "date": "2026-08-14T23:02:58+00:00",
+    "text": "Туапсе\nСочи\nопасность по БПЛА\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_114687",
+    "channel": "kupolrussia",
+    "date": "2026-08-14T23:03:50+00:00",
+    "text": "От Сак до Севастополя \nпо побережью\nмногочисленные фиксации БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219132",
+    "channel": "LPRalarm",
+    "date": "2026-08-14T23:03:51+00:00",
+    "text": "От Сак до Севастополя \nпо побережью\nмногочисленные фиксации БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_87947",
+    "channel": "radarrussiia",
+    "date": "2026-08-14T23:03:54+00:00",
+    "text": "Туапсе\nСочи\nопасность по БПЛА\nКраснодарский край\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_114688",
+    "channel": "kupolrussia",
+    "date": "2026-08-14T23:04:50+00:00",
+    "text": "От Маловидное/Бахчисарай по тавриде в сторону Севастополя наблюдаются фиксации БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219133",
+    "channel": "LPRalarm",
+    "date": "2026-08-14T23:04:52+00:00",
+    "text": "От Маловидное/Бахчисарай по тавриде в сторону Севастополя наблюдаются фиксации БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
