@@ -22,10 +22,10 @@
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Воронежская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-14T18:05:14+00:00",
-    "expires_at": "2026-08-14T19:05:14+00:00",
+    "text": "Кантемировский район \nВоронежская область \nТревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-14T18:31:01+00:00",
+    "expires_at": "2026-08-14T19:31:01+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,30 +52,30 @@
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
-    "text": "Белгородская область \nБрянская область \nКурская область \nОрловская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "text": "Вейделеевский район фиксации БПЛА на Воронеж\nБелгородская область",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-14T17:48:47+00:00",
-    "expires_at": "2026-08-14T18:48:47+00:00",
+    "updated_at": "2026-08-14T18:29:18+00:00",
+    "expires_at": "2026-08-14T19:29:18+00:00",
     "count": null,
     "count_approx": false
   },
   "орловск": {
     "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Залегощенский район\nДмитровский район\nТроснянский район\nОрловская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T18:13:58+00:00",
-    "expires_at": "2026-08-14T19:13:58+00:00",
+    "type": "alert",
+    "text": "Орел\nОрловская область\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-14T18:30:13+00:00",
+    "expires_at": "2026-08-14T19:30:13+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
     "type": "alert",
-    "text": "Алексин\nТульская область\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-14T18:13:16+00:00",
-    "expires_at": "2026-08-14T19:13:16+00:00",
+    "text": "Алексин\nТульская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T18:15:56+00:00",
+    "expires_at": "2026-08-14T19:15:56+00:00",
     "count": null,
     "count_approx": false
   },
@@ -146,6 +146,36 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-08-14T18:05:52+00:00",
     "expires_at": "2026-08-14T19:05:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "ЛНР\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-14T18:26:01+00:00",
+    "expires_at": "2026-08-14T19:26:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Ростовская область \nВоронежская область \nОпасность по БПЛА от ЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-14T18:20:01+00:00",
+    "expires_at": "2026-08-14T19:20:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Пантелеймоновка, Енакиево, Юнком ДНР и близлежащие \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-14T18:20:09+00:00",
+    "expires_at": "2026-08-14T19:20:09+00:00",
     "count": null,
     "count_approx": false
   }
