@@ -1,14 +1,4 @@
 {
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "missile",
-    "text": "Тульская область \nРязанская область \nОрловская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T14:16:52+00:00",
-    "expires_at": "2026-08-14T15:16:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "missile",
@@ -51,11 +41,11 @@
   },
   "московск": {
     "display_name": "Московская область",
-    "type": "missile",
-    "text": "Ракетная тревога \n\nБрянская область \nКалужская область \nМосковская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-14T14:10:47+00:00",
-    "expires_at": "2026-08-14T15:10:47+00:00",
+    "type": "alert",
+    "text": "ГО Подольск и близлежащие\nМосковская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T14:28:53+00:00",
+    "expires_at": "2026-08-14T15:28:53+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +96,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-14T14:16:52+00:00",
     "expires_at": "2026-08-14T15:16:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Луганск и близлежащие \nОпасность по БПЛА Хорнет \nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-14T14:21:52+00:00",
+    "expires_at": "2026-08-14T15:21:52+00:00",
     "count": null,
     "count_approx": false
   }
