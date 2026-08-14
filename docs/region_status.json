@@ -22,10 +22,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Туапсе и близлежащие\nКраснодарский край\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-14T01:22:53+00:00",
-    "expires_at": "2026-08-14T02:22:53+00:00",
+    "text": "Краснодар\nТихорецк\nАрмавир\nИ близлежащие\nТревога по БПЛА\nКраснодарский край",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-14T02:15:30+00:00",
+    "expires_at": "2026-08-14T03:15:30+00:00",
     "count": null,
     "count_approx": false
   },
@@ -42,11 +42,11 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Наро-Фоминск\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "ГО Чехов\nМосковская область\nФиксация от 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-14T01:57:20+00:00",
-    "expires_at": "2026-08-14T02:57:20+00:00",
-    "count": null,
+    "updated_at": "2026-08-14T02:13:40+00:00",
+    "expires_at": "2026-08-14T03:13:40+00:00",
+    "count": 3,
     "count_approx": false
   },
   "липецк": {
@@ -62,11 +62,11 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Плавский район\nТульская область\nФиксация от 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Белёвский район\nТульская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-14T01:58:27+00:00",
-    "expires_at": "2026-08-14T02:58:27+00:00",
-    "count": 3,
+    "updated_at": "2026-08-14T02:15:56+00:00",
+    "expires_at": "2026-08-14T03:15:56+00:00",
+    "count": null,
     "count_approx": false
   },
   "калужск": {
@@ -79,26 +79,6 @@
     "count": 2,
     "count_approx": false
   },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Тамбовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T01:06:32+00:00",
-    "expires_at": "2026-08-14T02:06:32+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "нижегородск": {
-    "display_name": "Нижегородская область",
-    "type": "drone",
-    "text": "Нижегородская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T01:10:46+00:00",
-    "expires_at": "2026-08-14T02:10:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ивановск": {
     "display_name": "Ивановская область",
     "type": "drone",
@@ -106,16 +86,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-14T01:36:43+00:00",
     "expires_at": "2026-08-14T02:36:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "владимирск": {
-    "display_name": "Владимирская область",
-    "type": "drone",
-    "text": "Ивановская область \nВладимирская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T01:12:16+00:00",
-    "expires_at": "2026-08-14T02:12:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -172,10 +142,10 @@
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Скопинский район\nРязанская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-14T01:54:55+00:00",
-    "expires_at": "2026-08-14T02:54:55+00:00",
+    "updated_at": "2026-08-14T02:10:31+00:00",
+    "expires_at": "2026-08-14T03:10:31+00:00",
     "count": null,
     "count_approx": false
   },
