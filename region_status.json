@@ -2,10 +2,10 @@
   "нижегородск": {
     "display_name": "Нижегородская область",
     "type": "drone",
-    "text": "Нижегородская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-14T05:07:18+00:00",
-    "expires_at": "2026-08-14T06:07:18+00:00",
+    "text": "Сява, Нижегородская область - пролёты БПЛА в сторону Кировской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-14T05:30:19+00:00",
+    "expires_at": "2026-08-14T06:30:19+00:00",
     "count": null,
     "count_approx": false
   },
@@ -22,20 +22,20 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Горское и близлежащие\nЛНР\nОпасность по БПЛА Хорнет",
+    "text": "Камышеваха, Попасная, Горское\nЛНР\nОпасность по БПЛА Хорнет",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-14T04:35:01+00:00",
-    "expires_at": "2026-08-14T05:35:01+00:00",
+    "updated_at": "2026-08-14T05:29:04+00:00",
+    "expires_at": "2026-08-14T06:29:04+00:00",
     "count": null,
     "count_approx": false
   },
   "марий": {
     "display_name": "Республика Марий",
     "type": "drone",
-    "text": "Республика Марий Эл\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T05:00:18+00:00",
-    "expires_at": "2026-08-14T06:00:18+00:00",
+    "text": "Республика Марий Эл - опасность по БПЛА. \n\nЙошкар-Ола, Марийский НПЗ - опасность от Чувашской Республики. Маркетплейсы, внимательно. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-14T05:24:16+00:00",
+    "expires_at": "2026-08-14T06:24:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,10 +52,10 @@
   "кировск": {
     "display_name": "Кировская область",
     "type": "drone",
-    "text": "Кировская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-14T05:08:11+00:00",
-    "expires_at": "2026-08-14T06:08:11+00:00",
+    "text": "Кировская область\nРеспублика Чувашия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T05:30:25+00:00",
+    "expires_at": "2026-08-14T06:30:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +76,26 @@
     "channel": "locatorru",
     "updated_at": "2026-08-14T05:11:59+00:00",
     "expires_at": "2026-08-14T06:11:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "-": {
+    "display_name": "Республика -",
+    "type": "drone",
+    "text": "Чувашская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-14T05:23:05+00:00",
+    "expires_at": "2026-08-14T06:23:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "чуваш": {
+    "display_name": "Республика Чувашия",
+    "type": "drone",
+    "text": "Кировская область\nРеспублика Чувашия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T05:30:25+00:00",
+    "expires_at": "2026-08-14T06:30:25+00:00",
     "count": null,
     "count_approx": false
   }
