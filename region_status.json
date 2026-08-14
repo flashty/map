@@ -30,12 +30,12 @@
     "count_approx": false
   },
   "брянск": {
-    "display_name": "Брянской области",
+    "display_name": "Брянская область",
     "type": "drone",
-    "text": "От гг в сторону Брянской области продолжаются пролёты БПЛА.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-14T22:14:05+00:00",
-    "expires_at": "2026-08-14T23:14:05+00:00",
+    "text": "Брянская область\nтревога по БПЛА сохраняется",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-14T22:29:29+00:00",
+    "expires_at": "2026-08-14T23:29:29+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,10 +62,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Анапа и близлежащие\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T22:25:40+00:00",
-    "expires_at": "2026-08-14T23:25:40+00:00",
+    "text": "Краснодарский край\nопасность по БПЛА \n\nОсобое внимание \nНовороссийск\nГеленджик\nТамань\nАнапа\nСлавянск На Кубани",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-14T22:28:54+00:00",
+    "expires_at": "2026-08-14T23:28:54+00:00",
     "count": null,
     "count_approx": false
   },
@@ -99,16 +99,6 @@
     "count": null,
     "count_approx": false
   },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Ершичский район\nСмоленская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-14T21:28:42+00:00",
-    "expires_at": "2026-08-14T22:28:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
@@ -132,10 +122,10 @@
   "вологодск": {
     "display_name": "Вологодская область",
     "type": "missile",
-    "text": "Вологодская область - у вас опасность по БПЛА, ракетной нет. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-14T22:26:11+00:00",
-    "expires_at": "2026-08-14T23:26:11+00:00",
+    "text": "Вологодская область\nракетная опасность",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-14T22:28:20+00:00",
+    "expires_at": "2026-08-14T23:28:20+00:00",
     "count": null,
     "count_approx": false
   },
@@ -146,16 +136,6 @@
     "channel": "locatorru",
     "updated_at": "2026-08-14T21:51:52+00:00",
     "expires_at": "2026-08-14T22:51:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "alert",
-    "text": "ГО Подольск\nМосковская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T22:26:25+00:00",
-    "expires_at": "2026-08-14T23:26:25+00:00",
     "count": null,
     "count_approx": false
   },
