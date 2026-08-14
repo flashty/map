@@ -75,6 +75,31 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-14T11:46:53+00:00",
+        "last_updated": "2026-08-14T12:03:02+00:00",
+        "path_labels": [
+          "Белгород",
+          "Погарский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.5873394,
+            50.5955595
+          ],
+          [
+            36.5165733,
+            50.4015692
+          ]
+        ]
+      }
     }
   ]
 }
