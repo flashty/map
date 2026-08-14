@@ -5,31 +5,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-08-14T07:20:55+00:00",
-        "last_updated": "2026-08-14T07:53:19+00:00",
-        "path_labels": [
-          "Ракитное (Белгородская область)",
-          "Погарский"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.832,
-            50.8343
-          ],
-          [
-            36.5165733,
-            50.4015692
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-08-14T08:05:38+00:00",
         "last_updated": "2026-08-14T08:30:31+00:00",
         "path_labels": [
@@ -47,6 +22,81 @@
           [
             37.316887,
             44.894272
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-14T08:29:24+00:00",
+        "last_updated": "2026-08-14T08:50:07+00:00",
+        "path_labels": [
+          "Тамань (Краснодарский край)",
+          "Порт Крым"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.7191326,
+            45.2158646
+          ],
+          [
+            36.7769323,
+            45.409087
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-14T08:29:24+00:00",
+        "last_updated": "2026-08-14T08:57:29+00:00",
+        "path_labels": [
+          "Геленджик (Краснодарский край)",
+          "Акимовский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.0766832,
+            44.5609447
+          ],
+          [
+            38.6274314,
+            44.9954981
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-14T08:29:24+00:00",
+        "last_updated": "2026-08-14T08:56:21+00:00",
+        "path_labels": [
+          "Виноградное (Краснодарский край)",
+          "Черноморский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.9990716,
+            44.6373766
+          ],
+          [
+            38.4944065,
+            44.849996
           ]
         ]
       }
