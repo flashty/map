@@ -30,13 +30,13 @@
     "count_approx": false
   },
   "калужск": {
-    "display_name": "Калужская область",
+    "display_name": "Калужской области",
     "type": "drone",
-    "text": "Московская область \nКалужская область \nТверская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу © \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-14T11:09:15+00:00",
-    "expires_at": "2026-08-14T12:09:15+00:00",
-    "count": null,
+    "text": "От 2 БПЛА через Людиново, Калужской области в сторону Киров, Шайковка. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-14T11:27:10+00:00",
+    "expires_at": "2026-08-14T12:27:10+00:00",
+    "count": 2,
     "count_approx": false
   },
   "московск": {
@@ -66,6 +66,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-14T11:15:32+00:00",
     "expires_at": "2026-08-14T12:15:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Анапский район\nКраснодарский край\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-14T11:20:08+00:00",
+    "expires_at": "2026-08-14T12:20:08+00:00",
     "count": null,
     "count_approx": false
   }
