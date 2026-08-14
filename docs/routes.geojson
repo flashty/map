@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-08-14T03:15:38+00:00",
-        "last_updated": "2026-08-14T04:04:13+00:00",
-        "path_labels": [
-          "Майский (Белгородская область)",
-          "Шебекинский"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.4567071,
-            50.5238347
-          ],
-          [
-            36.8728034,
-            50.438988
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
