@@ -1,14 +1,4 @@
 {
-  "тверск": {
-    "display_name": "Тверская область",
-    "type": "drone",
-    "text": "Западнодвинский район\nТверская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T00:10:23+00:00",
-    "expires_at": "2026-08-14T01:10:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "псковск": {
     "display_name": "Псковская область",
     "type": "drone",
@@ -36,16 +26,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-14T00:23:12+00:00",
     "expires_at": "2026-08-14T01:23:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленской область",
-    "type": "drone",
-    "text": "Ленинградская область - напоминаем о большом количестве БПЛА которое было зафиксировано над Смоленской областью, соблюдаем меры безопасности.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-14T00:10:18+00:00",
-    "expires_at": "2026-08-14T01:10:18+00:00",
     "count": null,
     "count_approx": false
   },
@@ -81,22 +61,22 @@
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Темрюк, Анапа, Геленджик, Новороссийск, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-14T00:23:43+00:00",
-    "expires_at": "2026-08-14T01:23:43+00:00",
+    "type": "alert",
+    "text": "Экстренная информация РСЧС: БЕСПИЛОТНАЯ ОПАСНОСТЬ на территории муниципальных образований: Апшеронский, Белореченский, Горячий ключ, Динский, Кореновский, Краснодар, Туапсинский, Усть-Лабинский  районы. \nКраснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-14T01:12:14+00:00",
+    "expires_at": "2026-08-14T02:12:14+00:00",
     "count": null,
     "count_approx": false
   },
   "орловск": {
-    "display_name": "Орловской области",
+    "display_name": "Орловская область",
     "type": "drone",
-    "text": "БПЛА от Мценск, Орловской области в сторону Тульской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-14T00:45:37+00:00",
-    "expires_at": "2026-08-14T01:45:37+00:00",
-    "count": null,
+    "text": "Орловский район\nОрловская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T01:15:07+00:00",
+    "expires_at": "2026-08-14T02:15:07+00:00",
+    "count": 2,
     "count_approx": false
   },
   "московск": {
@@ -130,12 +110,52 @@
     "count_approx": false
   },
   "калужск": {
-    "display_name": "Калужской области",
+    "display_name": "Калужская область",
     "type": "drone",
-    "text": "Советский район, Фокинский район, Бежицкий район, Володарский район, г.Брянск - соблюдайте меры безопасности,  через вас продолжают лететь БПЛА в сторону Калужской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-14T00:38:36+00:00",
-    "expires_at": "2026-08-14T01:38:36+00:00",
+    "text": "Кировский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T01:13:46+00:00",
+    "expires_at": "2026-08-14T02:13:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тамбовск": {
+    "display_name": "Тамбовская область",
+    "type": "drone",
+    "text": "Тамбовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T01:06:32+00:00",
+    "expires_at": "2026-08-14T02:06:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородская область",
+    "type": "drone",
+    "text": "Нижегородская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T01:10:46+00:00",
+    "expires_at": "2026-08-14T02:10:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ивановск": {
+    "display_name": "Ивановская область",
+    "type": "drone",
+    "text": "Ивановская область \nВладимирская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T01:12:16+00:00",
+    "expires_at": "2026-08-14T02:12:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "drone",
+    "text": "Ивановская область \nВладимирская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T01:12:16+00:00",
+    "expires_at": "2026-08-14T02:12:16+00:00",
     "count": null,
     "count_approx": false
   }
