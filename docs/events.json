@@ -1,49 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_13576_Орск",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-13T04:42:36+00:00",
-    "text": "Орск, Оренбургская - отойдите от окон.\n\nНа подлёте группа БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": "Орск",
-    "region": null,
-    "lat": 51.2305015,
-    "lon": 58.4738015
-  },
-  {
-    "id": "locatorru_79797_Орск",
-    "channel": "locatorru",
-    "date": "2026-08-13T04:42:51+00:00",
-    "text": "Орск, Оренбургская область - угроза атаки БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Орск",
-    "region": "Оренбургская область",
-    "lat": 51.2305015,
-    "lon": 58.4738015
-  },
-  {
-    "id": "LPRalarm_218095_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-08-13T04:43:28+00:00",
-    "text": "Белгородский район \nОпасность атаки БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "locatorru_79798",
-    "channel": "locatorru",
-    "date": "2026-08-13T04:45:21+00:00",
-    "text": "Чеботарево, Кувандыкский район, Оренбургская область - пролёт БПЛА в сторону Республики Республика Башкортостан.(Салават).\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Оренбургская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_81467",
     "channel": "vrv_radar",
     "date": "2026-08-13T04:46:00+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Орловской области",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "locatorru_80049",
+    "channel": "locatorru",
+    "date": "2026-08-14T00:45:47+00:00",
+    "text": "Тульская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_87696",
+    "channel": "radarrussiia",
+    "date": "2026-08-14T00:49:20+00:00",
+    "text": "Тульская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_81693_Всеволожский",
+    "channel": "vrv_radar",
+    "date": "2026-08-14T00:51:20+00:00",
+    "text": "Всеволожский район\nЛенинградская область\nРабота ПВО по БПЛА\nМеры безопасности",
+    "type": "drone",
+    "location_name": "Всеволожский",
+    "region": "Ленинградская область",
+    "lat": 60.3572197,
+    "lon": 30.6742956
+  },
+  {
+    "id": "radarrussiia_87697_Всеволожский",
+    "channel": "radarrussiia",
+    "date": "2026-08-14T00:51:38+00:00",
+    "text": "Всеволожский район\nЛенинградская область\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Всеволожский",
+    "region": "Ленинградская область",
+    "lat": 60.3572197,
+    "lon": 30.6742956
   }
 ]
