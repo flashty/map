@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_218498",
-    "channel": "LPRalarm",
-    "date": "2026-08-13T20:16:07+00:00",
-    "text": "Карачев и близлежащие\nТревога по БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114108",
-    "channel": "kupolrussia",
-    "date": "2026-08-13T20:16:28+00:00",
-    "text": "Карачев и близлежащие\nТревога по БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_81592_Угранский",
-    "channel": "vrv_radar",
-    "date": "2026-08-13T20:17:26+00:00",
-    "text": "Угранский район\nСмоленская область\nФиксация от 3 БПЛА",
-    "type": "drone",
-    "location_name": "Угранский",
-    "region": "Смоленская область",
-    "lat": 54.7904822,
-    "lon": 34.3736036
-  },
-  {
-    "id": "locatorru_79922",
-    "channel": "locatorru",
-    "date": "2026-08-13T20:17:40+00:00",
-    "text": "Ершичи и близлежащи, Смоленская область - пролёты БПЛА на север. \n\nШумячи, Смоленская область - пролёты БПЛА на север. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_79923",
-    "channel": "locatorru",
-    "date": "2026-08-13T20:18:28+00:00",
-    "text": "Тверская область - опасность по БПЛА от Смоленской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тверская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_81593_Сафоновский",
-    "channel": "vrv_radar",
-    "date": "2026-08-13T20:18:48+00:00",
-    "text": "Сафоновский район\nСмоленская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Сафоновский",
-    "region": "Смоленская область",
-    "lat": 55.2007681,
-    "lon": 33.4302687
-  },
-  {
-    "id": "locatorru_79924",
-    "channel": "locatorru",
-    "date": "2026-08-13T20:18:50+00:00",
-    "text": "Балабаново, Боровский район, Калужская область - пролёт БПЛА в сторону Наро-Фоминска, Московской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_218499",
     "channel": "LPRalarm",
     "date": "2026-08-13T20:19:26+00:00",
@@ -21996,6 +21919,83 @@
     "type": "alert",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_218964",
+    "channel": "LPRalarm",
+    "date": "2026-08-14T17:02:37+00:00",
+    "text": "Климово и близлежащие \nТревога по БПЛА \nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_114528",
+    "channel": "kupolrussia",
+    "date": "2026-08-14T17:02:42+00:00",
+    "text": "Климово и близлежащие \nТревога по БПЛА \nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_218965",
+    "channel": "LPRalarm",
+    "date": "2026-08-14T17:03:15+00:00",
+    "text": "Брянская область все районы повторно тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_218966_Осипенко",
+    "channel": "LPRalarm",
+    "date": "2026-08-14T17:04:14+00:00",
+    "text": "Осипенко, Бердянск и близлежащие повторно тревога по БПЛА",
+    "type": "drone",
+    "location_name": "Осипенко",
+    "region": null,
+    "lat": 54.400865,
+    "lon": 22.1195489
+  },
+  {
+    "id": "kupolrussia_114529",
+    "channel": "kupolrussia",
+    "date": "2026-08-14T17:04:15+00:00",
+    "text": "Брянская область все районы повторно тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_114530_Осипенко",
+    "channel": "kupolrussia",
+    "date": "2026-08-14T17:04:32+00:00",
+    "text": "Осипенко, Бердянск и близлежащие повторно тревога по БПЛА",
+    "type": "drone",
+    "location_name": "Осипенко",
+    "region": null,
+    "lat": 54.400865,
+    "lon": 22.1195489
+  },
+  {
+    "id": "LPRalarm_218967",
+    "channel": "LPRalarm",
+    "date": "2026-08-14T17:04:39+00:00",
+    "text": "Дорогие наши близкие!\n\nОгромное Вам спасибо за поддержку нашей деятельности!\n❤️❤️❤️\n\nhttps://pay.cloudtips.ru/p/f2a9c1d8",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
