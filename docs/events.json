@@ -1,38 +1,5 @@
 [
   {
-    "id": "locatorru_79833",
-    "channel": "locatorru",
-    "date": "2026-08-13T07:12:53+00:00",
-    "text": "Ещё выходы БПЛА в море. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_218150",
-    "channel": "LPRalarm",
-    "date": "2026-08-13T07:13:09+00:00",
-    "text": "Причерноморье Краснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_113789",
-    "channel": "kupolrussia",
-    "date": "2026-08-13T07:13:22+00:00",
-    "text": "Причерноморье Краснодарский край\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_79834",
     "channel": "locatorru",
     "date": "2026-08-13T07:17:08+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Белгородской области",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_81772",
+    "channel": "vrv_radar",
+    "date": "2026-08-14T03:05:06+00:00",
+    "text": "Липецкая область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_218613_Майский",
+    "channel": "LPRalarm",
+    "date": "2026-08-14T03:15:38+00:00",
+    "text": "Майский, район объездной,\nТревога по БПЛА\nБелгородская область",
+    "type": "drone",
+    "location_name": "Майский",
+    "region": "Белгородская область",
+    "lat": 50.5238347,
+    "lon": 36.4567071
+  },
+  {
+    "id": "kupolrussia_114199_Майский",
+    "channel": "kupolrussia",
+    "date": "2026-08-14T03:15:53+00:00",
+    "text": "Майский, район объездной,\nТревога по БПЛА\nБелгородская область",
+    "type": "drone",
+    "location_name": "Майский",
+    "region": "Белгородская область",
+    "lat": 50.5238347,
+    "lon": 36.4567071
   }
 ]
