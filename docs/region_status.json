@@ -39,26 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Почепский район, Брянская область - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T09:58:36+00:00",
-    "expires_at": "2026-08-14T10:58:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "missile",
-    "text": "Калужская область\nРостовская область \nРакетная опасность \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T09:49:30+00:00",
-    "expires_at": "2026-08-14T10:49:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
@@ -66,56 +46,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-14T09:40:30+00:00",
     "expires_at": "2026-08-14T10:40:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "missile",
-    "text": "Воронежская область\nОрловская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T09:29:31+00:00",
-    "expires_at": "2026-08-14T10:29:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Брянская область, Курская область, Белгородская область - опасность по БПЛА от гг в тыл. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-14T09:36:58+00:00",
-    "expires_at": "2026-08-14T10:36:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "missile",
-    "text": "Донецк Ростовская область, Гуково, Новошахтинск и близлежащие\nот ЛНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-14T09:59:53+00:00",
-    "expires_at": "2026-08-14T10:59:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "missile",
-    "text": "Воронежская область - ракетная опасность от ЛНР. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-14T10:07:50+00:00",
-    "expires_at": "2026-08-14T11:07:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "missile",
-    "text": "Брянская область\nОрловская область\nКалужская область\nТульская область\nЛипецкая область\nВоронежская область \nТамбовская область \n\nРакетная опасность. Возможны запуски ракет.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-14T09:24:40+00:00",
-    "expires_at": "2026-08-14T10:24:40+00:00",
     "count": null,
     "count_approx": false
   },
@@ -129,26 +59,6 @@
     "count": null,
     "count_approx": false
   },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "missile",
-    "text": "Брянская область\nОрловская область\nКалужская область\nТульская область\nЛипецкая область\nВоронежская область \nТамбовская область \n\nРакетная опасность. Возможны запуски ракет.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-14T09:24:40+00:00",
-    "expires_at": "2026-08-14T10:24:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "missile",
-    "text": "ЛНР\nРостовская область \nВоронежская область \nИ далее тыловые регионы \nРакетная тревога по Штормам",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-14T09:34:56+00:00",
-    "expires_at": "2026-08-14T10:34:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -159,13 +69,13 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "alert",
-    "text": "Готня Ракитное \nТревога по барражирующим боеприпасам\nБелгородская область",
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Погарский район, повторная фиксация БПЛА  дартс в тыл\nБрянская область",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-14T10:15:52+00:00",
-    "expires_at": "2026-08-14T11:15:52+00:00",
+    "updated_at": "2026-08-14T10:21:37+00:00",
+    "expires_at": "2026-08-14T11:21:37+00:00",
     "count": null,
     "count_approx": false
   }
