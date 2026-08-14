@@ -68,5 +68,25 @@
     "expires_at": "2026-08-14T07:42:03+00:00",
     "count": null,
     "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Тарханкут и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-14T06:49:17+00:00",
+    "expires_at": "2026-08-14T07:49:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область \nТревога по реактивным БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-14T06:49:55+00:00",
+    "expires_at": "2026-08-14T07:49:55+00:00",
+    "count": null,
+    "count_approx": false
   }
 }
