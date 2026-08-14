@@ -1,21 +1,11 @@
 {
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "aviation",
-    "text": "Авиационная опасность\nЗапорожская, Херсонская область РФ\nЛДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-14T21:16:20+00:00",
-    "expires_at": "2026-08-14T22:16:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "воронежск": {
-    "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Лискинский район\nВоронежская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T21:25:06+00:00",
-    "expires_at": "2026-08-14T22:25:06+00:00",
+    "text": "Дыводовка\nВолчанск\nТревога по БПЛА\nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-14T22:24:50+00:00",
+    "expires_at": "2026-08-14T23:24:50+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,26 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "missile",
-    "text": "Курахово Богатырь ДНР ракетная опасность",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-14T21:20:12+00:00",
-    "expires_at": "2026-08-14T22:20:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "саратовск": {
-    "display_name": "Саратовская область",
-    "type": "drone",
-    "text": "Московская область\nСаратовская область \nПензенская область\nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-14T21:26:18+00:00",
-    "expires_at": "2026-08-14T22:26:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
@@ -92,10 +62,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Новороссийск, Геленджик, Краснодарский край - опасность по БПЛА, повторно!\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-14T22:07:49+00:00",
-    "expires_at": "2026-08-14T23:07:49+00:00",
+    "text": "Анапа и близлежащие\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T22:25:40+00:00",
+    "expires_at": "2026-08-14T23:25:40+00:00",
     "count": null,
     "count_approx": false
   },
@@ -129,16 +99,6 @@
     "count": null,
     "count_approx": false
   },
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "Ульяновская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T21:25:21+00:00",
-    "expires_at": "2026-08-14T22:25:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
@@ -152,30 +112,30 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Калужская область \nТревога по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-14T21:42:15+00:00",
-    "expires_at": "2026-08-14T22:42:15+00:00",
+    "text": "Калужская область - ещё волна БПЛА в вашу сторону от Брянской области.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-14T22:18:57+00:00",
+    "expires_at": "2026-08-14T23:18:57+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Северо-Задонск, Тульская область - пролёт БПЛА в сторону Венёв. \n\n📡Локатор России - @locatorru",
+    "text": "Куркино, Тульская область - пролёты БПЛА в сторону Чернава, Скопино, Рязанская область. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-08-14T21:43:36+00:00",
-    "expires_at": "2026-08-14T22:43:36+00:00",
+    "updated_at": "2026-08-14T22:19:55+00:00",
+    "expires_at": "2026-08-14T23:19:55+00:00",
     "count": null,
     "count_approx": false
   },
   "вологодск": {
     "display_name": "Вологодская область",
-    "type": "drone",
-    "text": "Вологодская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T21:53:22+00:00",
-    "expires_at": "2026-08-14T22:53:22+00:00",
+    "type": "missile",
+    "text": "Вологодская область - у вас опасность по БПЛА, ракетной нет. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-14T22:26:11+00:00",
+    "expires_at": "2026-08-14T23:26:11+00:00",
     "count": null,
     "count_approx": false
   },
@@ -191,11 +151,11 @@
   },
   "московск": {
     "display_name": "Московская область",
-    "type": "drone",
-    "text": "ГО Бронницы\nГО Чехов \nМосковская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "alert",
+    "text": "ГО Подольск\nМосковская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-14T22:00:22+00:00",
-    "expires_at": "2026-08-14T23:00:22+00:00",
+    "updated_at": "2026-08-14T22:26:25+00:00",
+    "expires_at": "2026-08-14T23:26:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -212,10 +172,40 @@
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Касимовский район\nРязанская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Куркино, Тульская область - пролёты БПЛА в сторону Чернава, Скопино, Рязанская область. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-14T22:19:55+00:00",
+    "expires_at": "2026-08-14T23:19:55+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Фатежский район, Щигровский район, Курская область - продолжаются фиксации БПЛА в сторону Орловской и Липецкой областей.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-14T22:25:16+00:00",
+    "expires_at": "2026-08-14T23:25:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкой областей",
+    "type": "drone",
+    "text": "Фатежский район, Щигровский район, Курская область - продолжаются фиксации БПЛА в сторону Орловской и Липецкой областей.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-14T22:25:16+00:00",
+    "expires_at": "2026-08-14T23:25:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградская область",
+    "type": "missile",
+    "text": "Волгоградская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-14T22:11:10+00:00",
-    "expires_at": "2026-08-14T23:11:10+00:00",
+    "updated_at": "2026-08-14T22:27:18+00:00",
+    "expires_at": "2026-08-14T23:27:18+00:00",
     "count": null,
     "count_approx": false
   }
