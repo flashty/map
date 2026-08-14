@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Шахтёрск, Торез, Снежное ДНР и близлежащие\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-14T07:58:31+00:00",
-    "expires_at": "2026-08-14T08:58:31+00:00",
+    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ с запада, ещё фиксации",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-14T08:15:34+00:00",
+    "expires_at": "2026-08-14T09:15:34+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,30 +62,20 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "missile",
-    "text": "Калужская область \nФиксация крылатой ракеты",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-14T08:00:21+00:00",
-    "expires_at": "2026-08-14T09:00:21+00:00",
+    "text": "Калужская область \nФиксация крылатой ракеты\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T08:05:41+00:00",
+    "expires_at": "2026-08-14T09:05:41+00:00",
     "count": null,
     "count_approx": false
   },
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "missile",
-    "text": "Смоленская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T07:45:36+00:00",
-    "expires_at": "2026-08-14T08:45:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "missile",
-    "text": "Брянская область \nОрловская область \nРакетная опасность \nПовторно",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-14T07:15:34+00:00",
-    "expires_at": "2026-08-14T08:15:34+00:00",
+    "text": "Смоленская область\nРакетная опасность",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-14T08:06:27+00:00",
+    "expires_at": "2026-08-14T09:06:27+00:00",
     "count": null,
     "count_approx": false
   },
@@ -191,11 +181,11 @@
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "missile",
-    "text": "Краснодарский край авиационная ракетная опасность (РСЧС)\n\nПричины уточняем. Пока не видим носителей Штормов",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-14T07:55:39+00:00",
-    "expires_at": "2026-08-14T08:55:39+00:00",
+    "type": "drone",
+    "text": "Анапский район\nСочи и близлежащие\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-14T08:06:45+00:00",
+    "expires_at": "2026-08-14T09:06:45+00:00",
     "count": null,
     "count_approx": false
   }
