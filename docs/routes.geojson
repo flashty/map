@@ -5,56 +5,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-08-14T10:59:43+00:00",
-        "last_updated": "2026-08-14T11:41:35+00:00",
-        "path_labels": [
-          "Хотынецкий (Орловская область)",
-          "Шаблыкинский (Орловская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.3773008,
-            53.1360589
-          ],
-          [
-            35.1025788,
-            52.8579891
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-08-14T11:09:08+00:00",
-        "last_updated": "2026-08-14T11:39:13+00:00",
-        "path_labels": [
-          "Людиново (Калужская область)",
-          "Сельцо"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.447908,
-            53.8646239
-          ],
-          [
-            34.1065866,
-            53.3709842
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-08-14T11:46:53+00:00",
         "last_updated": "2026-08-14T12:03:02+00:00",
         "path_labels": [
@@ -72,6 +22,31 @@
           [
             36.5165733,
             50.4015692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-14T12:03:50+00:00",
+        "last_updated": "2026-08-14T12:40:34+00:00",
+        "path_labels": [
+          "Духовец",
+          "Любимовка"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.034359,
+            51.69381
+          ],
+          [
+            35.715996,
+            52.015255
           ]
         ]
       }
