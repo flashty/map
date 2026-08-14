@@ -29,26 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Ульяновский район\nМещовский район\nКалужская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T02:17:14+00:00",
-    "expires_at": "2026-08-14T03:17:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "костромск": {
-    "display_name": "Костромская область",
-    "type": "drone",
-    "text": "Нерехтский район\nКостромская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T02:18:39+00:00",
-    "expires_at": "2026-08-14T03:18:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
@@ -62,10 +42,10 @@
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Михайловский район\nРязанская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T02:59:36+00:00",
-    "expires_at": "2026-08-14T03:59:36+00:00",
+    "text": "Путятинский район\nРязанская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-14T03:23:34+00:00",
+    "expires_at": "2026-08-14T04:23:34+00:00",
     "count": null,
     "count_approx": false
   },
@@ -121,21 +101,21 @@
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Дагомыс(Сочи)\nИ близлежащие\nТревога по БПЛА\nКраснодарский край",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-14T02:56:24+00:00",
-    "expires_at": "2026-08-14T03:56:24+00:00",
+    "type": "alert",
+    "text": "Сочи \nКраснодарский край\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-14T03:25:10+00:00",
+    "expires_at": "2026-08-14T04:25:10+00:00",
     "count": null,
     "count_approx": false
   },
   "нижегородск": {
     "display_name": "Нижегородская область",
     "type": "drone",
-    "text": "Вознесенский район\nНижегородская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-14T02:58:53+00:00",
-    "expires_at": "2026-08-14T03:58:53+00:00",
+    "text": "Ардатовский район\nНижегородская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-14T03:24:16+00:00",
+    "expires_at": "2026-08-14T04:24:16+00:00",
     "count": null,
     "count_approx": false
   },
