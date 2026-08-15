@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_218799_Грайворонский",
-    "channel": "LPRalarm",
-    "date": "2026-08-14T09:35:03+00:00",
-    "text": "Грайворонский район \nОпасность по БПЛА \n\nБелгородская область",
-    "type": "drone",
-    "location_name": "Грайворонский",
-    "region": "Белгородская область",
-    "lat": 50.4309028,
-    "lon": 35.5905721
-  },
-  {
-    "id": "kupolrussia_114371_Много",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T09:35:11+00:00",
-    "text": "Одесса пуски БПЛА \nМного",
-    "type": "drone",
-    "location_name": "Много",
-    "region": null,
-    "lat": 66.0989134,
-    "lon": 59.9304618
-  },
-  {
-    "id": "LPRalarm_218800",
-    "channel": "LPRalarm",
-    "date": "2026-08-14T09:35:43+00:00",
-    "text": "Север\nРеспублика Крым \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_218801",
-    "channel": "LPRalarm",
-    "date": "2026-08-14T09:36:12+00:00",
-    "text": "Западные районы Брянской области \nТревога по БПЛА и далее на Брянск \nСмоленская область \nКалужская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114372",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T09:36:27+00:00",
-    "text": "Север\nРеспублика Крым \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_218802_Одессы",
-    "channel": "LPRalarm",
-    "date": "2026-08-14T09:36:35+00:00",
-    "text": "Ещё пуски БПЛА от Одессы",
-    "type": "drone",
-    "location_name": "Одессы",
-    "region": null,
-    "lat": 48.7490351,
-    "lon": 44.5413187
-  },
-  {
-    "id": "kupolrussia_114373",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T09:36:38+00:00",
-    "text": "Западные районы Брянской области \nТревога по БПЛА и далее на Брянск \nСмоленская область \nКалужская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_80101",
-    "channel": "locatorru",
-    "date": "2026-08-14T09:36:58+00:00",
-    "text": "Брянская область, Курская область, Белгородская область - опасность по БПЛА от гг в тыл. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_114374_Одессы",
     "channel": "kupolrussia",
     "date": "2026-08-14T09:37:07+00:00",
@@ -21996,6 +21908,94 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82167",
+    "channel": "vrv_radar",
+    "date": "2026-08-15T07:22:33+00:00",
+    "text": "Новгородская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Новгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219245_Погарский",
+    "channel": "LPRalarm",
+    "date": "2026-08-15T07:25:06+00:00",
+    "text": "Погарский район и близлежащие опасность бпла дартс\nБрянская область",
+    "type": "drone",
+    "location_name": "Погарский",
+    "region": "Брянская область",
+    "lat": 52.5207056,
+    "lon": 33.2053408
+  },
+  {
+    "id": "radarrussiia_88024",
+    "channel": "radarrussiia",
+    "date": "2026-08-15T07:25:09+00:00",
+    "text": "Новгородская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Новгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_114770_Погарский",
+    "channel": "kupolrussia",
+    "date": "2026-08-15T07:25:16+00:00",
+    "text": "Погарский район и близлежащие опасность бпла дартс\nБрянская область",
+    "type": "drone",
+    "location_name": "Погарский",
+    "region": "Брянская область",
+    "lat": 52.5207056,
+    "lon": 33.2053408
+  },
+  {
+    "id": "LPRalarm_219246",
+    "channel": "LPRalarm",
+    "date": "2026-08-15T07:27:12+00:00",
+    "text": "Трасса Р-280\nОпасность по БПЛА Хорнет.",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_114771",
+    "channel": "kupolrussia",
+    "date": "2026-08-15T07:27:24+00:00",
+    "text": "Трасса Р-280\nОпасность по БПЛА Хорнет.",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219247",
+    "channel": "LPRalarm",
+    "date": "2026-08-15T07:28:19+00:00",
+    "text": "Приазовское - Приморск, Бердянск Запорожская область РФ трасса опасность по БПЛА от Бановка",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_114772",
+    "channel": "kupolrussia",
+    "date": "2026-08-15T07:28:38+00:00",
+    "text": "Приазовское - Приморск, Бердянск Запорожская область РФ трасса\nот Бановка\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
