@@ -2,30 +2,20 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Геленджик\nКраснодарский край\nФиксация БПЛА в вашем направлении\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-15T14:37:52+00:00",
-    "expires_at": "2026-08-15T15:37:52+00:00",
+    "text": "Краснодарский край, Воронежская область, Тульская область, Рязанская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-15T15:14:37+00:00",
+    "expires_at": "2026-08-15T16:14:37+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
-    "type": "missile",
-    "text": "Воронежская область\nЛипецкая область\nТамбовская область\nОрловская область \nТульская область \n\nРакетная опасность. Пуски крылатых ракет с самолёта.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-15T14:46:16+00:00",
-    "expires_at": "2026-08-15T15:46:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
     "type": "drone",
-    "text": "Внимание начали латать БПЛА Дартс над трассой А-240\n\nРайон Найтоповичи Брянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-15T14:55:02+00:00",
-    "expires_at": "2026-08-15T15:55:02+00:00",
+    "text": "Краснодарский край, Воронежская область, Тульская область, Рязанская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-15T15:14:37+00:00",
+    "expires_at": "2026-08-15T16:14:37+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "missile",
-    "text": "Воронежская область\n\nРакетная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-15T14:54:40+00:00",
-    "expires_at": "2026-08-15T15:54:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -79,16 +59,6 @@
     "count": null,
     "count_approx": false
   },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "missile",
-    "text": "Воронежская область\nОрловская область\nБрянская область \nКурская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-15T14:51:35+00:00",
-    "expires_at": "2026-08-15T15:51:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "missile",
@@ -96,6 +66,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-15T15:03:15+00:00",
     "expires_at": "2026-08-15T16:03:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Краснодарский край, Воронежская область, Тульская область, Рязанская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-15T15:14:37+00:00",
+    "expires_at": "2026-08-15T16:14:37+00:00",
     "count": null,
     "count_approx": false
   }
