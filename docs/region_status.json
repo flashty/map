@@ -21,11 +21,11 @@
   },
   "луганск": {
     "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Лисичанск\nЛНР\nОпасность по БПЛА Хорнет",
+    "type": "missile",
+    "text": "Каменск-Шахтинский и близлежащие ракетная тревог от Молодогвардейск ЛНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-15T15:55:50+00:00",
-    "expires_at": "2026-08-15T16:55:50+00:00",
+    "updated_at": "2026-08-15T16:33:35+00:00",
+    "expires_at": "2026-08-15T17:33:35+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,10 +72,20 @@
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "missile",
-    "text": "Вся территория ЛДНР и Ростовская область от ЛДНР ракетная опасность",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-15T16:31:06+00:00",
-    "expires_at": "2026-08-15T17:31:06+00:00",
+    "text": "Донецк Ростовская область ракеты прошли",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-15T16:34:30+00:00",
+    "expires_at": "2026-08-15T17:34:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградская область",
+    "type": "missile",
+    "text": "Волгоградская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-15T16:35:10+00:00",
+    "expires_at": "2026-08-15T17:35:10+00:00",
     "count": null,
     "count_approx": false
   }
