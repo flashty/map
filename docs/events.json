@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_114513",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T16:21:54+00:00",
-    "text": "Новороссийск и близлежащие \nОпасность по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114514",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T16:23:14+00:00",
-    "text": "Всё Причерноморье\nПовторно\nКраснодарский край\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_218949",
-    "channel": "LPRalarm",
-    "date": "2026-08-14T16:23:16+00:00",
-    "text": "Всё Причерноморье тревога по БПЛА повторно\n\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_81879",
-    "channel": "vrv_radar",
-    "date": "2026-08-14T16:24:47+00:00",
-    "text": "Сочи и близлежащие\nКраснодарский край\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_218950",
-    "channel": "LPRalarm",
-    "date": "2026-08-14T16:24:54+00:00",
-    "text": "Шебекино \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_87846",
     "channel": "radarrussiia",
     "date": "2026-08-14T16:25:17+00:00",
@@ -21996,6 +21941,61 @@
     "type": "missile",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219417_Трубчевска",
+    "channel": "LPRalarm",
+    "date": "2026-08-15T12:50:40+00:00",
+    "text": "Дартс от н.п. Красное в сторону Трубчевска\nБрянская область",
+    "type": "unknown",
+    "location_name": "Трубчевска",
+    "region": "Брянская область",
+    "lat": 52.5835,
+    "lon": 33.767467
+  },
+  {
+    "id": "kupolrussia_114924_Трубчевска",
+    "channel": "kupolrussia",
+    "date": "2026-08-15T12:50:53+00:00",
+    "text": "Дартс от н.п. Красное в сторону Трубчевска\nБрянская область",
+    "type": "unknown",
+    "location_name": "Трубчевска",
+    "region": "Брянская область",
+    "lat": 52.5835,
+    "lon": 33.767467
+  },
+  {
+    "id": "LPRalarm_219418",
+    "channel": "LPRalarm",
+    "date": "2026-08-15T12:51:36+00:00",
+    "text": "Джанкой\nТревога по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_114925",
+    "channel": "kupolrussia",
+    "date": "2026-08-15T12:51:43+00:00",
+    "text": "Джанкой\nТревога по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219419",
+    "channel": "LPRalarm",
+    "date": "2026-08-15T13:01:15+00:00",
+    "text": "Трубчевск ФПВ матка БПЛА \nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
