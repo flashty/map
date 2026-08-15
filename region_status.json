@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "missile",
-    "text": "Белгородская область - ракетная опасность.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-15T08:32:39+00:00",
-    "expires_at": "2026-08-15T09:32:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "missile",
@@ -106,6 +96,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-15T08:31:45+00:00",
     "expires_at": "2026-08-15T09:31:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "одесск": {
+    "display_name": "Одесская область",
+    "type": "drone",
+    "text": "Одесская область выходы БПЛА в море. Пока в направлении в обход запада Крыма. Возможно ЮБК, восток Крыма, Причерноморье Краснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-15T08:42:11+00:00",
+    "expires_at": "2026-08-15T09:42:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Одесская область выходы БПЛА в море. Пока в направлении в обход запада Крыма. Возможно ЮБК, восток Крыма, Причерноморье Краснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-15T08:42:11+00:00",
+    "expires_at": "2026-08-15T09:42:11+00:00",
     "count": null,
     "count_approx": false
   }
