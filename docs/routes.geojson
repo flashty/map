@@ -5,31 +5,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-08-15T00:23:23+00:00",
-        "last_updated": "2026-08-15T01:02:29+00:00",
-        "path_labels": [
-          "Краснодарский Край",
-          "Ахтарск"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.0258102,
-            45.7682027
-          ],
-          [
-            38.1712168,
-            46.0490992
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-08-15T01:04:16+00:00",
         "last_updated": "2026-08-15T01:57:03+00:00",
         "path_labels": [
@@ -62,6 +37,31 @@
           [
             38.8558908,
             58.0489536
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-15T02:09:47+00:00",
+        "last_updated": "2026-08-15T02:09:47+00:00",
+        "path_labels": [
+          "Смоленская область",
+          "Тверскую область"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.01258668118651,
+            54.92798607276134
+          ],
+          [
+            34.747449341325826,
+            57.063216934829924
           ]
         ]
       }
