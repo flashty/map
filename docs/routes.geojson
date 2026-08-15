@@ -5,6 +5,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-08-15T10:33:48+00:00",
+        "last_updated": "2026-08-15T11:16:25+00:00",
+        "path_labels": [
+          "Черноморский",
+          "Новороссийск"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.4944065,
+            44.849996
+          ],
+          [
+            37.7690711,
+            44.7239578
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-08-15T10:53:00+00:00",
         "last_updated": "2026-08-15T11:09:26+00:00",
         "path_labels": [
@@ -22,6 +47,31 @@
           [
             37.6542418,
             55.7630085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-15T11:00:33+00:00",
+        "last_updated": "2026-08-15T11:16:25+00:00",
+        "path_labels": [
+          "Белогорский (Краснодарский край)",
+          "Сочи"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.5961148,
+            43.7491399
+          ],
+          [
+            39.723109,
+            43.5854823
           ]
         ]
       }
