@@ -1,81 +1,11 @@
 {
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "missile",
-    "text": "Суземка \nРакетная опасность\nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-15T00:55:50+00:00",
-    "expires_at": "2026-08-15T01:55:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "кировск": {
-    "display_name": "Кировская область",
-    "type": "missile",
-    "text": "Киров, Кирово-Чепецк и близлежащие, Кировская область / Ижевск, Воткинск, Удмуртская Республика - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-15T00:59:23+00:00",
-    "expires_at": "2026-08-15T01:59:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "-": {
-    "display_name": "Республика -",
-    "type": "missile",
-    "text": "Киров, Кирово-Чепецк и близлежащие, Кировская область / Ижевск, Воткинск, Удмуртская Республика - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-15T00:59:23+00:00",
-    "expires_at": "2026-08-15T01:59:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "оренбургск": {
-    "display_name": "Оренбургская область",
-    "type": "missile",
-    "text": "Оренбургская область \nРеспублика Удмуртия \n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-15T00:59:19+00:00",
-    "expires_at": "2026-08-15T01:59:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ярославск": {
     "display_name": "Ярославская область",
     "type": "drone",
-    "text": "Рыбинский район\nЯрославская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-15T01:40:07+00:00",
-    "expires_at": "2026-08-15T02:40:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "костромск": {
-    "display_name": "Костромская область",
-    "type": "drone",
-    "text": "Кострома, Волгореченск, Буйский район, Галичский район, Костромский район, Красносельский район, Нерехтский район, Островский район, Солигаличский район, Судиславский район, Сусанинский район, Чухломский район, Костромская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "text": "Рыбинск, Ярославская область - возможен налёт БПЛА. \n\nг.Ярославль - угроза атаки БПЛА пока сохраняется, могут уйти на Рыбинск, Череповец. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-08-15T00:50:12+00:00",
-    "expires_at": "2026-08-15T01:50:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ракетн": {
-    "display_name": "Республика \nРакетная",
-    "type": "missile",
-    "text": "Удмуртская Республика \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-15T00:56:14+00:00",
-    "expires_at": "2026-08-15T01:56:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "удмурт": {
-    "display_name": "Республика Удмуртия",
-    "type": "missile",
-    "text": "Оренбургская область \nРеспублика Удмуртия \n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-15T00:59:19+00:00",
-    "expires_at": "2026-08-15T01:59:19+00:00",
+    "updated_at": "2026-08-15T01:57:03+00:00",
+    "expires_at": "2026-08-15T02:57:03+00:00",
     "count": null,
     "count_approx": false
   },
@@ -156,6 +86,46 @@
     "channel": "locatorru",
     "updated_at": "2026-08-15T01:42:25+00:00",
     "expires_at": "2026-08-15T02:42:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "alert",
+    "text": "ГО Домодедово\nМосковская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-15T01:53:27+00:00",
+    "expires_at": "2026-08-15T02:53:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "псковск": {
+    "display_name": "Псковская область",
+    "type": "drone",
+    "text": "Псковская область\nНовгородская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-15T01:54:34+00:00",
+    "expires_at": "2026-08-15T02:54:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Смоленская область, Псковская область, Новгородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-15T01:54:02+00:00",
+    "expires_at": "2026-08-15T02:54:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "новгородск": {
+    "display_name": "Новгородская область",
+    "type": "drone",
+    "text": "Псковская область\nНовгородская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-15T01:54:34+00:00",
+    "expires_at": "2026-08-15T02:54:34+00:00",
     "count": null,
     "count_approx": false
   }
