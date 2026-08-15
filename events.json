@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_218939",
-    "channel": "LPRalarm",
-    "date": "2026-08-14T15:23:45+00:00",
-    "text": "Север\nРеспублика Крым \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114504",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T15:24:00+00:00",
-    "text": "Север\nРеспублика Крым \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_87845",
-    "channel": "radarrussiia",
-    "date": "2026-08-14T15:26:54+00:00",
-    "text": "Север\nРеспублика Крым \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_218940",
-    "channel": "LPRalarm",
-    "date": "2026-08-14T15:32:50+00:00",
-    "text": "Харцызск ДНР в направлении Иловайск БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_114505",
     "channel": "kupolrussia",
     "date": "2026-08-14T15:32:58+00:00",
@@ -21996,6 +21952,50 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Астраханская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219406_Октябрьский",
+    "channel": "LPRalarm",
+    "date": "2026-08-15T11:57:10+00:00",
+    "text": "Фиксация БПЛА в сторону Курчатова от Лобазовски Октябрьский район\nКурская область",
+    "type": "drone",
+    "location_name": "Октябрьский",
+    "region": "Курская область",
+    "lat": 51.6497406,
+    "lon": 35.4096397
+  },
+  {
+    "id": "LPRalarm_219407",
+    "channel": "LPRalarm",
+    "date": "2026-08-15T11:57:32+00:00",
+    "text": "Балаклавская ТЭС и близлежащие \nОпасность по БПЛА \nПовторно",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_114915_Октябрьский",
+    "channel": "kupolrussia",
+    "date": "2026-08-15T11:57:56+00:00",
+    "text": "Фиксация БПЛА в сторону Курчатова от Лобазовски Октябрьский район\nКурская область",
+    "type": "drone",
+    "location_name": "Октябрьский",
+    "region": "Курская область",
+    "lat": 51.6497406,
+    "lon": 35.4096397
+  },
+  {
+    "id": "kupolrussia_114916",
+    "channel": "kupolrussia",
+    "date": "2026-08-15T11:58:01+00:00",
+    "text": "Балаклавская ТЭС и близлежащие \nОпасность по БПЛА \nПовторно",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
