@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_218730",
-    "channel": "LPRalarm",
-    "date": "2026-08-14T08:32:42+00:00",
-    "text": "Ставропольский край",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114305",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T08:33:33+00:00",
-    "text": "Керченский полуостров \nКерчь и близлежащие \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_87807",
     "channel": "radarrussiia",
     "date": "2026-08-14T08:34:08+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Республика Адыгея",
     "lat": 44.6062079,
     "lon": 40.104053
+  },
+  {
+    "id": "vrv_radar_82128",
+    "channel": "vrv_radar",
+    "date": "2026-08-15T03:47:40+00:00",
+    "text": "Волгоградская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82130",
+    "channel": "vrv_radar",
+    "date": "2026-08-15T03:49:22+00:00",
+    "text": "Ростовская область\nОпасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
   }
 ]
