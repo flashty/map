@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Рославльский район\nСмоленская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-15T11:45:27+00:00",
-    "expires_at": "2026-08-15T12:45:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -50,12 +40,32 @@
     "count_approx": false
   },
   "тульск": {
-    "display_name": "Тульская область",
+    "display_name": "Тульской области",
     "type": "drone",
-    "text": "Тульская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-15T12:20:24+00:00",
-    "expires_at": "2026-08-15T13:20:24+00:00",
+    "text": "4 БПЛА в направлении Алексина, Тульской области и далее на Московскую область.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-15T12:37:38+00:00",
+    "expires_at": "2026-08-15T13:37:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московскую область",
+    "type": "drone",
+    "text": "4 БПЛА в направлении Алексина, Тульской области и далее на Московскую область.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-15T12:37:38+00:00",
+    "expires_at": "2026-08-15T13:37:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "missile",
+    "text": "Кременная и близлежащие \nЛНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-15T12:43:27+00:00",
+    "expires_at": "2026-08-15T13:43:27+00:00",
     "count": null,
     "count_approx": false
   }
