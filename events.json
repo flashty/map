@@ -1,16 +1,5 @@
 [
   {
-    "id": "kupolrussia_114304",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T08:32:38+00:00",
-    "text": "Ставропольский край",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_218730",
     "channel": "LPRalarm",
     "date": "2026-08-14T08:32:42+00:00",
@@ -21998,5 +21987,16 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_82127_Майкоп",
+    "channel": "vrv_radar",
+    "date": "2026-08-15T03:20:03+00:00",
+    "text": "Майкоп\nРеспублика Адыгея\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Майкоп",
+    "region": "Республика Адыгея",
+    "lat": 44.6062079,
+    "lon": 40.104053
   }
 ]
