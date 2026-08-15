@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "новгородск": {
-    "display_name": "Новгородская область",
-    "type": "drone",
-    "text": "Новгородская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-15T03:57:20+00:00",
-    "expires_at": "2026-08-15T04:57:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -42,10 +32,10 @@
   "ленинградск": {
     "display_name": "Ленинградская область",
     "type": "drone",
-    "text": "Волховский район\nЛенинградская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-15T04:48:40+00:00",
-    "expires_at": "2026-08-15T05:48:40+00:00",
+    "text": "Волховский район\nЛенинградская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-15T04:56:13+00:00",
+    "expires_at": "2026-08-15T05:56:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,10 +52,10 @@
   "ставропольск": {
     "display_name": "Ставропольский край",
     "type": "drone",
-    "text": "Ставропольский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-15T04:41:23+00:00",
-    "expires_at": "2026-08-15T05:41:23+00:00",
+    "text": "Ставропольский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-15T04:56:05+00:00",
+    "expires_at": "2026-08-15T05:56:05+00:00",
     "count": null,
     "count_approx": false
   }
