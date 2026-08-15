@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "missile",
-    "text": "Кременная и близлежащие \nЛНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-15T12:43:27+00:00",
-    "expires_at": "2026-08-15T13:43:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -96,6 +86,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-15T13:40:22+00:00",
     "expires_at": "2026-08-15T14:40:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рязанская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-15T13:44:39+00:00",
+    "expires_at": "2026-08-15T14:44:39+00:00",
     "count": null,
     "count_approx": false
   }
