@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_218798_Много",
-    "channel": "LPRalarm",
-    "date": "2026-08-14T09:34:35+00:00",
-    "text": "Одесса пуски БПЛА \nМного",
-    "type": "drone",
-    "location_name": "Много",
-    "region": null,
-    "lat": 66.0989134,
-    "lon": 59.9304618
-  },
-  {
-    "id": "radar_plus_bpla_13608",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-14T09:34:41+00:00",
-    "text": "Враг совершил пусковой манёвр в небе.\n\nПредварительно могли быть пуски в направлении Воронежской и Саратовской областей.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Саратовской областей",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114369_Грайворонский",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T09:34:43+00:00",
-    "text": "Грайворонский район \nОпасность по БПЛА\nБгд",
-    "type": "drone",
-    "location_name": "Грайворонский",
-    "region": null,
-    "lat": 50.4309028,
-    "lon": 35.5905721
-  },
-  {
-    "id": "kupolrussia_114369_Бгд",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T09:34:43+00:00",
-    "text": "Грайворонский район \nОпасность по БПЛА\nБгд",
-    "type": "drone",
-    "location_name": "Бгд",
-    "region": null,
-    "lat": 54.3695944,
-    "lon": 113.4799425
-  },
-  {
     "id": "locatorru_80100",
     "channel": "locatorru",
     "date": "2026-08-14T09:34:47+00:00",
@@ -21996,6 +21952,50 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219241",
+    "channel": "LPRalarm",
+    "date": "2026-08-15T07:05:37+00:00",
+    "text": "Новоалексеевка в направлении Геническ, возможно севернее на Кирилловку опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_114768",
+    "channel": "kupolrussia",
+    "date": "2026-08-15T07:05:42+00:00",
+    "text": "Новоалексеевка в направлении Геническ, возможно севернее на Кирилловку опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219242",
+    "channel": "LPRalarm",
+    "date": "2026-08-15T07:08:45+00:00",
+    "text": "Феодосия уточняем причину звуков",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219243",
+    "channel": "LPRalarm",
+    "date": "2026-08-15T07:10:51+00:00",
+    "text": "Феодосия всё хорошо. Тревоги нет.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
