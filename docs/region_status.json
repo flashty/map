@@ -22,10 +22,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Южные районы Ростовская область, Таганрог, Таганрогский залив \nОпасность по БПЛА с Азовского моря и ДНР",
+    "text": "ДНР южные районы сохраняется опасность по БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-15T04:24:40+00:00",
-    "expires_at": "2026-08-15T05:24:40+00:00",
+    "updated_at": "2026-08-15T04:44:34+00:00",
+    "expires_at": "2026-08-15T05:44:34+00:00",
     "count": null,
     "count_approx": false
   },
@@ -42,10 +42,30 @@
   "ленинградск": {
     "display_name": "Ленинградская область",
     "type": "drone",
-    "text": "Бокситогорский район \nЛенинградская область \nФиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-15T04:26:19+00:00",
-    "expires_at": "2026-08-15T05:26:19+00:00",
+    "text": "Бокситогорский район \nЛенинградская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-15T04:41:01+00:00",
+    "expires_at": "2026-08-15T05:41:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Фрунзе в направлении Луганск БПЛА Хорнет \nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-15T04:36:09+00:00",
+    "expires_at": "2026-08-15T05:36:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ставропольск": {
+    "display_name": "Ставропольский край",
+    "type": "drone",
+    "text": "Ставропольский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-15T04:41:23+00:00",
+    "expires_at": "2026-08-15T05:41:23+00:00",
     "count": null,
     "count_approx": false
   }
