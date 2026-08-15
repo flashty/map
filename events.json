@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_218733",
-    "channel": "LPRalarm",
-    "date": "2026-08-14T08:36:34+00:00",
-    "text": "Херсонская область РФ \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114307",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T08:36:52+00:00",
-    "text": "Генический район и близлежащие \nХерсонская область РФ\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114308",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T08:37:03+00:00",
-    "text": "Новоторецкое Уманское Очеретино ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114309",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T08:37:14+00:00",
-    "text": "Херсонская область РФ\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_80082",
-    "channel": "locatorru",
-    "date": "2026-08-14T08:38:12+00:00",
-    "text": "Московская область - ракетная опасность в т.ч и по реактивным БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_218734",
-    "channel": "LPRalarm",
-    "date": "2026-08-14T08:38:50+00:00",
-    "text": "Белгородская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_114310",
     "channel": "kupolrussia",
     "date": "2026-08-14T08:39:04+00:00",
@@ -21996,6 +21930,72 @@
     "type": "alert",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219193",
+    "channel": "LPRalarm",
+    "date": "2026-08-15T04:20:04+00:00",
+    "text": "Север Крыма опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219194",
+    "channel": "LPRalarm",
+    "date": "2026-08-15T04:24:34+00:00",
+    "text": "Южные районы Ростовская область, Таганрог, Таганрогский залив \nОпасность по БПЛА с Азовского моря и ДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_114731",
+    "channel": "kupolrussia",
+    "date": "2026-08-15T04:24:40+00:00",
+    "text": "Южные районы Ростовская область, Таганрог, Таганрогский залив \nОпасность по БПЛА с Азовского моря и ДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219195",
+    "channel": "LPRalarm",
+    "date": "2026-08-15T04:26:19+00:00",
+    "text": "Черниговский район в направлении Приморск, Бердянск и близлежащие опасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82133_Бокситогорский",
+    "channel": "vrv_radar",
+    "date": "2026-08-15T04:26:19+00:00",
+    "text": "Бокситогорский район \nЛенинградская область \nФиксации БПЛА",
+    "type": "drone",
+    "location_name": "Бокситогорский",
+    "region": "Ленинградская область",
+    "lat": 59.6279023,
+    "lon": 34.5701913
+  },
+  {
+    "id": "kupolrussia_114732",
+    "channel": "kupolrussia",
+    "date": "2026-08-15T04:26:24+00:00",
+    "text": "Черниговский район в направлении Приморск, Бердянск и близлежащие опасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
