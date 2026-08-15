@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_218705",
-    "channel": "LPRalarm",
-    "date": "2026-08-14T07:35:36+00:00",
-    "text": "Брянская область \nБрянск\nРакетная опасность \nПовторно",
-    "type": "missile",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114281",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T07:35:47+00:00",
-    "text": "Брянская область \nБрянск\nПовторно\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_218706",
-    "channel": "LPRalarm",
-    "date": "2026-08-14T07:38:36+00:00",
-    "text": "Дорога\nАкимовка-Мелитополь \nОпасность по БПЛА хорнет \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114282",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T07:38:54+00:00",
-    "text": "Дорога\nАкимовка-Мелитополь \nОпасность по БПЛА хорнет \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114283",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T07:42:04+00:00",
-    "text": "Смоленская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_218707",
-    "channel": "LPRalarm",
-    "date": "2026-08-14T07:42:08+00:00",
-    "text": "Смоленская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_218708",
-    "channel": "LPRalarm",
-    "date": "2026-08-14T07:43:07+00:00",
-    "text": "Филия, Богатырь, Угледар, Комар, Великая Новосёлка и близлежащие ДНР \n\nГуляйполе, Васильевка и близлежащие Запорожская область РФ \n\nАвиационная ракетная бомбовая тревога",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114284",
-    "channel": "kupolrussia",
-    "date": "2026-08-14T07:43:15+00:00",
-    "text": "Филия, Богатырь, Угледар, Комар, Великая Новосёлка и близлежащие ДНР \n\nГуляйполе, Васильевка и близлежащие Запорожская область РФ\nВНИМАНИЕ!!!\n„Зи ОБЪЯВЛЕН\n\"КРАСНЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_114285",
     "channel": "kupolrussia",
     "date": "2026-08-14T07:44:29+00:00",
@@ -21998,5 +21910,93 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "radarrussiia_87971",
+    "channel": "radarrussiia",
+    "date": "2026-08-15T01:16:36+00:00",
+    "text": "Волгоградская область\nОтбой ракетной опасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_80268",
+    "channel": "locatorru",
+    "date": "2026-08-15T01:17:30+00:00",
+    "text": "Новороссийск и близлежащие, Краснодарский край - опасность по БПЛА сохраняется. \n\nНе попадите по обломки сбитых БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82100_Юрьев-Польский",
+    "channel": "vrv_radar",
+    "date": "2026-08-15T01:18:16+00:00",
+    "text": "Юрьев-Польский район\nВладимирская область\nФиксации БПЛА",
+    "type": "drone",
+    "location_name": "Юрьев-Польский",
+    "region": "Владимирская область",
+    "lat": 56.4971948,
+    "lon": 39.67864
+  },
+  {
+    "id": "radarrussiia_87972_Юрьев-Польский",
+    "channel": "radarrussiia",
+    "date": "2026-08-15T01:20:31+00:00",
+    "text": "Юрьев-Польский район\nВладимирская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Юрьев-Польский",
+    "region": "Владимирская область",
+    "lat": 56.4971948,
+    "lon": 39.67864
+  },
+  {
+    "id": "vrv_radar_82101",
+    "channel": "vrv_radar",
+    "date": "2026-08-15T01:22:42+00:00",
+    "text": "Сочи и близлежащие\nКраснодарский край\nОтбой опасности по БПЛА\nОпасность на территории региона сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_80269_Самара",
+    "channel": "locatorru",
+    "date": "2026-08-15T01:24:48+00:00",
+    "text": "Самара, зачем снимаете? \n\n📡Локатор России - @locatorru",
+    "type": "unknown",
+    "location_name": "Самара",
+    "region": null,
+    "lat": 53.1956255,
+    "lon": 50.1014927
+  },
+  {
+    "id": "locatorru_80270_Переславский",
+    "channel": "locatorru",
+    "date": "2026-08-15T01:30:37+00:00",
+    "text": "Рязанцево, Переславский район, Ярославская область - пролёт 2 БПЛА в сторону г.Ярославль.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Переславский",
+    "region": "Ярославская область",
+    "lat": 56.8020836,
+    "lon": 38.6489913
+  },
+  {
+    "id": "locatorru_80270_Рязанцево",
+    "channel": "locatorru",
+    "date": "2026-08-15T01:30:37+00:00",
+    "text": "Рязанцево, Переславский район, Ярославская область - пролёт 2 БПЛА в сторону г.Ярославль.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Рязанцево",
+    "region": "Ярославская область",
+    "lat": 56.713569,
+    "lon": 39.2107177
   }
 ]
