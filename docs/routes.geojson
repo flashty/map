@@ -30,6 +30,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-08-15T10:44:58+00:00",
+        "last_updated": "2026-08-15T11:22:40+00:00",
+        "path_labels": [
+          "Валуйский (Белгородская область)",
+          "Орлиное"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.9638901,
+            50.1632256
+          ],
+          [
+            37.9614133,
+            50.4482076
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-08-15T10:53:00+00:00",
         "last_updated": "2026-08-15T11:09:26+00:00",
         "path_labels": [
