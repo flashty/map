@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-15T00:23:23+00:00",
+        "last_updated": "2026-08-15T01:02:29+00:00",
+        "path_labels": [
+          "Краснодарский Край",
+          "Ахтарск"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.0258102,
+            45.7682027
+          ],
+          [
+            38.1712168,
+            46.0490992
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-15T01:04:16+00:00",
+        "last_updated": "2026-08-15T01:04:16+00:00",
+        "path_labels": [
+          "Владимирская область",
+          "Ярославской области"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.692217228428206,
+            55.99320426604208
+          ],
+          [
+            39.1676524117716,
+            57.861744460009035
+          ]
+        ]
+      }
+    }
+  ]
 }
