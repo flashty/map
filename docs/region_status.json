@@ -59,16 +59,6 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Трасса Осипенко-Петровка\nЗапорожская область РФ\n\nТревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-15T14:03:24+00:00",
-    "expires_at": "2026-08-15T15:03:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "missile",
@@ -103,9 +93,9 @@
     "display_name": "Луганская область",
     "type": "missile",
     "text": "Лисичанск и близлежащие\nЛНР\nРакетная тревога",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-15T15:01:14+00:00",
-    "expires_at": "2026-08-15T16:01:14+00:00",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-15T15:03:15+00:00",
+    "expires_at": "2026-08-15T16:03:15+00:00",
     "count": null,
     "count_approx": false
   }
