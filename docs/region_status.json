@@ -39,23 +39,13 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "missile",
-    "text": "Воронежская область\nОрловская область\nБрянская область \nКурская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-15T14:51:35+00:00",
-    "expires_at": "2026-08-15T15:51:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Карло, Енакиево, Юнокоммунаровск ДНР и близлежащие \nОпасность по БПЛА и ФПВ",
+    "text": "Макеевка ДНР БПЛА Шарк",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-15T15:20:08+00:00",
-    "expires_at": "2026-08-15T16:20:08+00:00",
+    "updated_at": "2026-08-15T15:45:09+00:00",
+    "expires_at": "2026-08-15T16:45:09+00:00",
     "count": null,
     "count_approx": false
   },
@@ -69,13 +59,23 @@
     "count": null,
     "count_approx": false
   },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Краснодарский край, Воронежская область, Тульская область, Рязанская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-15T15:14:37+00:00",
-    "expires_at": "2026-08-15T16:14:37+00:00",
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "missile",
+    "text": "Херсонская область РФ, Запорожская область РФ, ЛДНР \nАвиационная ракетная бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-15T15:32:39+00:00",
+    "expires_at": "2026-08-15T16:32:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "missile",
+    "text": "Херсонская область РФ, Запорожская область РФ, ЛДНР \nАвиационная ракетная бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-15T15:32:39+00:00",
+    "expires_at": "2026-08-15T16:32:39+00:00",
     "count": null,
     "count_approx": false
   }
