@@ -1,11 +1,11 @@
 {
   "запорожск": {
-    "display_name": "Запорожская область",
+    "display_name": "Запорожской области",
     "type": "drone",
-    "text": "Дорожное направление  АКИМОВКА - МЕЛИТОПОЛЬ Р—280 \nОпасность по БПЛА \n\nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-16T05:07:45+00:00",
-    "expires_at": "2026-08-16T06:07:45+00:00",
+    "text": "Опасность БПЛА по трассе\nр - 280 по всей Запорожской области РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-16T05:42:31+00:00",
+    "expires_at": "2026-08-16T06:42:31+00:00",
     "count": null,
     "count_approx": false
   },
@@ -16,6 +16,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-16T05:17:36+00:00",
     "expires_at": "2026-08-16T06:17:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Троицкое Лнр \nОпасность по БПЛА Хорнет",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-16T05:42:53+00:00",
+    "expires_at": "2026-08-16T06:42:53+00:00",
     "count": null,
     "count_approx": false
   }
