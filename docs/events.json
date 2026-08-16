@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_82199",
-    "channel": "vrv_radar",
-    "date": "2026-08-15T16:37:34+00:00",
-    "text": "Ростовская область\nФиксация крылатой ракеты",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219496",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T16:37:52+00:00",
-    "text": "Западнее Армянск тревога по БПЛА от Черного моря",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_82200",
-    "channel": "vrv_radar",
-    "date": "2026-08-15T16:37:54+00:00",
-    "text": "Ростовская область \nКаменский район \nРабота ПВО по крылатым ракетам \nМеры безопасности",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114996",
-    "channel": "kupolrussia",
-    "date": "2026-08-15T16:37:57+00:00",
-    "text": "Марковка ЛНР и близлежащие \nТревога по БПЛА , и далее в направлении Ростовской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114997",
-    "channel": "kupolrussia",
-    "date": "2026-08-15T16:38:10+00:00",
-    "text": "Западнее Армянск тревога по БПЛА от Черного моря",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_88059",
     "channel": "radarrussiia",
     "date": "2026-08-15T16:39:00+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219895",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T07:01:36+00:00",
+    "text": "Орехово Желобок БПЛА Хорнет\n\nНовотошковка БПЛА Хорнет\n\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115291",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T07:01:51+00:00",
+    "text": "Орехово Желобок БПЛА Хорнет\nНовотошковка БПЛА Хорнет\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219896",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T07:14:44+00:00",
+    "text": "Харцызск, Зугрэс ДНР и близлежащие \n\nОпасность по БПЛА Хорнет \nОсобое внимание на дорогах!",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115292",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T07:14:53+00:00",
+    "text": "Харцызск, Зугрэс ДНР и близлежащие \n\nОпасность по БПЛА Хорнет \nОсобое внимание на дорогах!",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219897",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T07:15:45+00:00",
+    "text": "Каховка БПЛА разведчик. Готовность к обстрелу.\nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
     "lat": null,
     "lon": null
   }
