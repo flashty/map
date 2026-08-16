@@ -1,93 +1,5 @@
 [
   {
-    "id": "kupolrussia_114902",
-    "channel": "kupolrussia",
-    "date": "2026-08-15T11:24:28+00:00",
-    "text": "Причерноморье Краснодарский край \nВозможно группа БПЛА в обход Крыма",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219392",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T11:26:41+00:00",
-    "text": "От  Почтового в направлении Симферополь фиксации БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114903",
-    "channel": "kupolrussia",
-    "date": "2026-08-15T11:26:51+00:00",
-    "text": "От  Почтового в направлении Симферополь фиксации БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219393",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T11:27:59+00:00",
-    "text": "Севастополь \nОпасность по Фпв",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219394",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T11:30:38+00:00",
-    "text": "Перевальное\nМраморное \nЗаречное и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114904",
-    "channel": "kupolrussia",
-    "date": "2026-08-15T11:30:57+00:00",
-    "text": "Перевальное\nМраморное \nЗаречное и близлежащие \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219395",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T11:33:15+00:00",
-    "text": "Республика Крым \nСевастополь \nОпасность по БПЛА со сбросами",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219396_Симферопольский",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T11:33:18+00:00",
-    "text": "Верхнекурганное и близлежащие \nСимферопольский район \nРеспублика Крым \nОпасность по фпв",
-    "type": "alert",
-    "location_name": "Симферопольский",
-    "region": "Республика Крым",
-    "lat": 44.9423753,
-    "lon": 34.0968267
-  },
-  {
     "id": "vrv_radar_82178",
     "channel": "vrv_radar",
     "date": "2026-08-15T11:34:44+00:00",
@@ -21998,5 +21910,93 @@
     "region": "Краснодарский край",
     "lat": 43.5854823,
     "lon": 39.723109
+  },
+  {
+    "id": "vrv_radar_82473_Коломна",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T01:49:17+00:00",
+    "text": "ГО Коломна\nМосковская область\nФиксации БПЛА",
+    "type": "drone",
+    "location_name": "Коломна",
+    "region": "Московская область",
+    "lat": 55.0938743,
+    "lon": 38.7670121
+  },
+  {
+    "id": "radarrussiia_88241_Коломна",
+    "channel": "radarrussiia",
+    "date": "2026-08-16T01:50:43+00:00",
+    "text": "ГО Коломна\nМосковская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Коломна",
+    "region": "Московская область",
+    "lat": 55.0938743,
+    "lon": 38.7670121
+  },
+  {
+    "id": "locatorru_80606_Дзержинск",
+    "channel": "locatorru",
+    "date": "2026-08-16T01:52:30+00:00",
+    "text": "Дзержинск, Нижегородская область - возможно сбитие единичного БПЛА.\n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": "Дзержинск",
+    "region": "Нижегородская область",
+    "lat": 56.2382157,
+    "lon": 43.4617405
+  },
+  {
+    "id": "radar_plus_bpla_13679",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-16T01:56:47+00:00",
+    "text": "Продолжаются массовые фиксации в сторону Московской области. \n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Московской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82474",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T01:58:36+00:00",
+    "text": "ГО Домодедово \nМосковская область\nПродолжается работа ПВО по БПЛА\nМеры безопасности",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82475_Подольск",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T01:59:01+00:00",
+    "text": "ГО Подольск\nМосковская область\nПродолжается работа ПВО по БПЛА\nМеры безопасности",
+    "type": "drone",
+    "location_name": "Подольск",
+    "region": "Московская область",
+    "lat": 55.4308841,
+    "lon": 37.5453056
+  },
+  {
+    "id": "radarrussiia_88242_Подольск",
+    "channel": "radarrussiia",
+    "date": "2026-08-16T01:59:15+00:00",
+    "text": "ГО Домодедово \nГО Подольск\nМосковская область\nПродолжается работа ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Подольск",
+    "region": "Московская область",
+    "lat": 55.4308841,
+    "lon": 37.5453056
+  },
+  {
+    "id": "vrv_radar_82476",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T01:59:44+00:00",
+    "text": "ГО Бронницы\nПродолжается работа ПВО по БПЛА\nМеры безопасности",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
