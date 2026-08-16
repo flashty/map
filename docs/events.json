@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_82398_Бронницы",
-    "channel": "vrv_radar",
-    "date": "2026-08-16T00:16:55+00:00",
-    "text": "ГО Бронницы\nМосковская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Бронницы",
-    "region": "Московская область",
-    "lat": 55.422,
-    "lon": 38.2591
-  },
-  {
-    "id": "vrv_radar_82399_Кимовский",
-    "channel": "vrv_radar",
-    "date": "2026-08-16T00:17:28+00:00",
-    "text": "Кимовский район\nТульская область\nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Кимовский",
-    "region": "Тульская область",
-    "lat": 53.8404975,
-    "lon": 38.6777887
-  },
-  {
-    "id": "vrv_radar_82400_Тула",
-    "channel": "vrv_radar",
-    "date": "2026-08-16T00:18:26+00:00",
-    "text": "Тула\nТульская область\nСбитие БПЛА\nМеры безопасности",
-    "type": "all_clear",
-    "location_name": "Тула",
-    "region": "Тульская область",
-    "lat": 54.1930321,
-    "lon": 37.61754
-  },
-  {
-    "id": "vrv_radar_82401_Коломна",
-    "channel": "vrv_radar",
-    "date": "2026-08-16T00:18:33+00:00",
-    "text": "ГО Коломна\nМосковская область\nФиксация от 3 БПЛА",
-    "type": "drone",
-    "location_name": "Коломна",
-    "region": "Московская область",
-    "lat": 55.0938743,
-    "lon": 38.7670121
-  },
-  {
-    "id": "LPRalarm_219823",
-    "channel": "LPRalarm",
-    "date": "2026-08-16T00:18:51+00:00",
-    "text": "Бахчисарай и близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_115233",
     "channel": "kupolrussia",
     "date": "2026-08-16T00:19:07+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Ростовская область",
     "lat": 49.863052,
     "lon": 41.393528
+  },
+  {
+    "id": "locatorru_80711",
+    "channel": "locatorru",
+    "date": "2026-08-16T22:45:57+00:00",
+    "text": "Ещё 1 БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_88349_Миллеровский",
+    "channel": "radarrussiia",
+    "date": "2026-08-16T22:46:00+00:00",
+    "text": "Миллеровский район\nМорозовский район\nРостовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Миллеровский",
+    "region": "Ростовская область",
+    "lat": 49.0249872,
+    "lon": 40.2651861
+  },
+  {
+    "id": "radarrussiia_88349_Морозовский",
+    "channel": "radarrussiia",
+    "date": "2026-08-16T22:46:00+00:00",
+    "text": "Миллеровский район\nМорозовский район\nРостовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Морозовский",
+    "region": "Ростовская область",
+    "lat": 49.863052,
+    "lon": 41.393528
+  },
+  {
+    "id": "kupolrussia_115759",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T22:46:52+00:00",
+    "text": "Нижегородская область\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ® ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_220403",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T22:46:59+00:00",
+    "text": "Нижегородская область\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ® ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
   }
 ]
