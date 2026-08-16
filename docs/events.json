@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_219445",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T14:16:15+00:00",
-    "text": "Новый Оскол и близлежащие\nБелгородская область\n\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114950",
-    "channel": "kupolrussia",
-    "date": "2026-08-15T14:16:47+00:00",
-    "text": "Новый Оскол и близлежащие\nБелгородская область\n\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_82188_Новороссийск",
-    "channel": "vrv_radar",
-    "date": "2026-08-15T14:35:37+00:00",
-    "text": "Новороссийск\nКраснодарский край\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Новороссийск",
-    "region": "Краснодарский край",
-    "lat": 44.7239578,
-    "lon": 37.7690711
-  },
-  {
-    "id": "LPRalarm_219446",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T14:35:43+00:00",
-    "text": "Горловка опасность по БПЛА и ФПВ повторно, всем быть предельно осторожными",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_82189_Анапа",
     "channel": "vrv_radar",
     "date": "2026-08-15T14:35:43+00:00",
@@ -21996,6 +21952,50 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82521",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T04:34:10+00:00",
+    "text": "Анапа и близлежащие\nКраснодарский край\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_88271",
+    "channel": "radarrussiia",
+    "date": "2026-08-16T04:34:39+00:00",
+    "text": "Анапа и близлежащие\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82522",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T04:36:36+00:00",
+    "text": "Московская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_88272",
+    "channel": "radarrussiia",
+    "date": "2026-08-16T04:36:59+00:00",
+    "text": "Московская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Московская область",
     "lat": null,
     "lon": null
   }
