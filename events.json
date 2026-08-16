@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_114965",
-    "channel": "kupolrussia",
-    "date": "2026-08-15T15:15:51+00:00",
-    "text": "Орловская область \nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_82194",
-    "channel": "vrv_radar",
-    "date": "2026-08-15T15:15:52+00:00",
-    "text": "Орловская область\nВоронежская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219464",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T15:16:28+00:00",
-    "text": "Карло, Енакиево, Юнокоммунаровск ДНР и близлежащие \nОпасность по БПЛА и ФПВ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219465",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T15:19:04+00:00",
-    "text": "Константиновка\nДНР\n\n РСЗО",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219466_Киевский",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T15:19:43+00:00",
-    "text": "Донецк Киевский район БПЛА Шарк",
-    "type": "drone",
-    "location_name": "Киевский",
-    "region": null,
-    "lat": 54.2238674,
-    "lon": 34.504867
-  },
-  {
-    "id": "LPRalarm_219466_Шарк",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T15:19:43+00:00",
-    "text": "Донецк Киевский район БПЛА Шарк",
-    "type": "drone",
-    "location_name": "Шарк",
-    "region": null,
-    "lat": 60.0122717,
-    "lon": 30.2379792
-  },
-  {
     "id": "LPRalarm_219467",
     "channel": "LPRalarm",
     "date": "2026-08-15T15:19:54+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115267",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T05:45:51+00:00",
+    "text": "Дорога \nТокмак-Бердянск \nОпасность по БПЛА Хорнет \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219872_Шебекинский",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T05:49:27+00:00",
+    "text": "Вознесеновка и близлежащие \nШебекинский район \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": null,
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "kupolrussia_115268_Шебекинский",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T05:49:56+00:00",
+    "text": "Вознесеновка и близлежащие \nШебекинский район \nБелгородская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу © \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": "Белгородская область",
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "LPRalarm_219873",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T05:50:08+00:00",
+    "text": "Дорогие наши близкие!\n\nОгромное Вам спасибо за поддержку нашей деятельности!\n❤️❤️❤️\n\nhttps://pay.cloudtips.ru/p/f2a9c1d8",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82533",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T05:53:08+00:00",
+    "text": "Тульская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82534",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T05:59:54+00:00",
+    "text": "❗️По данным разведки, со стороны ВСУк готовится удар по аэродромам со стратегической и тактической авиацией ВКС РФ.",
+    "type": "aviation",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
