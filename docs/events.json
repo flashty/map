@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_219511",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T16:52:28+00:00",
-    "text": "Каменск-Шахтинский\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219512",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T16:52:35+00:00",
-    "text": "Каменск-Шахтинский возможно ещё 1 ракета от ЛНР",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_80349_Шахтинский",
-    "channel": "locatorru",
-    "date": "2026-08-15T16:53:16+00:00",
-    "text": "Каменск-Шахтинский, укрытие, повторно! \nЕще летит с запада по вашему направлению. \n\n📡Локатор России - @locatorru",
-    "type": "unknown",
-    "location_name": "Шахтинский",
-    "region": null,
-    "lat": 51.6335003,
-    "lon": 133.2599632
-  },
-  {
-    "id": "LPRalarm_219513",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T16:53:39+00:00",
-    "text": "Белолуцк и близлежащие \nТревога по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219514",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T16:53:54+00:00",
-    "text": "Белолуцк ЛНР в направлении Миллерово, Чертково фиксации БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_80350_Донецк",
-    "channel": "locatorru",
-    "date": "2026-08-15T16:53:59+00:00",
-    "text": "Донецк, Ростовская область - соблюдайте меры безопасности! \n\n📡Локатор России - @locatorru",
-    "type": "alert",
-    "location_name": "Донецк",
-    "region": "Ростовская область",
-    "lat": 48.3382864,
-    "lon": 39.9509488
-  },
-  {
-    "id": "LPRalarm_219515",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T16:54:56+00:00",
-    "text": "Ростовская область\nопасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_115005",
     "channel": "kupolrussia",
     "date": "2026-08-15T16:55:00+00:00",
@@ -21996,6 +21919,83 @@
     "type": "missile",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219912",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T07:53:38+00:00",
+    "text": "Старобельск от Кременная опасность по БПЛА, в том числе реактивным",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219913",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T07:54:19+00:00",
+    "text": "Лисичанск и близлежащие с юго-запада опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115306",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T07:54:48+00:00",
+    "text": "Старобельск от Кременная опасность по БПЛА, в том числе реактивным",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115307",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T07:54:56+00:00",
+    "text": "Лисичанск и близлежащие с юго-запада опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219914",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T07:58:44+00:00",
+    "text": "Повторно БПЛА Дартс от ГГ на Белую Березку\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115308",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T07:59:24+00:00",
+    "text": "Повторно БПЛА Дартс от ГГ на Белую Березку\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_13691",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-16T08:00:03+00:00",
+    "text": "🚨СВОБОДНЫЙ ИНТЕРНЕТ — СНОВА ДОСТУПЕН\n\nВсё больше привычных сервисов сталкиваются с ограничениями, а доступ к интернету становится нестабильным, но решение уже есть… \n\n🚀UNSTOP VPN — стабильный доступ к интернету даже там, где его начинают ограничивать.\n\n• Работает при ограничениях мобильного интернета\n• Быстрое и стабильное соединение без лишних задержек\n• Доступ к привычным сайтам, приложениям и сервисам\n• 10 бесплатных дней за каждого приглашённого друга\n• Подключение за несколько кликов на люб",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
