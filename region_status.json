@@ -1,14 +1,4 @@
 {
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Орловский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-15T23:40:02+00:00",
-    "expires_at": "2026-08-16T00:40:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
@@ -22,10 +12,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Бахчисарай и близлежащие\nТревога по БПЛА\nРеспублика Крым",
+    "text": "От Орлиное в направлении Соколиное фиксация БПЛА\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-16T00:19:07+00:00",
-    "expires_at": "2026-08-16T01:19:07+00:00",
+    "updated_at": "2026-08-16T00:44:07+00:00",
+    "expires_at": "2026-08-16T01:44:07+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,16 +26,6 @@
     "channel": "locatorru",
     "updated_at": "2026-08-16T00:05:29+00:00",
     "expires_at": "2026-08-16T01:05:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Лискинский район\nВоронежская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-15T23:35:54+00:00",
-    "expires_at": "2026-08-16T00:35:54+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,16 +46,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-16T00:06:39+00:00",
     "expires_at": "2026-08-16T01:06:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Донецк Ростовский\nКаменск Шахтинский\nИ близлежащие\nТревога по БПЛА сохраняется\nРостовская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-15T23:43:07+00:00",
-    "expires_at": "2026-08-16T00:43:07+00:00",
     "count": null,
     "count_approx": false
   },
@@ -109,16 +79,6 @@
     "count": null,
     "count_approx": false
   },
-  "рязанск": {
-    "display_name": "Рязанской области",
-    "type": "drone",
-    "text": "Волотово, Лебедянский район, Липецкая область - пролёт БПЛА в сторону Рязанской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-16T00:13:28+00:00",
-    "expires_at": "2026-08-16T01:13:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ярославск": {
     "display_name": "Ярославская область",
     "type": "drone",
@@ -136,6 +96,16 @@
     "channel": "locatorru",
     "updated_at": "2026-08-16T00:20:52+00:00",
     "expires_at": "2026-08-16T01:20:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Акимовка\nИ близлежащие\nТревога по БПЛА\nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-16T00:45:34+00:00",
+    "expires_at": "2026-08-16T01:45:34+00:00",
     "count": null,
     "count_approx": false
   }
