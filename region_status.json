@@ -12,10 +12,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "От Орлиное в направлении Соколиное фиксация БПЛА\nРеспублика Крым",
+    "text": "Симферополь и близлежащие\nТревога по БПЛА от Бахчисарай\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-16T00:44:07+00:00",
-    "expires_at": "2026-08-16T01:44:07+00:00",
+    "updated_at": "2026-08-16T00:56:24+00:00",
+    "expires_at": "2026-08-16T01:56:24+00:00",
     "count": null,
     "count_approx": false
   },
@@ -29,23 +29,13 @@
     "count": null,
     "count_approx": false
   },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Тамбовский район\nТамбовская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-15T23:51:23+00:00",
-    "expires_at": "2026-08-16T00:51:23+00:00",
-    "count": 2,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Причерноморье Краснодарский край\nТревога по БПЛА от Керченского полуострова",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-16T00:06:39+00:00",
-    "expires_at": "2026-08-16T01:06:39+00:00",
+    "text": "Б. Утриш, Новороссийск, Геленджик, Туапсе и близлежащие  тревога по БПЛА\nКраснодарский край",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-16T00:58:02+00:00",
+    "expires_at": "2026-08-16T01:58:02+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,10 +52,10 @@
   "узлов": {
     "display_name": "Узловая область",
     "type": "drone",
-    "text": "Узловая, Тульская область - пролёт БПЛА в сторону Брусянки.\n\n📡Локатор России - @locatorru",
+    "text": "Узловая, Тульская область - пролёт БПЛА в сторону Новомосковска.\n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-08-15T23:51:44+00:00",
-    "expires_at": "2026-08-16T00:51:44+00:00",
+    "updated_at": "2026-08-16T00:51:02+00:00",
+    "expires_at": "2026-08-16T01:51:02+00:00",
     "count": null,
     "count_approx": false
   },
@@ -89,23 +79,43 @@
     "count": null,
     "count_approx": false
   },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Киреевск, Тульская область - пролёты БПЛА в сторону Московской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-16T00:20:52+00:00",
-    "expires_at": "2026-08-16T01:20:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Акимовка\nИ близлежащие\nТревога по БПЛА\nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-16T00:45:34+00:00",
-    "expires_at": "2026-08-16T01:45:34+00:00",
+    "text": "Мелитополь и близлежащие\nТревога по БПЛА\nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-16T00:52:39+00:00",
+    "expires_at": "2026-08-16T01:52:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калуга\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-16T00:54:41+00:00",
+    "expires_at": "2026-08-16T01:54:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Кимовский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-16T00:55:00+00:00",
+    "expires_at": "2026-08-16T01:55:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Виленка, Михайловский район, Рязанская область - пролёт БПЛА в сторону Серебряные Пруды, Московская область.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-16T00:55:44+00:00",
+    "expires_at": "2026-08-16T01:55:44+00:00",
     "count": null,
     "count_approx": false
   }
