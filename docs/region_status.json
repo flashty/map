@@ -9,23 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "alert",
-    "text": "Скадовск и близлежащие \nХерсонская область РФ \nОпасность по фпв",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-16T15:24:51+00:00",
-    "expires_at": "2026-08-16T16:24:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Евпатория \nУютное\nЗаозёрное и близлежащие \nРеспублика Крым\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "text": "Евпатория и близлежащие \nС юга еще фиксации БПЛА\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-16T16:07:15+00:00",
-    "expires_at": "2026-08-16T17:07:15+00:00",
+    "updated_at": "2026-08-16T16:26:27+00:00",
+    "expires_at": "2026-08-16T17:26:27+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +26,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-16T15:34:48+00:00",
     "expires_at": "2026-08-16T16:34:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Анапа, Темрюк, Крымск, Абинск, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-16T16:21:18+00:00",
+    "expires_at": "2026-08-16T17:21:18+00:00",
     "count": null,
     "count_approx": false
   }
