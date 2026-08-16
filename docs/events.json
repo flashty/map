@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_219443_Шебекинский",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T14:09:26+00:00",
-    "text": "Маслова Пристань \nШебекинский район \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "kupolrussia_114948_Шебекинский",
-    "channel": "kupolrussia",
-    "date": "2026-08-15T14:09:40+00:00",
-    "text": "Маслова Пристань \nШебекинский район \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "LPRalarm_219444",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T14:09:57+00:00",
-    "text": "Ракитное \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114949_Ракитное",
-    "channel": "kupolrussia",
-    "date": "2026-08-15T14:10:26+00:00",
-    "text": "Ракитное \nБелгородская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу © \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Ракитное",
-    "region": "Белгородская область",
-    "lat": 50.8343,
-    "lon": 35.832
-  },
-  {
     "id": "LPRalarm_219445",
     "channel": "LPRalarm",
     "date": "2026-08-15T14:16:15+00:00",
@@ -21996,6 +21952,50 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82519",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T04:09:58+00:00",
+    "text": "Республика Чувашия\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Чувашия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_88268",
+    "channel": "radarrussiia",
+    "date": "2026-08-16T04:10:48+00:00",
+    "text": "Республика Чувашия\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Чувашия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82520",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T04:11:35+00:00",
+    "text": "Самарская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_88270",
+    "channel": "radarrussiia",
+    "date": "2026-08-16T04:13:18+00:00",
+    "text": "Самарская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Самарская область",
     "lat": null,
     "lon": null
   }
