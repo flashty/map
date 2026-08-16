@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_219503",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T16:48:29+00:00",
-    "text": "Горловка, Пантелеймоновка, Енакиево, Углегорск ДНР и близлежащие \n\nОпасность по БПЛА и ФПВ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219504",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T16:48:54+00:00",
-    "text": "Южнее Чаплинки БпЛА противника\nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_80348_Сочи",
-    "channel": "locatorru",
-    "date": "2026-08-15T16:48:56+00:00",
-    "text": "Сочи, Адлер, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Сочи",
-    "region": "Краснодарский край",
-    "lat": 43.5854823,
-    "lon": 39.723109
-  },
-  {
-    "id": "locatorru_80348_Адлер",
-    "channel": "locatorru",
-    "date": "2026-08-15T16:48:56+00:00",
-    "text": "Сочи, Адлер, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Адлер",
-    "region": "Краснодарский край",
-    "lat": 43.4439715,
-    "lon": 39.9400928
-  },
-  {
-    "id": "LPRalarm_219505",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T16:48:56+00:00",
-    "text": "Южнее Чаплинки фиксации БПЛА противника.\nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_115001",
-    "channel": "kupolrussia",
-    "date": "2026-08-15T16:48:57+00:00",
-    "text": "Южнее Чаплинки БпЛА противника\nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_219506_Крымск",
     "channel": "LPRalarm",
     "date": "2026-08-15T16:49:21+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219903",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T07:25:43+00:00",
+    "text": "Шебекино \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115298_Шебекино",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T07:26:08+00:00",
+    "text": "Шебекино \nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Шебекино",
+    "region": "Белгородская область",
+    "lat": 50.4049335,
+    "lon": 36.8796822
+  },
+  {
+    "id": "vrv_radar_82542",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T07:26:15+00:00",
+    "text": "Анапа и близлежащие\nКраснодарский край\nОтбой опасности по БПЛА\nОпасность в регионе сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219904_Мелитополь",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T07:26:46+00:00",
+    "text": "Рыбаловка тревога по БПЛА в направлении Мелитополь",
+    "type": "drone",
+    "location_name": "Мелитополь",
+    "region": null,
+    "lat": 55.7020859,
+    "lon": 49.1449216
+  },
+  {
+    "id": "kupolrussia_115299_Мелитополь",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T07:26:54+00:00",
+    "text": "Рыбаловка тревога по БПЛА в направлении Мелитополь",
+    "type": "drone",
+    "location_name": "Мелитополь",
+    "region": null,
+    "lat": 55.7020859,
+    "lon": 49.1449216
+  },
+  {
+    "id": "LPRalarm_219905",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T07:29:49+00:00",
+    "text": "Столбовое и близлежащие Сакский район внимание по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
