@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_219435",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T14:01:20+00:00",
-    "text": "Курская область\n\nТревога по УАБ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114941",
-    "channel": "kupolrussia",
-    "date": "2026-08-15T14:01:24+00:00",
-    "text": "Курская область\n\nТревога по УАБ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219436_Хомутовский",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T14:02:04+00:00",
-    "text": "Хомутовский район тревога по УАБ",
-    "type": "alert",
-    "location_name": "Хомутовский",
-    "region": null,
-    "lat": 46.9285426,
-    "lon": 142.8645265
-  },
-  {
-    "id": "LPRalarm_219437",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T14:02:22+00:00",
-    "text": "Троебортное и близлежащие тревога по УАБ",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_114942_Хомутовский",
     "channel": "kupolrussia",
     "date": "2026-08-15T14:02:22+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Московская область",
     "lat": 55.4087122,
     "lon": 37.9094721
+  },
+  {
+    "id": "radar_plus_bpla_13686_Домодедово",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-16T03:19:29+00:00",
+    "text": "⚡️В Домодедово, Подмосковье сильный пожар в результате атаки БПЛА на Зелёные склады.\n\n✈️ Наш ТГ | 📲 Наш MAX\nгы у №\n: ю.\n1 2 К. - .\n(1 Радар ПЛЮС * БПЛА\n‚  @гадаг_р№м$з_юра",
+    "type": "drone",
+    "location_name": "Домодедово",
+    "region": null,
+    "lat": 55.4087122,
+    "lon": 37.9094721
+  },
+  {
+    "id": "vrv_radar_82513_Домодедово",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T03:23:55+00:00",
+    "text": "ГО Домодедово\nМосковская область\nСбитие БПЛА\nМеры безопасности",
+    "type": "all_clear",
+    "location_name": "Домодедово",
+    "region": "Московская область",
+    "lat": 55.4087122,
+    "lon": 37.9094721
+  },
+  {
+    "id": "vrv_radar_82514_Чехов",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T03:24:44+00:00",
+    "text": "ГО Чехов\nМосковская область\nСбитие БПЛА",
+    "type": "all_clear",
+    "location_name": "Чехов",
+    "region": "Московская область",
+    "lat": 55.1426603,
+    "lon": 37.4545328
+  },
+  {
+    "id": "vrv_radar_82515",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T03:24:52+00:00",
+    "text": "ГО Бронницы \nМосковская область\nРабота ПВО по БПЛА\nМеры безопасности",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
   }
 ]
