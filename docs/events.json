@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_219442",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T14:06:44+00:00",
-    "text": "Геленджик и близлежащие опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114947",
-    "channel": "kupolrussia",
-    "date": "2026-08-15T14:07:16+00:00",
-    "text": "Геленджик и близлежащие опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_219443_Шебекинский",
     "channel": "LPRalarm",
     "date": "2026-08-15T14:09:26+00:00",
@@ -21996,6 +21974,28 @@
     "type": "unknown",
     "location_name": null,
     "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82518",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T04:06:13+00:00",
+    "text": "Рязанская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_88267",
+    "channel": "radarrussiia",
+    "date": "2026-08-16T04:07:23+00:00",
+    "text": "Рязанская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
     "lat": null,
     "lon": null
   }
