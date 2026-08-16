@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_114945_Новотроицкий",
-    "channel": "kupolrussia",
-    "date": "2026-08-15T14:04:53+00:00",
-    "text": "Каховский район на юг в направлении примерно Новотроицкий район, Чаплынский район тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Новотроицкий",
-    "region": null,
-    "lat": 51.1756891,
-    "lon": 40.7166997
-  },
-  {
-    "id": "LPRalarm_219441",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T14:05:09+00:00",
-    "text": "Опасность БпЛА(ФПВ) по трассе\nр - 280 дорожное направление Приморск-Бердянск",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_114946",
-    "channel": "kupolrussia",
-    "date": "2026-08-15T14:05:31+00:00",
-    "text": "Опасность БпЛА(ФПВ) по трассе\nр - 280 дорожное направление Приморск-Бердянск",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_219442",
     "channel": "LPRalarm",
     "date": "2026-08-15T14:06:44+00:00",
@@ -21998,5 +21965,38 @@
     "region": null,
     "lat": 53.1481885,
     "lon": 36.3185713
+  },
+  {
+    "id": "vrv_radar_82517_Домодедово",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T03:52:06+00:00",
+    "text": "ГО Домодедово\nМосковская область\nСбитие БПЛА\nМеры безопасности",
+    "type": "all_clear",
+    "location_name": "Домодедово",
+    "region": "Московская область",
+    "lat": 55.4087122,
+    "lon": 37.9094721
+  },
+  {
+    "id": "kupolrussia_115255",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T03:53:55+00:00",
+    "text": "Ульяновская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219855",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T03:54:01+00:00",
+    "text": "Ульяновская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
   }
 ]
