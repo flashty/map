@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-16T12:03:46+00:00",
+        "last_updated": "2026-08-16T12:41:09+00:00",
+        "path_labels": [
+          "Темрюкский",
+          "Анапа"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.3098799,
+            45.4964119
+          ],
+          [
+            37.316887,
+            44.894272
+          ]
+        ]
+      }
+    }
+  ]
 }
