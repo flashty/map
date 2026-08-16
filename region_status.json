@@ -9,23 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Губкинский МО\nСтарый Оскол\nИ близлежащие\nТревога по БПЛА\nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-16T20:56:27+00:00",
-    "expires_at": "2026-08-16T21:56:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Новороссийск и близлежащие\nТревога по БПЛА сохраняется\nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-16T21:02:37+00:00",
-    "expires_at": "2026-08-16T22:02:37+00:00",
+    "text": "Новороссийск, Краснодарский край - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-16T21:57:22+00:00",
+    "expires_at": "2026-08-16T22:57:22+00:00",
     "count": null,
     "count_approx": false
   },
@@ -61,11 +51,11 @@
   },
   "волгоградск": {
     "display_name": "Волгоградская область",
-    "type": "drone",
-    "text": "Калач-на-Дону\nВолгоградская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-16T21:47:01+00:00",
-    "expires_at": "2026-08-16T22:47:01+00:00",
+    "type": "alert",
+    "text": "Волгоград, Светлоярский район \nВолгоградская область \nМеры безопасности(10 минут)",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-16T21:59:15+00:00",
+    "expires_at": "2026-08-16T22:59:15+00:00",
     "count": null,
     "count_approx": false
   },
@@ -84,8 +74,38 @@
     "type": "drone",
     "text": "Тарасовский район\nРостовская область\nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-08-16T21:46:23+00:00",
-    "expires_at": "2026-08-16T22:46:23+00:00",
+    "updated_at": "2026-08-16T21:58:07+00:00",
+    "expires_at": "2026-08-16T22:58:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Каховка\nХерсонская область РФ\nТревога по БПЛА Баба-Яга",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-16T21:47:45+00:00",
+    "expires_at": "2026-08-16T22:47:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "астраханск": {
+    "display_name": "Астраханская область",
+    "type": "drone",
+    "text": "Астраханская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-16T21:54:51+00:00",
+    "expires_at": "2026-08-16T22:54:51+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калмык": {
+    "display_name": "Республика Калмыкия",
+    "type": "drone",
+    "text": "Республика Калмыкия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-16T21:56:32+00:00",
+    "expires_at": "2026-08-16T22:56:32+00:00",
     "count": null,
     "count_approx": false
   }
