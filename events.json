@@ -1,16 +1,5 @@
 [
   {
-    "id": "LPRalarm_219824",
-    "channel": "LPRalarm",
-    "date": "2026-08-16T00:20:31+00:00",
-    "text": "Балаклавская ТЭС\nБалаклава\nТревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_82403_Перемышльский",
     "channel": "vrv_radar",
     "date": "2026-08-16T00:20:46+00:00",
@@ -21996,6 +21985,17 @@
     "type": "drone",
     "location_name": null,
     "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82651",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T23:01:07+00:00",
+    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
