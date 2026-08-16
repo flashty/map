@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_219668",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T21:04:39+00:00",
-    "text": "Мариуполь \nНовоазовский район и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219669",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T21:05:06+00:00",
-    "text": "Калинино\nПервомайское и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_80422",
-    "channel": "locatorru",
-    "date": "2026-08-15T21:05:50+00:00",
-    "text": "Куськино, Мантуровский район, Курская область - продолжается пролёт БПЛА на север в сторону Орловской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_82247_Бобров",
-    "channel": "vrv_radar",
-    "date": "2026-08-15T21:05:57+00:00",
-    "text": "Бобров\nВоронежская область\nРабота ПВО по БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Бобров",
-    "region": "Воронежская область",
-    "lat": 51.0967999,
-    "lon": 40.0307798
-  },
-  {
-    "id": "LPRalarm_219670_Эртильский",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T21:06:49+00:00",
-    "text": "Эртильский район, Воронежская область\nТревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": "Эртильский",
-    "region": "Воронежская область",
-    "lat": 51.7502498,
-    "lon": 40.6662411
-  },
-  {
-    "id": "locatorru_80423",
-    "channel": "locatorru",
-    "date": "2026-08-15T21:07:02+00:00",
-    "text": "Щучье, Эртильский район, Воронежская область - пролёты БПЛА через Эртиль и далее на Тамбовскую область. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_219671",
     "channel": "LPRalarm",
     "date": "2026-08-15T21:07:02+00:00",
@@ -21996,6 +21930,72 @@
     "type": "unknown",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_220140",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T15:50:52+00:00",
+    "text": "Саки\nНовофедоровка и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115513",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T15:51:14+00:00",
+    "text": "Саки\nНовофедоровка и близлежащие \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_220141",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T15:55:23+00:00",
+    "text": "Мелитополь и близлежащие \nОпасность по барражирующим боеприпасам \nЗапорожская область РФ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115514",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T15:55:34+00:00",
+    "text": "Мелитополь и близлежащие \nОпасность по барражирующим боеприпасам \nЗапорожская область РФ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_220142",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T15:56:28+00:00",
+    "text": "Мелитополь опасность по RAM2-Х\nЗапорожская область РФ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115515",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T15:56:34+00:00",
+    "text": "Мелитополь опасность по RAM2-Х\nЗапорожская область РФ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
