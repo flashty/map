@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_219827_Фиолент",
-    "channel": "LPRalarm",
-    "date": "2026-08-16T00:34:01+00:00",
-    "text": "Фиолент, Балаклава\nС моря ещё фиксации БПЛА",
-    "type": "drone",
-    "location_name": "Фиолент",
-    "region": null,
-    "lat": 43.1192297,
-    "lon": 131.9618693
-  },
-  {
-    "id": "vrv_radar_82412_Коломна",
-    "channel": "vrv_radar",
-    "date": "2026-08-16T00:35:13+00:00",
-    "text": "ГО Коломна\nМосковская область\nСбитие БПЛА\nМеры безопасности",
-    "type": "all_clear",
-    "location_name": "Коломна",
-    "region": "Московская область",
-    "lat": 55.0938743,
-    "lon": 38.7670121
-  },
-  {
-    "id": "locatorru_80582",
-    "channel": "locatorru",
-    "date": "2026-08-16T00:35:42+00:00",
-    "text": "Ещё 1 БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_82413_Ступино",
-    "channel": "vrv_radar",
-    "date": "2026-08-16T00:36:36+00:00",
-    "text": "ГО Ступино\nМосковская область\nПродолжаются сбития БПЛА\nМеры безопасности",
-    "type": "all_clear",
-    "location_name": "Ступино",
-    "region": "Московская область",
-    "lat": 54.886598,
-    "lon": 38.0772589
-  },
-  {
-    "id": "LPRalarm_219828",
-    "channel": "LPRalarm",
-    "date": "2026-08-16T00:37:21+00:00",
-    "text": "Гвардейское и близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_82414_Домодедово",
-    "channel": "vrv_radar",
-    "date": "2026-08-16T00:37:32+00:00",
-    "text": "ГО Домодедово\nМосковская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Домодедово",
-    "region": "Московская область",
-    "lat": 55.4087122,
-    "lon": 37.9094721
-  },
-  {
-    "id": "radarrussiia_88201_Коломна",
-    "channel": "radarrussiia",
-    "date": "2026-08-16T00:37:36+00:00",
-    "text": "ГО Ступино\nГО Коломна\nМосковская область\nПродолжаются сбития БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": "Коломна",
-    "region": "Московская область",
-    "lat": 55.0938743,
-    "lon": 38.7670121
-  },
-  {
     "id": "kupolrussia_115237",
     "channel": "kupolrussia",
     "date": "2026-08-16T00:37:41+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Астраханская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_220413",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T23:38:41+00:00",
+    "text": "Джанкой и близлежащие\nТревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115769",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T23:38:55+00:00",
+    "text": "Джанкой и близлежащие\nТревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_220414",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T23:39:30+00:00",
+    "text": "Приморско-Ахтарск и близлежащие\nТревога по БПЛА сохраняется\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115770",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T23:39:53+00:00",
+    "text": "Приморско-Ахтарск и близлежащие\nТревога по БПЛА сохраняется\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_220415",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T23:40:48+00:00",
+    "text": "Трубчевск \nТревога по БПЛА Баба-Яга, повторно\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115771",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T23:41:04+00:00",
+    "text": "Трубчевск \nТревога по БПЛА Баба-Яга, повторно\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_220416",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T23:45:38+00:00",
+    "text": "Портовое, залив Красноперекопск, Ишунь и близлежащие тревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
