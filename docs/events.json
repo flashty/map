@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_82246",
-    "channel": "vrv_radar",
-    "date": "2026-08-15T20:59:21+00:00",
-    "text": "Липецкая область\nОпасность по БПЛА повторно",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_13668",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-15T20:59:24+00:00",
-    "text": "Очень много БПЛА в направлении Липецка / Тамбовской области.\n\nСвыше 60 единиц.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тамбовской области",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_219661_Климово",
     "channel": "LPRalarm",
     "date": "2026-08-15T20:59:25+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Республика Крым",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_220131_Одессы",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T15:17:35+00:00",
+    "text": "Пуски БПЛА от Одессы",
+    "type": "drone",
+    "location_name": "Одессы",
+    "region": null,
+    "lat": 48.7490351,
+    "lon": 44.5413187
+  },
+  {
+    "id": "kupolrussia_115505_Одессы",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T15:17:58+00:00",
+    "text": "Пуски БПЛА от Одессы",
+    "type": "drone",
+    "location_name": "Одессы",
+    "region": null,
+    "lat": 48.7490351,
+    "lon": 44.5413187
   }
 ]
