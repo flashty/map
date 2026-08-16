@@ -1,115 +1,5 @@
 [
   {
-    "id": "vrv_radar_82189_Анапа",
-    "channel": "vrv_radar",
-    "date": "2026-08-15T14:35:43+00:00",
-    "text": "Анапа\nКраснодарский край\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Анапа",
-    "region": "Краснодарский край",
-    "lat": 44.894272,
-    "lon": 37.316887
-  },
-  {
-    "id": "kupolrussia_114951",
-    "channel": "kupolrussia",
-    "date": "2026-08-15T14:35:58+00:00",
-    "text": "Горловка опасность по БПЛА и ФПВ повторно, всем быть предельно осторожными",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_88050",
-    "channel": "radarrussiia",
-    "date": "2026-08-15T14:36:07+00:00",
-    "text": "Новороссийск\nАнапа\nКраснодарский край\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_82190_Темрюкский",
-    "channel": "vrv_radar",
-    "date": "2026-08-15T14:36:28+00:00",
-    "text": "Темрюкский район\nКраснодарский край\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Темрюкский",
-    "region": "Краснодарский край",
-    "lat": 45.4964119,
-    "lon": 37.3098799
-  },
-  {
-    "id": "radarrussiia_88051_Темрюкский",
-    "channel": "radarrussiia",
-    "date": "2026-08-15T14:36:42+00:00",
-    "text": "Темрюкский район\nКраснодарский край\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Темрюкский",
-    "region": "Краснодарский край",
-    "lat": 45.4964119,
-    "lon": 37.3098799
-  },
-  {
-    "id": "LPRalarm_219447",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T14:37:33+00:00",
-    "text": "Константинова ДНР ракетная тревога",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_82191_Геленджик",
-    "channel": "vrv_radar",
-    "date": "2026-08-15T14:37:39+00:00",
-    "text": "Геленджик\nКраснодарский край\nФиксация БПЛА в вашем направлении",
-    "type": "drone",
-    "location_name": "Геленджик",
-    "region": "Краснодарский край",
-    "lat": 44.5609447,
-    "lon": 38.0766832
-  },
-  {
-    "id": "kupolrussia_114952",
-    "channel": "kupolrussia",
-    "date": "2026-08-15T14:37:48+00:00",
-    "text": "Константинова ДНР ракетная тревога",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_88052_Геленджик",
-    "channel": "radarrussiia",
-    "date": "2026-08-15T14:37:52+00:00",
-    "text": "Геленджик\nКраснодарский край\nФиксация БПЛА в вашем направлении\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Геленджик",
-    "region": "Краснодарский край",
-    "lat": 44.5609447,
-    "lon": 38.0766832
-  },
-  {
-    "id": "LPRalarm_219448",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T14:42:00+00:00",
-    "text": "Ракитное лебеди \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_114953",
     "channel": "kupolrussia",
     "date": "2026-08-15T14:42:23+00:00",
@@ -21996,6 +21886,116 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219856",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T05:04:41+00:00",
+    "text": "Бердянский район опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82523",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T05:04:59+00:00",
+    "text": "Орловская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_88273",
+    "channel": "radarrussiia",
+    "date": "2026-08-16T05:06:52+00:00",
+    "text": "Орловская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82524",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T05:06:59+00:00",
+    "text": "Нижегородская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82525",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T05:07:09+00:00",
+    "text": "Ярославская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82526",
+    "channel": "vrv_radar",
+    "date": "2026-08-16T05:07:27+00:00",
+    "text": "Воронежская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219857",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T05:07:34+00:00",
+    "text": "Дорожное направление  АКИМОВКА - МЕЛИТОПОЛЬ Р—280 \nОпасность по БПЛА \n\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115257",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T05:07:45+00:00",
+    "text": "Дорожное направление  АКИМОВКА - МЕЛИТОПОЛЬ Р—280 \nОпасность по БПЛА \n\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115256",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T05:07:45+00:00",
+    "text": "Бердянский район опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_88274",
+    "channel": "radarrussiia",
+    "date": "2026-08-16T05:07:50+00:00",
+    "text": "Нижегородская область\nЯрославская область\nВоронежская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Нижегородская область",
     "lat": null,
     "lon": null
   }
