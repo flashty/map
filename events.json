@@ -1,104 +1,5 @@
 [
   {
-    "id": "vrv_radar_82206_Славянский",
-    "channel": "vrv_radar",
-    "date": "2026-08-15T17:12:41+00:00",
-    "text": "Славянский район\nКраснодарский край\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Славянский",
-    "region": "Краснодарский край",
-    "lat": 44.6922114,
-    "lon": 40.5186028
-  },
-  {
-    "id": "radarrussiia_88065_Славянский",
-    "channel": "radarrussiia",
-    "date": "2026-08-15T17:15:02+00:00",
-    "text": "Славянский район\nКраснодарский край\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Славянский",
-    "region": "Краснодарский край",
-    "lat": 44.6922114,
-    "lon": 40.5186028
-  },
-  {
-    "id": "vrv_radar_82207",
-    "channel": "vrv_radar",
-    "date": "2026-08-15T17:15:08+00:00",
-    "text": "Ростовская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_88066",
-    "channel": "radarrussiia",
-    "date": "2026-08-15T17:15:41+00:00",
-    "text": "Ростовская область\nОтбой ракетной опасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219526",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T17:16:00+00:00",
-    "text": "Володарское и близлежащие\nДНР\nВнимание, возможно БПЛА разведчик",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219527",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T17:18:06+00:00",
-    "text": "Ровеньский район Белгородская область и далее в направлении Россошанский район Воронежская область фиксации БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_115016",
-    "channel": "kupolrussia",
-    "date": "2026-08-15T17:18:08+00:00",
-    "text": "Ровеньский район Белгородская область и далее в направлении Россошанский район Воронежская область фиксации БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219528",
-    "channel": "LPRalarm",
-    "date": "2026-08-15T17:19:20+00:00",
-    "text": "Восточные районы Воронежская область опасность по БПЛА от ЛНР и далее в направлении Саратовской и Тамбовской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_115017",
-    "channel": "kupolrussia",
-    "date": "2026-08-15T17:19:31+00:00",
-    "text": "Восточные районы Воронежская область опасность по БПЛА от ЛНР и далее в направлении Саратовской и Тамбовской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_80356",
     "channel": "locatorru",
     "date": "2026-08-15T17:19:49+00:00",
@@ -21998,5 +21899,104 @@
     "region": null,
     "lat": 54.3750277,
     "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_219930",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T08:51:40+00:00",
+    "text": "Повторно БПЛА Дартс от ГГ на Белую Березку",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115324",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T08:51:59+00:00",
+    "text": "Повторно БПЛА Дартс от ГГ на Белую Березку",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219931",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T08:57:07+00:00",
+    "text": "Объездная \nМелитополь \nТревога по БПЛА Хорнет\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115325",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T08:57:23+00:00",
+    "text": "Объездная \nМелитополь \nТревога по БПЛА Хорнет\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219933",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T08:59:43+00:00",
+    "text": "Соледар и близлежащие \nРакетная опасность \nДНР",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115326",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T08:59:44+00:00",
+    "text": "Соледар и близлежащие \nДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_219934",
+    "channel": "LPRalarm",
+    "date": "2026-08-16T09:00:10+00:00",
+    "text": "Отбой внимания по возможной ракетной опасности от ЛНР \nРостовская область",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115327",
+    "channel": "kupolrussia",
+    "date": "2026-08-16T09:00:26+00:00",
+    "text": "Отбой внимания по возможной ракетной опасности от ЛНР \nРостовская область",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_13697",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-16T09:00:29+00:00",
+    "text": "⚡️За ночь силами ПВО было уничтожено 822 БПЛА над территориями Белгородской, Брянской, Владимирской, Волгоградской, Воронежской, Калужской, Курской, Липецкой, Нижегородской, Орловской, Ростовской, Рязанской, Тамбовской, Тульской областей, Московского региона, Краснодарского края, Республики Крым и над акваториями Азовского и Черного морей.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородской областей",
+    "lat": null,
+    "lon": null
   }
 ]
