@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_82439_Домодедово",
-    "channel": "vrv_radar",
-    "date": "2026-08-16T01:03:22+00:00",
-    "text": "ГО Домодедово\nМосковская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Домодедово",
-    "region": "Московская область",
-    "lat": 55.4087122,
-    "lon": 37.9094721
-  },
-  {
-    "id": "vrv_radar_82440_Подольск",
-    "channel": "vrv_radar",
-    "date": "2026-08-16T01:03:42+00:00",
-    "text": "ГО Подольск\nМосковская область\nСбитие БПЛА\nМеры безопасности",
-    "type": "all_clear",
-    "location_name": "Подольск",
-    "region": "Московская область",
-    "lat": 55.4308841,
-    "lon": 37.5453056
-  },
-  {
-    "id": "radarrussiia_88218_Домодедово",
-    "channel": "radarrussiia",
-    "date": "2026-08-16T01:04:28+00:00",
-    "text": "ГО Домодедово\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Домодедово",
-    "region": "Московская область",
-    "lat": 55.4087122,
-    "lon": 37.9094721
-  },
-  {
-    "id": "radarrussiia_88219_Подольск",
-    "channel": "radarrussiia",
-    "date": "2026-08-16T01:04:49+00:00",
-    "text": "ГО Подольск\nМосковская область\nСбитие БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": "Подольск",
-    "region": "Московская область",
-    "lat": 55.4308841,
-    "lon": 37.5453056
-  },
-  {
     "id": "LPRalarm_219838",
     "channel": "LPRalarm",
     "date": "2026-08-16T01:04:49+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_220434",
+    "channel": "LPRalarm",
+    "date": "2026-08-17T04:16:14+00:00",
+    "text": "Туапсе и близлежащие отбой опасности по БПЛА. Режим повышенного внимания",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115793",
+    "channel": "kupolrussia",
+    "date": "2026-08-17T04:16:20+00:00",
+    "text": "Туапсе и близлежащие отбой опасности по БПЛА. Режим повышенного внимания",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82670",
+    "channel": "vrv_radar",
+    "date": "2026-08-17T04:20:45+00:00",
+    "text": "Сочи и близлежащие \nКраснодарский край \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_88359",
+    "channel": "radarrussiia",
+    "date": "2026-08-17T04:21:38+00:00",
+    "text": "Сочи и близлежащие \nКраснодарский край \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
