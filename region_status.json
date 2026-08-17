@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "дубов": {
-    "display_name": "Дубовое область",
-    "type": "drone",
-    "text": "Никольское Таврово Дубовое\nБелгородская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-17T11:24:09+00:00",
-    "expires_at": "2026-08-17T12:24:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
@@ -49,26 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курской области",
-    "type": "missile",
-    "text": "Белгород, Белгородский район и ситуативно Белгородская область! \nРакетная опасность! Займите Безопасные места!\n\n\nПотенциальная опасность для Курской области и Воронежской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-17T11:27:27+00:00",
-    "expires_at": "2026-08-17T12:27:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "воронежск": {
-    "display_name": "Воронежской области",
-    "type": "missile",
-    "text": "Белгород, Белгородский район и ситуативно Белгородская область! \nРакетная опасность! Займите Безопасные места!\n\n\nПотенциальная опасность для Курской области и Воронежской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-17T11:27:27+00:00",
-    "expires_at": "2026-08-17T12:27:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "alert",
@@ -76,6 +46,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-17T11:33:05+00:00",
     "expires_at": "2026-08-17T12:33:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Московская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-17T12:20:29+00:00",
+    "expires_at": "2026-08-17T13:20:29+00:00",
     "count": null,
     "count_approx": false
   }
