@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_219910",
-    "channel": "LPRalarm",
-    "date": "2026-08-16T07:52:02+00:00",
-    "text": "Кременная \nРакетная опасность \nЛНР",
-    "type": "missile",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219911",
-    "channel": "LPRalarm",
-    "date": "2026-08-16T07:52:15+00:00",
-    "text": "Кременная и близлежащие ракетная опасность ЛНР и далее на восток",
-    "type": "missile",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_115305",
-    "channel": "kupolrussia",
-    "date": "2026-08-16T07:52:33+00:00",
-    "text": "Кременная \nРакетная опасность \nЛНР",
-    "type": "missile",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219912",
-    "channel": "LPRalarm",
-    "date": "2026-08-16T07:53:38+00:00",
-    "text": "Старобельск от Кременная опасность по БПЛА, в том числе реактивным",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219913",
-    "channel": "LPRalarm",
-    "date": "2026-08-16T07:54:19+00:00",
-    "text": "Лисичанск и близлежащие с юго-запада опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_115306",
-    "channel": "kupolrussia",
-    "date": "2026-08-16T07:54:48+00:00",
-    "text": "Старобельск от Кременная опасность по БПЛА, в том числе реактивным",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_115307",
-    "channel": "kupolrussia",
-    "date": "2026-08-16T07:54:56+00:00",
-    "text": "Лисичанск и близлежащие с юго-запада опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219914",
-    "channel": "LPRalarm",
-    "date": "2026-08-16T07:58:44+00:00",
-    "text": "Повторно БПЛА Дартс от ГГ на Белую Березку\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_115308",
-    "channel": "kupolrussia",
-    "date": "2026-08-16T07:59:24+00:00",
-    "text": "Повторно БПЛА Дартс от ГГ на Белую Березку\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radar_plus_bpla_13691",
     "channel": "radar_plus_bpla",
     "date": "2026-08-16T08:00:03+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_220626",
+    "channel": "LPRalarm",
+    "date": "2026-08-17T11:06:12+00:00",
+    "text": "Никольское Бгд \nБПЛА разведка",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_220627",
+    "channel": "LPRalarm",
+    "date": "2026-08-17T11:06:44+00:00",
+    "text": "Карбонит, Камышеваха ЛНР тревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115961",
+    "channel": "kupolrussia",
+    "date": "2026-08-17T11:07:07+00:00",
+    "text": "Карбонит, Камышеваха ЛНР\nтревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_220628_Парковое",
+    "channel": "LPRalarm",
+    "date": "2026-08-17T11:07:24+00:00",
+    "text": "Парковое, Кацивели, Оползневое и близлежащие тревога по БПЛА с запада по суше и с моря",
+    "type": "drone",
+    "location_name": "Парковое",
+    "region": null,
+    "lat": 44.1472321,
+    "lon": 43.0025983
+  },
+  {
+    "id": "LPRalarm_220628_Кацивели",
+    "channel": "LPRalarm",
+    "date": "2026-08-17T11:07:24+00:00",
+    "text": "Парковое, Кацивели, Оползневое и близлежащие тревога по БПЛА с запада по суше и с моря",
+    "type": "drone",
+    "location_name": "Кацивели",
+    "region": null,
+    "lat": 54.3580615,
+    "lon": 48.3761321
+  },
+  {
+    "id": "kupolrussia_115962_Парковое",
+    "channel": "kupolrussia",
+    "date": "2026-08-17T11:07:45+00:00",
+    "text": "Парковое, Кацивели, Оползневое и близлежащие тревога по БПЛА с запада по суше и с моря",
+    "type": "drone",
+    "location_name": "Парковое",
+    "region": null,
+    "lat": 44.1472321,
+    "lon": 43.0025983
+  },
+  {
+    "id": "kupolrussia_115962_Кацивели",
+    "channel": "kupolrussia",
+    "date": "2026-08-17T11:07:45+00:00",
+    "text": "Парковое, Кацивели, Оползневое и близлежащие тревога по БПЛА с запада по суше и с моря",
+    "type": "drone",
+    "location_name": "Кацивели",
+    "region": null,
+    "lat": 54.3580615,
+    "lon": 48.3761321
+  },
+  {
+    "id": "LPRalarm_220629",
+    "channel": "LPRalarm",
+    "date": "2026-08-17T11:10:49+00:00",
+    "text": "г. Белгород повторно опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115963",
+    "channel": "kupolrussia",
+    "date": "2026-08-17T11:11:00+00:00",
+    "text": "г. Белгород повторно опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
