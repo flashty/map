@@ -1,71 +1,5 @@
 [
   {
-    "id": "locatorru_80644",
-    "channel": "locatorru",
-    "date": "2026-08-16T15:09:15+00:00",
-    "text": "Смоленская область, Калужская область, Орловская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_82555",
-    "channel": "vrv_radar",
-    "date": "2026-08-16T15:09:22+00:00",
-    "text": "Калужская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_80645_Новороссийск",
-    "channel": "locatorru",
-    "date": "2026-08-16T15:09:32+00:00",
-    "text": "Новороссийск, Геленджик, Краснодарский край - опасность по БПЛА с моря сохраняется. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Новороссийск",
-    "region": "Краснодарский край",
-    "lat": 44.7239578,
-    "lon": 37.7690711
-  },
-  {
-    "id": "locatorru_80645_Геленджик",
-    "channel": "locatorru",
-    "date": "2026-08-16T15:09:32+00:00",
-    "text": "Новороссийск, Геленджик, Краснодарский край - опасность по БПЛА с моря сохраняется. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Геленджик",
-    "region": "Краснодарский край",
-    "lat": 44.5609447,
-    "lon": 38.0766832
-  },
-  {
-    "id": "LPRalarm_220128",
-    "channel": "LPRalarm",
-    "date": "2026-08-16T15:10:39+00:00",
-    "text": "Евпатория \nРеспублика Крым \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_82556",
-    "channel": "vrv_radar",
-    "date": "2026-08-16T15:11:50+00:00",
-    "text": "Орловская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_115502",
     "channel": "kupolrussia",
     "date": "2026-08-16T15:12:11+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Луганская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "kupolrussia_116083",
+    "channel": "kupolrussia",
+    "date": "2026-08-17T18:01:36+00:00",
+    "text": "Старобельский район и далее на Северо-Восток \nГруппа БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_220774",
+    "channel": "LPRalarm",
+    "date": "2026-08-17T18:01:45+00:00",
+    "text": "Курск\nФатеж и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_116084_Курск",
+    "channel": "kupolrussia",
+    "date": "2026-08-17T18:02:05+00:00",
+    "text": "Курск\nФатеж и близлежащие\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Курск",
+    "region": null,
+    "lat": 51.7309249,
+    "lon": 36.1923123
+  },
+  {
+    "id": "locatorru_80791_Курск",
+    "channel": "locatorru",
+    "date": "2026-08-17T18:03:03+00:00",
+    "text": "Курск, опасность по БПЛА.\n\nНе попадите под обломки сбитых в небе БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": "Курск",
+    "region": null,
+    "lat": 51.7309249,
+    "lon": 36.1923123
+  },
+  {
+    "id": "LPRalarm_220775_Север",
+    "channel": "LPRalarm",
+    "date": "2026-08-17T18:03:15+00:00",
+    "text": "Север\nРостовская область \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Север",
+    "region": "Ростовская область",
+    "lat": 48.9236255,
+    "lon": 40.4006446
+  },
+  {
+    "id": "kupolrussia_116085_Север",
+    "channel": "kupolrussia",
+    "date": "2026-08-17T18:03:33+00:00",
+    "text": "Север\nРостовская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Север",
+    "region": "Ростовская область",
+    "lat": 48.9236255,
+    "lon": 40.4006446
   }
 ]
