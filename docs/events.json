@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_115238",
-    "channel": "kupolrussia",
-    "date": "2026-08-16T00:44:07+00:00",
-    "text": "От Орлиное в направлении Соколиное фиксация БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_82424_Домодедово",
-    "channel": "vrv_radar",
-    "date": "2026-08-16T00:44:15+00:00",
-    "text": "ГО Домодедово\nМосковская область\nРабота ПВО по БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Домодедово",
-    "region": "Московская область",
-    "lat": 55.4087122,
-    "lon": 37.9094721
-  },
-  {
-    "id": "vrv_radar_82425_Коломна",
-    "channel": "vrv_radar",
-    "date": "2026-08-16T00:45:32+00:00",
-    "text": "ГО Коломна\nМосковская область\nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Коломна",
-    "region": "Московская область",
-    "lat": 55.0938743,
-    "lon": 38.7670121
-  },
-  {
     "id": "LPRalarm_219830",
     "channel": "LPRalarm",
     "date": "2026-08-16T00:45:34+00:00",
@@ -21996,6 +21963,39 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82655",
+    "channel": "vrv_radar",
+    "date": "2026-08-17T01:20:24+00:00",
+    "text": "Волгоград \nВолгоградская область \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82656",
+    "channel": "vrv_radar",
+    "date": "2026-08-17T01:24:46+00:00",
+    "text": "Волгоградская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_88352",
+    "channel": "radarrussiia",
+    "date": "2026-08-17T01:24:54+00:00",
+    "text": "Волгоградская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Волгоградская область",
     "lat": null,
     "lon": null
   }
