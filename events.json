@@ -1,71 +1,5 @@
 [
   {
-    "id": "locatorru_80587_Ступинский",
-    "channel": "locatorru",
-    "date": "2026-08-16T00:50:33+00:00",
-    "text": "д.Ольгино, Ступинский район, Московская область - пролёт 3 БПЛА в сторону Домодедово.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Ступинский",
-    "region": "Московская область",
-    "lat": 55.0528603,
-    "lon": 38.0592132
-  },
-  {
-    "id": "locatorru_80587_Ольгино",
-    "channel": "locatorru",
-    "date": "2026-08-16T00:50:33+00:00",
-    "text": "д.Ольгино, Ступинский район, Московская область - пролёт 3 БПЛА в сторону Домодедово.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Ольгино",
-    "region": "Московская область",
-    "lat": 55.7517377,
-    "lon": 37.9787468
-  },
-  {
-    "id": "vrv_radar_82429",
-    "channel": "vrv_radar",
-    "date": "2026-08-16T00:50:33+00:00",
-    "text": "Ростовская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_88209",
-    "channel": "radarrussiia",
-    "date": "2026-08-16T00:50:52+00:00",
-    "text": "Ростовская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_115240_Флотское",
-    "channel": "kupolrussia",
-    "date": "2026-08-16T00:50:53+00:00",
-    "text": "Флотское, Севастополь и далее на Балаклавскую ТЭС\nфиксации БПЛА",
-    "type": "drone",
-    "location_name": "Флотское",
-    "region": null,
-    "lat": 54.9576445,
-    "lon": 20.2735887
-  },
-  {
-    "id": "locatorru_80588",
-    "channel": "locatorru",
-    "date": "2026-08-16T00:51:02+00:00",
-    "text": "Узловая, Тульская область - пролёт БПЛА в сторону Новомосковска.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Узловая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_82430_Узловая",
     "channel": "vrv_radar",
     "date": "2026-08-16T00:51:06+00:00",
@@ -21996,6 +21930,72 @@
     "type": "unknown",
     "location_name": null,
     "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_220423",
+    "channel": "LPRalarm",
+    "date": "2026-08-17T02:46:57+00:00",
+    "text": "Славянское и близлежащие\nТревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115781",
+    "channel": "kupolrussia",
+    "date": "2026-08-17T02:47:20+00:00",
+    "text": "Славянское и близлежащие\nТревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115782",
+    "channel": "kupolrussia",
+    "date": "2026-08-17T02:47:51+00:00",
+    "text": "Астраханская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Астраханская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_220424",
+    "channel": "LPRalarm",
+    "date": "2026-08-17T02:47:56+00:00",
+    "text": "Астраханская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Астраханская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_80719",
+    "channel": "locatorru",
+    "date": "2026-08-17T02:54:07+00:00",
+    "text": "Калужская область, Орловская область, Белгородская область, Саратовская область, Пензенская область, Тамбовская область, Республика Мордовия, Нижегородская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_80720",
+    "channel": "locatorru",
+    "date": "2026-08-17T02:55:07+00:00",
+    "text": "Воронежская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
     "lat": null,
     "lon": null
   }
