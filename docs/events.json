@@ -1,49 +1,5 @@
 [
   {
-    "id": "radarrussiia_88207_Подольск",
-    "channel": "radarrussiia",
-    "date": "2026-08-16T00:50:05+00:00",
-    "text": "ГО Подольск\nМосковская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "alert",
-    "location_name": "Подольск",
-    "region": "Московская область",
-    "lat": 55.4308841,
-    "lon": 37.5453056
-  },
-  {
-    "id": "vrv_radar_82428_Ступино",
-    "channel": "vrv_radar",
-    "date": "2026-08-16T00:50:05+00:00",
-    "text": "ГО Ступино\nМосковская область\nПродолжаются сбития БПЛА\nМеры безопасности",
-    "type": "all_clear",
-    "location_name": "Ступино",
-    "region": "Московская область",
-    "lat": 54.886598,
-    "lon": 38.0772589
-  },
-  {
-    "id": "LPRalarm_219831_Флотское",
-    "channel": "LPRalarm",
-    "date": "2026-08-16T00:50:26+00:00",
-    "text": "Флотское, Севастополь и далее на Балаклавскую ТЭС\n фиксации БПЛА",
-    "type": "drone",
-    "location_name": "Флотское",
-    "region": null,
-    "lat": 54.9576445,
-    "lon": 20.2735887
-  },
-  {
-    "id": "radarrussiia_88208_Ступино",
-    "channel": "radarrussiia",
-    "date": "2026-08-16T00:50:30+00:00",
-    "text": "ГО Ступино\nМосковская область\nПродолжаются сбития БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": "Ступино",
-    "region": "Московская область",
-    "lat": 54.886598,
-    "lon": 38.0772589
-  },
-  {
     "id": "locatorru_80587_Ступинский",
     "channel": "locatorru",
     "date": "2026-08-16T00:50:33+00:00",
@@ -21996,6 +21952,50 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_220422",
+    "channel": "LPRalarm",
+    "date": "2026-08-17T02:29:36+00:00",
+    "text": "Воронежская область\nОтбой тревоги по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115778",
+    "channel": "kupolrussia",
+    "date": "2026-08-17T02:30:22+00:00",
+    "text": "Воронежская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115779",
+    "channel": "kupolrussia",
+    "date": "2026-08-17T02:30:41+00:00",
+    "text": "Волгоградская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115780",
+    "channel": "kupolrussia",
+    "date": "2026-08-17T02:30:50+00:00",
+    "text": "Волгоградская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Волгоградская область",
     "lat": null,
     "lon": null
   }
