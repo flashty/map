@@ -100,12 +100,12 @@
     "count_approx": false
   },
   "орловск": {
-    "display_name": "Орловской области",
+    "display_name": "Орловская область",
     "type": "drone",
-    "text": "Фатаж, Верхний Любаж и близлежащие, Курская область - опасность по БПЛА и в сторону Тросна, Кромы, Орловской области. \n\n📡Локатор России - @locatorru",
+    "text": "Болхов, Мценск, Орловская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-08-17T16:40:11+00:00",
-    "expires_at": "2026-08-17T17:40:11+00:00",
+    "updated_at": "2026-08-17T16:56:00+00:00",
+    "expires_at": "2026-08-17T17:56:00+00:00",
     "count": null,
     "count_approx": false
   },
@@ -122,10 +122,10 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Калужская область \nТульская область \nСмоленская область \n\nСохраняется\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-17T16:13:39+00:00",
-    "expires_at": "2026-08-17T17:13:39+00:00",
+    "text": "Славный, Чернь, Арсеньево, Плавск, Тульская область - опасность по БПЛА от Мценск, Болхов. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-17T16:57:25+00:00",
+    "expires_at": "2026-08-17T17:57:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -136,6 +136,46 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-17T16:45:35+00:00",
     "expires_at": "2026-08-17T17:45:35+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Железный порт \nЛазурное\nСкадовск\nИ близлежащие \nХерсонская область РФ \n\nс Запада\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-17T16:49:25+00:00",
+    "expires_at": "2026-08-17T17:49:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "чуваш": {
+    "display_name": "Республика Чувашия",
+    "type": "drone",
+    "text": "Республика Чувашия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-17T16:55:40+00:00",
+    "expires_at": "2026-08-17T17:55:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Московская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-17T16:56:31+00:00",
+    "expires_at": "2026-08-17T17:56:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "-": {
+    "display_name": "Республика -",
+    "type": "drone",
+    "text": "Чувашская Республика - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-17T17:00:09+00:00",
+    "expires_at": "2026-08-17T18:00:09+00:00",
     "count": null,
     "count_approx": false
   }
