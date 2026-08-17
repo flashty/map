@@ -1,16 +1,5 @@
 [
   {
-    "id": "LPRalarm_219931",
-    "channel": "LPRalarm",
-    "date": "2026-08-16T08:57:07+00:00",
-    "text": "Объездная \nМелитополь \nТревога по БПЛА Хорнет\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_115325",
     "channel": "kupolrussia",
     "date": "2026-08-16T08:57:23+00:00",
@@ -21998,5 +21987,16 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_220650_Старооскольский",
+    "channel": "LPRalarm",
+    "date": "2026-08-17T12:01:28+00:00",
+    "text": "Старооскольский район опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Старооскольский",
+    "region": null,
+    "lat": 51.2258539,
+    "lon": 38.070712
   }
 ]
