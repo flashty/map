@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_115325",
-    "channel": "kupolrussia",
-    "date": "2026-08-16T08:57:23+00:00",
-    "text": "Объездная \nМелитополь \nТревога по БПЛА Хорнет\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219933",
-    "channel": "LPRalarm",
-    "date": "2026-08-16T08:59:43+00:00",
-    "text": "Соледар и близлежащие \nРакетная опасность \nДНР",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_115326",
-    "channel": "kupolrussia",
-    "date": "2026-08-16T08:59:44+00:00",
-    "text": "Соледар и близлежащие \nДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_219934",
-    "channel": "LPRalarm",
-    "date": "2026-08-16T09:00:10+00:00",
-    "text": "Отбой внимания по возможной ракетной опасности от ЛНР \nРостовская область",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_115327",
     "channel": "kupolrussia",
     "date": "2026-08-16T09:00:26+00:00",
@@ -21998,5 +21954,49 @@
     "region": null,
     "lat": 51.2258539,
     "lon": 38.070712
+  },
+  {
+    "id": "kupolrussia_115979_Старооскольский",
+    "channel": "kupolrussia",
+    "date": "2026-08-17T12:01:38+00:00",
+    "text": "Старооскольский район\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Старооскольский",
+    "region": null,
+    "lat": 51.2258539,
+    "lon": 38.070712
+  },
+  {
+    "id": "LPRalarm_220651",
+    "channel": "LPRalarm",
+    "date": "2026-08-17T12:05:27+00:00",
+    "text": "Короча и близлежащие \nБелгородская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_220652",
+    "channel": "LPRalarm",
+    "date": "2026-08-17T12:05:39+00:00",
+    "text": "Белгород \nТревога по ФПВ",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115980",
+    "channel": "kupolrussia",
+    "date": "2026-08-17T12:05:39+00:00",
+    "text": "Короча и близлежащие \nБелгородская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
   }
 ]
