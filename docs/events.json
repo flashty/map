@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_219832",
-    "channel": "LPRalarm",
-    "date": "2026-08-16T00:52:24+00:00",
-    "text": "Мелитополь и близлежащие\nТревога по БПЛА\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_82432_Калуга",
-    "channel": "vrv_radar",
-    "date": "2026-08-16T00:52:37+00:00",
-    "text": "Калуга\nКалужская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Калуга",
-    "region": "Калужская область",
-    "lat": 54.5101087,
-    "lon": 36.2598115
-  },
-  {
-    "id": "kupolrussia_115241",
-    "channel": "kupolrussia",
-    "date": "2026-08-16T00:52:39+00:00",
-    "text": "Мелитополь и близлежащие\nТревога по БПЛА\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_80589",
-    "channel": "locatorru",
-    "date": "2026-08-16T00:52:54+00:00",
-    "text": "Маркетплейс Домодедово, Московская область - также опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_82433_Кимовский",
-    "channel": "vrv_radar",
-    "date": "2026-08-16T00:53:43+00:00",
-    "text": "Кимовский район\nТульская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Кимовский",
-    "region": "Тульская область",
-    "lat": 53.8404975,
-    "lon": 38.6777887
-  },
-  {
-    "id": "LPRalarm_219833",
-    "channel": "LPRalarm",
-    "date": "2026-08-16T00:53:47+00:00",
-    "text": "От Виноградово на Сусанино\nФиксация БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_80590",
-    "channel": "locatorru",
-    "date": "2026-08-16T00:54:15+00:00",
-    "text": "Ростовская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_88211_Ступино",
-    "channel": "radarrussiia",
-    "date": "2026-08-16T00:54:24+00:00",
-    "text": "ГО Ступино\nМосковская область\nФиксация БПЛА\nПриготовиться к сбитию\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": "Ступино",
-    "region": "Московская область",
-    "lat": 54.886598,
-    "lon": 38.0772589
-  },
-  {
-    "id": "radarrussiia_88212_Калуга",
-    "channel": "radarrussiia",
-    "date": "2026-08-16T00:54:41+00:00",
-    "text": "Калуга\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Калуга",
-    "region": "Калужская область",
-    "lat": 54.5101087,
-    "lon": 36.2598115
-  },
-  {
     "id": "LPRalarm_219834",
     "channel": "LPRalarm",
     "date": "2026-08-16T00:54:53+00:00",
@@ -21996,6 +21897,105 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82664",
+    "channel": "vrv_radar",
+    "date": "2026-08-17T03:16:10+00:00",
+    "text": "Астраханская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Астраханская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82665",
+    "channel": "vrv_radar",
+    "date": "2026-08-17T03:16:40+00:00",
+    "text": "Республика Калмыкия\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Калмыкия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82666",
+    "channel": "vrv_radar",
+    "date": "2026-08-17T03:26:12+00:00",
+    "text": "Ростовская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_220425",
+    "channel": "LPRalarm",
+    "date": "2026-08-17T03:28:28+00:00",
+    "text": "Республика Крым\nИ Севастополь\nОтбой опасности по БПЛА\nОстаётся режим повышенного внимания",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82667",
+    "channel": "vrv_radar",
+    "date": "2026-08-17T03:28:29+00:00",
+    "text": "Нижегородская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115783",
+    "channel": "kupolrussia",
+    "date": "2026-08-17T03:28:51+00:00",
+    "text": "Республика Крым\nИ Севастополь\nОтбой опасности по БПЛА\nОстаётся режим повышенного внимания",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_115785",
+    "channel": "kupolrussia",
+    "date": "2026-08-17T03:29:33+00:00",
+    "text": "Нижегородская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_220426",
+    "channel": "LPRalarm",
+    "date": "2026-08-17T03:29:40+00:00",
+    "text": "Нижегородская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82668",
+    "channel": "vrv_radar",
+    "date": "2026-08-17T03:30:19+00:00",
+    "text": "Республика Мордовия\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Мордовия",
     "lat": null,
     "lon": null
   }
