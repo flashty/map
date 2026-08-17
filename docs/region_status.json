@@ -11,11 +11,11 @@
   },
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Кировское ДНР в направлении Шахтёрск БПЛА Дартс",
+    "type": "alert",
+    "text": "Красноармейск, Константиновка и близлежащие тревога по УАБ\n\nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-17T05:21:41+00:00",
-    "expires_at": "2026-08-17T06:21:41+00:00",
+    "updated_at": "2026-08-17T05:59:38+00:00",
+    "expires_at": "2026-08-17T06:59:38+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,6 +26,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-17T05:44:19+00:00",
     "expires_at": "2026-08-17T06:44:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "alert",
+    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-17T05:49:08+00:00",
+    "expires_at": "2026-08-17T06:49:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "alert",
+    "text": "Курская область и близлежащие\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-17T05:52:09+00:00",
+    "expires_at": "2026-08-17T06:52:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Ракитянский район \nОпасность атаки БПЛА\nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-17T05:52:27+00:00",
+    "expires_at": "2026-08-17T06:52:27+00:00",
     "count": null,
     "count_approx": false
   }
