@@ -1,16 +1,5 @@
 [
   {
-    "id": "LPRalarm_219830",
-    "channel": "LPRalarm",
-    "date": "2026-08-16T00:45:34+00:00",
-    "text": "Акимовка\nИ близлежащие\nТревога по БПЛА\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_115239",
     "channel": "kupolrussia",
     "date": "2026-08-16T00:45:57+00:00",
@@ -21996,6 +21985,17 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82657",
+    "channel": "vrv_radar",
+    "date": "2026-08-17T01:28:45+00:00",
+    "text": "Саратовская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Саратовская область",
     "lat": null,
     "lon": null
   }
