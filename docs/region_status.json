@@ -3,9 +3,9 @@
     "display_name": "Республика Крым",
     "type": "alert",
     "text": "Феодосия \nМеры безопасности \nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-17T11:30:59+00:00",
-    "expires_at": "2026-08-17T12:30:59+00:00",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-17T11:31:13+00:00",
+    "expires_at": "2026-08-17T12:31:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарско": {
-    "display_name": "Краснодарского края",
-    "type": "drone",
-    "text": "Черноморское побережье Краснодарского края - опасность по БПЛА. \n\nНад Чёрным морем в обход Крымского полуострова ударные БПЛА в вашем направлении. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-17T10:39:48+00:00",
-    "expires_at": "2026-08-17T11:39:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
@@ -72,10 +62,10 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Карбонит, Камышеваха ЛНР\nтревога по БПЛА Хорнет",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-17T11:07:07+00:00",
-    "expires_at": "2026-08-17T12:07:07+00:00",
+    "text": "Горское и близлежащие \nЛНР \nОпасность по БПЛА Хорнет",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-17T11:40:44+00:00",
+    "expires_at": "2026-08-17T12:40:44+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,6 +106,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-17T11:27:27+00:00",
     "expires_at": "2026-08-17T12:27:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "alert",
+    "text": "Запорожская область РФ \nЛДНР\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-17T11:33:05+00:00",
+    "expires_at": "2026-08-17T12:33:05+00:00",
     "count": null,
     "count_approx": false
   }
