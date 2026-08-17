@@ -2,10 +2,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Климово и близлежащие Брянская область тревога по БПЛА Дартс",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-17T13:32:07+00:00",
-    "expires_at": "2026-08-17T14:32:07+00:00",
+    "text": "Группа БПЛА Дартс от н.п. Сагутьево в направлении Трубчевска\nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-17T14:21:32+00:00",
+    "expires_at": "2026-08-17T15:21:32+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,6 +26,36 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-17T14:08:41+00:00",
     "expires_at": "2026-08-17T15:08:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "drone",
+    "text": "Краснинский район\nЛипецкая область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-17T14:35:37+00:00",
+    "expires_at": "2026-08-17T15:35:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Свердловский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-17T14:35:15+00:00",
+    "expires_at": "2026-08-17T15:35:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Жиздринский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-17T14:36:00+00:00",
+    "expires_at": "2026-08-17T15:36:00+00:00",
     "count": null,
     "count_approx": false
   }
