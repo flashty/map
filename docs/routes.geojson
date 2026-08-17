@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-08-17T01:04:13+00:00",
-        "last_updated": "2026-08-17T01:04:13+00:00",
-        "path_labels": [
-          "Волгоградскую область",
-          "Астраханскую область"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.18461732858532,
-            49.59968258883065
-          ],
-          [
-            47.3409987703125,
-            47.11570837990087
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }

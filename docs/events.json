@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_82426_Бронницы",
-    "channel": "vrv_radar",
-    "date": "2026-08-16T00:47:05+00:00",
-    "text": "ГО Бронницы\nМосковская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Бронницы",
-    "region": "Московская область",
-    "lat": 55.422,
-    "lon": 38.2591
-  },
-  {
-    "id": "vrv_radar_82427_Подольск",
-    "channel": "vrv_radar",
-    "date": "2026-08-16T00:47:54+00:00",
-    "text": "ГО Подольск\nМосковская область\nМеры безопасности",
-    "type": "alert",
-    "location_name": "Подольск",
-    "region": "Московская область",
-    "lat": 55.4308841,
-    "lon": 37.5453056
-  },
-  {
-    "id": "radarrussiia_88206_Бронницы",
-    "channel": "radarrussiia",
-    "date": "2026-08-16T00:49:44+00:00",
-    "text": "ГО Бронницы\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Бронницы",
-    "region": "Московская область",
-    "lat": 55.422,
-    "lon": 38.2591
-  },
-  {
-    "id": "locatorru_80586_Фатеево",
-    "channel": "locatorru",
-    "date": "2026-08-16T00:50:00+00:00",
-    "text": "Фатеево, Тульская область - пролёт БПЛА в сторону Тулы.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Фатеево",
-    "region": "Тульская область",
-    "lat": 54.0792252,
-    "lon": 37.7603195
-  },
-  {
     "id": "radarrussiia_88207_Подольск",
     "channel": "radarrussiia",
     "date": "2026-08-16T00:50:05+00:00",
@@ -21996,6 +21952,50 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82661",
+    "channel": "vrv_radar",
+    "date": "2026-08-17T02:09:40+00:00",
+    "text": "Липецкая область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_82662",
+    "channel": "vrv_radar",
+    "date": "2026-08-17T02:10:10+00:00",
+    "text": "Тамбовская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_88357",
+    "channel": "radarrussiia",
+    "date": "2026-08-17T02:10:18+00:00",
+    "text": "Липецкая область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_88358",
+    "channel": "radarrussiia",
+    "date": "2026-08-17T02:10:52+00:00",
+    "text": "Тамбовская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тамбовская область",
     "lat": null,
     "lon": null
   }
