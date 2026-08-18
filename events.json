@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_116099",
-    "channel": "kupolrussia",
-    "date": "2026-08-17T18:22:51+00:00",
-    "text": "Присутствует ненормативная лексика.",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_80803_Коломна",
-    "channel": "locatorru",
-    "date": "2026-08-17T18:23:26+00:00",
-    "text": "Коломна, Михнево, Чехов, Московская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Коломна",
-    "region": "Московская область",
-    "lat": 55.0938743,
-    "lon": 38.7670121
-  },
-  {
-    "id": "locatorru_80803_Михнево",
-    "channel": "locatorru",
-    "date": "2026-08-17T18:23:26+00:00",
-    "text": "Коломна, Михнево, Чехов, Московская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Михнево",
-    "region": "Московская область",
-    "lat": 55.1212335,
-    "lon": 37.9584994
-  },
-  {
-    "id": "locatorru_80803_Чехов",
-    "channel": "locatorru",
-    "date": "2026-08-17T18:23:26+00:00",
-    "text": "Коломна, Михнево, Чехов, Московская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Чехов",
-    "region": "Московская область",
-    "lat": 55.1426603,
-    "lon": 37.4545328
-  },
-  {
-    "id": "locatorru_80804_Каменка",
-    "channel": "locatorru",
-    "date": "2026-08-17T18:24:43+00:00",
-    "text": "Каменка, Воронежская область - пролёт 2 БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Каменка",
-    "region": "Воронежская область",
-    "lat": 50.713001,
-    "lon": 39.432598
-  },
-  {
-    "id": "kupolrussia_116100",
-    "channel": "kupolrussia",
-    "date": "2026-08-17T18:25:03+00:00",
-    "text": "Липецкая область \nТамбовская область\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_220790",
     "channel": "LPRalarm",
     "date": "2026-08-17T18:25:07+00:00",
@@ -21996,6 +21930,72 @@
     "type": "alert",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_88618",
+    "channel": "radarrussiia",
+    "date": "2026-08-18T08:47:29+00:00",
+    "text": "Липецкая область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_13759",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-18T08:48:14+00:00",
+    "text": "Отбой опасности БПЛА по всем ранее объявленным регионам.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_221125",
+    "channel": "LPRalarm",
+    "date": "2026-08-18T08:52:14+00:00",
+    "text": "Горловка повышенная опасность по БПЛА и ФПВ, фиксации в разных районах города. Центр особенно аккуратно!",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_116417",
+    "channel": "kupolrussia",
+    "date": "2026-08-18T08:52:29+00:00",
+    "text": "Горловка повышенная опасность по БПЛА и ФПВ, фиксации в разных районах города. Центр особенно аккуратно!",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_221126",
+    "channel": "LPRalarm",
+    "date": "2026-08-18T08:59:04+00:00",
+    "text": "От ГГ БПЛА Дартс и ФПВ на Белую Березку\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_116418",
+    "channel": "kupolrussia",
+    "date": "2026-08-18T08:59:19+00:00",
+    "text": "От ГГ БПЛА Дартс и ФПВ на Белую Березку\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
