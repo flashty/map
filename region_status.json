@@ -1,21 +1,11 @@
 {
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "alert",
-    "text": "ЛДНР, Запорожская область РФ\nВНИМАНИЕ!!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-18T12:51:05+00:00",
-    "expires_at": "2026-08-18T13:51:05+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Брянская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "text": "Брянск и близлежащие \nБрянская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-18T13:12:25+00:00",
-    "expires_at": "2026-08-18T14:12:25+00:00",
+    "updated_at": "2026-08-18T13:59:38+00:00",
+    "expires_at": "2026-08-18T14:59:38+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,16 +26,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-18T13:29:38+00:00",
     "expires_at": "2026-08-18T14:29:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "alert",
-    "text": "Керчь и близлежащие \nРеспублика Крым \nОпасность по ФПВ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-18T12:53:33+00:00",
-    "expires_at": "2026-08-18T13:53:33+00:00",
     "count": null,
     "count_approx": false
   },
@@ -102,10 +82,40 @@
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Рязанская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-18T13:43:11+00:00",
-    "expires_at": "2026-08-18T14:43:11+00:00",
+    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-18T13:46:27+00:00",
+    "expires_at": "2026-08-18T14:46:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "missile",
+    "text": "Луганск \nРакетная опасность \nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-18T13:57:49+00:00",
+    "expires_at": "2026-08-18T14:57:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "missile",
+    "text": "Ростовская область\nРакетная опасность",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-18T13:55:42+00:00",
+    "expires_at": "2026-08-18T14:55:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "На Корочу от ГГ опасность по БПЛА \n\nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-18T13:57:19+00:00",
+    "expires_at": "2026-08-18T14:57:19+00:00",
     "count": null,
     "count_approx": false
   }
