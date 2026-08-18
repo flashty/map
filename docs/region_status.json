@@ -1,34 +1,4 @@
 {
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-18T12:03:28+00:00",
-    "expires_at": "2026-08-18T13:03:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-18T12:03:28+00:00",
-    "expires_at": "2026-08-18T13:03:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "От Хар горы в сторону центра Белгород тревога по БПЛА\nВозможно Хорнет\nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-18T12:06:11+00:00",
-    "expires_at": "2026-08-18T13:06:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "alert",
@@ -42,30 +12,30 @@
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
-    "text": "Брянская область, Курская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-18T12:57:17+00:00",
-    "expires_at": "2026-08-18T13:57:17+00:00",
+    "text": "Железногорск и близлежащие \nЕщё фиксации БПЛА \nКурская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-18T13:11:16+00:00",
+    "expires_at": "2026-08-18T14:11:16+00:00",
     "count": null,
     "count_approx": false
   },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Брянская область, Курская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-18T12:57:17+00:00",
-    "expires_at": "2026-08-18T13:57:17+00:00",
+    "text": "Брянская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-18T13:12:25+00:00",
+    "expires_at": "2026-08-18T14:12:25+00:00",
     "count": null,
     "count_approx": false
   },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Орловская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-18T13:00:44+00:00",
-    "expires_at": "2026-08-18T14:00:44+00:00",
+    "text": "Орловская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-18T13:06:47+00:00",
+    "expires_at": "2026-08-18T14:06:47+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +56,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-18T12:53:33+00:00",
     "expires_at": "2026-08-18T13:53:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Воронежская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-18T13:14:29+00:00",
+    "expires_at": "2026-08-18T14:14:29+00:00",
     "count": null,
     "count_approx": false
   }
