@@ -12,10 +12,10 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Ульяновский район\nКалужский район\nКозельский район\nСухиничский район\nФерзиковский район\nКалужская область\nФиксации групп БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-17T23:44:59+00:00",
-    "expires_at": "2026-08-18T00:44:59+00:00",
+    "text": "Балабаново, Боровский район, Калужская область - пролёты БПЛА в сторону Наро-Фоминск.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-18T00:25:16+00:00",
+    "expires_at": "2026-08-18T01:25:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,10 +52,10 @@
   "владимирск": {
     "display_name": "Владимирская область",
     "type": "drone",
-    "text": "Петушинский район\nВладимирская область\nФиксации групп БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Петушинский район\nВладимирская область\nФиксации БПЛА в сторону Московской области\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-17T23:45:58+00:00",
-    "expires_at": "2026-08-18T00:45:58+00:00",
+    "updated_at": "2026-08-18T00:25:15+00:00",
+    "expires_at": "2026-08-18T01:25:15+00:00",
     "count": null,
     "count_approx": false
   },
@@ -79,16 +79,6 @@
     "count": null,
     "count_approx": false
   },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Тула\nТульская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-18T00:14:08+00:00",
-    "expires_at": "2026-08-18T01:14:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
@@ -96,6 +86,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-17T23:38:20+00:00",
     "expires_at": "2026-08-18T00:38:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Раменское\nМосковская область\nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-18T00:32:46+00:00",
+    "expires_at": "2026-08-18T01:32:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рязань\nРязанская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-18T00:29:31+00:00",
+    "expires_at": "2026-08-18T01:29:31+00:00",
     "count": null,
     "count_approx": false
   }
