@@ -1,34 +1,4 @@
 {
-  "пензенск": {
-    "display_name": "Пензенской области",
-    "type": "drone",
-    "text": "По восточной части Тамбовской области и западной части Пензенской области, Республики Мордовия - продолжаются пролёты БПЛА на север. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-17T23:05:49+00:00",
-    "expires_at": "2026-08-18T00:05:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "мордов": {
-    "display_name": "Республики Мордовия",
-    "type": "drone",
-    "text": "По восточной части Тамбовской области и западной части Пензенской области, Республики Мордовия - продолжаются пролёты БПЛА на север. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-17T23:05:49+00:00",
-    "expires_at": "2026-08-18T00:05:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "alert",
-    "text": "Грайворон \nБелгородская область \nОпасность по Баба Яга",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-17T23:09:27+00:00",
-    "expires_at": "2026-08-18T00:09:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -66,16 +36,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-17T23:45:41+00:00",
     "expires_at": "2026-08-18T00:45:41+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "нижегородск": {
-    "display_name": "Нижегородскую область",
-    "type": "drone",
-    "text": "Владимирская область\nИвановская область\n\nОпасность БПЛА. Свыше 25 единиц в вашу сторону через Нижегородскую область.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-17T23:12:05+00:00",
-    "expires_at": "2026-08-18T00:12:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -139,33 +99,13 @@
     "count": null,
     "count_approx": false
   },
-  "тверск": {
-    "display_name": "Тверская область",
-    "type": "drone",
-    "text": "Тверская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-17T23:14:43+00:00",
-    "expires_at": "2026-08-18T00:14:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Новомосковск\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Тула\nТульская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-17T23:15:47+00:00",
-    "expires_at": "2026-08-18T00:15:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Адлер \nСириус \nСочи и близлежащие \nКраснодарский край \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-18T00:00:12+00:00",
-    "expires_at": "2026-08-18T01:00:12+00:00",
+    "updated_at": "2026-08-18T00:14:08+00:00",
+    "expires_at": "2026-08-18T01:14:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -182,10 +122,20 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Подольск\nМосковская область\nРабота ПВО по БПЛА \nМеры безопасности",
+    "text": "ГО Воскресенск \nМосковская область\nФиксации БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-08-17T23:57:19+00:00",
-    "expires_at": "2026-08-18T00:57:19+00:00",
+    "updated_at": "2026-08-18T00:15:47+00:00",
+    "expires_at": "2026-08-18T01:15:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Михайловский район\nРязанская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-18T00:16:11+00:00",
+    "expires_at": "2026-08-18T01:16:11+00:00",
     "count": null,
     "count_approx": false
   }
