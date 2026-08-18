@@ -70,31 +70,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-08-18T21:49:01+00:00",
-        "last_updated": "2026-08-18T22:27:45+00:00",
-        "path_labels": [
-          "Саратов",
-          "Татищевский (Саратовская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.034683,
-            51.530018
-          ],
-          [
-            45.6195942,
-            51.7890752
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-08-18T21:59:01+00:00",
         "last_updated": "2026-08-18T22:34:58+00:00",
         "path_labels": [
@@ -160,6 +135,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-08-18T22:23:07+00:00",
+        "last_updated": "2026-08-18T23:29:55+00:00",
+        "path_labels": [
+          "Алексин (Тульская область)",
+          "Заокский (Тульская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.0667213,
+            54.5028103
+          ],
+          [
+            37.3989781,
+            54.7331733
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-08-18T22:50:25+00:00",
         "last_updated": "2026-08-18T23:11:33+00:00",
         "path_labels": [
@@ -177,6 +177,31 @@
           [
             42.951706,
             56.314163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-18T23:09:54+00:00",
+        "last_updated": "2026-08-18T23:25:18+00:00",
+        "path_labels": [
+          "Подольский (Московская область)",
+          "Одинцово (Московская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.5508146,
+            55.4183161
+          ],
+          [
+            37.2668096,
+            55.678223
           ]
         ]
       }
