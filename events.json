@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_82702_Сухиничский",
-    "channel": "vrv_radar",
-    "date": "2026-08-17T16:33:25+00:00",
-    "text": "Сухиничский район\nКалужская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Сухиничский",
-    "region": "Калужская область",
-    "lat": 54.0945612,
-    "lon": 35.3488687
-  },
-  {
-    "id": "LPRalarm_220739",
-    "channel": "LPRalarm",
-    "date": "2026-08-17T16:34:54+00:00",
-    "text": "Губкин опасность БПЛА с запада \nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_88387_Глазуновский",
-    "channel": "radarrussiia",
-    "date": "2026-08-17T16:35:06+00:00",
-    "text": "Глазуновский район\nОрловский район\nМценский район\nОрловская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Глазуновский",
-    "region": "Орловская область",
-    "lat": 52.4484748,
-    "lon": 36.2419084
-  },
-  {
     "id": "radarrussiia_88387_Орловский",
     "channel": "radarrussiia",
     "date": "2026-08-17T16:35:06+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_81083",
+    "channel": "locatorru",
+    "date": "2026-08-18T04:52:57+00:00",
+    "text": "Курск и район, Курская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_83077",
+    "channel": "vrv_radar",
+    "date": "2026-08-18T04:53:35+00:00",
+    "text": "Калужская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_81084",
+    "channel": "locatorru",
+    "date": "2026-08-18T04:53:50+00:00",
+    "text": "Смоленская область, Калужская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Смоленская область",
     "lat": null,
     "lon": null
   }
