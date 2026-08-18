@@ -1,49 +1,5 @@
 [
   {
-    "id": "locatorru_80874_Верхнехавский",
-    "channel": "locatorru",
-    "date": "2026-08-17T19:43:38+00:00",
-    "text": "Беловка, Верхнехавский район, Воронежская область - пролёт БПЛА в сторону Усмань.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Верхнехавский",
-    "region": "Воронежская область",
-    "lat": 51.8290276,
-    "lon": 39.9700788
-  },
-  {
-    "id": "locatorru_80874_Беловка",
-    "channel": "locatorru",
-    "date": "2026-08-17T19:43:38+00:00",
-    "text": "Беловка, Верхнехавский район, Воронежская область - пролёт БПЛА в сторону Усмань.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Беловка",
-    "region": "Воронежская область",
-    "lat": 51.908424,
-    "lon": 39.807262
-  },
-  {
-    "id": "LPRalarm_220844",
-    "channel": "LPRalarm",
-    "date": "2026-08-17T19:44:05+00:00",
-    "text": "Курская область \nБрянская область \nОпасность по реактивным БПЛА от Сумской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_116152",
-    "channel": "kupolrussia",
-    "date": "2026-08-17T19:44:10+00:00",
-    "text": "Курская область \nБрянская область \nОпасность по реактивным БПЛА от Сумской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_80875_Лискинский",
     "channel": "locatorru",
     "date": "2026-08-17T19:44:21+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_221251",
+    "channel": "LPRalarm",
+    "date": "2026-08-18T15:18:57+00:00",
+    "text": "Черноморское и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_116527",
+    "channel": "kupolrussia",
+    "date": "2026-08-18T15:19:28+00:00",
+    "text": "Черноморское и близлежащие \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_221252_Грайворон",
+    "channel": "LPRalarm",
+    "date": "2026-08-18T15:24:11+00:00",
+    "text": "Ведётся обстрел Грайворонского МО, г. Грайворон, с.Гора-Подол. Спуститесь в подвал (укрытие).",
+    "type": "shelling",
+    "location_name": "Грайворон",
+    "region": null,
+    "lat": 50.4837728,
+    "lon": 35.6712018
+  },
+  {
+    "id": "LPRalarm_221253",
+    "channel": "LPRalarm",
+    "date": "2026-08-18T15:25:06+00:00",
+    "text": "Белгород \nТревога по ФПВ",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
