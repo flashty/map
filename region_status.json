@@ -1,24 +1,4 @@
 {
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "МО Истра\nГО Дубна\nМосковская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-18T04:13:59+00:00",
-    "expires_at": "2026-08-18T05:13:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тверск": {
-    "display_name": "Тверская область",
-    "type": "drone",
-    "text": "Конаковский район\nТверская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-18T04:06:13+00:00",
-    "expires_at": "2026-08-18T05:06:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -26,16 +6,6 @@
     "channel": "locatorru",
     "updated_at": "2026-08-18T04:41:48+00:00",
     "expires_at": "2026-08-18T05:41:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Горское, Попасная, Первомайское и близлежащие\nЛНР\nОпасность по БПЛА Хорнет",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-18T04:15:54+00:00",
-    "expires_at": "2026-08-18T05:15:54+00:00",
     "count": null,
     "count_approx": false
   },
