@@ -1,41 +1,11 @@
 {
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянск, Сельцо, Выгоничи, Брянская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-18T14:12:02+00:00",
-    "expires_at": "2026-08-18T15:12:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калужская область \nСмоленская область\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-18T14:02:45+00:00",
-    "expires_at": "2026-08-18T15:02:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Калужская область \nСмоленская область\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-18T14:02:45+00:00",
-    "expires_at": "2026-08-18T15:02:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Сочи и близлежащие\nКраснодарский край\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-18T14:56:21+00:00",
-    "expires_at": "2026-08-18T15:56:21+00:00",
+    "text": "Сочи и близлежащие\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-18T15:10:20+00:00",
+    "expires_at": "2026-08-18T16:10:20+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Новоелизаветовка ДНР тревога по БПЛА Хорнет",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-18T14:13:59+00:00",
-    "expires_at": "2026-08-18T15:13:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -66,6 +26,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-18T14:49:46+00:00",
     "expires_at": "2026-08-18T15:49:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарско": {
+    "display_name": "Краснодарского края",
+    "type": "drone",
+    "text": "Черноморское побережье Краснодарского края - опасность по БПЛА ещё действует, начиная от Анапы и до Сочи. \n\nВсем быть предельно внимательными. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-18T15:02:44+00:00",
+    "expires_at": "2026-08-18T16:02:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "alert",
+    "text": "Херсонская область РФ \nЗапорожская область РФ \nЛДНР\nВНИМАНИЕ!!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-18T15:06:13+00:00",
+    "expires_at": "2026-08-18T16:06:13+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "alert",
+    "text": "Херсонская область РФ \nЗапорожская область РФ \nЛДНР\nВНИМАНИЕ!!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-18T15:06:13+00:00",
+    "expires_at": "2026-08-18T16:06:13+00:00",
     "count": null,
     "count_approx": false
   }
