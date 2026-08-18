@@ -1,82 +1,5 @@
 [
   {
-    "id": "radarrussiia_88418_Алексеевский",
-    "channel": "radarrussiia",
-    "date": "2026-08-17T19:10:45+00:00",
-    "text": "Алексеевский район\nВолгоградская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Алексеевский",
-    "region": "Волгоградская область",
-    "lat": 50.2225943,
-    "lon": 42.3203313
-  },
-  {
-    "id": "vrv_radar_82749",
-    "channel": "vrv_radar",
-    "date": "2026-08-17T19:10:46+00:00",
-    "text": "Саратовская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_116133",
-    "channel": "kupolrussia",
-    "date": "2026-08-17T19:10:58+00:00",
-    "text": "Ульяновская область \nСамарская область \nРеспублика Мордовия\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_220825",
-    "channel": "LPRalarm",
-    "date": "2026-08-17T19:11:02+00:00",
-    "text": "Ульяновская область \nСамарская область \nРеспублика Мордовия\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_88419_Шолоховский",
-    "channel": "radarrussiia",
-    "date": "2026-08-17T19:11:07+00:00",
-    "text": "Шолоховский район\nРостовская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Шолоховский",
-    "region": "Ростовская область",
-    "lat": 48.282608,
-    "lon": 41.046478
-  },
-  {
-    "id": "vrv_radar_82750_Миллеровский",
-    "channel": "vrv_radar",
-    "date": "2026-08-17T19:11:13+00:00",
-    "text": "Миллеровский район\nРостовская область\nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Миллеровский",
-    "region": "Ростовская область",
-    "lat": 49.0249872,
-    "lon": 40.2651861
-  },
-  {
-    "id": "radarrussiia_88420",
-    "channel": "radarrussiia",
-    "date": "2026-08-17T19:11:26+00:00",
-    "text": "Пензенская область\nСаратовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_82751_Чертковский",
     "channel": "vrv_radar",
     "date": "2026-08-17T19:11:36+00:00",
@@ -21996,6 +21919,83 @@
     "type": "unknown",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_13761",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-18T11:39:22+00:00",
+    "text": "❗️Уважаемые читатели, успейте найти свой регион и подписаться на первые оповещения об опасностях.",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_221203",
+    "channel": "LPRalarm",
+    "date": "2026-08-18T11:39:56+00:00",
+    "text": "Таманский полуостров \nТамань и близлежащие \nОпасность по БПЛА \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_116489",
+    "channel": "kupolrussia",
+    "date": "2026-08-18T11:40:14+00:00",
+    "text": "Таманский полуостров \nТамань и близлежащие \n\nКраснодарский край\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_221204",
+    "channel": "LPRalarm",
+    "date": "2026-08-18T11:41:16+00:00",
+    "text": "Старобельск\nИ близлежащие\nТревога по БПЛА Хорнет\nСохраняется\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_116490",
+    "channel": "kupolrussia",
+    "date": "2026-08-18T11:42:00+00:00",
+    "text": "Старобельск\nИ близлежащие\nТревога по БПЛА Хорнет\nСохраняется\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_221205",
+    "channel": "LPRalarm",
+    "date": "2026-08-18T11:43:31+00:00",
+    "text": "Владимировка - Инзовка дорожное направление опасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_116491",
+    "channel": "kupolrussia",
+    "date": "2026-08-18T11:43:50+00:00",
+    "text": "Владимировка - Инзовка дорожное направление опасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
