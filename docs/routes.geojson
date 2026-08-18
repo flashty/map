@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-18T18:07:38+00:00",
+        "last_updated": "2026-08-18T18:43:45+00:00",
+        "path_labels": [
+          "Целинное",
+          "Новоозерное"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.6647246,
+            53.0806917
+          ],
+          [
+            85.613183,
+            53.4770285
+          ]
+        ]
+      }
+    }
+  ]
 }
