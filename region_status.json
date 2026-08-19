@@ -12,10 +12,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Горловка ДНР повышенная опасность по БПЛА и ФПВ сохраняется, будьте предельно осторожными",
+    "text": "Старобешево, Амвросиевка ДНР и близлежащие\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-19T10:19:48+00:00",
-    "expires_at": "2026-08-19T11:19:48+00:00",
+    "updated_at": "2026-08-19T10:58:57+00:00",
+    "expires_at": "2026-08-19T11:58:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,16 +36,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-19T10:29:54+00:00",
     "expires_at": "2026-08-19T11:29:54+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Становлянский район\nЛипецкая область\nЕще фиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-19T09:51:43+00:00",
-    "expires_at": "2026-08-19T10:51:43+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,20 +62,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "По морю в направлении Ялта - Алушта - Судак - Феодосия - Крымский Мост, Причерноморье Краснодарский край \n\nФиксации БПЛА ЮБК",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-19T10:21:12+00:00",
-    "expires_at": "2026-08-19T11:21:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Дубенский район\nАлексин\nТульская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-19T10:32:52+00:00",
-    "expires_at": "2026-08-19T11:32:52+00:00",
+    "text": "Краснодарский край\nопасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-19T10:59:51+00:00",
+    "expires_at": "2026-08-19T11:59:51+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +106,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-19T10:31:14+00:00",
     "expires_at": "2026-08-19T11:31:14+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Щекинский район\nТульская область\nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-19T11:00:19+00:00",
+    "expires_at": "2026-08-19T12:00:19+00:00",
     "count": null,
     "count_approx": false
   }
