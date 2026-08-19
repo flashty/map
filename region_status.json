@@ -1,51 +1,21 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Очеретино ДНР и близлежащие \nОпасность по БПЛА Хорнет",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-19T12:05:14+00:00",
-    "expires_at": "2026-08-19T13:05:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Славянский район\nКраснодарский край\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-19T12:50:02+00:00",
-    "expires_at": "2026-08-19T13:50:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Алексин\nТульская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-19T12:12:08+00:00",
-    "expires_at": "2026-08-19T13:12:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Тамбовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-19T12:02:29+00:00",
-    "expires_at": "2026-08-19T13:02:29+00:00",
+    "text": "Туапсе и близлежащие\nКраснодарский край\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-19T13:02:02+00:00",
+    "expires_at": "2026-08-19T14:02:02+00:00",
     "count": null,
     "count_approx": false
   },
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Спасский район\nРязанская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Спасский район\nПронский район\nРязанская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-19T12:48:08+00:00",
-    "expires_at": "2026-08-19T13:48:08+00:00",
+    "updated_at": "2026-08-19T13:10:13+00:00",
+    "expires_at": "2026-08-19T14:10:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,11 +32,11 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Коломна\nГО Луховицы\nМосковская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "ГО Шатура\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-19T12:51:41+00:00",
-    "expires_at": "2026-08-19T13:51:41+00:00",
-    "count": 2,
+    "updated_at": "2026-08-19T13:10:50+00:00",
+    "expires_at": "2026-08-19T14:10:50+00:00",
+    "count": null,
     "count_approx": false
   },
   "николаевск": {
@@ -82,10 +52,20 @@
   "владимирск": {
     "display_name": "Владимирская область",
     "type": "drone",
-    "text": "Гусь-Хрустальный район\nВладимирская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Гусь-Хрустальный район\nВладимирская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-19T12:52:27+00:00",
-    "expires_at": "2026-08-19T13:52:27+00:00",
+    "updated_at": "2026-08-19T13:11:36+00:00",
+    "expires_at": "2026-08-19T14:11:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Малое Солдатское \nКурская область\nОпасность \nБПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-19T13:14:26+00:00",
+    "expires_at": "2026-08-19T14:14:26+00:00",
     "count": null,
     "count_approx": false
   }
