@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-19T09:27:18+00:00",
+        "last_updated": "2026-08-19T10:27:19+00:00",
+        "path_labels": [
+          "Становлянский (Липецкая область)",
+          "Одоевский (Тульская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.3195659,
+            52.8493616
+          ],
+          [
+            37.8607231,
+            53.2775444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-19T09:59:54+00:00",
+        "last_updated": "2026-08-19T10:34:20+00:00",
+        "path_labels": [
+          "Орел (Орловская область)",
+          "Мценский (Орловская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.0642127,
+            52.9709262
+          ],
+          [
+            36.5945584,
+            53.2451748
+          ]
+        ]
+      }
+    }
+  ]
 }
