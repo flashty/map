@@ -52,11 +52,21 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Павловский Посад\nМосковская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-18T23:58:38+00:00",
-    "expires_at": "2026-08-19T00:58:38+00:00",
-    "count": 2,
+    "text": "ГО Бронницы\nМосковская область\nРабота ПВО по БПЛА \nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-19T00:00:46+00:00",
+    "expires_at": "2026-08-19T01:00:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "alert",
+    "text": "Рязань\nРязанская область\nПродолжается работа ПВО\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-19T00:00:35+00:00",
+    "expires_at": "2026-08-19T01:00:35+00:00",
+    "count": null,
     "count_approx": false
   }
 }
