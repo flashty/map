@@ -1,115 +1,5 @@
 [
   {
-    "id": "LPRalarm_221045",
-    "channel": "LPRalarm",
-    "date": "2026-08-18T05:56:19+00:00",
-    "text": "Мелитополь и близлежащие от Михайловки тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_116348_Михайловки",
-    "channel": "kupolrussia",
-    "date": "2026-08-18T05:56:39+00:00",
-    "text": "Мелитополь и близлежащие от Михайловки\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Михайловки",
-    "region": null,
-    "lat": 55.6773368,
-    "lon": 72.9463914
-  },
-  {
-    "id": "LPRalarm_221046_Низко",
-    "channel": "LPRalarm",
-    "date": "2026-08-18T05:58:36+00:00",
-    "text": "Керчь и близлежащие внимание по возможным БПЛА противника от Виноградное. Низко",
-    "type": "drone",
-    "location_name": "Низко",
-    "region": null,
-    "lat": 55.156244,
-    "lon": 72.6869927
-  },
-  {
-    "id": "kupolrussia_116349_Низко",
-    "channel": "kupolrussia",
-    "date": "2026-08-18T05:58:49+00:00",
-    "text": "Керчь и близлежащие внимание по возможным БПЛА противника от Виноградное. Низко",
-    "type": "drone",
-    "location_name": "Низко",
-    "region": null,
-    "lat": 55.156244,
-    "lon": 72.6869927
-  },
-  {
-    "id": "LPRalarm_221047",
-    "channel": "LPRalarm",
-    "date": "2026-08-18T06:09:02+00:00",
-    "text": "Керченский полуостров \nКрымский мост \nКерчь и близлежащие \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_221048",
-    "channel": "LPRalarm",
-    "date": "2026-08-18T06:11:48+00:00",
-    "text": "Черниговский район Запорожская область группа БПЛА в направлении Бердянск",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_116350",
-    "channel": "kupolrussia",
-    "date": "2026-08-18T06:11:56+00:00",
-    "text": "Черниговский район Запорожская область группа БПЛА в направлении Бердянск",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_221049",
-    "channel": "LPRalarm",
-    "date": "2026-08-18T06:12:41+00:00",
-    "text": "Никольское Бгд и близлежащие \nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_83085_Некоузский",
-    "channel": "vrv_radar",
-    "date": "2026-08-18T06:15:00+00:00",
-    "text": "Некоузский район\nЯрославская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Некоузский",
-    "region": "Ярославская область",
-    "lat": 57.95008,
-    "lon": 37.8978845
-  },
-  {
-    "id": "radarrussiia_88613_Некоузский",
-    "channel": "radarrussiia",
-    "date": "2026-08-18T06:15:34+00:00",
-    "text": "Некоузский район\nЯрославская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Некоузский",
-    "region": "Ярославская область",
-    "lat": 57.95008,
-    "lon": 37.8978845
-  },
-  {
     "id": "radar_plus_bpla_13756",
     "channel": "radar_plus_bpla",
     "date": "2026-08-18T06:16:02+00:00",
@@ -21998,5 +21888,115 @@
     "region": "Ростовская область",
     "lat": 46.5624322,
     "lon": 40.6552981
+  },
+  {
+    "id": "locatorru_81253_Зубово",
+    "channel": "locatorru",
+    "date": "2026-08-19T03:47:54+00:00",
+    "text": "Зубово, Республика Башкортостан - пролёт БПЛА в сторону Уфы. \n\nУфа, с юга. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Зубово",
+    "region": "Республика Башкортостан",
+    "lat": 54.6332723,
+    "lon": 55.2734919
+  },
+  {
+    "id": "locatorru_81254_Череповец",
+    "channel": "locatorru",
+    "date": "2026-08-19T03:52:21+00:00",
+    "text": "Череповец, Вологодская область - опасность по БПЛА сохраняется. Соблюдайте меры безопасности! \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Череповец",
+    "region": "Вологодская область",
+    "lat": 59.1221553,
+    "lon": 37.9025005
+  },
+  {
+    "id": "LPRalarm_221517",
+    "channel": "LPRalarm",
+    "date": "2026-08-19T03:55:10+00:00",
+    "text": "Ст. Крыловская и близлежащие и далее на северо-восток приблизительно в направлении Сальск\nТревога по БПЛА\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_116761",
+    "channel": "kupolrussia",
+    "date": "2026-08-19T03:55:40+00:00",
+    "text": "Ст. Крыловская и близлежащие и далее на северо-восток приблизительно в направлении Сальск\nТревога по БПЛА\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_81255",
+    "channel": "locatorru",
+    "date": "2026-08-19T03:56:44+00:00",
+    "text": "Ещё 3 или 4 БПЛА должны быть. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_221518",
+    "channel": "LPRalarm",
+    "date": "2026-08-19T03:57:31+00:00",
+    "text": "Волгодонск и близлежащие\nРостовская область\nВнимание по БПЛА противника от Красногвардейского края",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_116762",
+    "channel": "kupolrussia",
+    "date": "2026-08-19T03:57:58+00:00",
+    "text": "Волгодонск и близлежащие\nРостовская область\nВнимание по БПЛА противника от Красногвардейского края",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_81256_Уфа",
+    "channel": "locatorru",
+    "date": "2026-08-19T03:58:13+00:00",
+    "text": "г.Уфа,  НПЗ - опасность по БПЛА , сохраняется.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Уфа",
+    "region": null,
+    "lat": 54.7261409,
+    "lon": 55.947499
+  },
+  {
+    "id": "radar_plus_bpla_13782",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-19T03:59:54+00:00",
+    "text": "Свердловская область - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": "Свердловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_81257",
+    "channel": "locatorru",
+    "date": "2026-08-19T04:00:33+00:00",
+    "text": "Шаумяновский, Егорлыкский район, Ростовская область - возможно прошли БПЛА от Краснодарского края в сторону Сальска или Ставропольского края.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
   }
 ]

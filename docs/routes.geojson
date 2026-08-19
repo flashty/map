@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-19T03:23:17+00:00",
+        "last_updated": "2026-08-19T03:47:54+00:00",
+        "path_labels": [
+          "Уфа",
+          "Зубово (Республика Башкортостан)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.947499,
+            54.7261409
+          ],
+          [
+            55.2734919,
+            54.6332723
+          ]
+        ]
+      }
+    }
+  ]
 }
