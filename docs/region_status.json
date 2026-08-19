@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "ГО Луховицы\nМосковская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-19T01:58:24+00:00",
-    "expires_at": "2026-08-19T02:58:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ивановск": {
     "display_name": "Ивановская область",
     "type": "drone",
@@ -106,6 +96,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-19T02:31:23+00:00",
     "expires_at": "2026-08-19T03:31:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "вологодск": {
+    "display_name": "Вологодская область",
+    "type": "drone",
+    "text": "Вологодская область\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ® ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-19T02:51:44+00:00",
+    "expires_at": "2026-08-19T03:51:44+00:00",
     "count": null,
     "count_approx": false
   }
