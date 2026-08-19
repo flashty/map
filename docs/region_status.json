@@ -12,10 +12,10 @@
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Михайловский район\nРязанская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Клепиковский район\nРязанская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-19T01:17:47+00:00",
-    "expires_at": "2026-08-19T02:17:47+00:00",
+    "updated_at": "2026-08-19T02:02:05+00:00",
+    "expires_at": "2026-08-19T03:02:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -42,11 +42,11 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Шатура\nГО Домодедово\nГО Раменское \nГО Ступино\nМосковская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-19T01:15:54+00:00",
-    "expires_at": "2026-08-19T02:15:54+00:00",
-    "count": 2,
+    "text": "ГО Луховицы\nМосковская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-19T01:58:24+00:00",
+    "expires_at": "2026-08-19T02:58:24+00:00",
+    "count": null,
     "count_approx": false
   },
   "оренбургск": {
@@ -56,16 +56,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-19T01:24:48+00:00",
     "expires_at": "2026-08-19T02:24:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "нижегородск": {
-    "display_name": "Нижегородская область",
-    "type": "drone",
-    "text": "Ардатовский район\nНижегородская область\nПродолжаются фиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-19T00:45:28+00:00",
-    "expires_at": "2026-08-19T01:45:28+00:00",
     "count": null,
     "count_approx": false
   },
@@ -79,34 +69,24 @@
     "count": null,
     "count_approx": false
   },
-  "владимировск": {
-    "display_name": "Владимировская область",
-    "type": "drone",
-    "text": "Владимировская область, Ивановская область, восток Московской области - опасность по БПЛА от Рязанской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-19T00:51:28+00:00",
-    "expires_at": "2026-08-19T01:51:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ивановск": {
     "display_name": "Ивановская область",
     "type": "drone",
-    "text": "Ивановская область\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ® ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-19T00:56:55+00:00",
-    "expires_at": "2026-08-19T01:56:55+00:00",
+    "text": "Тейковский район\nИвановская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-19T02:01:09+00:00",
+    "expires_at": "2026-08-19T03:01:09+00:00",
     "count": null,
     "count_approx": false
   },
   "владимирск": {
     "display_name": "Владимирская область",
     "type": "drone",
-    "text": "Петушинский район\nЮрьев-Польский район\nВладимирская область\nФиксация от 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-19T01:17:08+00:00",
-    "expires_at": "2026-08-19T02:17:08+00:00",
-    "count": 3,
+    "text": "Ковровский район\nВладимирская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-19T02:01:37+00:00",
+    "expires_at": "2026-08-19T03:01:37+00:00",
+    "count": null,
     "count_approx": false
   },
   "костромск": {
@@ -146,6 +126,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-08-19T01:44:40+00:00",
     "expires_at": "2026-08-19T02:44:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Таманский полуостров\nВитязево\nАнапа\nИ близлежащие\nТревога по БПЛА\nКраснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-19T01:47:32+00:00",
+    "expires_at": "2026-08-19T02:47:32+00:00",
     "count": null,
     "count_approx": false
   }
