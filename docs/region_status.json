@@ -1,14 +1,4 @@
 {
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязанская область, Владимирская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-19T13:47:12+00:00",
-    "expires_at": "2026-08-19T14:47:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
@@ -122,10 +112,20 @@
   "ставропольск": {
     "display_name": "Ставропольский край",
     "type": "drone",
-    "text": "Ставропольский край опасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-19T13:59:13+00:00",
-    "expires_at": "2026-08-19T14:59:13+00:00",
+    "text": "Ставропольский край \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-19T14:05:16+00:00",
+    "expires_at": "2026-08-19T15:05:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "missile",
+    "text": "ЛДНР, Запорожская область РФ \nАвиационная ракетная бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-19T14:03:57+00:00",
+    "expires_at": "2026-08-19T15:03:57+00:00",
     "count": null,
     "count_approx": false
   }

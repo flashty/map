@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_221378",
-    "channel": "LPRalarm",
-    "date": "2026-08-18T20:19:11+00:00",
-    "text": "Тамбовская область \nСаратовская область \nПензенская область\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_81144_Стародубский",
-    "channel": "locatorru",
-    "date": "2026-08-18T20:19:19+00:00",
-    "text": "Стародубский район, Унечский район, Брянская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Стародубский",
-    "region": "Брянская область",
-    "lat": 52.5153759,
-    "lon": 32.7150092
-  },
-  {
-    "id": "locatorru_81144_Унечский",
-    "channel": "locatorru",
-    "date": "2026-08-18T20:19:19+00:00",
-    "text": "Стародубский район, Унечский район, Брянская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Унечский",
-    "region": "Брянская область",
-    "lat": 52.8313819,
-    "lon": 32.8245377
-  },
-  {
-    "id": "kupolrussia_116647",
-    "channel": "kupolrussia",
-    "date": "2026-08-18T20:19:24+00:00",
-    "text": "Токмакский район и близлежащие \n\nЗапорожская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_221379",
-    "channel": "LPRalarm",
-    "date": "2026-08-18T20:19:33+00:00",
-    "text": "Саки\nНовофедоровка\nИ близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_221380",
-    "channel": "LPRalarm",
-    "date": "2026-08-18T20:19:40+00:00",
-    "text": "Пантелеймоновка, Енакиево, Углегорск, Дебальцево ДНР и близлежащие \n\nОпасность по БПЛА, в том числе и на электротяге",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_83169_Краснозоренский",
-    "channel": "vrv_radar",
-    "date": "2026-08-18T20:19:43+00:00",
-    "text": "Краснозоренский район\nОрловская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Краснозоренский",
-    "region": "Орловская область",
-    "lat": 52.7457964,
-    "lon": 37.6401423
-  },
-  {
     "id": "kupolrussia_116648",
     "channel": "kupolrussia",
     "date": "2026-08-18T20:19:48+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_83613",
+    "channel": "vrv_radar",
+    "date": "2026-08-19T14:02:19+00:00",
+    "text": "Рязанская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_221744",
+    "channel": "LPRalarm",
+    "date": "2026-08-19T14:03:42+00:00",
+    "text": "ЛДНР, Запорожская область РФ \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_116957",
+    "channel": "kupolrussia",
+    "date": "2026-08-19T14:03:57+00:00",
+    "text": "ЛДНР, Запорожская область РФ \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_83614",
+    "channel": "vrv_radar",
+    "date": "2026-08-19T14:04:52+00:00",
+    "text": "Ставропольский край \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_88952",
+    "channel": "radarrussiia",
+    "date": "2026-08-19T14:05:16+00:00",
+    "text": "Ставропольский край \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_88953",
+    "channel": "radarrussiia",
+    "date": "2026-08-19T14:05:39+00:00",
+    "text": "Рязанская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_221745",
+    "channel": "LPRalarm",
+    "date": "2026-08-19T14:06:56+00:00",
+    "text": "Север Крыма \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
