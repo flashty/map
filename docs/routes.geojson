@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-19T17:21:35+00:00",
+        "last_updated": "2026-08-19T17:34:34+00:00",
+        "path_labels": [
+          "Каменка (Воронежская область)",
+          "Острогожский (Воронежская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.432598,
+            50.713001
+          ],
+          [
+            39.0772421,
+            50.8584609
+          ]
+        ]
+      }
+    }
+  ]
 }
