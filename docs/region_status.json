@@ -2,10 +2,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "От Алушты до Ялты\nТревога по БПЛА сохраняется\nРеспублика Крым",
+    "text": "Мыс Опук и близлежащие\nТревога по БПЛА\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-19T01:16:28+00:00",
-    "expires_at": "2026-08-19T02:16:28+00:00",
+    "updated_at": "2026-08-19T01:37:18+00:00",
+    "expires_at": "2026-08-19T02:37:18+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,26 +59,6 @@
     "count": null,
     "count_approx": false
   },
-  "толст": {
-    "display_name": "Толстой области",
-    "type": "drone",
-    "text": "Пролёты БПЛА через п.Лев Толстой, Липецкой области в сторону Рязанской области, далее на Нижегородскую область.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-19T00:32:00+00:00",
-    "expires_at": "2026-08-19T01:32:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Лев-Толстовский район\nЛипецкая область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-19T00:44:35+00:00",
-    "expires_at": "2026-08-19T01:44:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "нижегородск": {
     "display_name": "Нижегородская область",
     "type": "drone",
@@ -87,36 +67,6 @@
     "updated_at": "2026-08-19T00:45:28+00:00",
     "expires_at": "2026-08-19T01:45:28+00:00",
     "count": null,
-    "count_approx": false
-  },
-  "ярославск": {
-    "display_name": "Ярославская область",
-    "type": "drone",
-    "text": "Ярославская область - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-19T01:24:51+00:00",
-    "expires_at": "2026-08-19T02:24:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "астраханск": {
-    "display_name": "Астраханская область",
-    "type": "drone",
-    "text": "Астраханская область\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ® ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-19T00:33:23+00:00",
-    "expires_at": "2026-08-19T01:33:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Тамбовский район\nТамбовская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-19T00:45:03+00:00",
-    "expires_at": "2026-08-19T01:45:03+00:00",
-    "count": 2,
     "count_approx": false
   },
   "башкортост": {
@@ -186,6 +136,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-08-19T01:18:59+00:00",
     "expires_at": "2026-08-19T02:18:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ярославск": {
+    "display_name": "Ярославская область",
+    "type": "drone",
+    "text": "Ярославль\nЯрославская область\nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-19T01:44:40+00:00",
+    "expires_at": "2026-08-19T02:44:40+00:00",
     "count": null,
     "count_approx": false
   }
