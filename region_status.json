@@ -28,5 +28,35 @@
     "expires_at": "2026-08-19T06:56:35+00:00",
     "count": null,
     "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Алексин\nТульская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-19T06:14:19+00:00",
+    "expires_at": "2026-08-19T07:14:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловской области",
+    "type": "alert",
+    "text": "г. Орёл и близлежащие соблюдаем меры безопасности. Летит большое количество в вашем направлении и далее на Тульскую область\n\nНаш канал тревог по Орловской области \nhttps://t.me/lpr1_Orlov_alarm",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-19T06:12:39+00:00",
+    "expires_at": "2026-08-19T07:12:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "missile",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-19T06:13:54+00:00",
+    "expires_at": "2026-08-19T07:13:54+00:00",
+    "count": null,
+    "count_approx": false
   }
 }
