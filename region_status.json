@@ -1,14 +1,4 @@
 {
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Новомосковск\nТульская область\nПродолжается работа ПВО по БПЛА\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-19T02:25:28+00:00",
-    "expires_at": "2026-08-19T03:25:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ярославск": {
     "display_name": "Ярославская область",
     "type": "drone",
@@ -76,6 +66,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-19T03:12:00+00:00",
     "expires_at": "2026-08-19T04:12:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "свердловск": {
+    "display_name": "Свердловская область",
+    "type": "drone",
+    "text": "Екатеринбург\nСвердловская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-19T03:28:54+00:00",
+    "expires_at": "2026-08-19T04:28:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Воронеж и близлежащие\nТревога по БПЛА сохраняется\nВоронежская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-19T03:24:46+00:00",
+    "expires_at": "2026-08-19T04:24:46+00:00",
     "count": null,
     "count_approx": false
   }
