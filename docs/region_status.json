@@ -2,20 +2,10 @@
   "владимирск": {
     "display_name": "Владимирская область",
     "type": "drone",
-    "text": "Суздальский район \nПольский район \nВладимирская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-19T14:16:35+00:00",
-    "expires_at": "2026-08-19T15:16:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "динск": {
-    "display_name": "Динская край",
-    "type": "drone",
-    "text": "Динская, Краснодарский край - пролёт БПЛА в сторону Усть-Лабинск. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-19T13:24:36+00:00",
-    "expires_at": "2026-08-19T14:24:36+00:00",
+    "text": "Вязниковский район \nВладимирская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-19T14:18:39+00:00",
+    "expires_at": "2026-08-19T15:18:39+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,10 +52,10 @@
   "ярославск": {
     "display_name": "Ярославская область",
     "type": "drone",
-    "text": "Ростовский район \nЯрославская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-19T14:17:23+00:00",
-    "expires_at": "2026-08-19T15:17:23+00:00",
+    "text": "Ростовский район \nЯрославская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-19T14:17:57+00:00",
+    "expires_at": "2026-08-19T15:17:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +116,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-19T14:12:25+00:00",
     "expires_at": "2026-08-19T15:12:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Знаменский район, Болховский район, Орловская область - группа БПЛА в сторону примерно Калужской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-19T14:18:17+00:00",
+    "expires_at": "2026-08-19T15:18:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Думиничский район \nКалужская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-19T14:19:31+00:00",
+    "expires_at": "2026-08-19T15:19:31+00:00",
     "count": null,
     "count_approx": false
   }
