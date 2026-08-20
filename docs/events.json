@@ -1,82 +1,5 @@
 [
   {
-    "id": "locatorru_81354_Анапа",
-    "channel": "locatorru",
-    "date": "2026-08-19T18:53:23+00:00",
-    "text": "От Приморско-Ахтарска до Темрюк, Анапа, Краснодарский край - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": "Анапа",
-    "region": "Краснодарский край",
-    "lat": 44.894272,
-    "lon": 37.316887
-  },
-  {
-    "id": "locatorru_81355_Россошанский",
-    "channel": "locatorru",
-    "date": "2026-08-19T18:54:02+00:00",
-    "text": "Нижний Карабут, Россошанский район, Воронежская область - пролёт БПЛА на восток. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Россошанский",
-    "region": "Воронежская область",
-    "lat": 50.1186442,
-    "lon": 39.6627682
-  },
-  {
-    "id": "locatorru_81355_Нижний Карабут",
-    "channel": "locatorru",
-    "date": "2026-08-19T18:54:02+00:00",
-    "text": "Нижний Карабут, Россошанский район, Воронежская область - пролёт БПЛА на восток. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Нижний Карабут",
-    "region": "Воронежская область",
-    "lat": 50.265686,
-    "lon": 39.965603
-  },
-  {
-    "id": "LPRalarm_221886",
-    "channel": "LPRalarm",
-    "date": "2026-08-19T18:54:17+00:00",
-    "text": "Комсомольское БПЛА над трассой Таврида Симферопольский",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_117093",
-    "channel": "kupolrussia",
-    "date": "2026-08-19T18:54:36+00:00",
-    "text": "Комсомольское БПЛА над трассой Таврида Симферопольский",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_221887",
-    "channel": "LPRalarm",
-    "date": "2026-08-19T18:55:20+00:00",
-    "text": "От Кантемировки в направлении Богучар большое количество БПЛА и далее в тыл",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_83657_Миллеровский",
-    "channel": "vrv_radar",
-    "date": "2026-08-19T18:55:29+00:00",
-    "text": "Миллеровский район \nЧертковский район \nРостовская область \nФиксации групп БПЛА",
-    "type": "drone",
-    "location_name": "Миллеровский",
-    "region": "Ростовская область",
-    "lat": 49.0249872,
-    "lon": 40.2651861
-  },
-  {
     "id": "vrv_radar_83657_Чертковский",
     "channel": "vrv_radar",
     "date": "2026-08-19T18:55:29+00:00",
@@ -21998,5 +21921,82 @@
     "region": "Белгородская область",
     "lat": 50.211296,
     "lon": 38.100227
+  },
+  {
+    "id": "locatorru_81484",
+    "channel": "locatorru",
+    "date": "2026-08-20T13:56:20+00:00",
+    "text": "Сбит.\n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_222365",
+    "channel": "LPRalarm",
+    "date": "2026-08-20T13:56:38+00:00",
+    "text": "Червоное, Новофедоровка тревога по БПЛА с северо-запада",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_117504",
+    "channel": "kupolrussia",
+    "date": "2026-08-20T13:56:44+00:00",
+    "text": "Червоное, Новофедоровка тревога по БПЛА с северо-запада",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_222366",
+    "channel": "LPRalarm",
+    "date": "2026-08-20T13:59:59+00:00",
+    "text": "Евпатория, Севастополь с моря от Саки внимание по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_117505",
+    "channel": "kupolrussia",
+    "date": "2026-08-20T14:00:04+00:00",
+    "text": "Евпатория, Севастополь с моря от Саки внимание по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_222367_Гвардейское",
+    "channel": "LPRalarm",
+    "date": "2026-08-20T14:00:52+00:00",
+    "text": "Скворцово повторно тревога по БПЛА и далее на Симферополь или Гвардейское",
+    "type": "drone",
+    "location_name": "Гвардейское",
+    "region": null,
+    "lat": 43.67239,
+    "lon": 44.96241
+  },
+  {
+    "id": "kupolrussia_117506_Гвардейское",
+    "channel": "kupolrussia",
+    "date": "2026-08-20T14:00:57+00:00",
+    "text": "Скворцово повторно тревога по БПЛА и далее на Симферополь или Гвардейское",
+    "type": "drone",
+    "location_name": "Гвардейское",
+    "region": null,
+    "lat": 43.67239,
+    "lon": 44.96241
   }
 ]
