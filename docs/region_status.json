@@ -132,10 +132,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Новороссийск и близлежащие \nКраснодарский край \nТревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-20T22:28:14+00:00",
-    "expires_at": "2026-08-20T23:28:14+00:00",
+    "text": "Новороссийск\nКраснодарский край\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-20T22:30:33+00:00",
+    "expires_at": "2026-08-20T23:30:33+00:00",
     "count": null,
     "count_approx": false
   },
@@ -246,6 +246,16 @@
     "channel": "locatorru",
     "updated_at": "2026-08-20T22:13:04+00:00",
     "expires_at": "2026-08-20T23:13:04+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тамбовск": {
+    "display_name": "Тамбовская область",
+    "type": "drone",
+    "text": "Мордовский район\nТамбовская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-20T22:30:04+00:00",
+    "expires_at": "2026-08-20T23:30:04+00:00",
     "count": null,
     "count_approx": false
   }
