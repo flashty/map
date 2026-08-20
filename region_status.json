@@ -20,12 +20,12 @@
     "count_approx": false
   },
   "московск": {
-    "display_name": "Московской области",
-    "type": "missile",
-    "text": "Предположительно через Орловскую область ракета в направлении Тульской, Московской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-20T01:13:44+00:00",
-    "expires_at": "2026-08-20T02:13:44+00:00",
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Луховицкий район\nМосковская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-20T02:14:49+00:00",
+    "expires_at": "2026-08-20T03:14:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -69,23 +69,53 @@
     "count": null,
     "count_approx": false
   },
-  "татарст": {
-    "display_name": "Республика Татарстан",
-    "type": "drone",
-    "text": "Нижнекамский район\nРеспублика Татарстан\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-20T01:58:20+00:00",
-    "expires_at": "2026-08-20T02:58:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ульяновск": {
     "display_name": "Ульяновская область",
     "type": "drone",
-    "text": "Чердаклинский район \nУльяновская область \nФиксация группы БПЛА",
+    "text": "Чердаклинский район \nУльяновская область \nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-20T02:02:56+00:00",
+    "expires_at": "2026-08-20T03:02:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Белёвский район \nТульская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-20T02:05:25+00:00",
+    "expires_at": "2026-08-20T03:05:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Бабынинский район \nМещовский район \nКозельский район \nКалужская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-20T02:14:16+00:00",
+    "expires_at": "2026-08-20T03:14:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "марий": {
+    "display_name": "Республика Марий",
+    "type": "drone",
+    "text": "Моркинский район \nРеспублика Марий Эл\nФиксация от 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-20T02:15:17+00:00",
+    "expires_at": "2026-08-20T03:15:17+00:00",
+    "count": 3,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Нижнекамск\nРеспублика Татарстан\nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-08-20T01:59:36+00:00",
-    "expires_at": "2026-08-20T02:59:36+00:00",
+    "updated_at": "2026-08-20T02:16:19+00:00",
+    "expires_at": "2026-08-20T03:16:19+00:00",
     "count": null,
     "count_approx": false
   }
