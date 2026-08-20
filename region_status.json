@@ -22,30 +22,30 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Заозёрное \nУютное\nЕвпатория и близлежащие \nОпасность по БПЛА\nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-20T15:07:39+00:00",
-    "expires_at": "2026-08-20T16:07:39+00:00",
+    "text": "Внуково, Красная Поляна\nТревога по БПЛА с востока\nФиксация вдоль трассы, низко\nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-20T15:15:49+00:00",
+    "expires_at": "2026-08-20T16:15:49+00:00",
     "count": null,
     "count_approx": false
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-20T14:34:59+00:00",
-    "expires_at": "2026-08-20T15:34:59+00:00",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-20T15:11:58+00:00",
+    "expires_at": "2026-08-20T16:11:58+00:00",
     "count": null,
     "count_approx": false
   },
   "адыгея": {
     "display_name": "Республика Адыгея",
     "type": "drone",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-20T14:34:59+00:00",
-    "expires_at": "2026-08-20T15:34:59+00:00",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-20T15:11:58+00:00",
+    "expires_at": "2026-08-20T16:11:58+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +66,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-20T14:52:19+00:00",
     "expires_at": "2026-08-20T15:52:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Стрелецкий - БПЛА\n\nОрловский район \nОрловская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-20T15:11:12+00:00",
+    "expires_at": "2026-08-20T16:11:12+00:00",
     "count": null,
     "count_approx": false
   }
