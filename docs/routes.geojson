@@ -165,6 +165,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-08-20T17:52:32+00:00",
+        "last_updated": "2026-08-20T18:17:00+00:00",
+        "path_labels": [
+          "Кантемировский (Воронежская область)",
+          "Россошанский (Воронежская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.7513457,
+            49.797172
+          ],
+          [
+            39.6627682,
+            50.1186442
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-08-20T17:53:54+00:00",
         "last_updated": "2026-08-20T17:53:54+00:00",
         "path_labels": [
