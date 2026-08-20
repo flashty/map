@@ -22,10 +22,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Внуково, Красная Поляна\nТревога по БПЛА с востока\nФиксация вдоль трассы, низко\nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-20T15:15:49+00:00",
-    "expires_at": "2026-08-20T16:15:49+00:00",
+    "text": "Фрунзе, Тепловка и близлежащие\nТревога по БПЛА сохраняется\nМеры безопасности\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-20T15:21:54+00:00",
+    "expires_at": "2026-08-20T16:21:54+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +76,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-20T15:11:12+00:00",
     "expires_at": "2026-08-20T16:11:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "missile",
+    "text": "Запорожская область РФ \nЛДНР \nАвиационная ракетно бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-20T15:21:43+00:00",
+    "expires_at": "2026-08-20T16:21:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "одесск": {
+    "display_name": "Одесская область",
+    "type": "drone",
+    "text": "Ещё запуски БПЛА Одесская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-20T15:27:11+00:00",
+    "expires_at": "2026-08-20T16:27:11+00:00",
     "count": null,
     "count_approx": false
   }
