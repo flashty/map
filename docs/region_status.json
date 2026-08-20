@@ -2,40 +2,20 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Воскресенск\nМосковская область\nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-20T03:14:30+00:00",
-    "expires_at": "2026-08-20T04:14:30+00:00",
+    "text": "Тульская область \nКалужская область \nМосковская область \nОпасность по БПЛА сохраняется",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-20T03:56:55+00:00",
+    "expires_at": "2026-08-20T04:56:55+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Щекинский район \nТульская область \nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-20T02:47:20+00:00",
-    "expires_at": "2026-08-20T03:47:20+00:00",
-    "count": 2,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Мценский район \nОрловская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-20T02:45:57+00:00",
-    "expires_at": "2026-08-20T03:45:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Евпатория \nСаки \nНовофедоровка \nИ близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-20T02:59:07+00:00",
-    "expires_at": "2026-08-20T03:59:07+00:00",
+    "text": "Тульская область \nКалужская область \nМосковская область \nОпасность по БПЛА сохраняется",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-20T03:56:55+00:00",
+    "expires_at": "2026-08-20T04:56:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +26,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-20T03:26:55+00:00",
     "expires_at": "2026-08-20T04:26:55+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Тульская область \nКалужская область \nМосковская область \nОпасность по БПЛА сохраняется",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-20T03:56:55+00:00",
+    "expires_at": "2026-08-20T04:56:55+00:00",
     "count": null,
     "count_approx": false
   }
