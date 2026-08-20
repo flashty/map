@@ -9,23 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "ростовск": {
-    "display_name": "Ростовскую область",
-    "type": "drone",
-    "text": "Новопсков и близлежащие ЛНР\nИ далее на Ростовскую, Воронежскую область\nТревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-20T21:32:52+00:00",
-    "expires_at": "2026-08-20T22:32:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Белогорск\nБелогорский район\nТревога по БПЛА сохраняется\nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-20T22:20:42+00:00",
-    "expires_at": "2026-08-20T23:20:42+00:00",
+    "text": "Янтарное и близлежащие \nЕщё фиксации БПЛА и далее на Восток\nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-20T22:43:08+00:00",
+    "expires_at": "2026-08-20T23:43:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -132,10 +122,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Новороссийск\nКраснодарский край\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-20T22:30:33+00:00",
-    "expires_at": "2026-08-20T23:30:33+00:00",
+    "text": "Ачуево и далее в направлении Краснодар\nТревога по БПЛА\nКраснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-20T22:38:09+00:00",
+    "expires_at": "2026-08-20T23:38:09+00:00",
     "count": null,
     "count_approx": false
   },
@@ -252,10 +242,20 @@
   "тамбовск": {
     "display_name": "Тамбовская область",
     "type": "drone",
-    "text": "Мордовский район\nТамбовская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-20T22:30:04+00:00",
-    "expires_at": "2026-08-20T23:30:04+00:00",
+    "text": "Мордовский район\nТамбовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-20T22:31:43+00:00",
+    "expires_at": "2026-08-20T23:31:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Трубчевск и близлежащие\nТревога по БПЛА, повторно\nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-20T22:34:28+00:00",
+    "expires_at": "2026-08-20T23:34:28+00:00",
     "count": null,
     "count_approx": false
   }
