@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-20T15:10:14+00:00",
+        "last_updated": "2026-08-20T15:44:56+00:00",
+        "path_labels": [
+          "Шебекинский",
+          "Ракитное"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.8728034,
+            50.438988
+          ],
+          [
+            35.832,
+            50.8343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-20T15:11:12+00:00",
+        "last_updated": "2026-08-20T15:43:54+00:00",
+        "path_labels": [
+          "Орловский (Орловская область)",
+          "Валуйский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.9383453,
+            52.9856621
+          ],
+          [
+            36.3185713,
+            53.1481885
+          ]
+        ]
+      }
+    }
+  ]
 }
