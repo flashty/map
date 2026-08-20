@@ -1,27 +1,5 @@
 [
   {
-    "id": "kupolrussia_117024",
-    "channel": "kupolrussia",
-    "date": "2026-08-19T17:34:42+00:00",
-    "text": "Воронежская область, Ростовская область \nОпасность по БПЛА от ЛНР \n\nБольшое количество",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_83642",
-    "channel": "vrv_radar",
-    "date": "2026-08-19T17:35:02+00:00",
-    "text": "Сочи и близлежащие\nКраснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_88966",
     "channel": "radarrussiia",
     "date": "2026-08-19T17:35:36+00:00",
@@ -21996,6 +21974,28 @@
     "type": "all_clear",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_222248",
+    "channel": "LPRalarm",
+    "date": "2026-08-20T05:05:55+00:00",
+    "text": "Токмак\nМолочанск и близлежащие \nОпасность по МРШ со сбросами \nЗапорожская область РФ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_117402",
+    "channel": "kupolrussia",
+    "date": "2026-08-20T05:10:51+00:00",
+    "text": "Токмак\nМолочанск и близлежащие \nОпасность по МРШ со сбросами \nЗапорожская область РФ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
