@@ -1,14 +1,4 @@
 {
-  "башкортост": {
-    "display_name": "Республика Башкортостан",
-    "type": "drone",
-    "text": "Стерлитамак, Уфа, Салават, Республика Башкортостан \nОпасность по БПЛА от Республики Татарстан\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-20T01:47:15+00:00",
-    "expires_at": "2026-08-20T02:47:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
@@ -32,10 +22,10 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Плавский район \nТульская область \nФиксация от 2 БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-20T02:45:53+00:00",
-    "expires_at": "2026-08-20T03:45:53+00:00",
+    "text": "Щекинский район \nТульская область \nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-20T02:47:20+00:00",
+    "expires_at": "2026-08-20T03:47:20+00:00",
     "count": 2,
     "count_approx": false
   },
@@ -62,10 +52,10 @@
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Заинский район\nРеспублика Татарстан\nФиксация единичного БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Тукаевский район\nРеспублика Татарстан\nФиксация единичного БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-20T02:38:29+00:00",
-    "expires_at": "2026-08-20T03:38:29+00:00",
+    "updated_at": "2026-08-20T02:57:43+00:00",
+    "expires_at": "2026-08-20T03:57:43+00:00",
     "count": 1,
     "count_approx": true
   },
@@ -86,6 +76,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-20T02:45:57+00:00",
     "expires_at": "2026-08-20T03:45:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Евпатория \nСаки \nНовофедоровка \nИ близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-20T02:59:07+00:00",
+    "expires_at": "2026-08-20T03:59:07+00:00",
     "count": null,
     "count_approx": false
   }
