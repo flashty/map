@@ -1,93 +1,5 @@
 [
   {
-    "id": "kupolrussia_117613",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T18:00:40+00:00",
-    "text": "Порт Кавказ и близлежащие опасность по ФПВ",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222516_Гвардейское",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T18:01:42+00:00",
-    "text": "Войково с севера и далее на Гвардейское, Симферополь тревога по БПЛА. Трасса особое внимание",
-    "type": "drone",
-    "location_name": "Гвардейское",
-    "region": null,
-    "lat": 43.67239,
-    "lon": 44.96241
-  },
-  {
-    "id": "kupolrussia_117614_Гвардейское",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T18:01:47+00:00",
-    "text": "Войково с севера и далее на Гвардейское, Симферополь тревога по БПЛА. Трасса особое внимание",
-    "type": "drone",
-    "location_name": "Гвардейское",
-    "region": null,
-    "lat": 43.67239,
-    "lon": 44.96241
-  },
-  {
-    "id": "LPRalarm_222517_Вересаево",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T18:03:37+00:00",
-    "text": "Вересаево, Евпатория, Карьерное, Наумовка, Саки, Новофедоровка и близлежащие тревога по БПЛА с севера",
-    "type": "drone",
-    "location_name": "Вересаево",
-    "region": null,
-    "lat": 47.2417998,
-    "lon": 39.8027152
-  },
-  {
-    "id": "LPRalarm_222517_Карьерное",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T18:03:37+00:00",
-    "text": "Вересаево, Евпатория, Карьерное, Наумовка, Саки, Новофедоровка и близлежащие тревога по БПЛА с севера",
-    "type": "drone",
-    "location_name": "Карьерное",
-    "region": null,
-    "lat": 68.9300124,
-    "lon": 33.087803
-  },
-  {
-    "id": "LPRalarm_222517_Наумовка",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T18:03:37+00:00",
-    "text": "Вересаево, Евпатория, Карьерное, Наумовка, Саки, Новофедоровка и близлежащие тревога по БПЛА с севера",
-    "type": "drone",
-    "location_name": "Наумовка",
-    "region": null,
-    "lat": 54.878663,
-    "lon": 20.7036191
-  },
-  {
-    "id": "LPRalarm_222517_Саки",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T18:03:37+00:00",
-    "text": "Вересаево, Евпатория, Карьерное, Наумовка, Саки, Новофедоровка и близлежащие тревога по БПЛА с севера",
-    "type": "drone",
-    "location_name": "Саки",
-    "region": null,
-    "lat": 55.472233,
-    "lon": 31.545233
-  },
-  {
-    "id": "kupolrussia_117615_Вересаево",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T18:03:45+00:00",
-    "text": "Вересаево, Евпатория, Карьерное, Наумовка, Саки, Новофедоровка и близлежащие тревога по БПЛА с севера",
-    "type": "drone",
-    "location_name": "Вересаево",
-    "region": null,
-    "lat": 47.2417998,
-    "lon": 39.8027152
-  },
-  {
     "id": "kupolrussia_117615_Карьерное",
     "channel": "kupolrussia",
     "date": "2026-08-20T18:03:45+00:00",
@@ -21996,6 +21908,94 @@
     "type": "drone",
     "location_name": null,
     "region": "Тульской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223016",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T14:27:17+00:00",
+    "text": "Краснодарский край отбой опасности по БПЛА все районы",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_84395",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T14:27:31+00:00",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_118051",
+    "channel": "kupolrussia",
+    "date": "2026-08-21T14:27:39+00:00",
+    "text": "Краснодарский край\nвсе районы",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_84396",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T14:27:52+00:00",
+    "text": "Псковская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89358",
+    "channel": "radarrussiia",
+    "date": "2026-08-21T14:28:11+00:00",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89359",
+    "channel": "radarrussiia",
+    "date": "2026-08-21T14:28:24+00:00",
+    "text": "Псковская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_81680",
+    "channel": "locatorru",
+    "date": "2026-08-21T14:29:21+00:00",
+    "text": "Брянская область, Курская область, Белгородская область, Смоленская область, Тверская область, Псковская область, Тульская область, Орловская область, Воронежская область, Липецкая область, Московская область, Рязанская область, Владимирская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_81681",
+    "channel": "locatorru",
+    "date": "2026-08-21T14:29:39+00:00",
+    "text": "Краснодарский край - отбой опасности по БПЛА во всех ранее объявленных районах. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
