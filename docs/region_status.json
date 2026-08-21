@@ -1,14 +1,4 @@
 {
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Каменский район\nРостовская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-21T21:49:22+00:00",
-    "expires_at": "2026-08-21T22:49:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -22,10 +12,10 @@
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Борисоглебский район\nВоронежская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Борисоглебск\nВоронежская область\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-21T22:06:14+00:00",
-    "expires_at": "2026-08-21T23:06:14+00:00",
+    "updated_at": "2026-08-21T22:46:59+00:00",
+    "expires_at": "2026-08-21T23:46:59+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Ефремов\nТульская область\nФиксации от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-21T21:46:38+00:00",
-    "expires_at": "2026-08-21T22:46:38+00:00",
-    "count": 2,
-    "count_approx": false
-  },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
@@ -79,23 +59,13 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородской области",
-    "type": "drone",
-    "text": "Продолжаются фиксации от ЛНР и Белгородской области в направлении Воронежа и далее в тыловые районы. Тревога по БПЛА сохраняется.",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-21T21:53:46+00:00",
-    "expires_at": "2026-08-21T22:53:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Евпатория \nТревога по БПЛА \nПовторно \nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-21T22:44:45+00:00",
-    "expires_at": "2026-08-21T23:44:45+00:00",
+    "text": "Уютное и близлежащие \nТревога по БПЛА сохраняется \nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-21T22:52:42+00:00",
+    "expires_at": "2026-08-21T23:52:42+00:00",
     "count": null,
     "count_approx": false
   },

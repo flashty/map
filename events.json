@@ -1,126 +1,5 @@
 [
   {
-    "id": "LPRalarm_222727",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T23:01:59+00:00",
-    "text": "Новофедоровка и близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_84219",
-    "channel": "vrv_radar",
-    "date": "2026-08-20T23:02:29+00:00",
-    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_117804",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T23:02:46+00:00",
-    "text": "Новофедоровка и близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222728",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T23:04:00+00:00",
-    "text": "Джанкой и близлежащие\nТревога по БПЛА , повторно\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_89279",
-    "channel": "radarrussiia",
-    "date": "2026-08-20T23:04:51+00:00",
-    "text": "Ставропольский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_84220_Шатковский",
-    "channel": "vrv_radar",
-    "date": "2026-08-20T23:12:45+00:00",
-    "text": "Шатковский район\nНижегородская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Шатковский",
-    "region": "Нижегородская область",
-    "lat": 55.2007595,
-    "lon": 44.2310882
-  },
-  {
-    "id": "radar_plus_bpla_13854",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-20T23:13:45+00:00",
-    "text": "Нижегородская область\nЧувашская Республика\n\nОпасность БПЛА. От 20 единиц в небе от Республики Мордовия.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Нижегородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_84221_Ельниковский",
-    "channel": "vrv_radar",
-    "date": "2026-08-20T23:13:54+00:00",
-    "text": "Ельниковский район\nРеспублика Мордовия\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Ельниковский",
-    "region": "Республика Мордовия",
-    "lat": 54.6505261,
-    "lon": 43.8468056
-  },
-  {
-    "id": "vrv_radar_84222_Зубово-Полянский",
-    "channel": "vrv_radar",
-    "date": "2026-08-20T23:15:56+00:00",
-    "text": "Зубово-Полянский район\nРеспублика Мордовия\nФиксация 2 БПЛА",
-    "type": "drone",
-    "location_name": "Зубово-Полянский",
-    "region": "Республика Мордовия",
-    "lat": 54.056908,
-    "lon": 42.7941454
-  },
-  {
-    "id": "LPRalarm_222729",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T23:16:09+00:00",
-    "text": "Брянск и близлежащие\nТревога по БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_117805",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T23:16:37+00:00",
-    "text": "Брянск и близлежащие\nТревога по БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_89280_Шатковский",
     "channel": "radarrussiia",
     "date": "2026-08-20T23:16:39+00:00",
@@ -21998,5 +21877,126 @@
     "region": "Саратовская область",
     "lat": 51.530018,
     "lon": 46.034683
+  },
+  {
+    "id": "vrv_radar_84572_Борисоглебск",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T22:46:18+00:00",
+    "text": "Борисоглебск\nВоронежская область\nРабота ПВО по БПЛА\nМеры безопасности",
+    "type": "drone",
+    "location_name": "Борисоглебск",
+    "region": "Воронежская область",
+    "lat": 51.368015,
+    "lon": 42.075169
+  },
+  {
+    "id": "LPRalarm_223214",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T22:46:32+00:00",
+    "text": "Симферополь \nГвардейское \nГРЭС \nТаврическая ТЭС \nТревога по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89459_Саратов",
+    "channel": "radarrussiia",
+    "date": "2026-08-21T22:46:42+00:00",
+    "text": "Саратов\nСаратовская область\nПриготовиться к сбитию\nУйти с улиц\nОтойти от окон\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": "Саратов",
+    "region": "Саратовская область",
+    "lat": 51.530018,
+    "lon": 46.034683
+  },
+  {
+    "id": "radarrussiia_89460_Борисоглебск",
+    "channel": "radarrussiia",
+    "date": "2026-08-21T22:46:59+00:00",
+    "text": "Борисоглебск\nВоронежская область\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Борисоглебск",
+    "region": "Воронежская область",
+    "lat": 51.368015,
+    "lon": 42.075169
+  },
+  {
+    "id": "LPRalarm_223215",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T22:47:42+00:00",
+    "text": "Симферополь \nПринять меры безопасности \nРеспублика Крым",
+    "type": "alert",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_118230",
+    "channel": "kupolrussia",
+    "date": "2026-08-21T22:47:47+00:00",
+    "text": "Симферополь \nГвардейское \nГРЭС \nТаврическая ТЭС \nТревога по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223216",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T22:48:12+00:00",
+    "text": "Евпатория \nКатушка \nСоблюдаем меры безопасности \nРеспублика Крым",
+    "type": "alert",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223217",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T22:50:17+00:00",
+    "text": "Кольчугино \nСкворцово и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223218",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T22:52:42+00:00",
+    "text": "Уютное и близлежащие \nТревога по БПЛА сохраняется \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223219",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T22:54:16+00:00",
+    "text": "Севастополь \nОпасность по БПЛА с моря",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_118231",
+    "channel": "kupolrussia",
+    "date": "2026-08-21T22:54:21+00:00",
+    "text": "Севастополь \nОпасность по БПЛА с моря",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
