@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_222213_Ейск",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T02:30:35+00:00",
-    "text": "От Бердянск пролёты БПЛА в Азовское море направление на Приморско-Ахтарск, Ейск",
-    "type": "drone",
-    "location_name": "Ейск",
-    "region": null,
-    "lat": 46.7112094,
-    "lon": 38.2747987
-  },
-  {
-    "id": "kupolrussia_117376_Ахтарск",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T02:30:52+00:00",
-    "text": "От Бердянск пролёты БПЛА в Азовское море направление на Приморско-Ахтарск, Ейск",
-    "type": "drone",
-    "location_name": "Ахтарск",
-    "region": null,
-    "lat": 46.0490992,
-    "lon": 38.1712168
-  },
-  {
-    "id": "kupolrussia_117376_Ейск",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T02:30:52+00:00",
-    "text": "От Бердянск пролёты БПЛА в Азовское море направление на Приморско-Ахтарск, Ейск",
-    "type": "drone",
-    "location_name": "Ейск",
-    "region": null,
-    "lat": 46.7112094,
-    "lon": 38.2747987
-  },
-  {
-    "id": "radarrussiia_89155_Нижнекамский",
-    "channel": "radarrussiia",
-    "date": "2026-08-20T02:31:13+00:00",
-    "text": "Нижнекамский район\nРеспублика Татарстан\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Нижнекамский",
-    "region": "Республика Татарстан",
-    "lat": 55.4292502,
-    "lon": 51.5392344
-  },
-  {
-    "id": "kupolrussia_117377",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T02:33:22+00:00",
-    "text": "Московская область \nТульская область \nКалужская область \nСоблюдаем меры безопасности при БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222214",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T02:33:33+00:00",
-    "text": "Московская область \nТульская область \nКалужская область \nСоблюдаем меры безопасности при БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_117378",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T02:33:48+00:00",
-    "text": "Отбой ракетной опасности все ранее объявленные тыловые регионы",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222215",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T02:33:52+00:00",
-    "text": "Отбой ракетной опасности все ранее объявленные тыловые регионы",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_83986_Заинский",
     "channel": "vrv_radar",
     "date": "2026-08-20T02:35:02+00:00",
@@ -21998,5 +21910,93 @@
     "region": "Брянская область",
     "lat": 53.1651974,
     "lon": 34.3502822
+  },
+  {
+    "id": "LPRalarm_222797",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T01:38:05+00:00",
+    "text": "Брянск и близлежащие\nТревога по БПЛА сохраняется\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_117856",
+    "channel": "kupolrussia",
+    "date": "2026-08-21T01:38:28+00:00",
+    "text": "Брянск и близлежащие\nТревога по БПЛА сохраняется\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_84243_Бугурусланский",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T01:42:52+00:00",
+    "text": "Бугурусланский район\nОренбургская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Бугурусланский",
+    "region": "Оренбургская область",
+    "lat": 53.6400029,
+    "lon": 52.5942796
+  },
+  {
+    "id": "vrv_radar_84244_Килемарский",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T01:43:34+00:00",
+    "text": "Килемарский район\nРеспублика Марий Эл\nФиксация  БПЛА",
+    "type": "drone",
+    "location_name": "Килемарский",
+    "region": "Республика Марий",
+    "lat": 56.5872884,
+    "lon": 47.021692
+  },
+  {
+    "id": "LPRalarm_222798",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T01:44:47+00:00",
+    "text": "Вилино  и близлежащие\nТревога по БПЛА сохраняется\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89303_Бугурусланский",
+    "channel": "radarrussiia",
+    "date": "2026-08-21T01:44:56+00:00",
+    "text": "Бугурусланский район\nОренбургская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Бугурусланский",
+    "region": "Оренбургская область",
+    "lat": 53.6400029,
+    "lon": 52.5942796
+  },
+  {
+    "id": "kupolrussia_117857",
+    "channel": "kupolrussia",
+    "date": "2026-08-21T01:45:07+00:00",
+    "text": "Вилино  и близлежащие\nТревога по БПЛА сохраняется\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89304_Килемарский",
+    "channel": "radarrussiia",
+    "date": "2026-08-21T01:45:13+00:00",
+    "text": "Килемарский район\nРеспублика Марий Эл\nФиксация  БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Килемарский",
+    "region": "Республика Марий",
+    "lat": 56.5872884,
+    "lon": 47.021692
   }
 ]
