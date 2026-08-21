@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_117799",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T22:54:44+00:00",
-    "text": "Красногвардейский район\nДжанкойский район\nТревога по БПЛА сохраняется\nЕще фиксации\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222723",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T22:54:58+00:00",
-    "text": "Симферополь и близлежащие\nТревога по БПЛА сохраняется\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_117800",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T22:55:12+00:00",
-    "text": "Симферополь и близлежащие\nТревога по БПЛА сохраняется\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222724",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T22:56:06+00:00",
-    "text": "Новороссийск и близлежащие\nТревога по БПЛА сохраняется\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_81590_Темрюк",
-    "channel": "locatorru",
-    "date": "2026-08-20T22:56:24+00:00",
-    "text": "Темрюк, Анапа, Геленджик, Новороссийск, Краснодарский край - опасность по БПЛА сохраняется. Продолжаются сбития. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": "Темрюк",
-    "region": "Краснодарский край",
-    "lat": 45.2823609,
-    "lon": 37.3658235
-  },
-  {
     "id": "locatorru_81590_Анапа",
     "channel": "locatorru",
     "date": "2026-08-20T22:56:24+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Республика Крым",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_84562_Энгельс",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T22:31:27+00:00",
+    "text": "Саратов/Энгельс\nСаратовская область\nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": "Энгельс",
+    "region": "Саратовская область",
+    "lat": 51.5013775,
+    "lon": 46.1233093
+  },
+  {
+    "id": "radar_plus_bpla_13897",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-21T22:31:51+00:00",
+    "text": "Саратов\nЭнгельс\n\nСбития БПЛА. Ещё много фиксаций в вашу сторону.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_84563_Кораблинский",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T22:32:06+00:00",
+    "text": "Кораблинский район\nРязанская область \nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Кораблинский",
+    "region": "Рязанская область",
+    "lat": 53.9730891,
+    "lon": 40.0359164
+  },
+  {
+    "id": "LPRalarm_223208",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T22:32:50+00:00",
+    "text": "Трасса Р-280\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89453_Энгельс",
+    "channel": "radarrussiia",
+    "date": "2026-08-21T22:32:59+00:00",
+    "text": "Саратов/Энгельс\nСаратовская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Энгельс",
+    "region": "Саратовская область",
+    "lat": 51.5013775,
+    "lon": 46.1233093
   }
 ]
