@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_84007",
-    "channel": "vrv_radar",
-    "date": "2026-08-20T03:20:41+00:00",
-    "text": "Республика Чувашия\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Чувашия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_117386",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T03:21:26+00:00",
-    "text": "Самарская область \nУльяновская область \nРеспублика Башкортостан",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222224",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T03:21:30+00:00",
-    "text": "Самарская область \nУльяновская область \nРеспублика Башкортостан",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_222226",
     "channel": "LPRalarm",
     "date": "2026-08-20T03:22:54+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Кировская область",
     "lat": 57.2112127,
     "lon": 47.9760303
+  },
+  {
+    "id": "vrv_radar_84255",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T02:47:57+00:00",
+    "text": "Пензенская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_84256",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T02:49:54+00:00",
+    "text": "Пермский край\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пермский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89305",
+    "channel": "radarrussiia",
+    "date": "2026-08-21T02:53:00+00:00",
+    "text": "Пермский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пермский край",
+    "lat": null,
+    "lon": null
   }
 ]
