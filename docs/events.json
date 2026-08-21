@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_222535",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T18:25:54+00:00",
-    "text": "Марковка ЛНР,и далее на Воронежскую область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_89187_Кантемировский",
-    "channel": "radarrussiia",
-    "date": "2026-08-20T18:26:06+00:00",
-    "text": "Кантемировский район \nБогучарский район \nВоронежская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Кантемировский",
-    "region": "Воронежская область",
-    "lat": 49.797172,
-    "lon": 39.7513457
-  },
-  {
-    "id": "radarrussiia_89187_Богучарский",
-    "channel": "radarrussiia",
-    "date": "2026-08-20T18:26:06+00:00",
-    "text": "Кантемировский район \nБогучарский район \nВоронежская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Богучарский",
-    "region": "Воронежская область",
-    "lat": 50.4979916,
-    "lon": 39.6363652
-  },
-  {
-    "id": "radarrussiia_89188",
-    "channel": "radarrussiia",
-    "date": "2026-08-20T18:26:24+00:00",
-    "text": "Орловская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_117632",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T18:26:40+00:00",
-    "text": "Марковка ЛНР,и далее на Воронежскую область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_81512",
-    "channel": "locatorru",
-    "date": "2026-08-20T18:26:48+00:00",
-    "text": "юг Воронежской области, север Ростовской области - опасность по массовому пролёту БПЛА со стороны ЛНР.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_89189",
-    "channel": "radarrussiia",
-    "date": "2026-08-20T18:26:57+00:00",
-    "text": "Воронежская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_89190_Ейский",
-    "channel": "radarrussiia",
-    "date": "2026-08-20T18:27:19+00:00",
-    "text": "Ейский район \nКраснодарский край \nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Ейский",
-    "region": "Краснодарский край",
-    "lat": 46.6101533,
-    "lon": 39.2410083
-  },
-  {
     "id": "LPRalarm_222536",
     "channel": "LPRalarm",
     "date": "2026-08-20T18:27:19+00:00",
@@ -21996,6 +21908,94 @@
     "type": "missile",
     "location_name": null,
     "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223039_Весь",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T16:01:55+00:00",
+    "text": "Весь Краснодарский край \nРакетная опасность",
+    "type": "missile",
+    "location_name": "Весь",
+    "region": "Краснодарский край",
+    "lat": 46.0452574,
+    "lon": 38.16708
+  },
+  {
+    "id": "kupolrussia_118072_Весь",
+    "channel": "kupolrussia",
+    "date": "2026-08-21T16:02:03+00:00",
+    "text": "Весь Краснодарский край \nРакетная опасность",
+    "type": "missile",
+    "location_name": "Весь",
+    "region": "Краснодарский край",
+    "lat": 46.0452574,
+    "lon": 38.16708
+  },
+  {
+    "id": "LPRalarm_223040_Желобок",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T16:02:15+00:00",
+    "text": "БПЛА Хорнет в направлении Луганска пролетел Желобок",
+    "type": "drone",
+    "location_name": "Желобок",
+    "region": null,
+    "lat": 50.510448,
+    "lon": 37.423615
+  },
+  {
+    "id": "kupolrussia_118073_Желобок",
+    "channel": "kupolrussia",
+    "date": "2026-08-21T16:02:20+00:00",
+    "text": "БПЛА Хорнет в направлении Луганска пролетел Желобок",
+    "type": "drone",
+    "location_name": "Желобок",
+    "region": null,
+    "lat": 50.510448,
+    "lon": 37.423615
+  },
+  {
+    "id": "kupolrussia_118074",
+    "channel": "kupolrussia",
+    "date": "2026-08-21T16:02:38+00:00",
+    "text": "Волгоградская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_81683",
+    "channel": "locatorru",
+    "date": "2026-08-21T16:02:54+00:00",
+    "text": "Краснодарский край - ракетная опасность со стороны Азовского моря. \n\n📡Локатор России - @locatorru",
+    "type": "missile",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223041",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T16:03:00+00:00",
+    "text": "Волгоградская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89364",
+    "channel": "radarrussiia",
+    "date": "2026-08-21T16:03:52+00:00",
+    "text": "Волгоградская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "missile",
+    "location_name": null,
+    "region": "Волгоградская область",
     "lat": null,
     "lon": null
   }
