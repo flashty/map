@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "кировск": {
-    "display_name": "Кировская область",
-    "type": "drone",
-    "text": "Яранский район\nКировская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-21T02:44:13+00:00",
-    "expires_at": "2026-08-21T03:44:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "пермск": {
     "display_name": "Пермский край",
     "type": "drone",
@@ -112,11 +102,21 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Рузский \nМосковская область\nФиксация от 2 БПЛА",
+    "text": "ГО Наро-Фоминск\nМосковская область\nФиксация от 2 БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-08-21T03:41:09+00:00",
-    "expires_at": "2026-08-21T04:41:09+00:00",
+    "updated_at": "2026-08-21T03:42:29+00:00",
+    "expires_at": "2026-08-21T04:42:29+00:00",
     "count": 2,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калуга\nКалужская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-21T03:45:52+00:00",
+    "expires_at": "2026-08-21T04:45:52+00:00",
+    "count": null,
     "count_approx": false
   }
 }

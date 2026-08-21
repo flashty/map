@@ -1,93 +1,5 @@
 [
   {
-    "id": "kupolrussia_117401",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T04:33:25+00:00",
-    "text": "Белгородская область \nКурская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_84023",
-    "channel": "vrv_radar",
-    "date": "2026-08-20T04:36:21+00:00",
-    "text": "Московская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_84024",
-    "channel": "vrv_radar",
-    "date": "2026-08-20T04:37:45+00:00",
-    "text": "Кировская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Кировская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_84025",
-    "channel": "vrv_radar",
-    "date": "2026-08-20T04:38:15+00:00",
-    "text": "Калужская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222241_Ракитянский",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T04:39:56+00:00",
-    "text": "Дмитриевка \nРакитянский район \nБПЛА разведка",
-    "type": "drone",
-    "location_name": "Ракитянский",
-    "region": null,
-    "lat": 50.8380326,
-    "lon": 35.9006134
-  },
-  {
-    "id": "LPRalarm_222242_Ракитянский",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T04:40:19+00:00",
-    "text": "Дмитриевка \nРакитянский район \nТревога по ударному БПЛА",
-    "type": "drone",
-    "location_name": "Ракитянский",
-    "region": null,
-    "lat": 50.8380326,
-    "lon": 35.9006134
-  },
-  {
-    "id": "LPRalarm_222243",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T04:40:39+00:00",
-    "text": "Молочное\nВитино\nУютное\nЕвпатория \nВнимание по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222244",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T04:41:20+00:00",
-    "text": "Евпатория \nУютное \nКатушка и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_89168",
     "channel": "radarrussiia",
     "date": "2026-08-20T04:42:11+00:00",
@@ -21998,5 +21910,93 @@
     "region": "Московская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_84278",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T03:41:19+00:00",
+    "text": "Самарская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_84279",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T03:41:44+00:00",
+    "text": "Республика Адыгея \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_84280_Можайск",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T03:41:53+00:00",
+    "text": "ГО Можайск\nМосковская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Можайск",
+    "region": "Московская область",
+    "lat": 55.506478,
+    "lon": 36.0213092
+  },
+  {
+    "id": "vrv_radar_84281_Фоминск",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T03:42:29+00:00",
+    "text": "ГО Наро-Фоминск\nМосковская область\nФиксация от 2 БПЛА",
+    "type": "drone",
+    "location_name": "Фоминск",
+    "region": "Московская область",
+    "lat": 55.3842784,
+    "lon": 36.723507
+  },
+  {
+    "id": "vrv_radar_84282_Боровский",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T03:43:27+00:00",
+    "text": "Боровский район\nКалужская область\nФиксация от 3 БПЛА",
+    "type": "drone",
+    "location_name": "Боровский",
+    "region": "Калужская область",
+    "lat": 55.2148556,
+    "lon": 36.5331624
+  },
+  {
+    "id": "vrv_radar_84283_Малоярославецкий",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T03:44:33+00:00",
+    "text": "Малоярославецкий район\nКалужская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Малоярославецкий",
+    "region": "Калужская область",
+    "lat": 54.8898368,
+    "lon": 36.4160867
+  },
+  {
+    "id": "vrv_radar_84284_Тарусский",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T03:45:24+00:00",
+    "text": "Тарусский район\nКалужская область\nФиксация от 3 БПЛА",
+    "type": "drone",
+    "location_name": "Тарусский",
+    "region": "Калужская область",
+    "lat": 54.7179122,
+    "lon": 37.1690689
+  },
+  {
+    "id": "vrv_radar_84285_Калуга",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T03:45:52+00:00",
+    "text": "Калуга\nКалужская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Калуга",
+    "region": "Калужская область",
+    "lat": 54.5101087,
+    "lon": 36.2598115
   }
 ]
