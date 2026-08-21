@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "башкортост": {
-    "display_name": "Республика Башкортостан",
-    "type": "drone",
-    "text": "Благоварский район\nРеспублика Башкортостан\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-21T02:33:06+00:00",
-    "expires_at": "2026-08-21T03:33:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "пермск": {
     "display_name": "Пермский край",
     "type": "drone",
@@ -62,11 +52,11 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Алексин\nТульская область\nРабота ПВО по БПЛА",
+    "text": "Щёкинский район\nТульская область\nФиксация от 2 БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-08-21T03:09:19+00:00",
-    "expires_at": "2026-08-21T04:09:19+00:00",
-    "count": null,
+    "updated_at": "2026-08-21T03:38:11+00:00",
+    "expires_at": "2026-08-21T04:38:11+00:00",
+    "count": 2,
     "count_approx": false
   },
   "дагест": {
@@ -87,6 +77,46 @@
     "updated_at": "2026-08-21T03:28:18+00:00",
     "expires_at": "2026-08-21T04:28:18+00:00",
     "count": null,
+    "count_approx": false
+  },
+  "ярославск": {
+    "display_name": "Ярославская область",
+    "type": "drone",
+    "text": "Ярославская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-21T03:31:52+00:00",
+    "expires_at": "2026-08-21T04:31:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Климово и близлежащие\nТревога по БПЛА сохраняется\nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-21T03:38:19+00:00",
+    "expires_at": "2026-08-21T04:38:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Милославский район\nРязанская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-21T03:39:21+00:00",
+    "expires_at": "2026-08-21T04:39:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Рузский \nМосковская область\nФиксация от 2 БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-21T03:41:09+00:00",
+    "expires_at": "2026-08-21T04:41:09+00:00",
+    "count": 2,
     "count_approx": false
   }
 }
