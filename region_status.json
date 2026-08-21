@@ -12,10 +12,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Брянск и близлежащие\nТревога по БПЛА сохраняется\nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-21T01:38:28+00:00",
-    "expires_at": "2026-08-21T02:38:28+00:00",
+    "text": "Отрадное \nБрянская область \nТревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-21T01:53:25+00:00",
+    "expires_at": "2026-08-21T02:53:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,16 +26,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-21T01:45:13+00:00",
     "expires_at": "2026-08-21T02:45:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "татарст": {
-    "display_name": "Республики Татарстан",
-    "type": "drone",
-    "text": "От Чувашской Республики в направлении Зеленодольска, Республики Татарстан пролёт БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-21T00:55:36+00:00",
-    "expires_at": "2026-08-21T01:55:36+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,23 +49,13 @@
     "count": null,
     "count_approx": false
   },
-  "в": {
-    "display_name": "Республики в",
-    "type": "drone",
-    "text": "От Чувашской Республики в направлении Зеленодольска, Республики Татарстан пролёт БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-21T00:55:36+00:00",
-    "expires_at": "2026-08-21T01:55:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "кировск": {
     "display_name": "Кировская область",
     "type": "drone",
-    "text": "Кировская область\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-21T01:52:14+00:00",
-    "expires_at": "2026-08-21T02:52:14+00:00",
+    "text": "Кировская область - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-21T01:55:01+00:00",
+    "expires_at": "2026-08-21T02:55:01+00:00",
     "count": null,
     "count_approx": false
   },
