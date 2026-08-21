@@ -1,82 +1,5 @@
 [
   {
-    "id": "radarrussiia_89178",
-    "channel": "radarrussiia",
-    "date": "2026-08-20T09:00:14+00:00",
-    "text": "Сочи и близлежащие \nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222310",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T09:04:44+00:00",
-    "text": "Запорожская область РФ \nХерсонская область РФ \nЛДНР \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_117452",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T09:05:02+00:00",
-    "text": "Запорожская область РФ \nХерсонская область РФ \nЛДНР\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_117453",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T09:05:07+00:00",
-    "text": "Филия, Богатырь, Угледар, Комар, Великая Новосёлка и близлежащие ДНР \n\nГуляйполе, Васильевка, Степногорск, Орехов и близлежащие Запорожская область РФ \n\nАвиационная ракетная бомбовая тревога",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222311",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T09:05:12+00:00",
-    "text": "Филия, Богатырь, Угледар, Комар, Великая Новосёлка и близлежащие ДНР \n\nГуляйполе, Васильевка, Степногорск, Орехов и близлежащие Запорожская область РФ \n\nАвиационная ракетная бомбовая тревога",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222312",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T09:08:40+00:00",
-    "text": "Троицкий район Лнр \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_117454",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T09:08:59+00:00",
-    "text": "Троицкий район ЛНР\nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_222313",
     "channel": "LPRalarm",
     "date": "2026-08-20T09:10:46+00:00",
@@ -21996,6 +21919,83 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_84329",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T06:06:08+00:00",
+    "text": "Ростовская область\nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_81635",
+    "channel": "locatorru",
+    "date": "2026-08-21T06:07:36+00:00",
+    "text": "Ростовская область - отбой ракетной опасности! \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_222849",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T06:12:12+00:00",
+    "text": "Ростовская область отбой ракетной опасности \n\nПриазовье Краснодарского края отбой внимания",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_117903",
+    "channel": "kupolrussia",
+    "date": "2026-08-21T06:12:18+00:00",
+    "text": "Ростовская область отбой ракетной опасности \n\nПриазовье Краснодарского края отбой внимания",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_222850",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T06:13:34+00:00",
+    "text": "Опасность по БПЛА \n\nДорожное направление объездная Мелитополя - КОНСТАНТИНОВКА - ПРИАЗОВСКОЕ\n\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_84330",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T06:14:28+00:00",
+    "text": "Республика Башкортостан\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89323",
+    "channel": "radarrussiia",
+    "date": "2026-08-21T06:15:22+00:00",
+    "text": "Ростовская область\nОтбой ракетной опасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
     "lat": null,
     "lon": null
   }
