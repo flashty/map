@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_117835",
-    "channel": "kupolrussia",
-    "date": "2026-08-21T00:03:34+00:00",
-    "text": "Белогорск\nБелогорский район и близлежащие \nТревога по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222758",
-    "channel": "LPRalarm",
-    "date": "2026-08-21T00:04:38+00:00",
-    "text": "Джанкой\nМеры безопасности \nРеспублика Крым",
-    "type": "alert",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_117836",
-    "channel": "kupolrussia",
-    "date": "2026-08-21T00:04:53+00:00",
-    "text": "Джанкой\nМеры безопасности \nРеспублика Крым",
-    "type": "alert",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_117837",
     "channel": "kupolrussia",
     "date": "2026-08-21T00:04:57+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Ульяновская область",
     "lat": 53.1683625,
     "lon": 47.863499
+  },
+  {
+    "id": "vrv_radar_84594",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T23:43:23+00:00",
+    "text": "Рязанская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223249",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T23:44:49+00:00",
+    "text": "Батальное\nПриморский и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223250",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T23:45:16+00:00",
+    "text": "Нижнегорский и близлежащие \nТревога по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
   }
 ]
