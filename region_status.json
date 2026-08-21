@@ -69,16 +69,6 @@
     "count": null,
     "count_approx": false
   },
-  "мордов": {
-    "display_name": "Республика Мордовия",
-    "type": "drone",
-    "text": "Республика Мордовия\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-21T20:19:02+00:00",
-    "expires_at": "2026-08-21T21:19:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
@@ -166,6 +156,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-21T21:08:46+00:00",
     "expires_at": "2026-08-21T22:08:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Мелитополь и близлежащие\nТревога по БПЛА сохраняется\nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-21T21:17:32+00:00",
+    "expires_at": "2026-08-21T22:17:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рязанская область\nВнимание по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-21T21:20:36+00:00",
+    "expires_at": "2026-08-21T22:20:36+00:00",
     "count": null,
     "count_approx": false
   }

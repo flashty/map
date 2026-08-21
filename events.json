@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_117781",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T22:09:19+00:00",
-    "text": "Октябрьское\nГвардейское \nКомсомольское\nУрожайное\nДонское\nЗуя\nСимферополь\nИ близлежащие\nТревога по БПЛА сохраняется\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_89271_Щёкинский",
-    "channel": "radarrussiia",
-    "date": "2026-08-20T22:09:57+00:00",
-    "text": "Щёкинский район\nКиреевский район\nВоловский район\nТульская область\nФиксация 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Щёкинский",
-    "region": "Тульская область",
-    "lat": 53.8906918,
-    "lon": 37.3865251
-  },
-  {
-    "id": "radarrussiia_89271_Киреевский",
-    "channel": "radarrussiia",
-    "date": "2026-08-20T22:09:57+00:00",
-    "text": "Щёкинский район\nКиреевский район\nВоловский район\nТульская область\nФиксация 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Киреевский",
-    "region": "Тульская область",
-    "lat": 54.0220762,
-    "lon": 37.8625474
-  },
-  {
-    "id": "radarrussiia_89271_Воловский",
-    "channel": "radarrussiia",
-    "date": "2026-08-20T22:09:57+00:00",
-    "text": "Щёкинский район\nКиреевский район\nВоловский район\nТульская область\nФиксация 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Воловский",
-    "region": "Тульская область",
-    "lat": 53.4941688,
-    "lon": 38.068028
-  },
-  {
-    "id": "vrv_radar_84207",
-    "channel": "vrv_radar",
-    "date": "2026-08-20T22:10:00+00:00",
-    "text": "Самарская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radar_plus_bpla_13853",
     "channel": "radar_plus_bpla",
     "date": "2026-08-20T22:10:32+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Волгоградская область",
     "lat": 50.0797109,
     "lon": 43.2342365
+  },
+  {
+    "id": "LPRalarm_223187",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T21:17:27+00:00",
+    "text": "Мелитополь и близлежащие\nТревога по БПЛА сохраняется\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_118210",
+    "channel": "kupolrussia",
+    "date": "2026-08-21T21:17:32+00:00",
+    "text": "Мелитополь и близлежащие\nТревога по БПЛА сохраняется\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223188_Севастополь",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T21:19:06+00:00",
+    "text": "Севастополь, отбой тревоги по БПЛА\nПереход в режим повышенного внимания",
+    "type": "all_clear",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "kupolrussia_118211_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-08-21T21:19:13+00:00",
+    "text": "Севастополь, отбой тревоги по БПЛА\nПереход в режим повышенного внимания",
+    "type": "all_clear",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "vrv_radar_84533",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T21:20:36+00:00",
+    "text": "Рязанская область\nВнимание по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
   }
 ]
