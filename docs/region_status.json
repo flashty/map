@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Вязьма, Смоленская область и далее на север\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_Д2А \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-21T13:00:20+00:00",
-    "expires_at": "2026-08-21T14:00:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
@@ -66,6 +56,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-21T13:47:27+00:00",
     "expires_at": "2026-08-21T14:47:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Сельцо и близлежащие опасность по БПЛА\n\nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-21T13:59:26+00:00",
+    "expires_at": "2026-08-21T14:59:26+00:00",
     "count": null,
     "count_approx": false
   }
