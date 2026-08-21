@@ -2,40 +2,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Тарханкут и близлежащие\nТревога по БПЛА\nРеспублика Крым",
+    "text": "Витино и близлежащие\nТревога по БПЛА\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-21T03:49:29+00:00",
-    "expires_at": "2026-08-21T04:49:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "пермск": {
-    "display_name": "Пермский край",
-    "type": "drone",
-    "text": "Пермский край\nРеспублика Дагестан\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-21T03:06:43+00:00",
-    "expires_at": "2026-08-21T04:06:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Щёкинский район\nТульская область\nФиксация от 2 БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-21T03:38:11+00:00",
-    "expires_at": "2026-08-21T04:38:11+00:00",
-    "count": 2,
-    "count_approx": false
-  },
-  "дагест": {
-    "display_name": "Республика Дагестан",
-    "type": "drone",
-    "text": "Пермский край\nРеспублика Дагестан\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-21T03:06:43+00:00",
-    "expires_at": "2026-08-21T04:06:43+00:00",
+    "updated_at": "2026-08-21T04:03:55+00:00",
+    "expires_at": "2026-08-21T05:03:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -79,24 +49,14 @@
     "count": null,
     "count_approx": false
   },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "ГО Солнечногорск\nМосковская область\nФиксауия БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-21T04:00:46+00:00",
-    "expires_at": "2026-08-21T05:00:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Бабынинский район\nМещовский район\nКозельский район\nКалужская область\nФиксация групп БПЛА",
+    "text": "Дзержинский район\nКалужская область\nФиксации от 2 БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-08-21T03:47:12+00:00",
-    "expires_at": "2026-08-21T04:47:12+00:00",
-    "count": null,
+    "updated_at": "2026-08-21T04:14:08+00:00",
+    "expires_at": "2026-08-21T05:14:08+00:00",
+    "count": 2,
     "count_approx": false
   },
   "смоленск": {
@@ -106,6 +66,36 @@
     "channel": "vrv_radar",
     "updated_at": "2026-08-21T03:48:24+00:00",
     "expires_at": "2026-08-21T04:48:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Серпухов\nМосковская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-21T04:04:16+00:00",
+    "expires_at": "2026-08-21T05:04:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Новомосковск\nТульская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-21T04:08:11+00:00",
+    "expires_at": "2026-08-21T05:08:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горское и близлежащие ДНР тревога по БПЛА Хорнет",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-21T04:09:24+00:00",
+    "expires_at": "2026-08-21T05:09:24+00:00",
     "count": null,
     "count_approx": false
   }
