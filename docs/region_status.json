@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "вологодск": {
-    "display_name": "Вологодская область",
-    "type": "drone",
-    "text": "Пермский край  Вологодская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-21T04:34:35+00:00",
-    "expires_at": "2026-08-21T05:34:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "свердловск": {
     "display_name": "Свердловской области",
     "type": "drone",
@@ -30,12 +20,12 @@
     "count_approx": false
   },
   "запорожск": {
-    "display_name": "Запорожская область",
+    "display_name": "Запорожской области",
     "type": "drone",
-    "text": "Опасность БпЛА Черниговский и Бердянский районы \nЗапорожская область РФ",
+    "text": "Веселое Запорожской области РФ и в направлении Мелитополь и близлежащие тревога по БПЛА Хорнет",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-21T04:41:03+00:00",
-    "expires_at": "2026-08-21T05:41:03+00:00",
+    "updated_at": "2026-08-21T05:34:16+00:00",
+    "expires_at": "2026-08-21T06:34:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +56,36 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-21T05:01:34+00:00",
     "expires_at": "2026-08-21T06:01:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "missile",
+    "text": "Ростовская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-21T05:39:06+00:00",
+    "expires_at": "2026-08-21T06:39:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "От Заозёрное в направлении Витино БПЛА\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-21T05:37:39+00:00",
+    "expires_at": "2026-08-21T06:37:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарско": {
+    "display_name": "Краснодарского края",
+    "type": "missile",
+    "text": "Приазовье Краснодарского края внимание по возможным ПКР Нептун и иным крылатым ракетам от ДНР через Азовское море",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-21T05:37:04+00:00",
+    "expires_at": "2026-08-21T06:37:04+00:00",
     "count": null,
     "count_approx": false
   }
