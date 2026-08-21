@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-21T08:59:28+00:00",
+        "last_updated": "2026-08-21T09:35:23+00:00",
+        "path_labels": [
+          "Ракитянский",
+          "Краснояружский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.9006134,
+            50.8380326
+          ],
+          [
+            35.5718561,
+            50.8175551
+          ]
+        ]
+      }
+    }
+  ]
 }
