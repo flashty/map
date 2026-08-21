@@ -9,26 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "ярославск": {
-    "display_name": "Ярославская область",
-    "type": "drone",
-    "text": "Ярославская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-21T03:31:52+00:00",
-    "expires_at": "2026-08-21T04:31:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Климово и близлежащие\nТревога по БПЛА сохраняется\nБрянская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-21T03:38:19+00:00",
-    "expires_at": "2026-08-21T04:38:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
@@ -62,10 +42,10 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Раменское\nМосковская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "ГО Воскресенск\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-21T04:25:52+00:00",
-    "expires_at": "2026-08-21T05:25:52+00:00",
+    "updated_at": "2026-08-21T04:39:37+00:00",
+    "expires_at": "2026-08-21T05:39:37+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +66,56 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-21T04:09:24+00:00",
     "expires_at": "2026-08-21T05:09:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пермск": {
+    "display_name": "Пермский край",
+    "type": "drone",
+    "text": "Протасы, Пермский район, Пермский край - пролёты БПЛА в сторону НПЗ. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-21T04:44:43+00:00",
+    "expires_at": "2026-08-21T05:44:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "вологодск": {
+    "display_name": "Вологодская область",
+    "type": "drone",
+    "text": "Пермский край  Вологодская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-21T04:34:35+00:00",
+    "expires_at": "2026-08-21T05:34:35+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "свердловск": {
+    "display_name": "Свердловской области",
+    "type": "drone",
+    "text": "Березники, Губаха, Пермь, Соликамск, Пермский край - опасность по БПЛА. \n\nВозможно пройдут мимо вас в сторону Свердловской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-21T04:40:26+00:00",
+    "expires_at": "2026-08-21T05:40:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Опасность БпЛА Черниговский и Бердянский районы \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-21T04:41:03+00:00",
+    "expires_at": "2026-08-21T05:41:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "drone",
+    "text": "Липецкая область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-21T04:44:13+00:00",
+    "expires_at": "2026-08-21T05:44:13+00:00",
     "count": null,
     "count_approx": false
   }
