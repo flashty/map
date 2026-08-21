@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-21T06:26:58+00:00",
+        "last_updated": "2026-08-21T06:26:58+00:00",
+        "path_labels": [
+          "Брянской области",
+          "Орловскую область"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.40561331430358,
+            52.91017768916833
+          ],
+          [
+            36.48367325764956,
+            52.792109083184116
+          ]
+        ]
+      }
+    }
+  ]
 }
