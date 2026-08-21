@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_117485_Шебекино",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T12:49:49+00:00",
-    "text": "Шебекино \nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Шебекино",
-    "region": "Белгородская область",
-    "lat": 50.4049335,
-    "lon": 36.8796822
-  },
-  {
-    "id": "LPRalarm_222350_Орловский",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T13:00:16+00:00",
-    "text": "Стрелецкий \nвнимание по БПЛА \n\nОрловский район \nОрловская область",
-    "type": "drone",
-    "location_name": "Орловский",
-    "region": "Орловская область",
-    "lat": 52.9856621,
-    "lon": 35.9383453
-  },
-  {
-    "id": "kupolrussia_117486_Орловский",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T13:00:31+00:00",
-    "text": "Стрелецкий \nвнимание по БПЛА \n\nОрловский район \nОрловская область",
-    "type": "drone",
-    "location_name": "Орловский",
-    "region": "Орловская область",
-    "lat": 52.9856621,
-    "lon": 35.9383453
-  },
-  {
-    "id": "locatorru_81481",
-    "channel": "locatorru",
-    "date": "2026-08-20T13:08:58+00:00",
-    "text": "Краснодарский край - отбой опасности по БПЛА в ранее объявленных районах. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222351_Борисовский",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T13:09:09+00:00",
-    "text": "Борисовский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Борисовский",
-    "region": null,
-    "lat": 57.6609585,
-    "lon": 34.1590521
-  },
-  {
-    "id": "kupolrussia_117487_Борисовский",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T13:09:28+00:00",
-    "text": "Борисовский район\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Борисовский",
-    "region": null,
-    "lat": 57.6609585,
-    "lon": 34.1590521
-  },
-  {
     "id": "LPRalarm_222352",
     "channel": "LPRalarm",
     "date": "2026-08-20T13:11:25+00:00",
@@ -21998,5 +21932,71 @@
     "region": null,
     "lat": 50.5326985,
     "lon": 129.2144509
+  },
+  {
+    "id": "LPRalarm_222873",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T07:46:35+00:00",
+    "text": "Новогродовка ДНР опасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_117922",
+    "channel": "kupolrussia",
+    "date": "2026-08-21T07:46:46+00:00",
+    "text": "Новогродовка ДНР\nопасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_222874",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T07:47:47+00:00",
+    "text": "Лисичанск и далее в направлении Горское тревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_117923",
+    "channel": "kupolrussia",
+    "date": "2026-08-21T07:47:59+00:00",
+    "text": "Лисичанск и далее в направлении Горское тревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_222875",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T07:50:06+00:00",
+    "text": "Опасность по БПЛА \n\nДорожное направление Осипенко - Бердянск- Приморск\n\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_117924",
+    "channel": "kupolrussia",
+    "date": "2026-08-21T07:50:17+00:00",
+    "text": "Дорожное направление Осипенко - Бердянск- Приморск\n\nЗапорожская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
   }
 ]
