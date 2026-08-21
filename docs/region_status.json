@@ -21,11 +21,61 @@
   },
   "крым": {
     "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Гурзуф и близлежащие \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "missile",
+    "text": "Север\nСеверо-Запад \nРеспублика Крым \nРакетная опасность",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-21T15:34:27+00:00",
-    "expires_at": "2026-08-21T16:34:27+00:00",
+    "updated_at": "2026-08-21T16:00:26+00:00",
+    "expires_at": "2026-08-21T17:00:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "missile",
+    "text": "Краснодарский край\nРеспублика Адыгея\nРостовская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-21T15:48:54+00:00",
+    "expires_at": "2026-08-21T16:48:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Бахмутская трасса ЛНР тревога по БПЛА Хорнет с запада на восток",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-21T15:53:44+00:00",
+    "expires_at": "2026-08-21T16:53:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "missile",
+    "text": "Краснодарский край\nРеспублика Адыгея\nРостовская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-21T15:48:54+00:00",
+    "expires_at": "2026-08-21T16:48:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "missile",
+    "text": "Ростовская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-21T15:49:40+00:00",
+    "expires_at": "2026-08-21T16:49:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "missile",
+    "text": "Юг Херсонская область РФ повторно ракетная тревога",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-21T16:00:44+00:00",
+    "expires_at": "2026-08-21T17:00:44+00:00",
     "count": null,
     "count_approx": false
   }
