@@ -1,41 +1,11 @@
 {
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "Московская область\nОпасность по БПЛА\nСохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-21T15:44:01+00:00",
-    "expires_at": "2026-08-21T16:44:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Дорога \nПриморск   - Приазовское трасса Р—280 опасность по БПЛА \nЗапорожская область РФ",
+    "type": "alert",
+    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-21T16:10:19+00:00",
-    "expires_at": "2026-08-21T17:10:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Анапа и близлежащие\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-21T16:27:04+00:00",
-    "expires_at": "2026-08-21T17:27:04+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "missile",
-    "text": "ЛНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-21T16:12:12+00:00",
-    "expires_at": "2026-08-21T17:12:12+00:00",
+    "updated_at": "2026-08-21T16:40:45+00:00",
+    "expires_at": "2026-08-21T17:40:45+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,16 +16,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-21T15:48:54+00:00",
     "expires_at": "2026-08-21T16:48:54+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "missile",
-    "text": "Миллерово и район, Ростовская область - ракетная опасность от ЛНР. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-21T16:13:47+00:00",
-    "expires_at": "2026-08-21T17:13:47+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +36,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-21T16:07:41+00:00",
     "expires_at": "2026-08-21T17:07:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Октябрьское Красногвардейский район\nс востока\nРеспублика Крым\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-21T16:39:39+00:00",
+    "expires_at": "2026-08-21T17:39:39+00:00",
     "count": null,
     "count_approx": false
   }
