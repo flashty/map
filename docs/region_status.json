@@ -49,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "-": {
-    "display_name": "Республика -",
-    "type": "drone",
-    "text": "Ижевск, Воткинск и близлежащие, Удмуртская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-21T02:25:07+00:00",
-    "expires_at": "2026-08-21T03:25:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "удмурт": {
     "display_name": "Республика Удмуртия",
     "type": "drone",
@@ -86,6 +76,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-21T03:06:43+00:00",
     "expires_at": "2026-08-21T04:06:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "вологодск": {
+    "display_name": "Вологодская область",
+    "type": "drone",
+    "text": "Вологодская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-21T03:28:18+00:00",
+    "expires_at": "2026-08-21T04:28:18+00:00",
     "count": null,
     "count_approx": false
   }
