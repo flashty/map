@@ -19,43 +19,23 @@
     "count": null,
     "count_approx": false
   },
-  "марий": {
-    "display_name": "Республика Марий",
-    "type": "drone",
-    "text": "Килемарский район\nРеспублика Марий Эл\nФиксация  БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-21T01:45:13+00:00",
-    "expires_at": "2026-08-21T02:45:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "оренбургск": {
-    "display_name": "Оренбургская область",
-    "type": "drone",
-    "text": "Бугурусланский район\nОренбургская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-21T01:44:56+00:00",
-    "expires_at": "2026-08-21T02:44:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "кировск": {
     "display_name": "Кировская область",
     "type": "drone",
-    "text": "Кировская область - опасность по БПЛА от Республики Марий Эл сохраняется. \n\nКиров, Кирово-Чепецк и близлежащие - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-21T02:22:24+00:00",
-    "expires_at": "2026-08-21T03:22:24+00:00",
+    "text": "Яранский район\nКировская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-21T02:44:13+00:00",
+    "expires_at": "2026-08-21T03:44:13+00:00",
     "count": null,
     "count_approx": false
   },
   "башкортост": {
     "display_name": "Республика Башкортостан",
     "type": "drone",
-    "text": "Стерлитамак, Уфа, Салават, Республика Башкортостан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-21T02:24:03+00:00",
-    "expires_at": "2026-08-21T03:24:03+00:00",
+    "text": "Благоварский район\nРеспублика Башкортостан\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-21T02:33:06+00:00",
+    "expires_at": "2026-08-21T03:33:06+00:00",
     "count": null,
     "count_approx": false
   },
@@ -82,10 +62,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Донецк и близлежащие\nТревога по БПЛА\nСохраняется\nДнр",
+    "text": "Докучаевск и далее на Восток, тревога по БПЛА\nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-21T02:19:46+00:00",
-    "expires_at": "2026-08-21T03:19:46+00:00",
+    "updated_at": "2026-08-21T02:40:58+00:00",
+    "expires_at": "2026-08-21T03:40:58+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +76,16 @@
     "channel": "locatorru",
     "updated_at": "2026-08-21T02:25:07+00:00",
     "expires_at": "2026-08-21T03:25:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "удмурт": {
+    "display_name": "Республика Удмуртия",
+    "type": "drone",
+    "text": "Сюмсинский район\nРеспублика Удмуртия\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-21T02:42:45+00:00",
+    "expires_at": "2026-08-21T03:42:45+00:00",
     "count": null,
     "count_approx": false
   }
