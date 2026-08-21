@@ -12,10 +12,10 @@
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
-    "text": "Балашовский район\nРомановский район\nСаратовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Саратов\nСаратовская область\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-21T21:37:01+00:00",
-    "expires_at": "2026-08-21T22:37:01+00:00",
+    "updated_at": "2026-08-21T22:30:39+00:00",
+    "expires_at": "2026-08-21T23:30:39+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,20 +72,10 @@
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Михайловский район\nРязанская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-21T21:56:35+00:00",
-    "expires_at": "2026-08-21T22:56:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Старобельск и близлежащие \nЕщё фиксации БПЛА \nЛНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-21T21:30:37+00:00",
-    "expires_at": "2026-08-21T22:30:37+00:00",
+    "updated_at": "2026-08-21T22:29:42+00:00",
+    "expires_at": "2026-08-21T23:29:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -121,11 +111,11 @@
   },
   "крым": {
     "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Уютное \nКатушка \nЕвпатория \nСаки и близлежащие \nРеспублика Крым \nТревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-21T22:15:34+00:00",
-    "expires_at": "2026-08-21T23:15:34+00:00",
+    "type": "alert",
+    "text": "Уютное\nКатушка \nМеры безопасности \nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-21T22:30:57+00:00",
+    "expires_at": "2026-08-21T23:30:57+00:00",
     "count": null,
     "count_approx": false
   },
