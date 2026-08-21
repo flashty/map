@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_84047",
-    "channel": "vrv_radar",
-    "date": "2026-08-20T12:27:29+00:00",
-    "text": "Республика Адыгея\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Адыгея",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_84048",
-    "channel": "vrv_radar",
-    "date": "2026-08-20T12:30:28+00:00",
-    "text": "Ростовская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222347",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T12:31:09+00:00",
-    "text": "Дорога \nАкимовка - Мелитополь\nЗапорожская область РФ\n\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_117483",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T12:31:19+00:00",
-    "text": "Дорога \nАкимовка - Мелитополь\nЗапорожская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_89183",
     "channel": "radarrussiia",
     "date": "2026-08-20T12:40:32+00:00",
@@ -21996,6 +21952,50 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Пермским краем",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_222867_Шебекинский",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T07:25:27+00:00",
+    "text": "Шебекинский район \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": null,
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "kupolrussia_117916_Шебекинский",
+    "channel": "kupolrussia",
+    "date": "2026-08-21T07:25:46+00:00",
+    "text": "Шебекинский район\nБелгородская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": "Белгородская область",
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "LPRalarm_222868",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T07:30:25+00:00",
+    "text": "Горловка, Пантелеймоновка, Енакиево ДНР и близлежащие \n\nОпасность по БПЛА и возможным ФПВ повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_117917",
+    "channel": "kupolrussia",
+    "date": "2026-08-21T07:30:36+00:00",
+    "text": "Горловка, Пантелеймоновка, Енакиево ДНР и близлежащие \n\nОпасность по БПЛА и возможным ФПВ повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
