@@ -39,16 +39,6 @@
     "count": 2,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка, Енакиево ДНР и близлежащие \nОпасность по БПЛА и ФПВ сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-21T13:07:04+00:00",
-    "expires_at": "2026-08-21T14:07:04+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "нижегородск": {
     "display_name": "Нижегородская область",
     "type": "drone",
@@ -66,6 +56,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-21T13:59:26+00:00",
     "expires_at": "2026-08-21T14:59:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "alert",
+    "text": "Запорожская область РФ \nЛДНР\nВНИМАНИЕ!!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-21T14:05:39+00:00",
+    "expires_at": "2026-08-21T15:05:39+00:00",
     "count": null,
     "count_approx": false
   }

@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_222510_Богучарский",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T17:56:56+00:00",
-    "text": "Кантемировский район \nБогучарский район \nВоронежская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Богучарский",
-    "region": "Воронежская область",
-    "lat": 50.4979916,
-    "lon": 39.6363652
-  },
-  {
-    "id": "LPRalarm_222511_Выгоничский",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T17:57:27+00:00",
-    "text": "Выгоничский район\nБрянская область\nВнимание по БПЛА противника",
-    "type": "drone",
-    "location_name": "Выгоничский",
-    "region": "Брянская область",
-    "lat": 53.0368833,
-    "lon": 33.970228
-  },
-  {
     "id": "LPRalarm_222512",
     "channel": "LPRalarm",
     "date": "2026-08-20T17:58:06+00:00",
@@ -21996,6 +21974,28 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223013",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T14:05:27+00:00",
+    "text": "Запорожская область РФ \nЛДНР \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_118048",
+    "channel": "kupolrussia",
+    "date": "2026-08-21T14:05:39+00:00",
+    "text": "Запорожская область РФ \nЛДНР\nВНИМАНИЕ!!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
