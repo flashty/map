@@ -12,10 +12,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Трубчевский район\nТревога по БПЛА и далее в тыл\nБрянская область",
+    "text": "Выгоничский район\nТревога по БПЛА\nИ далее в направлении Брянска\nБрянская область",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-21T01:11:07+00:00",
-    "expires_at": "2026-08-21T02:11:07+00:00",
+    "updated_at": "2026-08-21T01:30:08+00:00",
+    "expires_at": "2026-08-21T02:30:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,46 +76,6 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-08-21T01:09:52+00:00",
     "expires_at": "2026-08-21T02:09:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Донецк и близлежащие\nТревога по БПЛА\nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-21T00:19:32+00:00",
-    "expires_at": "2026-08-21T01:19:32+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Донецк, Каменск-Шахтинский, Гуково, Зверево, Новошахтинск, Шахты и близлежащие населённые пункты, Ростовская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-21T00:26:47+00:00",
-    "expires_at": "2026-08-21T01:26:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Скадовск\nТревога по БПЛА Баба-Яга\nХерсонская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-21T00:26:20+00:00",
-    "expires_at": "2026-08-21T01:26:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "drone",
-    "text": "Неверкинский район\nПензенская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-21T00:28:11+00:00",
-    "expires_at": "2026-08-21T01:28:11+00:00",
     "count": null,
     "count_approx": false
   },
@@ -202,10 +162,10 @@
   "удмурт": {
     "display_name": "Республика Удмуртия",
     "type": "drone",
-    "text": "Республика Удмуртия\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-21T01:10:41+00:00",
-    "expires_at": "2026-08-21T02:10:41+00:00",
+    "text": "Республика Удмуртия\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-21T01:16:58+00:00",
+    "expires_at": "2026-08-21T02:16:58+00:00",
     "count": null,
     "count_approx": false
   },
@@ -226,6 +186,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-21T01:07:51+00:00",
     "expires_at": "2026-08-21T02:07:51+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужскую область",
+    "type": "drone",
+    "text": "Ивот, Брянская область фиксация БПЛА на Калужскую область направление Людиново.",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-21T01:25:26+00:00",
+    "expires_at": "2026-08-21T02:25:26+00:00",
     "count": null,
     "count_approx": false
   }
