@@ -2,10 +2,10 @@
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Миллеровский район, Чертковский район, Тарасовский район, Верхнедонской район, Кашарский район, Шолоховский район, Боковский район, Милютинский район, Ростовская область - опасность по БПЛА от ЛНР и в направлении Волгоградской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-21T20:33:57+00:00",
-    "expires_at": "2026-08-21T21:33:57+00:00",
+    "text": "Каменск-Шахтинский\nИ близлежащие\nТревога по БПЛА\nРостовская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-21T21:23:52+00:00",
+    "expires_at": "2026-08-21T22:23:52+00:00",
     "count": null,
     "count_approx": false
   },
@@ -69,26 +69,6 @@
     "count": null,
     "count_approx": false
   },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Покровский район \nОрловская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-21T20:26:14+00:00",
-    "expires_at": "2026-08-21T21:26:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Спартак, Донецк, Ясиноватая ДНР и близлежащие \nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-21T20:28:15+00:00",
-    "expires_at": "2026-08-21T21:28:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -122,20 +102,10 @@
   "волгоградск": {
     "display_name": "Волгоградская область",
     "type": "drone",
-    "text": "Фроловский район\nМихайловка\nВолгоградская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Михайловка\nВолгоградская область\nПродолжаются фиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-21T21:12:44+00:00",
-    "expires_at": "2026-08-21T22:12:44+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "каргинск": {
-    "display_name": "Каргинская область",
-    "type": "drone",
-    "text": "Каргинская, Ростовская область - пролёт БПЛА на восток.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-21T20:27:38+00:00",
-    "expires_at": "2026-08-21T21:27:38+00:00",
+    "updated_at": "2026-08-21T21:24:14+00:00",
+    "expires_at": "2026-08-21T22:24:14+00:00",
     "count": null,
     "count_approx": false
   },
@@ -176,6 +146,26 @@
     "channel": "vrv_radar",
     "updated_at": "2026-08-21T21:20:36+00:00",
     "expires_at": "2026-08-21T22:20:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Старобельск и близлежащие \nЕщё фиксации БПЛА \nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-21T21:30:37+00:00",
+    "expires_at": "2026-08-21T22:30:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Тульская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-21T21:31:00+00:00",
+    "expires_at": "2026-08-21T22:31:00+00:00",
     "count": null,
     "count_approx": false
   }
