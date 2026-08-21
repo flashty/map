@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_117615_Карьерное",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T18:03:45+00:00",
-    "text": "Вересаево, Евпатория, Карьерное, Наумовка, Саки, Новофедоровка и близлежащие тревога по БПЛА с севера",
-    "type": "drone",
-    "location_name": "Карьерное",
-    "region": null,
-    "lat": 68.9300124,
-    "lon": 33.087803
-  },
-  {
-    "id": "kupolrussia_117615_Наумовка",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T18:03:45+00:00",
-    "text": "Вересаево, Евпатория, Карьерное, Наумовка, Саки, Новофедоровка и близлежащие тревога по БПЛА с севера",
-    "type": "drone",
-    "location_name": "Наумовка",
-    "region": null,
-    "lat": 54.878663,
-    "lon": 20.7036191
-  },
-  {
-    "id": "kupolrussia_117615_Саки",
-    "channel": "kupolrussia",
-    "date": "2026-08-20T18:03:45+00:00",
-    "text": "Вересаево, Евпатория, Карьерное, Наумовка, Саки, Новофедоровка и близлежащие тревога по БПЛА с севера",
-    "type": "drone",
-    "location_name": "Саки",
-    "region": null,
-    "lat": 55.472233,
-    "lon": 31.545233
-  },
-  {
-    "id": "LPRalarm_222518",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T18:03:59+00:00",
-    "text": "Новый Оскол и близлежащие\nТревога по БПЛА\nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_81505",
     "channel": "locatorru",
     "date": "2026-08-20T18:04:44+00:00",
@@ -21996,6 +21952,50 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_118052",
+    "channel": "kupolrussia",
+    "date": "2026-08-21T14:34:13+00:00",
+    "text": "Псковская область\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223017",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T14:34:16+00:00",
+    "text": "Псковская область\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_84397",
+    "channel": "vrv_radar",
+    "date": "2026-08-21T14:35:30+00:00",
+    "text": "Рязанская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89360",
+    "channel": "radarrussiia",
+    "date": "2026-08-21T14:39:42+00:00",
+    "text": "Рязанская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
     "lat": null,
     "lon": null
   }
