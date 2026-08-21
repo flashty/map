@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_222432_Кировский",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T15:48:06+00:00",
-    "text": "Советский с севера и далее на Кировский, Ленинский районы, Феодосия, Керченский полуостров \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Кировский",
-    "region": null,
-    "lat": 51.298489,
-    "lon": 36.685303
-  },
-  {
-    "id": "LPRalarm_222432_Феодосия",
-    "channel": "LPRalarm",
-    "date": "2026-08-20T15:48:06+00:00",
-    "text": "Советский с севера и далее на Кировский, Ленинский районы, Феодосия, Керченский полуостров \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Феодосия",
-    "region": null,
-    "lat": 51.7088258,
-    "lon": 36.1164524
-  },
-  {
     "id": "kupolrussia_117552_Ленинский",
     "channel": "kupolrussia",
     "date": "2026-08-20T15:48:10+00:00",
@@ -21996,6 +21974,28 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89326",
+    "channel": "radarrussiia",
+    "date": "2026-08-21T10:15:37+00:00",
+    "text": "Брянская область - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_222953",
+    "channel": "LPRalarm",
+    "date": "2026-08-21T10:15:54+00:00",
+    "text": "Север\nСеверо-Запад \nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
