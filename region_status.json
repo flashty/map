@@ -1,51 +1,101 @@
 {
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "ЛДНР, Запорожская область РФ повторно авиационная ракетная бомбовая опасность",
+    "type": "alert",
+    "text": "Херсонская область РФ, Запорожская область РФ, ЛДНР\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-21T11:37:45+00:00",
-    "expires_at": "2026-08-21T12:37:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Борисовский район опасность по БПЛА, в том числе реактивным и далее в тыл\n\nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-21T11:43:49+00:00",
-    "expires_at": "2026-08-21T12:43:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Сочи и близлежащие\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-21T11:56:40+00:00",
-    "expires_at": "2026-08-21T12:56:40+00:00",
+    "updated_at": "2026-08-21T12:44:08+00:00",
+    "expires_at": "2026-08-21T13:44:08+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Алексин\nТульская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-21T12:19:48+00:00",
-    "expires_at": "2026-08-21T13:19:48+00:00",
-    "count": null,
+    "text": "Суворовский район\nТульская область\nФиксация от 2 БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-21T12:45:19+00:00",
+    "expires_at": "2026-08-21T13:45:19+00:00",
+    "count": 2,
     "count_approx": false
   },
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Скопинский район\nРязанская область\nФиксация от 2 БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-21T12:42:00+00:00",
+    "expires_at": "2026-08-21T13:42:00+00:00",
+    "count": 2,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Московская область\nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-21T12:28:33+00:00",
-    "expires_at": "2026-08-21T13:28:33+00:00",
+    "updated_at": "2026-08-21T12:39:36+00:00",
+    "expires_at": "2026-08-21T13:39:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "drone",
+    "text": "Владимирская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-21T12:32:15+00:00",
+    "expires_at": "2026-08-21T13:32:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ивановск": {
+    "display_name": "Ивановская область",
+    "type": "drone",
+    "text": "Ивановская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-21T12:37:50+00:00",
+    "expires_at": "2026-08-21T13:37:50+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Смоленская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-21T12:45:35+00:00",
+    "expires_at": "2026-08-21T13:45:35+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Московская область \nСмоленская область \nТверская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-21T12:37:59+00:00",
+    "expires_at": "2026-08-21T13:37:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Перемышльский район\nКалужская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-21T12:44:59+00:00",
+    "expires_at": "2026-08-21T13:44:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "alert",
+    "text": "Херсонская область РФ, Запорожская область РФ, ЛДНР\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-21T12:44:08+00:00",
+    "expires_at": "2026-08-21T13:44:08+00:00",
     "count": null,
     "count_approx": false
   }
