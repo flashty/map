@@ -19,23 +19,13 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Новоросийск, Геленджик, Анапа, Темрюк, Крымск, Абинск, Краснодарский край - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-21T06:58:17+00:00",
-    "expires_at": "2026-08-21T07:58:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Брянская область, Курская область - опасность по БПЛА сохраняется.\n\nПо всем остальным регионам пока отбились.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-21T06:52:01+00:00",
-    "expires_at": "2026-08-21T07:52:01+00:00",
+    "text": "Брянская область \nОпасность по реактивным БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-21T07:52:18+00:00",
+    "expires_at": "2026-08-21T08:52:18+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,16 +36,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-21T07:46:46+00:00",
     "expires_at": "2026-08-21T08:46:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орлск": {
-    "display_name": "Орлская область",
-    "type": "drone",
-    "text": "Орлская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-21T06:56:56+00:00",
-    "expires_at": "2026-08-21T07:56:56+00:00",
     "count": null,
     "count_approx": false
   },
@@ -79,16 +59,6 @@
     "count": null,
     "count_approx": false
   },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-21T06:57:51+00:00",
-    "expires_at": "2026-08-21T07:57:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
@@ -96,6 +66,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-21T07:25:46+00:00",
     "expires_at": "2026-08-21T08:25:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Славяносербск\n Луганск и близлежащие опасность по БПЛА хорнет\nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-21T07:56:05+00:00",
+    "expires_at": "2026-08-21T08:56:05+00:00",
     "count": null,
     "count_approx": false
   }
