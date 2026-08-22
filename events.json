@@ -1,82 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_13881",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-21T08:04:37+00:00",
-    "text": "На данный момент воздушное пространство РФ — чистое.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_117931",
-    "channel": "kupolrussia",
-    "date": "2026-08-21T08:04:43+00:00",
-    "text": "Дорога\nОсипенко - Бердянск - Приморск\nОпасность по БПЛА Хорнет\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222883",
-    "channel": "LPRalarm",
-    "date": "2026-08-21T08:06:32+00:00",
-    "text": "Верхние Серогозы и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_117932",
-    "channel": "kupolrussia",
-    "date": "2026-08-21T08:06:48+00:00",
-    "text": "Верхние Серогозы и близлежащие \nХерсонская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222884",
-    "channel": "LPRalarm",
-    "date": "2026-08-21T08:09:30+00:00",
-    "text": "Дорога объездная \nМелитополя -Константиновка  - Приазовское\nОпасность по БПЛА Хорнет\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_117933",
-    "channel": "kupolrussia",
-    "date": "2026-08-21T08:10:02+00:00",
-    "text": "Дорога объездная \nМелитополя -Константиновка  - Приазовское\nОпасность по БПЛА Хорнет\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_81659",
-    "channel": "locatorru",
-    "date": "2026-08-21T08:10:14+00:00",
-    "text": "Отбой опасности по реактивным БПЛА в ранее объявленных регионах. Опасность по обычным сохраняется. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_222886",
     "channel": "LPRalarm",
     "date": "2026-08-21T08:13:21+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_81896",
+    "channel": "locatorru",
+    "date": "2026-08-22T05:10:01+00:00",
+    "text": "Корректировка. Романовка или Балашов.\n\n📡Локатор России - @locatorru",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_81897_Жердевский",
+    "channel": "locatorru",
+    "date": "2026-08-22T05:10:57+00:00",
+    "text": "Бурнак, Жердевский район, Тамбовская область - прошло от 2 БПЛА на северо-восток.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Жердевский",
+    "region": "Тамбовская область",
+    "lat": 51.8619928,
+    "lon": 41.5913479
+  },
+  {
+    "id": "locatorru_81897_Бурнак",
+    "channel": "locatorru",
+    "date": "2026-08-22T05:10:57+00:00",
+    "text": "Бурнак, Жердевский район, Тамбовская область - прошло от 2 БПЛА на северо-восток.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Бурнак",
+    "region": "Тамбовская область",
+    "lat": 51.867981,
+    "lon": 41.454651
+  },
+  {
+    "id": "locatorru_81898",
+    "channel": "locatorru",
+    "date": "2026-08-22T05:12:10+00:00",
+    "text": "🫡Помочь нашей команде можно через сервис Т-Банк(оплата по СБП) \nhttps://pay.cloudtips.ru/p/1526158a\n\nСпасибо большое за помощь и тёплые слова в адрес нашей команды. Всех видим и бесконечно благодарим для нас это многое значит.🙏❤️\n\n📲Оперативный канал в мессенджер «MAX» — https://max.ru/locatorru",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_84698_Котельничский",
+    "channel": "vrv_radar",
+    "date": "2026-08-22T05:12:10+00:00",
+    "text": "Котельничский район \nКировская область \nФиксация группы БПЛА",
+    "type": "drone",
+    "location_name": "Котельничский",
+    "region": "Кировская область",
+    "lat": 58.300871,
+    "lon": 48.0899252
+  },
+  {
+    "id": "radarrussiia_89543_Котельничский",
+    "channel": "radarrussiia",
+    "date": "2026-08-22T05:14:18+00:00",
+    "text": "Котельничский район \nКировская область \nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Котельничский",
+    "region": "Кировская область",
+    "lat": 58.300871,
+    "lon": 48.0899252
+  },
+  {
+    "id": "locatorru_81900",
+    "channel": "locatorru",
+    "date": "2026-08-22T05:15:08+00:00",
+    "text": "Костенец, Селивановский район, Владимирская область - пролёт 2 БПЛА на северо-восток на стык Ивановской и Нижегородской областей. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Владимирская область",
     "lat": null,
     "lon": null
   }
