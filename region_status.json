@@ -21,11 +21,11 @@
   },
   "оренбургск": {
     "display_name": "Оренбургская область",
-    "type": "drone",
-    "text": "Оренбургская область - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-22T17:38:19+00:00",
-    "expires_at": "2026-08-22T18:38:19+00:00",
+    "type": "alert",
+    "text": "Оренбургская область\nНа данный момент фиксаций не наблюдаем, опасность сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-22T17:44:03+00:00",
+    "expires_at": "2026-08-22T18:44:03+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +36,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-22T17:12:42+00:00",
     "expires_at": "2026-08-22T18:12:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "башкортост": {
+    "display_name": "Республики Башкортостан",
+    "type": "drone",
+    "text": "От 4 БПЛА через Сорочинский район Оренбургской области в направлении г. Салават, Республики Башкортостан.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-22T17:41:29+00:00",
+    "expires_at": "2026-08-22T18:41:29+00:00",
     "count": null,
     "count_approx": false
   }
