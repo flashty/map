@@ -1,21 +1,11 @@
 {
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "drone",
-    "text": "Лопатинский район\nПензенская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-22T08:12:00+00:00",
-    "expires_at": "2026-08-22T09:12:00+00:00",
-    "count": 2,
-    "count_approx": false
-  },
   "коми": {
     "display_name": "Республика Коми",
     "type": "drone",
-    "text": "Республика Коми - мы понимаем вашу тревожность по поводу БПЛА. \n\nЕсли жужжит - БПЛА. \nСтоит гул - свои в небе. \n\nМы надеемся что до вас они не долетят и их собьют. Берегите себя и своих близких! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-22T08:49:04+00:00",
-    "expires_at": "2026-08-22T09:49:04+00:00",
+    "text": "Республика Коми Ухта и близлежащие тревога по БПЛА сохраняется. Соблюдаем меры безопасности",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-22T09:02:50+00:00",
+    "expires_at": "2026-08-22T10:02:50+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,36 +16,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-22T08:43:38+00:00",
     "expires_at": "2026-08-22T09:43:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Первомайск \nИрмино\nЛНР \nОпасность по БПЛА Хорнет",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-22T08:11:04+00:00",
-    "expires_at": "2026-08-22T09:11:04+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Ершичский район\nСмоленская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-22T08:10:12+00:00",
-    "expires_at": "2026-08-22T09:10:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тверск": {
-    "display_name": "Тверская область",
-    "type": "drone",
-    "text": "Бельский район\nТверская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-22T08:11:17+00:00",
-    "expires_at": "2026-08-22T09:11:17+00:00",
     "count": null,
     "count_approx": false
   },
@@ -102,10 +62,10 @@
   "нижегородск": {
     "display_name": "Нижегородская область",
     "type": "drone",
-    "text": "Нижегородская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-22T08:52:26+00:00",
-    "expires_at": "2026-08-22T09:52:26+00:00",
+    "text": "Нижегородская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-22T09:11:42+00:00",
+    "expires_at": "2026-08-22T10:11:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +86,26 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-08-22T08:44:50+00:00",
     "expires_at": "2026-08-22T09:44:50+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Ракитянский \nКраснояружский районы \nМассовый пролет ударных БПЛА в тыл\nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-22T09:09:40+00:00",
+    "expires_at": "2026-08-22T10:09:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "архангельск": {
+    "display_name": "Архангельская область",
+    "type": "drone",
+    "text": "Каргополь, Плесецк, Березники, Архангельская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-22T09:09:17+00:00",
+    "expires_at": "2026-08-22T10:09:17+00:00",
     "count": null,
     "count_approx": false
   }
