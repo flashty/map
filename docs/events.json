@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_84423",
-    "channel": "vrv_radar",
-    "date": "2026-08-21T18:08:07+00:00",
-    "text": "Тамбовская область\nОпасность по БПЛА повторно",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_81710",
-    "channel": "locatorru",
-    "date": "2026-08-21T18:08:08+00:00",
-    "text": "Лесное Уколово, ​Красненский район, Белгородская область - пролёты БПЛА в сторону примерно Лиски, Воронежской области.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_89379_Бобровский",
     "channel": "radarrussiia",
     "date": "2026-08-21T18:08:19+00:00",
@@ -21998,5 +21976,27 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_223488",
+    "channel": "LPRalarm",
+    "date": "2026-08-22T14:28:07+00:00",
+    "text": "Курск \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_118454_Курск",
+    "channel": "kupolrussia",
+    "date": "2026-08-22T14:28:24+00:00",
+    "text": "Курск\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Курск",
+    "region": null,
+    "lat": 51.7309249,
+    "lon": 36.1923123
   }
 ]
