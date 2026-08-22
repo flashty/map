@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_84279",
-    "channel": "vrv_radar",
-    "date": "2026-08-21T03:41:44+00:00",
-    "text": "Республика Адыгея \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Адыгея",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_84280_Можайск",
-    "channel": "vrv_radar",
-    "date": "2026-08-21T03:41:53+00:00",
-    "text": "ГО Можайск\nМосковская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Можайск",
-    "region": "Московская область",
-    "lat": 55.506478,
-    "lon": 36.0213092
-  },
-  {
-    "id": "vrv_radar_84281_Фоминск",
-    "channel": "vrv_radar",
-    "date": "2026-08-21T03:42:29+00:00",
-    "text": "ГО Наро-Фоминск\nМосковская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Фоминск",
-    "region": "Московская область",
-    "lat": 55.3842784,
-    "lon": 36.723507
-  },
-  {
     "id": "vrv_radar_84282_Боровский",
     "channel": "vrv_radar",
     "date": "2026-08-21T03:43:27+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Республика -",
     "lat": 55.8234944,
     "lon": 46.8306383
+  },
+  {
+    "id": "vrv_radar_84638",
+    "channel": "vrv_radar",
+    "date": "2026-08-22T02:40:52+00:00",
+    "text": "Республика Марий Эл \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Марий",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89508",
+    "channel": "radarrussiia",
+    "date": "2026-08-22T02:41:09+00:00",
+    "text": "Республика Марий Эл \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Марий",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_81828",
+    "channel": "locatorru",
+    "date": "2026-08-22T02:43:09+00:00",
+    "text": "Канаш, Чувашская Республика - прошёл БПЛА в сторону Республики Татарстан. \n\nКазань, Зеленодольск - внимательно. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика -",
+    "lat": null,
+    "lon": null
   }
 ]
