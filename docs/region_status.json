@@ -1,24 +1,4 @@
 {
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Ершичский район\nСмоленская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-22T11:19:21+00:00",
-    "expires_at": "2026-08-22T12:19:21+00:00",
-    "count": 2,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Чернский район\nПлавский район\nТульская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-22T12:11:25+00:00",
-    "expires_at": "2026-08-22T13:11:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
@@ -32,30 +12,20 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Приморск и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
+    "text": "Мелитополь и близлежащие \nЗапорожская область РФ\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-22T12:03:46+00:00",
-    "expires_at": "2026-08-22T13:03:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянская область \nМеры безопасности \nЕщё фиксации БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-22T11:30:16+00:00",
-    "expires_at": "2026-08-22T12:30:16+00:00",
+    "updated_at": "2026-08-22T12:22:52+00:00",
+    "expires_at": "2026-08-22T13:22:52+00:00",
     "count": null,
     "count_approx": false
   },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Залегощенский район\nОрловская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-22T12:14:15+00:00",
-    "expires_at": "2026-08-22T13:14:15+00:00",
+    "text": "Залегощенский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-22T12:17:06+00:00",
+    "expires_at": "2026-08-22T13:17:06+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +46,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-22T12:09:35+00:00",
     "expires_at": "2026-08-22T13:09:35+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Симферополь \nГвардейская \nГРЭС и близлежащие \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-22T12:29:10+00:00",
+    "expires_at": "2026-08-22T13:29:10+00:00",
     "count": null,
     "count_approx": false
   }
