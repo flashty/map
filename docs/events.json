@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_117859",
-    "channel": "kupolrussia",
-    "date": "2026-08-21T01:52:08+00:00",
-    "text": "Кировская область\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Кировская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222800",
-    "channel": "LPRalarm",
-    "date": "2026-08-21T01:52:14+00:00",
-    "text": "Кировская область\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Кировская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222801",
-    "channel": "LPRalarm",
-    "date": "2026-08-21T01:53:25+00:00",
-    "text": "Отрадное \nБрянская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222802",
-    "channel": "LPRalarm",
-    "date": "2026-08-21T01:53:36+00:00",
-    "text": "Севастополь \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_117860",
-    "channel": "kupolrussia",
-    "date": "2026-08-21T01:53:41+00:00",
-    "text": "Севастополь \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radar_plus_bpla_13872",
     "channel": "radar_plus_bpla",
     "date": "2026-08-21T01:55:01+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_84626_Безенчукский",
+    "channel": "vrv_radar",
+    "date": "2026-08-22T01:42:53+00:00",
+    "text": "Безенчукский район \nСамарская область \nЕще фиксация БПЛА",
+    "type": "drone",
+    "location_name": "Безенчукский",
+    "region": "Самарская область",
+    "lat": 52.9893625,
+    "lon": 49.2578128
+  },
+  {
+    "id": "locatorru_81805",
+    "channel": "locatorru",
+    "date": "2026-08-22T01:43:23+00:00",
+    "text": "Николо-Барнуки, Сосновоборский район, Пензенская область - пролёт от 4 БПЛА в сторону Ульяновской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_81806",
+    "channel": "locatorru",
+    "date": "2026-08-22T01:44:34+00:00",
+    "text": "Инза, Ульяновская область - пролёт БПЛА в сторону Саранск, Республика Мордовия. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89496_Безенчукский",
+    "channel": "radarrussiia",
+    "date": "2026-08-22T01:45:12+00:00",
+    "text": "Безенчукский район \nСамарская область \nЕще фиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Безенчукский",
+    "region": "Самарская область",
+    "lat": 52.9893625,
+    "lon": 49.2578128
+  },
+  {
+    "id": "vrv_radar_84627",
+    "channel": "vrv_radar",
+    "date": "2026-08-22T01:45:22+00:00",
+    "text": "Краснодарский край \nРеспублика Адыгея \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
