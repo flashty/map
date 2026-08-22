@@ -150,6 +150,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-08-22T22:49:58+00:00",
+        "last_updated": "2026-08-22T23:19:13+00:00",
+        "path_labels": [
+          "Верхнемамонский (Воронежская область)",
+          "Россошанский (Воронежская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.4459068,
+            50.2295643
+          ],
+          [
+            39.6627682,
+            50.1186442
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-08-22T22:51:30+00:00",
         "last_updated": "2026-08-22T23:06:57+00:00",
         "path_labels": [
