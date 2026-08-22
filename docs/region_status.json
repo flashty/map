@@ -32,10 +32,10 @@
   "тамбовск": {
     "display_name": "Тамбовская область",
     "type": "drone",
-    "text": "Мордовский район\nТамбовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-22T22:12:37+00:00",
-    "expires_at": "2026-08-22T23:12:37+00:00",
+    "text": "Устье, Моршанский район, Тамбовская область - ещё пролёт БПЛА в направлении Рязанской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-22T22:42:32+00:00",
+    "expires_at": "2026-08-22T23:42:32+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,21 +52,21 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Евпатория и близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-22T22:37:04+00:00",
-    "expires_at": "2026-08-22T23:37:04+00:00",
+    "text": "Раздольное и близлежащие\nТревога по БПЛА с моря\nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-22T22:41:32+00:00",
+    "expires_at": "2026-08-22T23:41:32+00:00",
     "count": null,
     "count_approx": false
   },
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
-    "text": "Саратовская область\nВНИМАНИЕ!!\n\\ (> ОБЪЯВЛЕН\nг © \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-22T22:03:35+00:00",
-    "expires_at": "2026-08-22T23:03:35+00:00",
-    "count": null,
+    "text": "Краснокутский район \nСаратовская область \nФиксация 2 БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-22T22:44:14+00:00",
+    "expires_at": "2026-08-22T23:44:14+00:00",
+    "count": 2,
     "count_approx": false
   },
   "курск": {
@@ -109,23 +109,13 @@
     "count": null,
     "count_approx": false
   },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Каменский район\nТульская область\nФиксация 2 БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-22T22:38:16+00:00",
-    "expires_at": "2026-08-22T23:38:16+00:00",
-    "count": 2,
-    "count_approx": false
-  },
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-22T22:29:33+00:00",
-    "expires_at": "2026-08-22T23:29:33+00:00",
+    "text": "Шацк, Сасово, Шилово, Касимов, Рязанская область - опасность по БПЛА от Устье. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-22T22:45:26+00:00",
+    "expires_at": "2026-08-22T23:45:26+00:00",
     "count": null,
     "count_approx": false
   },
@@ -166,6 +156,46 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-22T22:23:48+00:00",
     "expires_at": "2026-08-22T23:23:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Московская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-22T22:39:01+00:00",
+    "expires_at": "2026-08-22T23:39:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Алексин, Тульская область - внимательно по БПЛА с юга, юго-востока. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-22T22:43:06+00:00",
+    "expires_at": "2026-08-22T23:43:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "мордов": {
+    "display_name": "Республика Мордовия",
+    "type": "drone",
+    "text": "Республика Мордовия, Нижегородская область - опасность по БПЛА от Рязанской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-22T22:45:45+00:00",
+    "expires_at": "2026-08-22T23:45:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородская область",
+    "type": "drone",
+    "text": "Республика Мордовия, Нижегородская область - опасность по БПЛА от Рязанской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-22T22:45:45+00:00",
+    "expires_at": "2026-08-22T23:45:45+00:00",
     "count": null,
     "count_approx": false
   }
