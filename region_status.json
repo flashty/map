@@ -81,21 +81,21 @@
   },
   "самарск": {
     "display_name": "Самарская область",
-    "type": "alert",
-    "text": "Новокуйбышевск \nСамарская область \nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-22T07:45:09+00:00",
-    "expires_at": "2026-08-22T08:45:09+00:00",
+    "type": "drone",
+    "text": "Сызрань\nСамарская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-22T07:51:50+00:00",
+    "expires_at": "2026-08-22T08:51:50+00:00",
     "count": null,
     "count_approx": false
   },
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ",
+    "type": "missile",
+    "text": "Курахово ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-22T07:27:11+00:00",
-    "expires_at": "2026-08-22T08:27:11+00:00",
+    "updated_at": "2026-08-22T07:48:25+00:00",
+    "expires_at": "2026-08-22T08:48:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -129,16 +129,6 @@
     "count": null,
     "count_approx": false
   },
-  "кировск": {
-    "display_name": "Кировская область",
-    "type": "drone",
-    "text": "Кировская область\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-22T07:16:52+00:00",
-    "expires_at": "2026-08-22T08:16:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "вологодск": {
     "display_name": "Вологодская область",
     "type": "drone",
@@ -162,10 +152,10 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Орехово опасность по БПЛА Хорнет\nЛНР",
+    "text": "Камышеваха \nГорское\n Золотое и близлежащие \nЛНР \nОпасность по БПЛА Хорнет",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-22T07:19:39+00:00",
-    "expires_at": "2026-08-22T08:19:39+00:00",
+    "updated_at": "2026-08-22T07:51:04+00:00",
+    "expires_at": "2026-08-22T08:51:04+00:00",
     "count": null,
     "count_approx": false
   },
