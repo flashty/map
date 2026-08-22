@@ -12,10 +12,10 @@
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Захаровский район\nРязанская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-22T06:14:16+00:00",
-    "expires_at": "2026-08-22T07:14:16+00:00",
+    "text": "Сасовский район\nРязанская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-22T06:52:00+00:00",
+    "expires_at": "2026-08-22T07:52:00+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,20 +72,10 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Павлово-Посадский\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-22T06:27:37+00:00",
-    "expires_at": "2026-08-22T07:27:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "никольск": {
-    "display_name": "Никольское область",
-    "type": "drone",
-    "text": "Никольское\nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-22T05:52:57+00:00",
-    "expires_at": "2026-08-22T06:52:57+00:00",
+    "text": "ГО Коломна\nМосковская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-22T06:50:26+00:00",
+    "expires_at": "2026-08-22T07:50:26+00:00",
     "count": null,
     "count_approx": false
   },
@@ -124,18 +114,8 @@
     "type": "drone",
     "text": "Южский район\nИвановская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-22T06:20:50+00:00",
-    "expires_at": "2026-08-22T07:20:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "missile",
-    "text": "Борисовский район, Краснояружский район, Ракитянский район, Грайворонский район, Белгородская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-22T06:34:59+00:00",
-    "expires_at": "2026-08-22T07:34:59+00:00",
+    "updated_at": "2026-08-22T06:52:37+00:00",
+    "expires_at": "2026-08-22T07:52:37+00:00",
     "count": null,
     "count_approx": false
   },
@@ -192,10 +172,40 @@
   "самарск": {
     "display_name": "Самарская область",
     "type": "drone",
-    "text": "Самарская область повторно опасность по БПЛА",
+    "text": "Тольятти, Чапаевск, Нефтегорск, Сызрань, Самара, Новокуйбышевск, Самарская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-22T06:47:25+00:00",
+    "expires_at": "2026-08-22T07:47:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "missile",
+    "text": "Курахово \nРакетная опасность \nДНР",
     "channel": "LPRalarm",
-    "updated_at": "2026-08-22T06:44:39+00:00",
-    "expires_at": "2026-08-22T07:44:39+00:00",
+    "updated_at": "2026-08-22T06:46:06+00:00",
+    "expires_at": "2026-08-22T07:46:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "drone",
+    "text": "Юрьев-Польский район \nВладимирская область \nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-22T06:51:15+00:00",
+    "expires_at": "2026-08-22T07:51:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "марий": {
+    "display_name": "Республика Марий",
+    "type": "drone",
+    "text": "Килемарский район\nРеспублика Марий Эл\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-22T06:52:51+00:00",
+    "expires_at": "2026-08-22T07:52:51+00:00",
     "count": null,
     "count_approx": false
   }
