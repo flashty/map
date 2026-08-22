@@ -1,16 +1,5 @@
 [
   {
-    "id": "vrv_radar_84386_Кировский",
-    "channel": "vrv_radar",
-    "date": "2026-08-21T13:27:39+00:00",
-    "text": "Кировский район\nКалужская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Кировский",
-    "region": "Калужская область",
-    "lat": 54.1083236,
-    "lon": 34.4357113
-  },
-  {
     "id": "radarrussiia_89354_Чехов",
     "channel": "radarrussiia",
     "date": "2026-08-21T13:27:40+00:00",
@@ -21996,6 +21985,17 @@
     "type": "all_clear",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_84782",
+    "channel": "vrv_radar",
+    "date": "2026-08-22T08:48:57+00:00",
+    "text": "Республика Мордовия\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Мордовия",
     "lat": null,
     "lon": null
   }
