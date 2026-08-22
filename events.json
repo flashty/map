@@ -1,60 +1,5 @@
 [
   {
-    "id": "locatorru_81646",
-    "channel": "locatorru",
-    "date": "2026-08-21T06:45:13+00:00",
-    "text": "Тверская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тверская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_84340",
-    "channel": "vrv_radar",
-    "date": "2026-08-21T06:47:15+00:00",
-    "text": "Орловская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_81647",
-    "channel": "locatorru",
-    "date": "2026-08-21T06:47:28+00:00",
-    "text": "Калужская область, Орловская область, Тульская область, Московская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_84341",
-    "channel": "vrv_radar",
-    "date": "2026-08-21T06:48:05+00:00",
-    "text": "Смоленская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_222863",
-    "channel": "LPRalarm",
-    "date": "2026-08-21T06:52:00+00:00",
-    "text": "Опасность по БПЛА \n\nДорожное направление Осипенко - Бердянск- Приморск\n\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_81648",
     "channel": "locatorru",
     "date": "2026-08-21T06:52:01+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Тульская область",
     "lat": 54.1930321,
     "lon": 37.61754
+  },
+  {
+    "id": "vrv_radar_84689_Тула",
+    "channel": "vrv_radar",
+    "date": "2026-08-22T04:43:59+00:00",
+    "text": "Тула\nТульская область \nСбитие БПЛА",
+    "type": "all_clear",
+    "location_name": "Тула",
+    "region": "Тульская область",
+    "lat": 54.1930321,
+    "lon": 37.61754
+  },
+  {
+    "id": "locatorru_81887_Тула",
+    "channel": "locatorru",
+    "date": "2026-08-22T04:44:01+00:00",
+    "text": "Тула, опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Тула",
+    "region": null,
+    "lat": 54.1930321,
+    "lon": 37.61754
+  },
+  {
+    "id": "LPRalarm_223305",
+    "channel": "LPRalarm",
+    "date": "2026-08-22T04:44:55+00:00",
+    "text": "г. Белгород опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_84690_Грибановский",
+    "channel": "vrv_radar",
+    "date": "2026-08-22T04:45:23+00:00",
+    "text": "Грибановский район \nВоронежская область \nФиксация от 2 БПЛА",
+    "type": "drone",
+    "location_name": "Грибановский",
+    "region": "Воронежская область",
+    "lat": 51.4583417,
+    "lon": 41.9757476
+  },
+  {
+    "id": "LPRalarm_223306_Таганрог",
+    "channel": "LPRalarm",
+    "date": "2026-08-22T04:45:41+00:00",
+    "text": "Таганрог, Таганрогский залив и далее южные районы Ростовская область опасность по БПЛА с Азовского моря",
+    "type": "drone",
+    "location_name": "Таганрог",
+    "region": "Ростовская область",
+    "lat": 47.215495,
+    "lon": 38.928362
   }
 ]
