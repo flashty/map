@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_223185",
-    "channel": "LPRalarm",
-    "date": "2026-08-21T20:58:21+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nОтбой авиационной ракетно бомбовой опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_81777",
-    "channel": "locatorru",
-    "date": "2026-08-21T20:59:52+00:00",
-    "text": "Елец и близлежащие, Липецкая область - фиксации БПЛА на север. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_84524",
     "channel": "vrv_radar",
     "date": "2026-08-21T21:01:07+00:00",
@@ -21998,5 +21976,27 @@
     "region": null,
     "lat": 50.4861556,
     "lon": 37.8411269
+  },
+  {
+    "id": "locatorru_82014",
+    "channel": "locatorru",
+    "date": "2026-08-22T20:00:57+00:00",
+    "text": "г.Белгород - опасность по ударным БПЛА.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_82015",
+    "channel": "locatorru",
+    "date": "2026-08-22T20:01:03+00:00",
+    "text": "г.Воронеж - опасность по ударным БПЛА.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
