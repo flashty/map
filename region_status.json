@@ -19,43 +19,23 @@
     "count": null,
     "count_approx": false
   },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Нововоронеж\nВоронежская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-22T20:09:29+00:00",
-    "expires_at": "2026-08-22T21:09:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Черноморское и близлежащие \nЕщё фиксации БПЛА с моря \nМеры безопасности \nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-22T19:26:02+00:00",
-    "expires_at": "2026-08-22T20:26:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "волгоградск": {
     "display_name": "Волгоградская область",
     "type": "drone",
-    "text": "Волгоград\nВолгоградская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-22T19:55:11+00:00",
-    "expires_at": "2026-08-22T20:55:11+00:00",
-    "count": null,
+    "text": "Алексеевский район\nВолгоградская область\nФиксация от 3 БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-22T20:19:51+00:00",
+    "expires_at": "2026-08-22T21:19:51+00:00",
+    "count": 3,
     "count_approx": false
   },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
-    "text": "Ровеньский район, Алексеевский район, Чернянский район, Белгородская область - массовый пролёт ударных БПЛА в сторону Старооскольского района и в сторону Острогожского и Лискинского районов, Воронежской области.\n\n📡Локатор России - @locatorru",
+    "text": "Белгородская область - практический во всех районах фиксируются БПЛА.\n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-08-22T20:05:08+00:00",
-    "expires_at": "2026-08-22T21:05:08+00:00",
+    "updated_at": "2026-08-22T20:28:42+00:00",
+    "expires_at": "2026-08-22T21:28:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -79,16 +59,6 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Ахтырский, Холмская, Крымск, Абинск, Краснодарский край - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-22T20:07:38+00:00",
-    "expires_at": "2026-08-22T21:07:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
@@ -99,13 +69,43 @@
     "count": null,
     "count_approx": false
   },
-  "орловск": {
-    "display_name": "Орловская область",
+  "брянск": {
+    "display_name": "Брянская область",
     "type": "drone",
-    "text": "Урицкий район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-22T20:08:11+00:00",
-    "expires_at": "2026-08-22T21:08:11+00:00",
+    "text": "Брянская область, Смоленская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-22T20:16:56+00:00",
+    "expires_at": "2026-08-22T21:16:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Брянская область, Смоленская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-22T20:16:56+00:00",
+    "expires_at": "2026-08-22T21:16:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Херсонская область РФ \nЗапорожская область РФ \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-22T20:22:21+00:00",
+    "expires_at": "2026-08-22T21:22:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Херсонская область РФ \nЗапорожская область РФ \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-22T20:22:21+00:00",
+    "expires_at": "2026-08-22T21:22:21+00:00",
     "count": null,
     "count_approx": false
   }
