@@ -1,11 +1,11 @@
 {
   "московск": {
     "display_name": "Московская область",
-    "type": "drone",
-    "text": "Московская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "alert",
+    "text": "ГО Серпухов\nМосковская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-22T12:08:43+00:00",
-    "expires_at": "2026-08-22T13:08:43+00:00",
+    "updated_at": "2026-08-22T13:15:39+00:00",
+    "expires_at": "2026-08-22T14:15:39+00:00",
     "count": null,
     "count_approx": false
   },
@@ -29,33 +29,13 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Великая Лепетиха и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-22T12:09:36+00:00",
-    "expires_at": "2026-08-22T13:09:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Дзержинский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-22T12:09:35+00:00",
-    "expires_at": "2026-08-22T13:09:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Кочергино и близлежащие \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Саки\nНовофедоровка \nРеспублика Крым\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-22T13:00:10+00:00",
-    "expires_at": "2026-08-22T14:00:10+00:00",
+    "updated_at": "2026-08-22T13:09:35+00:00",
+    "expires_at": "2026-08-22T14:09:35+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +46,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-22T13:02:01+00:00",
     "expires_at": "2026-08-22T14:02:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Алчевск и близлежащие \nЛНР \nОпасность по БПЛА Хорнет",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-22T13:14:47+00:00",
+    "expires_at": "2026-08-22T14:14:47+00:00",
     "count": null,
     "count_approx": false
   }
