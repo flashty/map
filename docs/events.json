@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_118072_Весь",
-    "channel": "kupolrussia",
-    "date": "2026-08-21T16:02:03+00:00",
-    "text": "Весь Краснодарский край \nРакетная опасность",
-    "type": "missile",
-    "location_name": "Весь",
-    "region": "Краснодарский край",
-    "lat": 46.0452574,
-    "lon": 38.16708
-  },
-  {
-    "id": "LPRalarm_223040_Желобок",
-    "channel": "LPRalarm",
-    "date": "2026-08-21T16:02:15+00:00",
-    "text": "БПЛА Хорнет в направлении Луганска пролетел Желобок",
-    "type": "drone",
-    "location_name": "Желобок",
-    "region": null,
-    "lat": 50.510448,
-    "lon": 37.423615
-  },
-  {
-    "id": "kupolrussia_118073_Желобок",
-    "channel": "kupolrussia",
-    "date": "2026-08-21T16:02:20+00:00",
-    "text": "БПЛА Хорнет в направлении Луганска пролетел Желобок",
-    "type": "drone",
-    "location_name": "Желобок",
-    "region": null,
-    "lat": 50.510448,
-    "lon": 37.423615
-  },
-  {
-    "id": "kupolrussia_118074",
-    "channel": "kupolrussia",
-    "date": "2026-08-21T16:02:38+00:00",
-    "text": "Волгоградская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_81683",
-    "channel": "locatorru",
-    "date": "2026-08-21T16:02:54+00:00",
-    "text": "Краснодарский край - ракетная опасность со стороны Азовского моря. \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_223041",
     "channel": "LPRalarm",
     "date": "2026-08-21T16:03:00+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Калужская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_84794",
+    "channel": "vrv_radar",
+    "date": "2026-08-22T10:34:21+00:00",
+    "text": "Благодарим тех кто участвует в сборе❤️\n\nСобрано:  79.073 из 190.000₽\n+25.000 на материалы для строительства блиндажей МОГ республики Адыгея \n\nСсылки для перевода: \nhttps://pay.cloudtips.ru/p/0376bf3f\n\nhttps://yoomoney.ru/fundraise/1H7FOEKHABB.260418",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223406",
+    "channel": "LPRalarm",
+    "date": "2026-08-22T10:39:40+00:00",
+    "text": "От Карачева на северо-восток\nБрянская область\nТревога по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_118376",
+    "channel": "kupolrussia",
+    "date": "2026-08-22T10:39:51+00:00",
+    "text": "От Карачева на северо-восток\nБрянская область\nТревога по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223407_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-08-22T10:44:57+00:00",
+    "text": "Белгородский район повторно опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_118377_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-08-22T10:45:19+00:00",
+    "text": "Белгородский район повторно\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
   }
 ]
