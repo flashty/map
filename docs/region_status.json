@@ -1,32 +1,12 @@
 {
-  "воронежск": {
-    "display_name": "Воронежской области",
-    "type": "drone",
-    "text": "Продолжается массовый пролёт БПЛА а сторону Белгородской области, Воронежской области, Ростовской области на северо-восток. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-22T00:23:39+00:00",
-    "expires_at": "2026-08-22T01:23:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Ленино и ближайшие, Республика Крым\nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-22T00:26:40+00:00",
-    "expires_at": "2026-08-22T01:26:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Неверкинский район\nПензенская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-22T01:10:21+00:00",
-    "expires_at": "2026-08-22T02:10:21+00:00",
-    "count": null,
+    "text": "Кузнецкий район \nПензенская область \nФиксация от 4 БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-22T01:28:27+00:00",
+    "expires_at": "2026-08-22T02:28:27+00:00",
+    "count": 4,
     "count_approx": false
   },
   "саратовск": {
@@ -72,10 +52,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Брянская область, тревога по реактивным БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-22T00:32:03+00:00",
-    "expires_at": "2026-08-22T01:32:03+00:00",
+    "text": "Рохманово, Унечский район, Брянская область - группа БПЛА на север. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-22T01:23:19+00:00",
+    "expires_at": "2026-08-22T02:23:19+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,26 +66,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-22T01:11:05+00:00",
     "expires_at": "2026-08-22T02:11:05+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовской области",
-    "type": "drone",
-    "text": "Продолжается массовый пролёт БПЛА а сторону Белгородской области, Воронежской области, Ростовской области на северо-восток. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-22T00:23:39+00:00",
-    "expires_at": "2026-08-22T01:23:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Тульская область, Ульяновская область, Самарская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-22T00:25:22+00:00",
-    "expires_at": "2026-08-22T01:25:22+00:00",
     "count": null,
     "count_approx": false
   },
@@ -142,10 +102,10 @@
   "самарск": {
     "display_name": "Самарская область",
     "type": "drone",
-    "text": "Безенчукский район \nСамарская область \nЕще фиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-22T01:10:53+00:00",
-    "expires_at": "2026-08-22T02:10:53+00:00",
+    "text": "Самара, Новокуйбышевск, Самарская область - опасность по БПЛА сохраняется. \n\nПродолжаются фиксации БПЛА с юго-запада, северо-запада. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-22T01:25:26+00:00",
+    "expires_at": "2026-08-22T02:25:26+00:00",
     "count": null,
     "count_approx": false
   },
@@ -166,6 +126,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-22T01:06:44+00:00",
     "expires_at": "2026-08-22T02:06:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Смоленская область - опасность по БПЛА от Унечского района. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-22T01:23:33+00:00",
+    "expires_at": "2026-08-22T02:23:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рязанская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-22T01:31:07+00:00",
+    "expires_at": "2026-08-22T02:31:07+00:00",
     "count": null,
     "count_approx": false
   }
