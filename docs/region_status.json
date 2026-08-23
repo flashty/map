@@ -32,10 +32,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Джанкой\nКрасногвардейское и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-23T19:45:30+00:00",
-    "expires_at": "2026-08-23T20:45:30+00:00",
+    "text": "Джанкой\nКрасногвардейское и близлежащие \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-23T19:45:57+00:00",
+    "expires_at": "2026-08-23T20:45:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +56,46 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-23T19:32:17+00:00",
     "expires_at": "2026-08-23T20:32:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "missile",
+    "text": "Брянская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-23T19:46:07+00:00",
+    "expires_at": "2026-08-23T20:46:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "missile",
+    "text": "Орловская область\nКалужская область\nТульская область\n\nРакетная опасность по крылатым ракетам.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-23T19:47:24+00:00",
+    "expires_at": "2026-08-23T20:47:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "missile",
+    "text": "Орловская область\nКалужская область\nТульская область\n\nРакетная опасность по крылатым ракетам.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-23T19:47:24+00:00",
+    "expires_at": "2026-08-23T20:47:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "missile",
+    "text": "Орловская область\nКалужская область\nТульская область\n\nРакетная опасность по крылатым ракетам.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-23T19:47:24+00:00",
+    "expires_at": "2026-08-23T20:47:24+00:00",
     "count": null,
     "count_approx": false
   }
