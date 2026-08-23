@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_118518_Саки",
-    "channel": "kupolrussia",
-    "date": "2026-08-22T18:47:35+00:00",
-    "text": "Черноморское, Межводное и близлежащие меры безопасности при БПЛА. Тревога \n\nИ далее в направлении Донузлав, Мирный, Новоозерное, Витино, Штормовое, Молочное, Уютное, Евпатория, Саки, Новофедоровка \n\nВ том числе по реактивным",
-    "type": "drone",
-    "location_name": "Саки",
-    "region": null,
-    "lat": 55.472233,
-    "lon": 31.545233
-  },
-  {
-    "id": "locatorru_82000",
-    "channel": "locatorru",
-    "date": "2026-08-22T18:48:03+00:00",
-    "text": "Белгородская область, Воронежская область - опасность по БПЛА от ЛНР и Харьковской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223564",
-    "channel": "LPRalarm",
-    "date": "2026-08-22T18:48:08+00:00",
-    "text": "Белгородская область все районы опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223565",
-    "channel": "LPRalarm",
-    "date": "2026-08-22T18:48:43+00:00",
-    "text": "Воронежская область от Белгородской области опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_84856",
-    "channel": "vrv_radar",
-    "date": "2026-08-22T18:49:22+00:00",
-    "text": "Оренбургская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Оренбургская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223566",
-    "channel": "LPRalarm",
-    "date": "2026-08-22T18:49:42+00:00",
-    "text": "Черноморское \nЕщё фиксации БПЛА с моря \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_118520",
     "channel": "kupolrussia",
     "date": "2026-08-22T18:49:56+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224045_Рыльска",
+    "channel": "LPRalarm",
+    "date": "2026-08-23T15:37:51+00:00",
+    "text": "Трасса Рыльск - Глушково опасность по БПЛА от Рыльска\nКурская область",
+    "type": "drone",
+    "location_name": "Рыльска",
+    "region": "Курская область",
+    "lat": 51.5712127,
+    "lon": 34.6836663
+  },
+  {
+    "id": "kupolrussia_118915_Рыльска",
+    "channel": "kupolrussia",
+    "date": "2026-08-23T15:37:56+00:00",
+    "text": "Трасса Рыльск - Глушково опасность по БПЛА от Рыльска\nКурская область",
+    "type": "drone",
+    "location_name": "Рыльска",
+    "region": "Курская область",
+    "lat": 51.5712127,
+    "lon": 34.6836663
+  },
+  {
+    "id": "LPRalarm_224046",
+    "channel": "LPRalarm",
+    "date": "2026-08-23T15:39:09+00:00",
+    "text": "Рыльск тревога по БПЛА\nКурская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_118916",
+    "channel": "kupolrussia",
+    "date": "2026-08-23T15:39:14+00:00",
+    "text": "Рыльск тревога по БПЛА\nКурская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89883",
+    "channel": "radarrussiia",
+    "date": "2026-08-23T15:41:58+00:00",
+    "text": "Ростовская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89885",
+    "channel": "radarrussiia",
+    "date": "2026-08-23T15:43:03+00:00",
+    "text": "Ставропольский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ставропольский край",
     "lat": null,
     "lon": null
   }
