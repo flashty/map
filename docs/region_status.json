@@ -1,24 +1,4 @@
 {
-  "нижегородск": {
-    "display_name": "Нижегородская область",
-    "type": "drone",
-    "text": "Воскресенский район \nНижегородская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-23T02:54:37+00:00",
-    "expires_at": "2026-08-23T03:54:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "владимирск": {
-    "display_name": "Владимирская область",
-    "type": "drone",
-    "text": "Ковровский район \nВладимирская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-23T02:55:39+00:00",
-    "expires_at": "2026-08-23T03:55:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "оренбургск": {
     "display_name": "Оренбургская область",
     "type": "alert",
@@ -29,23 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "ивановск": {
-    "display_name": "Ивановская область",
-    "type": "drone",
-    "text": "Южский район \nИвановская область \nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-23T02:59:08+00:00",
-    "expires_at": "2026-08-23T03:59:08+00:00",
-    "count": 2,
-    "count_approx": false
-  },
   "вологодск": {
     "display_name": "Вологодская область",
     "type": "drone",
-    "text": "Череповец\nЧереповецкий район \nВологодская область \nОпасность по БПЛА",
+    "text": "Белозерский район \nВологодская область \nФиксация БПЛА в направлении г. Череповец",
     "channel": "vrv_radar",
-    "updated_at": "2026-08-23T03:34:52+00:00",
-    "expires_at": "2026-08-23T04:34:52+00:00",
+    "updated_at": "2026-08-23T03:57:57+00:00",
+    "expires_at": "2026-08-23T04:57:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,26 +26,6 @@
     "channel": "locatorru",
     "updated_at": "2026-08-23T03:34:09+00:00",
     "expires_at": "2026-08-23T04:34:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "новгородск": {
-    "display_name": "Новгородская область",
-    "type": "drone",
-    "text": "Новгородская область \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-23T02:55:53+00:00",
-    "expires_at": "2026-08-23T03:55:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Людиновский район \nКалужская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-23T02:51:01+00:00",
-    "expires_at": "2026-08-23T03:51:01+00:00",
     "count": null,
     "count_approx": false
   },
@@ -92,10 +42,30 @@
   "костромск": {
     "display_name": "Костромской областей",
     "type": "drone",
-    "text": "Ярославская область - внимание по БПЛА сохраняется от Вологодской и Костромской областей.\n\n📡Локатор России - @locatorru",
+    "text": "Архангельская область - опасность по БПЛА от Вологодской и Костромской областей.\n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-08-23T03:30:13+00:00",
-    "expires_at": "2026-08-23T04:30:13+00:00",
+    "updated_at": "2026-08-23T03:48:08+00:00",
+    "expires_at": "2026-08-23T04:48:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "архангельск": {
+    "display_name": "Архангельскую область",
+    "type": "drone",
+    "text": "Шонга, Кичменгско-Городецкий район, Вологодская область - пролёты ударных БПЛА на север в сторону примерно Великий Устюг, далее на Архангельскую область.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-23T03:53:03+00:00",
+    "expires_at": "2026-08-23T04:53:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "башкортост": {
+    "display_name": "Республика Башкортостан",
+    "type": "drone",
+    "text": "Республика Башкортостан - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-23T03:55:16+00:00",
+    "expires_at": "2026-08-23T04:55:16+00:00",
     "count": null,
     "count_approx": false
   }
