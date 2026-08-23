@@ -52,10 +52,10 @@
   "архангельск": {
     "display_name": "Архангельская область",
     "type": "drone",
-    "text": "Архангельская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-23T04:12:46+00:00",
-    "expires_at": "2026-08-23T05:12:46+00:00",
+    "text": "Архангельская область \nОпасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-23T04:16:12+00:00",
+    "expires_at": "2026-08-23T05:16:12+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +86,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-23T04:09:06+00:00",
     "expires_at": "2026-08-23T05:09:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "От Феодосии в направлении Керченского пролива, Причерноморье Краснодарский край над морем опасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-23T04:18:22+00:00",
+    "expires_at": "2026-08-23T05:18:22+00:00",
     "count": null,
     "count_approx": false
   }
