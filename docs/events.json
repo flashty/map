@@ -1,16 +1,5 @@
 [
   {
-    "id": "LPRalarm_223532_Орск",
-    "channel": "LPRalarm",
-    "date": "2026-08-22T17:23:18+00:00",
-    "text": "Орск\nОренбургская область\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Орск",
-    "region": "Оренбургская область",
-    "lat": 51.2305015,
-    "lon": 58.4738015
-  },
-  {
     "id": "kupolrussia_118490",
     "channel": "kupolrussia",
     "date": "2026-08-22T17:23:18+00:00",
@@ -21996,6 +21985,17 @@
     "type": "drone",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_85144",
+    "channel": "vrv_radar",
+    "date": "2026-08-23T13:59:51+00:00",
+    "text": "Республика Адыгея \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Адыгея",
     "lat": null,
     "lon": null
   }
