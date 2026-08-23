@@ -1,126 +1,5 @@
 [
   {
-    "id": "locatorru_81850",
-    "channel": "locatorru",
-    "date": "2026-08-22T03:32:22+00:00",
-    "text": "Ярославская область, Костромская область - внимание по БПЛА от Владимирской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ярославская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_13910",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-22T03:34:54+00:00",
-    "text": "Воронежская область - опасность БПЛА.\n\nНачались фиксации через Белгородскую область и далее в тыл.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_84647_Лискинский",
-    "channel": "vrv_radar",
-    "date": "2026-08-22T03:36:55+00:00",
-    "text": "Лискинский район \nОстрогожский район \nВоронежская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Лискинский",
-    "region": "Воронежская область",
-    "lat": 51.0241236,
-    "lon": 39.5840497
-  },
-  {
-    "id": "vrv_radar_84647_Острогожский",
-    "channel": "vrv_radar",
-    "date": "2026-08-22T03:36:55+00:00",
-    "text": "Лискинский район \nОстрогожский район \nВоронежская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Острогожский",
-    "region": "Воронежская область",
-    "lat": 50.8584609,
-    "lon": 39.0772421
-  },
-  {
-    "id": "vrv_radar_84648",
-    "channel": "vrv_radar",
-    "date": "2026-08-22T03:37:22+00:00",
-    "text": "Саратовская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_84649",
-    "channel": "vrv_radar",
-    "date": "2026-08-22T03:39:36+00:00",
-    "text": "Самарская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_81851",
-    "channel": "locatorru",
-    "date": "2026-08-22T03:40:17+00:00",
-    "text": "Саратовская область, Самарская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_84650",
-    "channel": "vrv_radar",
-    "date": "2026-08-22T03:40:45+00:00",
-    "text": "Ульяновская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223298",
-    "channel": "LPRalarm",
-    "date": "2026-08-22T03:41:02+00:00",
-    "text": "Стерегущее и близлежащие опасность по БПЛА с моря\n\nРаздольненский район Республика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_118282",
-    "channel": "kupolrussia",
-    "date": "2026-08-22T03:41:07+00:00",
-    "text": "Стерегущее и близлежащие опасность по БПЛА с моря\n\nРаздольненский район Республика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223299_Ейск",
-    "channel": "LPRalarm",
-    "date": "2026-08-22T03:41:34+00:00",
-    "text": "Ейск, повторно тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Ейск",
-    "region": null,
-    "lat": 46.7112094,
-    "lon": 38.2747987
-  },
-  {
     "id": "kupolrussia_118283_Ейск",
     "channel": "kupolrussia",
     "date": "2026-08-22T03:41:44+00:00",
@@ -21998,5 +21877,126 @@
     "region": "Рязанская область",
     "lat": 53.7192883,
     "lon": 41.0327085
+  },
+  {
+    "id": "radarrussiia_89777_Сараевский",
+    "channel": "radarrussiia",
+    "date": "2026-08-23T00:18:20+00:00",
+    "text": "Сараевский район\nРязанская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Сараевский",
+    "region": "Рязанская область",
+    "lat": 53.7192883,
+    "lon": 41.0327085
+  },
+  {
+    "id": "LPRalarm_223732",
+    "channel": "LPRalarm",
+    "date": "2026-08-23T00:23:48+00:00",
+    "text": "Анапа\nТревога по БпЛА сохраняется\nМеры предосторожности!",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_118639",
+    "channel": "kupolrussia",
+    "date": "2026-08-23T00:23:52+00:00",
+    "text": "Анапа\nТревога по БпЛА сохраняется\nМеры предосторожности!",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223733",
+    "channel": "LPRalarm",
+    "date": "2026-08-23T00:24:23+00:00",
+    "text": "Крымск и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_118640",
+    "channel": "kupolrussia",
+    "date": "2026-08-23T00:24:27+00:00",
+    "text": "Крымск и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_85001",
+    "channel": "vrv_radar",
+    "date": "2026-08-23T00:24:45+00:00",
+    "text": "Сочи и близлежащие\nКраснодарский край\nМеры безопасности",
+    "type": "alert",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89778",
+    "channel": "radarrussiia",
+    "date": "2026-08-23T00:26:26+00:00",
+    "text": "Сочи и близлежащие\nКраснодарский край\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "alert",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_85002",
+    "channel": "vrv_radar",
+    "date": "2026-08-23T00:29:16+00:00",
+    "text": "Сочи и близлежащие\nКраснодарский край\nРабота ПВО по БПЛА\nМеры безопасности",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_82076_Сочи",
+    "channel": "locatorru",
+    "date": "2026-08-23T00:29:28+00:00",
+    "text": "От Туапсе до Сочи, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Сочи",
+    "region": "Краснодарский край",
+    "lat": 43.5854823,
+    "lon": 39.723109
+  },
+  {
+    "id": "locatorru_82077_Рузаевка",
+    "channel": "locatorru",
+    "date": "2026-08-23T00:30:59+00:00",
+    "text": "Рузаевка, Саранск, Республика Мордовия - внимание по возможным БПЛА с юга. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Рузаевка",
+    "region": "Республика Мордовия",
+    "lat": 54.058735,
+    "lon": 44.954391
+  },
+  {
+    "id": "locatorru_82077_Саранск",
+    "channel": "locatorru",
+    "date": "2026-08-23T00:30:59+00:00",
+    "text": "Рузаевка, Саранск, Республика Мордовия - внимание по возможным БПЛА с юга. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Саранск",
+    "region": "Республика Мордовия",
+    "lat": 54.18671,
+    "lon": 45.18383
   }
 ]
