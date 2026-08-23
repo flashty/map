@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_118277_Советский",
-    "channel": "kupolrussia",
-    "date": "2026-08-22T03:19:03+00:00",
-    "text": "Нижнегорский район, Советский район, Кировский район, Ленинский район опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Советский",
-    "region": null,
-    "lat": 52.931834,
-    "lon": 158.405383
-  },
-  {
-    "id": "kupolrussia_118277_Кировский",
-    "channel": "kupolrussia",
-    "date": "2026-08-22T03:19:03+00:00",
-    "text": "Нижнегорский район, Советский район, Кировский район, Ленинский район опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Кировский",
-    "region": null,
-    "lat": 51.298489,
-    "lon": 36.685303
-  },
-  {
-    "id": "kupolrussia_118277_Ленинский",
-    "channel": "kupolrussia",
-    "date": "2026-08-22T03:19:03+00:00",
-    "text": "Нижнегорский район, Советский район, Кировский район, Ленинский район опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Ленинский",
-    "region": null,
-    "lat": 56.0736587,
-    "lon": 46.2661214
-  },
-  {
     "id": "LPRalarm_223293",
     "channel": "LPRalarm",
     "date": "2026-08-22T03:19:55+00:00",
@@ -21994,6 +21961,39 @@
     "date": "2026-08-22T23:56:24+00:00",
     "text": "Витязево и близлежащие\nКраснодарский край\nСбитие БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89767_Анапа",
+    "channel": "radarrussiia",
+    "date": "2026-08-22T23:56:49+00:00",
+    "text": "Анапа\nКраснодарский край\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Анапа",
+    "region": "Краснодарский край",
+    "lat": 44.894272,
+    "lon": 37.316887
+  },
+  {
+    "id": "radarrussiia_89768",
+    "channel": "radarrussiia",
+    "date": "2026-08-22T23:57:56+00:00",
+    "text": "Приазовье Краснодарского края\nТревога по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарского края",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_84993",
+    "channel": "vrv_radar",
+    "date": "2026-08-22T23:59:44+00:00",
+    "text": "Витязево и близлежащие\nКраснодарский край\nПродолжаются фиксации БПЛА\nМеры безопасности",
+    "type": "drone",
     "location_name": null,
     "region": "Краснодарский край",
     "lat": null,
