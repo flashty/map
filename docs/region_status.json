@@ -1,14 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка - Пантелеймоновка - Ясиноватая ДНР и близлежащие \n\nОпасность по БПЛА и возможным ФПВ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-23T07:41:49+00:00",
-    "expires_at": "2026-08-23T08:41:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -16,16 +6,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-23T08:29:55+00:00",
     "expires_at": "2026-08-23T09:29:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Васильевка и далее в направлении Мелитополь и близлежащие \nФиксации БПЛА \nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-23T07:35:50+00:00",
-    "expires_at": "2026-08-23T08:35:50+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +46,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-23T08:26:21+00:00",
     "expires_at": "2026-08-23T09:26:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловской области",
+    "type": "aviation",
+    "text": "Экстренная информация РСЧС: Внимание! Авиационная опасность! На территории Орловской области. Будьте бдительны!",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-23T08:32:50+00:00",
+    "expires_at": "2026-08-23T09:32:50+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Армавир и близлежащие \nКраснодарский край \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-23T08:35:22+00:00",
+    "expires_at": "2026-08-23T09:35:22+00:00",
     "count": null,
     "count_approx": false
   }
