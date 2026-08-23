@@ -1,14 +1,4 @@
 {
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Славянск-на-Кубани\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-23T14:12:13+00:00",
-    "expires_at": "2026-08-23T15:12:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -136,6 +126,16 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-08-23T14:04:56+00:00",
     "expires_at": "2026-08-23T15:04:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ сохраняется, ещё фиксации",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-23T14:21:19+00:00",
+    "expires_at": "2026-08-23T15:21:19+00:00",
     "count": null,
     "count_approx": false
   }
