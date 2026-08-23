@@ -1,16 +1,5 @@
 [
   {
-    "id": "kupolrussia_118332_Красненском",
-    "channel": "kupolrussia",
-    "date": "2026-08-22T07:44:53+00:00",
-    "text": "ОТБОЙ ОПАСНОСТИ АТАКИ БПЛА в Губкинском, Старооскольском ГО, г. Белгороде, Чернянском, Красненском, Красногвардейском, Алексеевском МО",
-    "type": "all_clear",
-    "location_name": "Красненском",
-    "region": null,
-    "lat": 58.2676587,
-    "lon": 29.1153835
-  },
-  {
     "id": "kupolrussia_118332_Красногвардейском",
     "channel": "kupolrussia",
     "date": "2026-08-22T07:44:53+00:00",
@@ -21996,6 +21985,17 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_85085",
+    "channel": "vrv_radar",
+    "date": "2026-08-23T05:28:10+00:00",
+    "text": "Тульская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
     "lat": null,
     "lon": null
   }
