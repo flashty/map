@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_118526",
-    "channel": "kupolrussia",
-    "date": "2026-08-22T18:59:56+00:00",
-    "text": "Шебекино \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_118527",
-    "channel": "kupolrussia",
-    "date": "2026-08-22T19:00:19+00:00",
-    "text": "Судак\nСолнечная Долина и близлежащие \nВнимание по БПЛА с моря \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_84857",
-    "channel": "vrv_radar",
-    "date": "2026-08-22T19:00:47+00:00",
-    "text": "Воронежская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_84858_Кантемировский",
-    "channel": "vrv_radar",
-    "date": "2026-08-22T19:01:35+00:00",
-    "text": "Кантемировский район\nВоронежская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Кантемировский",
-    "region": "Воронежская область",
-    "lat": 49.797172,
-    "lon": 39.7513457
-  },
-  {
     "id": "LPRalarm_223577",
     "channel": "LPRalarm",
     "date": "2026-08-22T19:01:52+00:00",
@@ -21998,5 +21954,49 @@
     "region": null,
     "lat": 55.4087122,
     "lon": 37.9094721
+  },
+  {
+    "id": "LPRalarm_224055_Белгороде",
+    "channel": "LPRalarm",
+    "date": "2026-08-23T16:02:51+00:00",
+    "text": "ОТБОЙ РАКЕТНОЙ ОПАСНОСТИ в г. Белгороде, Белгородском МО и Шебекинском МО",
+    "type": "all_clear",
+    "location_name": "Белгороде",
+    "region": null,
+    "lat": 54.3958901,
+    "lon": 38.5279843
+  },
+  {
+    "id": "kupolrussia_118923_Белгороде",
+    "channel": "kupolrussia",
+    "date": "2026-08-23T16:03:29+00:00",
+    "text": "ОТБОЙ РАКЕТНОЙ ОПАСНОСТИ в г. Белгороде, Белгородском МО и Шебекинском МО",
+    "type": "all_clear",
+    "location_name": "Белгороде",
+    "region": null,
+    "lat": 54.3958901,
+    "lon": 38.5279843
+  },
+  {
+    "id": "LPRalarm_224056",
+    "channel": "LPRalarm",
+    "date": "2026-08-23T16:09:19+00:00",
+    "text": "Евпатория отбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_118924",
+    "channel": "kupolrussia",
+    "date": "2026-08-23T16:12:09+00:00",
+    "text": "Евпатория отбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
