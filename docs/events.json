@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_118509_Корочанский",
-    "channel": "kupolrussia",
-    "date": "2026-08-22T18:32:16+00:00",
-    "text": "Шебекинский район\nПролет ударных БПЛА в тыл \nКорочанский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Корочанский",
-    "region": null,
-    "lat": 50.8026787,
-    "lon": 37.1914961
-  },
-  {
-    "id": "LPRalarm_223554",
-    "channel": "LPRalarm",
-    "date": "2026-08-22T18:37:28+00:00",
-    "text": "Республика Адыгея опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Адыгея",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_118510",
-    "channel": "kupolrussia",
-    "date": "2026-08-22T18:37:59+00:00",
-    "text": "Республика Адыгея опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Адыгея",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_223555_Усть-Лабинский",
     "channel": "LPRalarm",
     "date": "2026-08-22T18:38:02+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Краснодарский край",
     "lat": 45.0351532,
     "lon": 38.9772396
+  },
+  {
+    "id": "LPRalarm_224029",
+    "channel": "LPRalarm",
+    "date": "2026-08-23T14:32:03+00:00",
+    "text": "Дзержинск, Горловка, Енакиево ДНР и близлежащие \n\nОпасность по БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89881",
+    "channel": "radarrussiia",
+    "date": "2026-08-23T14:32:28+00:00",
+    "text": "Новороссийск и близлежащие\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории края опасность сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89882",
+    "channel": "radarrussiia",
+    "date": "2026-08-23T14:36:51+00:00",
+    "text": "Краснодар \nКраснодарский край \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
   }
 ]
