@@ -1,126 +1,5 @@
 [
   {
-    "id": "LPRalarm_223341",
-    "channel": "LPRalarm",
-    "date": "2026-08-22T06:59:33+00:00",
-    "text": "Противник готовит запуски БПЛА от Николаевской области",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_84758_Козельский",
-    "channel": "vrv_radar",
-    "date": "2026-08-22T06:59:33+00:00",
-    "text": "Козельский район\nКалужская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Козельский",
-    "region": "Калужская область",
-    "lat": 54.0330263,
-    "lon": 35.8308211
-  },
-  {
-    "id": "radarrussiia_89590_Ершовский",
-    "channel": "radarrussiia",
-    "date": "2026-08-22T07:00:23+00:00",
-    "text": "Ершовский район\nСаратовская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Ершовский",
-    "region": "Саратовская область",
-    "lat": 51.3321416,
-    "lon": 48.3730264
-  },
-  {
-    "id": "locatorru_81925",
-    "channel": "locatorru",
-    "date": "2026-08-22T07:00:51+00:00",
-    "text": "Ещё 1 БПЛА в том же направлении. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_118317",
-    "channel": "kupolrussia",
-    "date": "2026-08-22T07:01:08+00:00",
-    "text": "‼️‼️‼️‼️Огромное спасибо Вам за поддержку нашей работы.‼️‼️‼️\n❤️❤️❤️\n\n👇👇👇\nВыразить благодарность администрации канала можно по ссылке, нажав на данный текст или ссылку ниже:\n\nhttps://pay.cloudtips.ru/p/991df385",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_84759_Николаевский",
-    "channel": "vrv_radar",
-    "date": "2026-08-22T07:02:06+00:00",
-    "text": "Николаевский район\nУльяновская область\nФиксация от 5 БПЛА",
-    "type": "drone",
-    "location_name": "Николаевский",
-    "region": "Ульяновская область",
-    "lat": 53.1039795,
-    "lon": 47.2565168
-  },
-  {
-    "id": "vrv_radar_84760",
-    "channel": "vrv_radar",
-    "date": "2026-08-22T07:03:32+00:00",
-    "text": "Лузский район\nКировская область\nФиксация от 3 БПЛА в направлении Архангельской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Кировская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_81926_Сыктывкар",
-    "channel": "locatorru",
-    "date": "2026-08-22T07:06:04+00:00",
-    "text": "г.Сыктывкар, г.Ухта, пгт.Нижний Одес, г.Печора, г.Усинск и близлежащие, Республика Коми - опасность по БПЛА, повторно! \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Сыктывкар",
-    "region": "Республика Коми",
-    "lat": 61.6685237,
-    "lon": 50.8352024
-  },
-  {
-    "id": "locatorru_81926_Ухта",
-    "channel": "locatorru",
-    "date": "2026-08-22T07:06:04+00:00",
-    "text": "г.Сыктывкар, г.Ухта, пгт.Нижний Одес, г.Печора, г.Усинск и близлежащие, Республика Коми - опасность по БПЛА, повторно! \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Ухта",
-    "region": "Республика Коми",
-    "lat": 63.5623797,
-    "lon": 53.6842376
-  },
-  {
-    "id": "locatorru_81926_Нижний Одес",
-    "channel": "locatorru",
-    "date": "2026-08-22T07:06:04+00:00",
-    "text": "г.Сыктывкар, г.Ухта, пгт.Нижний Одес, г.Печора, г.Усинск и близлежащие, Республика Коми - опасность по БПЛА, повторно! \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Нижний Одес",
-    "region": "Республика Коми",
-    "lat": 63.638953,
-    "lon": 54.846099
-  },
-  {
-    "id": "locatorru_81926_Печора",
-    "channel": "locatorru",
-    "date": "2026-08-22T07:06:04+00:00",
-    "text": "г.Сыктывкар, г.Ухта, пгт.Нижний Одес, г.Печора, г.Усинск и близлежащие, Республика Коми - опасность по БПЛА, повторно! \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Печора",
-    "region": "Республика Коми",
-    "lat": 65.1142862,
-    "lon": 57.16074
-  },
-  {
     "id": "locatorru_81927",
     "channel": "locatorru",
     "date": "2026-08-22T07:06:24+00:00",
@@ -21998,5 +21877,126 @@
     "region": null,
     "lat": 58.3597623,
     "lon": 60.0444713
+  },
+  {
+    "id": "kupolrussia_118692",
+    "channel": "kupolrussia",
+    "date": "2026-08-23T04:31:36+00:00",
+    "text": "Западные районы Херсонская область РФ опасность по БПЛА с севера и далее на Скадовский район, Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223800",
+    "channel": "LPRalarm",
+    "date": "2026-08-23T04:32:01+00:00",
+    "text": "Тамань и близлежащие \nОпасность по БПЛА \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223801",
+    "channel": "LPRalarm",
+    "date": "2026-08-23T04:33:08+00:00",
+    "text": "Феодосия и близлежащие \nОпасность по БПЛА сохраняется \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223802",
+    "channel": "LPRalarm",
+    "date": "2026-08-23T04:36:25+00:00",
+    "text": "Багерово и далее в направлении Керчь \nФиксация БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223803",
+    "channel": "LPRalarm",
+    "date": "2026-08-23T04:39:44+00:00",
+    "text": "Войково\nБондаренково и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223804",
+    "channel": "LPRalarm",
+    "date": "2026-08-23T04:40:37+00:00",
+    "text": "Туапсе и близлежащие \nОпасность по БПЛА \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_82126",
+    "channel": "locatorru",
+    "date": "2026-08-23T04:42:55+00:00",
+    "text": "Оренбургская область, Республика Башкортостан - отбой опасности по БПЛА.\n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Оренбургская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_85079",
+    "channel": "vrv_radar",
+    "date": "2026-08-23T04:44:25+00:00",
+    "text": "Республика Башкортостан \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_85080",
+    "channel": "vrv_radar",
+    "date": "2026-08-23T04:45:01+00:00",
+    "text": "Оренбургская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Оренбургская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_223805",
+    "channel": "LPRalarm",
+    "date": "2026-08-23T04:45:25+00:00",
+    "text": "Старобельск и близлежащие \nОпасность по БПЛА Хорнет\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89833",
+    "channel": "radarrussiia",
+    "date": "2026-08-23T04:45:36+00:00",
+    "text": "Республика Башкортостан \nОренбургская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
   }
 ]
