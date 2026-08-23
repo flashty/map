@@ -1,14 +1,4 @@
 {
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Чучковский район\nРязанская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-23T00:34:47+00:00",
-    "expires_at": "2026-08-23T01:34:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "мордов": {
     "display_name": "Республику Мордовия",
     "type": "drone",
@@ -70,13 +60,13 @@
     "count_approx": false
   },
   "марий": {
-    "display_name": "Республику Марий",
+    "display_name": "Республика Марий",
     "type": "drone",
-    "text": "От 3 БПЛА в направлении Чебоксар от Нижегородской области, предварительно транзитом на Республику Марий Эл.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-23T01:07:19+00:00",
-    "expires_at": "2026-08-23T02:07:19+00:00",
-    "count": 3,
+    "text": "Республика Марий Эл\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-23T01:39:13+00:00",
+    "expires_at": "2026-08-23T02:39:13+00:00",
+    "count": null,
     "count_approx": false
   },
   "брянск": {
@@ -132,30 +122,60 @@
   "ярославск": {
     "display_name": "Ярославская область",
     "type": "drone",
-    "text": "Ярославская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-23T01:19:33+00:00",
-    "expires_at": "2026-08-23T02:19:33+00:00",
+    "text": "Ярославская область - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-23T01:36:07+00:00",
+    "expires_at": "2026-08-23T02:36:07+00:00",
     "count": null,
     "count_approx": false
   },
   "кировск": {
     "display_name": "Кировская область",
     "type": "drone",
-    "text": "Чувашская Республика\nРеспублика Марий Эл\nКировская область\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-23T01:20:12+00:00",
-    "expires_at": "2026-08-23T02:20:12+00:00",
+    "text": "Кировская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-23T01:39:45+00:00",
+    "expires_at": "2026-08-23T02:39:45+00:00",
     "count": null,
     "count_approx": false
   },
   "костромск": {
-    "display_name": "Костромской области",
+    "display_name": "Костромская область",
     "type": "drone",
-    "text": "Над Нижегородской областью фиксации БПЛА.\n\nпо западу региона движение на север в сторону Владимирской области, Ивановской области, Костромской области.\n\nпо востоку региона движение на север, северо-восток в сторону Чувашской Республики, Республики, Марий Эл.\n\n📡Локатор России - @locatorru",
+    "text": "Костромская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-23T01:37:56+00:00",
+    "expires_at": "2026-08-23T02:37:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Новороссийск, Геленджик, Туапсе, Широкая Балка, Федотовка, Мысхако, Кабардинка, Виноградное, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-08-23T01:25:31+00:00",
-    "expires_at": "2026-08-23T02:25:31+00:00",
+    "updated_at": "2026-08-23T01:32:18+00:00",
+    "expires_at": "2026-08-23T02:32:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "башкортост": {
+    "display_name": "Республика Башкортостан",
+    "type": "drone",
+    "text": "Республика Башкортостан\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-23T01:38:08+00:00",
+    "expires_at": "2026-08-23T02:38:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "чуваш": {
+    "display_name": "Республика Чувашия",
+    "type": "drone",
+    "text": "Республика Чувашия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-23T01:39:26+00:00",
+    "expires_at": "2026-08-23T02:39:26+00:00",
     "count": null,
     "count_approx": false
   }
