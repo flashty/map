@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_85042_Куркинский",
-    "channel": "vrv_radar",
-    "date": "2026-08-23T01:55:44+00:00",
-    "text": "Куркинский район \nТульская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Куркинский",
-    "region": "Тульская область",
-    "lat": 53.4675783,
-    "lon": 38.5341934
-  },
-  {
-    "id": "vrv_radar_85043_Гусь-Хрустальный",
-    "channel": "vrv_radar",
-    "date": "2026-08-23T01:56:46+00:00",
-    "text": "Гусь-Хрустальный район\nВладимирская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Гусь-Хрустальный",
-    "region": "Владимирская область",
-    "lat": 55.6149968,
-    "lon": 40.6708665
-  },
-  {
-    "id": "radarrussiia_89810_Куркинский",
-    "channel": "radarrussiia",
-    "date": "2026-08-23T01:57:00+00:00",
-    "text": "Куркинский район \nТульская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Куркинский",
-    "region": "Тульская область",
-    "lat": 53.4675783,
-    "lon": 38.5341934
-  },
-  {
-    "id": "radarrussiia_89811_Гусь-Хрустальный",
-    "channel": "radarrussiia",
-    "date": "2026-08-23T01:57:28+00:00",
-    "text": "Гусь-Хрустальный район\nВладимирская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Гусь-Хрустальный",
-    "region": "Владимирская область",
-    "lat": 55.6149968,
-    "lon": 40.6708665
-  },
-  {
-    "id": "vrv_radar_85044_Шуйский",
-    "channel": "vrv_radar",
-    "date": "2026-08-23T01:58:12+00:00",
-    "text": "Шуйский район \nИвановская область \nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Шуйский",
-    "region": "Ивановская область",
-    "lat": 56.8562777,
-    "lon": 41.5639921
-  },
-  {
-    "id": "radarrussiia_89812_Шуйский",
-    "channel": "radarrussiia",
-    "date": "2026-08-23T01:58:24+00:00",
-    "text": "Шуйский район \nИвановская область \nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Шуйский",
-    "region": "Ивановская область",
-    "lat": 56.8562777,
-    "lon": 41.5639921
-  },
-  {
     "id": "locatorru_82094_Оренбург",
     "channel": "locatorru",
     "date": "2026-08-23T01:58:38+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Республика Адыгея",
     "lat": 44.9230727,
     "lon": 38.9071424
+  },
+  {
+    "id": "vrv_radar_85261",
+    "channel": "vrv_radar",
+    "date": "2026-08-23T23:16:31+00:00",
+    "text": "Саратовская область\nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_85262",
+    "channel": "vrv_radar",
+    "date": "2026-08-23T23:16:36+00:00",
+    "text": "Пензенская область\nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89941",
+    "channel": "radarrussiia",
+    "date": "2026-08-23T23:17:27+00:00",
+    "text": "Ростовская область\nСаратовская область\nПензенская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "missile",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_13990",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-23T23:17:35+00:00",
+    "text": "Ростовская область\nВолгоградская область\nСаратовская область\nПензенская область\n\nРакетная опасность по крылатым ракетам «Фламинго».\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "missile",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119102",
+    "channel": "kupolrussia",
+    "date": "2026-08-23T23:18:08+00:00",
+    "text": "Саратовская область\nПензенская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224299",
+    "channel": "LPRalarm",
+    "date": "2026-08-23T23:18:11+00:00",
+    "text": "Саратовская область\nПензенская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
   }
 ]
