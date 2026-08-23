@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-23T12:27:49+00:00",
+        "last_updated": "2026-08-23T12:49:47+00:00",
+        "path_labels": [
+          "Тула (Тульская область)",
+          "Дубенский (Тульская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.61754,
+            54.1930321
+          ],
+          [
+            36.9480547,
+            54.1486417
+          ]
+        ]
+      }
+    }
+  ]
 }
