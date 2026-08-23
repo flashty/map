@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_223552_Шебекинский",
-    "channel": "LPRalarm",
-    "date": "2026-08-22T18:32:01+00:00",
-    "text": "Шебекинский район\nПролет ударных БПЛА в тыл \nКорочанский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "LPRalarm_223552_Корочанский",
-    "channel": "LPRalarm",
-    "date": "2026-08-22T18:32:01+00:00",
-    "text": "Шебекинский район\nПролет ударных БПЛА в тыл \nКорочанский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Корочанский",
-    "region": null,
-    "lat": 50.8026787,
-    "lon": 37.1914961
-  },
-  {
-    "id": "LPRalarm_223553",
-    "channel": "LPRalarm",
-    "date": "2026-08-22T18:32:03+00:00",
-    "text": "Скадовский район и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_118509_Шебекинский",
-    "channel": "kupolrussia",
-    "date": "2026-08-22T18:32:16+00:00",
-    "text": "Шебекинский район\nПролет ударных БПЛА в тыл \nКорочанский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
     "id": "kupolrussia_118509_Корочанский",
     "channel": "kupolrussia",
     "date": "2026-08-22T18:32:16+00:00",
@@ -21998,5 +21954,49 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_224027",
+    "channel": "LPRalarm",
+    "date": "2026-08-23T14:29:42+00:00",
+    "text": "Дзержинск, Горловка ДНР и близлежащие \n\nОпасность по БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_118897",
+    "channel": "kupolrussia",
+    "date": "2026-08-23T14:30:03+00:00",
+    "text": "Дзержинск, Горловка ДНР и близлежащие \n\nОпасность по БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224028",
+    "channel": "LPRalarm",
+    "date": "2026-08-23T14:30:29+00:00",
+    "text": "Краснодар \nКраснодарский край \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_118898_Краснодар",
+    "channel": "kupolrussia",
+    "date": "2026-08-23T14:30:39+00:00",
+    "text": "Краснодар \nКраснодарский край\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Краснодар",
+    "region": "Краснодарский край",
+    "lat": 45.0351532,
+    "lon": 38.9772396
   }
 ]
