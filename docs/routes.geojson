@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-24T22:44:27+00:00",
+        "last_updated": "2026-08-24T23:03:59+00:00",
+        "path_labels": [
+          "Новошахтинск (Ростовская область)",
+          "Родионово-Несветайский (Ростовская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.8935604,
+            47.7962698
+          ],
+          [
+            39.5979687,
+            47.6457628
+          ]
+        ]
+      }
+    }
+  ]
 }
