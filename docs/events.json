@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_223959",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T11:00:07+00:00",
-    "text": "дорога Геническ - Новоалексеевка - Чонгар \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223958",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T11:00:07+00:00",
-    "text": "Бахчисарайский район, тревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_118829",
-    "channel": "kupolrussia",
-    "date": "2026-08-23T11:00:13+00:00",
-    "text": "дорога Геническ - Новоалексеевка - Чонгар \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_118830",
-    "channel": "kupolrussia",
-    "date": "2026-08-23T11:00:14+00:00",
-    "text": "Бахчисарайский район, тревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223960",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T11:02:29+00:00",
-    "text": "Суворово и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_223961_Севастополь",
     "channel": "LPRalarm",
     "date": "2026-08-23T11:02:32+00:00",
@@ -21993,6 +21938,61 @@
     "channel": "vrv_radar",
     "date": "2026-08-24T17:16:46+00:00",
     "text": "Семилукский район\nВоронежская область\nРабота ПВО по БПЛА \nМеры безопасности",
+    "type": "drone",
+    "location_name": "Семилукский",
+    "region": "Воронежская область",
+    "lat": 51.7023003,
+    "lon": 39.0339133
+  },
+  {
+    "id": "LPRalarm_224532",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T17:21:17+00:00",
+    "text": "Приморский, Приазовский район Запорожская область РФ\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119312",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T17:21:50+00:00",
+    "text": "Приморский, Приазовский район Запорожская область РФ\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224533",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T17:24:24+00:00",
+    "text": "Скадовский район и близлежащие \nОпасность по БПЛА \n\nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119313",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T17:24:33+00:00",
+    "text": "Скадовский район и близлежащие \nОпасность по БПЛА \n\nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89989_Семилукский",
+    "channel": "radarrussiia",
+    "date": "2026-08-24T17:24:57+00:00",
+    "text": "Семилукский район\nВоронежская область\nРабота ПВО по БПЛА \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "type": "drone",
     "location_name": "Семилукский",
     "region": "Воронежская область",
