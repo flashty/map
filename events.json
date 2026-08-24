@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_223780",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T03:12:04+00:00",
-    "text": "Вологодская область\nВНИМАНИЕ!!\n\\ (> ОБЪЯВЛЕН\nг © \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Вологодская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223781_Бахчисарайский",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T03:15:10+00:00",
-    "text": "Бахчисарайский район опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Бахчисарайский",
-    "region": null,
-    "lat": 58.0385064,
-    "lon": 56.3629087
-  },
-  {
-    "id": "kupolrussia_118678_Бахчисарайский",
-    "channel": "kupolrussia",
-    "date": "2026-08-23T03:15:14+00:00",
-    "text": "Бахчисарайский район опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Бахчисарайский",
-    "region": null,
-    "lat": 58.0385064,
-    "lon": 56.3629087
-  },
-  {
-    "id": "LPRalarm_223782_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T03:15:32+00:00",
-    "text": "Белгородский район опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "kupolrussia_118679_Белгородский",
-    "channel": "kupolrussia",
-    "date": "2026-08-23T03:15:36+00:00",
-    "text": "Белгородский район опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "vrv_radar_85066_Оренбург",
-    "channel": "vrv_radar",
-    "date": "2026-08-23T03:20:11+00:00",
-    "text": "Оренбург\nОренбургская область \nМеры безопасности",
-    "type": "alert",
-    "location_name": "Оренбург",
-    "region": "Оренбургская область",
-    "lat": 51.7671248,
-    "lon": 55.0978517
-  },
-  {
     "id": "locatorru_82111_Череповец",
     "channel": "locatorru",
     "date": "2026-08-23T03:21:09+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_85275",
+    "channel": "vrv_radar",
+    "date": "2026-08-24T01:01:42+00:00",
+    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89948",
+    "channel": "radarrussiia",
+    "date": "2026-08-24T01:01:56+00:00",
+    "text": "Астраханская область\nРеспублика Калмыкия\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "missile",
+    "location_name": null,
+    "region": "Астраханская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224343",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T01:02:58+00:00",
+    "text": "Раздольненский район \nЧерноморский район \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119144",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T01:03:04+00:00",
+    "text": "Раздольненский район \nЧерноморский район \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119145",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T01:04:42+00:00",
+    "text": "Пензенская область\nСаратовская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224344",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T01:04:59+00:00",
+    "text": "Пензенская область\nСаратовская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Пензенская область",
     "lat": null,
     "lon": null
   }
