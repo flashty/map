@@ -1,27 +1,5 @@
 [
   {
-    "id": "locatorru_82151",
-    "channel": "locatorru",
-    "date": "2026-08-23T10:17:31+00:00",
-    "text": "Краснояружский район, Ивнянский район, Белгородская область / Беловский район, Обоянский район, Курская область - опасность по БПЛА и на стык трёх областей: Орловская область, Воронежская область, Липецкая область.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223936",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T10:21:53+00:00",
-    "text": "Великая Белозерка в направлении Мелитополь очередная группа БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_118804",
     "channel": "kupolrussia",
     "date": "2026-08-23T10:21:59+00:00",
@@ -21996,6 +21974,28 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224508",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T15:30:29+00:00",
+    "text": "Алчевск \nЛуганск и близлежащие \nЛНР \nОтбой тревоги по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119293",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T15:30:45+00:00",
+    "text": "Алчевск \nЛуганск и близлежащие \nЛНР",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
