@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Ростовская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-24T17:46:59+00:00",
-    "expires_at": "2026-08-24T18:46:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курской области",
     "type": "missile",
@@ -32,10 +22,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Водопойное и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-24T18:43:35+00:00",
-    "expires_at": "2026-08-24T19:43:35+00:00",
+    "text": "Новоозёрное \nТревога по БПЛА \nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-24T18:58:16+00:00",
+    "expires_at": "2026-08-24T19:58:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -61,21 +51,11 @@
   },
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "missile",
-    "text": "Комар Богатырь Великая Новоселка ДНР ракетная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-24T18:27:12+00:00",
-    "expires_at": "2026-08-24T19:27:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
     "type": "drone",
-    "text": "Белгородская область \nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-24T18:40:42+00:00",
-    "expires_at": "2026-08-24T19:40:42+00:00",
+    "text": "Володарское\nМариуполь\nИ близлежащие\nТревога по БПЛА\nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-24T18:56:49+00:00",
+    "expires_at": "2026-08-24T19:56:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +66,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-24T18:38:51+00:00",
     "expires_at": "2026-08-24T19:38:51+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Трубчевский район, Комягино и близлежащие, тревога по БПЛА  со сбросами ФПВ\nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-24T19:00:04+00:00",
+    "expires_at": "2026-08-24T20:00:04+00:00",
     "count": null,
     "count_approx": false
   }
