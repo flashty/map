@@ -1,31 +1,11 @@
 {
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Скадовский район и близлежащие \nОпасность по БПЛА \n\nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-24T17:24:33+00:00",
-    "expires_at": "2026-08-24T18:24:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Семилукский район\nВоронежская область\nРабота ПВО по БПЛА \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-24T17:24:57+00:00",
-    "expires_at": "2026-08-24T18:24:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "От Бердянска и далее на восток, юго-восток ракета, возможно реактивный БПЛА\nЗапорожская область РФ",
+    "type": "drone",
+    "text": "Энергодар и близлежащие \nЗапорожская область РФ \nТревога по БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-24T18:03:30+00:00",
-    "expires_at": "2026-08-24T19:03:30+00:00",
+    "updated_at": "2026-08-24T18:28:16+00:00",
+    "expires_at": "2026-08-24T19:28:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +26,46 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-24T18:11:44+00:00",
     "expires_at": "2026-08-24T19:11:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Елизаветово \nНовоселовское \nВиноградово и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-24T18:30:41+00:00",
+    "expires_at": "2026-08-24T19:30:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Краснодарский край\nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-24T18:24:47+00:00",
+    "expires_at": "2026-08-24T19:24:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Республика Адыгея\nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-24T18:27:46+00:00",
+    "expires_at": "2026-08-24T19:27:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "missile",
+    "text": "Комар Богатырь Великая Новоселка ДНР ракетная опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-24T18:27:12+00:00",
+    "expires_at": "2026-08-24T19:27:12+00:00",
     "count": null,
     "count_approx": false
   }
