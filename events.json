@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_85093",
-    "channel": "vrv_radar",
-    "date": "2026-08-23T06:23:54+00:00",
-    "text": "Воронежская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_85094",
-    "channel": "vrv_radar",
-    "date": "2026-08-23T06:24:09+00:00",
-    "text": "Нижегородская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Нижегородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_85095_Крымский",
-    "channel": "vrv_radar",
-    "date": "2026-08-23T06:24:52+00:00",
-    "text": "Крымский район\nКраснодарский край\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Крымский",
-    "region": "Краснодарский край",
-    "lat": 44.9624541,
-    "lon": 37.896802
-  },
-  {
-    "id": "radarrussiia_89844_Крымский",
-    "channel": "radarrussiia",
-    "date": "2026-08-23T06:25:40+00:00",
-    "text": "Крымский район\nКраснодарский край\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Крымский",
-    "region": "Краснодарский край",
-    "lat": 44.9624541,
-    "lon": 37.896802
-  },
-  {
     "id": "radarrussiia_89845",
     "channel": "radarrussiia",
     "date": "2026-08-23T06:26:55+00:00",
@@ -21996,6 +21952,50 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224407_Нижнегорский",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T07:02:19+00:00",
+    "text": "Трасса Джанкой - Нижнегорский, трасса Джанкой - Симферополь \n\nОт восточнее Джанкой тревога по БПЛА на электротяге",
+    "type": "drone",
+    "location_name": "Нижнегорский",
+    "region": null,
+    "lat": 53.3562241,
+    "lon": 51.1593807
+  },
+  {
+    "id": "kupolrussia_119199_Нижнегорский",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T07:02:30+00:00",
+    "text": "Трасса Джанкой - Нижнегорский, трасса Джанкой - Симферополь \n\nОт восточнее Джанкой тревога по БПЛА на электротяге",
+    "type": "drone",
+    "location_name": "Нижнегорский",
+    "region": null,
+    "lat": 53.3562241,
+    "lon": 51.1593807
+  },
+  {
+    "id": "kupolrussia_119200",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T07:03:13+00:00",
+    "text": "‼️‼️‼️‼️Огромное спасибо Вам за поддержку нашей работы.‼️‼️‼️\n❤️❤️❤️\n\n👇👇👇\nВыразить благодарность администрации канала можно по ссылке, нажав на данный текст или ссылку ниже:\n\nhttps://pay.cloudtips.ru/p/991df385",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224408",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T07:15:39+00:00",
+    "text": "ЛДНР Запорожская область РФ \nАвиационно ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
