@@ -32,10 +32,10 @@
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Донецк Ростовская область, Каменск-Шахтинский и близлежащие опасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-24T16:15:11+00:00",
-    "expires_at": "2026-08-24T17:15:11+00:00",
+    "text": "Ростовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-24T16:16:10+00:00",
+    "expires_at": "2026-08-24T17:16:10+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +46,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-24T16:02:33+00:00",
     "expires_at": "2026-08-24T17:02:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "drone",
+    "text": "Липецкая область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-24T16:28:45+00:00",
+    "expires_at": "2026-08-24T17:28:45+00:00",
     "count": null,
     "count_approx": false
   }
