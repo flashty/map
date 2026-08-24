@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_223932",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T10:14:32+00:00",
-    "text": "Тарханкут \nОленевка и близлежащие \nРеспублика Крым \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_118800",
-    "channel": "kupolrussia",
-    "date": "2026-08-23T10:14:48+00:00",
-    "text": "Тарханкут \nОленевка и близлежащие \nРеспублика Крым\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_89859",
-    "channel": "radarrussiia",
-    "date": "2026-08-23T10:15:29+00:00",
-    "text": "Калужская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223933_Запад",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T10:16:04+00:00",
-    "text": "Запад , северо-запад Крыма опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Запад",
-    "region": null,
-    "lat": 57.8723,
-    "lon": 41.669
-  },
-  {
-    "id": "LPRalarm_223934",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T10:16:20+00:00",
-    "text": "Льгов и близлежащие \nКурская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_118801",
-    "channel": "kupolrussia",
-    "date": "2026-08-23T10:16:24+00:00",
-    "text": "Льгов и близлежащие \nКурская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223935",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T10:16:43+00:00",
-    "text": "От Тарханкута до Севастополя \nС моря тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_118802_Запад",
     "channel": "kupolrussia",
     "date": "2026-08-23T10:16:43+00:00",
@@ -21996,6 +21919,83 @@
     "type": "all_clear",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224503",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T14:47:42+00:00",
+    "text": "Енакиево ДНР Баба Яга",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224504",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T14:49:11+00:00",
+    "text": "Горловка Гурты БПЛА Хорнет в направлении Углегорск, Дебальцево \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119290",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T14:49:19+00:00",
+    "text": "Горловка Гурты БПЛА Хорнет в направлении Углегорск, Дебальцево \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224505",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T14:49:42+00:00",
+    "text": "Славяносербск над трассой Хорнет \nЛНР",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119291",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T14:49:56+00:00",
+    "text": "Славяносербск над трассой Хорнет \nЛНР",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224506",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T14:53:52+00:00",
+    "text": "Алчевск\nЛуганск и близлежащие \nТревога по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119292",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T14:54:07+00:00",
+    "text": "Алчевск\nЛуганск и близлежащие \nЛНР\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
