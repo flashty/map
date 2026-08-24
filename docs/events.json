@@ -1,16 +1,5 @@
 [
   {
-    "id": "LPRalarm_224085",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T19:04:50+00:00",
-    "text": "Бердянск и близлежащие\n\nТревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_85162",
     "channel": "vrv_radar",
     "date": "2026-08-23T19:05:02+00:00",
@@ -21998,5 +21987,16 @@
     "region": "Ростовская область",
     "lat": 49.0249872,
     "lon": 40.2651861
+  },
+  {
+    "id": "LPRalarm_224681",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T22:01:09+00:00",
+    "text": "Генический район\nХерсонская область \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
   }
 ]
