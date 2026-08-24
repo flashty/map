@@ -1,82 +1,5 @@
 [
   {
-    "id": "kupolrussia_118692",
-    "channel": "kupolrussia",
-    "date": "2026-08-23T04:31:36+00:00",
-    "text": "Западные районы Херсонская область РФ опасность по БПЛА с севера и далее на Скадовский район, Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223800",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T04:32:01+00:00",
-    "text": "Тамань и близлежащие \nОпасность по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223801",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T04:33:08+00:00",
-    "text": "Феодосия и близлежащие \nОпасность по БПЛА сохраняется \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223802",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T04:36:25+00:00",
-    "text": "Багерово и далее в направлении Керчь \nФиксация БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223803",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T04:39:44+00:00",
-    "text": "Войково\nБондаренково и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223804",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T04:40:37+00:00",
-    "text": "Туапсе и близлежащие \nОпасность по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_82126",
-    "channel": "locatorru",
-    "date": "2026-08-23T04:42:55+00:00",
-    "text": "Оренбургская область, Республика Башкортостан - отбой опасности по БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Оренбургская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_85079",
     "channel": "vrv_radar",
     "date": "2026-08-23T04:44:25+00:00",
@@ -21998,5 +21921,82 @@
     "region": "Республика Дагестан",
     "lat": 43.050411,
     "lon": 47.293709
+  },
+  {
+    "id": "LPRalarm_224362_Трубчевский",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T03:20:02+00:00",
+    "text": "Трубчевский район в направлении Брасовского района Брянская область опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Трубчевский",
+    "region": "Брянская область",
+    "lat": 52.5867776,
+    "lon": 33.7892267
+  },
+  {
+    "id": "kupolrussia_119163_Трубчевский",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T03:20:08+00:00",
+    "text": "Трубчевский район в направлении Брасовского района Брянская область опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Трубчевский",
+    "region": "Брянская область",
+    "lat": 52.5867776,
+    "lon": 33.7892267
+  },
+  {
+    "id": "kupolrussia_119164",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T03:21:21+00:00",
+    "text": "Астраханская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Астраханская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224363",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T03:21:27+00:00",
+    "text": "Астраханская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Астраханская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224364",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T03:27:32+00:00",
+    "text": "Симферополь, \nТаврическая ТЭС\nГРЭС \nГвардейское и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119165",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T03:27:39+00:00",
+    "text": "Симферополь, \nТаврическая ТЭС\nГРЭС \nГвардейское и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_85290",
+    "channel": "vrv_radar",
+    "date": "2026-08-24T03:28:55+00:00",
+    "text": "Смоленская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
   }
 ]
