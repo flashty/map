@@ -1,126 +1,5 @@
 [
   {
-    "id": "LPRalarm_223821",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T05:37:34+00:00",
-    "text": "Оренбургская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Оренбургская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_85087",
-    "channel": "vrv_radar",
-    "date": "2026-08-23T05:38:23+00:00",
-    "text": "Новороссийск и близлежащие\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории края опасность сохраняется",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223822",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T05:39:48+00:00",
-    "text": "Межводное и близлежащие \nОпасность по реактивным БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_118700",
-    "channel": "kupolrussia",
-    "date": "2026-08-23T05:39:59+00:00",
-    "text": "Межводное и близлежащие \nОпасность по реактивным БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223823",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T05:40:18+00:00",
-    "text": "Раздольненский район \nЧерноморский район \nОпасность по реактивным БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_118701",
-    "channel": "kupolrussia",
-    "date": "2026-08-23T05:40:27+00:00",
-    "text": "Раздольненский район \nЧерноморский район \nОпасность по реактивным БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_85088",
-    "channel": "vrv_radar",
-    "date": "2026-08-23T05:41:35+00:00",
-    "text": "Череповец \nВологодская область \nФиксация БПЛА в вашем направлении от Ярославской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Вологодская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223824",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T05:46:10+00:00",
-    "text": "⚠️ Курская область: ракетная опасность! Если вы находитесь дома, необходимо укрыться в помещениях без окон со сплошными стенами: в коридоре, ванной, кладовой. Если вы находитесь на улице — зайдите в ближайшее здание или подходящее укрытие.",
-    "type": "missile",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_223825",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T05:46:11+00:00",
-    "text": "⚠️ Курская область: ракетная опасность! Если вы находитесь дома, необходимо укрыться в помещениях без окон со сплошными стенами: в коридоре, ванной, кладовой. Если вы находитесь на улице — зайдите в ближайшее здание или подходящее укрытие.",
-    "type": "missile",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_118702",
-    "channel": "kupolrussia",
-    "date": "2026-08-23T05:46:28+00:00",
-    "text": "Курская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_118703",
-    "channel": "kupolrussia",
-    "date": "2026-08-23T05:46:46+00:00",
-    "text": "Калужская область \nТульская область \nМосковская область \nИвановская область \nВладимирская область \nРязанская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_223826",
     "channel": "LPRalarm",
     "date": "2026-08-23T05:46:50+00:00",
@@ -21998,5 +21877,126 @@
     "region": "Курская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_224385",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T06:02:45+00:00",
+    "text": "Светлодарск, Дебальцево и близлежащие возможно БПЛА противника",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119184",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T06:02:50+00:00",
+    "text": "Светлодарск, Дебальцево и близлежащие возможно БПЛА противника",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224386",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T06:03:30+00:00",
+    "text": "Шебекино \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119185_Шебекино",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T06:05:56+00:00",
+    "text": "Шебекино \nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Шебекино",
+    "region": "Белгородская область",
+    "lat": 50.4049335,
+    "lon": 36.8796822
+  },
+  {
+    "id": "LPRalarm_224387",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T06:07:20+00:00",
+    "text": "Курская область: внимание! Отбой ракетной опасности.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119186",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T06:07:36+00:00",
+    "text": "Курская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_89966",
+    "channel": "radarrussiia",
+    "date": "2026-08-24T06:07:58+00:00",
+    "text": "За прошедшую ночь силами противовоздушной обороны было уничтожено 351 БПЛА над территориями Астраханской, Белгородской, Брянской, Курской, Ростовской областей, Краснодарского края, Ставропольского края, Республики Адыгея, Республики Крым и над акваториями Азовского и Черного морей.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Астраханской областей",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224388",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T06:08:38+00:00",
+    "text": "Север Крыма \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119187",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T06:12:42+00:00",
+    "text": "Север Крыма \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224389_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T06:14:41+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_119188_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T06:15:02+00:00",
+    "text": "Белгородский район\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
   }
 ]
