@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_118837_Карьерное",
-    "channel": "kupolrussia",
-    "date": "2026-08-23T11:10:57+00:00",
-    "text": "Суворово, Карьерное, Охотниково, Саки и далее на Гвардейское или Севастополь тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Карьерное",
-    "region": null,
-    "lat": 68.9300124,
-    "lon": 33.087803
-  },
-  {
-    "id": "kupolrussia_118837_Охотниково",
-    "channel": "kupolrussia",
-    "date": "2026-08-23T11:10:57+00:00",
-    "text": "Суворово, Карьерное, Охотниково, Саки и далее на Гвардейское или Севастополь тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Охотниково",
-    "region": null,
-    "lat": 55.9423809,
-    "lon": 72.8017398
-  },
-  {
-    "id": "locatorru_82156",
-    "channel": "locatorru",
-    "date": "2026-08-23T11:11:56+00:00",
-    "text": "Все районы Брянской области - опасность по БПЛА сохраняется. Много летит. \n\nСмоленская область, Калужская область, Орловская область, Тульская область, Московская область - опасность по БПЛА от Брянской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_85117",
-    "channel": "vrv_radar",
-    "date": "2026-08-23T11:12:01+00:00",
-    "text": "Тульская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_223967_Качи",
     "channel": "LPRalarm",
     "date": "2026-08-23T11:12:53+00:00",
@@ -21996,6 +21952,50 @@
     "type": "unknown",
     "location_name": null,
     "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224536",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T18:03:07+00:00",
+    "text": "От Бердянска и далее на восток, юго-восток ракета, возможно реактивный БПЛА\nЗапорожская область РФ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119315",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T18:03:30+00:00",
+    "text": "От Бердянска и далее на восток, юго-восток ракета, возможно реактивный БПЛА\nЗапорожская область РФ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224537",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T18:11:14+00:00",
+    "text": "Курская область  тревога  по МВШ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119316",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T18:11:44+00:00",
+    "text": "Курская область  тревога  по МВШ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }

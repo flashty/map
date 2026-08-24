@@ -21,11 +21,11 @@
   },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Приморский, Приазовский район Запорожская область РФ\nТревога по БПЛА",
+    "type": "missile",
+    "text": "От Бердянска и далее на восток, юго-восток ракета, возможно реактивный БПЛА\nЗапорожская область РФ",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-24T17:21:50+00:00",
-    "expires_at": "2026-08-24T18:21:50+00:00",
+    "updated_at": "2026-08-24T18:03:30+00:00",
+    "expires_at": "2026-08-24T19:03:30+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +36,16 @@
     "channel": "locatorru",
     "updated_at": "2026-08-24T17:46:59+00:00",
     "expires_at": "2026-08-24T18:46:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "alert",
+    "text": "Курская область  тревога  по МВШ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-24T18:11:44+00:00",
+    "expires_at": "2026-08-24T19:11:44+00:00",
     "count": null,
     "count_approx": false
   }
