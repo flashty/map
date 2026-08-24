@@ -11,11 +11,11 @@
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "alert",
-    "text": "Новороссийск и близлежащие \nКраснодарский край \nТревога по Бэк и Фпв",
+    "type": "drone",
+    "text": "Новороссийск\nТуапсе\nГеленджик\nИ близлежащие\nТревога по БПЛА сохраняется\nКраснодарский край",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-24T21:59:13+00:00",
-    "expires_at": "2026-08-24T22:59:13+00:00",
+    "updated_at": "2026-08-24T22:11:30+00:00",
+    "expires_at": "2026-08-24T23:11:30+00:00",
     "count": null,
     "count_approx": false
   },
@@ -63,39 +63,9 @@
     "display_name": "Херсонская область",
     "type": "drone",
     "text": "Генический район\nХерсонская область \nТревога по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-24T22:01:09+00:00",
-    "expires_at": "2026-08-24T23:01:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-24T21:09:50+00:00",
-    "expires_at": "2026-08-24T22:09:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Белгородская область \nВоронежская область \nПриготовиться к массовой волне БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-24T21:06:41+00:00",
-    "expires_at": "2026-08-24T22:06:41+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "missile",
-    "text": "Курская область\nРакетная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-24T21:07:50+00:00",
-    "expires_at": "2026-08-24T22:07:50+00:00",
+    "updated_at": "2026-08-24T22:01:23+00:00",
+    "expires_at": "2026-08-24T23:01:23+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,6 +86,36 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-24T21:46:45+00:00",
     "expires_at": "2026-08-24T22:46:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Смоленская область, Калужская область, Орловская область - опасность по БПЛА от Брянской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-24T22:15:14+00:00",
+    "expires_at": "2026-08-24T23:15:14+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Смоленская область, Калужская область, Орловская область - опасность по БПЛА от Брянской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-24T22:15:14+00:00",
+    "expires_at": "2026-08-24T23:15:14+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Смоленская область, Калужская область, Орловская область - опасность по БПЛА от Брянской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-24T22:15:14+00:00",
+    "expires_at": "2026-08-24T23:15:14+00:00",
     "count": null,
     "count_approx": false
   }
