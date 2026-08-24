@@ -1,27 +1,5 @@
 [
   {
-    "id": "kupolrussia_118804",
-    "channel": "kupolrussia",
-    "date": "2026-08-23T10:21:59+00:00",
-    "text": "Великая Белозерка в направлении Мелитополь очередная группа БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_82152_Навлинский",
-    "channel": "locatorru",
-    "date": "2026-08-23T10:23:25+00:00",
-    "text": "Салтановка, Навлинский район, Брянская область -  ещё пролёт БПЛА в сторону Навля, Локоть. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Навлинский",
-    "region": "Брянская область",
-    "lat": 52.8910027,
-    "lon": 34.4096754
-  },
-  {
     "id": "locatorru_82152_Салтановка",
     "channel": "locatorru",
     "date": "2026-08-23T10:23:25+00:00",
@@ -21996,6 +21974,28 @@
     "type": "unknown",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224509",
+    "channel": "LPRalarm",
+    "date": "2026-08-24T15:32:29+00:00",
+    "text": "Запорожская область РФ, ЛДНР \n\nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119294",
+    "channel": "kupolrussia",
+    "date": "2026-08-24T15:32:48+00:00",
+    "text": "Запорожская область РФ, ЛДНР\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
