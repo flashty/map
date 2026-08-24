@@ -9,26 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Тамбовская область \nОпасность по БПЛА от РСЧС",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-24T15:41:01+00:00",
-    "expires_at": "2026-08-24T16:41:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязанская область \nОпасность по БПЛА от РСЧС \nМы пока не понимаем с чем связано",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-24T15:42:26+00:00",
-    "expires_at": "2026-08-24T16:42:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
@@ -56,6 +36,36 @@
     "channel": "vrv_radar",
     "updated_at": "2026-08-24T16:28:45+00:00",
     "expires_at": "2026-08-24T17:28:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородская область",
+    "type": "drone",
+    "text": "Нижегородская область\nВнимание по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-24T16:33:45+00:00",
+    "expires_at": "2026-08-24T17:33:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "alert",
+    "text": "Район Генгорка тревога по МРШ, возможны сбросы\nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-24T16:39:01+00:00",
+    "expires_at": "2026-08-24T17:39:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежской области",
+    "type": "alert",
+    "text": "Все тыловые регионы на северо-восток от Орловской, Воронежской области опасность по единичным МРШ со сбросами.",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-24T16:39:06+00:00",
+    "expires_at": "2026-08-24T17:39:06+00:00",
     "count": null,
     "count_approx": false
   }
