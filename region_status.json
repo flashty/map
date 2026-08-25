@@ -1,21 +1,11 @@
 {
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калуга\nКалужская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-25T22:49:16+00:00",
-    "expires_at": "2026-08-25T23:49:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "missile",
-    "text": "Ракетная опасность В. Новоселка ДНР, пуски уаб",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-25T22:47:23+00:00",
-    "expires_at": "2026-08-25T23:47:23+00:00",
+    "type": "drone",
+    "text": "Волноваха на Старобешево/Моспино, фиксация БПЛА\nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-25T23:47:19+00:00",
+    "expires_at": "2026-08-26T00:47:19+00:00",
     "count": null,
     "count_approx": false
   },
@@ -152,10 +142,10 @@
   "нижегородск": {
     "display_name": "Нижегородская область",
     "type": "drone",
-    "text": "Вознесенский район\nНижегородская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-25T23:35:56+00:00",
-    "expires_at": "2026-08-26T00:35:56+00:00",
+    "text": "Мулино, Дзержинск, Кстово, Нижний Новгород, Нижегородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-25T23:50:01+00:00",
+    "expires_at": "2026-08-26T00:50:01+00:00",
     "count": null,
     "count_approx": false
   },
