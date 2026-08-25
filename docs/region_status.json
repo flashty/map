@@ -11,31 +11,11 @@
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "alert",
-    "text": "Афипский и близлежащие\nМеры безопасности\nЕще фиксации\nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-25T00:24:53+00:00",
-    "expires_at": "2026-08-25T01:24:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "alert",
-    "text": "Липецкая область\nОпасность по МВШ",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-24T23:33:29+00:00",
-    "expires_at": "2026-08-25T00:33:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "alert",
-    "text": "Орловская область\nОпасность по МВШ",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-24T23:33:55+00:00",
-    "expires_at": "2026-08-25T00:33:55+00:00",
+    "type": "drone",
+    "text": "НПЗ Ильский, НПЗ Афипский, пгт.Северская, Елизаветинская, г.Краснодар и близлежащие, Краснодарский край - опасность по БПЛА сохраняется. Продолжаются фиксации в вашу сторону.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-25T00:45:19+00:00",
+    "expires_at": "2026-08-25T01:45:19+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +66,16 @@
     "channel": "locatorru",
     "updated_at": "2026-08-25T00:11:43+00:00",
     "expires_at": "2026-08-25T01:11:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарско": {
+    "display_name": "Краснодарского края",
+    "type": "drone",
+    "text": "Вся территория Краснодарского края - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-25T00:33:46+00:00",
+    "expires_at": "2026-08-25T01:33:46+00:00",
     "count": null,
     "count_approx": false
   }
