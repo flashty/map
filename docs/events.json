@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_224148",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T20:29:31+00:00",
-    "text": "Ростовская область ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_224149_Суземка",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T20:29:47+00:00",
-    "text": "Суземка\nБрянская область\n\nТревога по БПЛА-матке со сбросами ФПВ",
-    "type": "drone",
-    "location_name": "Суземка",
-    "region": "Брянская область",
-    "lat": 52.316133,
-    "lon": 34.0759496
-  },
-  {
-    "id": "LPRalarm_224150_Матвеев Курган",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T20:29:59+00:00",
-    "text": "Шахты \nНовочеркасск и близлежащие \nРакетная опасность по БПЛА фламинго от Матвеев Курган\nРостовская область",
-    "type": "missile",
-    "location_name": "Матвеев Курган",
-    "region": "Ростовская область",
-    "lat": 47.568459,
-    "lon": 38.861942
-  },
-  {
-    "id": "radarrussiia_89909",
-    "channel": "radarrussiia",
-    "date": "2026-08-23T20:30:00+00:00",
-    "text": "Ростовская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_224151",
     "channel": "LPRalarm",
     "date": "2026-08-23T20:30:12+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224730",
+    "channel": "LPRalarm",
+    "date": "2026-08-25T02:18:49+00:00",
+    "text": "Воронежская область\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119472",
+    "channel": "kupolrussia",
+    "date": "2026-08-25T02:19:17+00:00",
+    "text": "Воронежская область\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_85382",
+    "channel": "vrv_radar",
+    "date": "2026-08-25T02:19:46+00:00",
+    "text": "Воронежская область\nОпасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_90029",
+    "channel": "radarrussiia",
+    "date": "2026-08-25T02:25:04+00:00",
+    "text": "Воронежская область\nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежская область",
     "lat": null,
     "lon": null
   }
