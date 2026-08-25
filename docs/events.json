@@ -1,115 +1,5 @@
 [
   {
-    "id": "vrv_radar_85220_Невинномысск",
-    "channel": "vrv_radar",
-    "date": "2026-08-23T21:54:21+00:00",
-    "text": "Невинномысск\nСтавропольский край\nПродолжается работа ПВО",
-    "type": "unknown",
-    "location_name": "Невинномысск",
-    "region": "Ставропольский край",
-    "lat": 44.6245814,
-    "lon": 41.9475941
-  },
-  {
-    "id": "locatorru_82262",
-    "channel": "locatorru",
-    "date": "2026-08-23T21:55:09+00:00",
-    "text": "Архангельская, Краснодарский край - пролёт БПЛА в сторону Тихорецк.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Архангельская край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_85221_Морозовский",
-    "channel": "vrv_radar",
-    "date": "2026-08-23T21:55:30+00:00",
-    "text": "Морозовский район\nРостовская область\nФиксации БПЛА в вашем направлении",
-    "type": "drone",
-    "location_name": "Морозовский",
-    "region": "Ростовская область",
-    "lat": 49.863052,
-    "lon": 41.393528
-  },
-  {
-    "id": "vrv_radar_85222_Невинномысск",
-    "channel": "vrv_radar",
-    "date": "2026-08-23T21:55:34+00:00",
-    "text": "Невинномысск\nСтавропольский край\nВ вашем направлении ещё фиксации БПЛА",
-    "type": "drone",
-    "location_name": "Невинномысск",
-    "region": "Ставропольский край",
-    "lat": 44.6245814,
-    "lon": 41.9475941
-  },
-  {
-    "id": "LPRalarm_224238",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T21:56:47+00:00",
-    "text": "Краснодарский край, тревога по БПЛА сохраняется, летит много, находится в укрытиях",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_119058",
-    "channel": "kupolrussia",
-    "date": "2026-08-23T21:56:53+00:00",
-    "text": "Краснодарский край, тревога по БПЛА сохраняется, летит много, находится в укрытиях",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_224239",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T21:57:24+00:00",
-    "text": "Джанкой и ближайшие, тревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_119059",
-    "channel": "kupolrussia",
-    "date": "2026-08-23T21:57:29+00:00",
-    "text": "Джанкой и ближайшие, тревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_85223_Донецк",
-    "channel": "vrv_radar",
-    "date": "2026-08-23T21:57:35+00:00",
-    "text": "Донецк\nРостовская область\nСбитие БПЛА\nМеры безопасности",
-    "type": "all_clear",
-    "location_name": "Донецк",
-    "region": "Ростовская область",
-    "lat": 48.3382864,
-    "lon": 39.9509488
-  },
-  {
-    "id": "LPRalarm_224240",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T21:57:39+00:00",
-    "text": "Тарханкут и близлежащие \nТревога по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radar_plus_bpla_13982",
     "channel": "radar_plus_bpla",
     "date": "2026-08-23T21:57:48+00:00",
@@ -21998,5 +21888,115 @@
     "region": "Брянская область",
     "lat": 52.338566,
     "lon": 34.250046
+  },
+  {
+    "id": "LPRalarm_224854",
+    "channel": "LPRalarm",
+    "date": "2026-08-25T15:17:07+00:00",
+    "text": "Трасса Луганск - Алчевск в районе Михайловки опасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119582",
+    "channel": "kupolrussia",
+    "date": "2026-08-25T15:17:17+00:00",
+    "text": "Трасса Луганск - Алчевск в районе Михайловки опасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224855",
+    "channel": "LPRalarm",
+    "date": "2026-08-25T15:18:31+00:00",
+    "text": "Белгород \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119583_Белгород",
+    "channel": "kupolrussia",
+    "date": "2026-08-25T15:18:53+00:00",
+    "text": "Белгород\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Белгород",
+    "region": null,
+    "lat": 50.5955595,
+    "lon": 36.5873394
+  },
+  {
+    "id": "LPRalarm_224856",
+    "channel": "LPRalarm",
+    "date": "2026-08-25T15:21:31+00:00",
+    "text": "Дорога \nОСИПЕНКО - БЕРДЯНСК - ПРИМОРСК  опасность  по БПЛА  \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119584",
+    "channel": "kupolrussia",
+    "date": "2026-08-25T15:21:54+00:00",
+    "text": "Дорога \nОСИПЕНКО - БЕРДЯНСК - ПРИМОРСК \nЗапорожская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224857",
+    "channel": "LPRalarm",
+    "date": "2026-08-25T15:25:59+00:00",
+    "text": "Курахово ДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119585",
+    "channel": "kupolrussia",
+    "date": "2026-08-25T15:26:13+00:00",
+    "text": "Курахово ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224858",
+    "channel": "LPRalarm",
+    "date": "2026-08-25T15:26:16+00:00",
+    "text": "Украинск ДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119586",
+    "channel": "kupolrussia",
+    "date": "2026-08-25T15:26:27+00:00",
+    "text": "Украинск ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
   }
 ]
