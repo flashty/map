@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_85182",
-    "channel": "vrv_radar",
-    "date": "2026-08-23T20:42:52+00:00",
-    "text": "Батайск \nРостовская область\nМеры безопасности",
-    "type": "alert",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_89911_Новошахтинск",
-    "channel": "radarrussiia",
-    "date": "2026-08-23T20:43:13+00:00",
-    "text": "Новошахтинск\nРостовская область\nФиксация 2 БПЛА в вашем направлении\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Новошахтинск",
-    "region": "Ростовская область",
-    "lat": 47.7962698,
-    "lon": 39.8935604
-  },
-  {
     "id": "radarrussiia_89912",
     "channel": "radarrussiia",
     "date": "2026-08-23T20:43:37+00:00",
@@ -21998,5 +21976,27 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14030",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-25T04:57:14+00:00",
+    "text": "Отбой опасности БПЛА по всем ранее объявленным регионам.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224746_Прохоровском",
+    "channel": "LPRalarm",
+    "date": "2026-08-25T04:57:27+00:00",
+    "text": "ОТБОЙ ОПАСНОСТИ АТАКИ БПЛА в Валуйском, Ивнянском, Прохоровском, Ракитянском, Борисовском и Яковлевском  МО",
+    "type": "all_clear",
+    "location_name": "Прохоровском",
+    "region": null,
+    "lat": 51.0194109,
+    "lon": 36.6748742
   }
 ]
