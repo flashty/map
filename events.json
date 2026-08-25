@@ -1,27 +1,5 @@
 [
   {
-    "id": "locatorru_82256_Выселки",
-    "channel": "locatorru",
-    "date": "2026-08-23T21:48:26+00:00",
-    "text": "Выселки, Краснодарский край - ещё пролёт 2 БПЛА в сторону примерно Тихорецк.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Выселки",
-    "region": "Краснодарский край",
-    "lat": 45.5806221,
-    "lon": 39.6574237
-  },
-  {
-    "id": "vrv_radar_85210_Невинномысск",
-    "channel": "vrv_radar",
-    "date": "2026-08-23T21:48:43+00:00",
-    "text": "Невинномысск\nСтавропольский край\nСбитие БПЛА\nМеры безопасности",
-    "type": "all_clear",
-    "location_name": "Невинномысск",
-    "region": "Ставропольский край",
-    "lat": 44.6245814,
-    "lon": 41.9475941
-  },
-  {
     "id": "locatorru_82257_Невинномысск",
     "channel": "locatorru",
     "date": "2026-08-23T21:49:10+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Ростовская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "radarrussiia_90041",
+    "channel": "radarrussiia",
+    "date": "2026-08-25T14:14:40+00:00",
+    "text": "Ростовская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_90042_Белгородский",
+    "channel": "radarrussiia",
+    "date": "2026-08-25T14:14:59+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
   }
 ]
