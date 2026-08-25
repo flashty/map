@@ -1,27 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_13978",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-23T21:40:09+00:00",
-    "text": "⚡️⚡️В одном из районов Краснодара атакован частный сектор. На месте сильный пожар.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_224230",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T21:40:20+00:00",
-    "text": "Счастливцево \nИзобильное и близлежащие \nОпасность по БПЛА с моря \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_119051",
     "channel": "kupolrussia",
     "date": "2026-08-23T21:40:25+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Донецкая область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "locatorru_82427",
+    "channel": "locatorru",
+    "date": "2026-08-25T12:39:46+00:00",
+    "text": "Ростовская область - отбой опасности по БПЛА в ранее объявленных районах. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_82428_Кантемировский",
+    "channel": "locatorru",
+    "date": "2026-08-25T12:41:00+00:00",
+    "text": "Кантемировский район, Воронежская область - отбой внимания по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": "Кантемировский",
+    "region": "Воронежская область",
+    "lat": 49.797172,
+    "lon": 39.7513457
   }
 ]
