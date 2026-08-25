@@ -1,71 +1,5 @@
 [
   {
-    "id": "locatorru_82243_Прикубанский",
-    "channel": "locatorru",
-    "date": "2026-08-23T21:31:05+00:00",
-    "text": "Прикубанский, Красноармейский район, Краснодарский край - пролёты БПЛА в районе р.Кубань в сторону Марьянская, Елизаветинская, Краснодар.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Прикубанский",
-    "region": "Краснодарский край",
-    "lat": 45.0055387,
-    "lon": 41.1750614
-  },
-  {
-    "id": "radar_plus_bpla_13975",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-23T21:31:12+00:00",
-    "text": "Ещё от 10 БПЛА на крупнейший склад \"Ozon\" Краснодара.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_224222",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T21:31:40+00:00",
-    "text": "Белгородская область, единичные фиксации БПЛА от Гг",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_119044",
-    "channel": "kupolrussia",
-    "date": "2026-08-23T21:31:47+00:00",
-    "text": "Белгородская область, единичные фиксации БПЛА от Гг",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_224223",
-    "channel": "LPRalarm",
-    "date": "2026-08-23T21:32:34+00:00",
-    "text": "Новоселовское\nВойково\nКрасногвардейское\nИ близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_119045",
-    "channel": "kupolrussia",
-    "date": "2026-08-23T21:32:39+00:00",
-    "text": "Новоселовское\nВойково\nКрасногвардейское\nИ близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_85199_Шахтинский",
     "channel": "vrv_radar",
     "date": "2026-08-23T21:32:51+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224824",
+    "channel": "LPRalarm",
+    "date": "2026-08-25T10:56:27+00:00",
+    "text": "Пантелеймоновка, Енакиево, Ждановка, Кировское ДНР и близлежащие \n\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119553",
+    "channel": "kupolrussia",
+    "date": "2026-08-25T10:56:36+00:00",
+    "text": "Пантелеймоновка, Енакиево, Ждановка, Кировское ДНР и близлежащие\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224825",
+    "channel": "LPRalarm",
+    "date": "2026-08-25T10:58:48+00:00",
+    "text": "Белая Березка\nОт ГГ Мавик и ФПВ со сбросами \nБрянская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14035",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-25T10:59:14+00:00",
+    "text": "Ростовская область - опасность БПЛА.\n\nЕдиничные фиксации от ЛДНР.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224826",
+    "channel": "LPRalarm",
+    "date": "2026-08-25T10:59:30+00:00",
+    "text": "Республика Крым \nСевастополь \n\nОтбой беспилотной опасности по ранее объявленным. \n\nРежим повышенного внимания сохраняем.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119554",
+    "channel": "kupolrussia",
+    "date": "2026-08-25T10:59:44+00:00",
+    "text": "Республика Крым \nСевастополь \n\nОтбой беспилотной опасности по ранее объявленным. \n\nРежим повышенного внимания сохраняем.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
