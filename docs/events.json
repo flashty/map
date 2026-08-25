@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_85199_Шахтинский",
-    "channel": "vrv_radar",
-    "date": "2026-08-23T21:32:51+00:00",
-    "text": "Каменск-Шахтинский\nРостовская область\nСбитие БПЛА\nМеры безопасности",
-    "type": "all_clear",
-    "location_name": "Шахтинский",
-    "region": "Ростовская область",
-    "lat": 48.3210807,
-    "lon": 40.2650679
-  },
-  {
-    "id": "locatorru_82244",
-    "channel": "locatorru",
-    "date": "2026-08-23T21:33:05+00:00",
-    "text": "Михайловская, Курганинский район, Краснодарский край - пролёт 4 БПЛА в сторону Курганинск, далее на Ставропольский край.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_85200_Тарасовский",
     "channel": "vrv_radar",
     "date": "2026-08-23T21:33:44+00:00",
@@ -21996,6 +21974,28 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_224827",
+    "channel": "LPRalarm",
+    "date": "2026-08-25T11:05:08+00:00",
+    "text": "Горловка опасность БПЛА и ФПВ повторно. Множественные фиксации",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119555",
+    "channel": "kupolrussia",
+    "date": "2026-08-25T11:05:15+00:00",
+    "text": "Горловка опасность БПЛА и ФПВ повторно. Множественные фиксации",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
