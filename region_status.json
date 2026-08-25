@@ -18,5 +18,25 @@
     "expires_at": "2026-08-25T15:53:49+00:00",
     "count": null,
     "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "alert",
+    "text": "Ростовская область\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-25T15:02:27+00:00",
+    "expires_at": "2026-08-25T16:02:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Суземский район, Негино, Невдольск, Подгородняя Слобода\nБрянская область\n\nОпасность по БПЛА Шарк",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-25T15:08:29+00:00",
+    "expires_at": "2026-08-25T16:08:29+00:00",
+    "count": null,
+    "count_approx": false
   }
 }
