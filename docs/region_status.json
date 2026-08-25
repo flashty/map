@@ -1,14 +1,4 @@
 {
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Мелитополь и близлежащие\nТревога по БПЛА сохраняется\nСоблюдайте меры безопасности\nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-25T21:22:25+00:00",
-    "expires_at": "2026-08-25T22:22:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
@@ -17,16 +7,6 @@
     "updated_at": "2026-08-25T21:55:36+00:00",
     "expires_at": "2026-08-25T22:55:36+00:00",
     "count": 2,
-    "count_approx": false
-  },
-  "волгоградск": {
-    "display_name": "Волгоградская область",
-    "type": "drone",
-    "text": "Урюпинский район\nВолгоградская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-25T21:20:52+00:00",
-    "expires_at": "2026-08-25T22:20:52+00:00",
-    "count": null,
     "count_approx": false
   },
   "смоленск": {
@@ -39,33 +19,23 @@
     "count": null,
     "count_approx": false
   },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Чаплыгин, Липецкая область - продолжаются пролёты БПЛА в вашу сторону от Лев-Толстовского района.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-25T22:09:17+00:00",
-    "expires_at": "2026-08-25T23:09:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тамбовск": {
     "display_name": "Тамбовская область",
     "type": "drone",
-    "text": "Котовск\nТамбовская область\nРабота ПВО по БПЛА \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-25T22:14:26+00:00",
-    "expires_at": "2026-08-25T23:14:26+00:00",
+    "text": "Саборово, Дмитриевка, Никифоровский район, Тамбовская область - фиксации БПЛА возможено в сторону Мичуринска. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-25T22:29:18+00:00",
+    "expires_at": "2026-08-25T23:29:18+00:00",
     "count": null,
     "count_approx": false
   },
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
-    "text": "Самойловский район\nСаратовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Екатериновский район\nСаратовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-25T22:07:35+00:00",
-    "expires_at": "2026-08-25T23:07:35+00:00",
+    "updated_at": "2026-08-25T22:27:48+00:00",
+    "expires_at": "2026-08-25T23:27:48+00:00",
     "count": null,
     "count_approx": false
   },
@@ -112,10 +82,10 @@
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Старожиловский район\nРязанская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-25T22:07:59+00:00",
-    "expires_at": "2026-08-25T23:07:59+00:00",
+    "text": "Рязань\nРязанская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-25T22:30:38+00:00",
+    "expires_at": "2026-08-25T23:30:38+00:00",
     "count": null,
     "count_approx": false
   },
@@ -132,10 +102,10 @@
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Орловская область, соблюдаем меры безопасности, тревога по БПЛА сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-25T22:05:54+00:00",
-    "expires_at": "2026-08-25T23:05:54+00:00",
+    "text": "Орел\nОрловская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-25T22:23:35+00:00",
+    "expires_at": "2026-08-25T23:23:35+00:00",
     "count": null,
     "count_approx": false
   },
@@ -152,20 +122,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-25T21:28:42+00:00",
-    "expires_at": "2026-08-25T22:28:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-25T21:28:42+00:00",
-    "expires_at": "2026-08-25T22:28:42+00:00",
+    "text": "Петровская\nСлавянск на Кубани\nИ близлежащие\nТревога по БПЛА\nКраснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-25T22:28:12+00:00",
+    "expires_at": "2026-08-25T23:28:12+00:00",
     "count": null,
     "count_approx": false
   },
@@ -189,16 +149,6 @@
     "count": null,
     "count_approx": false
   },
-  "костромск": {
-    "display_name": "Костромская область",
-    "type": "drone",
-    "text": "Саратовская область\nПензенская область\nВладимирская область\nИвановская область\nКостромская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-25T21:30:10+00:00",
-    "expires_at": "2026-08-25T22:30:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "воронежск": {
     "display_name": "Воронежской области",
     "type": "drone",
@@ -212,10 +162,10 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Новомосковск\nТульская область\nРабота ПВО по БПЛА \nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-25T21:58:28+00:00",
-    "expires_at": "2026-08-25T22:58:28+00:00",
+    "text": "Ефремовский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-25T22:29:42+00:00",
+    "expires_at": "2026-08-25T23:29:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -242,10 +192,10 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "Александровка, Наро-Фоминский район, Московская область - фиксации БПЛА в сторону Одинцово. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-25T22:13:33+00:00",
-    "expires_at": "2026-08-25T23:13:33+00:00",
+    "text": "ГО Чехов\nМосковская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-25T22:27:10+00:00",
+    "expires_at": "2026-08-25T23:27:10+00:00",
     "count": null,
     "count_approx": false
   }
