@@ -1,71 +1,5 @@
 [
   {
-    "id": "radarrussiia_90043",
-    "channel": "radarrussiia",
-    "date": "2026-08-25T17:53:33+00:00",
-    "text": "Север\nРеспублика Крым \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_224903",
-    "channel": "LPRalarm",
-    "date": "2026-08-25T17:53:40+00:00",
-    "text": "Раздольненский район \nЧерноморский район \nОпасность по БПЛА с моря \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_224904",
-    "channel": "LPRalarm",
-    "date": "2026-08-25T17:58:04+00:00",
-    "text": "Приморское\nТарасовка\nРаздольное и близлежащие \nТревога по БПЛА \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_119622",
-    "channel": "kupolrussia",
-    "date": "2026-08-25T17:59:02+00:00",
-    "text": "Приморское\nТарасовка\nРаздольное и близлежащие \nТревога по БПЛА \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_224905_Раздольненский",
-    "channel": "LPRalarm",
-    "date": "2026-08-25T17:59:19+00:00",
-    "text": "Залив Красноперекопск опасность по БПЛА с моря \n\nБереговая линия Раздольненский район с моря и дальше в направлении Симферопольский район, Сакский район, Евпатория \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Раздольненский",
-    "region": null,
-    "lat": 52.5519484,
-    "lon": 79.8417862
-  },
-  {
-    "id": "LPRalarm_224905_Симферопольский",
-    "channel": "LPRalarm",
-    "date": "2026-08-25T17:59:19+00:00",
-    "text": "Залив Красноперекопск опасность по БПЛА с моря \n\nБереговая линия Раздольненский район с моря и дальше в направлении Симферопольский район, Сакский район, Евпатория \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Симферопольский",
-    "region": null,
-    "lat": 55.5762336,
-    "lon": 110.354989
-  },
-  {
     "id": "kupolrussia_119623_Раздольненский",
     "channel": "kupolrussia",
     "date": "2026-08-25T17:59:35+00:00",
@@ -21998,5 +21932,71 @@
     "region": null,
     "lat": 58.0385064,
     "lon": 56.3629087
+  },
+  {
+    "id": "kupolrussia_120080",
+    "channel": "kupolrussia",
+    "date": "2026-08-26T16:47:02+00:00",
+    "text": "Волгоградская область\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_225429",
+    "channel": "LPRalarm",
+    "date": "2026-08-26T16:47:05+00:00",
+    "text": "Волгоградская область\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_225430",
+    "channel": "LPRalarm",
+    "date": "2026-08-26T16:49:01+00:00",
+    "text": "Севастополь \nОпасность по Фпв",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_225431",
+    "channel": "LPRalarm",
+    "date": "2026-08-26T16:49:42+00:00",
+    "text": "Кача\nБельбек и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_120081_Кача",
+    "channel": "kupolrussia",
+    "date": "2026-08-26T16:50:01+00:00",
+    "text": "Кача\nБельбек и близлежащие\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Кача",
+    "region": null,
+    "lat": 56.1972669,
+    "lon": 92.5363666
+  },
+  {
+    "id": "LPRalarm_225432",
+    "channel": "LPRalarm",
+    "date": "2026-08-26T16:50:37+00:00",
+    "text": "Верхнесадовое и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
   }
 ]
