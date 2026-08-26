@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_224774",
-    "channel": "LPRalarm",
-    "date": "2026-08-25T06:32:11+00:00",
-    "text": "Дорога Приморск - Бердянск от Инзовка тревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_224775_Валуйский",
-    "channel": "LPRalarm",
-    "date": "2026-08-25T06:32:17+00:00",
-    "text": "Валуйский район приграничье \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": "Валуйский",
-    "region": null,
-    "lat": 53.1481885,
-    "lon": 36.3185713
-  },
-  {
-    "id": "kupolrussia_119509",
-    "channel": "kupolrussia",
-    "date": "2026-08-25T06:32:29+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_119510_Валуйский",
-    "channel": "kupolrussia",
-    "date": "2026-08-25T06:32:38+00:00",
-    "text": "Валуйский район приграничье \nОпасность по БПЛА Хорнет\nБелгородская область",
-    "type": "drone",
-    "location_name": "Валуйский",
-    "region": "Белгородская область",
-    "lat": 50.1632256,
-    "lon": 37.9638901
-  },
-  {
-    "id": "LPRalarm_224776",
-    "channel": "LPRalarm",
-    "date": "2026-08-25T06:34:05+00:00",
-    "text": "Аэропорт Донецк и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_119511",
-    "channel": "kupolrussia",
-    "date": "2026-08-25T06:34:26+00:00",
-    "text": "Аэропорт Донецк и близлежащие \nДНР\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_224777",
-    "channel": "LPRalarm",
-    "date": "2026-08-25T06:38:18+00:00",
-    "text": "Попасная\nИрмино опасность по БПЛА Хорнет\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_224778_Белгородский",
     "channel": "LPRalarm",
     "date": "2026-08-25T06:41:56+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_225301",
+    "channel": "LPRalarm",
+    "date": "2026-08-26T11:28:18+00:00",
+    "text": "Кременная ракетная опасность \nЛНР",
+    "type": "missile",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_225302",
+    "channel": "LPRalarm",
+    "date": "2026-08-26T11:28:24+00:00",
+    "text": "Кременная и близлежащие ракетная опасность ЛНР",
+    "type": "missile",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119967",
+    "channel": "kupolrussia",
+    "date": "2026-08-26T11:28:41+00:00",
+    "text": "Кременная \nЛНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_225303_Дмг",
+    "channel": "LPRalarm",
+    "date": "2026-08-26T11:29:26+00:00",
+    "text": "Горловка через машзавод в сторону 3б БПЛА Хорнет ❗ Дмг",
+    "type": "drone",
+    "location_name": "Дмг",
+    "region": null,
+    "lat": 55.0390759,
+    "lon": 82.9546979
+  },
+  {
+    "id": "kupolrussia_119968_Дмг",
+    "channel": "kupolrussia",
+    "date": "2026-08-26T11:29:44+00:00",
+    "text": "Горловка через машзавод в сторону 3б БПЛА Хорнет ❗ Дмг",
+    "type": "drone",
+    "location_name": "Дмг",
+    "region": null,
+    "lat": 55.0390759,
+    "lon": 82.9546979
+  },
+  {
+    "id": "LPRalarm_225304",
+    "channel": "LPRalarm",
+    "date": "2026-08-26T11:30:57+00:00",
+    "text": "Горское возможно ракета на восток в направлении Луганск и южнее\nЛНР",
+    "type": "missile",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_119969",
+    "channel": "kupolrussia",
+    "date": "2026-08-26T11:31:01+00:00",
+    "text": "Горское возможно ракета на восток в направлении Луганск и южнее\nЛНР",
+    "type": "missile",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
