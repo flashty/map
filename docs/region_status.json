@@ -1,1 +1,32 @@
-{}
+{
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Молочанск \nТокмак и близлежащие \nОпасность по БПЛА Шарк \nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-26T04:28:34+00:00",
+    "expires_at": "2026-08-26T05:28:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Луганск и близлежащие \nОпасность по БПЛА сохраняется \nЛНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-26T04:27:39+00:00",
+    "expires_at": "2026-08-26T05:27:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Трасса Дебальцево и близлежащие \nВнимание по БПЛА Хорнет.\nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-26T04:27:20+00:00",
+    "expires_at": "2026-08-26T05:27:20+00:00",
+    "count": null,
+    "count_approx": false
+  }
+}
