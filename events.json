@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_119570",
-    "channel": "kupolrussia",
-    "date": "2026-08-25T13:00:19+00:00",
-    "text": "Экстренная информация РСЧС: УГРОЗА ПОВТОРНОЙ АТАКИ БПЛА в Белгородском МО 15:58. Оставайтесь дома, не подходите к окнам или пройдите в укрытие.",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_14036",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-25T13:02:09+00:00",
-    "text": "Ростовская область - отбой опасности БПЛА.\n\nВсе фиксации уничтожены.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_14037",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-25T13:06:50+00:00",
-    "text": "⚡️⚡️Враг планирует крайне массовый запуск БПЛА через ЛДНР в направлении Ростовской области и далее на Волгоградскую область в тыл.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_82430",
-    "channel": "locatorru",
-    "date": "2026-08-25T13:13:26+00:00",
-    "text": "К нам обращаются наши братья из 108 ГДШ за помощью в сборе.\n\nОни остро нуждаются в квадрокоптерах:\nDJI Mavic 3T - 2 шт., DJI Mavic 3 Classic - 2 шт.\n\nDJI Mavic — не прихоть, а критически важное средство разведки, снижающее потери. В бою исправный дрон становится фундаментом для сохранения жизней и успеха наступления.\n\nВаше участие — это реальный шанс дать бойцам обзор с высоты, заблаговременно обнаружить врага и приблизить победу. Поддержка означает спасенные жизни и успешно выполненные задачи. ",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_82432",
-    "channel": "locatorru",
-    "date": "2026-08-25T13:18:39+00:00",
-    "text": "Приграничные районы Брянской области, Курской области, Белгородской области - опасность по БПЛА сохраняется.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_85408",
-    "channel": "vrv_radar",
-    "date": "2026-08-25T13:20:55+00:00",
-    "text": "Ростовская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_90040",
     "channel": "radarrussiia",
     "date": "2026-08-25T13:26:55+00:00",
@@ -21996,6 +21930,72 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_225376_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-08-26T13:32:32+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_120036_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-08-26T13:33:08+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_225377",
+    "channel": "LPRalarm",
+    "date": "2026-08-26T13:33:17+00:00",
+    "text": "Боровское и возможно трасса Рыльск - Льгов опасность по БПЛА.\nКурская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_120037",
+    "channel": "kupolrussia",
+    "date": "2026-08-26T13:33:46+00:00",
+    "text": "Боровское и возможно трасса Рыльск - Льгов опасность по БПЛА.\nКурская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_225378",
+    "channel": "LPRalarm",
+    "date": "2026-08-26T13:38:21+00:00",
+    "text": "Донецк ДНР и близлежащие \nОпасность по БПЛА \nЦентр особенно аккуратно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_120038",
+    "channel": "kupolrussia",
+    "date": "2026-08-26T13:39:05+00:00",
+    "text": "Донецк ДНР и близлежащие \nОпасность по БПЛА \nЦентр особенно аккуратно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
