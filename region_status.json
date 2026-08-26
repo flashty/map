@@ -49,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "бердянск": {
-    "display_name": "Бердянское область",
-    "type": "drone",
-    "text": "Село Бердянское\nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-26T09:21:01+00:00",
-    "expires_at": "2026-08-26T10:21:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -86,6 +76,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-08-26T09:59:15+00:00",
     "expires_at": "2026-08-26T10:59:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Волоконовский район Белгородская область опасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-26T10:21:08+00:00",
+    "expires_at": "2026-08-26T11:21:08+00:00",
     "count": null,
     "count_approx": false
   }
