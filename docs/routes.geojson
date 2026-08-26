@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-08-26T07:29:48+00:00",
-        "last_updated": "2026-08-26T08:07:25+00:00",
-        "path_labels": [
-          "Севастополь",
-          "Валуйский"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.186371,
-            53.456383
-          ],
-          [
-            36.3185713,
-            53.1481885
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
