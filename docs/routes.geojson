@@ -5,6 +5,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-08-26T16:33:35+00:00",
+        "last_updated": "2026-08-26T16:56:32+00:00",
+        "path_labels": [
+          "Ольховатский (Воронежская область)",
+          "Вейделевский (Белгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.2495873,
+            50.3121144
+          ],
+          [
+            38.5862881,
+            50.1834343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-08-26T16:34:45+00:00",
         "last_updated": "2026-08-26T16:34:45+00:00",
         "path_labels": [
