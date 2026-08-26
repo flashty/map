@@ -1,22 +1,22 @@
 {
   "ростовск": {
-    "display_name": "Ростовской области",
+    "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Серафимович и близлежащие, Волгоградская область - опасность по БПЛА от Боковского района, Ростовской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-26T21:53:22+00:00",
-    "expires_at": "2026-08-26T22:53:22+00:00",
+    "text": "Красносулинский район\nМиллеровский район\nРостовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-26T22:51:50+00:00",
+    "expires_at": "2026-08-26T23:51:50+00:00",
     "count": null,
     "count_approx": false
   },
   "волгоградск": {
     "display_name": "Волгоградская область",
     "type": "drone",
-    "text": "Камышинский район\nВолгоградская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Михайловский район\nВолгоградская область\nФиксация Ещё 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-26T22:44:09+00:00",
-    "expires_at": "2026-08-26T23:44:09+00:00",
-    "count": null,
+    "updated_at": "2026-08-26T22:55:45+00:00",
+    "expires_at": "2026-08-26T23:55:45+00:00",
+    "count": 3,
     "count_approx": false
   },
   "воронежск": {
@@ -36,16 +36,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-26T22:30:53+00:00",
     "expires_at": "2026-08-26T23:30:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "самарск": {
-    "display_name": "Самарская область",
-    "type": "drone",
-    "text": "Тольятти, Чапаевск, Нефтегорск, Сызрань, Самара, Новокуйбышевск, Самарская область - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-26T22:02:14+00:00",
-    "expires_at": "2026-08-26T23:02:14+00:00",
     "count": null,
     "count_approx": false
   },
@@ -91,11 +81,11 @@
   },
   "чуваш": {
     "display_name": "Республика Чувашия",
-    "type": "drone",
-    "text": "Республика Чувашия \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-26T22:19:06+00:00",
-    "expires_at": "2026-08-26T23:19:06+00:00",
+    "type": "missile",
+    "text": "Республика Чувашия\nРакетная опасность",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-26T22:54:36+00:00",
+    "expires_at": "2026-08-26T23:54:36+00:00",
     "count": null,
     "count_approx": false
   },
@@ -111,11 +101,11 @@
   },
   "-": {
     "display_name": "Республика -",
-    "type": "drone",
-    "text": "Чувашская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "missile",
+    "text": "Чувашская Республика - ракетная опасность!\n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-08-26T22:20:47+00:00",
-    "expires_at": "2026-08-26T23:20:47+00:00",
+    "updated_at": "2026-08-26T23:00:13+00:00",
+    "expires_at": "2026-08-27T00:00:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -141,12 +131,12 @@
   },
   "саратовск": {
     "display_name": "Саратовская область",
-    "type": "missile",
-    "text": "Саратовская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "text": "Питерский район\nСаратовская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-26T22:42:56+00:00",
-    "expires_at": "2026-08-26T23:42:56+00:00",
-    "count": null,
+    "updated_at": "2026-08-26T22:52:47+00:00",
+    "expires_at": "2026-08-26T23:52:47+00:00",
+    "count": 2,
     "count_approx": false
   },
   "орловск": {
@@ -211,11 +201,71 @@
   },
   "пензенск": {
     "display_name": "Пензенская область",
-    "type": "missile",
-    "text": "Саратовская область, Пензенская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "text": "Неверкинский район\nПензенская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-26T23:01:20+00:00",
+    "expires_at": "2026-08-27T00:01:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Подобино, Сонковский район, Тверская область - возможно фиксация БПЛА.\n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-08-26T22:39:37+00:00",
-    "expires_at": "2026-08-26T23:39:37+00:00",
+    "updated_at": "2026-08-26T22:54:01+00:00",
+    "expires_at": "2026-08-26T23:54:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Навлинский район, Брянская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-26T22:57:55+00:00",
+    "expires_at": "2026-08-26T23:57:55+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "самарск": {
+    "display_name": "Самарская область",
+    "type": "missile",
+    "text": "Самарская область\nРеспублика Марий Эл\nКировская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-26T23:00:36+00:00",
+    "expires_at": "2026-08-27T00:00:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ульяновск": {
+    "display_name": "Ульяновская область",
+    "type": "missile",
+    "text": "Самарская область\nУльяновская область\n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-26T22:59:24+00:00",
+    "expires_at": "2026-08-26T23:59:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "марий": {
+    "display_name": "Республика Марий",
+    "type": "missile",
+    "text": "Самарская область\nРеспублика Марий Эл\nКировская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-26T23:00:36+00:00",
+    "expires_at": "2026-08-27T00:00:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "кировск": {
+    "display_name": "Кировская область",
+    "type": "missile",
+    "text": "Самарская область\nРеспублика Марий Эл\nКировская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-26T23:00:36+00:00",
+    "expires_at": "2026-08-27T00:00:36+00:00",
     "count": null,
     "count_approx": false
   }
