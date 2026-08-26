@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-26T16:34:45+00:00",
+        "last_updated": "2026-08-26T16:34:45+00:00",
+        "path_labels": [
+          "Воронежская область",
+          "Ростовская область"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.31197993693381,
+            50.96086308382576
+          ],
+          [
+            41.33684792465747,
+            47.73608136253729
+          ]
+        ]
+      }
+    }
+  ]
 }
