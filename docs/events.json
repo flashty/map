@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_224864",
-    "channel": "LPRalarm",
-    "date": "2026-08-25T15:47:55+00:00",
-    "text": "Светлодарск и близлежащие сохраняется опасность по БПЛА и ФПВ \n\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_119590",
-    "channel": "kupolrussia",
-    "date": "2026-08-25T15:48:04+00:00",
-    "text": "Светлодарск и близлежащие сохраняется опасность по БПЛА и ФПВ \n\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_224865",
-    "channel": "LPRalarm",
-    "date": "2026-08-25T16:03:52+00:00",
-    "text": "Осипенко и близлежащие \nОпасность по БПЛА Хорнет \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_224866",
-    "channel": "LPRalarm",
-    "date": "2026-08-25T16:06:10+00:00",
-    "text": "Урзуф, Ялта ДНР, Мангуш, Володарское, Мариуполь тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_119591",
     "channel": "kupolrussia",
     "date": "2026-08-25T16:06:20+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_225403_Севастополя",
+    "channel": "LPRalarm",
+    "date": "2026-08-26T15:49:17+00:00",
+    "text": "Еще фиксации БПЛА с моря в направлении Севастополя",
+    "type": "drone",
+    "location_name": "Севастополя",
+    "region": null,
+    "lat": 48.7525209,
+    "lon": 44.538852
+  },
+  {
+    "id": "kupolrussia_120056_Севастополя",
+    "channel": "kupolrussia",
+    "date": "2026-08-26T15:49:28+00:00",
+    "text": "Еще фиксации БПЛА с моря в направлении Севастополя",
+    "type": "drone",
+    "location_name": "Севастополя",
+    "region": null,
+    "lat": 48.7525209,
+    "lon": 44.538852
+  },
+  {
+    "id": "LPRalarm_225404",
+    "channel": "LPRalarm",
+    "date": "2026-08-26T15:57:12+00:00",
+    "text": "Свердловск ЛНР\nМеры безопасности",
+    "type": "alert",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_120057",
+    "channel": "kupolrussia",
+    "date": "2026-08-26T15:57:21+00:00",
+    "text": "Свердловск ЛНР\nМеры безопасности",
+    "type": "alert",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
