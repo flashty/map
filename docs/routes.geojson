@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-08-26T21:35:54+00:00",
-        "last_updated": "2026-08-26T22:10:17+00:00",
-        "path_labels": [
-          "Рохманово (Брянская область)",
-          "Почеп (Брянская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.8823703,
-            52.7501468
-          ],
-          [
-            33.4544207,
-            52.9287784
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
