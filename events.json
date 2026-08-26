@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_119400",
-    "channel": "kupolrussia",
-    "date": "2026-08-24T21:07:50+00:00",
-    "text": "Курская область\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_89998",
-    "channel": "radarrussiia",
-    "date": "2026-08-24T21:08:40+00:00",
-    "text": "Калужская область\nОрловская область\nБрянская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "missile",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_89999",
-    "channel": "radarrussiia",
-    "date": "2026-08-24T21:09:50+00:00",
-    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_90000",
     "channel": "radarrussiia",
     "date": "2026-08-24T21:10:22+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Курская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "locatorru_82551_Кстово",
+    "channel": "locatorru",
+    "date": "2026-08-26T00:36:25+00:00",
+    "text": "Кстово, Нижегородская область - продолжаются фиксации БПЛА в вашу сторону. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Кстово",
+    "region": "Нижегородская область",
+    "lat": 56.149551,
+    "lon": 44.198032
+  },
+  {
+    "id": "vrv_radar_85624_Кстово",
+    "channel": "vrv_radar",
+    "date": "2026-08-26T00:37:30+00:00",
+    "text": "Кстово\nНижегородская область\nПродолжаются фиксации БПЛА",
+    "type": "drone",
+    "location_name": "Кстово",
+    "region": "Нижегородская область",
+    "lat": 56.149551,
+    "lon": 44.198032
+  },
+  {
+    "id": "radarrussiia_90176_Кстово",
+    "channel": "radarrussiia",
+    "date": "2026-08-26T00:38:12+00:00",
+    "text": "Кстово\nНижегородская область\nПродолжаются фиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Кстово",
+    "region": "Нижегородская область",
+    "lat": 56.149551,
+    "lon": 44.198032
   }
 ]
