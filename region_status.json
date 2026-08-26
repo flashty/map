@@ -1,21 +1,11 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "От Бугаса в сторону Волновахи, над трассой\nДНР\nТревога по БПЛА, в т.ч. на электротяге",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-26T15:29:48+00:00",
-    "expires_at": "2026-08-26T16:29:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Север ЛНР \nТревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-26T16:04:03+00:00",
-    "expires_at": "2026-08-26T17:04:03+00:00",
+    "text": "Свыше 30 БПЛА над ЛНР в направлении Воронежской и Ростовской областей.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-26T16:22:41+00:00",
+    "expires_at": "2026-08-26T17:22:41+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,6 +16,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-26T16:02:15+00:00",
     "expires_at": "2026-08-26T17:02:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Витино, Штормовое, Молочное, Уютное, Заозёрное, Евпатория \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-26T16:23:52+00:00",
+    "expires_at": "2026-08-26T17:23:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовской областей",
+    "type": "drone",
+    "text": "Свыше 30 БПЛА над ЛНР в направлении Воронежской и Ростовской областей.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-26T16:22:41+00:00",
+    "expires_at": "2026-08-26T17:22:41+00:00",
     "count": null,
     "count_approx": false
   }
