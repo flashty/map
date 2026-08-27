@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "missile",
-    "text": "ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-27T07:00:28+00:00",
-    "expires_at": "2026-08-27T08:00:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "missile",
@@ -36,6 +26,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-27T07:00:01+00:00",
     "expires_at": "2026-08-27T08:00:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Скадовский район \nСкадовск и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-27T07:14:20+00:00",
+    "expires_at": "2026-08-27T08:14:20+00:00",
     "count": null,
     "count_approx": false
   }

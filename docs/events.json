@@ -1,82 +1,5 @@
 [
   {
-    "id": "vrv_radar_85644",
-    "channel": "vrv_radar",
-    "date": "2026-08-26T03:04:13+00:00",
-    "text": "Краснодарский край \nРеспублика Адыгея \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_225137_Шебекинский",
-    "channel": "LPRalarm",
-    "date": "2026-08-26T03:37:22+00:00",
-    "text": "Шебекинский район \nДоброе Дмитриевка \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "LPRalarm_225138_Шебекинский",
-    "channel": "LPRalarm",
-    "date": "2026-08-26T03:42:19+00:00",
-    "text": "Вознесеновка и близлежащие \nШебекинский район\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "vrv_radar_85645",
-    "channel": "vrv_radar",
-    "date": "2026-08-26T03:45:28+00:00",
-    "text": "Республика Чувашия\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Чувашия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_85646",
-    "channel": "vrv_radar",
-    "date": "2026-08-26T03:45:53+00:00",
-    "text": "Республика Марий Эл \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Марий",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_119825",
-    "channel": "kupolrussia",
-    "date": "2026-08-26T03:48:18+00:00",
-    "text": "Республика Чувашия \nРеспублика Марий Эл",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Республика Чувашия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_225139",
-    "channel": "LPRalarm",
-    "date": "2026-08-26T03:48:21+00:00",
-    "text": "Республика Чувашия \nРеспублика Марий Эл",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Республика Чувашия",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_119826",
     "channel": "kupolrussia",
     "date": "2026-08-26T03:49:19+00:00",
@@ -21996,6 +21919,83 @@
     "type": "missile",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_225740_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-08-27T07:02:50+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_120354",
+    "channel": "kupolrussia",
+    "date": "2026-08-27T07:04:25+00:00",
+    "text": "‼️‼️‼️‼️Огромное спасибо Вам за поддержку нашей работы.‼️‼️‼️\n❤️❤️❤️\n\n👇👇👇\nВыразить благодарность администрации канала можно по ссылке, нажав на данный текст или ссылку ниже:\n\nhttps://pay.cloudtips.ru/p/991df385",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_120355_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-08-27T07:04:40+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_225741",
+    "channel": "LPRalarm",
+    "date": "2026-08-27T07:13:08+00:00",
+    "text": "ДНР отбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_120356",
+    "channel": "kupolrussia",
+    "date": "2026-08-27T07:13:27+00:00",
+    "text": "ДНР отбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_225742",
+    "channel": "LPRalarm",
+    "date": "2026-08-27T07:14:04+00:00",
+    "text": "Скадовский район \nСкадовск и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_120357",
+    "channel": "kupolrussia",
+    "date": "2026-08-27T07:14:20+00:00",
+    "text": "Скадовский район \nСкадовск и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
     "lat": null,
     "lon": null
   }
