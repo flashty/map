@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_225227",
-    "channel": "LPRalarm",
-    "date": "2026-08-26T08:18:26+00:00",
-    "text": "Экстренная информация РСЧС: ОТБОЙ РАКЕТНОЙ ОПАСНОСТИ в Борисовском, Краснояружском, Ракитянском, Грайворонском МО 11:17.",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_119904",
-    "channel": "kupolrussia",
-    "date": "2026-08-26T08:18:27+00:00",
-    "text": "Экстренная информация РСЧС: ОТБОЙ РАКЕТНОЙ ОПАСНОСТИ в Борисовском, Краснояружском, Ракитянском, Грайворонском МО 11:17.",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_225228",
-    "channel": "LPRalarm",
-    "date": "2026-08-26T08:22:01+00:00",
-    "text": "Черниговский район \nБердянский район и близлежащие \nОпасность по БПЛА \n\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_119905",
-    "channel": "kupolrussia",
-    "date": "2026-08-26T08:24:35+00:00",
-    "text": "Черниговский район \nБердянский район и близлежащие \nЗапорожская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_225229_Рыльского",
-    "channel": "LPRalarm",
-    "date": "2026-08-26T08:30:27+00:00",
-    "text": "Отбой ракетной опасности на Крупецкую зону Рыльского района\nКурская область",
-    "type": "all_clear",
-    "location_name": "Рыльского",
-    "region": "Курская область",
-    "lat": 51.571806,
-    "lon": 34.6837903
-  },
-  {
-    "id": "kupolrussia_119906_Рыльского",
-    "channel": "kupolrussia",
-    "date": "2026-08-26T08:30:47+00:00",
-    "text": "на Крупецкую зону Рыльского района\nКурская область",
-    "type": "unknown",
-    "location_name": "Рыльского",
-    "region": "Курская область",
-    "lat": 51.571806,
-    "lon": 34.6837903
-  },
-  {
     "id": "LPRalarm_225230",
     "channel": "LPRalarm",
     "date": "2026-08-26T08:34:06+00:00",
@@ -21998,5 +21932,71 @@
     "region": null,
     "lat": 55.5679956,
     "lon": 37.5425998
+  },
+  {
+    "id": "LPRalarm_225831",
+    "channel": "LPRalarm",
+    "date": "2026-08-27T11:02:54+00:00",
+    "text": "Филия\n\nКомар\n\nБогатырь\nУаб\nДНР",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_225832",
+    "channel": "LPRalarm",
+    "date": "2026-08-27T11:02:57+00:00",
+    "text": "Филия, Богатырь, Комар ДНР УАБы",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_120437",
+    "channel": "kupolrussia",
+    "date": "2026-08-27T11:03:02+00:00",
+    "text": "Филия, Богатырь, Комар ДНР УАБы",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_225833",
+    "channel": "LPRalarm",
+    "date": "2026-08-27T11:03:46+00:00",
+    "text": "Новоселовка ДНР УАБ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_120438",
+    "channel": "kupolrussia",
+    "date": "2026-08-27T11:04:17+00:00",
+    "text": "Новоселовка ДНР УАБ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_225834",
+    "channel": "LPRalarm",
+    "date": "2026-08-27T11:05:08+00:00",
+    "text": "Филия, Богатырь, Комар ДНР УАБы повторно",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
   }
 ]
