@@ -1,14 +1,4 @@
 {
-  "мордов": {
-    "display_name": "Республика Мордовия",
-    "type": "missile",
-    "text": "Республика Татарстан\nРеспублика Мордовия\nЧувашская Республика\n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-26T23:09:53+00:00",
-    "expires_at": "2026-08-27T00:09:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "-": {
     "display_name": "Республика -",
     "type": "missile",
@@ -19,33 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "саратовск": {
-    "display_name": "Саратовская область",
-    "type": "drone",
-    "text": "Советский район\nФёдоровский район\nСаратовская область\nФиксация группы БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-26T23:52:02+00:00",
-    "expires_at": "2026-08-27T00:52:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
-    "type": "alert",
-    "text": "Белгородская область\nКурская область\nБрянская область\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-26T23:32:52+00:00",
-    "expires_at": "2026-08-27T00:32:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "самарск": {
-    "display_name": "Самарская область",
-    "type": "missile",
-    "text": "Ульяновская область\nСамарская область\nРеспублика Марий Эл\nКировская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-26T23:16:06+00:00",
-    "expires_at": "2026-08-27T00:16:06+00:00",
+    "type": "drone",
+    "text": "Жуковка, Брянская область - пролёт БПЛА в сторону Калужской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-27T00:09:20+00:00",
+    "expires_at": "2026-08-27T01:09:20+00:00",
     "count": null,
     "count_approx": false
   },
@@ -159,13 +129,23 @@
     "count": null,
     "count_approx": false
   },
-  "ульяновск": {
-    "display_name": "Ульяновская область",
+  "калужск": {
+    "display_name": "Калужской области",
     "type": "drone",
-    "text": "Николаевский район\nУльяновская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-26T23:53:03+00:00",
-    "expires_at": "2026-08-27T00:53:03+00:00",
+    "text": "Жуковка, Брянская область - пролёт БПЛА в сторону Калужской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-27T00:09:20+00:00",
+    "expires_at": "2026-08-27T01:09:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "саратовск": {
+    "display_name": "Саратовская область",
+    "type": "drone",
+    "text": "Саратовская область\nВНИМАНИЕ!!\n\\ (> ОБЪЯВЛЕН\nг © \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-27T00:15:39+00:00",
+    "expires_at": "2026-08-27T01:15:39+00:00",
     "count": null,
     "count_approx": false
   }
