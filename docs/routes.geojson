@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-08-27T03:44:46+00:00",
-        "last_updated": "2026-08-27T04:57:10+00:00",
-        "path_labels": [
-          "Салават (Республика Башкортостан)",
-          "Стерлитамак (Республика Башкортостан)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.924641,
-            53.361687
-          ],
-          [
-            55.9616172,
-            53.6194416
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
