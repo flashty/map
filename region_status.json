@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "харьковск": {
-    "display_name": "Харьковская область",
-    "type": "missile",
-    "text": "Курская область и близлежащие, Харьковская область РФ, ЛДНР, Запорожская область РФ \nАвиационная ракетная бомбовая опасность повторно \n\nВозможны пуски Штормов",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-27T09:30:15+00:00",
-    "expires_at": "2026-08-27T10:30:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "missile",
@@ -46,16 +36,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-27T09:50:44+00:00",
     "expires_at": "2026-08-27T10:50:44+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "missile",
-    "text": "Ростовская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-27T10:03:25+00:00",
-    "expires_at": "2026-08-27T11:03:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +66,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-27T10:23:25+00:00",
     "expires_at": "2026-08-27T11:23:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Черноморский район и близлежащие \nОпасность по реактивным БПЛА \nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-27T10:30:38+00:00",
+    "expires_at": "2026-08-27T11:30:38+00:00",
     "count": null,
     "count_approx": false
   }
