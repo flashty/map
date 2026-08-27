@@ -1,4 +1,35 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-27T10:25:11+00:00",
+        "last_updated": "2026-08-27T11:00:07+00:00",
+        "path_labels": [
+          "Осипенко",
+          "Заозёрное",
+          "Осипенко"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.1195489,
+            54.400865
+          ],
+          [
+            21.830517,
+            54.360722
+          ],
+          [
+            22.1195489,
+            54.400865
+          ]
+        ]
+      }
+    }
+  ]
 }
