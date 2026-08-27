@@ -58,5 +58,35 @@
     "expires_at": "2026-08-27T11:03:25+00:00",
     "count": null,
     "count_approx": false
+  },
+  "краснодарско": {
+    "display_name": "Краснодарского края",
+    "type": "drone",
+    "text": "Трасса Бердянск - Приазовское тревога по БПЛА в районе Бановка \n\nВозможно с выходом в Азовское море на Приазовье Краснодарского края",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-27T10:28:00+00:00",
+    "expires_at": "2026-08-27T11:28:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Краснодарский край \nРеспублика Адыгея \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-27T10:22:48+00:00",
+    "expires_at": "2026-08-27T11:22:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Республика Адыгея \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-27T10:23:25+00:00",
+    "expires_at": "2026-08-27T11:23:25+00:00",
+    "count": null,
+    "count_approx": false
   }
 }
