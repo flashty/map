@@ -1,71 +1,5 @@
 [
   {
-    "id": "locatorru_82540_Платоновка",
-    "channel": "locatorru",
-    "date": "2026-08-25T23:43:21+00:00",
-    "text": "Рассказово, Платоновка, Тамбовская область - меры безопасности при БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Платоновка",
-    "region": "Тамбовская область",
-    "lat": 52.71994,
-    "lon": 41.969486
-  },
-  {
-    "id": "LPRalarm_225119",
-    "channel": "LPRalarm",
-    "date": "2026-08-25T23:47:10+00:00",
-    "text": "Волноваха на Старобешево/Моспино, фиксация БПЛА\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_119806",
-    "channel": "kupolrussia",
-    "date": "2026-08-25T23:47:19+00:00",
-    "text": "Волноваха на Старобешево/Моспино, фиксация БПЛА\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_82541_Мулино",
-    "channel": "locatorru",
-    "date": "2026-08-25T23:50:01+00:00",
-    "text": "Мулино, Дзержинск, Кстово, Нижний Новгород, Нижегородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Мулино",
-    "region": "Нижегородская область",
-    "lat": 56.314163,
-    "lon": 42.951706
-  },
-  {
-    "id": "locatorru_82541_Дзержинск",
-    "channel": "locatorru",
-    "date": "2026-08-25T23:50:01+00:00",
-    "text": "Мулино, Дзержинск, Кстово, Нижний Новгород, Нижегородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Дзержинск",
-    "region": "Нижегородская область",
-    "lat": 56.2382157,
-    "lon": 43.4617405
-  },
-  {
-    "id": "locatorru_82541_Кстово",
-    "channel": "locatorru",
-    "date": "2026-08-25T23:50:01+00:00",
-    "text": "Мулино, Дзержинск, Кстово, Нижний Новгород, Нижегородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Кстово",
-    "region": "Нижегородская область",
-    "lat": 56.149551,
-    "lon": 44.198032
-  },
-  {
     "id": "locatorru_82541_Нижний Новгород",
     "channel": "locatorru",
     "date": "2026-08-25T23:50:01+00:00",
@@ -21996,6 +21930,72 @@
     "type": "all_clear",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_82715",
+    "channel": "locatorru",
+    "date": "2026-08-27T02:17:28+00:00",
+    "text": "Кировская область - отбой ракетной опасности! \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Кировская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_90311",
+    "channel": "radarrussiia",
+    "date": "2026-08-27T02:19:27+00:00",
+    "text": "Кировская область\nОтбой ракетной опасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Кировская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_225700_Ейский",
+    "channel": "LPRalarm",
+    "date": "2026-08-27T02:25:25+00:00",
+    "text": "Камышеватская\nЕйский район\nТревога по БпЛА",
+    "type": "drone",
+    "location_name": "Ейский",
+    "region": null,
+    "lat": 49.478161,
+    "lon": 41.492428
+  },
+  {
+    "id": "kupolrussia_120320_Ейский",
+    "channel": "kupolrussia",
+    "date": "2026-08-27T02:25:29+00:00",
+    "text": "Камышеватская\nЕйский район\nТревога по БпЛА",
+    "type": "drone",
+    "location_name": "Ейский",
+    "region": null,
+    "lat": 49.478161,
+    "lon": 41.492428
+  },
+  {
+    "id": "vrv_radar_85806",
+    "channel": "vrv_radar",
+    "date": "2026-08-27T02:27:23+00:00",
+    "text": "Салават \nРеспублика Башкортостан \nРабота ПВО по БПЛА \nМеры безопасности",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_90312",
+    "channel": "radarrussiia",
+    "date": "2026-08-27T02:27:38+00:00",
+    "text": "Салават \nРеспублика Башкортостан \nРабота ПВО по БПЛА \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Башкортостан",
     "lat": null,
     "lon": null
   }
