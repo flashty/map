@@ -1,14 +1,4 @@
 {
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-27T08:21:57+00:00",
-    "expires_at": "2026-08-27T09:21:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "missile",
@@ -32,10 +22,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Погарский район и близлежащие \nТревога по реактивным БПЛА \nБрянская область",
+    "text": "Брянская область \nОпасность по БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-27T08:28:55+00:00",
-    "expires_at": "2026-08-27T09:28:55+00:00",
+    "updated_at": "2026-08-27T08:45:03+00:00",
+    "expires_at": "2026-08-27T09:45:03+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,16 +36,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-27T07:53:08+00:00",
     "expires_at": "2026-08-27T08:53:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Причерноморье Краснодарский край \nВозможно группа БПЛА в обход Крыма",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-27T08:15:03+00:00",
-    "expires_at": "2026-08-27T09:15:03+00:00",
     "count": null,
     "count_approx": false
   },
@@ -101,11 +81,11 @@
   },
   "орловск": {
     "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Орловская область \nОпасность по БПЛА",
+    "type": "alert",
+    "text": "Болховский район \nОрловская область \nМеры безопасности",
     "channel": "vrv_radar",
-    "updated_at": "2026-08-27T08:16:15+00:00",
-    "expires_at": "2026-08-27T09:16:15+00:00",
+    "updated_at": "2026-08-27T08:43:53+00:00",
+    "expires_at": "2026-08-27T09:43:53+00:00",
     "count": null,
     "count_approx": false
   },
@@ -136,6 +116,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-27T08:28:09+00:00",
     "expires_at": "2026-08-27T09:28:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "missile",
+    "text": "Токмакский район \nТокмак и близлежащие \nРакетная опасность \nПовторно \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-27T08:44:58+00:00",
+    "expires_at": "2026-08-27T09:44:58+00:00",
     "count": null,
     "count_approx": false
   }
