@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-26T23:09:56+00:00",
+        "last_updated": "2026-08-26T23:53:03+00:00",
+        "path_labels": [
+          "Новоспасский (Ульяновская область)",
+          "Николаевский (Ульяновская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.863499,
+            53.1683625
+          ],
+          [
+            47.2565168,
+            53.1039795
+          ]
+        ]
+      }
+    }
+  ]
 }
