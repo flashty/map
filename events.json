@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_225796_Рыльск",
-    "channel": "LPRalarm",
-    "date": "2026-08-27T09:38:01+00:00",
-    "text": "Рыльск, Пригородная Слободка опасность по БПЛА\n\nКурская область",
-    "type": "drone",
-    "location_name": "Рыльск",
-    "region": "Курская область",
-    "lat": 51.570538,
-    "lon": 34.683506
-  },
-  {
-    "id": "LPRalarm_225797_Луганск",
-    "channel": "LPRalarm",
-    "date": "2026-08-27T09:38:04+00:00",
-    "text": "Северодонецк и близлежащие и далее на Луганск, Каменск-Шахтинский и близлежащие \n\nРакетная тревога",
-    "type": "missile",
-    "location_name": "Луганск",
-    "region": null,
-    "lat": 53.622169,
-    "lon": 77.599037
-  },
-  {
-    "id": "kupolrussia_120404_Рыльск",
-    "channel": "kupolrussia",
-    "date": "2026-08-27T09:38:05+00:00",
-    "text": "Рыльск, Пригородная Слободка опасность по БПЛА\n\nКурская область",
-    "type": "drone",
-    "location_name": "Рыльск",
-    "region": "Курская область",
-    "lat": 51.570538,
-    "lon": 34.683506
-  },
-  {
     "id": "kupolrussia_120405_Рыльск",
     "channel": "kupolrussia",
     "date": "2026-08-27T09:38:13+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226302",
+    "channel": "LPRalarm",
+    "date": "2026-08-28T11:36:16+00:00",
+    "text": "Запорожская область РФ \nЛДНР \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14123",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-28T11:36:25+00:00",
+    "text": "Массовые сбития БПЛА над Тульской и Московской областями.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_120825",
+    "channel": "kupolrussia",
+    "date": "2026-08-28T11:36:46+00:00",
+    "text": "Запорожская область РФ \nЛДНР\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
