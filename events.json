@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_225801",
-    "channel": "LPRalarm",
-    "date": "2026-08-27T09:46:19+00:00",
-    "text": "Донецк ДНР \nРакетная опасность \nВ укрытие",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_225802",
-    "channel": "LPRalarm",
-    "date": "2026-08-27T09:46:21+00:00",
-    "text": "Ещё на Донецк крылатые ракеты. От 3-х",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_120409",
-    "channel": "kupolrussia",
-    "date": "2026-08-27T09:46:26+00:00",
-    "text": "Ещё на Донецк крылатые ракеты. От 3-х",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_225803",
-    "channel": "LPRalarm",
-    "date": "2026-08-27T09:47:27+00:00",
-    "text": "ЛДНР ракетная опасность повторно",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_120410",
     "channel": "kupolrussia",
     "date": "2026-08-27T09:47:42+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Тульская область",
     "lat": 54.5028103,
     "lon": 37.0667213
+  },
+  {
+    "id": "LPRalarm_226306",
+    "channel": "LPRalarm",
+    "date": "2026-08-28T12:13:48+00:00",
+    "text": "Донецк опасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_86104_Тула",
+    "channel": "vrv_radar",
+    "date": "2026-08-28T12:13:53+00:00",
+    "text": "Тула\nТульская область \nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": "Тула",
+    "region": "Тульская область",
+    "lat": 54.1930321,
+    "lon": 37.61754
+  },
+  {
+    "id": "kupolrussia_120828",
+    "channel": "kupolrussia",
+    "date": "2026-08-28T12:13:58+00:00",
+    "text": "Донецк опасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14124",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-28T12:14:42+00:00",
+    "text": "Тула - сбитие БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
