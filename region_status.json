@@ -2,40 +2,30 @@
   "владимирск": {
     "display_name": "Владимирская область",
     "type": "drone",
-    "text": "Бабаево, Собинский район, Владимирская область - пролёт БПЛА в сторону Александрова, и далее на Ярославль.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-28T04:50:15+00:00",
-    "expires_at": "2026-08-28T05:50:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "костромск": {
-    "display_name": "Костромской области",
-    "type": "drone",
-    "text": "Со стороны Нерехта, Костромской области ещё заходят БПЛА в сторону Ярославля. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-28T04:36:09+00:00",
-    "expires_at": "2026-08-28T05:36:09+00:00",
+    "text": "Юрьев-Польский район \nВладимирская область \nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-28T05:38:59+00:00",
+    "expires_at": "2026-08-28T06:38:59+00:00",
     "count": null,
     "count_approx": false
   },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Вся трасса Р-280\nОпасность по БПЛА хорнет \nЗапорожская область РФ",
+    "type": "missile",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-28T05:28:49+00:00",
-    "expires_at": "2026-08-28T06:28:49+00:00",
+    "updated_at": "2026-08-28T05:39:36+00:00",
+    "expires_at": "2026-08-28T06:39:36+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Алексин \nТульская область \nРабота ПВО по БПЛА",
+    "text": "Заокский район \nТульская область \nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-08-28T04:50:58+00:00",
-    "expires_at": "2026-08-28T05:50:58+00:00",
+    "updated_at": "2026-08-28T05:37:58+00:00",
+    "expires_at": "2026-08-28T06:37:58+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +76,56 @@
     "channel": "vrv_radar",
     "updated_at": "2026-08-28T05:19:35+00:00",
     "expires_at": "2026-08-28T06:19:35+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Домодедово \nМосковская область \nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-28T05:40:01+00:00",
+    "expires_at": "2026-08-28T06:40:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Погарский район и далее в тыл\nБрянская область\n\nТревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-28T05:33:17+00:00",
+    "expires_at": "2026-08-28T06:33:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Шебекино \nТревога по БПЛА\nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-28T05:33:32+00:00",
+    "expires_at": "2026-08-28T06:33:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Знаменский район \nБолховский район \nОрловская область \nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-28T05:36:53+00:00",
+    "expires_at": "2026-08-28T06:36:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Козельский район \nКалужская область \nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-28T05:37:33+00:00",
+    "expires_at": "2026-08-28T06:37:33+00:00",
     "count": null,
     "count_approx": false
   }
