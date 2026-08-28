@@ -1,115 +1,5 @@
 [
   {
-    "id": "vrv_radar_85790",
-    "channel": "vrv_radar",
-    "date": "2026-08-27T00:48:01+00:00",
-    "text": "Салават \nРеспублика Башкортостан \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Башкортостан",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_90294",
-    "channel": "radarrussiia",
-    "date": "2026-08-27T00:48:28+00:00",
-    "text": "Салават \nРеспублика Башкортостан \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Башкортостан",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_82703",
-    "channel": "locatorru",
-    "date": "2026-08-27T00:48:54+00:00",
-    "text": "Оренбургская область - опасность по БПЛА действует на всей территории. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Оренбургская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_90295",
-    "channel": "radarrussiia",
-    "date": "2026-08-27T00:48:54+00:00",
-    "text": "Орёл и близлежащие\nТревога по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_85791_Первомайский",
-    "channel": "vrv_radar",
-    "date": "2026-08-27T00:56:20+00:00",
-    "text": "Первомайский район\nОренбургская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Первомайский",
-    "region": "Оренбургская область",
-    "lat": 51.538193,
-    "lon": 54.998062
-  },
-  {
-    "id": "radarrussiia_90296_Первомайский",
-    "channel": "radarrussiia",
-    "date": "2026-08-27T00:56:36+00:00",
-    "text": "Первомайский район\nОренбургская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Первомайский",
-    "region": "Оренбургская область",
-    "lat": 51.538193,
-    "lon": 54.998062
-  },
-  {
-    "id": "vrv_radar_85792_Шарлыкский",
-    "channel": "vrv_radar",
-    "date": "2026-08-27T00:57:14+00:00",
-    "text": "Шарлыкский район\nОренбургская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Шарлыкский",
-    "region": "Оренбургская область",
-    "lat": 52.9499097,
-    "lon": 54.7219481
-  },
-  {
-    "id": "radarrussiia_90297_Шарлыкский",
-    "channel": "radarrussiia",
-    "date": "2026-08-27T00:57:29+00:00",
-    "text": "Шарлыкский район\nОренбургская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Шарлыкский",
-    "region": "Оренбургская область",
-    "lat": 52.9499097,
-    "lon": 54.7219481
-  },
-  {
-    "id": "vrv_radar_85793_Хворостянский",
-    "channel": "vrv_radar",
-    "date": "2026-08-27T00:57:55+00:00",
-    "text": "Хворостянский район\nСамарская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Хворостянский",
-    "region": "Самарская область",
-    "lat": 52.640107,
-    "lon": 49.0346908
-  },
-  {
-    "id": "radarrussiia_90298_Хворостянский",
-    "channel": "radarrussiia",
-    "date": "2026-08-27T00:58:22+00:00",
-    "text": "Хворостянский район\nСамарская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Хворостянский",
-    "region": "Самарская область",
-    "lat": 52.640107,
-    "lon": 49.0346908
-  },
-  {
     "id": "vrv_radar_85794",
     "channel": "vrv_radar",
     "date": "2026-08-27T00:58:49+00:00",
@@ -21996,6 +21886,116 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Кировская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_120736_Родниковский",
+    "channel": "kupolrussia",
+    "date": "2026-08-28T03:20:47+00:00",
+    "text": "Родниковский район\nИвановская область\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Родниковский",
+    "region": "Ивановская область",
+    "lat": 57.098793,
+    "lon": 41.7035781
+  },
+  {
+    "id": "LPRalarm_226205_Родниковский",
+    "channel": "LPRalarm",
+    "date": "2026-08-28T03:20:53+00:00",
+    "text": "Родниковский район\nИвановская область\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Родниковский",
+    "region": "Ивановская область",
+    "lat": 57.098793,
+    "lon": 41.7035781
+  },
+  {
+    "id": "vrv_radar_86040_Родниковский",
+    "channel": "vrv_radar",
+    "date": "2026-08-28T03:22:20+00:00",
+    "text": "Родниковский район\nИвановская область\nФиксация группы БПЛА",
+    "type": "drone",
+    "location_name": "Родниковский",
+    "region": "Ивановская область",
+    "lat": 57.098793,
+    "lon": 41.7035781
+  },
+  {
+    "id": "vrv_radar_86041",
+    "channel": "vrv_radar",
+    "date": "2026-08-28T03:24:43+00:00",
+    "text": "Орехово-Зуевский ГО\nМосковская область\nФиксация группы БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_86042_Захаровский",
+    "channel": "vrv_radar",
+    "date": "2026-08-28T03:25:55+00:00",
+    "text": "Захаровский район\nРязанская область\nСбитие БПЛА",
+    "type": "all_clear",
+    "location_name": "Захаровский",
+    "region": "Рязанская область",
+    "lat": 54.7872539,
+    "lon": 41.9312913
+  },
+  {
+    "id": "vrv_radar_86043_Егорьевск",
+    "channel": "vrv_radar",
+    "date": "2026-08-28T03:27:01+00:00",
+    "text": "ГО Егорьевск\nМосковская область\nФиксация группы БПЛА",
+    "type": "drone",
+    "location_name": "Егорьевск",
+    "region": "Московская область",
+    "lat": 55.3829765,
+    "lon": 39.0356223
+  },
+  {
+    "id": "vrv_radar_86044",
+    "channel": "vrv_radar",
+    "date": "2026-08-28T03:27:46+00:00",
+    "text": "Коломенский ГО\nМосковская область\nФиксация группы БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_86045_Зарайск",
+    "channel": "vrv_radar",
+    "date": "2026-08-28T03:28:19+00:00",
+    "text": "ГО Зарайск\nМосковская область\nФиксация группы БПЛА",
+    "type": "drone",
+    "location_name": "Зарайск",
+    "region": "Московская область",
+    "lat": 54.7585694,
+    "lon": 38.8818137
+  },
+  {
+    "id": "kupolrussia_120737",
+    "channel": "kupolrussia",
+    "date": "2026-08-28T03:29:07+00:00",
+    "text": "Московская область \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226206",
+    "channel": "LPRalarm",
+    "date": "2026-08-28T03:29:11+00:00",
+    "text": "Московская область \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
     "lat": null,
     "lon": null
   }
