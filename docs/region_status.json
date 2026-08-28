@@ -9,26 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Разумное и близлежащие, тревога по БпЛА \nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-28T20:25:46+00:00",
-    "expires_at": "2026-08-28T21:25:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Октябрьское и близлежащие \nТревога по БПЛА \nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-28T20:17:48+00:00",
-    "expires_at": "2026-08-28T21:17:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -36,16 +16,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-28T20:45:55+00:00",
     "expires_at": "2026-08-28T21:45:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Счастье и близлежащие \nЛНР \nОпасность по БПЛА на электро тяге",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-28T20:23:36+00:00",
-    "expires_at": "2026-08-28T21:23:36+00:00",
     "count": null,
     "count_approx": false
   },
@@ -111,11 +81,11 @@
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "alert",
-    "text": "РСЧС БЕСПИЛОТНАЯ ОПАСНОСТЬ на территории муниципальных образований: \n\nПриморско-Ахтарский  муниципальный округ,  Абинский,  Калининский, Красноармейский, Крымский, Северский, Славянский, Темрюкский, Тимашевский районы.\n\nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-28T21:09:19+00:00",
-    "expires_at": "2026-08-28T22:09:19+00:00",
+    "type": "drone",
+    "text": "Славянск-на-Кубани\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-28T21:17:15+00:00",
+    "expires_at": "2026-08-28T22:17:15+00:00",
     "count": null,
     "count_approx": false
   }
