@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-28T21:16:59+00:00",
+        "last_updated": "2026-08-28T21:55:30+00:00",
+        "path_labels": [
+          "Кубани (Краснодарский край)",
+          "Северский (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.9772396,
+            45.0351532
+          ],
+          [
+            39.916274,
+            45.2258796
+          ]
+        ]
+      }
+    }
+  ]
 }
