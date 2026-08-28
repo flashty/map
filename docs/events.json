@@ -1,71 +1,5 @@
 [
   {
-    "id": "locatorru_82664",
-    "channel": "locatorru",
-    "date": "2026-08-26T22:22:56+00:00",
-    "text": "Курская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_225671_Приморский",
-    "channel": "LPRalarm",
-    "date": "2026-08-26T22:23:32+00:00",
-    "text": "Мариуполь, Приморский район\nМеры предосторожности!",
-    "type": "unknown",
-    "location_name": "Приморский",
-    "region": null,
-    "lat": 52.931834,
-    "lon": 158.405383
-  },
-  {
-    "id": "LPRalarm_225671_Мариуполь",
-    "channel": "LPRalarm",
-    "date": "2026-08-26T22:23:32+00:00",
-    "text": "Мариуполь, Приморский район\nМеры предосторожности!",
-    "type": "unknown",
-    "location_name": "Мариуполь",
-    "region": null,
-    "lat": 54.2023091,
-    "lon": 45.9511935
-  },
-  {
-    "id": "kupolrussia_120291_Приморский",
-    "channel": "kupolrussia",
-    "date": "2026-08-26T22:23:37+00:00",
-    "text": "Мариуполь, Приморский район\nМеры предосторожности!",
-    "type": "unknown",
-    "location_name": "Приморский",
-    "region": null,
-    "lat": 52.931834,
-    "lon": 158.405383
-  },
-  {
-    "id": "kupolrussia_120291_Мариуполь",
-    "channel": "kupolrussia",
-    "date": "2026-08-26T22:23:37+00:00",
-    "text": "Мариуполь, Приморский район\nМеры предосторожности!",
-    "type": "unknown",
-    "location_name": "Мариуполь",
-    "region": null,
-    "lat": 54.2023091,
-    "lon": 45.9511935
-  },
-  {
-    "id": "radarrussiia_90257_Татищевский",
-    "channel": "radarrussiia",
-    "date": "2026-08-26T22:24:37+00:00",
-    "text": "Татищевский район\nСаратовская область\nПредварительно сбитие БПЛА \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": "Татищевский",
-    "region": "Саратовская область",
-    "lat": 51.7890752,
-    "lon": 45.6195942
-  },
-  {
     "id": "LPRalarm_225672",
     "channel": "LPRalarm",
     "date": "2026-08-26T22:24:53+00:00",
@@ -21998,5 +21932,71 @@
     "region": null,
     "lat": 53.456383,
     "lon": 35.186371
+  },
+  {
+    "id": "vrv_radar_85976_Зубово-Полянский",
+    "channel": "vrv_radar",
+    "date": "2026-08-28T00:47:13+00:00",
+    "text": "Зубово-Полянский район\nРеспублика Мордовия\nПродолжаются фиксации БПЛА",
+    "type": "drone",
+    "location_name": "Зубово-Полянский",
+    "region": "Республика Мордовия",
+    "lat": 54.056908,
+    "lon": 42.7941454
+  },
+  {
+    "id": "LPRalarm_226190",
+    "channel": "LPRalarm",
+    "date": "2026-08-28T00:52:59+00:00",
+    "text": "Новофедоровка\nИ, далее на юг ,вдоль моря тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226192",
+    "channel": "LPRalarm",
+    "date": "2026-08-28T00:56:50+00:00",
+    "text": "Кача т близлежащие\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_85977_Зубово-Полянский",
+    "channel": "vrv_radar",
+    "date": "2026-08-28T00:58:40+00:00",
+    "text": "Зубово-Полянский район\nРеспублика Мордовия\nЕщё фиксации БПЛА",
+    "type": "drone",
+    "location_name": "Зубово-Полянский",
+    "region": "Республика Мордовия",
+    "lat": 54.056908,
+    "lon": 42.7941454
+  },
+  {
+    "id": "LPRalarm_226193",
+    "channel": "LPRalarm",
+    "date": "2026-08-28T01:00:06+00:00",
+    "text": "Ейск и близлежащие\nТревога по БПЛА\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_120725",
+    "channel": "kupolrussia",
+    "date": "2026-08-28T01:00:24+00:00",
+    "text": "Ейск и близлежащие\nТревога по БПЛА\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
   }
 ]
