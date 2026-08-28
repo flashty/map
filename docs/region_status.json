@@ -1,14 +1,4 @@
 {
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Осиновка, Рассказовский район, Тамбовская область - пролёт более 15 БПЛА в сторону Иноковки. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-28T00:34:50+00:00",
-    "expires_at": "2026-08-28T01:34:50+00:00",
-    "count": 15,
-    "count_approx": false
-  },
   "мордов": {
     "display_name": "Республика Мордовия",
     "type": "drone",
@@ -16,16 +6,6 @@
     "channel": "vrv_radar",
     "updated_at": "2026-08-28T01:06:51+00:00",
     "expires_at": "2026-08-28T02:06:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "татарст": {
-    "display_name": "Республика Татарстан",
-    "type": "drone",
-    "text": "Республика Татарстан\nЧувашская Республика \n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-28T00:33:01+00:00",
-    "expires_at": "2026-08-28T01:33:01+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,23 +19,13 @@
     "count": null,
     "count_approx": false
   },
-  "опаснос": {
-    "display_name": "Республика \n\nОпасность",
-    "type": "drone",
-    "text": "Республика Татарстан\nЧувашская Республика \n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-28T00:33:01+00:00",
-    "expires_at": "2026-08-28T01:33:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
-    "type": "drone",
-    "text": "МО Истра\nМосковская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "alert",
+    "text": "ГО Павлово-Посадский \nМосковская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-28T01:10:48+00:00",
-    "expires_at": "2026-08-28T02:10:48+00:00",
+    "updated_at": "2026-08-28T01:45:11+00:00",
+    "expires_at": "2026-08-28T02:45:11+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,10 +42,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Вилино\nфиксация БПЛА\nРеспублика Крым",
+    "text": "ЮБК\nопасность по БПЛА\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-28T01:08:31+00:00",
-    "expires_at": "2026-08-28T02:08:31+00:00",
+    "updated_at": "2026-08-28T01:44:50+00:00",
+    "expires_at": "2026-08-28T02:44:50+00:00",
     "count": null,
     "count_approx": false
   },
@@ -92,11 +62,11 @@
   "владимирск": {
     "display_name": "Владимирская область",
     "type": "drone",
-    "text": "Владимирская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-28T01:23:47+00:00",
-    "expires_at": "2026-08-28T02:23:47+00:00",
-    "count": null,
+    "text": "Ковровский район \nВладимирская область \nФиксация 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-28T01:41:58+00:00",
+    "expires_at": "2026-08-28T02:41:58+00:00",
+    "count": 2,
     "count_approx": false
   },
   "ивановск": {
@@ -122,10 +92,10 @@
   "костромск": {
     "display_name": "Костромская область",
     "type": "drone",
-    "text": "Костромская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "text": "г.Кострома, г.Волгореченск, Красносельский район, Костромской район, Нерехтский район, Судиславский район, Сусанинский район, Островский район, Галичский район, Буйский район, Солигаличский район, Чухломский район, Нейский район, Антроповский район, Парфеньевский район, Кологривский район, Кадыйский",
     "channel": "locatorru",
-    "updated_at": "2026-08-28T01:30:14+00:00",
-    "expires_at": "2026-08-28T02:30:14+00:00",
+    "updated_at": "2026-08-28T01:35:24+00:00",
+    "expires_at": "2026-08-28T02:35:24+00:00",
     "count": null,
     "count_approx": false
   },
@@ -146,6 +116,46 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-28T01:30:26+00:00",
     "expires_at": "2026-08-28T02:30:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "кировск": {
+    "display_name": "Кировская область",
+    "type": "drone",
+    "text": "Кировская область\nРязанская область\nопасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-28T01:39:06+00:00",
+    "expires_at": "2026-08-28T02:39:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Кировская область\nРязанская область\nопасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-28T01:39:06+00:00",
+    "expires_at": "2026-08-28T02:39:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Кимовский район\nТульская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-28T01:45:52+00:00",
+    "expires_at": "2026-08-28T02:45:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "саратовск": {
+    "display_name": "Саратовская область",
+    "type": "drone",
+    "text": "Энгельс\nСаратовская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-28T01:46:00+00:00",
+    "expires_at": "2026-08-28T02:46:00+00:00",
     "count": null,
     "count_approx": false
   }
