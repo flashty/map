@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_225749",
-    "channel": "LPRalarm",
-    "date": "2026-08-27T07:30:48+00:00",
-    "text": "Дорога \n Осипенко -Бердянск  опасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_225750",
-    "channel": "LPRalarm",
-    "date": "2026-08-27T07:30:50+00:00",
-    "text": "Херсонес \nБухты Казачья, Камышовая \nСевастополь \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_225751",
-    "channel": "LPRalarm",
-    "date": "2026-08-27T07:31:53+00:00",
-    "text": "Приморский район и близлежащие \nОпасность по МРШ со сбросами \nЗапорожская область РФ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_225752",
-    "channel": "LPRalarm",
-    "date": "2026-08-27T07:32:46+00:00",
-    "text": "Скадовск и близлежащие \nОпасность по БПЛА Хорнет\nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_120364",
     "channel": "kupolrussia",
     "date": "2026-08-27T07:34:12+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Донецкая область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_86091_Большесельский",
+    "channel": "vrv_radar",
+    "date": "2026-08-28T08:40:47+00:00",
+    "text": "Большесельский район\nЯрославская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Большесельский",
+    "region": "Ярославская область",
+    "lat": 57.7169272,
+    "lon": 39.0085437
+  },
+  {
+    "id": "LPRalarm_226268",
+    "channel": "LPRalarm",
+    "date": "2026-08-28T08:43:57+00:00",
+    "text": "ЛДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_120793",
+    "channel": "kupolrussia",
+    "date": "2026-08-28T08:43:59+00:00",
+    "text": "ЛДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_86092_Алексин",
+    "channel": "vrv_radar",
+    "date": "2026-08-28T08:45:39+00:00",
+    "text": "Алексин\nТульская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Алексин",
+    "region": "Тульская область",
+    "lat": 54.5028103,
+    "lon": 37.0667213
   }
 ]
