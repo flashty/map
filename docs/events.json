@@ -1,49 +1,5 @@
 [
   {
-    "id": "locatorru_82728",
-    "channel": "locatorru",
-    "date": "2026-08-27T07:23:47+00:00",
-    "text": "Приграничные районы Брянской области, Курской области, Белгородской области - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_82729",
-    "channel": "locatorru",
-    "date": "2026-08-27T07:24:15+00:00",
-    "text": "Краснодарский край - авиационная опасность от РСЧС. \n\n📡Локатор России - @locatorru",
-    "type": "aviation",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_225746",
-    "channel": "LPRalarm",
-    "date": "2026-08-27T07:24:39+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_120361",
-    "channel": "kupolrussia",
-    "date": "2026-08-27T07:24:52+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_82730",
     "channel": "locatorru",
     "date": "2026-08-27T07:25:17+00:00",
@@ -21998,5 +21954,49 @@
     "region": null,
     "lat": 55.0473983,
     "lon": 55.9530591
+  },
+  {
+    "id": "vrv_radar_86089",
+    "channel": "vrv_radar",
+    "date": "2026-08-28T08:01:33+00:00",
+    "text": "Просим службы МЧС РСЧС и подразделения ДРО РЛС ПВН ПВО выйти с нами на связь по контакту обратной связи @vrv_support а так же, ОД(оперативных дежурных) , работников НПЗ, аэродромов и тд, обладающих информацией \n\nУ нас в команде более 270 человек(со служб ~235), работаем с мая 24 года\n\nДля подписчиков, свидетелей пролетов/сбитий БПЛА есть обратная связь по кнопке снизу в TG(в MAX в описании, в ВК кнопка сверху страницы)\n\nОбратная связь MAX для военных: https://max.ru/u/f9LHodD0cOICV1Ss9Q5rHZiKLYF",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_90484_Шебекино",
+    "channel": "radarrussiia",
+    "date": "2026-08-28T08:04:08+00:00",
+    "text": "Шебекино, Белгородская область - обстрел. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "shelling",
+    "location_name": "Шебекино",
+    "region": "Белгородская область",
+    "lat": 50.4049335,
+    "lon": 36.8796822
+  },
+  {
+    "id": "LPRalarm_226263",
+    "channel": "LPRalarm",
+    "date": "2026-08-28T08:11:46+00:00",
+    "text": "Светлодарск, Дебальцево ДНР и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_86090",
+    "channel": "vrv_radar",
+    "date": "2026-08-28T08:12:45+00:00",
+    "text": "Липецкая область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
   }
 ]
