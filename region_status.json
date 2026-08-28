@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Донецк опасность по БПЛА \nДНР",
+    "text": "Горловка, Пантелеймоновка, Корсунь, Енакиево ДНР и близлежащие \n\nОпасность БПЛА и ФПВ сохраняется",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-28T12:13:58+00:00",
-    "expires_at": "2026-08-28T13:13:58+00:00",
+    "updated_at": "2026-08-28T12:29:27+00:00",
+    "expires_at": "2026-08-28T13:29:27+00:00",
     "count": null,
     "count_approx": false
   },
@@ -19,33 +19,23 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Восточные районы Белгородская область в направлении Россошанский район фиксации БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-28T11:21:34+00:00",
-    "expires_at": "2026-08-28T12:21:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Рыльск, Льгов, Курчатов и близлежащие \nКурская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-28T11:22:28+00:00",
-    "expires_at": "2026-08-28T12:22:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Тула\nТульская область \nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-28T12:13:53+00:00",
-    "expires_at": "2026-08-28T13:13:53+00:00",
+    "text": "Тула\nТульская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-28T12:16:43+00:00",
+    "expires_at": "2026-08-28T13:16:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "николаевск": {
+    "display_name": "Николаевская область",
+    "type": "drone",
+    "text": "Николаевская область в направлении Черного моря фиксации БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-28T12:21:31+00:00",
+    "expires_at": "2026-08-28T13:21:31+00:00",
     "count": null,
     "count_approx": false
   }
