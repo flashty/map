@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "missile",
-    "text": "ЛНР \nСватово и близлежащие \nРакетная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-29T00:37:41+00:00",
-    "expires_at": "2026-08-29T01:37:41+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "missile",
@@ -46,26 +36,6 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-08-29T00:59:57+00:00",
     "expires_at": "2026-08-29T01:59:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Донецк ДНР \nТревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-29T00:44:40+00:00",
-    "expires_at": "2026-08-29T01:44:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Тульская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-29T00:41:50+00:00",
-    "expires_at": "2026-08-29T01:41:50+00:00",
     "count": null,
     "count_approx": false
   },
@@ -81,11 +51,11 @@
   },
   "саратовск": {
     "display_name": "Саратовская область",
-    "type": "missile",
-    "text": "Волгоградская область\nСаратовская область \nПензенская область \nРеспублика Мордовия \n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-29T01:05:34+00:00",
-    "expires_at": "2026-08-29T02:05:34+00:00",
+    "type": "alert",
+    "text": "Ртищевский район\nСаратовская область \nРабота ПВО \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-29T01:36:32+00:00",
+    "expires_at": "2026-08-29T02:36:32+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,16 +66,6 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-08-29T01:15:49+00:00",
     "expires_at": "2026-08-29T02:15:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "волгоградск": {
-    "display_name": "Волгоградская область",
-    "type": "missile",
-    "text": "Волгоградская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-29T01:12:33+00:00",
-    "expires_at": "2026-08-29T02:12:33+00:00",
     "count": null,
     "count_approx": false
   },
@@ -161,31 +121,31 @@
   },
   "марий": {
     "display_name": "Республика Марий",
-    "type": "missile",
-    "text": "Республика Марий Эл\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "text": "Республика Башкортостан \nРеспублика Марий Эл \nКировская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-29T01:26:20+00:00",
-    "expires_at": "2026-08-29T02:26:20+00:00",
+    "updated_at": "2026-08-29T01:39:36+00:00",
+    "expires_at": "2026-08-29T02:39:36+00:00",
     "count": null,
     "count_approx": false
   },
   "татарст": {
     "display_name": "Республика Татарстан",
-    "type": "missile",
-    "text": "Республика Татарстан - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-29T01:18:31+00:00",
-    "expires_at": "2026-08-29T02:18:31+00:00",
+    "type": "drone",
+    "text": "Казань и близлежащие \nЗеленодольск и близлежащие \nРеспублика Татарстан \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-29T01:44:07+00:00",
+    "expires_at": "2026-08-29T02:44:07+00:00",
     "count": null,
     "count_approx": false
   },
   "башкортост": {
     "display_name": "Республика Башкортостан",
-    "type": "missile",
-    "text": "Самарская область \nРеспублика Башкортостан \n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-29T01:15:49+00:00",
-    "expires_at": "2026-08-29T02:15:49+00:00",
+    "type": "drone",
+    "text": "Республика Башкортостан \nРеспублика Марий Эл \nКировская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-29T01:39:36+00:00",
+    "expires_at": "2026-08-29T02:39:36+00:00",
     "count": null,
     "count_approx": false
   },
@@ -206,6 +166,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-29T01:25:59+00:00",
     "expires_at": "2026-08-29T02:25:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "кировск": {
+    "display_name": "Кировская область",
+    "type": "drone",
+    "text": "Республика Башкортостан \nРеспублика Марий Эл \nКировская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-29T01:39:36+00:00",
+    "expires_at": "2026-08-29T02:39:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "оренбургск": {
+    "display_name": "Оренбургская область",
+    "type": "missile",
+    "text": "Оренбургская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-29T01:40:16+00:00",
+    "expires_at": "2026-08-29T02:40:16+00:00",
     "count": null,
     "count_approx": false
   }
