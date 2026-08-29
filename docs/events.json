@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_120763",
-    "channel": "kupolrussia",
-    "date": "2026-08-28T05:39:36+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_86082",
-    "channel": "vrv_radar",
-    "date": "2026-08-28T05:40:01+00:00",
-    "text": "ГО Домодедово \nМосковская область \nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_226236",
-    "channel": "LPRalarm",
-    "date": "2026-08-28T05:45:20+00:00",
-    "text": "Федеральная трасса Шебекино Маслова Пристань \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_120764",
-    "channel": "kupolrussia",
-    "date": "2026-08-28T05:45:36+00:00",
-    "text": "Федеральная трасса Шебекино Маслова Пристань \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_90478",
-    "channel": "radarrussiia",
-    "date": "2026-08-28T05:46:38+00:00",
-    "text": "МО Зарайск \nМосковская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_90479_Юрьев-Польский",
-    "channel": "radarrussiia",
-    "date": "2026-08-28T05:47:12+00:00",
-    "text": "Юрьев-Польский район \nВладимирская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Юрьев-Польский",
-    "region": "Владимирская область",
-    "lat": 56.4971948,
-    "lon": 39.67864
-  },
-  {
     "id": "radarrussiia_90480",
     "channel": "radarrussiia",
     "date": "2026-08-28T05:47:49+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226927",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T16:17:47+00:00",
+    "text": "От ГГ БПЛА разведчик на Белую Березку\n\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226928_Погарский",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T16:21:11+00:00",
+    "text": "Погарский район опасность по БПЛА и далее в тыл\n\nБрянская область",
+    "type": "drone",
+    "location_name": "Погарский",
+    "region": "Брянская область",
+    "lat": 52.5207056,
+    "lon": 33.2053408
+  },
+  {
+    "id": "kupolrussia_121365_Погарский",
+    "channel": "kupolrussia",
+    "date": "2026-08-29T16:21:31+00:00",
+    "text": "Погарский район\nи далее в тыл\n\nБрянская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Погарский",
+    "region": "Брянская область",
+    "lat": 52.5207056,
+    "lon": 33.2053408
+  },
+  {
+    "id": "locatorru_83018",
+    "channel": "locatorru",
+    "date": "2026-08-29T16:24:40+00:00",
+    "text": "Брянская область - начинает пролёт БПЛА от госграницы и через Погар и район в тыл. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_83019",
+    "channel": "locatorru",
+    "date": "2026-08-29T16:28:34+00:00",
+    "text": "Клинцы и район, Брянская область - через вас возможен пролёт БПЛА в тыл. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226929",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T16:30:58+00:00",
+    "text": "Межводное\nЧерноморское\nОт Водопойное\nТревога по БПЛА \n\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
