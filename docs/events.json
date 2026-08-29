@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_226153",
-    "channel": "LPRalarm",
-    "date": "2026-08-27T23:17:37+00:00",
-    "text": "Московская область \nТверская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_120700",
-    "channel": "kupolrussia",
-    "date": "2026-08-27T23:18:58+00:00",
-    "text": "Тульская область \nРязанская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_226154",
-    "channel": "LPRalarm",
-    "date": "2026-08-27T23:19:05+00:00",
-    "text": "Тульская область \nРязанская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_90417_Кимовский",
-    "channel": "radarrussiia",
-    "date": "2026-08-27T23:19:21+00:00",
-    "text": "Кимовский район\nНовомосковск\nТульская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "alert",
-    "location_name": "Кимовский",
-    "region": "Тульская область",
-    "lat": 53.8404975,
-    "lon": 38.6777887
-  },
-  {
-    "id": "radarrussiia_90417_Новомосковск",
-    "channel": "radarrussiia",
-    "date": "2026-08-27T23:19:21+00:00",
-    "text": "Кимовский район\nНовомосковск\nТульская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "alert",
-    "location_name": "Новомосковск",
-    "region": "Тульская область",
-    "lat": 54.011013,
-    "lon": 38.290943
-  },
-  {
-    "id": "LPRalarm_226155",
-    "channel": "LPRalarm",
-    "date": "2026-08-27T23:19:35+00:00",
-    "text": "Нижнегорский район\nКировский район\nТревога по БПЛА сохраняется\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_120701",
     "channel": "kupolrussia",
     "date": "2026-08-27T23:19:57+00:00",
@@ -21996,6 +21930,72 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226723",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T02:32:37+00:00",
+    "text": "Каховка\nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121198",
+    "channel": "kupolrussia",
+    "date": "2026-08-29T02:32:49+00:00",
+    "text": "Каховка\nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226724_Севастополь",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T02:33:57+00:00",
+    "text": "Севастополь, Балаклава\nСохраняется опасность по БпЛА",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "kupolrussia_121199_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-08-29T02:34:05+00:00",
+    "text": "Севастополь, Балаклава\nСохраняется опасность по БпЛА",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "vrv_radar_86212",
+    "channel": "vrv_radar",
+    "date": "2026-08-29T02:38:07+00:00",
+    "text": "Пензенская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_90583",
+    "channel": "radarrussiia",
+    "date": "2026-08-29T02:38:32+00:00",
+    "text": "Пензенская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Пензенская область",
     "lat": null,
     "lon": null
   }
