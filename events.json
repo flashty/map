@@ -1,27 +1,5 @@
 [
   {
-    "id": "radarrussiia_90459_Лежневский",
-    "channel": "radarrussiia",
-    "date": "2026-08-28T02:26:27+00:00",
-    "text": "Лежневский район\nИвановская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Лежневский",
-    "region": "Ивановская область",
-    "lat": 56.7553084,
-    "lon": 40.9258428
-  },
-  {
-    "id": "vrv_radar_86027_Энгельс",
-    "channel": "vrv_radar",
-    "date": "2026-08-28T02:27:01+00:00",
-    "text": "Энгельс\nСаратовская область\nМеры безопасности",
-    "type": "alert",
-    "location_name": "Энгельс",
-    "region": "Саратовская область",
-    "lat": 51.5013775,
-    "lon": 46.1233093
-  },
-  {
     "id": "radarrussiia_90460_Энгельс",
     "channel": "radarrussiia",
     "date": "2026-08-28T02:27:12+00:00",
@@ -21996,6 +21974,28 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226848",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T10:16:00+00:00",
+    "text": "🟢 Курская область: внимание! Отбой ракетной опасности.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121291",
+    "channel": "kupolrussia",
+    "date": "2026-08-29T10:16:16+00:00",
+    "text": "Курская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }

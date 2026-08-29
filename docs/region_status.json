@@ -1,14 +1,4 @@
 {
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "alert",
-    "text": "Херсонская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-29T09:26:24+00:00",
-    "expires_at": "2026-08-29T10:26:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -16,26 +6,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-29T10:15:03+00:00",
     "expires_at": "2026-08-29T11:15:03+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "alert",
-    "text": "Запорожская область РФ \nЛДНР\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-29T09:18:26+00:00",
-    "expires_at": "2026-08-29T10:18:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "aviation",
-    "text": "Ростовская область \nКраснодарский край \nАвиационная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-29T09:17:26+00:00",
-    "expires_at": "2026-08-29T10:17:26+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,16 +36,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-29T10:04:40+00:00",
     "expires_at": "2026-08-29T11:04:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "missile",
-    "text": "Курская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-29T10:10:13+00:00",
-    "expires_at": "2026-08-29T11:10:13+00:00",
     "count": null,
     "count_approx": false
   },
