@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-08-29T06:19:24+00:00",
-        "last_updated": "2026-08-29T06:50:44+00:00",
-        "path_labels": [
-          "Людиново (Калужская область)",
-          "Дятьковский"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.447908,
-            53.8646239
-          ],
-          [
-            34.2385788,
-            53.6472358
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
