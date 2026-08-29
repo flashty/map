@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-29T04:28:22+00:00",
+        "last_updated": "2026-08-29T04:38:18+00:00",
+        "path_labels": [
+          "Топлинка",
+          "Белгородского"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.666065,
+            50.462864
+          ],
+          [
+            36.591272,
+            50.6410277
+          ]
+        ]
+      }
+    }
+  ]
 }

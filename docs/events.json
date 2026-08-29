@@ -1,93 +1,5 @@
 [
   {
-    "id": "vrv_radar_85966",
-    "channel": "vrv_radar",
-    "date": "2026-08-27T23:57:50+00:00",
-    "text": "Саратов/Энгельс \nСаратовская область\nПродолжается работа ПВО по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_82864_Мичуринск",
-    "channel": "locatorru",
-    "date": "2026-08-27T23:58:16+00:00",
-    "text": "Мичуринск, Тамбовская область - пролёт БПЛА в сторону Тамбова. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Мичуринск",
-    "region": "Тамбовская область",
-    "lat": 52.8946613,
-    "lon": 40.5071721
-  },
-  {
-    "id": "locatorru_82865_Грязи",
-    "channel": "locatorru",
-    "date": "2026-08-27T23:59:20+00:00",
-    "text": "Грязи, Липецкая область - фиксация БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Грязи",
-    "region": "Липецкая область",
-    "lat": 52.49612,
-    "lon": 39.955162
-  },
-  {
-    "id": "locatorru_82866",
-    "channel": "locatorru",
-    "date": "2026-08-28T00:00:03+00:00",
-    "text": "Соломинка, Башмаковский район, Пензенская область - ещё пролёт БПЛА в сторону Земетчино, далее на Республику Мордовия. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_14111",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-28T00:00:23+00:00",
-    "text": "Саратов\nЭнгельс \n\nИдёт активная работа ПВО.\n\nФиксируем ещё группу БПЛА на подлёте.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_90422",
-    "channel": "radarrussiia",
-    "date": "2026-08-28T00:01:00+00:00",
-    "text": "Саратов\nЭнгельс \n\nИдёт активная работа ПВО\n\nФиксируем ещё группу БПЛА на подлёте\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_120711",
-    "channel": "kupolrussia",
-    "date": "2026-08-28T00:01:01+00:00",
-    "text": "Саратовская область \nПензенская область \nРеспублика Мордовия \nНижегородская область \n\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_226168",
-    "channel": "LPRalarm",
-    "date": "2026-08-28T00:01:17+00:00",
-    "text": "Саратовская область \nПензенская область \nРеспублика Мордовия \nНижегородская область \n\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_226169",
     "channel": "LPRalarm",
     "date": "2026-08-28T00:01:43+00:00",
@@ -21996,6 +21908,94 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226743_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T04:32:14+00:00",
+    "text": "Разумное и близлежащие \nБелгородский район \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_121211_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-08-29T04:32:30+00:00",
+    "text": "Разумное и близлежащие \nБелгородский район \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_226744_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T04:37:19+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_226745_Белгородского",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T04:38:18+00:00",
+    "text": "Разумное \nБелгородского района \nЕщё один БПЛА в направлении \nТревога сохраняется",
+    "type": "drone",
+    "location_name": "Белгородского",
+    "region": null,
+    "lat": 50.6410277,
+    "lon": 36.591272
+  },
+  {
+    "id": "vrv_radar_86230_Одинцово",
+    "channel": "vrv_radar",
+    "date": "2026-08-29T04:40:32+00:00",
+    "text": "ГО Одинцово\nМосковская область\nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": "Одинцово",
+    "region": "Московская область",
+    "lat": 55.678223,
+    "lon": 37.2668096
+  },
+  {
+    "id": "radarrussiia_90593_Одинцово",
+    "channel": "radarrussiia",
+    "date": "2026-08-29T04:41:10+00:00",
+    "text": "ГО Одинцово\nМосковская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Одинцово",
+    "region": "Московская область",
+    "lat": 55.678223,
+    "lon": 37.2668096
+  },
+  {
+    "id": "kupolrussia_121212",
+    "channel": "kupolrussia",
+    "date": "2026-08-29T04:41:50+00:00",
+    "text": "Пензенская область \nСамарская область \nСаратовская область \nУльяновская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226746",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T04:41:53+00:00",
+    "text": "Пензенская область \nСамарская область \nСаратовская область \nУльяновская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Пензенская область",
     "lat": null,
     "lon": null
   }
