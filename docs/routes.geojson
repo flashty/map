@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-29T18:59:06+00:00",
+        "last_updated": "2026-08-29T19:27:51+00:00",
+        "path_labels": [
+          "Трубчевский (Брянская область)",
+          "Рохманово (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.7892267,
+            52.5867776
+          ],
+          [
+            32.8823703,
+            52.7501468
+          ]
+        ]
+      }
+    }
+  ]
 }
