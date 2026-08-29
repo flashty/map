@@ -1,51 +1,11 @@
 {
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "missile",
-    "text": "Комар Богатырь ДНР ракетная опасность",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-29T06:40:55+00:00",
-    "expires_at": "2026-08-29T07:40:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
     "type": "drone",
-    "text": "Лантратовка Лнр \nБПЛА разведка",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-29T05:50:09+00:00",
-    "expires_at": "2026-08-29T06:50:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "Московская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-29T05:49:06+00:00",
-    "expires_at": "2026-08-29T06:49:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Калужская область, Смоленская область, Орловская область, Тульская область - опасность по БПЛА от Брянской области. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-29T05:57:39+00:00",
-    "expires_at": "2026-08-29T06:57:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Калужская область, Смоленская область, Орловская область, Тульская область - опасность по БПЛА от Брянской области. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-29T05:57:39+00:00",
-    "expires_at": "2026-08-29T06:57:39+00:00",
+    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ с запада повторно, ещё фиксации",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-29T07:00:23+00:00",
+    "expires_at": "2026-08-29T08:00:23+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +16,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-29T06:37:20+00:00",
     "expires_at": "2026-08-29T07:37:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Сельцо и близлежащие \nБрянская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-29T06:48:53+00:00",
+    "expires_at": "2026-08-29T07:48:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Каланчак и далее на Юго-Восток фиксации БПЛА Хорнет.\nХерсонская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-29T07:01:14+00:00",
+    "expires_at": "2026-08-29T08:01:14+00:00",
     "count": null,
     "count_approx": false
   }
