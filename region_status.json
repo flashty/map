@@ -2,31 +2,21 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Козельский район\nУльяновский район\nДзержинский район\nБабынинский район\nМещовский район\nСухиничский район\nМедынский район\nКалужская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-29T22:40:49+00:00",
-    "expires_at": "2026-08-29T23:40:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Новоазовский район и близлежащие \nОпасность по БПЛА \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-29T21:53:38+00:00",
-    "expires_at": "2026-08-29T22:53:38+00:00",
+    "text": "Обнинск\nКалужская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-29T22:59:42+00:00",
+    "expires_at": "2026-08-29T23:59:42+00:00",
     "count": null,
     "count_approx": false
   },
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
-    "text": "Ржевский район\nТверская область\nФиксация от 4 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-29T22:44:00+00:00",
-    "expires_at": "2026-08-29T23:44:00+00:00",
-    "count": 4,
+    "text": "Оленинский район\nТверская область\nФиксация от 3 БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-29T22:59:19+00:00",
+    "expires_at": "2026-08-29T23:59:19+00:00",
+    "count": 3,
     "count_approx": false
   },
   "псковск": {
@@ -82,30 +72,20 @@
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
-    "text": "Курская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-29T21:51:38+00:00",
-    "expires_at": "2026-08-29T22:51:38+00:00",
+    "text": "Курская область \nТревога по БПЛА повторно",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-29T23:00:13+00:00",
+    "expires_at": "2026-08-30T00:00:13+00:00",
     "count": null,
     "count_approx": false
   },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Сельцо и ближайшие \nТревога по БПЛА\nБрянская область",
+    "text": "от гг еще фиксации БПЛА \nБрянская область",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-29T22:31:28+00:00",
-    "expires_at": "2026-08-29T23:31:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Скадовск и близлежащие \nХерсонская область РФ \nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-29T21:59:23+00:00",
-    "expires_at": "2026-08-29T22:59:23+00:00",
+    "updated_at": "2026-08-29T22:59:40+00:00",
+    "expires_at": "2026-08-29T23:59:40+00:00",
     "count": null,
     "count_approx": false
   },
@@ -132,20 +112,20 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Наро-Фоминск\nМО Шаховская\nМосковская область\nФиксация 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "МО Лотошино\nМосковская область\nФиксация 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-29T22:41:35+00:00",
-    "expires_at": "2026-08-29T23:41:35+00:00",
+    "updated_at": "2026-08-29T22:57:03+00:00",
+    "expires_at": "2026-08-29T23:57:03+00:00",
     "count": 3,
     "count_approx": false
   },
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
-    "text": "Гагаринский район\nТёмкинский район\nУгранский район\nЕльнинский район\nСмоленская область\nФиксация групп БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-29T22:42:30+00:00",
-    "expires_at": "2026-08-29T23:42:30+00:00",
+    "text": "Рославль, Смоленская область - пролёты БПЛА на север. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-29T22:49:41+00:00",
+    "expires_at": "2026-08-29T23:49:41+00:00",
     "count": null,
     "count_approx": false
   },
@@ -176,6 +156,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-29T22:42:56+00:00",
     "expires_at": "2026-08-29T23:42:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Луганск и близлежащие \nЛНР \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-29T22:52:28+00:00",
+    "expires_at": "2026-08-29T23:52:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Белгородская область \nТревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-29T22:58:47+00:00",
+    "expires_at": "2026-08-29T23:58:47+00:00",
     "count": null,
     "count_approx": false
   }
