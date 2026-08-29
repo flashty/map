@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_86080",
-    "channel": "vrv_radar",
-    "date": "2026-08-28T05:38:30+00:00",
-    "text": "МО Зарайск \nМосковская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_86081_Юрьев-Польский",
-    "channel": "vrv_radar",
-    "date": "2026-08-28T05:38:59+00:00",
-    "text": "Юрьев-Польский район \nВладимирская область \nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Юрьев-Польский",
-    "region": "Владимирская область",
-    "lat": 56.4971948,
-    "lon": 39.67864
-  },
-  {
-    "id": "LPRalarm_226235",
-    "channel": "LPRalarm",
-    "date": "2026-08-28T05:39:22+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_120763",
     "channel": "kupolrussia",
     "date": "2026-08-28T05:39:36+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14152",
+    "channel": "radar_plus_bpla",
+    "date": "2026-08-29T16:03:31+00:00",
+    "text": "🚨Ожидаем ближе к ночи массовый запуск БПЛА от 300 до 1000 единиц.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226926",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T16:06:15+00:00",
+    "text": "Климово \nКлинцы\nУнеча\nТревога по БПЛА Майя\n\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121364",
+    "channel": "kupolrussia",
+    "date": "2026-08-29T16:06:25+00:00",
+    "text": "Климово \nКлинцы\nУнеча\nТревога по БПЛА Майя\n\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
