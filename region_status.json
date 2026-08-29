@@ -1,34 +1,4 @@
 {
-  "пермск": {
-    "display_name": "Пермский край",
-    "type": "missile",
-    "text": "Пермский край\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-29T02:23:24+00:00",
-    "expires_at": "2026-08-29T03:23:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "свердловск": {
-    "display_name": "Свердловская область",
-    "type": "missile",
-    "text": "Свердловская область - ракетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-29T02:02:32+00:00",
-    "expires_at": "2026-08-29T03:02:32+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "челябинск": {
-    "display_name": "Челябинская область",
-    "type": "missile",
-    "text": "Челябинская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-29T02:04:30+00:00",
-    "expires_at": "2026-08-29T03:04:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
@@ -42,10 +12,20 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Брянская область\nВыгоничский р-н\nНавлинский р-н\nФиксации БпЛА продолжаются",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-29T02:22:50+00:00",
-    "expires_at": "2026-08-29T03:22:50+00:00",
+    "text": "Брянская область все районы соблюдаем меры безопасности по БПЛА. Фиксации продолжаются",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-29T03:15:45+00:00",
+    "expires_at": "2026-08-29T04:15:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "пляж Кипчак, пролет бпла в сторону предположительно Красносельское\nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-29T03:14:05+00:00",
+    "expires_at": "2026-08-29T04:14:05+00:00",
     "count": null,
     "count_approx": false
   }
