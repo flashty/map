@@ -1,115 +1,5 @@
 [
   {
-    "id": "vrv_radar_86062",
-    "channel": "vrv_radar",
-    "date": "2026-08-28T04:06:39+00:00",
-    "text": "Самарская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_120748",
-    "channel": "kupolrussia",
-    "date": "2026-08-28T04:07:11+00:00",
-    "text": "Ульяновская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_226218",
-    "channel": "LPRalarm",
-    "date": "2026-08-28T04:07:14+00:00",
-    "text": "Ульяновская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_82895",
-    "channel": "locatorru",
-    "date": "2026-08-28T04:08:43+00:00",
-    "text": "Братилово, Собинский район, Ярославская область - более 8 БПЛА в сторону Ярославль. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ярославская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_82896_Ярославский",
-    "channel": "locatorru",
-    "date": "2026-08-28T04:09:39+00:00",
-    "text": "Введенье, Ярославский район, Ярославская область - пролёты БПЛА в сторону Ярославль. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Ярославский",
-    "region": "Ярославская область",
-    "lat": 57.584609,
-    "lon": 39.8356454
-  },
-  {
-    "id": "locatorru_82896_Введенье",
-    "channel": "locatorru",
-    "date": "2026-08-28T04:09:39+00:00",
-    "text": "Введенье, Ярославский район, Ярославская область - пролёты БПЛА в сторону Ярославль. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Введенье",
-    "region": "Ярославская область",
-    "lat": 57.4528884,
-    "lon": 39.7835862
-  },
-  {
-    "id": "locatorru_82897_Туношна",
-    "channel": "locatorru",
-    "date": "2026-08-28T04:10:20+00:00",
-    "text": "Туношна, Ярославская область - заходят БПЛА друг за другом в сторону Ярославль, НПЗ. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Туношна",
-    "region": "Ярославская область",
-    "lat": 57.5604597,
-    "lon": 40.1579512
-  },
-  {
-    "id": "locatorru_82898",
-    "channel": "locatorru",
-    "date": "2026-08-28T04:10:56+00:00",
-    "text": "Мокеевское, Ярославская область - более 5 БПЛА в сторону Ярославля. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Мокеевское область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_86063",
-    "channel": "vrv_radar",
-    "date": "2026-08-28T04:10:59+00:00",
-    "text": "Ставропольский край \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_82899_Заволжский",
-    "channel": "locatorru",
-    "date": "2026-08-28T04:12:58+00:00",
-    "text": "Нижний Поселок, Заволжский район, г. Ярославль - пролёты БПЛА в сторону НПЗ, г.Ярославль.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Заволжский",
-    "region": null,
-    "lat": 56.8916795,
-    "lon": 35.7599284
-  },
-  {
     "id": "locatorru_82899_Нижний Поселок",
     "channel": "locatorru",
     "date": "2026-08-28T04:12:58+00:00",
@@ -21996,6 +21886,116 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226886",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T14:20:07+00:00",
+    "text": "Спартак, Донецк ДНР и близлежащие \nОпасность по БПЛА и возможным ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121324",
+    "channel": "kupolrussia",
+    "date": "2026-08-29T14:20:24+00:00",
+    "text": "Спартак, Донецк ДНР и близлежащие \nОпасность по БПЛА и возможным ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226887_Шебекинский",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T14:23:50+00:00",
+    "text": "От Вознесеновки до Первого цепляево займите укрытие летит ударный БПЛА \nШебекинский район",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": null,
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "kupolrussia_121325_Шебекинский",
+    "channel": "kupolrussia",
+    "date": "2026-08-29T14:24:06+00:00",
+    "text": "От Вознесеновки до Первого цепляево займите укрытие летит ударный БПЛА \nШебекинский район",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": null,
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "LPRalarm_226888",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T14:24:09+00:00",
+    "text": "Раздольненский район \nРаздольное и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121326",
+    "channel": "kupolrussia",
+    "date": "2026-08-29T14:24:24+00:00",
+    "text": "Раздольненский район \nРаздольное и близлежащие \nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226889",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T14:24:47+00:00",
+    "text": "Шебекино \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121327",
+    "channel": "kupolrussia",
+    "date": "2026-08-29T14:25:08+00:00",
+    "text": "Шебекино \nТревога по БПЛА Хорнет\nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226890",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T14:29:55+00:00",
+    "text": "Курск и близлежащие опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121328",
+    "channel": "kupolrussia",
+    "date": "2026-08-29T14:30:17+00:00",
+    "text": "Курск и близлежащие\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
