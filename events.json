@@ -1,82 +1,5 @@
 [
   {
-    "id": "kupolrussia_120741",
-    "channel": "kupolrussia",
-    "date": "2026-08-28T03:48:02+00:00",
-    "text": "Кировская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Кировская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_226210",
-    "channel": "LPRalarm",
-    "date": "2026-08-28T03:48:08+00:00",
-    "text": "Кировская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Кировская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_120742",
-    "channel": "kupolrussia",
-    "date": "2026-08-28T03:48:40+00:00",
-    "text": "Саратовская область \nВолгоградская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_226211",
-    "channel": "LPRalarm",
-    "date": "2026-08-28T03:48:42+00:00",
-    "text": "Саратовская область \nВолгоградская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_120743",
-    "channel": "kupolrussia",
-    "date": "2026-08-28T03:49:03+00:00",
-    "text": "Самарская область\nПензенская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_226212",
-    "channel": "LPRalarm",
-    "date": "2026-08-28T03:49:11+00:00",
-    "text": "Самарская область\nПензенская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_120744",
-    "channel": "kupolrussia",
-    "date": "2026-08-28T03:49:49+00:00",
-    "text": "Республика Мордовия",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_226213",
     "channel": "LPRalarm",
     "date": "2026-08-28T03:49:55+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226874",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T13:16:09+00:00",
+    "text": "Белгород, Белгородский район и ситуативно Белгородская область! \nРакетная опасность! Займите Безопасные места!\n\n\nПотенциальная опасность для Курской области и Воронежской области",
+    "type": "missile",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121315",
+    "channel": "kupolrussia",
+    "date": "2026-08-29T13:16:25+00:00",
+    "text": "Белгородская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226875_Белгороде",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T13:16:58+00:00",
+    "text": "Экстренная информация РСЧС: РАКЕТНАЯ ОПАСНОСТЬ в г. Белгороде, Белгородском и Шебекинском МО 16:16. Спуститесь в подвальное помещение или подземное пространство.",
+    "type": "missile",
+    "location_name": "Белгороде",
+    "region": null,
+    "lat": 54.3958901,
+    "lon": 38.5279843
+  },
+  {
+    "id": "kupolrussia_121316_Белгороде",
+    "channel": "kupolrussia",
+    "date": "2026-08-29T13:16:58+00:00",
+    "text": "Экстренная информация РСЧС: РАКЕТНАЯ ОПАСНОСТЬ в г. Белгороде, Белгородском и Шебекинском МО 16:16. Спуститесь в подвальное помещение или подземное пространство.",
+    "type": "missile",
+    "location_name": "Белгороде",
+    "region": null,
+    "lat": 54.3958901,
+    "lon": 38.5279843
+  },
+  {
+    "id": "radarrussiia_90607",
+    "channel": "radarrussiia",
+    "date": "2026-08-29T13:17:13+00:00",
+    "text": "Кировская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Кировская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226877_Белгород",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T13:17:19+00:00",
+    "text": "Возможно баллистика на ШБК, Белгород",
+    "type": "unknown",
+    "location_name": "Белгород",
+    "region": null,
+    "lat": 50.5955595,
+    "lon": 36.5873394
+  },
+  {
+    "id": "locatorru_83014",
+    "channel": "locatorru",
+    "date": "2026-08-29T13:17:54+00:00",
+    "text": "Белгородская область - ракетная опасность! \n\nЛБС, Шебекино, Белгород, ракетная опасность!! \n\n📡Локатор России - @locatorru",
+    "type": "missile",
+    "location_name": null,
+    "region": "Белгородская область",
     "lat": null,
     "lon": null
   }
