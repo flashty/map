@@ -1,71 +1,5 @@
 [
   {
-    "id": "radarrussiia_90466",
-    "channel": "radarrussiia",
-    "date": "2026-08-28T02:42:13+00:00",
-    "text": "Муром \nВладимирская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "alert",
-    "location_name": null,
-    "region": "Владимирская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_86035_Ярославль",
-    "channel": "vrv_radar",
-    "date": "2026-08-28T02:43:35+00:00",
-    "text": "Ярославль\nЯрославская область\nМеры безопасности",
-    "type": "alert",
-    "location_name": "Ярославль",
-    "region": "Ярославская область",
-    "lat": 57.6263877,
-    "lon": 39.8933705
-  },
-  {
-    "id": "radarrussiia_90467_Ярославль",
-    "channel": "radarrussiia",
-    "date": "2026-08-28T02:43:48+00:00",
-    "text": "Ярославль\nЯрославская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "alert",
-    "location_name": "Ярославль",
-    "region": "Ярославская область",
-    "lat": 57.6263877,
-    "lon": 39.8933705
-  },
-  {
-    "id": "vrv_radar_86036_Ярославль",
-    "channel": "vrv_radar",
-    "date": "2026-08-28T02:45:54+00:00",
-    "text": "Ярославль\nЯрославская область\nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Ярославль",
-    "region": "Ярославская область",
-    "lat": 57.6263877,
-    "lon": 39.8933705
-  },
-  {
-    "id": "vrv_radar_86037_Муром",
-    "channel": "vrv_radar",
-    "date": "2026-08-28T02:46:16+00:00",
-    "text": "Муром\nВладимирская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Муром",
-    "region": "Владимирская область",
-    "lat": 55.5792902,
-    "lon": 42.0527689
-  },
-  {
-    "id": "vrv_radar_86038",
-    "channel": "vrv_radar",
-    "date": "2026-08-28T02:48:25+00:00",
-    "text": "Муром \nВладимирская область\nЕщё фиксация БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Владимирская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_90468_Ярославль",
     "channel": "radarrussiia",
     "date": "2026-08-28T02:48:47+00:00",
@@ -21998,5 +21932,71 @@
     "region": null,
     "lat": 52.6671693,
     "lon": 36.3730739
+  },
+  {
+    "id": "LPRalarm_226851",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T11:26:41+00:00",
+    "text": "Скадовский район \nСкадовск и близлежащие \nОпасность по БПЛА Хорнет \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121294",
+    "channel": "kupolrussia",
+    "date": "2026-08-29T11:26:47+00:00",
+    "text": "Скадовский район \nСкадовск и близлежащие \nОпасность по БПЛА Хорнет \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226852",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T11:29:40+00:00",
+    "text": "Макеевка ДНР в направлении Иловайск и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121295",
+    "channel": "kupolrussia",
+    "date": "2026-08-29T11:29:51+00:00",
+    "text": "Макеевка ДНР в направлении Иловайск и близлежащие\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_226853",
+    "channel": "LPRalarm",
+    "date": "2026-08-29T11:30:32+00:00",
+    "text": "Курская область и близлежащие \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121296",
+    "channel": "kupolrussia",
+    "date": "2026-08-29T11:30:44+00:00",
+    "text": "Курская область и близлежащие\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
   }
 ]
