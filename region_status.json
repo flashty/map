@@ -9,36 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "missile",
-    "text": "Волгоградская область\nСаратовская область \nПензенская область \nРеспублика Мордовия \n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-29T01:05:34+00:00",
-    "expires_at": "2026-08-29T02:05:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "нижегородск": {
-    "display_name": "Нижегородская область",
-    "type": "missile",
-    "text": "Липецкая область\nТамбовская область \nНижегородская область \n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-29T01:10:40+00:00",
-    "expires_at": "2026-08-29T02:10:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "missile",
-    "text": "Ульяновская область\nРеспублика Чувашия\nРеспублика Татарстан \nРеспублика Марий Эл\n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-29T01:13:20+00:00",
-    "expires_at": "2026-08-29T02:13:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "alert",
@@ -49,26 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "самарск": {
-    "display_name": "Самарская область",
-    "type": "missile",
-    "text": "Самарская область \nРеспублика Башкортостан \n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-29T01:15:49+00:00",
-    "expires_at": "2026-08-29T02:15:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "чуваш": {
-    "display_name": "Республика Чувашия",
-    "type": "missile",
-    "text": "Ульяновская область\nРеспублика Чувашия\nРеспублика Татарстан \nРеспублика Марий Эл\n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-29T01:13:20+00:00",
-    "expires_at": "2026-08-29T02:13:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "мордов": {
     "display_name": "Республика Мордовия",
     "type": "missile",
@@ -76,16 +26,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-29T01:16:19+00:00",
     "expires_at": "2026-08-29T02:16:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "-": {
-    "display_name": "Республика -",
-    "type": "drone",
-    "text": "Чувашская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-29T01:07:50+00:00",
-    "expires_at": "2026-08-29T02:07:50+00:00",
     "count": null,
     "count_approx": false
   },
@@ -182,10 +122,30 @@
   "свердловск": {
     "display_name": "Свердловская область",
     "type": "missile",
-    "text": "Свердловская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Свердловская область - ракетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-29T02:02:32+00:00",
+    "expires_at": "2026-08-29T03:02:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "челябинск": {
+    "display_name": "Челябинская область",
+    "type": "missile",
+    "text": "Челябинская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-29T02:00:50+00:00",
-    "expires_at": "2026-08-29T03:00:50+00:00",
+    "updated_at": "2026-08-29T02:04:30+00:00",
+    "expires_at": "2026-08-29T03:04:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Батайск \nРостовская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-29T02:07:38+00:00",
+    "expires_at": "2026-08-29T03:07:38+00:00",
     "count": null,
     "count_approx": false
   }
