@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_227068",
-    "channel": "LPRalarm",
-    "date": "2026-08-29T20:41:59+00:00",
-    "text": "Смоленск\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_121502_Смоленск",
-    "channel": "kupolrussia",
-    "date": "2026-08-29T20:42:02+00:00",
-    "text": "Смоленск\nСмоленская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу © \"КРАСНЫЙ УРОВЕНЬ\"\n(Х © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Смоленск",
-    "region": "Смоленская область",
-    "lat": 54.7789701,
-    "lon": 32.0471812
-  },
-  {
-    "id": "kupolrussia_121503",
-    "channel": "kupolrussia",
-    "date": "2026-08-29T20:42:05+00:00",
-    "text": "Евпатория \nКатушка и близлежащие \nРеспублика Крым\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_83039_Сафоново",
     "channel": "locatorru",
     "date": "2026-08-29T20:42:31+00:00",
@@ -21998,5 +21965,38 @@
     "region": null,
     "lat": 54.8454184,
     "lon": 20.3103495
+  },
+  {
+    "id": "LPRalarm_227574",
+    "channel": "LPRalarm",
+    "date": "2026-08-30T23:33:24+00:00",
+    "text": "Александро-Калиново, Клебан-Бык и близлежащие, тревога по БпЛА \nДНР\nНа восток",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121963",
+    "channel": "kupolrussia",
+    "date": "2026-08-30T23:33:29+00:00",
+    "text": "Александро-Калиново, Клебан-Бык и близлежащие, тревога по БпЛА \nДНР\nНа восток",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_90838_Кубинка",
+    "channel": "radarrussiia",
+    "date": "2026-08-30T23:33:32+00:00",
+    "text": "Кубинка\nМосковская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "alert",
+    "location_name": "Кубинка",
+    "region": "Московская область",
+    "lat": 55.5755486,
+    "lon": 36.6952802
   }
 ]
