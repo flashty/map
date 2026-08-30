@@ -1,14 +1,4 @@
 {
-  "архангельск": {
-    "display_name": "Архангельская область",
-    "type": "drone",
-    "text": "Архангельская область - опасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-30T02:45:58+00:00",
-    "expires_at": "2026-08-30T03:45:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
@@ -46,6 +36,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-30T03:45:37+00:00",
     "expires_at": "2026-08-30T04:45:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Горское Первомайск Лнр \nТревога по БПЛА Хорнет",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-30T04:00:55+00:00",
+    "expires_at": "2026-08-30T05:00:55+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Бронницы\nМосковская область\nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-30T04:00:15+00:00",
+    "expires_at": "2026-08-30T05:00:15+00:00",
     "count": null,
     "count_approx": false
   }
