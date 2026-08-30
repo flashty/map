@@ -1,35 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-08-30T02:55:08+00:00",
-        "last_updated": "2026-08-30T03:54:42+00:00",
-        "path_labels": [
-          "Щёкино (Тульская область)",
-          "Щекино (Тульская область)",
-          "Белгородский"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.5179079,
-            54.004465
-          ],
-          [
-            37.5179079,
-            54.004465
-          ],
-          [
-            38.5167643,
-            54.3750277
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
