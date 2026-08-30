@@ -1,34 +1,4 @@
 {
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Воронежская область \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-30T02:41:09+00:00",
-    "expires_at": "2026-08-30T03:41:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Раздольное и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-30T03:05:29+00:00",
-    "expires_at": "2026-08-30T04:05:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ленинградск": {
-    "display_name": "Ленинградская область",
-    "type": "drone",
-    "text": "Ленинградская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу © \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-30T03:25:16+00:00",
-    "expires_at": "2026-08-30T04:25:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "архангельск": {
     "display_name": "Архангельская область",
     "type": "drone",
@@ -66,6 +36,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-30T03:23:07+00:00",
     "expires_at": "2026-08-30T04:23:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Волоконовский район \nОпасность по БПЛА \nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-30T03:45:37+00:00",
+    "expires_at": "2026-08-30T04:45:37+00:00",
     "count": null,
     "count_approx": false
   }
