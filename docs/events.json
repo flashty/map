@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_226747",
-    "channel": "LPRalarm",
-    "date": "2026-08-29T04:46:29+00:00",
-    "text": "Шебекино Юз, НТВ \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_86231_Истра",
-    "channel": "vrv_radar",
-    "date": "2026-08-29T04:48:19+00:00",
-    "text": "МО Истра\nМосковская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Истра",
-    "region": "Московская область",
-    "lat": 55.9145993,
-    "lon": 36.8595482
-  },
-  {
-    "id": "radar_plus_bpla_14146",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-29T04:48:35+00:00",
-    "text": "Отбой опасности БПЛА по всем ранее объявленным регионам.\n\nОпасность сохраняется в Брянской, Тульской, Московской областей.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Брянской областей",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_226748_Волоконовский",
-    "channel": "LPRalarm",
-    "date": "2026-08-29T04:48:45+00:00",
-    "text": "Пятницкое \nВолоконовский район \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": "Волоконовский",
-    "region": null,
-    "lat": 50.4498919,
-    "lon": 37.7986348
-  },
-  {
-    "id": "LPRalarm_226749_Климовский",
-    "channel": "LPRalarm",
-    "date": "2026-08-29T05:03:34+00:00",
-    "text": "Климовский район \nОпасность по БПЛА в направлении Клинцы\nБрянская область",
-    "type": "drone",
-    "location_name": "Климовский",
-    "region": "Брянская область",
-    "lat": 52.2780195,
-    "lon": 32.168083
-  },
-  {
-    "id": "LPRalarm_226749_Клинцы",
-    "channel": "LPRalarm",
-    "date": "2026-08-29T05:03:34+00:00",
-    "text": "Климовский район \nОпасность по БПЛА в направлении Клинцы\nБрянская область",
-    "type": "drone",
-    "location_name": "Клинцы",
-    "region": "Брянская область",
-    "lat": 52.758511,
-    "lon": 32.240097
-  },
-  {
-    "id": "LPRalarm_226750",
-    "channel": "LPRalarm",
-    "date": "2026-08-29T05:04:01+00:00",
-    "text": "Белгород \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_121213_Климовский",
     "channel": "kupolrussia",
     "date": "2026-08-29T05:04:23+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227318",
+    "channel": "LPRalarm",
+    "date": "2026-08-30T15:18:32+00:00",
+    "text": "Володарское ДНР бпла на электротяге",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121733",
+    "channel": "kupolrussia",
+    "date": "2026-08-30T15:18:51+00:00",
+    "text": "Володарское ДНР бпла на электротяге",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227319",
+    "channel": "LPRalarm",
+    "date": "2026-08-30T15:21:43+00:00",
+    "text": "Бердянский район \nБердянск и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121734",
+    "channel": "kupolrussia",
+    "date": "2026-08-30T15:22:05+00:00",
+    "text": "Бердянский район \nБердянск и близлежащие \n\nЗапорожская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227320",
+    "channel": "LPRalarm",
+    "date": "2026-08-30T15:24:24+00:00",
+    "text": "г. Белгород опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121735_Белгород",
+    "channel": "kupolrussia",
+    "date": "2026-08-30T15:24:35+00:00",
+    "text": "Белгород\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Белгород",
+    "region": null,
+    "lat": 50.5955595,
+    "lon": 36.5873394
+  },
+  {
+    "id": "LPRalarm_227321",
+    "channel": "LPRalarm",
+    "date": "2026-08-30T15:29:52+00:00",
+    "text": "Красноармейск, Уманское, Селидово ДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
