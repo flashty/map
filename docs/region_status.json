@@ -12,10 +12,10 @@
   "новгородск": {
     "display_name": "Новгородская область",
     "type": "drone",
-    "text": "Чудовский район\nНовгородская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-30T00:20:25+00:00",
-    "expires_at": "2026-08-30T01:20:25+00:00",
+    "text": "Новгородская область \nПовторно\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу © \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-30T00:44:06+00:00",
+    "expires_at": "2026-08-30T01:44:06+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,16 +26,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-29T23:49:34+00:00",
     "expires_at": "2026-08-30T00:49:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "alert",
-    "text": "Кубинка\nМосковская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-29T23:40:45+00:00",
-    "expires_at": "2026-08-30T00:40:45+00:00",
     "count": null,
     "count_approx": false
   },
@@ -51,11 +41,11 @@
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "alert",
-    "text": "Ейск \nКраснодарский край \nМеры безопасности",
+    "type": "drone",
+    "text": "Ейск и близлежащие \nКраснодарский край \nТревога по БПЛА сохраняется",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-30T00:13:50+00:00",
-    "expires_at": "2026-08-30T01:13:50+00:00",
+    "updated_at": "2026-08-30T00:34:52+00:00",
+    "expires_at": "2026-08-30T01:34:52+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +56,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-08-30T00:04:53+00:00",
     "expires_at": "2026-08-30T01:04:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ленинградск": {
+    "display_name": "Ленинградская область",
+    "type": "drone",
+    "text": "Киришский район\nВолховский район\nТихвинский район\nЛенинградская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-30T00:43:53+00:00",
+    "expires_at": "2026-08-30T01:43:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Бердянск и близлежащие \nЗапорожская область РФ \nТревога по БПЛА сохраняется",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-30T00:42:00+00:00",
+    "expires_at": "2026-08-30T01:42:00+00:00",
     "count": null,
     "count_approx": false
   }
