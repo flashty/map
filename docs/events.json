@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_226738",
-    "channel": "LPRalarm",
-    "date": "2026-08-29T04:11:24+00:00",
-    "text": "Ростовская область отбой опасности по БПЛА южные районы",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_121209",
-    "channel": "kupolrussia",
-    "date": "2026-08-29T04:11:24+00:00",
-    "text": "Ростовская область отбой опасности по БПЛА южные районы",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_86229_Алексин",
-    "channel": "vrv_radar",
-    "date": "2026-08-29T04:11:30+00:00",
-    "text": "Алексин\nТульская область\nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Алексин",
-    "region": "Тульская область",
-    "lat": 54.5028103,
-    "lon": 37.0667213
-  },
-  {
-    "id": "LPRalarm_226739_Черноморский",
-    "channel": "LPRalarm",
-    "date": "2026-08-29T04:13:21+00:00",
-    "text": "Красная Поляна \nГлебовка\nЧерноморский район и далее в направлении Новоозерное, Евпатория \n\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Черноморский",
-    "region": null,
-    "lat": 44.849996,
-    "lon": 38.4944065
-  },
-  {
-    "id": "LPRalarm_226739_Новоозерное",
-    "channel": "LPRalarm",
-    "date": "2026-08-29T04:13:21+00:00",
-    "text": "Красная Поляна \nГлебовка\nЧерноморский район и далее в направлении Новоозерное, Евпатория \n\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Новоозерное",
-    "region": null,
-    "lat": 53.4770285,
-    "lon": 85.613183
-  },
-  {
-    "id": "radarrussiia_90592_Алексин",
-    "channel": "radarrussiia",
-    "date": "2026-08-29T04:15:45+00:00",
-    "text": "Алексин\nТульская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Алексин",
-    "region": "Тульская область",
-    "lat": 54.5028103,
-    "lon": 37.0667213
-  },
-  {
     "id": "LPRalarm_226740_Шебекинский",
     "channel": "LPRalarm",
     "date": "2026-08-29T04:23:20+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227308",
+    "channel": "LPRalarm",
+    "date": "2026-08-30T14:51:31+00:00",
+    "text": "Рыково и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121724",
+    "channel": "kupolrussia",
+    "date": "2026-08-30T14:52:00+00:00",
+    "text": "Рыково и близлежащие \nХерсонская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227309",
+    "channel": "LPRalarm",
+    "date": "2026-08-30T14:53:10+00:00",
+    "text": "Геническ и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121725",
+    "channel": "kupolrussia",
+    "date": "2026-08-30T14:55:43+00:00",
+    "text": "Геническ и близлежащие \nХерсонская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227310",
+    "channel": "LPRalarm",
+    "date": "2026-08-30T14:56:02+00:00",
+    "text": "Север\nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121726",
+    "channel": "kupolrussia",
+    "date": "2026-08-30T14:56:13+00:00",
+    "text": "Север\nРеспублика Крым\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
