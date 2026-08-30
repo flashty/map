@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_86276_Шумячский",
-    "channel": "vrv_radar",
-    "date": "2026-08-29T20:25:37+00:00",
-    "text": "Шумячский район\nСмоленская область\nФиксация 2 БПЛА",
-    "type": "drone",
-    "location_name": "Шумячский",
-    "region": "Смоленская область",
-    "lat": 53.8994212,
-    "lon": 32.2079322
-  },
-  {
-    "id": "locatorru_83030",
-    "channel": "locatorru",
-    "date": "2026-08-29T20:25:56+00:00",
-    "text": "Продолжаются фиксации БПЛА от госграницы в сторону Брянской области и далее на север, северо-восток. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_86277_Починковский",
-    "channel": "vrv_radar",
-    "date": "2026-08-29T20:26:35+00:00",
-    "text": "Починковский район\nСмоленская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Починковский",
-    "region": "Смоленская область",
-    "lat": 54.36507,
-    "lon": 32.5314114
-  },
-  {
-    "id": "locatorru_83031_Погарский",
-    "channel": "locatorru",
-    "date": "2026-08-29T20:28:19+00:00",
-    "text": "Погарский район, Жуковский район, Унечский район, Трубчевский район, Брянская область - продолжаются фиксации БПЛА в тыл. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Погарский",
-    "region": "Брянская область",
-    "lat": 52.5207056,
-    "lon": 33.2053408
-  },
-  {
-    "id": "locatorru_83031_Жуковский",
-    "channel": "locatorru",
-    "date": "2026-08-29T20:28:19+00:00",
-    "text": "Погарский район, Жуковский район, Унечский район, Трубчевский район, Брянская область - продолжаются фиксации БПЛА в тыл. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Жуковский",
-    "region": "Брянская область",
-    "lat": 53.5423863,
-    "lon": 33.7923599
-  },
-  {
     "id": "locatorru_83031_Унечский",
     "channel": "locatorru",
     "date": "2026-08-29T20:28:19+00:00",
@@ -21994,6 +21939,61 @@
     "date": "2026-08-30T22:00:06+00:00",
     "text": "Трасса Погар - Новые Ивайтёнки ждуны\nМеры предосторожности!",
     "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_83223",
+    "channel": "locatorru",
+    "date": "2026-08-30T22:02:34+00:00",
+    "text": "Саратовская область - опасность по БПЛА. \nОт Волгоградской области.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227563",
+    "channel": "LPRalarm",
+    "date": "2026-08-30T22:09:31+00:00",
+    "text": "Навля и близлежащие, тревога по реактивным БпЛА с юга, курсом на север",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121952",
+    "channel": "kupolrussia",
+    "date": "2026-08-30T22:09:35+00:00",
+    "text": "Навля и близлежащие, тревога по реактивным БпЛА с юга, курсом на север",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227564",
+    "channel": "LPRalarm",
+    "date": "2026-08-30T22:15:04+00:00",
+    "text": "Стародуб и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121953",
+    "channel": "kupolrussia",
+    "date": "2026-08-30T22:15:12+00:00",
+    "text": "Стародуб и близлежащие, тревога по БпЛА",
+    "type": "drone",
     "location_name": null,
     "region": null,
     "lat": null,
