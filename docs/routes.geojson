@@ -85,6 +85,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-08-30T00:43:33+00:00",
+        "last_updated": "2026-08-30T01:10:45+00:00",
+        "path_labels": [
+          "Любытинский (Новгородская область)",
+          "Любытино (Новгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.2736063,
+            58.9985874
+          ],
+          [
+            33.3976972,
+            58.8142322
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-08-30T00:57:05+00:00",
         "last_updated": "2026-08-30T00:57:05+00:00",
         "path_labels": [
