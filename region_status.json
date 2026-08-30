@@ -1,14 +1,4 @@
 {
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "missile",
-    "text": "Джанкой ракетная тревога\nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-30T09:34:13+00:00",
-    "expires_at": "2026-08-30T10:34:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -16,16 +6,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-30T10:08:18+00:00",
     "expires_at": "2026-08-30T11:08:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Погар и близлежащие \nБрянская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-30T09:35:20+00:00",
-    "expires_at": "2026-08-30T10:35:20+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,53 +29,13 @@
     "count": null,
     "count_approx": false
   },
-  "волгоградск": {
-    "display_name": "Волгоградская область",
-    "type": "missile",
-    "text": "Волгоградская область, Саратовская область - ракетная опасность от Ростовской области. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-30T10:10:50+00:00",
-    "expires_at": "2026-08-30T11:10:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "саратовск": {
-    "display_name": "Саратовская область",
-    "type": "missile",
-    "text": "Волгоградская область, Саратовская область - ракетная опасность от Ростовской области. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-30T10:10:50+00:00",
-    "expires_at": "2026-08-30T11:10:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "астраханск": {
-    "display_name": "Астраханская область",
-    "type": "missile",
-    "text": "Астраханская область, Пензенская область - ракетная опасность от Ростовской области. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-30T10:11:23+00:00",
-    "expires_at": "2026-08-30T11:11:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "пензенск": {
     "display_name": "Пензенская область",
-    "type": "missile",
-    "text": "Астраханская область, Пензенская область - ракетная опасность от Ростовской области. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-30T10:11:23+00:00",
-    "expires_at": "2026-08-30T11:11:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калмык": {
-    "display_name": "Республика Калмыкия",
-    "type": "missile",
-    "text": "Республика Калмыкия\nРакетная опасность",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-30T10:09:49+00:00",
-    "expires_at": "2026-08-30T11:09:49+00:00",
+    "type": "drone",
+    "text": "Пензенская область\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-30T10:38:09+00:00",
+    "expires_at": "2026-08-30T11:38:09+00:00",
     "count": null,
     "count_approx": false
   }
