@@ -1,93 +1,5 @@
 [
   {
-    "id": "locatorru_82964",
-    "channel": "locatorru",
-    "date": "2026-08-28T23:02:35+00:00",
-    "text": "Южная часть Ростовской области - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_86147",
-    "channel": "vrv_radar",
-    "date": "2026-08-28T23:03:09+00:00",
-    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_82965",
-    "channel": "locatorru",
-    "date": "2026-08-28T23:03:55+00:00",
-    "text": "Тульская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_86148_Кагальницкий",
-    "channel": "vrv_radar",
-    "date": "2026-08-28T23:04:37+00:00",
-    "text": "Кагальницкий район\nРостовская область\nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Кагальницкий",
-    "region": "Ростовская область",
-    "lat": 46.9299197,
-    "lon": 40.0169134
-  },
-  {
-    "id": "LPRalarm_226660",
-    "channel": "LPRalarm",
-    "date": "2026-08-28T23:05:06+00:00",
-    "text": "Ростовская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_121143",
-    "channel": "kupolrussia",
-    "date": "2026-08-28T23:05:11+00:00",
-    "text": "Ростовская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_82966",
-    "channel": "locatorru",
-    "date": "2026-08-28T23:05:20+00:00",
-    "text": "Архангельская, Краснодарский край - пролёт БПЛА в сторону Тихорецк. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Архангельская край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_226661",
-    "channel": "LPRalarm",
-    "date": "2026-08-28T23:06:15+00:00",
-    "text": "Джанкой и близлежащие \nРеспублика Крым \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_121144",
     "channel": "kupolrussia",
     "date": "2026-08-28T23:06:19+00:00",
@@ -21996,6 +21908,94 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Архангельская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121607",
+    "channel": "kupolrussia",
+    "date": "2026-08-30T05:17:12+00:00",
+    "text": "Сиротино Боровское Лнр\nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227182",
+    "channel": "LPRalarm",
+    "date": "2026-08-30T05:17:27+00:00",
+    "text": "Сиротино Боровское Лнр\nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227183",
+    "channel": "LPRalarm",
+    "date": "2026-08-30T05:17:29+00:00",
+    "text": "Северодонецк и ЛНР тревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227184_Шебекинский",
+    "channel": "LPRalarm",
+    "date": "2026-08-30T05:17:52+00:00",
+    "text": "Ржевка и близлежащие \nШебекинский район \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": null,
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "kupolrussia_121608_Шебекинский",
+    "channel": "kupolrussia",
+    "date": "2026-08-30T05:18:11+00:00",
+    "text": "Ржевка и близлежащие \nШебекинский район \nТревога по БПЛА Хорнет\nБелгородская область",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": "Белгородская область",
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "locatorru_83117",
+    "channel": "locatorru",
+    "date": "2026-08-30T05:24:35+00:00",
+    "text": "Краснодарский край - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227185",
+    "channel": "LPRalarm",
+    "date": "2026-08-30T05:25:26+00:00",
+    "text": "Шебекино \nТревога по БПЛА \nВ небе два ударных БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_121609",
+    "channel": "kupolrussia",
+    "date": "2026-08-30T05:26:49+00:00",
+    "text": "Шебекино \nТревога по БПЛА \nВ небе два ударных БПЛА Хорнет\nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
     "lat": null,
     "lon": null
   }
