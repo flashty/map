@@ -2,10 +2,10 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Трасса Р-280\nАктивность БПЛА Хорнет \nЗапорожская область РФ",
+    "text": "Мелитополь \nМелитопольский район и близлежащие \nОпасность по БПЛА \n\nЗапорожская область РФ",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-30T06:51:18+00:00",
-    "expires_at": "2026-08-30T07:51:18+00:00",
+    "updated_at": "2026-08-30T07:27:51+00:00",
+    "expires_at": "2026-08-30T08:27:51+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,16 +36,6 @@
     "channel": "locatorru",
     "updated_at": "2026-08-30T06:58:33+00:00",
     "expires_at": "2026-08-30T07:58:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ с запада",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-30T06:23:09+00:00",
-    "expires_at": "2026-08-30T07:23:09+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +96,16 @@
     "channel": "locatorru",
     "updated_at": "2026-08-30T06:58:33+00:00",
     "expires_at": "2026-08-30T07:58:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Новосветловка и близлежащие \nЛНР\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-30T07:29:20+00:00",
+    "expires_at": "2026-08-30T08:29:20+00:00",
     "count": null,
     "count_approx": false
   }
