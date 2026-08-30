@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_86146",
-    "channel": "vrv_radar",
-    "date": "2026-08-28T22:48:03+00:00",
-    "text": "Староминской район\nКраснодарский край\nЕще фиксация БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_82962_Таганрог",
-    "channel": "locatorru",
-    "date": "2026-08-28T22:50:24+00:00",
-    "text": "Таганрог, Азов, Ростовская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Таганрог",
-    "region": "Ростовская область",
-    "lat": 47.215495,
-    "lon": 38.928362
-  },
-  {
-    "id": "locatorru_82962_Азов",
-    "channel": "locatorru",
-    "date": "2026-08-28T22:50:24+00:00",
-    "text": "Таганрог, Азов, Ростовская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Азов",
-    "region": "Ростовская область",
-    "lat": 47.1139219,
-    "lon": 39.4259657
-  },
-  {
-    "id": "radarrussiia_90531",
-    "channel": "radarrussiia",
-    "date": "2026-08-28T22:55:25+00:00",
-    "text": "Староминской район\nКраснодарский край\nЕще фиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_121140_Апшеронский",
     "channel": "kupolrussia",
     "date": "2026-08-28T22:55:50+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227173_Шебекинский",
+    "channel": "LPRalarm",
+    "date": "2026-08-30T04:36:49+00:00",
+    "text": "Маслова Пристань и близлежащие \nШебекинский район \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": null,
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "kupolrussia_121602_Шебекинский",
+    "channel": "kupolrussia",
+    "date": "2026-08-30T04:37:01+00:00",
+    "text": "Маслова Пристань и близлежащие \nШебекинский район \nТревога по БПЛА\nБелгородская область",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": "Белгородская область",
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "LPRalarm_227174",
+    "channel": "LPRalarm",
+    "date": "2026-08-30T04:43:56+00:00",
+    "text": "Кировское, Енакиево ДНР и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227175",
+    "channel": "LPRalarm",
+    "date": "2026-08-30T04:44:52+00:00",
+    "text": "Красный Луч и близлежащие \nЛНР \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
