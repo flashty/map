@@ -22,30 +22,10 @@
   "новгородск": {
     "display_name": "Новгородская область",
     "type": "drone",
-    "text": "Маловишерский район\nЛюбытинский район\nМошенский район\nХвойнинский район\nНовгородская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-29T23:31:56+00:00",
-    "expires_at": "2026-08-30T00:31:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ярославск": {
-    "display_name": "Ярославская область",
-    "type": "drone",
-    "text": "Ярославская область\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-29T23:14:44+00:00",
-    "expires_at": "2026-08-30T00:14:44+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "Херсонская область РФ \nЗапорожская область РФ\nАвиационная ракетно бомбовая опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-29T23:25:31+00:00",
-    "expires_at": "2026-08-30T00:25:31+00:00",
+    "text": "Любытинский район\nНовгородская область\nФиксация группы БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-30T00:10:15+00:00",
+    "expires_at": "2026-08-30T01:10:15+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,16 +36,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-29T23:20:01+00:00",
     "expires_at": "2026-08-30T00:20:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Губкинский ГО\nБелгородская область \nТревога по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-29T23:04:41+00:00",
-    "expires_at": "2026-08-30T00:04:41+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,16 +56,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-29T23:21:14+00:00",
     "expires_at": "2026-08-30T00:21:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "missile",
-    "text": "Херсонская область РФ \nЗапорожская область РФ\nАвиационная ракетно бомбовая опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-29T23:25:31+00:00",
-    "expires_at": "2026-08-30T00:25:31+00:00",
     "count": null,
     "count_approx": false
   },
@@ -121,22 +81,32 @@
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
+    "type": "alert",
+    "text": "Ейск \nКраснодарский край \nМеры безопасности",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-30T00:13:50+00:00",
+    "expires_at": "2026-08-30T01:13:50+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "вологодск": {
+    "display_name": "Вологодская область",
     "type": "drone",
-    "text": "Ейск и близлежащие \nКраснодарский край \nТревога по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Устюженский район\nВологодская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-29T23:58:56+00:00",
-    "expires_at": "2026-08-30T00:58:56+00:00",
+    "updated_at": "2026-08-30T00:04:53+00:00",
+    "expires_at": "2026-08-30T01:04:53+00:00",
     "count": null,
     "count_approx": false
   },
   "ленинградск": {
     "display_name": "Ленинградская область",
     "type": "drone",
-    "text": "Тихвинский район\nЛенинградская область\nФиксация 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Киришский район\nЛенинградская область\nПродолжается работа ПВО по БПЛА\nЕще фиксации в вашем направлении\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-08-30T00:01:03+00:00",
-    "expires_at": "2026-08-30T01:01:03+00:00",
-    "count": 2,
+    "updated_at": "2026-08-30T00:13:36+00:00",
+    "expires_at": "2026-08-30T01:13:36+00:00",
+    "count": null,
     "count_approx": false
   }
 }
