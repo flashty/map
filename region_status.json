@@ -12,20 +12,20 @@
   "пермск": {
     "display_name": "Пермский край",
     "type": "drone",
-    "text": "Пермский край, Свердловская область - опасность по БПЛА от Уфы.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-31T04:42:06+00:00",
-    "expires_at": "2026-08-31T05:42:06+00:00",
+    "text": "Пермский край \nСвердловская область\nЧелябинская область \n\nОпасность БПЛА сохраняется.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-31T04:50:58+00:00",
+    "expires_at": "2026-08-31T05:50:58+00:00",
     "count": null,
     "count_approx": false
   },
   "свердловск": {
     "display_name": "Свердловская область",
     "type": "drone",
-    "text": "Пермский край, Свердловская область - опасность по БПЛА от Уфы.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-31T04:42:06+00:00",
-    "expires_at": "2026-08-31T05:42:06+00:00",
+    "text": "Пермский край \nСвердловская область\nЧелябинская область \n\nОпасность БПЛА сохраняется.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-31T04:50:58+00:00",
+    "expires_at": "2026-08-31T05:50:58+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,23 +59,43 @@
     "count": null,
     "count_approx": false
   },
-  "татарст": {
-    "display_name": "Республика Татарстан",
-    "type": "drone",
-    "text": "Республика Татарстан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-31T04:25:15+00:00",
-    "expires_at": "2026-08-31T05:25:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "челябинск": {
     "display_name": "Челябинская область",
     "type": "drone",
-    "text": "Челябинская область - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-31T04:40:53+00:00",
-    "expires_at": "2026-08-31T05:40:53+00:00",
+    "text": "Пермский край \nСвердловская область\nЧелябинская область \n\nОпасность БПЛА сохраняется.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-08-31T04:50:58+00:00",
+    "expires_at": "2026-08-31T05:50:58+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "ДНР\nОпасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-31T04:48:51+00:00",
+    "expires_at": "2026-08-31T05:48:51+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Бердянск, Осипенко - Приазовское и близлежащие, трассы Запорожская область РФ \nОпасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-31T04:54:29+00:00",
+    "expires_at": "2026-08-31T05:54:29+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курганск": {
+    "display_name": "Курганская область",
+    "type": "drone",
+    "text": "Курганская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-08-31T04:57:13+00:00",
+    "expires_at": "2026-08-31T05:57:13+00:00",
     "count": null,
     "count_approx": false
   }
