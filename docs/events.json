@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_121511",
-    "channel": "kupolrussia",
-    "date": "2026-08-29T20:52:30+00:00",
-    "text": "От Светлодарска в сторону Дебальцево группа БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227077",
-    "channel": "LPRalarm",
-    "date": "2026-08-29T20:53:47+00:00",
-    "text": "Колоски\nСуворово\nЕвпатория и близлежащие \nТревога по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_121512",
-    "channel": "kupolrussia",
-    "date": "2026-08-29T20:54:25+00:00",
-    "text": "Колоски\nСуворово\nЕвпатория и близлежащие \nРеспублика Крым\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227078",
-    "channel": "LPRalarm",
-    "date": "2026-08-29T20:57:42+00:00",
-    "text": "Добрушено и близлежащие \nЕщё фиксации БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_227079",
     "channel": "LPRalarm",
     "date": "2026-08-29T20:58:33+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_86515_Новоспасский",
+    "channel": "vrv_radar",
+    "date": "2026-08-31T00:17:53+00:00",
+    "text": "Новоспасский район\nУльяновская область\nСбития БПЛА\nМеры безопасности",
+    "type": "all_clear",
+    "location_name": "Новоспасский",
+    "region": "Ульяновская область",
+    "lat": 53.1683625,
+    "lon": 47.863499
+  },
+  {
+    "id": "radarrussiia_90842_Новоспасский",
+    "channel": "radarrussiia",
+    "date": "2026-08-31T00:18:07+00:00",
+    "text": "Новоспасский район\nУльяновская область\nСбития БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": "Новоспасский",
+    "region": "Ульяновская область",
+    "lat": 53.1683625,
+    "lon": 47.863499
+  },
+  {
+    "id": "vrv_radar_86516",
+    "channel": "vrv_radar",
+    "date": "2026-08-31T00:25:42+00:00",
+    "text": "Республика Татарстан\nВнимание по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Татарстан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_90843",
+    "channel": "radarrussiia",
+    "date": "2026-08-31T00:26:10+00:00",
+    "text": "Республика Татарстан\nВнимание по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Татарстан",
     "lat": null,
     "lon": null
   }
