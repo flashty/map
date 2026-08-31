@@ -1,137 +1,5 @@
 [
   {
-    "id": "kupolrussia_121610_Мелитопольский",
-    "channel": "kupolrussia",
-    "date": "2026-08-30T05:36:43+00:00",
-    "text": "Мелитопольский район, г. Мелитополь и близлежащие опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Мелитопольский",
-    "region": null,
-    "lat": 59.9445151,
-    "lon": 30.3614269
-  },
-  {
-    "id": "LPRalarm_227187",
-    "channel": "LPRalarm",
-    "date": "2026-08-30T05:39:09+00:00",
-    "text": "Курская область и близлежащие авиационная ракетная бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227188",
-    "channel": "LPRalarm",
-    "date": "2026-08-30T05:40:37+00:00",
-    "text": "ОТБОЙ ОПАСНОСТИ АТАКИ БПЛА в г. Белгороде и Корочанском МО",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_86408_Малоярославецкий",
-    "channel": "vrv_radar",
-    "date": "2026-08-30T05:41:29+00:00",
-    "text": "Малоярославецкий район\nКалужская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Малоярославецкий",
-    "region": "Калужская область",
-    "lat": 54.8898368,
-    "lon": 36.4160867
-  },
-  {
-    "id": "radarrussiia_90749_Малоярославецкий",
-    "channel": "radarrussiia",
-    "date": "2026-08-30T05:43:41+00:00",
-    "text": "Малоярославецкий район\nКалужская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Малоярославецкий",
-    "region": "Калужская область",
-    "lat": 54.8898368,
-    "lon": 36.4160867
-  },
-  {
-    "id": "kupolrussia_121611",
-    "channel": "kupolrussia",
-    "date": "2026-08-30T05:44:54+00:00",
-    "text": "ОТБОЙ ОПАСНОСТИ АТАКИ БПЛА в г. Белгороде и Корочанском МО",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227189",
-    "channel": "LPRalarm",
-    "date": "2026-08-30T05:48:23+00:00",
-    "text": "Авиационная ракетная бомбовая опасность \n\nХерсонская область РФ, Запорожская область РФ, ЛДНР\nПовторно",
-    "type": "missile",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_121612",
-    "channel": "kupolrussia",
-    "date": "2026-08-30T05:49:07+00:00",
-    "text": "Херсонская область РФ, Запорожская область РФ, ЛДНР\nПовторно\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227190",
-    "channel": "LPRalarm",
-    "date": "2026-08-30T05:53:56+00:00",
-    "text": "ЛДНР ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_121613",
-    "channel": "kupolrussia",
-    "date": "2026-08-30T05:54:27+00:00",
-    "text": "ЛДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_86409_Боровский",
-    "channel": "vrv_radar",
-    "date": "2026-08-30T05:56:49+00:00",
-    "text": "Боровский район\nКалужская область\nСбитие БПЛА\nМеры безопасности",
-    "type": "all_clear",
-    "location_name": "Боровский",
-    "region": "Калужская область",
-    "lat": 55.2148556,
-    "lon": 36.5331624
-  },
-  {
-    "id": "vrv_radar_86410_Боровский",
-    "channel": "vrv_radar",
-    "date": "2026-08-30T05:57:03+00:00",
-    "text": "Боровский район\nКалужская область \nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Боровский",
-    "region": "Калужская область",
-    "lat": 55.2148556,
-    "lon": 36.5331624
-  },
-  {
     "id": "locatorru_83118",
     "channel": "locatorru",
     "date": "2026-08-30T05:57:25+00:00",
@@ -21998,5 +21866,137 @@
     "region": null,
     "lat": 52.8873315,
     "lon": 33.415853
+  },
+  {
+    "id": "LPRalarm_227822",
+    "channel": "LPRalarm",
+    "date": "2026-08-31T13:05:42+00:00",
+    "text": "Суворово север Евпатория с северо-запада БПЛА на восток, юго-восток",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122186",
+    "channel": "kupolrussia",
+    "date": "2026-08-31T13:05:58+00:00",
+    "text": "Суворово север Евпатория с северо-запада БПЛА на восток, юго-восток",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227823",
+    "channel": "LPRalarm",
+    "date": "2026-08-31T13:06:48+00:00",
+    "text": "Брянск и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_83288",
+    "channel": "locatorru",
+    "date": "2026-08-31T13:07:01+00:00",
+    "text": "Выгоничи и в направлении Брянск и района, Брянская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122187",
+    "channel": "kupolrussia",
+    "date": "2026-08-31T13:07:01+00:00",
+    "text": "Брянск и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227824_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-08-31T13:11:51+00:00",
+    "text": "Белгородский район повторно опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_227825",
+    "channel": "LPRalarm",
+    "date": "2026-08-31T13:12:50+00:00",
+    "text": "Черноморское и близлежащие с моря с северо-запада опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227826_Фокинский",
+    "channel": "LPRalarm",
+    "date": "2026-08-31T13:14:35+00:00",
+    "text": "Брянск (Фокинский район- Ходаринка) тревога по БПЛА",
+    "type": "drone",
+    "location_name": "Фокинский",
+    "region": null,
+    "lat": 53.213139,
+    "lon": 34.4146243
+  },
+  {
+    "id": "locatorru_83289_Супонево",
+    "channel": "locatorru",
+    "date": "2026-08-31T13:14:59+00:00",
+    "text": "Супонево, Брянская область - опасность по БПЛА и в направлении Брянска. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Супонево",
+    "region": "Брянская область",
+    "lat": 53.203522,
+    "lon": 34.309715
+  },
+  {
+    "id": "kupolrussia_122188_Фокинский",
+    "channel": "kupolrussia",
+    "date": "2026-08-31T13:15:12+00:00",
+    "text": "Брянск (Фокинский район- Ходаринка) тревога по БПЛА",
+    "type": "drone",
+    "location_name": "Фокинский",
+    "region": null,
+    "lat": 53.213139,
+    "lon": 34.4146243
+  },
+  {
+    "id": "LPRalarm_227827_Судак",
+    "channel": "LPRalarm",
+    "date": "2026-08-31T13:15:33+00:00",
+    "text": "Судак, Коктебель, Феодосия и близлежащие тревога по БПЛА с моря",
+    "type": "drone",
+    "location_name": "Судак",
+    "region": null,
+    "lat": 62.0375765,
+    "lon": 32.9920476
+  },
+  {
+    "id": "LPRalarm_227827_Коктебель",
+    "channel": "LPRalarm",
+    "date": "2026-08-31T13:15:33+00:00",
+    "text": "Судак, Коктебель, Феодосия и близлежащие тревога по БПЛА с моря",
+    "type": "drone",
+    "location_name": "Коктебель",
+    "region": null,
+    "lat": 56.7289637,
+    "lon": 37.1489587
   }
 ]
