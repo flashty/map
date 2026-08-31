@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_227166_Нижний Ольшанец",
-    "channel": "LPRalarm",
-    "date": "2026-08-30T03:49:56+00:00",
-    "text": "Нижний Ольшанец, Карнауховка \nБелгородский район \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Нижний Ольшанец",
-    "region": null,
-    "lat": 50.4887539,
-    "lon": 36.6811703
-  },
-  {
-    "id": "kupolrussia_121595_Белгородский",
-    "channel": "kupolrussia",
-    "date": "2026-08-30T03:50:15+00:00",
-    "text": "Нижний Ольшанец, Карнауховка \nБелгородский район \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "kupolrussia_121595_Нижний Ольшанец",
-    "channel": "kupolrussia",
-    "date": "2026-08-30T03:50:15+00:00",
-    "text": "Нижний Ольшанец, Карнауховка \nБелгородский район \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Нижний Ольшанец",
-    "region": null,
-    "lat": 50.4887539,
-    "lon": 36.6811703
-  },
-  {
-    "id": "LPRalarm_227167",
-    "channel": "LPRalarm",
-    "date": "2026-08-30T03:50:29+00:00",
-    "text": "Горское Лнр\nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_121596",
-    "channel": "kupolrussia",
-    "date": "2026-08-30T03:50:36+00:00",
-    "text": "Горское Лнр\nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227168_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-08-30T03:54:04+00:00",
-    "text": "Белгородский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
     "id": "kupolrussia_121597_Белгородский",
     "channel": "kupolrussia",
     "date": "2026-08-30T03:54:42+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Брянская область",
     "lat": 52.5867776,
     "lon": 33.7892267
+  },
+  {
+    "id": "LPRalarm_227802",
+    "channel": "LPRalarm",
+    "date": "2026-08-31T12:01:55+00:00",
+    "text": "Скадовск и близлежащие тревога по БПЛА на электротяге или ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227803",
+    "channel": "LPRalarm",
+    "date": "2026-08-31T12:11:21+00:00",
+    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и возможным ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227804",
+    "channel": "LPRalarm",
+    "date": "2026-08-31T12:13:43+00:00",
+    "text": "Орловская область опасность по БПЛА от стыка Курской и Брянской области и от Брянской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_86589",
+    "channel": "vrv_radar",
+    "date": "2026-08-31T12:13:53+00:00",
+    "text": "Орловская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_90887",
+    "channel": "radarrussiia",
+    "date": "2026-08-31T12:14:07+00:00",
+    "text": "Орловская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227805",
+    "channel": "LPRalarm",
+    "date": "2026-08-31T12:14:52+00:00",
+    "text": "Феодосия меры безопасности при БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]

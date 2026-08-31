@@ -10,12 +10,12 @@
     "count_approx": false
   },
   "брянск": {
-    "display_name": "Брянская область",
+    "display_name": "Брянской области",
     "type": "drone",
-    "text": "Трубчевский район и близлежащие \nОпасность по БПЛА \nБрянская область",
+    "text": "Орловская область опасность по БПЛА от стыка Курской и Брянской области и от Брянской области",
     "channel": "LPRalarm",
-    "updated_at": "2026-08-31T12:01:02+00:00",
-    "expires_at": "2026-08-31T13:01:02+00:00",
+    "updated_at": "2026-08-31T12:13:43+00:00",
+    "expires_at": "2026-08-31T13:13:43+00:00",
     "count": null,
     "count_approx": false
   },
@@ -29,23 +29,13 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "missile",
-    "text": "Попасная\nАлчевск\nЛуганск \nЛНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-31T11:03:06+00:00",
-    "expires_at": "2026-08-31T12:03:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Макеевка-мак шоссе бпла хорнет\nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-08-31T11:55:05+00:00",
-    "expires_at": "2026-08-31T12:55:05+00:00",
+    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и возможным ФПВ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-08-31T12:11:21+00:00",
+    "expires_at": "2026-08-31T13:11:21+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +46,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-31T11:21:32+00:00",
     "expires_at": "2026-08-31T12:21:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Орловская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-31T12:14:07+00:00",
+    "expires_at": "2026-08-31T13:14:07+00:00",
     "count": null,
     "count_approx": false
   }
