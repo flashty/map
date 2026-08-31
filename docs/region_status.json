@@ -12,10 +12,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Трубчевск и близлежащие \nБрянская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Трубчевск и близлежащие \nОпасность по БПЛА Шарк\nБрянская область",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-31T10:06:32+00:00",
-    "expires_at": "2026-08-31T11:06:32+00:00",
+    "updated_at": "2026-08-31T11:13:33+00:00",
+    "expires_at": "2026-08-31T12:13:33+00:00",
     "count": null,
     "count_approx": false
   },
@@ -32,30 +32,20 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Гвардейское и близлежащие \nТревога по БПЛА \nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-08-31T11:01:12+00:00",
-    "expires_at": "2026-08-31T12:01:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калужская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-31T10:12:39+00:00",
-    "expires_at": "2026-08-31T11:12:39+00:00",
+    "text": "Гвардейское и близлежащие \nРеспублика Крым\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-31T11:01:30+00:00",
+    "expires_at": "2026-08-31T12:01:30+00:00",
     "count": null,
     "count_approx": false
   },
   "луганск": {
     "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Спорное\nВолчеяровка опасность по БПЛА Хорнет\nЛНР",
+    "type": "missile",
+    "text": "Попасная\nАлчевск\nЛуганск \nЛНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
     "channel": "kupolrussia",
-    "updated_at": "2026-08-31T10:16:14+00:00",
-    "expires_at": "2026-08-31T11:16:14+00:00",
+    "updated_at": "2026-08-31T11:03:06+00:00",
+    "expires_at": "2026-08-31T12:03:06+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +56,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-08-31T10:59:51+00:00",
     "expires_at": "2026-08-31T11:59:51+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Алексин\nТульская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-08-31T11:02:37+00:00",
+    "expires_at": "2026-08-31T12:02:37+00:00",
     "count": null,
     "count_approx": false
   }
