@@ -1,38 +1,5 @@
 [
   {
-    "id": "locatorru_83129_Морозовский",
-    "channel": "locatorru",
-    "date": "2026-08-30T10:08:41+00:00",
-    "text": "Морозовский район, Ростовская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": "Морозовский",
-    "region": "Ростовская область",
-    "lat": 49.863052,
-    "lon": 41.393528
-  },
-  {
-    "id": "vrv_radar_86426",
-    "channel": "vrv_radar",
-    "date": "2026-08-30T10:09:49+00:00",
-    "text": "Республика Калмыкия\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Республика Калмыкия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_90761",
-    "channel": "radarrussiia",
-    "date": "2026-08-30T10:10:50+00:00",
-    "text": "Волгоградская область, Саратовская область - ракетная опасность от Ростовской области. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "missile",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_121674",
     "channel": "kupolrussia",
     "date": "2026-08-30T10:11:04+00:00",
@@ -21996,6 +21963,39 @@
     "type": "unknown",
     "location_name": null,
     "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_86604_Знаменский",
+    "channel": "vrv_radar",
+    "date": "2026-08-31T16:08:54+00:00",
+    "text": "Знаменский район\nОрловская область\nФиксация от 2 БПЛА",
+    "type": "drone",
+    "location_name": "Знаменский",
+    "region": "Орловская область",
+    "lat": 52.9974809,
+    "lon": 36.066136
+  },
+  {
+    "id": "LPRalarm_227889",
+    "channel": "LPRalarm",
+    "date": "2026-08-31T16:09:32+00:00",
+    "text": "Суземка в направлении Комаричи опасность по БПЛА \nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122245",
+    "channel": "kupolrussia",
+    "date": "2026-08-31T16:10:42+00:00",
+    "text": "Суземка в направлении Комаричи опасность по БПЛА \nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
