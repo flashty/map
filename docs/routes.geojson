@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-31T09:17:22+00:00",
+        "last_updated": "2026-08-31T09:35:39+00:00",
+        "path_labels": [
+          "Шебекино (Белгородская область)",
+          "Белгород"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.8796822,
+            50.4049335
+          ],
+          [
+            36.5873394,
+            50.5955595
+          ]
+        ]
+      }
+    }
+  ]
 }
