@@ -5,31 +5,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-08-31T13:47:40+00:00",
-        "last_updated": "2026-08-31T14:28:22+00:00",
-        "path_labels": [
-          "Валуйский",
-          "Ульяновский (Калужская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.3185713,
-            53.1481885
-          ],
-          [
-            35.6146918,
-            53.7054494
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-08-31T14:33:45+00:00",
         "last_updated": "2026-08-31T15:00:11+00:00",
         "path_labels": [
@@ -72,6 +47,31 @@
           [
             34.747449341325826,
             57.063216934829924
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-08-31T14:49:11+00:00",
+        "last_updated": "2026-08-31T15:28:42+00:00",
+        "path_labels": [
+          "Молодежной",
+          "Бахчисарайский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.541879,
+            57.941507
+          ],
+          [
+            56.3629087,
+            58.0385064
           ]
         ]
       }
