@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "удмурт": {
-    "display_name": "Республика Удмуртия",
-    "type": "drone",
-    "text": "Республика Башкортостан \nРеспублика Удмуртия \n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-08-31T03:17:52+00:00",
-    "expires_at": "2026-08-31T04:17:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "пермск": {
     "display_name": "Пермский край",
     "type": "drone",
@@ -46,6 +36,36 @@
     "channel": "LPRalarm",
     "updated_at": "2026-08-31T04:12:36+00:00",
     "expires_at": "2026-08-31T05:12:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Волоконовский район \nБелгородская область \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-08-31T04:23:54+00:00",
+    "expires_at": "2026-08-31T05:23:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "-": {
+    "display_name": "Республика -",
+    "type": "drone",
+    "text": "Удмурская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-31T04:23:31+00:00",
+    "expires_at": "2026-08-31T05:23:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Республика Татарстан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-08-31T04:25:15+00:00",
+    "expires_at": "2026-08-31T05:25:15+00:00",
     "count": null,
     "count_approx": false
   }
