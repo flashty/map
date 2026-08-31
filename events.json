@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_121597_Белгородский",
-    "channel": "kupolrussia",
-    "date": "2026-08-30T03:54:42+00:00",
-    "text": "Белгородский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "LPRalarm_227169",
-    "channel": "LPRalarm",
-    "date": "2026-08-30T03:56:59+00:00",
-    "text": "Орехово Желобок трасса Бахмутка Лнр \nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_121598",
-    "channel": "kupolrussia",
-    "date": "2026-08-30T03:57:07+00:00",
-    "text": "Орехово Желобок трасса Бахмутка Лнр \nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_86400",
-    "channel": "vrv_radar",
-    "date": "2026-08-30T03:57:54+00:00",
-    "text": "Ленинградская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ленинградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_86401",
-    "channel": "vrv_radar",
-    "date": "2026-08-30T03:58:00+00:00",
-    "text": "Псковская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Псковская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_83110",
-    "channel": "locatorru",
-    "date": "2026-08-30T03:58:11+00:00",
-    "text": "Ленинградская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ленинградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_83111",
     "channel": "locatorru",
     "date": "2026-08-30T03:58:30+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_86590_Дмитровский",
+    "channel": "vrv_radar",
+    "date": "2026-08-31T12:15:57+00:00",
+    "text": "Дмитровский район\nОрловская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Дмитровский",
+    "region": "Орловская область",
+    "lat": 52.6670934,
+    "lon": 35.5664814
+  },
+  {
+    "id": "radarrussiia_90888_Дмитровский",
+    "channel": "radarrussiia",
+    "date": "2026-08-31T12:16:31+00:00",
+    "text": "Дмитровский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Дмитровский",
+    "region": "Орловская область",
+    "lat": 52.6670934,
+    "lon": 35.5664814
+  },
+  {
+    "id": "LPRalarm_227806",
+    "channel": "LPRalarm",
+    "date": "2026-08-31T12:20:16+00:00",
+    "text": "Трасса Мелитополь - Бердянск высокая активность БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_227807_Шебекинский",
+    "channel": "LPRalarm",
+    "date": "2026-08-31T12:26:37+00:00",
+    "text": "Ржевка премиксы и близлежащие \nШебекинский район \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": null,
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "LPRalarm_227808_Кировский",
+    "channel": "LPRalarm",
+    "date": "2026-08-31T12:29:15+00:00",
+    "text": "Кировское Кировский район северная часть тревога по БПЛА и далее, возможно, в направлении Керчь через Азовское море",
+    "type": "drone",
+    "location_name": "Кировский",
+    "region": null,
+    "lat": 51.298489,
+    "lon": 36.685303
+  },
+  {
+    "id": "LPRalarm_227809",
+    "channel": "LPRalarm",
+    "date": "2026-08-31T12:31:15+00:00",
+    "text": "Пантелеймоновка, Пятихатки, Корсунь, Енакиево ДНР и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
