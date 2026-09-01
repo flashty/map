@@ -1,14 +1,4 @@
 {
-  "самарск": {
-    "display_name": "Самарская область",
-    "type": "drone",
-    "text": "Безенчукский район\nСамарская область\nПродолжаются фиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-01T01:16:01+00:00",
-    "expires_at": "2026-09-01T02:16:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
@@ -19,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "оренбургск": {
-    "display_name": "Оренбургская область",
-    "type": "drone",
-    "text": "Оренбургская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-01T00:26:30+00:00",
-    "expires_at": "2026-09-01T01:26:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
@@ -36,16 +16,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-01T01:09:28+00:00",
     "expires_at": "2026-09-01T02:09:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Кромской район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-01T00:18:02+00:00",
-    "expires_at": "2026-09-01T01:18:02+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +76,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-01T01:13:52+00:00",
     "expires_at": "2026-09-01T02:13:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "самарск": {
+    "display_name": "Самарская область",
+    "type": "drone",
+    "text": "Безенчукский район\nСамарская область\nЕщё фиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-01T01:29:38+00:00",
+    "expires_at": "2026-09-01T02:29:38+00:00",
     "count": null,
     "count_approx": false
   }
