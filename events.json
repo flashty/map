@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_227838",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T13:27:30+00:00",
-    "text": "Суворово\nЕвпатория \nИ близлежащие \nОпасность по БПЛА у том числе реактивным",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122199",
-    "channel": "kupolrussia",
-    "date": "2026-08-31T13:27:39+00:00",
-    "text": "Суворово\nЕвпатория \nИ близлежащие \nОпасность по БПЛА у том числе реактивным",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_86595_Тверь",
-    "channel": "vrv_radar",
-    "date": "2026-08-31T13:29:58+00:00",
-    "text": "Тверь\nТверская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Тверь",
-    "region": "Тверская область",
-    "lat": 56.858675,
-    "lon": 35.9208284
-  },
-  {
-    "id": "LPRalarm_227839",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T13:31:24+00:00",
-    "text": "Кировский район \nРеспублика Крым \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122200",
-    "channel": "kupolrussia",
-    "date": "2026-08-31T13:31:50+00:00",
-    "text": "Кировский район \nРеспублика Крым \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_90893_Тверь",
-    "channel": "radarrussiia",
-    "date": "2026-08-31T13:32:29+00:00",
-    "text": "Тверь\nТверская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Тверь",
-    "region": "Тверская область",
-    "lat": 56.858675,
-    "lon": 35.9208284
-  },
-  {
-    "id": "LPRalarm_227840",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T13:33:21+00:00",
-    "text": "Брянская область \nОпасность по БПЛА действует \n\nМеры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122201",
-    "channel": "kupolrussia",
-    "date": "2026-08-31T13:33:35+00:00",
-    "text": "Брянская область \nОпасность по БПЛА действует \n\nМеры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_227841",
     "channel": "LPRalarm",
     "date": "2026-08-31T13:33:49+00:00",
@@ -21996,6 +21908,94 @@
     "type": "drone",
     "location_name": null,
     "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228301",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T12:47:47+00:00",
+    "text": "Шебекино и район \nТревога по БПЛА и ФПВ сохраняется \nКрайне высокая активность",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122597",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T12:48:01+00:00",
+    "text": "Шебекино и район \nТревога по БПЛА и ФПВ сохраняется \nКрайне высокая активность",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228302",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T12:48:49+00:00",
+    "text": "Федеральная трасса \nШебекино Маслова Пристань \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122598",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T12:49:06+00:00",
+    "text": "Федеральная трасса \nШебекино Маслова Пристань \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228303",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T12:51:39+00:00",
+    "text": "ЛДНР отбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122599",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T12:51:54+00:00",
+    "text": "ЛДНР",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228304",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T12:58:00+00:00",
+    "text": "Феодосия \nРеспублика Крым \nУчения",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122600",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T12:58:17+00:00",
+    "text": "Феодосия \nРеспублика Крым\nД\\ученияи/ №",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
