@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_227682",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T07:18:22+00:00",
-    "text": "Дорога\nАкимовка- Мелитополь \nОпасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122056",
-    "channel": "kupolrussia",
-    "date": "2026-08-31T07:18:33+00:00",
-    "text": "Дорога\nАкимовка- Мелитополь \nЗапорожская область РФ\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_86572",
-    "channel": "vrv_radar",
-    "date": "2026-08-31T07:19:50+00:00",
-    "text": "Челябинская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Челябинская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_83269",
     "channel": "locatorru",
     "date": "2026-08-31T07:20:00+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228168_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T05:11:20+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_122483_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T05:11:50+00:00",
+    "text": "Белгородский район\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "radarrussiia_91094",
+    "channel": "radarrussiia",
+    "date": "2026-09-01T05:12:10+00:00",
+    "text": "Вологодская область\nЯрославская область\nПензенская область\nСаратовская область \nВоронежская область\nУльяновская область\nРеспублика Мордовия\nТамбовская область\n\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Вологодская область",
     "lat": null,
     "lon": null
   }
