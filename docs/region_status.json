@@ -12,10 +12,10 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Можайский\nМосковская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-01T17:40:33+00:00",
-    "expires_at": "2026-09-01T18:40:33+00:00",
+    "text": "ГО Можайский\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-01T17:50:13+00:00",
+    "expires_at": "2026-09-01T18:50:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -23,9 +23,49 @@
     "display_name": "Запорожская область",
     "type": "drone",
     "text": "Каменка-Днепровская, Энергодар, Днепрорудное \nЗапорожская область РФ \n\nОпасность по БПЛА с севера через р. Днепр",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-01T17:45:44+00:00",
-    "expires_at": "2026-09-01T18:45:44+00:00",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-01T17:45:54+00:00",
+    "expires_at": "2026-09-01T18:45:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Донецк, Макеевка ДНР и близлежащие \nОпасность по реактивным БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-01T17:48:00+00:00",
+    "expires_at": "2026-09-01T18:48:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Орловская область\nОпасность по БПЛА от Брянской области\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-01T17:52:48+00:00",
+    "expires_at": "2026-09-01T18:52:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Навля, Карачев, Дмитровск Орловский и далее на Орловскую область \n\nКурская область по стыку с Брянской областью и далее на Орловскую область \n\nТревога по БПЛА. Многочисленные фиксации",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-01T17:52:24+00:00",
+    "expires_at": "2026-09-01T18:52:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Суземский район\nБрянская область\n\nТревога по БПЛА сохраняется",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-01T17:59:12+00:00",
+    "expires_at": "2026-09-01T18:59:12+00:00",
     "count": null,
     "count_approx": false
   }
