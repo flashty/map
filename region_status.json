@@ -1,11 +1,11 @@
 {
   "брянск": {
-    "display_name": "Брянскую область",
+    "display_name": "Брянская область",
     "type": "drone",
-    "text": "От 20 БПЛА через Брянскую область в направлении Московской области.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-09-01T13:24:51+00:00",
-    "expires_at": "2026-09-01T14:24:51+00:00",
+    "text": "Погарский район\n пролёт бпла противника в тыл\nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-01T13:31:41+00:00",
+    "expires_at": "2026-09-01T14:31:41+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,6 +26,46 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-01T13:10:30+00:00",
     "expires_at": "2026-09-01T14:10:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Орловская область \nОпасность по БПЛА от Брянской области",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-01T13:31:52+00:00",
+    "expires_at": "2026-09-01T14:31:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Причерноморье Краснодарский край \nВозможно группа БПЛА в обход Крыма",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-01T13:34:25+00:00",
+    "expires_at": "2026-09-01T14:34:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "alert",
+    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-01T13:37:04+00:00",
+    "expires_at": "2026-09-01T14:37:04+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калуга\nКалужская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-01T13:43:26+00:00",
+    "expires_at": "2026-09-01T14:43:26+00:00",
     "count": null,
     "count_approx": false
   }
