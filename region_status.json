@@ -32,10 +32,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Тарханкут \nОленевка и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-01T16:30:33+00:00",
-    "expires_at": "2026-09-01T17:30:33+00:00",
+    "text": "Судак, Новый Свет и близлежащие\nРеспублика Крым\n\nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-01T17:06:06+00:00",
+    "expires_at": "2026-09-01T18:06:06+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +56,16 @@
     "channel": "locatorru",
     "updated_at": "2026-09-01T17:00:27+00:00",
     "expires_at": "2026-09-01T18:00:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Новозыбков, Брянская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-01T17:13:30+00:00",
+    "expires_at": "2026-09-01T18:13:30+00:00",
     "count": null,
     "count_approx": false
   }
