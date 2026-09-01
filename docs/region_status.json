@@ -2,10 +2,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Брянск и близлежащие \nБрянская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Клинцы \nСураж и близлежащие \nБрянская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-01T12:45:26+00:00",
-    "expires_at": "2026-09-01T13:45:26+00:00",
+    "updated_at": "2026-09-01T13:14:40+00:00",
+    "expires_at": "2026-09-01T14:14:40+00:00",
     "count": null,
     "count_approx": false
   },
@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калужская область\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-01T12:14:31+00:00",
-    "expires_at": "2026-09-01T13:14:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "alert",
@@ -39,36 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Тульская область\nЛипецкая область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-01T12:02:13+00:00",
-    "expires_at": "2026-09-01T13:02:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Воронежская область \nЛипецкая область \n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-09-01T12:02:53+00:00",
-    "expires_at": "2026-09-01T13:02:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тамбовск": {
-    "display_name": "Тамбовской области",
-    "type": "drone",
-    "text": "От Курской области в сторону по границе Липецкой области, Воронежской области, Тамбовской области - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-01T12:02:34+00:00",
-    "expires_at": "2026-09-01T13:02:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
@@ -76,6 +36,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-01T12:32:26+00:00",
     "expires_at": "2026-09-01T13:32:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Чонгар и близлежащие \nХерсонская область РФ \nОпасность по БПЛА Хорнет",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-01T13:01:40+00:00",
+    "expires_at": "2026-09-01T14:01:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка, Пантелеймоновка, Корсунь, Карло, Енакиево, Углегорск ДНР и близлежащие \n\nОпасность по БПЛА и возможным ФПВ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-01T13:10:30+00:00",
+    "expires_at": "2026-09-01T14:10:30+00:00",
     "count": null,
     "count_approx": false
   }
