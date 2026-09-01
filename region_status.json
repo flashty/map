@@ -28,5 +28,25 @@
     "expires_at": "2026-09-01T05:13:30+00:00",
     "count": null,
     "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Тульская область \nОпасность по БПЛА сохраняется",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-01T04:42:36+00:00",
+    "expires_at": "2026-09-01T05:42:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Орловская область сохраняется опасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-01T04:44:40+00:00",
+    "expires_at": "2026-09-01T05:44:40+00:00",
+    "count": null,
+    "count_approx": false
   }
 }
