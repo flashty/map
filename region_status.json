@@ -2,30 +2,20 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Пантелеймоновка, Михайловка, Корсунь, Енакиево ДНР и близлежащие \nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-01T15:44:35+00:00",
-    "expires_at": "2026-09-01T16:44:35+00:00",
+    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-01T16:09:14+00:00",
+    "expires_at": "2026-09-01T17:09:14+00:00",
     "count": null,
     "count_approx": false
   },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Износковский район\nСухиничский район\nБарятинский район\nКалужская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-01T15:38:05+00:00",
-    "expires_at": "2026-09-01T16:38:05+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "Московская область \nОпасность по БПЛА сохраняется",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-01T15:55:47+00:00",
-    "expires_at": "2026-09-01T16:55:47+00:00",
+    "text": "Храпеево, Жуковский район, Калужская область - опасность по БПЛА и в направлении Величково и на Московскую область. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-01T16:05:38+00:00",
+    "expires_at": "2026-09-01T17:05:38+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,16 +46,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-01T15:24:48+00:00",
     "expires_at": "2026-09-01T16:24:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Каховка БПЛА разведчик\nХерсонская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-01T15:07:49+00:00",
-    "expires_at": "2026-09-01T16:07:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,6 +96,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-01T15:39:11+00:00",
     "expires_at": "2026-09-01T16:39:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рязанская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-01T16:15:31+00:00",
+    "expires_at": "2026-09-01T17:15:31+00:00",
     "count": null,
     "count_approx": false
   }
