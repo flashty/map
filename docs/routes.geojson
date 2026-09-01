@@ -5,6 +5,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-09-01T13:11:37+00:00",
+        "last_updated": "2026-09-01T13:46:38+00:00",
+        "path_labels": [
+          "Погребы (Брянская область)",
+          "Брянск"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.531147,
+            52.653973
+          ],
+          [
+            34.3668288,
+            53.2423778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-09-01T13:24:51+00:00",
         "last_updated": "2026-09-01T13:24:51+00:00",
         "path_labels": [
