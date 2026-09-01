@@ -12,10 +12,10 @@
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
-    "text": "Курск\nКурчатов\nИ близлежащие\nКурская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-01T19:47:41+00:00",
-    "expires_at": "2026-09-01T20:47:41+00:00",
+    "text": "г.Курск и район, Курская область - меры предосторожности при БПЛА.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-01T20:47:54+00:00",
+    "expires_at": "2026-09-01T21:47:54+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,16 +26,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-01T20:15:28+00:00",
     "expires_at": "2026-09-01T21:15:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "missile",
-    "text": "Симферопольский район \nРакетная опасность \nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-01T19:51:19+00:00",
-    "expires_at": "2026-09-01T20:51:19+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +56,26 @@
     "channel": "locatorru",
     "updated_at": "2026-09-01T20:42:46+00:00",
     "expires_at": "2026-09-01T21:42:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Мелитополь и близлежащие\nТревога по БПЛА\nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-01T20:55:57+00:00",
+    "expires_at": "2026-09-01T21:55:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Сочи и близлежащие\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-01T20:57:39+00:00",
+    "expires_at": "2026-09-01T21:57:39+00:00",
     "count": null,
     "count_approx": false
   }
