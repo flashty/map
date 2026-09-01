@@ -1,115 +1,5 @@
 [
   {
-    "id": "LPRalarm_227848",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T13:54:09+00:00",
-    "text": "От Тарханкут до Севастополь прибрежная зона \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122208",
-    "channel": "kupolrussia",
-    "date": "2026-08-31T13:54:16+00:00",
-    "text": "От Тарханкут до Севастополь прибрежная зона \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227849",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T13:55:20+00:00",
-    "text": "На Мелитополь с севера опасность по БПЛА \n\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122209",
-    "channel": "kupolrussia",
-    "date": "2026-08-31T13:55:27+00:00",
-    "text": "На Мелитополь с севера опасность по БПЛА \n\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_14208",
-    "channel": "radar_plus_bpla",
-    "date": "2026-08-31T14:00:09+00:00",
-    "text": "Тульская область\nТверская область\nМосковская область\n\nОпасность БПЛА. Массовые фиксации в небе по направлению Московской области.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227850",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T14:04:16+00:00",
-    "text": "Новоозерное \nМирный \nШтормовое \nВитино \nМолочное\nУютное \nЗаозёрное \nЕвпатория и близлежащие тревога по БПЛА с моря",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122210",
-    "channel": "kupolrussia",
-    "date": "2026-08-31T14:05:24+00:00",
-    "text": "Новоозерное \nМирный \nШтормовое \nВитино \nМолочное\nУютное \nЗаозёрное \nЕвпатория и близлежащие тревога по БПЛА с моря\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227851",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T14:06:54+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122211",
-    "channel": "kupolrussia",
-    "date": "2026-08-31T14:07:26+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_83293_Маска",
-    "channel": "locatorru",
-    "date": "2026-08-31T14:09:01+00:00",
-    "text": "Сегодня картина наконец-то прояснилась.\n\nВо-первых, усилилось давление на страну 404.\n\nВо-вторых, заметно возросла активность спутниковой группировки Старлинк в небе над центральными регионами России.\n\nВ-третьих, в Москву прибыл глава ЦРУ.\n\nВ-четвёртых, Маск не исключил, что всу могут получить через Старлинк возможность наносить удары в глубину РФ. \n\nЕсли честно, даже первых трёх пунктов было бы достаточно, чтобы сделать выводы. Но тогда это казалось немного преждевременным. Теперь же всё встало",
-    "type": "missile",
-    "location_name": "Маска",
-    "region": null,
-    "lat": 65.2723533,
-    "lon": 176.3519519
-  },
-  {
     "id": "locatorru_83294",
     "channel": "locatorru",
     "date": "2026-08-31T14:11:40+00:00",
@@ -21998,5 +21888,115 @@
     "region": "Брянская область",
     "lat": 52.758511,
     "lon": 32.240097
+  },
+  {
+    "id": "LPRalarm_228313",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T13:19:25+00:00",
+    "text": "Климово Брянской области фиксации бпла в направление Клинцы, Унеча, Брянск",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228314",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T13:19:41+00:00",
+    "text": "Брянская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122608",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T13:19:50+00:00",
+    "text": "Климово Брянской области фиксации бпла в направление Клинцы, Унеча, Брянск",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122609",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T13:20:00+00:00",
+    "text": "Брянская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_83426",
+    "channel": "locatorru",
+    "date": "2026-09-01T13:21:41+00:00",
+    "text": "Погарский район, Брянская область - фиксации БПЛА на электротяге. \n\nКлинцовский район, Климовский район - фиксации бензиновых БПЛА в тыл. \n\nБелая Берёзка, Трубчевский район, Брянская область - активность FPV-дронов, бьют по школе. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_91120",
+    "channel": "radarrussiia",
+    "date": "2026-09-01T13:21:50+00:00",
+    "text": "Брянская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228315",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T13:21:52+00:00",
+    "text": "Суземка и ближайшее \nБрянская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122610",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T13:22:08+00:00",
+    "text": "Суземка и ближайшее \nБрянская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14224",
+    "channel": "radar_plus_bpla",
+    "date": "2026-09-01T13:24:51+00:00",
+    "text": "От 20 БПЛА через Брянскую область в направлении Московской области.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянскую область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_83427",
+    "channel": "locatorru",
+    "date": "2026-09-01T13:29:38+00:00",
+    "text": "Московская область - отбой опасности по БПЛА. Режим внимания. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
   }
 ]
