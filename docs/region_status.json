@@ -1,41 +1,11 @@
 {
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "Тагай, Майнский район, Ульяновская область - фиксации БПЛА на север в сторону Республики Татарстан. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-31T23:32:29+00:00",
-    "expires_at": "2026-09-01T00:32:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "самарск": {
     "display_name": "Самарская область",
-    "type": "drone",
-    "text": "Новокуйбышевск\nСамарская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-01T00:28:30+00:00",
-    "expires_at": "2026-09-01T01:28:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "татарст": {
-    "display_name": "Республики Татарстан",
-    "type": "drone",
-    "text": "Тагай, Майнский район, Ульяновская область - фиксации БПЛА на север в сторону Республики Татарстан. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-08-31T23:32:29+00:00",
-    "expires_at": "2026-09-01T00:32:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "чуваш": {
-    "display_name": "Республика Чувашия",
-    "type": "drone",
-    "text": "Республика Чувашия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-08-31T23:34:44+00:00",
-    "expires_at": "2026-09-01T00:34:44+00:00",
+    "type": "alert",
+    "text": "Сызрань \nСамарская область\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-01T00:45:42+00:00",
+    "expires_at": "2026-09-01T01:45:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -112,10 +82,20 @@
   "башкортост": {
     "display_name": "Республика Башкортостан",
     "type": "drone",
-    "text": "Республика Башкортостан\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Уфа и близлежащие\nРеспублика Башкортостан\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-01T00:29:14+00:00",
-    "expires_at": "2026-09-01T01:29:14+00:00",
+    "updated_at": "2026-09-01T00:44:25+00:00",
+    "expires_at": "2026-09-01T01:44:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область, тревога по БПЛА сохраняется",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-01T00:38:56+00:00",
+    "expires_at": "2026-09-01T01:38:56+00:00",
     "count": null,
     "count_approx": false
   }
