@@ -12,10 +12,10 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Храпеево, Жуковский район, Калужская область - опасность по БПЛА и в направлении Величково и на Московскую область. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-01T16:05:38+00:00",
-    "expires_at": "2026-09-01T17:05:38+00:00",
+    "text": "Московская область \nКалужская область \nТревога по БПЛА \nПовторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-01T16:26:55+00:00",
+    "expires_at": "2026-09-01T17:26:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,43 +39,13 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Курская область \nБрянская область \nПовторно\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-01T15:24:48+00:00",
-    "expires_at": "2026-09-01T16:24:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Геленджик\nКраснодарский край\nПродолжается работа ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-01T15:54:06+00:00",
-    "expires_at": "2026-09-01T16:54:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Туапсе и близлежащие \nОпасность по БПЛА \nКраснодарский край\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-01T15:21:15+00:00",
-    "expires_at": "2026-09-01T16:21:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Курская область \nБрянская область \nПовторно\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-01T15:24:48+00:00",
-    "expires_at": "2026-09-01T16:24:48+00:00",
+    "updated_at": "2026-09-01T16:28:41+00:00",
+    "expires_at": "2026-09-01T17:28:41+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +76,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-01T16:15:31+00:00",
     "expires_at": "2026-09-01T17:15:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Тарханкут \nОленевка и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-01T16:30:33+00:00",
+    "expires_at": "2026-09-01T17:30:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Московская область \nКалужская область \nТревога по БПЛА \nПовторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-01T16:26:55+00:00",
+    "expires_at": "2026-09-01T17:26:55+00:00",
     "count": null,
     "count_approx": false
   }
