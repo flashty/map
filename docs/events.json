@@ -1,71 +1,5 @@
 [
   {
-    "id": "radarrussiia_90896_Людиновский",
-    "channel": "radarrussiia",
-    "date": "2026-08-31T14:28:22+00:00",
-    "text": "Людиновский район\nУльяновский район\nКалужская область\nФиксация от 4 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Людиновский",
-    "region": "Калужская область",
-    "lat": 53.8940803,
-    "lon": 34.4615879
-  },
-  {
-    "id": "radarrussiia_90896_Ульяновский",
-    "channel": "radarrussiia",
-    "date": "2026-08-31T14:28:22+00:00",
-    "text": "Людиновский район\nУльяновский район\nКалужская область\nФиксация от 4 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Ульяновский",
-    "region": "Калужская область",
-    "lat": 53.7054494,
-    "lon": 35.6146918
-  },
-  {
-    "id": "radarrussiia_90897_Знаменский",
-    "channel": "radarrussiia",
-    "date": "2026-08-31T14:28:40+00:00",
-    "text": "Знаменский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Знаменский",
-    "region": "Орловская область",
-    "lat": 52.9974809,
-    "lon": 36.066136
-  },
-  {
-    "id": "LPRalarm_227859",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T14:30:02+00:00",
-    "text": "Новопокровка и далее на Феодосию опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122219",
-    "channel": "kupolrussia",
-    "date": "2026-08-31T14:30:18+00:00",
-    "text": "Новопокровка и далее на Феодосию опасность по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227860",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T14:30:22+00:00",
-    "text": "г. Бахчисарай тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_122220",
     "channel": "kupolrussia",
     "date": "2026-08-31T14:30:36+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Московская область",
     "lat": 55.4977734,
     "lon": 36.0306821
+  },
+  {
+    "id": "vrv_radar_86930",
+    "channel": "vrv_radar",
+    "date": "2026-09-01T14:16:32+00:00",
+    "text": "Липецкая область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228325",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T14:24:24+00:00",
+    "text": "Раздольненский район и близлежащие \nВнимание по БПЛА с моря \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122619",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T14:24:40+00:00",
+    "text": "Раздольненский район и близлежащие \nВнимание по БПЛА с моря \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_86931_Урицкий",
+    "channel": "vrv_radar",
+    "date": "2026-09-01T14:26:13+00:00",
+    "text": "Урицкий район\nОрловская область\nФиксация БПЛА со стороны Хотынецкого района",
+    "type": "drone",
+    "location_name": "Урицкий",
+    "region": "Орловская область",
+    "lat": 52.3825189,
+    "lon": 37.881624
+  },
+  {
+    "id": "LPRalarm_228326",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T14:30:23+00:00",
+    "text": "Орёл и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122620",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T14:30:42+00:00",
+    "text": "Орёл и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
