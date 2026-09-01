@@ -1,115 +1,5 @@
 [
   {
-    "id": "vrv_radar_86568",
-    "channel": "vrv_radar",
-    "date": "2026-08-31T06:45:25+00:00",
-    "text": "Липецкая область \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122038",
-    "channel": "kupolrussia",
-    "date": "2026-08-31T06:45:27+00:00",
-    "text": "Тамбовская область ракетная опасность от Воронежской и Липецкой области",
-    "type": "missile",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227664",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T06:45:30+00:00",
-    "text": "Тамбовская область ракетная опасность от Воронежской и Липецкой области",
-    "type": "missile",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_83264",
-    "channel": "locatorru",
-    "date": "2026-08-31T06:46:01+00:00",
-    "text": "Возможно ещё были пуски крылатых ракет в сторону Новооскольского района, Белгородской области и далее на Липецкую область, Тамбовскую область, Воронежскую область. \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_83265",
-    "channel": "locatorru",
-    "date": "2026-08-31T06:46:06+00:00",
-    "text": "Тамбовская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122039",
-    "channel": "kupolrussia",
-    "date": "2026-08-31T06:46:12+00:00",
-    "text": "Саратовская область ракетная опасность от Воронежской области",
-    "type": "missile",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227665",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T06:46:15+00:00",
-    "text": "Саратовская область ракетная опасность от Воронежской области",
-    "type": "missile",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122040",
-    "channel": "kupolrussia",
-    "date": "2026-08-31T06:46:45+00:00",
-    "text": "Рязанская область ракетная опасность от Липецкой области",
-    "type": "missile",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227666",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T06:46:48+00:00",
-    "text": "Рязанская область ракетная опасность от Липецкой области",
-    "type": "missile",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227667",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T06:49:16+00:00",
-    "text": "ОТБОЙ РАКЕТНОЙ ОПАСНОСТИ в Белгородской области",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Белгородской области",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_122041",
     "channel": "kupolrussia",
     "date": "2026-08-31T06:49:38+00:00",
@@ -21996,6 +21886,116 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Республика Татарстан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_83401_Чувашская",
+    "channel": "locatorru",
+    "date": "2026-09-01T03:46:09+00:00",
+    "text": "Чувашская Республика - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": "Чувашская",
+    "region": "Республика -",
+    "lat": 55.8234944,
+    "lon": 46.8306383
+  },
+  {
+    "id": "LPRalarm_228151",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T03:47:15+00:00",
+    "text": "Энергодар, близлежащие и далее в тыл\nОпасность по БПЛА от Днепропетровской области\n\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122471",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T03:47:52+00:00",
+    "text": "Республика Чувашия \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Чувашия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228152",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T03:47:54+00:00",
+    "text": "Республика Чувашия \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Чувашия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228153",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T03:54:28+00:00",
+    "text": "Мирная долина Горское хорнет Лнр",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228154",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T03:54:54+00:00",
+    "text": "Камышеваха Горское Лнр \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122472",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T03:57:00+00:00",
+    "text": "Оренбургская область \nРеспублика Башкортостан \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Оренбургская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228155",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T03:57:02+00:00",
+    "text": "Оренбургская область \nРеспублика Башкортостан \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Оренбургская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228156",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T04:00:15+00:00",
+    "text": "Огромное спасибо!\n❤️❤️❤️\nhttps://pay.cloudtips.ru/p/f2a9c1d8",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_86886",
+    "channel": "vrv_radar",
+    "date": "2026-09-01T04:01:10+00:00",
+    "text": "Московская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Московская область",
     "lat": null,
     "lon": null
   }
