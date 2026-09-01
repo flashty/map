@@ -22,30 +22,20 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Думиничский район\nКалужская область\nФиксация от 2 БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-01T14:42:29+00:00",
-    "expires_at": "2026-09-01T15:42:29+00:00",
-    "count": 2,
+    "text": "Калужская область \nМосковская область\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-01T15:25:01+00:00",
+    "expires_at": "2026-09-01T16:25:01+00:00",
+    "count": null,
     "count_approx": false
   },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Шаховская\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-01T14:46:20+00:00",
-    "expires_at": "2026-09-01T15:46:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Раздольненский район и близлежащие \nВнимание по БПЛА с моря \nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-01T14:24:40+00:00",
-    "expires_at": "2026-09-01T15:24:40+00:00",
+    "text": "Калужская область \nМосковская область\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-01T15:25:01+00:00",
+    "expires_at": "2026-09-01T16:25:01+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,10 +62,10 @@
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
-    "text": "Трасса Рыльск - Льгов\nКурская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Курская область \nБрянская область \nПовторно\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-01T15:11:57+00:00",
-    "expires_at": "2026-09-01T16:11:57+00:00",
+    "updated_at": "2026-09-01T15:24:48+00:00",
+    "expires_at": "2026-09-01T16:24:48+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +76,66 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-01T15:07:49+00:00",
     "expires_at": "2026-09-01T16:07:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рязанская область \nОпасность по БПЛА \nЕдиничные фиксации",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-01T15:25:13+00:00",
+    "expires_at": "2026-09-01T16:25:13+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-01T15:21:15+00:00",
+    "expires_at": "2026-09-01T16:21:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-01T15:21:15+00:00",
+    "expires_at": "2026-09-01T16:21:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Курская область \nБрянская область \nПовторно\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-01T15:24:48+00:00",
+    "expires_at": "2026-09-01T16:24:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Смоленская область \nОпасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-01T15:25:53+00:00",
+    "expires_at": "2026-09-01T16:25:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Тверская область \nОпасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-01T15:28:02+00:00",
+    "expires_at": "2026-09-01T16:28:02+00:00",
     "count": null,
     "count_approx": false
   }
