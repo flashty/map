@@ -35,6 +35,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-09-01T17:41:06+00:00",
+        "last_updated": "2026-09-01T18:10:05+00:00",
+        "path_labels": [
+          "Трояново (Курская область)",
+          "Сосковский (Орловская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.238449,
+            52.358711
+          ],
+          [
+            35.3808815,
+            52.742656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-09-01T17:52:00+00:00",
         "last_updated": "2026-09-01T17:52:00+00:00",
         "path_labels": [
