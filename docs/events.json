@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_227739",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T10:06:20+00:00",
-    "text": "Трубчевск и близлежащие \nБрянская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122119",
-    "channel": "kupolrussia",
-    "date": "2026-08-31T10:06:32+00:00",
-    "text": "Трубчевск и близлежащие \nБрянская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227740",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T10:06:44+00:00",
-    "text": "Глотово Баба Яга \nБелгородская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227741",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T10:09:05+00:00",
-    "text": "Короча и близлежащие \nБелгородская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122120",
-    "channel": "kupolrussia",
-    "date": "2026-08-31T10:09:26+00:00",
-    "text": "Короча и близлежащие \nБелгородская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_86581",
-    "channel": "vrv_radar",
-    "date": "2026-08-31T10:10:32+00:00",
-    "text": "Калужская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122121",
-    "channel": "kupolrussia",
-    "date": "2026-08-31T10:11:27+00:00",
-    "text": "Калужская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу © \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227742",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T10:11:30+00:00",
-    "text": "Калужская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу © \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_86582",
     "channel": "vrv_radar",
     "date": "2026-08-31T10:11:46+00:00",
@@ -21996,6 +21908,94 @@
     "type": "drone",
     "location_name": null,
     "region": "Одесская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228230_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T09:02:52+00:00",
+    "text": "Белгородский район опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_122537_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T09:06:09+00:00",
+    "text": "Белгородский район опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_228231",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T09:08:53+00:00",
+    "text": "Коренево\n Опасность по  БПЛА\nКурская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122538_Коренево",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T09:09:05+00:00",
+    "text": "Коренево\nКурская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Коренево",
+    "region": "Курская область",
+    "lat": 51.4097355,
+    "lon": 34.8935076
+  },
+  {
+    "id": "LPRalarm_228232",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T09:11:47+00:00",
+    "text": "Керченский полуостров \nКерчь\nПорт Крым и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122539",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T09:12:11+00:00",
+    "text": "Керченский полуостров \nКерчь\nПорт Крым и близлежащие \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228233",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T09:14:49+00:00",
+    "text": "Докучаевск, Старобешево, Кутейниково, Амвросиевка ДНР и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122540",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T09:15:29+00:00",
+    "text": "Докучаевск, Старобешево, Кутейниково, Амвросиевка ДНР и близлежащие\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
