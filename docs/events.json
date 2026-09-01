@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_86620_Хвастовичский",
-    "channel": "vrv_radar",
-    "date": "2026-08-31T18:21:02+00:00",
-    "text": "Хвастовичский район\nКалужская область\nФиксация от 3 БПЛА",
-    "type": "drone",
-    "location_name": "Хвастовичский",
-    "region": "Калужская область",
-    "lat": 53.4981708,
-    "lon": 35.1820052
-  },
-  {
-    "id": "LPRalarm_227955_Трубчевский",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T18:21:16+00:00",
-    "text": "Трубчевский район\nБрянская область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Трубчевский",
-    "region": "Брянская область",
-    "lat": 52.5867776,
-    "lon": 33.7892267
-  },
-  {
-    "id": "vrv_radar_86621_Жиздринский",
-    "channel": "vrv_radar",
-    "date": "2026-08-31T18:21:20+00:00",
-    "text": "Жиздринский район\nКалужская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Жиздринский",
-    "region": "Калужская область",
-    "lat": 53.6378048,
-    "lon": 34.7343468
-  },
-  {
-    "id": "vrv_radar_86622_Людиновский",
-    "channel": "vrv_radar",
-    "date": "2026-08-31T18:21:33+00:00",
-    "text": "Людиновский район\nКалужская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Людиновский",
-    "region": "Калужская область",
-    "lat": 53.8940803,
-    "lon": 34.4615879
-  },
-  {
-    "id": "kupolrussia_122304_Трубчевский",
-    "channel": "kupolrussia",
-    "date": "2026-08-31T18:21:39+00:00",
-    "text": "Трубчевский район\nБрянская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Трубчевский",
-    "region": "Брянская область",
-    "lat": 52.5867776,
-    "lon": 33.7892267
-  },
-  {
-    "id": "vrv_radar_86623_Сухиничский",
-    "channel": "vrv_radar",
-    "date": "2026-08-31T18:21:49+00:00",
-    "text": "Сухиничский район\nКалужская область\nФиксация от 4 БПЛА",
-    "type": "drone",
-    "location_name": "Сухиничский",
-    "region": "Калужская область",
-    "lat": 54.0945612,
-    "lon": 35.3488687
-  },
-  {
     "id": "kupolrussia_122305",
     "channel": "kupolrussia",
     "date": "2026-08-31T18:21:57+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228397",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T18:46:26+00:00",
+    "text": "Курахово, Марьинка, Донецк, Еленовка, Докучаевск ДНР и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122680",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T18:47:16+00:00",
+    "text": "Курахово, Марьинка, Донецк, Еленовка, Докучаевск ДНР и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228398",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T18:51:29+00:00",
+    "text": "Климово и близлежащие\nТревога по БПЛА\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122681",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T18:51:43+00:00",
+    "text": "Климово и близлежащие\nТревога по БПЛА\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228399",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T18:53:21+00:00",
+    "text": "Донецк ДНР \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122682",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T18:53:43+00:00",
+    "text": "Донецк ДНР \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
