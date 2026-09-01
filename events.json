@@ -1,93 +1,5 @@
 [
   {
-    "id": "radarrussiia_90909_Истра",
-    "channel": "radarrussiia",
-    "date": "2026-08-31T18:38:58+00:00",
-    "text": "МО Истра\nМосковская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Истра",
-    "region": "Московская область",
-    "lat": 55.9145993,
-    "lon": 36.8595482
-  },
-  {
-    "id": "LPRalarm_227979",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T18:39:03+00:00",
-    "text": "Север\nЛНР \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122322",
-    "channel": "kupolrussia",
-    "date": "2026-08-31T18:39:16+00:00",
-    "text": "Север\nЛНР\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227980",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T18:39:25+00:00",
-    "text": "От Приветное в сторону Солнечногорское\n\nОпасность по БПЛА\n\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122323",
-    "channel": "kupolrussia",
-    "date": "2026-08-31T18:39:40+00:00",
-    "text": "От Приветное в сторону Солнечногорское\nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_83316",
-    "channel": "locatorru",
-    "date": "2026-08-31T18:39:41+00:00",
-    "text": "Белгородская область, Воронежская область, Ростовская область - опасность по БПЛА от ЛНР.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227981",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T18:39:54+00:00",
-    "text": "Ростовская область \nВоронежская область \nОпасность по БПЛА от ЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122324",
-    "channel": "kupolrussia",
-    "date": "2026-08-31T18:39:59+00:00",
-    "text": "Ростовская область \nВоронежская область \n от ЛНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_227982",
     "channel": "LPRalarm",
     "date": "2026-08-31T18:40:18+00:00",
@@ -21998,5 +21910,93 @@
     "region": "Республика Крым",
     "lat": 44.9423753,
     "lon": 34.0968267
+  },
+  {
+    "id": "LPRalarm_228423",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T20:08:07+00:00",
+    "text": "Причерноморье Краснодарского края \nНовороссийск, Геленджик и близлежащие \nТревога по ПКР",
+    "type": "alert",
+    "location_name": null,
+    "region": "Краснодарского края",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122704",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T20:08:20+00:00",
+    "text": "Причерноморье Краснодарского края \nНовороссийск, Геленджик и близлежащие \nТревога по ПКР",
+    "type": "alert",
+    "location_name": null,
+    "region": "Краснодарского края",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_83451_Новороссийск",
+    "channel": "locatorru",
+    "date": "2026-09-01T20:10:19+00:00",
+    "text": "Новороссийск, Геленджик и близлежащие, Краснодарский край - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "type": "missile",
+    "location_name": "Новороссийск",
+    "region": "Краснодарский край",
+    "lat": 44.7239578,
+    "lon": 37.7690711
+  },
+  {
+    "id": "LPRalarm_228424",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T20:11:21+00:00",
+    "text": "Белгородская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228425",
+    "channel": "LPRalarm",
+    "date": "2026-09-01T20:11:28+00:00",
+    "text": "Множественные фиксации БПЛА от Харьковской области в направлении Белгородской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122705",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T20:11:39+00:00",
+    "text": "Белгородская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122706",
+    "channel": "kupolrussia",
+    "date": "2026-09-01T20:11:47+00:00",
+    "text": "Множественные фиксации БПЛА от Харьковской области в направлении Белгородской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_91162",
+    "channel": "radarrussiia",
+    "date": "2026-09-01T20:15:28+00:00",
+    "text": "Белгородская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
   }
 ]
