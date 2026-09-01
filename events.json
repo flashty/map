@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_227670",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T07:00:27+00:00",
-    "text": "Свердловская область \nМеры безопасности \nЕщё фиксации БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Свердловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_227671_Валуйский",
-    "channel": "LPRalarm",
-    "date": "2026-08-31T07:00:31+00:00",
-    "text": "Валуйский район приграничье \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": "Валуйский",
-    "region": null,
-    "lat": 53.1481885,
-    "lon": 36.3185713
-  },
-  {
     "id": "kupolrussia_122045_Валуйский",
     "channel": "kupolrussia",
     "date": "2026-08-31T07:00:44+00:00",
@@ -21996,6 +21974,28 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_91092",
+    "channel": "radarrussiia",
+    "date": "2026-09-01T04:27:41+00:00",
+    "text": "Волгоградская область\nОренбургская область\nРеспублика Башкортостан\nРеспублика Татарстан\nМосковская область \nРеспублика Чувашия\nСамарская область\nЛенинградская область\nНовгородская область\nПсковская область\n\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_86892",
+    "channel": "vrv_radar",
+    "date": "2026-09-01T04:30:45+00:00",
+    "text": "Нижегородская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Нижегородская область",
     "lat": null,
     "lon": null
   }
