@@ -42,10 +42,10 @@
   "самарск": {
     "display_name": "Самарская область",
     "type": "alert",
-    "text": "Сызрань\nСамарская область\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-08-31T23:58:54+00:00",
-    "expires_at": "2026-09-01T00:58:54+00:00",
+    "text": "Сызрань\nСамарская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-01T00:01:44+00:00",
+    "expires_at": "2026-09-01T01:01:44+00:00",
     "count": null,
     "count_approx": false
   },
@@ -112,10 +112,10 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Солнечногорск\nГО Истра\nНаро-Фоминский ГО\nАО Троицкий \nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "ГО Мытищи\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-01T00:01:26+00:00",
-    "expires_at": "2026-09-01T01:01:26+00:00",
+    "updated_at": "2026-09-01T00:12:41+00:00",
+    "expires_at": "2026-09-01T01:12:41+00:00",
     "count": null,
     "count_approx": false
   },
@@ -129,13 +129,53 @@
     "count": null,
     "count_approx": false
   },
+  "новгородск": {
+    "display_name": "Новгородская область",
+    "type": "drone",
+    "text": "Новгородский район\nШимский район\nНаговский район\nСтарорусский район\nНовгородская область\nФиксация групп БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-01T00:10:30+00:00",
+    "expires_at": "2026-09-01T01:10:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарско": {
+    "display_name": "Краснодарского края",
+    "type": "alert",
+    "text": "Экстренная информация РСЧС: Отмена БЕСПИЛОТНОЙ ОПАСНОСТИ на территории Краснодарского края. 01.09.26 Телефон 112.",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-01T00:09:26+00:00",
+    "expires_at": "2026-09-01T01:09:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Калуга\nКалужская область\nФиксация БПЛА",
+    "text": "Малоярославецкий район\nДзержинский район\nПеремышльский район\nКалужская область\nФиксации БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-09-01T00:00:26+00:00",
-    "expires_at": "2026-09-01T01:00:26+00:00",
+    "updated_at": "2026-09-01T00:13:49+00:00",
+    "expires_at": "2026-09-01T01:13:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "От Бахчисарая на юг фиксации БПЛА \nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-01T00:14:00+00:00",
+    "expires_at": "2026-09-01T01:14:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Кромской район\nОрловская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-01T00:14:21+00:00",
+    "expires_at": "2026-09-01T01:14:21+00:00",
     "count": null,
     "count_approx": false
   }
