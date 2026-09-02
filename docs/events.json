@@ -1,104 +1,5 @@
 [
   {
-    "id": "vrv_radar_86758_Турковский",
-    "channel": "vrv_radar",
-    "date": "2026-08-31T22:12:04+00:00",
-    "text": "Турковский район\nАркадакский район\nСаратовская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Турковский",
-    "region": "Саратовская область",
-    "lat": 52.1096665,
-    "lon": 43.0360147
-  },
-  {
-    "id": "vrv_radar_86758_Аркадакский",
-    "channel": "vrv_radar",
-    "date": "2026-08-31T22:12:04+00:00",
-    "text": "Турковский район\nАркадакский район\nСаратовская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Аркадакский",
-    "region": "Саратовская область",
-    "lat": 51.8939515,
-    "lon": 43.6566347
-  },
-  {
-    "id": "vrv_radar_86759_Самойловский",
-    "channel": "vrv_radar",
-    "date": "2026-08-31T22:12:43+00:00",
-    "text": "Самойловский район\nКалининский район\nСаратовская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Самойловский",
-    "region": "Саратовская область",
-    "lat": 51.2494111,
-    "lon": 43.7086216
-  },
-  {
-    "id": "vrv_radar_86759_Калининский",
-    "channel": "vrv_radar",
-    "date": "2026-08-31T22:12:43+00:00",
-    "text": "Самойловский район\nКалининский район\nСаратовская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Калининский",
-    "region": "Саратовская область",
-    "lat": 51.443285,
-    "lon": 44.2509472
-  },
-  {
-    "id": "vrv_radar_86760",
-    "channel": "vrv_radar",
-    "date": "2026-08-31T22:12:53+00:00",
-    "text": "Ульяновская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_86761_Киквидзенский",
-    "channel": "vrv_radar",
-    "date": "2026-08-31T22:13:17+00:00",
-    "text": "Киквидзенский район\nВолгоградская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Киквидзенский",
-    "region": "Волгоградская область",
-    "lat": 50.8058606,
-    "lon": 43.1215898
-  },
-  {
-    "id": "vrv_radar_86762_Дмитровский",
-    "channel": "vrv_radar",
-    "date": "2026-08-31T22:13:52+00:00",
-    "text": "Дмитровский район\nОрловская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Дмитровский",
-    "region": "Орловская область",
-    "lat": 52.6670934,
-    "lon": 35.5664814
-  },
-  {
-    "id": "vrv_radar_86763_Торжокский",
-    "channel": "vrv_radar",
-    "date": "2026-08-31T22:14:15+00:00",
-    "text": "Торжокский район\nТверская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Торжокский",
-    "region": "Тверская область",
-    "lat": 56.947601,
-    "lon": 34.9579988
-  },
-  {
-    "id": "vrv_radar_86764_Фировский",
-    "channel": "vrv_radar",
-    "date": "2026-08-31T22:14:41+00:00",
-    "text": "Фировский район\nТверская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Фировский",
-    "region": "Тверская область",
-    "lat": 57.4619526,
-    "lon": 33.6489345
-  },
-  {
     "id": "locatorru_83374",
     "channel": "locatorru",
     "date": "2026-08-31T22:15:04+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122844",
+    "channel": "kupolrussia",
+    "date": "2026-09-02T06:15:48+00:00",
+    "text": "Докучаевск, Старобешево, Иловайск ДНР\nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228594",
+    "channel": "LPRalarm",
+    "date": "2026-09-02T06:17:25+00:00",
+    "text": "Дорога \nМелитополь - Бердянск \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122845",
+    "channel": "kupolrussia",
+    "date": "2026-09-02T06:17:42+00:00",
+    "text": "Дорога \nМелитополь - Бердянск \nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228595",
+    "channel": "LPRalarm",
+    "date": "2026-09-02T06:21:04+00:00",
+    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122846",
+    "channel": "kupolrussia",
+    "date": "2026-09-02T06:21:13+00:00",
+    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228596",
+    "channel": "LPRalarm",
+    "date": "2026-09-02T06:25:06+00:00",
+    "text": "Курская область и близлежащие \nАвиационная ракетно бомбовая опасность \nПовторно",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122847",
+    "channel": "kupolrussia",
+    "date": "2026-09-02T06:25:17+00:00",
+    "text": "Курская область и близлежащие \nПовторно\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228597",
+    "channel": "LPRalarm",
+    "date": "2026-09-02T06:25:55+00:00",
+    "text": "ЛДНР отбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_122848",
+    "channel": "kupolrussia",
+    "date": "2026-09-02T06:26:07+00:00",
+    "text": "ЛДНР",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
