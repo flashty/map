@@ -1,49 +1,5 @@
 [
   {
-    "id": "locatorru_83456",
-    "channel": "locatorru",
-    "date": "2026-09-01T20:47:54+00:00",
-    "text": "г.Курск и район, Курская область - меры предосторожности при БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_228431",
-    "channel": "LPRalarm",
-    "date": "2026-09-01T20:49:52+00:00",
-    "text": "Белгород и близлежащие\nТревога по БПЛА, возможно разведчик, высоко",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_86980_Славянский",
-    "channel": "vrv_radar",
-    "date": "2026-09-01T20:51:56+00:00",
-    "text": "Славянский район\nКраснодарский край\nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Славянский",
-    "region": "Краснодарский край",
-    "lat": 44.6922114,
-    "lon": 40.5186028
-  },
-  {
-    "id": "LPRalarm_228432_Дебальцево",
-    "channel": "LPRalarm",
-    "date": "2026-09-01T20:52:05+00:00",
-    "text": "Через Светлодарск в сторону трассы Светлодарск - Дебальцево  и далее в тыл,  фиксации БПЛА",
-    "type": "drone",
-    "location_name": "Дебальцево",
-    "region": null,
-    "lat": 47.3190637,
-    "lon": 39.6366067
-  },
-  {
     "id": "radarrussiia_91169_Славянский",
     "channel": "radarrussiia",
     "date": "2026-09-01T20:52:09+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228942_Джанкойский",
+    "channel": "LPRalarm",
+    "date": "2026-09-02T22:03:15+00:00",
+    "text": "Чонгар с севера, АПП Джанкой, Джанкойский район северная часть \n\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Джанкойский",
+    "region": null,
+    "lat": 55.5394245,
+    "lon": 37.5744389
+  },
+  {
+    "id": "kupolrussia_123142_Джанкойский",
+    "channel": "kupolrussia",
+    "date": "2026-09-02T22:03:25+00:00",
+    "text": "Чонгар с севера, АПП Джанкой, Джанкойский район северная часть \n\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Джанкойский",
+    "region": null,
+    "lat": 55.5394245,
+    "lon": 37.5744389
+  },
+  {
+    "id": "vrv_radar_87319",
+    "channel": "vrv_radar",
+    "date": "2026-09-02T22:13:03+00:00",
+    "text": "Геленджик и близлежащие \nКраснодарский край \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_91400",
+    "channel": "radarrussiia",
+    "date": "2026-09-02T22:14:52+00:00",
+    "text": "Геленджик и близлежащие \nКраснодарский край \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
