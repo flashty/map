@@ -59,16 +59,6 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Сухиничский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-02T11:15:56+00:00",
-    "expires_at": "2026-09-02T12:15:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "владимирск": {
     "display_name": "Владимирская область",
     "type": "drone",
@@ -112,10 +102,10 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Ясногорский район\nЛенинский район\nЩекинский район\nКуркинский район\nЕфремовский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-02T11:25:52+00:00",
-    "expires_at": "2026-09-02T12:25:52+00:00",
+    "text": "Брусянский, Узловский район, Тульская область - фиксации БПЛА в сторону Новомосковска. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-02T11:45:09+00:00",
+    "expires_at": "2026-09-02T12:45:09+00:00",
     "count": null,
     "count_approx": false
   },
@@ -142,10 +132,50 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Воскресенск\nГО Наро-Фоминск\nГО Серпухов\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Кудыкино, Орехово-Зуевский район, Московская область - пролёты БПЛА на Павловский Посад. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-02T11:44:02+00:00",
+    "expires_at": "2026-09-02T12:44:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ивановск": {
+    "display_name": "Ивановская область",
+    "type": "drone",
+    "text": "Ивановская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-02T11:32:04+00:00",
+    "expires_at": "2026-09-02T12:32:04+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-02T11:25:13+00:00",
-    "expires_at": "2026-09-02T12:25:13+00:00",
+    "updated_at": "2026-09-02T11:39:53+00:00",
+    "expires_at": "2026-09-02T12:39:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-02T11:39:53+00:00",
+    "expires_at": "2026-09-02T12:39:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "чуваш": {
+    "display_name": "Республика Чувашия",
+    "type": "drone",
+    "text": "Республика Чувашия\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-02T11:40:42+00:00",
+    "expires_at": "2026-09-02T12:40:42+00:00",
     "count": null,
     "count_approx": false
   }
