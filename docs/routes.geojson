@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-02T17:05:59+00:00",
+        "last_updated": "2026-09-02T17:37:11+00:00",
+        "path_labels": [
+          "Далёкое",
+          "Портовое"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.2946908,
+            60.7357008
+          ],
+          [
+            30.3249203,
+            60.664534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-02T17:05:59+00:00",
+        "last_updated": "2026-09-02T17:33:50+00:00",
+        "path_labels": [
+          "Славное",
+          "Редкино (Тверская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.0549952,
+            56.9964488
+          ],
+          [
+            36.2909911,
+            56.645784
+          ]
+        ]
+      }
+    }
+  ]
 }
