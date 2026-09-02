@@ -1,11 +1,11 @@
 {
   "калужск": {
-    "display_name": "Калужской области",
+    "display_name": "Калужской область",
     "type": "drone",
-    "text": "Советский район, Фокинский район, Бежицкий район, Володарский район, г.Брянск - опасность по БПЛА и в сторону Калужской области. Пролёты БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-02T22:41:58+00:00",
-    "expires_at": "2026-09-02T23:41:58+00:00",
+    "text": "Стык Брянской и Калужской область\nФиксации групп БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-02T23:11:32+00:00",
+    "expires_at": "2026-09-03T00:11:32+00:00",
     "count": null,
     "count_approx": false
   },
@@ -16,16 +16,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-02T22:40:11+00:00",
     "expires_at": "2026-09-02T23:40:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовской области",
-    "type": "drone",
-    "text": "северная часть Ростовской области - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-02T22:15:56+00:00",
-    "expires_at": "2026-09-02T23:15:56+00:00",
     "count": null,
     "count_approx": false
   },
@@ -42,10 +32,30 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Тула\nТульская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Суворовский район\nБелёвский район\nАрсеньевский район\nТульский район\nТульская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-02T22:27:22+00:00",
-    "expires_at": "2026-09-02T23:27:22+00:00",
+    "updated_at": "2026-09-02T23:15:40+00:00",
+    "expires_at": "2026-09-03T00:15:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Электросталь  \nГО Орехово-Зуевский\nМосковская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-02T23:05:24+00:00",
+    "expires_at": "2026-09-03T00:05:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Сосковский район\nОрловский район\nОрловская область\nФиксация группы БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-02T23:10:54+00:00",
+    "expires_at": "2026-09-03T00:10:54+00:00",
     "count": null,
     "count_approx": false
   }
