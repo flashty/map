@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_228452",
-    "channel": "LPRalarm",
-    "date": "2026-09-01T22:52:42+00:00",
-    "text": "Калужская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу © \"КРАСНЫЙ УРОВЕНЬ\"\n(Х © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_91183_Новороссийск",
-    "channel": "radarrussiia",
-    "date": "2026-09-01T22:54:49+00:00",
-    "text": "Новороссийск\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": "Новороссийск",
-    "region": "Краснодарский край",
-    "lat": 44.7239578,
-    "lon": 37.7690711
-  },
-  {
-    "id": "LPRalarm_228453",
-    "channel": "LPRalarm",
-    "date": "2026-09-01T22:58:51+00:00",
-    "text": "Орёл и близлежащие\nТревога по БПЛА\nОрловская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122731",
-    "channel": "kupolrussia",
-    "date": "2026-09-01T22:59:13+00:00",
-    "text": "Орёл и близлежащие\nТревога по БПЛА\nОрловская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_86996_Спас-Деменский",
     "channel": "vrv_radar",
     "date": "2026-09-01T22:59:24+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Калужская область",
     "lat": 54.5101087,
     "lon": 36.2598115
+  },
+  {
+    "id": "LPRalarm_228948",
+    "channel": "LPRalarm",
+    "date": "2026-09-02T23:32:02+00:00",
+    "text": "Старобельск, тревога по БПЛА, скоро будет громко. Аккуратнее, занять безопасные места",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_123148",
+    "channel": "kupolrussia",
+    "date": "2026-09-02T23:32:07+00:00",
+    "text": "Старобельск, тревога по БПЛА, скоро будет громко. Аккуратнее, занять безопасные места",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228949_Оленевка",
+    "channel": "LPRalarm",
+    "date": "2026-09-02T23:35:27+00:00",
+    "text": "Оленевка, Тарханкут и далее прибрежная зона до Севастополя опасность по БПЛА с моря",
+    "type": "drone",
+    "location_name": "Оленевка",
+    "region": null,
+    "lat": 52.9814608,
+    "lon": 44.883683
+  },
+  {
+    "id": "kupolrussia_123149_Оленевка",
+    "channel": "kupolrussia",
+    "date": "2026-09-02T23:35:31+00:00",
+    "text": "Оленевка, Тарханкут и далее прибрежная зона до Севастополя опасность по БПЛА с моря",
+    "type": "drone",
+    "location_name": "Оленевка",
+    "region": null,
+    "lat": 52.9814608,
+    "lon": 44.883683
   }
 ]
