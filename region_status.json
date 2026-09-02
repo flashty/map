@@ -1,24 +1,4 @@
 {
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Знаменский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-01T23:34:46+00:00",
-    "expires_at": "2026-09-02T00:34:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Рославльский район\nСмоленская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-01T23:32:04+00:00",
-    "expires_at": "2026-09-02T00:32:04+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -26,16 +6,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-01T23:47:29+00:00",
     "expires_at": "2026-09-02T00:47:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тверск": {
-    "display_name": "Тверская область",
-    "type": "drone",
-    "text": "Тверская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-01T23:33:49+00:00",
-    "expires_at": "2026-09-02T00:33:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,10 +22,10 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Калуга\nКалужская область\nЕщё фиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Малоярославецкий район\nКалужская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-01T23:56:13+00:00",
-    "expires_at": "2026-09-02T00:56:13+00:00",
+    "updated_at": "2026-09-02T00:37:12+00:00",
+    "expires_at": "2026-09-02T01:37:12+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,30 +42,30 @@
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
-    "text": "Дальняя Игуменка и близлежащие\nТревога по БПЛА\nБелгородская область",
+    "text": "Бирюч\nИ близлежащие,\nБелгородская область.\nТревога по БПЛА\nИ далее возможно на Воронежскую область",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-02T00:14:35+00:00",
-    "expires_at": "2026-09-02T01:14:35+00:00",
+    "updated_at": "2026-09-02T00:33:57+00:00",
+    "expires_at": "2026-09-02T01:33:57+00:00",
     "count": null,
     "count_approx": false
   },
   "московск": {
     "display_name": "Московская область",
-    "type": "drone",
-    "text": "ГО Бронницы\nМосковская область\nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-02T00:29:16+00:00",
-    "expires_at": "2026-09-02T01:29:16+00:00",
+    "type": "alert",
+    "text": "МО Истра \nМосковская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-02T00:35:52+00:00",
+    "expires_at": "2026-09-02T01:35:52+00:00",
     "count": null,
     "count_approx": false
   },
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Воронежская область\nТревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-02T00:20:26+00:00",
-    "expires_at": "2026-09-02T01:20:26+00:00",
+    "text": "Бутурлиновский район\nВоронежская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-02T00:45:11+00:00",
+    "expires_at": "2026-09-02T01:45:11+00:00",
     "count": null,
     "count_approx": false
   }
