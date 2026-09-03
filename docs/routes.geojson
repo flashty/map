@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-03T15:08:46+00:00",
+        "last_updated": "2026-09-03T15:48:21+00:00",
+        "path_labels": [
+          "Калуга (Калужская область)",
+          "Перемышльский (Калужская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.2598115,
+            54.5101087
+          ],
+          [
+            36.3495593,
+            54.3102372
+          ]
+        ]
+      }
+    }
+  ]
 }
