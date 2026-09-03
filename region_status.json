@@ -1,14 +1,4 @@
 {
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калуга\nКалужская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-03T01:20:21+00:00",
-    "expires_at": "2026-09-03T02:20:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
@@ -59,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Орловская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-03T01:24:05+00:00",
-    "expires_at": "2026-09-03T02:24:05+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ростовск": {
     "display_name": "Ростовской областей",
     "type": "drone",
@@ -96,6 +76,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-03T02:02:59+00:00",
     "expires_at": "2026-09-03T03:02:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Геленджик и близлежащие \nКраснодарский край \nРабота ПВО по БПЛА \nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-03T02:26:59+00:00",
+    "expires_at": "2026-09-03T03:26:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область, тревога по БПЛА сохраняется",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-03T02:28:07+00:00",
+    "expires_at": "2026-09-03T03:28:07+00:00",
     "count": null,
     "count_approx": false
   }

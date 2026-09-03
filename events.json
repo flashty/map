@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_87016",
-    "channel": "vrv_radar",
-    "date": "2026-09-02T00:10:15+00:00",
-    "text": "ГО Домодедово \nМосковская область \nМеры безопасности",
-    "type": "alert",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_228465",
-    "channel": "LPRalarm",
-    "date": "2026-09-02T00:10:31+00:00",
-    "text": "Белгород и близлежащие\nТревога по БПЛА\nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122742",
-    "channel": "kupolrussia",
-    "date": "2026-09-02T00:10:48+00:00",
-    "text": "Белгород и близлежащие\nТревога по БПЛА\nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_91201",
     "channel": "radarrussiia",
     "date": "2026-09-02T00:12:03+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Тульская область",
     "lat": 54.1930321,
     "lon": 37.61754
+  },
+  {
+    "id": "vrv_radar_87364",
+    "channel": "vrv_radar",
+    "date": "2026-09-03T02:26:59+00:00",
+    "text": "Геленджик и близлежащие \nКраснодарский край \nРабота ПВО по БПЛА \nМеры безопасности",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228960",
+    "channel": "LPRalarm",
+    "date": "2026-09-03T02:28:00+00:00",
+    "text": "Брянская область, тревога по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_123160",
+    "channel": "kupolrussia",
+    "date": "2026-09-03T02:28:07+00:00",
+    "text": "Брянская область, тревога по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
   }
 ]
