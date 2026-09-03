@@ -1,82 +1,5 @@
 [
   {
-    "id": "radarrussiia_91201",
-    "channel": "radarrussiia",
-    "date": "2026-09-02T00:12:03+00:00",
-    "text": "ГО Домодедово \nМосковская область \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "alert",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_87017",
-    "channel": "vrv_radar",
-    "date": "2026-09-02T00:12:38+00:00",
-    "text": "АО Троицкий \nМосква\nМеры безопасности",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_228466_Кача",
-    "channel": "LPRalarm",
-    "date": "2026-09-02T00:13:16+00:00",
-    "text": "Кача, Бельбек, Северная сторона Севастополя \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Кача",
-    "region": null,
-    "lat": 56.1972669,
-    "lon": 92.5363666
-  },
-  {
-    "id": "radarrussiia_91202",
-    "channel": "radarrussiia",
-    "date": "2026-09-02T00:13:24+00:00",
-    "text": "АО Троицкий \nМосква\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_228467",
-    "channel": "LPRalarm",
-    "date": "2026-09-02T00:14:15+00:00",
-    "text": "Дальняя Игуменка и близлежащие\nТревога по БПЛА\nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122743",
-    "channel": "kupolrussia",
-    "date": "2026-09-02T00:14:35+00:00",
-    "text": "Дальняя Игуменка и близлежащие\nТревога по БПЛА\nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_87018",
-    "channel": "vrv_radar",
-    "date": "2026-09-02T00:18:02+00:00",
-    "text": "Воронежская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_228468",
     "channel": "LPRalarm",
     "date": "2026-09-02T00:18:32+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228961",
+    "channel": "LPRalarm",
+    "date": "2026-09-03T02:32:18+00:00",
+    "text": "Белгородская область, опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_123161",
+    "channel": "kupolrussia",
+    "date": "2026-09-03T02:32:27+00:00",
+    "text": "Белгородская область, опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_91432",
+    "channel": "radarrussiia",
+    "date": "2026-09-03T02:34:13+00:00",
+    "text": "Геленджик и близлежащие \nКраснодарский край \nРабота ПВО по БПЛА \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_87365",
+    "channel": "vrv_radar",
+    "date": "2026-09-03T02:40:45+00:00",
+    "text": "АО Троицкий\nМосква\nСбитие БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_228962_Губкин",
+    "channel": "LPRalarm",
+    "date": "2026-09-03T02:41:19+00:00",
+    "text": "Губкин, Старый Оскол и близлежащие\nБелгородская область\n\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Губкин",
+    "region": "Белгородская область",
+    "lat": 51.283714,
+    "lon": 37.53466
+  },
+  {
+    "id": "kupolrussia_123162_Губкин",
+    "channel": "kupolrussia",
+    "date": "2026-09-03T02:42:07+00:00",
+    "text": "Губкин, Старый Оскол и близлежащие\nБелгородская область\n\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Губкин",
+    "region": "Белгородская область",
+    "lat": 51.283714,
+    "lon": 37.53466
+  },
+  {
+    "id": "radarrussiia_91433",
+    "channel": "radarrussiia",
+    "date": "2026-09-03T02:42:59+00:00",
+    "text": "АО Троицкий\nМосква\nСбитие БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
