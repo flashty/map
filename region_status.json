@@ -52,10 +52,10 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Калужская область, Московская область, Тульская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-03T14:44:33+00:00",
-    "expires_at": "2026-09-03T15:44:33+00:00",
+    "text": "Калуга\nКалужская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-03T15:08:46+00:00",
+    "expires_at": "2026-09-03T16:08:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,26 +76,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-03T14:48:12+00:00",
     "expires_at": "2026-09-03T15:48:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Россошанский район и близлежащие опасность по БПЛА от ЛНР \nВоронежская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-03T14:02:35+00:00",
-    "expires_at": "2026-09-03T15:02:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "alert",
-    "text": "Приморско-Ахтарск и близлежащие \nОпасность по МРШ \nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-03T14:11:09+00:00",
-    "expires_at": "2026-09-03T15:11:09+00:00",
     "count": null,
     "count_approx": false
   },

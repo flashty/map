@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_122963",
-    "channel": "kupolrussia",
-    "date": "2026-09-02T13:58:11+00:00",
-    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ сохраняется, ещё фиксации",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_91356",
-    "channel": "radarrussiia",
-    "date": "2026-09-02T13:58:16+00:00",
-    "text": "Рязанская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_228725",
-    "channel": "LPRalarm",
-    "date": "2026-09-02T14:01:44+00:00",
-    "text": "БПЛА в направлении  нп Старобельск \nвозможно несколько \nЛнр",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122964",
-    "channel": "kupolrussia",
-    "date": "2026-09-02T14:01:54+00:00",
-    "text": "БПЛА в направлении  нп Старобельск \nвозможно несколько \nЛнр",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_228726",
     "channel": "LPRalarm",
     "date": "2026-09-02T14:07:36+00:00",
@@ -21998,5 +21954,49 @@
     "region": null,
     "lat": 46.398243,
     "lon": 48.536438
+  },
+  {
+    "id": "LPRalarm_229312",
+    "channel": "LPRalarm",
+    "date": "2026-09-03T15:03:46+00:00",
+    "text": "Соледар, Северск ДНР уаб",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_123481",
+    "channel": "kupolrussia",
+    "date": "2026-09-03T15:04:45+00:00",
+    "text": "Соледар, Северск ДНР уаб",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_123482_Володарский",
+    "channel": "kupolrussia",
+    "date": "2026-09-03T15:04:57+00:00",
+    "text": "Брянск \nВолодарский район\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Володарский",
+    "region": null,
+    "lat": 46.398243,
+    "lon": 48.536438
+  },
+  {
+    "id": "vrv_radar_87507_Калуга",
+    "channel": "vrv_radar",
+    "date": "2026-09-03T15:08:46+00:00",
+    "text": "Калуга\nКалужская область \nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Калуга",
+    "region": "Калужская область",
+    "lat": 54.5101087,
+    "lon": 36.2598115
   }
 ]
