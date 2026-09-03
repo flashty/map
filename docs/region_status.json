@@ -2,10 +2,10 @@
   "владимирск": {
     "display_name": "Владимирская область",
     "type": "drone",
-    "text": "Киржачский район\nВладимирская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-03T07:10:26+00:00",
-    "expires_at": "2026-09-03T08:10:26+00:00",
+    "text": "Московская область \nВладимирская область \nЕщё фиксации БПЛА \nМного\nМеры безопасности",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-03T07:26:13+00:00",
+    "expires_at": "2026-09-03T08:26:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -22,10 +22,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ",
+    "text": "Горловка ДНР центр БПЛА Хорнет",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-03T07:12:36+00:00",
-    "expires_at": "2026-09-03T08:12:36+00:00",
+    "updated_at": "2026-09-03T07:28:26+00:00",
+    "expires_at": "2026-09-03T08:28:26+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,26 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Генический район \nХерсонская область РФ \nОпасность по БПЛА Хорнет",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-03T06:15:58+00:00",
-    "expires_at": "2026-09-03T07:15:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "одесск": {
-    "display_name": "Одесская область",
-    "type": "drone",
-    "text": "Одесская область запуски БПЛА по береговой линии в направлении Румыния",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-03T06:20:53+00:00",
-    "expires_at": "2026-09-03T07:20:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -89,16 +69,6 @@
     "count": null,
     "count_approx": false
   },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "Кубинка\nМосковская область \nПродолжается работа ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-03T07:15:23+00:00",
-    "expires_at": "2026-09-03T08:15:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -106,6 +76,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-03T07:14:47+00:00",
     "expires_at": "2026-09-03T08:14:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Щёкинский район\nТульская область\nФиксация от 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-03T07:18:42+00:00",
+    "expires_at": "2026-09-03T08:18:42+00:00",
+    "count": 3,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Новодеревеньковский район\nОрловская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-03T07:20:27+00:00",
+    "expires_at": "2026-09-03T08:20:27+00:00",
+    "count": 2,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Кубинка\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-03T07:30:09+00:00",
+    "expires_at": "2026-09-03T08:30:09+00:00",
     "count": null,
     "count_approx": false
   }
