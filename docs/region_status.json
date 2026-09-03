@@ -2,10 +2,10 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Калуга\nКалужская область \nПродолжаются фиксации БПЛА",
+    "text": "Калуга\nКалужская область \nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-09-03T00:14:59+00:00",
-    "expires_at": "2026-09-03T01:14:59+00:00",
+    "updated_at": "2026-09-03T01:08:49+00:00",
+    "expires_at": "2026-09-03T02:08:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -20,12 +20,12 @@
     "count_approx": false
   },
   "воронежск": {
-    "display_name": "Воронежскую область",
+    "display_name": "Воронежская область",
     "type": "drone",
-    "text": "ЛНР очередная группа БПЛА на Воронежскую область, тревога по БПЛА сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-03T00:38:51+00:00",
-    "expires_at": "2026-09-03T01:38:51+00:00",
+    "text": "Ольховатский район\nВоронежская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-03T01:13:58+00:00",
+    "expires_at": "2026-09-03T02:13:58+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,16 +36,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-03T00:19:06+00:00",
     "expires_at": "2026-09-03T01:19:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "alert",
-    "text": "Геленджик \nКраснодарский край\nПродолжается работа ПВО \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-03T00:13:00+00:00",
-    "expires_at": "2026-09-03T01:13:00+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +76,26 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-09-03T00:51:04+00:00",
     "expires_at": "2026-09-03T01:51:04+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Домодедово \nМосковская область \nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-03T01:08:06+00:00",
+    "expires_at": "2026-09-03T02:08:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Орловская область, опасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-03T01:15:17+00:00",
+    "expires_at": "2026-09-03T02:15:17+00:00",
     "count": null,
     "count_approx": false
   }
