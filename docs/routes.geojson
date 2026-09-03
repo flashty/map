@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-03T12:22:30+00:00",
+        "last_updated": "2026-09-03T12:46:35+00:00",
+        "path_labels": [
+          "Рохманово (Брянская область)",
+          "Стародуб (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.8823703,
+            52.7501468
+          ],
+          [
+            32.7603126,
+            52.5853016
+          ]
+        ]
+      }
+    }
+  ]
 }
