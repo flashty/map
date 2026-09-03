@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-03T03:01:40+00:00",
+        "last_updated": "2026-09-03T03:01:40+00:00",
+        "path_labels": [
+          "Белгородской области",
+          "Воронежскую область"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.54641255419135,
+            50.672051273603756
+          ],
+          [
+            40.31197993693381,
+            50.96086308382576
+          ]
+        ]
+      }
+    }
+  ]
 }
