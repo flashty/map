@@ -95,6 +95,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-09-03T16:57:48+00:00",
+        "last_updated": "2026-09-03T17:28:45+00:00",
+        "path_labels": [
+          "Калуга (Калужская область)",
+          "Жуковский (Калужская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.2598115,
+            54.5101087
+          ],
+          [
+            36.8762225,
+            55.0074689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-09-03T17:04:05+00:00",
         "last_updated": "2026-09-03T17:04:05+00:00",
         "path_labels": [
