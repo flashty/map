@@ -59,16 +59,6 @@
     "count": null,
     "count_approx": false
   },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-03T06:36:06+00:00",
-    "expires_at": "2026-09-03T07:36:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -102,10 +92,30 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "Кубинка\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-03T07:30:09+00:00",
-    "expires_at": "2026-09-03T08:30:09+00:00",
+    "text": "Кубинка\nБалашиха \nЭлектросталь \nОсобое внимание по БПЛА \nПринять меры безопасности \nМосковская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-03T07:43:03+00:00",
+    "expires_at": "2026-09-03T08:43:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "missile",
+    "text": "Курская область и близлежащие, Харьковская область РФ  авиационная ракетная бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-03T07:45:27+00:00",
+    "expires_at": "2026-09-03T08:45:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "харьковск": {
+    "display_name": "Харьковская область",
+    "type": "missile",
+    "text": "Курская область и близлежащие, Харьковская область РФ  авиационная ракетная бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-03T07:45:27+00:00",
+    "expires_at": "2026-09-03T08:45:27+00:00",
     "count": null,
     "count_approx": false
   }
