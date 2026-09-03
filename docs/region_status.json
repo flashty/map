@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Горловка, Карло, Енакиево ДНР и близлежащие \nОпасность по БПЛА и ФПВ",
+    "text": "Шахтёрск и ближайшие тревога по БПЛА, повторно\nДНР",
     "channel": "LPRalarm",
-    "updated_at": "2026-09-03T20:24:57+00:00",
-    "expires_at": "2026-09-03T21:24:57+00:00",
+    "updated_at": "2026-09-03T20:42:25+00:00",
+    "expires_at": "2026-09-03T21:42:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -70,22 +70,12 @@
     "count_approx": false
   },
   "московск": {
-    "display_name": "Московской области",
+    "display_name": "Московская область",
     "type": "drone",
-    "text": "Жуковский район\nКалужская область\nФиксация группы БПЛА в направлении Московской области\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-03T19:48:09+00:00",
-    "expires_at": "2026-09-03T20:48:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "нижегородск": {
-    "display_name": "Нижегородская область",
-    "type": "drone",
-    "text": "Пензенская область, Республика Мордовия, Нижегородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-03T19:45:52+00:00",
-    "expires_at": "2026-09-03T20:45:52+00:00",
+    "text": "Москва\nМосковская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу © \"КРАСНЫЙ УРОВЕНЬ\"\n(Х © ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-03T20:44:47+00:00",
+    "expires_at": "2026-09-03T21:44:47+00:00",
     "count": null,
     "count_approx": false
   },
@@ -99,16 +89,6 @@
     "count": null,
     "count_approx": false
   },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Тула\nТульская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-03T19:37:57+00:00",
-    "expires_at": "2026-09-03T20:37:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
@@ -116,26 +96,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-03T20:24:03+00:00",
     "expires_at": "2026-09-03T21:24:03+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Мирное\nКаланчакский район\nТревога по БПЛА, возможно Хорнет\nХерсонская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-03T19:40:26+00:00",
-    "expires_at": "2026-09-03T20:40:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "drone",
-    "text": "Пензенская область, Республика Мордовия, Нижегородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-03T19:45:52+00:00",
-    "expires_at": "2026-09-03T20:45:52+00:00",
     "count": null,
     "count_approx": false
   },
@@ -166,6 +126,36 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-03T20:00:14+00:00",
     "expires_at": "2026-09-03T21:00:14+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Хрящеватое и близлежащие, тревога по БпЛА\nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-03T20:43:36+00:00",
+    "expires_at": "2026-09-03T21:43:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Новороссийск и близлежащие\nТревога по БПЛА сохраняется\nКраснодарский край",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-03T20:43:49+00:00",
+    "expires_at": "2026-09-03T21:43:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Тверская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-03T20:45:40+00:00",
+    "expires_at": "2026-09-03T21:45:40+00:00",
     "count": null,
     "count_approx": false
   }
