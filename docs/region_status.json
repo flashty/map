@@ -68,5 +68,25 @@
     "expires_at": "2026-09-03T01:45:18+00:00",
     "count": null,
     "count_approx": false
+  },
+  "пензенск": {
+    "display_name": "Пензенская область",
+    "type": "drone",
+    "text": "Пензенская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-03T00:56:41+00:00",
+    "expires_at": "2026-09-03T01:56:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "саратовск": {
+    "display_name": "Саратовская область",
+    "type": "drone",
+    "text": "Саратовская область\nПензенская область\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-09-03T00:51:04+00:00",
+    "expires_at": "2026-09-03T01:51:04+00:00",
+    "count": null,
+    "count_approx": false
   }
 }
