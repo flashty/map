@@ -1,14 +1,4 @@
 {
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Борисоглебск \nВоронежская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-03T01:50:37+00:00",
-    "expires_at": "2026-09-03T02:50:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
@@ -16,16 +6,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-03T02:02:59+00:00",
     "expires_at": "2026-09-03T03:02:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Геленджик и близлежащие \nКраснодарский край \nРабота ПВО по БПЛА \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-03T02:34:13+00:00",
-    "expires_at": "2026-09-03T03:34:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +26,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-03T02:42:07+00:00",
     "expires_at": "2026-09-03T03:42:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тамбовск": {
+    "display_name": "Тамбовская область",
+    "type": "drone",
+    "text": "Ржакса, Тамбовская область - пролёт от 12 БПЛА в сторону Рассказово. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-03T02:47:19+00:00",
+    "expires_at": "2026-09-03T03:47:19+00:00",
+    "count": 12,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Курская область, опасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-03T02:52:41+00:00",
+    "expires_at": "2026-09-03T03:52:41+00:00",
     "count": null,
     "count_approx": false
   }
