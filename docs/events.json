@@ -1,71 +1,5 @@
 [
   {
-    "id": "locatorru_83534",
-    "channel": "locatorru",
-    "date": "2026-09-02T11:11:49+00:00",
-    "text": "Большой Хомутец, Добровский район, Липецкая область - фиксации БПЛА на север в направлении Рязанской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_91317_Ковровский",
-    "channel": "radarrussiia",
-    "date": "2026-09-02T11:12:30+00:00",
-    "text": "Ковровский район\nВладимирская область\nФиксация от 2 БПЛА в вашем направлении\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Ковровский",
-    "region": "Владимирская область",
-    "lat": 56.2460411,
-    "lon": 41.3467902
-  },
-  {
-    "id": "LPRalarm_228681",
-    "channel": "LPRalarm",
-    "date": "2026-09-02T11:12:40+00:00",
-    "text": "Чаплынка, Каланчак с севера, северо-востока тревога по барражирующим боеприпасам НХ-2",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_87201",
-    "channel": "vrv_radar",
-    "date": "2026-09-02T11:12:55+00:00",
-    "text": "ГО Домодедово \nМосковская область \nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_122924",
-    "channel": "kupolrussia",
-    "date": "2026-09-02T11:13:03+00:00",
-    "text": "Чаплынка, Каланчак с севера, северо-востока тревога по барражирующим боеприпасам НХ-2",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_228682",
-    "channel": "LPRalarm",
-    "date": "2026-09-02T11:13:15+00:00",
-    "text": "Орехово - Хорошее опасность по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_122925",
     "channel": "kupolrussia",
     "date": "2026-09-02T11:13:22+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_229183",
+    "channel": "LPRalarm",
+    "date": "2026-09-03T12:11:22+00:00",
+    "text": "Стерегущее и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_123359",
+    "channel": "kupolrussia",
+    "date": "2026-09-03T12:11:38+00:00",
+    "text": "Стерегущее и близлежащие \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_229184",
+    "channel": "LPRalarm",
+    "date": "2026-09-03T12:11:48+00:00",
+    "text": "Алчевск и близлежащие \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_123360",
+    "channel": "kupolrussia",
+    "date": "2026-09-03T12:12:04+00:00",
+    "text": "Алчевск и близлежащие \nЛНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_229185",
+    "channel": "LPRalarm",
+    "date": "2026-09-03T12:12:33+00:00",
+    "text": "Мирное и близлежащие \nОпасность по БПЛА Хорнет \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_123361",
+    "channel": "kupolrussia",
+    "date": "2026-09-03T12:12:45+00:00",
+    "text": "Мирное и близлежащие \nОпасность по БПЛА Хорнет \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
     "lat": null,
     "lon": null
   }
