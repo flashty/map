@@ -2,30 +2,30 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Жуковский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Мещовский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-04T16:55:08+00:00",
-    "expires_at": "2026-09-04T17:55:08+00:00",
+    "updated_at": "2026-09-04T17:15:34+00:00",
+    "expires_at": "2026-09-04T18:15:34+00:00",
     "count": null,
     "count_approx": false
   },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Воскресенск\nМосковская область\nФиксация единичного БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-04T16:57:28+00:00",
-    "expires_at": "2026-09-04T17:57:28+00:00",
-    "count": 1,
-    "count_approx": true
+    "text": "ГО Можайск\nМосковская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-04T17:13:24+00:00",
+    "expires_at": "2026-09-04T18:13:24+00:00",
+    "count": null,
+    "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Дубенский район\nТула\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-04T16:55:36+00:00",
-    "expires_at": "2026-09-04T17:55:36+00:00",
+    "text": "Заокский район\nТульская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-04T17:15:03+00:00",
+    "expires_at": "2026-09-04T18:15:03+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,10 +72,40 @@
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
-    "text": "Угранский район\nРославльский район\nСмоленская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-04T16:54:42+00:00",
-    "expires_at": "2026-09-04T17:54:42+00:00",
+    "text": "Вяземский район\nСмоленская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-04T17:12:41+00:00",
+    "expires_at": "2026-09-04T18:12:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Береговая линия от Стерегущее до Саки\nс моря\nРеспублика Крым\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-04T17:13:48+00:00",
+    "expires_at": "2026-09-04T18:13:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Геленджик и близлежащие\nСочи и близлежащие\nКраснодарский край\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-04T17:15:38+00:00",
+    "expires_at": "2026-09-04T18:15:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-04T17:15:26+00:00",
+    "expires_at": "2026-09-04T18:15:26+00:00",
     "count": null,
     "count_approx": false
   }
