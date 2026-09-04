@@ -1,11 +1,11 @@
 {
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Шахтёрск, Торез ДНР \nБПЛА разведка Шарк",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-04T05:57:40+00:00",
-    "expires_at": "2026-09-04T06:57:40+00:00",
+    "type": "missile",
+    "text": "Шевченко, Красноармейск ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-04T06:25:46+00:00",
+    "expires_at": "2026-09-04T07:25:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -40,22 +40,12 @@
     "count_approx": false
   },
   "брянск": {
-    "display_name": "Брянская область",
+    "display_name": "Брянской области",
     "type": "drone",
-    "text": "Западные районы Брянская область опасность по БПЛА от ГГ и далее на север в направлении Калужской и Смоленской области",
+    "text": "Рохманово Брянской области группа БПЛА в тыл",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-04T06:13:10+00:00",
-    "expires_at": "2026-09-04T07:13:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Тульская область \nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-04T06:08:38+00:00",
-    "expires_at": "2026-09-04T07:08:38+00:00",
+    "updated_at": "2026-09-04T06:25:55+00:00",
+    "expires_at": "2026-09-04T07:25:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +96,26 @@
     "channel": "locatorru",
     "updated_at": "2026-09-04T06:05:13+00:00",
     "expires_at": "2026-09-04T07:05:13+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Раздольненский район с моря внимание по БПЛА\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-04T06:21:03+00:00",
+    "expires_at": "2026-09-04T07:21:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Попасная и далее в направлении Первомайское фиксация БПЛА \nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-04T06:30:20+00:00",
+    "expires_at": "2026-09-04T07:30:20+00:00",
     "count": null,
     "count_approx": false
   }
