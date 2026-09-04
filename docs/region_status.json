@@ -9,26 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязанский район \nРязанская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-04T11:06:09+00:00",
-    "expires_at": "2026-09-04T12:06:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "alert",
-    "text": "Курск \nКурская область \nМеры безопасности",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-04T11:11:15+00:00",
-    "expires_at": "2026-09-04T12:11:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
@@ -42,10 +22,10 @@
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Свердловский район\nОрловская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-04T11:52:18+00:00",
-    "expires_at": "2026-09-04T12:52:18+00:00",
+    "text": "Орловская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-04T12:13:09+00:00",
+    "expires_at": "2026-09-04T13:13:09+00:00",
     "count": null,
     "count_approx": false
   },
@@ -92,10 +72,10 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Сухиничский район\nКалужская область\nФиксации групп БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-04T11:58:13+00:00",
-    "expires_at": "2026-09-04T12:58:13+00:00",
+    "text": "Сухиничский район\nКалужская область\nФиксации групп БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-04T12:10:14+00:00",
+    "expires_at": "2026-09-04T13:10:14+00:00",
     "count": null,
     "count_approx": false
   },
@@ -112,10 +92,20 @@
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
-    "text": "Рославльский район\nСмоленская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-04T11:56:49+00:00",
-    "expires_at": "2026-09-04T12:56:49+00:00",
+    "text": "Угранский район\nРославльский район\nСмоленская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-04T12:11:02+00:00",
+    "expires_at": "2026-09-04T13:11:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Стерегущее, Раздольное, Портовое \nВнимание по БПЛА\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-04T12:08:29+00:00",
+    "expires_at": "2026-09-04T13:08:29+00:00",
     "count": null,
     "count_approx": false
   }
