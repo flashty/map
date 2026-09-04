@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_123575",
-    "channel": "kupolrussia",
-    "date": "2026-09-03T17:49:10+00:00",
-    "text": "Нещеретово курсом на Литвиновка фиксации БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_83711",
-    "channel": "locatorru",
-    "date": "2026-09-03T17:49:28+00:00",
-    "text": "Волконское, ​Козельский район, Калужская область - пролёты БПЛА в сторону Сосенский / Чекалин, Тульская область.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_229408_Кантемировка",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T17:50:27+00:00",
-    "text": "Кантемировка\nВоронежская область\n\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Кантемировка",
-    "region": "Воронежская область",
-    "lat": 49.702282,
-    "lon": 39.854115
-  },
-  {
-    "id": "LPRalarm_229409_Кантемировский",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T17:50:31+00:00",
-    "text": "Бугаевка\nКантемировский район\nВоронежская область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Кантемировский",
-    "region": "Воронежская область",
-    "lat": 49.797172,
-    "lon": 39.7513457
-  },
-  {
-    "id": "radarrussiia_91580",
-    "channel": "radarrussiia",
-    "date": "2026-09-03T17:50:32+00:00",
-    "text": "Геленджик и близлежащие \nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_229410",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T17:50:38+00:00",
-    "text": "Ясногоровка фиксации БПЛА в направлении \nАвдеевка\nДонецк\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_229411",
     "channel": "LPRalarm",
     "date": "2026-09-03T17:50:57+00:00",
@@ -21998,5 +21932,71 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_229878",
+    "channel": "LPRalarm",
+    "date": "2026-09-04T10:33:36+00:00",
+    "text": "Ракитное и близлежащие \nТревога по БПЛА \nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_123955",
+    "channel": "kupolrussia",
+    "date": "2026-09-04T10:33:46+00:00",
+    "text": "Ракитное и близлежащие \nТревога по БПЛА \nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_229879",
+    "channel": "LPRalarm",
+    "date": "2026-09-04T10:39:16+00:00",
+    "text": "г. Брянск тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_123956_Брянск",
+    "channel": "kupolrussia",
+    "date": "2026-09-04T10:39:32+00:00",
+    "text": "Брянск\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Брянск",
+    "region": null,
+    "lat": 53.2423778,
+    "lon": 34.3668288
+  },
+  {
+    "id": "LPRalarm_229880_Курск",
+    "channel": "LPRalarm",
+    "date": "2026-09-04T10:41:30+00:00",
+    "text": "Курск, Халино и близлежащие тревога по БПЛА",
+    "type": "drone",
+    "location_name": "Курск",
+    "region": null,
+    "lat": 51.7309249,
+    "lon": 36.1923123
+  },
+  {
+    "id": "kupolrussia_123957_Курск",
+    "channel": "kupolrussia",
+    "date": "2026-09-04T10:41:49+00:00",
+    "text": "Курск, Халино и близлежащие\nКурская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Курск",
+    "region": "Курская область",
+    "lat": 51.7270357,
+    "lon": 36.192248
   }
 ]

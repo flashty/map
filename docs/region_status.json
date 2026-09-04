@@ -39,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Сафоновский район\nСмоленская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-04T09:38:50+00:00",
-    "expires_at": "2026-09-04T10:38:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
@@ -79,16 +69,6 @@
     "count": null,
     "count_approx": false
   },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Щёкинский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-04T09:40:10+00:00",
-    "expires_at": "2026-09-04T10:40:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -102,10 +82,10 @@
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
-    "text": "Курск и близлежащие\nКурская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Курск, Халино и близлежащие\nКурская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-04T10:21:41+00:00",
-    "expires_at": "2026-09-04T11:21:41+00:00",
+    "updated_at": "2026-09-04T10:41:49+00:00",
+    "expires_at": "2026-09-04T11:41:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -136,6 +116,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-09-04T10:26:19+00:00",
     "expires_at": "2026-09-04T11:26:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Ракитное и близлежащие \nТревога по БПЛА \nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-04T10:33:46+00:00",
+    "expires_at": "2026-09-04T11:33:46+00:00",
     "count": null,
     "count_approx": false
   }

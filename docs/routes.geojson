@@ -5,31 +5,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-09-04T09:07:23+00:00",
-        "last_updated": "2026-09-04T09:41:20+00:00",
-        "path_labels": [
-          "Кимовск (Тульская область)",
-          "Михайловский (Рязанская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.5327,
-            53.9699
-          ],
-          [
-            39.0202073,
-            54.2303577
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-09-04T09:35:21+00:00",
         "last_updated": "2026-09-04T10:06:34+00:00",
         "path_labels": [
@@ -72,6 +47,31 @@
           [
             33.493436,
             52.9262598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-04T10:06:19+00:00",
+        "last_updated": "2026-09-04T10:39:32+00:00",
+        "path_labels": [
+          "Выгоничский (Брянская область)",
+          "Брянск"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.970228,
+            53.0368833
+          ],
+          [
+            34.3668288,
+            53.2423778
           ]
         ]
       }
