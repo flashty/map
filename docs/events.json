@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_87505_Троснянский",
-    "channel": "vrv_radar",
-    "date": "2026-09-03T13:30:27+00:00",
-    "text": "Троснянский район\nОрловская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Троснянский",
-    "region": "Орловская область",
-    "lat": 52.3967026,
-    "lon": 35.8058385
-  },
-  {
-    "id": "LPRalarm_229228",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T13:31:37+00:00",
-    "text": "Донецк ЖД вокзал\nОпасность по Фпв \nДНР",
-    "type": "alert",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_229229",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T13:32:03+00:00",
-    "text": "Штормовое \nВитино и близлежащие \nТревога по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_123403",
-    "channel": "kupolrussia",
-    "date": "2026-09-03T13:32:19+00:00",
-    "text": "Штормовое \nВитино и близлежащие \n\nРеспублика Крым\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_229230",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T13:32:50+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_123404",
     "channel": "kupolrussia",
     "date": "2026-09-03T13:33:05+00:00",
@@ -21996,6 +21941,61 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_229703",
+    "channel": "LPRalarm",
+    "date": "2026-09-04T04:28:34+00:00",
+    "text": "Краснодарский край \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_123811",
+    "channel": "kupolrussia",
+    "date": "2026-09-04T04:28:44+00:00",
+    "text": "Краснодарский край \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_229704",
+    "channel": "LPRalarm",
+    "date": "2026-09-04T04:30:22+00:00",
+    "text": "Краснодарский край: \nг. Армавир, Успенский, Отрадненский, Новокубанский, Лабинский, Курганинский районы. \n\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_123812",
+    "channel": "kupolrussia",
+    "date": "2026-09-04T04:30:43+00:00",
+    "text": "Ставропольский край опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_229705",
+    "channel": "LPRalarm",
+    "date": "2026-09-04T04:30:46+00:00",
+    "text": "Ставропольский край опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ставропольский край",
     "lat": null,
     "lon": null
   }
