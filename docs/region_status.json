@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Донецк, Макеевка, Ясиноватая ДНР и близлежащие \nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-04T20:24:25+00:00",
-    "expires_at": "2026-09-04T21:24:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -26,36 +16,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-04T20:45:32+00:00",
     "expires_at": "2026-09-04T21:45:32+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянск и ближайшие, Брянская область, тревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-04T20:23:10+00:00",
-    "expires_at": "2026-09-04T21:23:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Троснянский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-04T20:21:58+00:00",
-    "expires_at": "2026-09-04T21:21:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Белгородская область, тревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-04T20:27:14+00:00",
-    "expires_at": "2026-09-04T21:27:14+00:00",
     "count": null,
     "count_approx": false
   },
@@ -82,10 +42,20 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Алчевск, и далее на Луганск\nЛНР\n\nТревога по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-04T21:04:09+00:00",
-    "expires_at": "2026-09-04T22:04:09+00:00",
+    "text": "Антрацит, Ровеньки, Свердловск ЛНР группа БПЛА курсом на восток",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-04T21:26:42+00:00",
+    "expires_at": "2026-09-04T22:26:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Матвеев Курган, Лысогорка, Новошахтинск,  Шахты, Красный Сулин, Гуково, Лиховской,  Каменск-Шахтинский, Ростовская область - внимание по БПЛА с запада. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-04T21:27:05+00:00",
+    "expires_at": "2026-09-04T22:27:05+00:00",
     "count": null,
     "count_approx": false
   }
