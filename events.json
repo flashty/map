@@ -1,93 +1,5 @@
 [
   {
-    "id": "vrv_radar_87593",
-    "channel": "vrv_radar",
-    "date": "2026-09-03T20:04:07+00:00",
-    "text": "Саратовская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_14271",
-    "channel": "radar_plus_bpla",
-    "date": "2026-09-03T20:05:30+00:00",
-    "text": "Саратовская область\nВолгоградская область\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_229525",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T20:05:32+00:00",
-    "text": "Стерегущее и близлежащие \nОпасность по БПЛА \n\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_123679",
-    "channel": "kupolrussia",
-    "date": "2026-09-03T20:06:07+00:00",
-    "text": "Стерегущее и близлежащие \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_87594_Фроловский",
-    "channel": "vrv_radar",
-    "date": "2026-09-03T20:09:13+00:00",
-    "text": "Фроловский район\nВолгоградская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Фроловский",
-    "region": "Волгоградская область",
-    "lat": 49.8599222,
-    "lon": 43.8082806
-  },
-  {
-    "id": "LPRalarm_229526",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T20:11:12+00:00",
-    "text": "Донецк ДНР и близлежащие \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_91642_Фроловский",
-    "channel": "radarrussiia",
-    "date": "2026-09-03T20:11:35+00:00",
-    "text": "Фроловский район\nВолгоградская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Фроловский",
-    "region": "Волгоградская область",
-    "lat": 49.8599222,
-    "lon": 43.8082806
-  },
-  {
-    "id": "kupolrussia_123680",
-    "channel": "kupolrussia",
-    "date": "2026-09-03T20:11:41+00:00",
-    "text": "Донецк ДНР и близлежащие\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_229527_Рохманово",
     "channel": "LPRalarm",
     "date": "2026-09-03T20:12:10+00:00",
@@ -21998,5 +21910,93 @@
     "region": "Луганская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "kupolrussia_124095",
+    "channel": "kupolrussia",
+    "date": "2026-09-04T16:46:07+00:00",
+    "text": "Лисичанск, Попасная и близлежащие \nЛНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_87964",
+    "channel": "vrv_radar",
+    "date": "2026-09-04T16:47:07+00:00",
+    "text": "Краснодарский край\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230032",
+    "channel": "LPRalarm",
+    "date": "2026-09-04T16:50:42+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность повторно",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124096",
+    "channel": "kupolrussia",
+    "date": "2026-09-04T16:50:57+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \n повторно\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230033",
+    "channel": "LPRalarm",
+    "date": "2026-09-04T16:52:01+00:00",
+    "text": "Трубчевск и близлежащие\nБрянскся область\nОпасность по БПЛА-разведчику",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянскся область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_87965_Угранский",
+    "channel": "vrv_radar",
+    "date": "2026-09-04T16:52:49+00:00",
+    "text": "Угранский район\nРославльский район\nСмоленская область\nФиксации БПЛА",
+    "type": "drone",
+    "location_name": "Угранский",
+    "region": "Смоленская область",
+    "lat": 54.7904822,
+    "lon": 34.3736036
+  },
+  {
+    "id": "vrv_radar_87965_Рославльский",
+    "channel": "vrv_radar",
+    "date": "2026-09-04T16:52:49+00:00",
+    "text": "Угранский район\nРославльский район\nСмоленская область\nФиксации БПЛА",
+    "type": "drone",
+    "location_name": "Рославльский",
+    "region": "Смоленская область",
+    "lat": 54.0413396,
+    "lon": 33.0399211
+  },
+  {
+    "id": "vrv_radar_87966_Жуковский",
+    "channel": "vrv_radar",
+    "date": "2026-09-04T16:53:42+00:00",
+    "text": "Жуковский район\nКалужская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Жуковский",
+    "region": "Калужская область",
+    "lat": 55.0074689,
+    "lon": 36.8762225
   }
 ]
