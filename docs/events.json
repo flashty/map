@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_229218",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T13:13:16+00:00",
-    "text": "От Волноваха в сторону  Мариуполь внимание по бпла\nВ том числе МРШ \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_123392",
-    "channel": "kupolrussia",
-    "date": "2026-09-03T13:13:17+00:00",
-    "text": "Кировское\nМедведево\nМирное и близлежащие \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_123393",
     "channel": "kupolrussia",
     "date": "2026-09-03T13:13:22+00:00",
@@ -21996,6 +21974,28 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_87794",
+    "channel": "vrv_radar",
+    "date": "2026-09-04T03:35:18+00:00",
+    "text": "Оренбургская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Оренбургская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_87795",
+    "channel": "vrv_radar",
+    "date": "2026-09-04T03:43:30+00:00",
+    "text": "Липецкая область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Липецкая область",
     "lat": null,
     "lon": null
   }
