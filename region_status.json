@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "alert",
-    "text": "МО Истра\nМосковская область \nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-04T12:50:55+00:00",
-    "expires_at": "2026-09-04T13:50:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -129,13 +119,13 @@
     "count": null,
     "count_approx": false
   },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Тульская область \nРязанская область \nТревога по БПЛА\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-04T12:50:15+00:00",
-    "expires_at": "2026-09-04T13:50:15+00:00",
+  "московск": {
+    "display_name": "Московская область",
+    "type": "alert",
+    "text": "МО Истра\nМосковская область \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-04T13:08:57+00:00",
+    "expires_at": "2026-09-04T14:08:57+00:00",
     "count": null,
     "count_approx": false
   }
