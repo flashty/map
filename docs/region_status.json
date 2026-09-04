@@ -2,20 +2,10 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Людиновский район\nЖиздринский район\nКалужская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-04T16:01:04+00:00",
-    "expires_at": "2026-09-04T17:01:04+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Сочи, Адлер, Сириус, Краснодарский край - опасность по БПЛА с моря. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-04T15:34:33+00:00",
-    "expires_at": "2026-09-04T16:34:33+00:00",
+    "text": "Людиновский район\nЖиздринский район\nФерзиковский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-04T16:03:08+00:00",
+    "expires_at": "2026-09-04T17:03:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -31,11 +21,11 @@
   },
   "московск": {
     "display_name": "Московская область",
-    "type": "drone",
-    "text": "ГО Серпухов\nМосковская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-04T15:50:41+00:00",
-    "expires_at": "2026-09-04T16:50:41+00:00",
+    "type": "alert",
+    "text": "ГО Домодедово\nМосковская область\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-04T16:11:38+00:00",
+    "expires_at": "2026-09-04T17:11:38+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +66,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-04T15:49:56+00:00",
     "expires_at": "2026-09-04T16:49:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Заокский район\nОдоевский район\nТульская область\nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-04T16:04:04+00:00",
+    "expires_at": "2026-09-04T17:04:04+00:00",
     "count": null,
     "count_approx": false
   }
