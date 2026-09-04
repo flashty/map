@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_123389_Одессы",
-    "channel": "kupolrussia",
-    "date": "2026-09-03T13:11:39+00:00",
-    "text": "Пуски БПЛА от Одессы",
-    "type": "drone",
-    "location_name": "Одессы",
-    "region": null,
-    "lat": 48.7490351,
-    "lon": 44.5413187
-  },
-  {
-    "id": "kupolrussia_123390",
-    "channel": "kupolrussia",
-    "date": "2026-09-03T13:11:54+00:00",
-    "text": "Север\nСеверо-Запад \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_229216",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T13:12:12+00:00",
-    "text": "Мелитополь \nКонстантиновка и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_229217",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T13:12:44+00:00",
-    "text": "Кировское\nМедведево\nМирное и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_123391",
-    "channel": "kupolrussia",
-    "date": "2026-09-03T13:13:05+00:00",
-    "text": "Мелитополь \nКонстантиновка и близлежащие \nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_229218",
     "channel": "LPRalarm",
     "date": "2026-09-03T13:13:16+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_123805",
+    "channel": "kupolrussia",
+    "date": "2026-09-04T03:20:31+00:00",
+    "text": "Саратовская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_229693",
+    "channel": "LPRalarm",
+    "date": "2026-09-04T03:20:35+00:00",
+    "text": "Саратовская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_229694",
+    "channel": "LPRalarm",
+    "date": "2026-09-04T03:21:13+00:00",
+    "text": "Воронежская область\nОтбой опасности по БпЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_123806",
+    "channel": "kupolrussia",
+    "date": "2026-09-04T03:21:17+00:00",
+    "text": "Воронежская область\nОтбой опасности по БпЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_87793",
+    "channel": "vrv_radar",
+    "date": "2026-09-04T03:25:15+00:00",
+    "text": "Воронежская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
     "lat": null,
     "lon": null
   }
