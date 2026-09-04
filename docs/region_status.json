@@ -1,14 +1,4 @@
 {
-  "брянск": {
-    "display_name": "Брянской области",
-    "type": "drone",
-    "text": "Через Трубчевский район, Брянской области - продолжается массированный пролёт БПЛА в сторону Калужской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-03T22:50:47+00:00",
-    "expires_at": "2026-09-03T23:50:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
@@ -19,23 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "drone",
-    "text": "Кузнецкий район\nПензенская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-03T22:50:08+00:00",
-    "expires_at": "2026-09-03T23:50:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Калуга \nКалужская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-03T23:43:15+00:00",
-    "expires_at": "2026-09-04T00:43:15+00:00",
+    "text": "Калуга \nКалужская область \nПролет 2х БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-03T23:51:29+00:00",
+    "expires_at": "2026-09-04T00:51:29+00:00",
     "count": null,
     "count_approx": false
   },
@@ -92,20 +72,40 @@
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Стык Ульяновской и Самарской области фиксации БПЛА в направлении Республика Татарстан\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-03T23:42:09+00:00",
-    "expires_at": "2026-09-04T00:42:09+00:00",
+    "text": "Республика Татарстан \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-04T00:00:38+00:00",
+    "expires_at": "2026-09-04T01:00:38+00:00",
     "count": null,
     "count_approx": false
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Адлер\nКраснодарский край \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-03T23:45:13+00:00",
-    "expires_at": "2026-09-04T00:45:13+00:00",
+    "text": "Адлер \nКраснодарский край  \nЕще фиксации БПЛА\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-04T00:00:46+00:00",
+    "expires_at": "2026-09-04T01:00:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Алексин \nТульская область \nПродолжается работа ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-03T23:53:32+00:00",
+    "expires_at": "2026-09-04T00:53:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Серпуховский район \nМосковская область \nЕще фиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-04T00:01:07+00:00",
+    "expires_at": "2026-09-04T01:01:07+00:00",
     "count": null,
     "count_approx": false
   }
