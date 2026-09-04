@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_87655_Узловский",
-    "channel": "vrv_radar",
-    "date": "2026-09-03T23:12:43+00:00",
-    "text": "Узловский район \nНовомосковск \nТульская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Узловский",
-    "region": "Тульская область",
-    "lat": 53.9090465,
-    "lon": 38.144457
-  },
-  {
-    "id": "radar_plus_bpla_14278",
-    "channel": "radar_plus_bpla",
-    "date": "2026-09-03T23:13:09+00:00",
-    "text": "Очень много БПЛА через Тульскую область в направлении Московской области.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульскую область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_87656",
-    "channel": "vrv_radar",
-    "date": "2026-09-03T23:15:53+00:00",
-    "text": "Калуга \nКалужская область \nНачались фиксации БПЛА \nМеры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_91694_Ольховатский",
-    "channel": "radarrussiia",
-    "date": "2026-09-03T23:16:15+00:00",
-    "text": "Ольховатский район \nПодгоренский район \nВоронежская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Ольховатский",
-    "region": "Воронежская область",
-    "lat": 50.3121144,
-    "lon": 39.2495873
-  },
-  {
     "id": "radarrussiia_91694_Подгоренский",
     "channel": "radarrussiia",
     "date": "2026-09-03T23:16:15+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_88012",
+    "channel": "vrv_radar",
+    "date": "2026-09-04T23:38:39+00:00",
+    "text": "Калужская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_91940",
+    "channel": "radarrussiia",
+    "date": "2026-09-04T23:39:22+00:00",
+    "text": "Калужская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230165",
+    "channel": "LPRalarm",
+    "date": "2026-09-04T23:45:30+00:00",
+    "text": "От Вилино на Бахчисарай фиксация БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124213",
+    "channel": "kupolrussia",
+    "date": "2026-09-04T23:45:33+00:00",
+    "text": "От Вилино на Бахчисарай фиксация БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
