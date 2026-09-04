@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_229191",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T12:26:31+00:00",
-    "text": "Каланчак и близлежащие \nОпасность по БПЛА хорнет \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_123367",
-    "channel": "kupolrussia",
-    "date": "2026-09-03T12:26:48+00:00",
-    "text": "Каланчак и близлежащие \nОпасность по БПЛА хорнет \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_229192_Белгородский",
     "channel": "LPRalarm",
     "date": "2026-09-03T12:28:18+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Московская область",
     "lat": 55.0528603,
     "lon": 38.0592132
+  },
+  {
+    "id": "LPRalarm_229687_Сириус",
+    "channel": "LPRalarm",
+    "date": "2026-09-04T01:54:33+00:00",
+    "text": "Сириус, Сочи\nТревога по БпЛА сохраняется",
+    "type": "drone",
+    "location_name": "Сириус",
+    "region": null,
+    "lat": 43.4062071,
+    "lon": 39.9545377
+  },
+  {
+    "id": "kupolrussia_123801_Сириус",
+    "channel": "kupolrussia",
+    "date": "2026-09-04T01:54:39+00:00",
+    "text": "Сириус, Сочи\nТревога по БпЛА сохраняется",
+    "type": "drone",
+    "location_name": "Сириус",
+    "region": null,
+    "lat": 43.4062071,
+    "lon": 39.9545377
   }
 ]
