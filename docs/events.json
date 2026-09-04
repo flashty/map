@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_123393",
-    "channel": "kupolrussia",
-    "date": "2026-09-03T13:13:22+00:00",
-    "text": "От Волноваха в сторону  Мариуполь внимание по бпла\nВ том числе МРШ \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_229219",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T13:14:33+00:00",
-    "text": "Молочное\nВитино и близлежащие \nОпасность по БПЛА с моря \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_123394",
-    "channel": "kupolrussia",
-    "date": "2026-09-03T13:14:48+00:00",
-    "text": "Молочное\nВитино и близлежащие \nс моря \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_229220",
     "channel": "LPRalarm",
     "date": "2026-09-03T13:17:38+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Липецкая область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_87796",
+    "channel": "vrv_radar",
+    "date": "2026-09-04T03:53:11+00:00",
+    "text": "Рязанская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_87797",
+    "channel": "vrv_radar",
+    "date": "2026-09-04T03:58:35+00:00",
+    "text": "Московская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_229695_Шебекинский",
+    "channel": "LPRalarm",
+    "date": "2026-09-04T04:00:54+00:00",
+    "text": "Муром и близлежащие \nШебекинский район \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": null,
+    "lat": 50.438988,
+    "lon": 36.8728034
   }
 ]
