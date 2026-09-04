@@ -1,24 +1,4 @@
 {
-  "владимирск": {
-    "display_name": "Владимирская область",
-    "type": "drone",
-    "text": "Гусь-Хрустальный район\nВладимирская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-04T01:40:59+00:00",
-    "expires_at": "2026-09-04T02:40:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязань\nРязанская область\nФиксация БПЛА в вашем направлении\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-04T01:41:16+00:00",
-    "expires_at": "2026-09-04T02:41:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -39,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Боровский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-04T01:41:40+00:00",
-    "expires_at": "2026-09-04T02:41:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
@@ -61,11 +31,31 @@
   },
   "башкортост": {
     "display_name": "Республика Башкортостан",
-    "type": "alert",
-    "text": "Стерлитамак \nРеспублика Башкортостан \nМеры безопасности",
+    "type": "drone",
+    "text": "Республика Башкортостан - опасность БПЛА.\n\nГруппа в регионе, предварительно на Свердловскую область.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-09-04T02:36:16+00:00",
+    "expires_at": "2026-09-04T03:36:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "свердловск": {
+    "display_name": "Свердловскую область",
+    "type": "drone",
+    "text": "Республика Башкортостан - опасность БПЛА.\n\nГруппа в регионе, предварительно на Свердловскую область.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-09-04T02:36:16+00:00",
+    "expires_at": "2026-09-04T03:36:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "челябинск": {
+    "display_name": "Челябинская область",
+    "type": "drone",
+    "text": "Магнитогорск \nЧелябинская область \nВнимание по БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-09-04T02:27:18+00:00",
-    "expires_at": "2026-09-04T03:27:18+00:00",
+    "updated_at": "2026-09-04T02:41:22+00:00",
+    "expires_at": "2026-09-04T03:41:22+00:00",
     "count": null,
     "count_approx": false
   }

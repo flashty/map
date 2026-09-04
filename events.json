@@ -1,104 +1,5 @@
 [
   {
-    "id": "kupolrussia_123379",
-    "channel": "kupolrussia",
-    "date": "2026-09-03T12:53:36+00:00",
-    "text": "Запад Крыма \nТарханкут и близлежащие\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_229206",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T12:54:36+00:00",
-    "text": "Брянская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_123380",
-    "channel": "kupolrussia",
-    "date": "2026-09-03T12:54:47+00:00",
-    "text": "Брянская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_123381",
-    "channel": "kupolrussia",
-    "date": "2026-09-03T12:54:55+00:00",
-    "text": "Калужская область \nСмоленская область \nТульская область \nОпасность по БПЛА от Брянской области\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_229207",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T12:54:58+00:00",
-    "text": "Калужская область \nСмоленская область \nТульская область \nОпасность по БПЛА от Брянской области\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_123382_Севастополь",
-    "channel": "kupolrussia",
-    "date": "2026-09-03T12:56:20+00:00",
-    "text": "Севастополь\nД\\ученияи №",
-    "type": "unknown",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
-    "id": "LPRalarm_229208",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T12:58:48+00:00",
-    "text": "Тарханкут и близлежащие \nТревога по БПЛА с моря \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_123383",
-    "channel": "kupolrussia",
-    "date": "2026-09-03T12:59:09+00:00",
-    "text": "Тарханкут и близлежащие \nс моря \nРеспублика Крым\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_229209",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T13:00:01+00:00",
-    "text": "Стерегущее и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_123384",
     "channel": "kupolrussia",
     "date": "2026-09-03T13:00:22+00:00",
@@ -21996,6 +21897,105 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_87783",
+    "channel": "vrv_radar",
+    "date": "2026-09-04T02:31:34+00:00",
+    "text": "Саратовская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_87784",
+    "channel": "vrv_radar",
+    "date": "2026-09-04T02:32:39+00:00",
+    "text": "Стерлитамак \nРеспублика Башкортостан \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_91794",
+    "channel": "radarrussiia",
+    "date": "2026-09-04T02:35:36+00:00",
+    "text": "Стерлитамак \nРеспублика Башкортостан \nТревога по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_91795",
+    "channel": "radarrussiia",
+    "date": "2026-09-04T02:35:55+00:00",
+    "text": "Самарская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_91796",
+    "channel": "radarrussiia",
+    "date": "2026-09-04T02:36:14+00:00",
+    "text": "Саратовская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14280",
+    "channel": "radar_plus_bpla",
+    "date": "2026-09-04T02:36:16+00:00",
+    "text": "Республика Башкортостан - опасность БПЛА.\n\nГруппа в регионе, предварительно на Свердловскую область.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_87785",
+    "channel": "vrv_radar",
+    "date": "2026-09-04T02:36:32+00:00",
+    "text": "Сильно опоздали с оповещением, ранее сообщали об фиксациях к вам с возможным уходом на Челябинскую область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Челябинскую область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_87786",
+    "channel": "vrv_radar",
+    "date": "2026-09-04T02:41:22+00:00",
+    "text": "Магнитогорск \nЧелябинская область \nВнимание по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Челябинская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_87787",
+    "channel": "vrv_radar",
+    "date": "2026-09-04T02:43:51+00:00",
+    "text": "Волгоградская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Волгоградская область",
     "lat": null,
     "lon": null
   }
