@@ -59,23 +59,13 @@
     "count": null,
     "count_approx": false
   },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "В море от Форос на восток фиксация БПЛА\nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-04T14:21:36+00:00",
-    "expires_at": "2026-09-04T15:21:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
-    "type": "alert",
-    "text": "ГО Бронницы\nМосковская область\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-04T14:29:19+00:00",
-    "expires_at": "2026-09-04T15:29:19+00:00",
+    "type": "drone",
+    "text": "Мишеронский, Шатурский район, Московская область - пролёт БПЛА в сторону Владимирской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-04T15:31:05+00:00",
+    "expires_at": "2026-09-04T16:31:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +96,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-04T15:12:06+00:00",
     "expires_at": "2026-09-04T16:12:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Щекинский район\nТульская область\nФиксация от 2 БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-04T15:31:06+00:00",
+    "expires_at": "2026-09-04T16:31:06+00:00",
+    "count": 2,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирской области",
+    "type": "drone",
+    "text": "Мишеронский, Шатурский район, Московская область - пролёт БПЛА в сторону Владимирской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-04T15:31:05+00:00",
+    "expires_at": "2026-09-04T16:31:05+00:00",
     "count": null,
     "count_approx": false
   }
