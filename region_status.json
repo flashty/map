@@ -1,14 +1,4 @@
 {
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Адлер \nКраснодарский край \nПродолжаются фиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-04T01:15:22+00:00",
-    "expires_at": "2026-09-04T02:15:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
@@ -69,16 +59,6 @@
     "count": null,
     "count_approx": false
   },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "missile",
-    "text": "Ростовская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-04T00:57:34+00:00",
-    "expires_at": "2026-09-04T01:57:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "волгоградск": {
     "display_name": "Волгоградская область",
     "type": "drone",
@@ -122,10 +102,10 @@
   "владимирск": {
     "display_name": "Владимирская область",
     "type": "drone",
-    "text": "Гусь-Хрустальный район \nВладимирская область \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-04T01:14:05+00:00",
-    "expires_at": "2026-09-04T02:14:05+00:00",
+    "text": "Гусь-Хрустальный район \nВладимирская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-04T01:16:00+00:00",
+    "expires_at": "2026-09-04T02:16:00+00:00",
     "count": null,
     "count_approx": false
   },
@@ -152,10 +132,20 @@
   "челябинск": {
     "display_name": "Челябинская область",
     "type": "drone",
-    "text": "Челябинская область \nОпасность по БПЛА \nПовторно \nПринять меры безопасности",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-04T01:15:34+00:00",
-    "expires_at": "2026-09-04T02:15:34+00:00",
+    "text": "Челябинская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-04T01:23:48+00:00",
+    "expires_at": "2026-09-04T02:23:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Адлер\nСириус \nКраснодарский край\nПродолжаются фиксации БПЛА и работа ПВО\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-04T01:30:54+00:00",
+    "expires_at": "2026-09-04T02:30:54+00:00",
     "count": null,
     "count_approx": false
   }
