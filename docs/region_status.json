@@ -1,11 +1,41 @@
 {
-  "башкортост": {
-    "display_name": "Республика Башкортостан",
+  "краснодарск": {
+    "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Стерлитамак \nРеспублика Башкортостан \nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-04T03:12:01+00:00",
-    "expires_at": "2026-09-04T04:12:01+00:00",
+    "text": "Тихорецк и близлежащие\nОпасность по БПЛА\nКраснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-04T04:05:48+00:00",
+    "expires_at": "2026-09-04T05:05:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "новгородск": {
+    "display_name": "Новгородская область",
+    "type": "drone",
+    "text": "Новгородская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-04T04:11:38+00:00",
+    "expires_at": "2026-09-04T05:11:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Муром Нехотеевка Архангельское Шамино Зиборовка\nШебекинский район \nТревога по БПЛА\nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-04T04:10:45+00:00",
+    "expires_at": "2026-09-04T05:10:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Авдеевка ДНР курсом на юг опасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-04T04:15:51+00:00",
+    "expires_at": "2026-09-04T05:15:51+00:00",
     "count": null,
     "count_approx": false
   }
