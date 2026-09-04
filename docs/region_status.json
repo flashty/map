@@ -9,23 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "орловск": {
-    "display_name": "Орловскую области",
-    "type": "drone",
-    "text": "Навля\nКарачев\nБрянск и близлежащие \nТревога по реактивным БПЛА и далее на Орловскую, Калужскую области",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-04T15:40:08+00:00",
-    "expires_at": "2026-09-04T16:40:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Ступино\nМосковская область\nФиксация БПЛА в сторону Бронниц",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-04T16:29:44+00:00",
-    "expires_at": "2026-09-04T17:29:44+00:00",
+    "text": "ГО Ступино\nМосковская область\nФиксация БПЛА в сторону Бронниц\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-04T16:32:15+00:00",
+    "expires_at": "2026-09-04T17:32:15+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,16 +36,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-04T15:50:47+00:00",
     "expires_at": "2026-09-04T16:50:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "владимирск": {
-    "display_name": "Владимирская область",
-    "type": "drone",
-    "text": "Муром \nВладимирская область\nФиксация БПЛА в вашем направлении\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-04T15:36:45+00:00",
-    "expires_at": "2026-09-04T16:36:45+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +66,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-04T16:28:02+00:00",
     "expires_at": "2026-09-04T17:28:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Светлодарск, и далее в сторону трассы Светлодарск - Дебальцево\nДНР\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-04T16:39:08+00:00",
+    "expires_at": "2026-09-04T17:39:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Лисичанск, Попасная и близлежащие \nОпасность по БПЛА \nЛНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-04T16:45:44+00:00",
+    "expires_at": "2026-09-04T17:45:44+00:00",
     "count": null,
     "count_approx": false
   }
