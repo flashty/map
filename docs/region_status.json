@@ -2,10 +2,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Дятьково, Брянская область - пролёты БПЛА на Людиново, Калужской области и далее в тыл. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-04T10:56:20+00:00",
-    "expires_at": "2026-09-04T11:56:20+00:00",
+    "text": "Погар на Три Сосны опасность по БПЛА, в том числе разведка\n\nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-04T11:17:50+00:00",
+    "expires_at": "2026-09-04T12:17:50+00:00",
     "count": null,
     "count_approx": false
   },
@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "владимирск": {
-    "display_name": "Владимирская область",
-    "type": "drone",
-    "text": "Владимирская область\nИвановская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-04T10:26:19+00:00",
-    "expires_at": "2026-09-04T11:26:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "alert",
@@ -46,36 +36,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-04T11:11:15+00:00",
     "expires_at": "2026-09-04T12:11:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "воронежск": {
-    "display_name": "Воронежской области",
-    "type": "missile",
-    "text": "Белгород, Белгородский район и ситуативно Белгородская область! \nРакетная опасность! Займите Безопасные места!\n\n\nПотенциальная опасность для Курской области и Воронежской области",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-04T10:19:19+00:00",
-    "expires_at": "2026-09-04T11:19:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "нижегородск": {
-    "display_name": "Нижегородская область",
-    "type": "drone",
-    "text": "Нижегородская область\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-04T10:24:14+00:00",
-    "expires_at": "2026-09-04T11:24:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ивановск": {
-    "display_name": "Ивановская область",
-    "type": "drone",
-    "text": "Владимирская область\nИвановская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-04T10:26:19+00:00",
-    "expires_at": "2026-09-04T11:26:19+00:00",
     "count": null,
     "count_approx": false
   },
@@ -90,13 +50,13 @@
     "count_approx": false
   },
   "калужск": {
-    "display_name": "Калужская область",
+    "display_name": "Калужскую область",
     "type": "drone",
-    "text": "Жиздринский район\nКалужская область\nФиксация от 4 БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-04T11:13:27+00:00",
-    "expires_at": "2026-09-04T12:13:27+00:00",
-    "count": 4,
+    "text": "Очень много БПЛА через Калужскую область в направлении Московской области.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-09-04T11:16:23+00:00",
+    "expires_at": "2026-09-04T12:16:23+00:00",
+    "count": null,
     "count_approx": false
   },
   "орловск": {
@@ -126,6 +86,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-04T11:14:23+00:00",
     "expires_at": "2026-09-04T12:14:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московской области",
+    "type": "drone",
+    "text": "Очень много БПЛА через Калужскую область в направлении Московской области.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-09-04T11:16:23+00:00",
+    "expires_at": "2026-09-04T12:16:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "БПЛА от Горловки на юг\nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-04T11:20:57+00:00",
+    "expires_at": "2026-09-04T12:20:57+00:00",
     "count": null,
     "count_approx": false
   }
