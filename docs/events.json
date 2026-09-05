@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_124005",
-    "channel": "kupolrussia",
-    "date": "2026-09-04T12:34:10+00:00",
-    "text": "Скадовск и близлежащие опасность по БПЛА действует. Соблюдаем меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_229932",
-    "channel": "LPRalarm",
-    "date": "2026-09-04T12:36:09+00:00",
-    "text": "Валуйский округ повторно опасность по БПЛА \nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124006",
-    "channel": "kupolrussia",
-    "date": "2026-09-04T12:36:24+00:00",
-    "text": "Валуйский округ повторно \nБелгородская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_229933",
     "channel": "LPRalarm",
     "date": "2026-09-04T12:38:09+00:00",
@@ -21996,6 +21963,39 @@
     "type": "all_clear",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_92032_Воронеж",
+    "channel": "radarrussiia",
+    "date": "2026-09-05T23:11:00+00:00",
+    "text": "Воронеж\nВоронежская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "alert",
+    "location_name": "Воронеж",
+    "region": "Воронежская область",
+    "lat": 51.6605982,
+    "lon": 39.2005858
+  },
+  {
+    "id": "radarrussiia_92033_Таганрог",
+    "channel": "radarrussiia",
+    "date": "2026-09-05T23:11:30+00:00",
+    "text": "Таганрог\nРостовская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "alert",
+    "location_name": "Таганрог",
+    "region": "Ростовская область",
+    "lat": 47.215495,
+    "lon": 38.928362
+  },
+  {
+    "id": "locatorru_83985",
+    "channel": "locatorru",
+    "date": "2026-09-05T23:15:27+00:00",
+    "text": "Липецкая область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Липецкая область",
     "lat": null,
     "lon": null
   }
