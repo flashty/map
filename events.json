@@ -1,71 +1,5 @@
 [
   {
-    "id": "radarrussiia_91721",
-    "channel": "radarrussiia",
-    "date": "2026-09-03T23:51:29+00:00",
-    "text": "Калуга \nКалужская область \nПролет 2х БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_91722",
-    "channel": "radarrussiia",
-    "date": "2026-09-03T23:51:47+00:00",
-    "text": "Тула \nТульская область \nСбитие БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_91723_Адлер",
-    "channel": "radarrussiia",
-    "date": "2026-09-03T23:52:08+00:00",
-    "text": "Адлер\nКраснодарский край \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Адлер",
-    "region": "Краснодарский край",
-    "lat": 43.4439715,
-    "lon": 39.9400928
-  },
-  {
-    "id": "vrv_radar_87685_Новомосковск",
-    "channel": "vrv_radar",
-    "date": "2026-09-03T23:52:15+00:00",
-    "text": "Новомосковск\nТульская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Новомосковск",
-    "region": "Тульская область",
-    "lat": 54.011013,
-    "lon": 38.290943
-  },
-  {
-    "id": "radarrussiia_91724_Новомосковск",
-    "channel": "radarrussiia",
-    "date": "2026-09-03T23:52:34+00:00",
-    "text": "Новомосковск\nТульская область \nТревога по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Новомосковск",
-    "region": "Тульская область",
-    "lat": 54.011013,
-    "lon": 38.290943
-  },
-  {
-    "id": "vrv_radar_87686",
-    "channel": "vrv_radar",
-    "date": "2026-09-03T23:53:32+00:00",
-    "text": "Алексин \nТульская область \nПродолжается работа ПВО по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_83777",
     "channel": "locatorru",
     "date": "2026-09-03T23:53:48+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Ростовская область",
     "lat": 47.215495,
     "lon": 38.928362
+  },
+  {
+    "id": "LPRalarm_230203",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T09:18:30+00:00",
+    "text": "Таганрог и близлежащие отбой внимания по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230204",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T09:20:20+00:00",
+    "text": "Акимовский район трасса Р-280 опасность по БПЛА Хорнет\n\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124250",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T09:20:34+00:00",
+    "text": "Таганрог и близлежащие отбой внимания по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124251",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T09:20:41+00:00",
+    "text": "Акимовский район трасса Р-280 опасность по БПЛА Хорнет\n\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124252",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T09:26:25+00:00",
+    "text": "Чонгар, Сиваш, Медведевка и близлежащие\nРайон трассы Е105\nХерсонская обламть РФ\nРеспублика Крым\n\nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230205",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T09:26:39+00:00",
+    "text": "Чонгар, Сиваш, Медведевка и близлежащие\nРайон трассы Е105\nХерсонская область РФ\nРеспублика Крым\n\nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
   }
 ]
