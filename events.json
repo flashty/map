@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_87682",
-    "channel": "vrv_radar",
-    "date": "2026-09-03T23:48:08+00:00",
-    "text": "Калуга \nКалужская область \nПролет 2х БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_83775_Адлер",
-    "channel": "locatorru",
-    "date": "2026-09-03T23:48:59+00:00",
-    "text": "Сочи - Хоста - Адлер, Краснодарский край - опасность по БПЛА сохраняется. Много с моря.\n\nБерегите себя и своих близких! \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Адлер",
-    "region": "Краснодарский край",
-    "lat": 43.4439715,
-    "lon": 39.9400928
-  },
-  {
-    "id": "vrv_radar_87683",
-    "channel": "vrv_radar",
-    "date": "2026-09-03T23:49:11+00:00",
-    "text": "Тула \nТульская область \nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_83776",
     "channel": "locatorru",
     "date": "2026-09-03T23:49:39+00:00",
@@ -21993,6 +21960,39 @@
     "channel": "radarrussiia",
     "date": "2026-09-05T08:59:11+00:00",
     "text": "На данный момент не фиксируем вражеских БПЛА в воздушном пространстве России.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230201",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T09:03:39+00:00",
+    "text": "Краматорск\n\nЗапуски РСЗО",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124248",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T09:03:49+00:00",
+    "text": "Краматорск\n\nЗапуски РСЗО",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230202",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T09:12:31+00:00",
+    "text": "Таганрог и близлежащие \nВнимание по возможным БПЛА",
     "type": "drone",
     "location_name": null,
     "region": null,
