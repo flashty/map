@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_87672",
-    "channel": "vrv_radar",
-    "date": "2026-09-03T23:37:23+00:00",
-    "text": "Адлер \nКраснодарский край \nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_229639",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T23:37:53+00:00",
-    "text": "Балаклава\nФиолент и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_123763",
     "channel": "kupolrussia",
     "date": "2026-09-03T23:37:58+00:00",
@@ -21996,6 +21974,28 @@
     "type": "missile",
     "location_name": null,
     "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230182",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T07:27:23+00:00",
+    "text": "Валуйский округ Белгородская область опасность по ФПВ (БПЛА)",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124229",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T07:27:38+00:00",
+    "text": "Валуйский округ Белгородская область опасность по ФПВ (БПЛА)",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
     "lat": null,
     "lon": null
   }
