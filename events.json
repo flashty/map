@@ -1,16 +1,5 @@
 [
   {
-    "id": "vrv_radar_87660_Серпуховский",
-    "channel": "vrv_radar",
-    "date": "2026-09-03T23:26:15+00:00",
-    "text": "Серпуховский район \nРабота ПВО по БПЛА \nМосковская область",
-    "type": "drone",
-    "location_name": "Серпуховский",
-    "region": "Московская область",
-    "lat": 54.9152635,
-    "lon": 37.4055017
-  },
-  {
     "id": "radarrussiia_91703_Серпуховский",
     "channel": "radarrussiia",
     "date": "2026-09-03T23:26:32+00:00",
@@ -21996,6 +21985,17 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230173",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T04:13:25+00:00",
+    "text": "Маслова Пристань и близлежащие \nУдарный БПЛА в направлении \nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
     "lat": null,
     "lon": null
   }
