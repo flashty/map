@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ с запада",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-05T14:44:36+00:00",
-    "expires_at": "2026-09-05T15:44:36+00:00",
+    "text": "Донецк, Макеевка ДНР и близлежащие \nОпасность по БПЛА с единичные фиксации",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-05T15:15:32+00:00",
+    "expires_at": "2026-09-05T16:15:32+00:00",
     "count": null,
     "count_approx": false
   },
@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Херсонская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-05T14:15:35+00:00",
-    "expires_at": "2026-09-05T15:15:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -36,6 +26,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-05T14:51:13+00:00",
     "expires_at": "2026-09-05T15:51:13+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Северодонецк и близлежащие \nЛНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-05T15:03:02+00:00",
+    "expires_at": "2026-09-05T16:03:02+00:00",
     "count": null,
     "count_approx": false
   }

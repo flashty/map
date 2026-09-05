@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_87721",
-    "channel": "vrv_radar",
-    "date": "2026-09-04T00:29:46+00:00",
-    "text": "Тула \nТульская область \nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_91748_Чеховский",
-    "channel": "radarrussiia",
-    "date": "2026-09-04T00:30:00+00:00",
-    "text": "Чеховский район \nМосковская область \nСбитие БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": "Чеховский",
-    "region": "Московская область",
-    "lat": 55.9001837,
-    "lon": 36.8061081
-  },
-  {
-    "id": "LPRalarm_229659_Андреевка",
-    "channel": "LPRalarm",
-    "date": "2026-09-04T00:30:19+00:00",
-    "text": "Андреевка, Кача\nСевастополь \nС моря еще фиксации БПЛА",
-    "type": "drone",
-    "location_name": "Андреевка",
-    "region": null,
-    "lat": 51.9436088,
-    "lon": 35.7865681
-  },
-  {
-    "id": "vrv_radar_87722_Чеховский",
-    "channel": "vrv_radar",
-    "date": "2026-09-04T00:32:16+00:00",
-    "text": "Чеховский район \nДомодедовский район \nМосковская область \nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Чеховский",
-    "region": "Московская область",
-    "lat": 55.9001837,
-    "lon": 36.8061081
-  },
-  {
-    "id": "vrv_radar_87722_Домодедовский",
-    "channel": "vrv_radar",
-    "date": "2026-09-04T00:32:16+00:00",
-    "text": "Чеховский район \nДомодедовский район \nМосковская область \nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Домодедовский",
-    "region": "Московская область",
-    "lat": 55.4696098,
-    "lon": 37.7874777
-  },
-  {
-    "id": "vrv_radar_87723_Серпуховский",
-    "channel": "vrv_radar",
-    "date": "2026-09-04T00:34:05+00:00",
-    "text": "Серпуховский район \nЧеховский район \nСтупинский район \nОзерский район \nДомодедовский район \nПодольский район \nМосковская область \nФиксации групп БПЛА в тыл",
-    "type": "drone",
-    "location_name": "Серпуховский",
-    "region": "Московская область",
-    "lat": 54.9152635,
-    "lon": 37.4055017
-  },
-  {
     "id": "vrv_radar_87723_Чеховский",
     "channel": "vrv_radar",
     "date": "2026-09-04T00:34:05+00:00",
@@ -21996,6 +21930,72 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230273",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T15:02:47+00:00",
+    "text": "Северодонецк и близлежащие \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124307",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T15:03:02+00:00",
+    "text": "Северодонецк и близлежащие \nЛНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230274",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T15:08:07+00:00",
+    "text": "ЛНР \n❤️❤️❤️",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230275",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T15:13:02+00:00",
+    "text": "Республика Крым \nСевер \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124308",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T15:13:24+00:00",
+    "text": "Республика Крым \nСевер",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230276",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T15:15:32+00:00",
+    "text": "Донецк, Макеевка ДНР и близлежащие \nОпасность по БПЛА с единичные фиксации",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
