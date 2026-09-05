@@ -1,21 +1,11 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Волноваха и близлежащие \nОпасность по БПЛА на электротяге \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-05T12:38:22+00:00",
-    "expires_at": "2026-09-05T13:38:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Фиксации БПЛА Хрустальный - Антрацит и ближайшие и далее на В-ЮВ\nЛНР",
+    "text": "Фиксации БПЛА Ровеньки-Должанск и ближайшие\nЛНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-05T13:16:51+00:00",
-    "expires_at": "2026-09-05T14:16:51+00:00",
+    "updated_at": "2026-09-05T13:42:25+00:00",
+    "expires_at": "2026-09-05T14:42:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,6 +16,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-05T13:24:06+00:00",
     "expires_at": "2026-09-05T14:24:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "missile",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-05T13:43:38+00:00",
+    "expires_at": "2026-09-05T14:43:38+00:00",
     "count": null,
     "count_approx": false
   }

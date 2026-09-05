@@ -1,38 +1,5 @@
 [
   {
-    "id": "locatorru_83783_Серпухов",
-    "channel": "locatorru",
-    "date": "2026-09-04T00:15:45+00:00",
-    "text": "Пролёты в сторону Серпухов, Чехов. \n\n📡Локатор России - @locatorru",
-    "type": "unknown",
-    "location_name": "Серпухов",
-    "region": null,
-    "lat": 54.9155247,
-    "lon": 37.4195533
-  },
-  {
-    "id": "LPRalarm_229655",
-    "channel": "LPRalarm",
-    "date": "2026-09-04T00:16:33+00:00",
-    "text": "Станица Петровская, Темрюк и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_123779",
-    "channel": "kupolrussia",
-    "date": "2026-09-04T00:16:38+00:00",
-    "text": "Станица Петровская, Темрюк и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_123780",
     "channel": "kupolrussia",
     "date": "2026-09-04T00:17:26+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230257",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T13:42:07+00:00",
+    "text": "Фиксации БПЛА Ровеньки-Должанск и ближайшие\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124290",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T13:42:25+00:00",
+    "text": "Фиксации БПЛА Ровеньки-Должанск и ближайшие\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230258",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T13:43:38+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
