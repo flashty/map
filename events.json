@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_87679",
-    "channel": "vrv_radar",
-    "date": "2026-09-03T23:43:15+00:00",
-    "text": "Калуга \nКалужская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_87680_Адлер",
-    "channel": "vrv_radar",
-    "date": "2026-09-03T23:43:25+00:00",
-    "text": "Адлер\nКраснодарский край \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Адлер",
-    "region": "Краснодарский край",
-    "lat": 43.4439715,
-    "lon": 39.9400928
-  },
-  {
-    "id": "LPRalarm_229642_Кача",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T23:44:45+00:00",
-    "text": "Кача, Солнечное и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Кача",
-    "region": null,
-    "lat": 56.1972669,
-    "lon": 92.5363666
-  },
-  {
-    "id": "kupolrussia_123766_Кача",
-    "channel": "kupolrussia",
-    "date": "2026-09-03T23:44:49+00:00",
-    "text": "Кача, Солнечное и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Кача",
-    "region": null,
-    "lat": 56.1972669,
-    "lon": 92.5363666
-  },
-  {
-    "id": "radarrussiia_91717",
-    "channel": "radarrussiia",
-    "date": "2026-09-03T23:44:54+00:00",
-    "text": "Тула \nТульская область \nСбитие БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_87681",
-    "channel": "vrv_radar",
-    "date": "2026-09-03T23:44:57+00:00",
-    "text": "Алексин \nТульская область \nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_91718_Адлер",
     "channel": "radarrussiia",
     "date": "2026-09-03T23:45:13+00:00",
@@ -21998,5 +21932,71 @@
     "region": null,
     "lat": 55.7020859,
     "lon": 49.1449216
+  },
+  {
+    "id": "LPRalarm_230199_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T08:33:44+00:00",
+    "text": "Белгородский район опасность по БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_124246_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T08:33:56+00:00",
+    "text": "Белгородский район опасность по БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "locatorru_83881",
+    "channel": "locatorru",
+    "date": "2026-09-05T08:43:47+00:00",
+    "text": "В приграничных районах Брянской области Белгородской области, Курской области - активность БПЛА и FPV-дронов сохраняется.\n\nПо другим регинам всё спокойно. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Брянской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230200_Черноморский",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T08:44:52+00:00",
+    "text": "Черноморский район учения до вечера",
+    "type": "unknown",
+    "location_name": "Черноморский",
+    "region": null,
+    "lat": 44.849996,
+    "lon": 38.4944065
+  },
+  {
+    "id": "kupolrussia_124247_Черноморский",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T08:44:59+00:00",
+    "text": "Черноморский район учения до вечера",
+    "type": "unknown",
+    "location_name": "Черноморский",
+    "region": null,
+    "lat": 44.849996,
+    "lon": 38.4944065
+  },
+  {
+    "id": "radar_plus_bpla_14292",
+    "channel": "radar_plus_bpla",
+    "date": "2026-09-05T08:45:55+00:00",
+    "text": "На данный момент не фиксируем вражеских БПЛА в воздушном пространстве России.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
