@@ -305,6 +305,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-09-05T20:46:51+00:00",
+        "last_updated": "2026-09-05T21:30:04+00:00",
+        "path_labels": [
+          "Адлер (Краснодарский край)",
+          "Сочи (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.9400928,
+            43.4439715
+          ],
+          [
+            39.723109,
+            43.5854823
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-09-05T20:54:50+00:00",
         "last_updated": "2026-09-05T20:54:50+00:00",
         "path_labels": [
