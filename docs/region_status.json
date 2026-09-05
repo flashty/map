@@ -2,10 +2,10 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Новоанновка - Новосветловка и ближайшие\nОпасность по БПЛА \nЛНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-05T11:30:34+00:00",
-    "expires_at": "2026-09-05T12:30:34+00:00",
+    "text": "Краснодон ЛНР и близлежащие, Донецк Ростовская область, Каменск-Шахтинский опасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-05T11:31:56+00:00",
+    "expires_at": "2026-09-05T12:31:56+00:00",
     "count": null,
     "count_approx": false
   },
@@ -19,26 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "alert",
-    "text": "Курская область и близлежащие\nВНИМАНИЕ!!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-05T10:33:08+00:00",
-    "expires_at": "2026-09-05T11:33:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Донецк и близлежащие \nДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-05T10:41:08+00:00",
-    "expires_at": "2026-09-05T11:41:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "харьковск": {
     "display_name": "Харьковская область",
     "type": "missile",
@@ -46,6 +26,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-05T11:28:01+00:00",
     "expires_at": "2026-09-05T12:28:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Краснодон ЛНР и близлежащие, Донецк Ростовская область, Каменск-Шахтинский опасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-05T11:31:56+00:00",
+    "expires_at": "2026-09-05T12:31:56+00:00",
     "count": null,
     "count_approx": false
   }
