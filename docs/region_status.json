@@ -1,14 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Володарское и близлежащие\nДНР\nОпасность по БПЛА в т.ч. на электротяге",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-04T23:27:33+00:00",
-    "expires_at": "2026-09-05T00:27:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарско": {
     "display_name": "Краснодарского края",
     "type": "alert",
@@ -16,6 +6,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-04T23:48:17+00:00",
     "expires_at": "2026-09-05T00:48:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "От Ивни в направлении Обояни\nОпасность по БПЛА\nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-05T00:21:13+00:00",
+    "expires_at": "2026-09-05T01:21:13+00:00",
     "count": null,
     "count_approx": false
   }
