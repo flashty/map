@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_87739",
-    "channel": "vrv_radar",
-    "date": "2026-09-04T00:51:58+00:00",
-    "text": "Делитесь каналом что бы обезопасить близких, и повысить точность оповещений.\n\nПригласить друга.",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_87740",
-    "channel": "vrv_radar",
-    "date": "2026-09-04T00:52:23+00:00",
-    "text": "Пензенская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_229665",
-    "channel": "LPRalarm",
-    "date": "2026-09-04T00:52:24+00:00",
-    "text": "Кача\nВилино\nКольчугино и близлежащие \nОпасность по БПЛА с моря\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_123787",
-    "channel": "kupolrussia",
-    "date": "2026-09-04T00:52:27+00:00",
-    "text": "Кача\nВилино\nКольчугино и близлежащие \nОпасность по БПЛА с моря\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_229666",
-    "channel": "LPRalarm",
-    "date": "2026-09-04T00:53:21+00:00",
-    "text": "Ленинский район\nЧауда \nКировское\nФеодосия и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_123788",
-    "channel": "kupolrussia",
-    "date": "2026-09-04T00:53:26+00:00",
-    "text": "Ленинский район\nЧауда \nКировское\nФеодосия и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_87741_Домодедовский",
     "channel": "vrv_radar",
     "date": "2026-09-04T00:54:22+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_83892",
+    "channel": "locatorru",
+    "date": "2026-09-05T17:34:05+00:00",
+    "text": "С 08:00 до 20:00 силами противовоздушной обороны было уничтожено 6 БПЛА над территориями Белгородской, Курской, Ростовской областей и Республики Крым.\n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородской областей",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230313",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T17:36:24+00:00",
+    "text": "Макеевка и близлежащие\nЛНР\n\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124341",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T17:36:45+00:00",
+    "text": "Макеевка и близлежащие\nЛНР\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_88025",
+    "channel": "vrv_radar",
+    "date": "2026-09-05T17:38:44+00:00",
+    "text": "⚡ В течение дня, в период с 8.00 до 20.00 мск, дежурными силами ПВО перехвачены и уничтожены шесть украинских беспилотных летательных аппаратов самолетного типа над территориями Белгородской, Курской, Ростовской областей и Республики Крым.\n\n🔹 Минобороны России",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородской областей",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230314",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T17:41:00+00:00",
+    "text": "Марковка, ЛНР, и далее в направлении Ростовской области\n\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124342",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T17:41:13+00:00",
+    "text": "Марковка, ЛНР, и далее в направлении Ростовской области\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
