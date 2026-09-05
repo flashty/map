@@ -1,38 +1,5 @@
 [
   {
-    "id": "radarrussiia_91744_Домодедовский",
-    "channel": "radarrussiia",
-    "date": "2026-09-04T00:27:40+00:00",
-    "text": "Домодедовский район \nМосковская область \nСбитие БПЛА, еще фиксация\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": "Домодедовский",
-    "region": "Московская область",
-    "lat": 55.4696098,
-    "lon": 37.7874777
-  },
-  {
-    "id": "vrv_radar_87717_Домодедовский",
-    "channel": "vrv_radar",
-    "date": "2026-09-04T00:27:50+00:00",
-    "text": "Домодедовский район \nМосковская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Домодедовский",
-    "region": "Московская область",
-    "lat": 55.4696098,
-    "lon": 37.7874777
-  },
-  {
-    "id": "radarrussiia_91745_Раменский",
-    "channel": "radarrussiia",
-    "date": "2026-09-04T00:28:00+00:00",
-    "text": "Раменский район \nМосковская область \nСбитие БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": "Раменский",
-    "region": "Московская область",
-    "lat": 56.6567871,
-    "lon": 37.2350653
-  },
-  {
     "id": "vrv_radar_87718_Домодедовский",
     "channel": "vrv_radar",
     "date": "2026-09-04T00:28:09+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230270",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T14:36:20+00:00",
+    "text": "Азов\nБатайск и близлежащие \nОпасность по БПЛА \nРостовская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124303_Азов",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T14:36:40+00:00",
+    "text": "Азов\nБатайск и близлежащие \n\nРостовская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Азов",
+    "region": "Ростовская область",
+    "lat": 47.1139219,
+    "lon": 39.4259657
+  },
+  {
+    "id": "kupolrussia_124304",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T14:44:36+00:00",
+    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ с запада",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }

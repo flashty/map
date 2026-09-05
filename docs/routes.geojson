@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-05T14:24:18+00:00",
+        "last_updated": "2026-09-05T14:36:40+00:00",
+        "path_labels": [
+          "Дону",
+          "Азов (Ростовская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.7249086,
+            47.2610441
+          ],
+          [
+            39.4259657,
+            47.1139219
+          ]
+        ]
+      }
+    }
+  ]
 }
