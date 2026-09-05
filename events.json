@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_229644_Макеевка",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T23:55:00+00:00",
-    "text": "Макеевка, Харцызск и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Макеевка",
-    "region": null,
-    "lat": 52.0719529,
-    "lon": 35.7811403
-  },
-  {
-    "id": "kupolrussia_123768_Макеевка",
-    "channel": "kupolrussia",
-    "date": "2026-09-03T23:55:04+00:00",
-    "text": "Макеевка, Харцызск и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Макеевка",
-    "region": null,
-    "lat": 52.0719529,
-    "lon": 35.7811403
-  },
-  {
-    "id": "vrv_radar_87690",
-    "channel": "vrv_radar",
-    "date": "2026-09-03T23:56:57+00:00",
-    "text": "Альметьевск \nРеспублика Татарстан \nВнимание по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Татарстан",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_229645",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T23:57:16+00:00",
-    "text": "Сочи\nСириус\nАдлер\nТревога по БпЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_123769",
-    "channel": "kupolrussia",
-    "date": "2026-09-03T23:57:22+00:00",
-    "text": "Сочи\nСириус\nАдлер\nТревога по БпЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_91725",
-    "channel": "radarrussiia",
-    "date": "2026-09-03T23:57:54+00:00",
-    "text": "Альметьевск \nРеспублика Татарстан \nВнимание по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Татарстан",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_229646_Целинный",
-    "channel": "LPRalarm",
-    "date": "2026-09-03T23:58:20+00:00",
-    "text": "Целинный, Славянск-на-Кубани и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Целинный",
-    "region": null,
-    "lat": 53.0232166,
-    "lon": 58.7312528
-  },
-  {
     "id": "radarrussiia_91726",
     "channel": "radarrussiia",
     "date": "2026-09-03T23:58:21+00:00",
@@ -21996,6 +21919,83 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230212",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T09:49:23+00:00",
+    "text": "Попасная\n Первомайск\nОпасность по БПЛА Хорнет\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124256",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T09:49:32+00:00",
+    "text": "Попасная\n Первомайск\nОпасность по БПЛА Хорнет\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230213",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T09:49:47+00:00",
+    "text": "Белогоровка \nЛисичанск\nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124257",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T09:50:00+00:00",
+    "text": "Белогоровка \nЛисичанск\nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230214",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T09:50:14+00:00",
+    "text": "Дорога\n Владимировка — Приазовское  — Мелитополь \nопасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230215",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T09:57:34+00:00",
+    "text": "Курская область и близлежащие отбой авиационной ракетной бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124258",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T09:57:40+00:00",
+    "text": "Курская область и близлежащие",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }
