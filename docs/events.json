@@ -1,115 +1,5 @@
 [
   {
-    "id": "vrv_radar_87733",
-    "channel": "vrv_radar",
-    "date": "2026-09-04T00:41:57+00:00",
-    "text": "Уфа \nРеспублика Башкортостан \nВнимание по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Башкортостан",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_87734_Чеховский",
-    "channel": "vrv_radar",
-    "date": "2026-09-04T00:42:36+00:00",
-    "text": "Чеховский район \nМосковская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Чеховский",
-    "region": "Московская область",
-    "lat": 55.9001837,
-    "lon": 36.8061081
-  },
-  {
-    "id": "kupolrussia_123783",
-    "channel": "kupolrussia",
-    "date": "2026-09-04T00:43:29+00:00",
-    "text": "Пензенская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_229661",
-    "channel": "LPRalarm",
-    "date": "2026-09-04T00:43:34+00:00",
-    "text": "Пензенская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_91755",
-    "channel": "radarrussiia",
-    "date": "2026-09-04T00:45:05+00:00",
-    "text": "Республика Башкортостан \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Башкортостан",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_91756",
-    "channel": "radarrussiia",
-    "date": "2026-09-04T00:45:24+00:00",
-    "text": "Уфа \nРеспублика Башкортостан \nВнимание по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Башкортостан",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_91757_Чеховский",
-    "channel": "radarrussiia",
-    "date": "2026-09-04T00:45:41+00:00",
-    "text": "Чеховский район \nМосковская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Чеховский",
-    "region": "Московская область",
-    "lat": 55.9001837,
-    "lon": 36.8061081
-  },
-  {
-    "id": "vrv_radar_87735_Домодедовский",
-    "channel": "vrv_radar",
-    "date": "2026-09-04T00:45:53+00:00",
-    "text": "Домодедовский район \nМосковская область \nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Домодедовский",
-    "region": "Московская область",
-    "lat": 55.4696098,
-    "lon": 37.7874777
-  },
-  {
-    "id": "radarrussiia_91758_Домодедовский",
-    "channel": "radarrussiia",
-    "date": "2026-09-04T00:46:02+00:00",
-    "text": "Домодедовский район \nМосковская область \nСбитие БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": "Домодедовский",
-    "region": "Московская область",
-    "lat": 55.4696098,
-    "lon": 37.7874777
-  },
-  {
-    "id": "vrv_radar_87736",
-    "channel": "vrv_radar",
-    "date": "2026-09-04T00:46:03+00:00",
-    "text": "Оренбургская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Оренбургская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_229662",
     "channel": "LPRalarm",
     "date": "2026-09-04T00:46:08+00:00",
@@ -21996,6 +21886,116 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230300",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T16:45:53+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124330",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T16:46:06+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230301",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T16:48:38+00:00",
+    "text": "Юг Ростовской области\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124331",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T16:49:16+00:00",
+    "text": "Юг Ростовской области",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Ростовской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_88024",
+    "channel": "vrv_radar",
+    "date": "2026-09-05T16:49:43+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230302_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T16:50:48+00:00",
+    "text": "Солохи \nБелгородский район \nУдарный БПЛА в направлении",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_230303",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T16:56:27+00:00",
+    "text": "Смелое и далее на восток\nЛНР\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124332",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T16:56:43+00:00",
+    "text": "Смелое и далее на восток\nЛНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230304",
+    "channel": "LPRalarm",
+    "date": "2026-09-05T16:57:42+00:00",
+    "text": "Славяносербск, близлежашие и далее в сторону Луганска\nЛНР\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124333",
+    "channel": "kupolrussia",
+    "date": "2026-09-05T16:58:01+00:00",
+    "text": "Славяносербск, близлежашие и далее в сторону Луганска\nЛНР\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
