@@ -1,34 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и возможным ФПВ с запада",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-05T15:32:33+00:00",
-    "expires_at": "2026-09-05T16:32:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "alert",
-    "text": "Погар и близлежащие \nОпасность по барражирующим боеприпасам \nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-05T16:00:52+00:00",
-    "expires_at": "2026-09-05T17:00:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Ивнянский район \nТревога по ФПВ/БПЛА\nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-05T16:19:54+00:00",
-    "expires_at": "2026-09-05T17:19:54+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "воронежск": {
     "display_name": "Воронежской области",
     "type": "missile",
@@ -36,6 +6,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-05T16:02:12+00:00",
     "expires_at": "2026-09-05T17:02:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Белое и далее в сторону Лутугино\nЛНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-05T16:40:28+00:00",
+    "expires_at": "2026-09-05T17:40:28+00:00",
     "count": null,
     "count_approx": false
   }
