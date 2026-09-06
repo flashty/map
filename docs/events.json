@@ -1,49 +1,5 @@
 [
   {
-    "id": "locatorru_83863_Сириус",
-    "channel": "locatorru",
-    "date": "2026-09-04T18:35:25+00:00",
-    "text": "Сочи, Адлер, Сириус, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Сириус",
-    "region": "Краснодарский край",
-    "lat": 43.4062071,
-    "lon": 39.9545377
-  },
-  {
-    "id": "LPRalarm_230067",
-    "channel": "LPRalarm",
-    "date": "2026-09-04T18:35:35+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность повторно",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230068_Туапсе",
-    "channel": "LPRalarm",
-    "date": "2026-09-04T18:36:24+00:00",
-    "text": "Туапсе, Адлер, Сочи и близлежащие\nКраснодарский Край\n\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Туапсе",
-    "region": null,
-    "lat": 44.0984747,
-    "lon": 39.0718875
-  },
-  {
-    "id": "LPRalarm_230068_Адлер",
-    "channel": "LPRalarm",
-    "date": "2026-09-04T18:36:24+00:00",
-    "text": "Туапсе, Адлер, Сочи и близлежащие\nКраснодарский Край\n\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Адлер",
-    "region": null,
-    "lat": 43.4439715,
-    "lon": 39.9400928
-  },
-  {
     "id": "kupolrussia_124126_Туапсе",
     "channel": "kupolrussia",
     "date": "2026-09-04T18:36:47+00:00",
@@ -21996,6 +21952,50 @@
     "type": "missile",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230591",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T06:03:58+00:00",
+    "text": "Бердянск в направлении Белосарайской косы и далее в Азовское море фиксация БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124542",
+    "channel": "kupolrussia",
+    "date": "2026-09-06T06:04:26+00:00",
+    "text": "Бердянск в направлении Белосарайской косы и далее в Азовское море фиксация БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230592",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T06:12:13+00:00",
+    "text": "ЛДНР Запорожская область РФ \nОтбой авиационно ракетно бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_88274",
+    "channel": "vrv_radar",
+    "date": "2026-09-06T06:14:00+00:00",
+    "text": "Рязанская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
     "lat": null,
     "lon": null
   }
