@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_230170",
-    "channel": "LPRalarm",
-    "date": "2026-09-05T03:29:44+00:00",
-    "text": "Экстренная информация РСЧС: Внимание! Напоминаем, что на территории Орловской области сохраняется опасность атаки БПЛА. Будьте бдительны.",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124219",
-    "channel": "kupolrussia",
-    "date": "2026-09-05T03:29:44+00:00",
-    "text": "Экстренная информация РСЧС: Внимание! Напоминаем, что на территории Орловской области сохраняется опасность атаки БПЛА. Будьте бдительны.",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_83875",
-    "channel": "locatorru",
-    "date": "2026-09-05T03:36:32+00:00",
-    "text": "Брянская область, Смоленская область, Тверская область, Калужская область, Курская область, Орловская область, Тульская область, Московская область, Ростовская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_83876",
-    "channel": "locatorru",
-    "date": "2026-09-05T03:36:56+00:00",
-    "text": "Отбой опасности по БПЛА во всех ранее объявленных регионах. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230171_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-09-05T03:55:35+00:00",
-    "text": "Белгородский район \nОпасность по БПЛА повторно",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "kupolrussia_124220_Белгородский",
-    "channel": "kupolrussia",
-    "date": "2026-09-05T03:55:57+00:00",
-    "text": "Белгородский район \nОпасность по БПЛА повторно\nБелгородская область",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": "Белгородская область",
-    "lat": 50.5939358,
-    "lon": 36.5762397
-  },
-  {
-    "id": "kupolrussia_124221",
-    "channel": "kupolrussia",
-    "date": "2026-09-05T03:56:06+00:00",
-    "text": "Тульская область \nОтбой опасности БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_230172",
     "channel": "LPRalarm",
     "date": "2026-09-05T03:56:10+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230715",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T12:01:22+00:00",
+    "text": "Дорога\n Владимировка   — Инзовкаь — Бердянск \n\nОпасность по  БПЛА\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230716",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T12:13:06+00:00",
+    "text": "БПЛА в направлении Алчевск - Перевальск\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124654",
+    "channel": "kupolrussia",
+    "date": "2026-09-06T12:13:20+00:00",
+    "text": "БПЛА в направлении Алчевск - Перевальск\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230717",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T12:14:32+00:00",
+    "text": "Любимовка\nХерсонская область РФ \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124655",
+    "channel": "kupolrussia",
+    "date": "2026-09-06T12:15:08+00:00",
+    "text": "Любимовка\nХерсонская область РФ \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230718",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T12:15:13+00:00",
+    "text": "Хлебодаровка ДНР\nОпасность БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124656",
+    "channel": "kupolrussia",
+    "date": "2026-09-06T12:15:26+00:00",
+    "text": "Хлебодаровка ДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
