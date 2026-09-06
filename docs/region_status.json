@@ -1,34 +1,4 @@
 {
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Россошанский район\nБобровский район\nВоронежская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-06T02:12:07+00:00",
-    "expires_at": "2026-09-06T03:12:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "саратовск": {
-    "display_name": "Саратовская область",
-    "type": "drone",
-    "text": "Балашовский район\nСаратовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-06T02:14:22+00:00",
-    "expires_at": "2026-09-06T03:14:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "волгоградск": {
-    "display_name": "Волгоградская область",
-    "type": "drone",
-    "text": "Новониколаевский район\nВолгоградская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-06T02:13:04+00:00",
-    "expires_at": "2026-09-06T03:13:04+00:00",
-    "count": 2,
-    "count_approx": false
-  },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
@@ -51,21 +21,11 @@
   },
   "рязанск": {
     "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязань \nРязанская область \nРабота ПВО по БПЛА",
+    "type": "alert",
+    "text": "Рязань \nРязанская область \nПродолжается работа ПВО\nМеры безопасности",
     "channel": "vrv_radar",
-    "updated_at": "2026-09-06T02:59:41+00:00",
-    "expires_at": "2026-09-06T03:59:41+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Алексин\nТульская область\nРабота ПВО по БПЛА\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-06T02:57:23+00:00",
-    "expires_at": "2026-09-06T03:57:23+00:00",
+    "updated_at": "2026-09-06T03:10:55+00:00",
+    "expires_at": "2026-09-06T04:10:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -82,10 +42,10 @@
   "вологодск": {
     "display_name": "Вологодская область",
     "type": "drone",
-    "text": "Московская область, Ярославская область, Вологодская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-06T02:45:10+00:00",
-    "expires_at": "2026-09-06T03:45:10+00:00",
+    "text": "Вологодская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-06T03:13:45+00:00",
+    "expires_at": "2026-09-06T04:13:45+00:00",
     "count": null,
     "count_approx": false
   },
@@ -121,11 +81,21 @@
   },
   "калужск": {
     "display_name": "Калужская область",
+    "type": "alert",
+    "text": "Калуга\nКалужская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-06T03:05:32+00:00",
+    "expires_at": "2026-09-06T04:05:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
     "type": "drone",
-    "text": "Калужская область, повторно\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ® ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-06T03:00:05+00:00",
-    "expires_at": "2026-09-06T04:00:05+00:00",
+    "text": "Брусянский, Узловский район, Тульская область - фиксации БПЛА в сторону Новомосковска. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-06T03:12:31+00:00",
+    "expires_at": "2026-09-06T04:12:31+00:00",
     "count": null,
     "count_approx": false
   }
