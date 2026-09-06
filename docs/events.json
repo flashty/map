@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_230091",
-    "channel": "LPRalarm",
-    "date": "2026-09-04T19:07:59+00:00",
-    "text": "Скадовск и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_91927_Сухиничский",
-    "channel": "radarrussiia",
-    "date": "2026-09-04T19:08:04+00:00",
-    "text": "Сухиничский район\nДуминичский район\nКалужская область\nФиксации единичных БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Сухиничский",
-    "region": "Калужская область",
-    "lat": 54.0945612,
-    "lon": 35.3488687
-  },
-  {
-    "id": "radarrussiia_91927_Думиничский",
-    "channel": "radarrussiia",
-    "date": "2026-09-04T19:08:04+00:00",
-    "text": "Сухиничский район\nДуминичский район\nКалужская область\nФиксации единичных БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Думиничский",
-    "region": "Калужская область",
-    "lat": 53.933388,
-    "lon": 35.105518
-  },
-  {
-    "id": "radarrussiia_91928_Мценский",
-    "channel": "radarrussiia",
-    "date": "2026-09-04T19:08:20+00:00",
-    "text": "Мценский район\nКолпянский район\nОрловская область\nФиксации единичных БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Мценский",
-    "region": "Орловская область",
-    "lat": 53.2451748,
-    "lon": 36.5945584
-  },
-  {
-    "id": "kupolrussia_124148",
-    "channel": "kupolrussia",
-    "date": "2026-09-04T19:08:41+00:00",
-    "text": "Скадовск и близлежащие \nХерсонская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_230092",
     "channel": "LPRalarm",
     "date": "2026-09-04T19:08:47+00:00",
@@ -21994,6 +21939,61 @@
     "date": "2026-09-06T07:11:46+00:00",
     "text": "Трасса Р-280\nВысокая активность БПЛА Хорнет",
     "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_88285",
+    "channel": "vrv_radar",
+    "date": "2026-09-06T07:16:38+00:00",
+    "text": "Орловская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230616",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T07:22:49+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124564",
+    "channel": "kupolrussia",
+    "date": "2026-09-06T07:23:04+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230617",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T07:23:16+00:00",
+    "text": "Осипенко и близлежащие \nОпасность по БПЛА хорнет \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230618",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T07:30:13+00:00",
+    "text": "ЛДНР \nПриготовиться к пускам Уаб самолётами противника",
+    "type": "unknown",
     "location_name": null,
     "region": null,
     "lat": null,
