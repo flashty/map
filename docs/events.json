@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_124246_Белгородский",
-    "channel": "kupolrussia",
-    "date": "2026-09-05T08:33:56+00:00",
-    "text": "Белгородский район опасность по БПЛА и ФПВ",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "locatorru_83881",
-    "channel": "locatorru",
-    "date": "2026-09-05T08:43:47+00:00",
-    "text": "В приграничных районах Брянской области Белгородской области, Курской области - активность БПЛА и FPV-дронов сохраняется.\n\nПо другим регинам всё спокойно. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Брянской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230200_Черноморский",
-    "channel": "LPRalarm",
-    "date": "2026-09-05T08:44:52+00:00",
-    "text": "Черноморский район учения до вечера",
-    "type": "unknown",
-    "location_name": "Черноморский",
-    "region": null,
-    "lat": 44.849996,
-    "lon": 38.4944065
-  },
-  {
-    "id": "kupolrussia_124247_Черноморский",
-    "channel": "kupolrussia",
-    "date": "2026-09-05T08:44:59+00:00",
-    "text": "Черноморский район учения до вечера",
-    "type": "unknown",
-    "location_name": "Черноморский",
-    "region": null,
-    "lat": 44.849996,
-    "lon": 38.4944065
-  },
-  {
     "id": "radar_plus_bpla_14292",
     "channel": "radar_plus_bpla",
     "date": "2026-09-05T08:45:55+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Луганская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "kupolrussia_124678",
+    "channel": "kupolrussia",
+    "date": "2026-09-06T13:46:09+00:00",
+    "text": "Брянка и ближайшие\n\nЛНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230743",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T13:58:55+00:00",
+    "text": "Шебекино\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230744",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T14:00:53+00:00",
+    "text": "ЛДНР тревога по БПЛА и далее Воронежской и Ростовской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124679_Шебекино",
+    "channel": "kupolrussia",
+    "date": "2026-09-06T14:00:57+00:00",
+    "text": "Шебекино\nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Шебекино",
+    "region": "Белгородская область",
+    "lat": 50.4049335,
+    "lon": 36.8796822
   }
 ]
