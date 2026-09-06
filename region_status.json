@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Курчатов, Курск, Халино, Курская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-06T01:53:28+00:00",
-    "expires_at": "2026-09-06T02:53:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
@@ -42,20 +32,10 @@
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Кромской район\nТревога по БПЛА сохраняется \nОрловская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-06T02:34:35+00:00",
-    "expires_at": "2026-09-06T03:34:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Глинищево, Сельцо, аэропорт Брянск, Супонево, Выгоничи, Брянск, Большое Полпино, Брянская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-06T01:55:47+00:00",
-    "expires_at": "2026-09-06T02:55:47+00:00",
+    "text": "Краснозоренский район\nОрловская область \nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-06T02:54:55+00:00",
+    "expires_at": "2026-09-06T03:54:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,20 +52,20 @@
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Сараевский район\nРязанская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-06T02:17:26+00:00",
-    "expires_at": "2026-09-06T03:17:26+00:00",
+    "text": "Рязань \nРязанская область \nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-06T02:59:41+00:00",
+    "expires_at": "2026-09-06T03:59:41+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Новомосковск\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-06T02:42:29+00:00",
-    "expires_at": "2026-09-06T03:42:29+00:00",
+    "text": "Алексин\nТульская область\nРабота ПВО по БПЛА\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-06T02:57:23+00:00",
+    "expires_at": "2026-09-06T03:57:23+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +86,46 @@
     "channel": "locatorru",
     "updated_at": "2026-09-06T02:45:10+00:00",
     "expires_at": "2026-09-06T03:45:10+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "drone",
+    "text": "Измалково, Липецкая область - фиксация БПЛА на север, северо-восток. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-06T02:52:54+00:00",
+    "expires_at": "2026-09-06T03:52:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "мучкапск": {
+    "display_name": "Мучкапский область",
+    "type": "drone",
+    "text": "Мучкапский, Тамбовская область - пролёт 2 БПЛА в сторону примерно Тамбов, возможно дальше на Рязанскую область. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-06T02:58:06+00:00",
+    "expires_at": "2026-09-06T03:58:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тамбовск": {
+    "display_name": "Тамбовская область",
+    "type": "drone",
+    "text": "Мучкапский, Тамбовская область - пролёт 2 БПЛА в сторону примерно Тамбов, возможно дальше на Рязанскую область. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-06T02:58:06+00:00",
+    "expires_at": "2026-09-06T03:58:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калужская область, повторно\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ® ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-06T03:00:05+00:00",
+    "expires_at": "2026-09-06T04:00:05+00:00",
     "count": null,
     "count_approx": false
   }
