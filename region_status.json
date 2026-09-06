@@ -1,21 +1,11 @@
 {
   "рязанск": {
     "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязань \nРязанская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-06T04:57:57+00:00",
-    "expires_at": "2026-09-06T05:57:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московской области",
-    "type": "drone",
-    "text": "Тульская область Кимовский р-он д. Кропотово пролёт БПЛА в сторону Московской области",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-06T04:03:07+00:00",
-    "expires_at": "2026-09-06T05:03:07+00:00",
+    "type": "alert",
+    "text": "Рязань \nРязанская область \nПродолжается работа ПВО\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-06T05:08:21+00:00",
+    "expires_at": "2026-09-06T06:08:21+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,16 +16,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-06T04:31:28+00:00",
     "expires_at": "2026-09-06T05:31:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ярославск": {
-    "display_name": "Ярославская область",
-    "type": "drone",
-    "text": "Ярославская область\nОпасность по БПЛА\nПовторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-06T04:13:05+00:00",
-    "expires_at": "2026-09-06T05:13:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -69,13 +49,13 @@
     "count": null,
     "count_approx": false
   },
-  "липецк": {
-    "display_name": "Липецкая область",
+  "донецк": {
+    "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Чаплыгинский район \nЛипецкая область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-06T04:35:25+00:00",
-    "expires_at": "2026-09-06T05:35:25+00:00",
+    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-06T05:05:13+00:00",
+    "expires_at": "2026-09-06T06:05:13+00:00",
     "count": null,
     "count_approx": false
   }
