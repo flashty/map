@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_124230_Борисовский",
-    "channel": "kupolrussia",
-    "date": "2026-09-05T07:40:30+00:00",
-    "text": "Борисовский район Белгородская область опасность по ФПВ (БПЛА)",
-    "type": "drone",
-    "location_name": "Борисовский",
-    "region": "Белгородская область",
-    "lat": 50.5951942,
-    "lon": 36.011682
-  },
-  {
-    "id": "LPRalarm_230184",
-    "channel": "LPRalarm",
-    "date": "2026-09-05T07:43:05+00:00",
-    "text": "ЛДНР, Запорожская область РФ, Харьковская область РФ \nАвиационная ракетная бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124231",
-    "channel": "kupolrussia",
-    "date": "2026-09-05T07:43:31+00:00",
-    "text": "ЛДНР, Запорожская область РФ, Харьковская область РФ \nАвиационная ракетная бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230185",
-    "channel": "LPRalarm",
-    "date": "2026-09-05T07:44:05+00:00",
-    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_124232",
     "channel": "kupolrussia",
     "date": "2026-09-05T07:47:17+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230727",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T12:33:19+00:00",
+    "text": "Вдоль трассы от Старобельска, Новоайдар через Счастье в сторону Луганска фиксации БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124665",
+    "channel": "kupolrussia",
+    "date": "2026-09-06T12:33:28+00:00",
+    "text": "Вдоль трассы от Старобельска, Новоайдар через Счастье в сторону Луганска фиксации БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230728",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T12:39:52+00:00",
+    "text": "Керчь всё хорошо. Разминирование",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_92115",
+    "channel": "radarrussiia",
+    "date": "2026-09-06T12:45:35+00:00",
+    "text": "Краснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
