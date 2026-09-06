@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_230227_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-09-05T10:49:43+00:00",
-    "text": "Новый Ольшанец Белгородский район фиксация БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "kupolrussia_124269_Белгородский",
-    "channel": "kupolrussia",
-    "date": "2026-09-05T10:49:59+00:00",
-    "text": "Новый Ольшанец Белгородский район фиксация БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "LPRalarm_230228",
-    "channel": "LPRalarm",
-    "date": "2026-09-05T10:57:58+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nОтбой авиационной ракетной бомбовой опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124270",
-    "channel": "kupolrussia",
-    "date": "2026-09-05T10:58:23+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_230229",
     "channel": "LPRalarm",
     "date": "2026-09-05T11:03:21+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230756",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T15:32:43+00:00",
+    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124691",
+    "channel": "kupolrussia",
+    "date": "2026-09-06T15:33:00+00:00",
+    "text": "Горловка ДНР и близлежащие\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230757",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T15:43:01+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность \nПовторно",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124692",
+    "channel": "kupolrussia",
+    "date": "2026-09-06T15:43:14+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nПовторно\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
