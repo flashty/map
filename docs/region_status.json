@@ -39,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Южнее Светлодолинска БПЛА разведчик \nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-06T13:11:37+00:00",
-    "expires_at": "2026-09-06T14:11:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
@@ -72,10 +62,20 @@
   "ростовск": {
     "display_name": "Ростовской области",
     "type": "drone",
-    "text": "ЛДНР тревога по БПЛА и далее Воронежской и Ростовской области",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-06T14:00:53+00:00",
-    "expires_at": "2026-09-06T15:00:53+00:00",
+    "text": "ЛДНР\nи далее в направлении Воронежской и Ростовской области\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-06T14:01:18+00:00",
+    "expires_at": "2026-09-06T15:01:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тамбовск": {
+    "display_name": "Тамбовская область",
+    "type": "drone",
+    "text": "Тамбовская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-06T14:06:45+00:00",
+    "expires_at": "2026-09-06T15:06:45+00:00",
     "count": null,
     "count_approx": false
   }
