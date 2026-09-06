@@ -32,11 +32,11 @@
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Рамонский район\nВоронежская область\nФиксация 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-05T23:25:57+00:00",
-    "expires_at": "2026-09-06T00:25:57+00:00",
-    "count": 3,
+    "text": "Троицкое, Лискинский район, Воронежская область - фиксации БПЛА в сторону М4 на Аношкино, Бобров, Анна.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-06T00:01:30+00:00",
+    "expires_at": "2026-09-06T01:01:30+00:00",
+    "count": null,
     "count_approx": false
   },
   "краснодарск": {
@@ -50,42 +50,32 @@
     "count_approx": false
   },
   "тамбовск": {
-    "display_name": "Тамбовской области",
+    "display_name": "Тамбовская область",
     "type": "drone",
-    "text": "Терновка, Воронежская область - пролёты БПЛА в направлении Жердевка, Тамбовской области. \n\n📡Локатор России - @locatorru",
+    "text": "Мучкапский, Тамбовская область - пролёт от 2 БПЛА в сторону Уварово, Тамбов.\n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-09-05T23:01:34+00:00",
-    "expires_at": "2026-09-06T00:01:34+00:00",
+    "updated_at": "2026-09-06T00:12:24+00:00",
+    "expires_at": "2026-09-06T01:12:24+00:00",
     "count": null,
     "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянская область - внимание по единичным БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-05T23:02:48+00:00",
-    "expires_at": "2026-09-06T00:02:48+00:00",
-    "count": 1,
-    "count_approx": true
   },
   "липецк": {
     "display_name": "Липецкая область",
     "type": "drone",
-    "text": "Грязинский район\nЛипецкая область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Лебедянский район\nЛипецкая область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-05T23:55:16+00:00",
-    "expires_at": "2026-09-06T00:55:16+00:00",
+    "updated_at": "2026-09-06T00:13:23+00:00",
+    "expires_at": "2026-09-06T01:13:23+00:00",
     "count": null,
     "count_approx": false
   },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Азов, Танаис, Ростов-на-Дону, Батайск, Чалтырь, Красный Крым, Ростовская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-05T23:55:04+00:00",
-    "expires_at": "2026-09-06T00:55:04+00:00",
+    "text": "Ахов и близлежащие\nТревога по БПЛА сохраняется\nРостовская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-06T00:14:44+00:00",
+    "expires_at": "2026-09-06T01:14:44+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +96,46 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-05T23:33:49+00:00",
     "expires_at": "2026-09-06T00:33:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "drone",
+    "text": "Владимирская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-06T00:05:24+00:00",
+    "expires_at": "2026-09-06T01:05:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ивановск": {
+    "display_name": "Ивановская область",
+    "type": "drone",
+    "text": "Ивановская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-06T00:05:31+00:00",
+    "expires_at": "2026-09-06T01:05:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ярославск": {
+    "display_name": "Ярославская область",
+    "type": "drone",
+    "text": "Ярославская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-06T00:05:48+00:00",
+    "expires_at": "2026-09-06T01:05:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "мучкапск": {
+    "display_name": "Мучкапский область",
+    "type": "drone",
+    "text": "Мучкапский, Тамбовская область - пролёт от 2 БПЛА в сторону Уварово, Тамбов.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-06T00:12:24+00:00",
+    "expires_at": "2026-09-06T01:12:24+00:00",
     "count": null,
     "count_approx": false
   }
