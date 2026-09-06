@@ -9,26 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "ростовск": {
-    "display_name": "Ростовскую область",
-    "type": "drone",
-    "text": "Макеевка\nШахтерск\nТорез\nСнежное\nКрасный Луч\nАнтрацит\nРовеньки\nИ близлежащие\nТревога по БПЛА\nИ далее на Ростовскую область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-06T21:46:20+00:00",
-    "expires_at": "2026-09-06T22:46:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "волгоградск": {
-    "display_name": "Волгоградская область",
-    "type": "drone",
-    "text": "Еланский район\nВолгоградская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-06T21:59:00+00:00",
-    "expires_at": "2026-09-06T22:59:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "мордов": {
     "display_name": "Республика Мордовия",
     "type": "drone",
@@ -52,10 +32,10 @@
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Ключи, Малосердобинский район, Пензенская область - продолжается пролёт БПЛА в сторону Вырыпаева и далее на север, северо-восток. \n\n📡Локатор России - @locatorru.",
+    "text": "Пролёты ударных БПЛА между Малая Сердоба и Саполга, Пензенская область в сторону Ключи, Варыпаево, Шемышейка и на северо-восток. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-09-06T22:41:46+00:00",
-    "expires_at": "2026-09-06T23:41:46+00:00",
+    "updated_at": "2026-09-06T22:48:38+00:00",
+    "expires_at": "2026-09-06T23:48:38+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,10 +52,10 @@
   "ульяновск": {
     "display_name": "Ульяновская область",
     "type": "drone",
-    "text": "Самарская область\nУльяновская область\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-09-06T22:06:32+00:00",
-    "expires_at": "2026-09-06T23:06:32+00:00",
+    "text": "Ульяновск\nУльяновская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-06T22:48:56+00:00",
+    "expires_at": "2026-09-06T23:48:56+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,16 +76,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-06T22:39:21+00:00",
     "expires_at": "2026-09-06T23:39:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "вознесенск": {
-    "display_name": "Вознесенское области",
-    "type": "drone",
-    "text": "Теньгушево, Республика Мордовия - группа БПЛА в сторону Вознесенское, Нижегородской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-06T21:46:03+00:00",
-    "expires_at": "2026-09-06T22:46:03+00:00",
     "count": null,
     "count_approx": false
   },
@@ -132,10 +102,10 @@
   "самарск": {
     "display_name": "Самарская область",
     "type": "drone",
-    "text": "Самарская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Сызрань\nСамарская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-06T22:40:02+00:00",
-    "expires_at": "2026-09-06T23:40:02+00:00",
+    "updated_at": "2026-09-06T22:49:14+00:00",
+    "expires_at": "2026-09-06T23:49:14+00:00",
     "count": null,
     "count_approx": false
   },
@@ -172,10 +142,20 @@
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Республика Татарстан - опасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Республика Татарстан\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-06T22:50:02+00:00",
+    "expires_at": "2026-09-06T23:50:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "-": {
+    "display_name": "Республика -",
+    "type": "drone",
+    "text": "Абызово, Вурнары, Чувашская Республика - пролёт БПЛА в сторону примерно Чебоксары\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-06T22:45:24+00:00",
-    "expires_at": "2026-09-06T23:45:24+00:00",
+    "updated_at": "2026-09-06T22:54:36+00:00",
+    "expires_at": "2026-09-06T23:54:36+00:00",
     "count": null,
     "count_approx": false
   }
