@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_230198_Мелитополь",
-    "channel": "LPRalarm",
-    "date": "2026-09-05T08:30:14+00:00",
-    "text": "Мелитополь, Мелитопольский район опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Мелитополь",
-    "region": null,
-    "lat": 55.7020859,
-    "lon": 49.1449216
-  },
-  {
-    "id": "kupolrussia_124245_Мелитопольский",
-    "channel": "kupolrussia",
-    "date": "2026-09-05T08:30:33+00:00",
-    "text": "Мелитополь, Мелитопольский район\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Мелитопольский",
-    "region": null,
-    "lat": 59.9445151,
-    "lon": 30.3614269
-  },
-  {
-    "id": "kupolrussia_124245_Мелитополь",
-    "channel": "kupolrussia",
-    "date": "2026-09-05T08:30:33+00:00",
-    "text": "Мелитополь, Мелитопольский район\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Мелитополь",
-    "region": null,
-    "lat": 55.7020859,
-    "lon": 49.1449216
-  },
-  {
-    "id": "LPRalarm_230199_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-09-05T08:33:44+00:00",
-    "text": "Белгородский район опасность по БПЛА и ФПВ",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
     "id": "kupolrussia_124246_Белгородский",
     "channel": "kupolrussia",
     "date": "2026-09-05T08:33:56+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230741",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T13:39:49+00:00",
+    "text": "Сокологорск - Попасная \nЛНР\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124677",
+    "channel": "kupolrussia",
+    "date": "2026-09-06T13:40:04+00:00",
+    "text": "Сокологорск - Попасная \nЛНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14313",
+    "channel": "radar_plus_bpla",
+    "date": "2026-09-06T13:40:39+00:00",
+    "text": "Ожидаем массовый запуск БПЛА в направлении Воронежской области и далее в тыловые регионы.\n\nОбщее количество от 100 до 300 БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230742",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T13:45:40+00:00",
+    "text": "Брянка и ближайшие\nОпасность по БПЛА\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
