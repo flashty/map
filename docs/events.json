@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_124252",
-    "channel": "kupolrussia",
-    "date": "2026-09-05T09:26:25+00:00",
-    "text": "Чонгар, Сиваш, Медведевка и близлежащие\nРайон трассы Е105\nХерсонская обламть РФ\nРеспублика Крым\n\nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230205",
-    "channel": "LPRalarm",
-    "date": "2026-09-05T09:26:39+00:00",
-    "text": "Чонгар, Сиваш, Медведевка и близлежащие\nРайон трассы Е105\nХерсонская область РФ\nРеспублика Крым\n\nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230207",
-    "channel": "LPRalarm",
-    "date": "2026-09-05T09:37:25+00:00",
-    "text": "Белгород, Белгородский район и ситуативно Белгородская область! \nРакетная опасность! Займите Безопасные места!\n\n\nПотенциальная опасность для Курской области и Воронежской области",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124253",
-    "channel": "kupolrussia",
-    "date": "2026-09-05T09:37:43+00:00",
-    "text": "Белгородская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_230208",
     "channel": "LPRalarm",
     "date": "2026-09-05T09:38:21+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_92120",
+    "channel": "radarrussiia",
+    "date": "2026-09-06T14:32:12+00:00",
+    "text": "Ростовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_92121_Миллеровский",
+    "channel": "radarrussiia",
+    "date": "2026-09-06T14:32:27+00:00",
+    "text": "Миллеровский район\nТарасовский район\nРостовская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "alert",
+    "location_name": "Миллеровский",
+    "region": "Ростовская область",
+    "lat": 49.0249872,
+    "lon": 40.2651861
+  },
+  {
+    "id": "radarrussiia_92121_Тарасовский",
+    "channel": "radarrussiia",
+    "date": "2026-09-06T14:32:27+00:00",
+    "text": "Миллеровский район\nТарасовский район\nРостовская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "alert",
+    "location_name": "Тарасовский",
+    "region": "Ростовская область",
+    "lat": 48.727145,
+    "lon": 40.3554416
+  },
+  {
+    "id": "locatorru_84052",
+    "channel": "locatorru",
+    "date": "2026-09-06T14:45:34+00:00",
+    "text": "Приграничные районы Курской области, Брянской области, Белгородской области - опасность по БПЛА сохраняется. \n\nПо остальным регионам пока тихо. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курской области",
     "lat": null,
     "lon": null
   }
