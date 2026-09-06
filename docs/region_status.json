@@ -12,10 +12,10 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Алчевск и близлежащие\nЛНР\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "text": "Брянка фиксация БПЛА над центром вдоль трассы\nЛНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-06T12:55:35+00:00",
-    "expires_at": "2026-09-06T13:55:35+00:00",
+    "updated_at": "2026-09-06T13:09:56+00:00",
+    "expires_at": "2026-09-06T14:09:56+00:00",
     "count": null,
     "count_approx": false
   },
@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Любимовка\nХерсонская область РФ \nОпасность по БПЛА Хорнет",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-06T12:15:08+00:00",
-    "expires_at": "2026-09-06T13:15:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -46,6 +36,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-06T12:46:46+00:00",
     "expires_at": "2026-09-06T13:46:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Шебекино \nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-06T13:10:44+00:00",
+    "expires_at": "2026-09-06T14:10:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Южнее Светлодолинска БПЛА разведчик \nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-06T13:11:37+00:00",
+    "expires_at": "2026-09-06T14:11:37+00:00",
     "count": null,
     "count_approx": false
   }
