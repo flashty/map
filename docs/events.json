@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_230154",
-    "channel": "LPRalarm",
-    "date": "2026-09-04T21:31:44+00:00",
-    "text": "Белгородская область, тревога по БПЛА сохраняется, продолжаются фиксации от Гг",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124202",
-    "channel": "kupolrussia",
-    "date": "2026-09-04T21:31:50+00:00",
-    "text": "Белгородская область, тревога по БПЛА сохраняется, продолжаются фиксации от Гг",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230155",
-    "channel": "LPRalarm",
-    "date": "2026-09-04T21:33:59+00:00",
-    "text": "Губкинский ГО Белгородской области, фиксации БПЛА в направлении Курской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124203",
-    "channel": "kupolrussia",
-    "date": "2026-09-04T21:34:07+00:00",
-    "text": "Губкинский ГО Белгородской области, фиксации БПЛА в направлении Курской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_83868_Ярославль",
-    "channel": "locatorru",
-    "date": "2026-09-04T21:35:52+00:00",
-    "text": "Ярославль, всё хорошо. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": "Ярославль",
-    "region": null,
-    "lat": 57.6263877,
-    "lon": 39.8933705
-  },
-  {
     "id": "radar_plus_bpla_14290",
     "channel": "radar_plus_bpla",
     "date": "2026-09-04T21:41:40+00:00",
@@ -21996,6 +21941,61 @@
     "type": "alert",
     "location_name": null,
     "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_84046",
+    "channel": "locatorru",
+    "date": "2026-09-06T10:51:38+00:00",
+    "text": "Приграничные районы Курской области, Брянской области, Белгородской области - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230687",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T10:59:33+00:00",
+    "text": "Володарское и близлежащие \nДНР \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124629",
+    "channel": "kupolrussia",
+    "date": "2026-09-06T10:59:49+00:00",
+    "text": "Володарское и близлежащие \nДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230688",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T11:00:01+00:00",
+    "text": "Ясиноватая ДНР и близлежащие\nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124630",
+    "channel": "kupolrussia",
+    "date": "2026-09-06T11:00:14+00:00",
+    "text": "Ясиноватая ДНР и близлежащие\nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
