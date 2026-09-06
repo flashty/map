@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_230202",
-    "channel": "LPRalarm",
-    "date": "2026-09-05T09:12:31+00:00",
-    "text": "Таганрог и близлежащие \nВнимание по возможным БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124249",
-    "channel": "kupolrussia",
-    "date": "2026-09-05T09:12:50+00:00",
-    "text": "Таганрог и близлежащие \nВнимание по возможным БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_83883_Таганрог",
-    "channel": "locatorru",
-    "date": "2026-09-05T09:15:25+00:00",
-    "text": "Таганрог, Ростовская область - идёт уничтожение снарядов Великой Отечественной войны. В городе всё спокойно. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": "Таганрог",
-    "region": "Ростовская область",
-    "lat": 47.215495,
-    "lon": 38.928362
-  },
-  {
-    "id": "LPRalarm_230203",
-    "channel": "LPRalarm",
-    "date": "2026-09-05T09:18:30+00:00",
-    "text": "Таганрог и близлежащие отбой внимания по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230204",
-    "channel": "LPRalarm",
-    "date": "2026-09-05T09:20:20+00:00",
-    "text": "Акимовский район трасса Р-280 опасность по БПЛА Хорнет\n\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124250",
-    "channel": "kupolrussia",
-    "date": "2026-09-05T09:20:34+00:00",
-    "text": "Таганрог и близлежащие отбой внимания по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124251",
-    "channel": "kupolrussia",
-    "date": "2026-09-05T09:20:41+00:00",
-    "text": "Акимовский район трасса Р-280 опасность по БПЛА Хорнет\n\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_124252",
     "channel": "kupolrussia",
     "date": "2026-09-05T09:26:25+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_88299",
+    "channel": "vrv_radar",
+    "date": "2026-09-06T14:24:29+00:00",
+    "text": "Ростовская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_88300_Миллеровский",
+    "channel": "vrv_radar",
+    "date": "2026-09-06T14:25:44+00:00",
+    "text": "Миллеровский район\nТарасовский район\nРостовская область\nМеры безопасности",
+    "type": "alert",
+    "location_name": "Миллеровский",
+    "region": "Ростовская область",
+    "lat": 49.0249872,
+    "lon": 40.2651861
+  },
+  {
+    "id": "vrv_radar_88300_Тарасовский",
+    "channel": "vrv_radar",
+    "date": "2026-09-06T14:25:44+00:00",
+    "text": "Миллеровский район\nТарасовский район\nРостовская область\nМеры безопасности",
+    "type": "alert",
+    "location_name": "Тарасовский",
+    "region": "Ростовская область",
+    "lat": 48.727145,
+    "lon": 40.3554416
+  },
+  {
+    "id": "LPRalarm_230746_Шебекинский",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T14:26:55+00:00",
+    "text": "Маслова Пристань и близлежащие \nШебекинский район \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": null,
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "kupolrussia_124682_Шебекинский",
+    "channel": "kupolrussia",
+    "date": "2026-09-06T14:27:14+00:00",
+    "text": "Маслова Пристань и близлежащие \nШебекинский район \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": null,
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "LPRalarm_230747",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T14:30:07+00:00",
+    "text": "Мелитополь и близлежащие опасность по БПЛА \n\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124683",
+    "channel": "kupolrussia",
+    "date": "2026-09-06T14:30:18+00:00",
+    "text": "Мелитополь и близлежащие\nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }

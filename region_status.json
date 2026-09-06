@@ -1,14 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка ДНР и близлежащие\nОпасность по БПЛА и ФПВ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-06T13:16:47+00:00",
-    "expires_at": "2026-09-06T14:16:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -19,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Евпатория и близлежащие \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-06T13:28:55+00:00",
-    "expires_at": "2026-09-06T14:28:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
@@ -36,16 +16,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-06T14:00:57+00:00",
     "expires_at": "2026-09-06T15:00:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "От Тарасовка на Корчму над дорогой и далее на юг тревога по БПЛА Дартс \nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-06T13:30:36+00:00",
-    "expires_at": "2026-09-06T14:30:36+00:00",
     "count": null,
     "count_approx": false
   },
@@ -60,12 +30,12 @@
     "count_approx": false
   },
   "ростовск": {
-    "display_name": "Ростовской области",
-    "type": "drone",
-    "text": "ЛДНР\nи далее в направлении Воронежской и Ростовской области\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-06T14:01:18+00:00",
-    "expires_at": "2026-09-06T15:01:18+00:00",
+    "display_name": "Ростовская область",
+    "type": "alert",
+    "text": "Миллеровский район\nТарасовский район\nРостовская область\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-06T14:25:44+00:00",
+    "expires_at": "2026-09-06T15:25:44+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +46,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-06T14:06:45+00:00",
     "expires_at": "2026-09-06T15:06:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Мелитополь и близлежащие\nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-06T14:30:18+00:00",
+    "expires_at": "2026-09-06T15:30:18+00:00",
     "count": null,
     "count_approx": false
   }
