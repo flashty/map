@@ -5,31 +5,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-09-06T16:00:25+00:00",
-        "last_updated": "2026-09-06T16:24:35+00:00",
-        "path_labels": [
-          "Обоянский",
-          "Феодосия"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.0784146,
-            51.2346254
-          ],
-          [
-            36.1164524,
-            51.7088258
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-09-06T16:17:07+00:00",
         "last_updated": "2026-09-06T16:55:41+00:00",
         "path_labels": [
@@ -97,6 +72,31 @@
           [
             39.51408,
             47.303017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-06T16:56:44+00:00",
+        "last_updated": "2026-09-06T17:20:11+00:00",
+        "path_labels": [
+          "Шебекинский",
+          "Короча (Белгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.8728034,
+            50.438988
+          ],
+          [
+            37.195316,
+            50.810741
           ]
         ]
       }
