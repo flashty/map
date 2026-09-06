@@ -11,31 +11,21 @@
   },
   "рязанск": {
     "display_name": "Рязанская область",
-    "type": "alert",
-    "text": "Рязань \nРязанская область \nПродолжается работа ПВО\nМеры безопасности",
+    "type": "drone",
+    "text": "Рязань \nРязанская область \nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-09-06T03:54:35+00:00",
-    "expires_at": "2026-09-06T04:54:35+00:00",
+    "updated_at": "2026-09-06T04:15:26+00:00",
+    "expires_at": "2026-09-06T05:15:26+00:00",
     "count": null,
     "count_approx": false
   },
   "московск": {
-    "display_name": "Московская область",
+    "display_name": "Московской области",
     "type": "drone",
-    "text": "ГО Ступино\nМосковская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-06T03:21:44+00:00",
-    "expires_at": "2026-09-06T04:21:44+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "вологодск": {
-    "display_name": "Вологодская область",
-    "type": "drone",
-    "text": "Вологодская область \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-06T03:13:45+00:00",
-    "expires_at": "2026-09-06T04:13:45+00:00",
+    "text": "Тульская область Кимовский р-он д. Кропотово пролёт БПЛА в сторону Московской области",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-06T04:03:07+00:00",
+    "expires_at": "2026-09-06T05:03:07+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "alert",
-    "text": "Калуга\nКалужская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-06T03:05:32+00:00",
-    "expires_at": "2026-09-06T04:05:32+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
@@ -66,6 +46,26 @@
     "channel": "locatorru",
     "updated_at": "2026-09-06T03:21:06+00:00",
     "expires_at": "2026-09-06T04:21:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Тульская область Кимовский р-он д. Кропотово пролёт БПЛА в сторону Московской области",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-06T04:03:07+00:00",
+    "expires_at": "2026-09-06T05:03:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ярославск": {
+    "display_name": "Ярославская область",
+    "type": "drone",
+    "text": "Ярославская область\nОпасность по БПЛА\nПовторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-06T04:13:05+00:00",
+    "expires_at": "2026-09-06T05:13:05+00:00",
     "count": null,
     "count_approx": false
   }
