@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-06T16:00:25+00:00",
+        "last_updated": "2026-09-06T16:24:35+00:00",
+        "path_labels": [
+          "Обоянский",
+          "Феодосия"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.0784146,
+            51.2346254
+          ],
+          [
+            36.1164524,
+            51.7088258
+          ]
+        ]
+      }
+    }
+  ]
 }
