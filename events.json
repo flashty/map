@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_124181",
-    "channel": "kupolrussia",
-    "date": "2026-09-04T19:57:20+00:00",
-    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_88001_Геленджик",
-    "channel": "vrv_radar",
-    "date": "2026-09-04T20:00:23+00:00",
-    "text": "Геленджик\nКраснодарский край\nФиксации БПЛА в вашем направлении",
-    "type": "drone",
-    "location_name": "Геленджик",
-    "region": "Краснодарский край",
-    "lat": 44.5609447,
-    "lon": 38.0766832
-  },
-  {
-    "id": "LPRalarm_230127",
-    "channel": "LPRalarm",
-    "date": "2026-09-04T20:00:48+00:00",
-    "text": "Брянка\nАлчевск\nСтаханов\nИ ближайшие\nТревога по БПЛА сохраняется\nЕще фиксации",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230128",
-    "channel": "LPRalarm",
-    "date": "2026-09-04T20:00:56+00:00",
-    "text": "Запорожская область РФ\n\nТревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_91932_Геленджик",
-    "channel": "radarrussiia",
-    "date": "2026-09-04T20:01:11+00:00",
-    "text": "Геленджик\nКраснодарский край\nРабота ПВО по БПЛА\nФиксации БПЛА в вашем направлении\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Геленджик",
-    "region": "Краснодарский край",
-    "lat": 44.5609447,
-    "lon": 38.0766832
-  },
-  {
-    "id": "kupolrussia_124182",
-    "channel": "kupolrussia",
-    "date": "2026-09-04T20:01:13+00:00",
-    "text": "Запорожская область РФ\n\nТревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_124183",
     "channel": "kupolrussia",
     "date": "2026-09-04T20:01:22+00:00",
@@ -21996,6 +21930,72 @@
     "type": "unknown",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230658_Шебекинский",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T08:46:17+00:00",
+    "text": "Вознесеновка и близлежащие \nШебекинский район \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": null,
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "kupolrussia_124601_Шебекинский",
+    "channel": "kupolrussia",
+    "date": "2026-09-06T08:46:40+00:00",
+    "text": "Вознесеновка и близлежащие \nШебекинский район \nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": "Белгородская область",
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "LPRalarm_230659",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T08:49:38+00:00",
+    "text": "Бродок и близлежащие \nОпасность по БПЛА \nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124602",
+    "channel": "kupolrussia",
+    "date": "2026-09-06T08:49:54+00:00",
+    "text": "Бродок и близлежащие \nБелгородская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230660",
+    "channel": "LPRalarm",
+    "date": "2026-09-06T08:56:25+00:00",
+    "text": "Стерегущее \nРаздольненский район и близлежащие \nВнимание по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124603",
+    "channel": "kupolrussia",
+    "date": "2026-09-06T08:56:34+00:00",
+    "text": "Стерегущее \nРаздольненский район и близлежащие \nВнимание по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
