@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Орловская область опасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-07T05:09:36+00:00",
-    "expires_at": "2026-09-07T06:09:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
@@ -36,6 +26,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-07T05:34:38+00:00",
     "expires_at": "2026-09-07T06:34:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "07/09/2026 08:40 МСК.\n\nОпасность по БПЛА сохраняется:\n\n🔻Курская область;\n🔻Орловская область;\n🔻Брянская область;\n🔻Ростовская область;\n🔻Волгоградская область;\n🔻Краснодарский край. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-07T05:48:13+00:00",
+    "expires_at": "2026-09-07T06:48:13+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Золотое Первомайск Попасная \nТревога по БПЛА Хорнет\nЛнр",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-07T05:50:58+00:00",
+    "expires_at": "2026-09-07T06:50:58+00:00",
     "count": null,
     "count_approx": false
   }
