@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_88285",
-    "channel": "vrv_radar",
-    "date": "2026-09-06T07:16:38+00:00",
-    "text": "Орловская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230616",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T07:22:49+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_124564",
     "channel": "kupolrussia",
     "date": "2026-09-06T07:23:04+00:00",
@@ -21996,6 +21974,28 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_231112",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T10:29:25+00:00",
+    "text": "Новотроицкое - Новоалексеевка и близлежащие, трасса тревога по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_125018",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T10:29:32+00:00",
+    "text": "Новотроицкое - Новоалексеевка и близлежащие, трасса тревога по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
     "lat": null,
     "lon": null
   }
