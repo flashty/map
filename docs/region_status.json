@@ -42,10 +42,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Горловка ДНР и близлежащие \nОпасность БПЛА и ФПВ",
+    "text": "Донецк ДНР Киевский, Куйбышевский районы и близлежащие \nОпасность по БПЛА, возможно Хорнет",
     "channel": "LPRalarm",
-    "updated_at": "2026-09-07T04:28:40+00:00",
-    "expires_at": "2026-09-07T05:28:40+00:00",
+    "updated_at": "2026-09-07T04:59:04+00:00",
+    "expires_at": "2026-09-07T05:59:04+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +56,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-07T04:38:48+00:00",
     "expires_at": "2026-09-07T05:38:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Орловская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-07T04:53:25+00:00",
+    "expires_at": "2026-09-07T05:53:25+00:00",
     "count": null,
     "count_approx": false
   }
