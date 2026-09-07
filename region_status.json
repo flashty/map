@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-07T07:10:45+00:00",
-    "expires_at": "2026-09-07T08:10:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
@@ -26,6 +16,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-07T08:00:44+00:00",
     "expires_at": "2026-09-07T09:00:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Стаханов ЛНР внимание по возможным БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-07T08:08:26+00:00",
+    "expires_at": "2026-09-07T09:08:26+00:00",
     "count": null,
     "count_approx": false
   }
