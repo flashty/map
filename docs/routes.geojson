@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-07T10:35:37+00:00",
+        "last_updated": "2026-09-07T10:52:34+00:00",
+        "path_labels": [
+          "Ракитянский (Белгородская область)",
+          "Борисовский (Белгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.9006134,
+            50.8380326
+          ],
+          [
+            36.011682,
+            50.5951942
+          ]
+        ]
+      }
+    }
+  ]
 }
