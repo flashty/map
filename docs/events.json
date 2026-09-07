@@ -1,82 +1,5 @@
 [
   {
-    "id": "kupolrussia_124627",
-    "channel": "kupolrussia",
-    "date": "2026-09-06T10:15:29+00:00",
-    "text": "От Чкалово в направлении Новотроицкое опасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_14312",
-    "channel": "radar_plus_bpla",
-    "date": "2026-09-06T10:16:44+00:00",
-    "text": "На данный момент не фиксируем вражеских БПЛА в воздушном пространстве России.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230686",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T10:29:06+00:00",
-    "text": "Трасса Чкалово - Новотроицкое \nХерсонская область РФ \nОпасность по барражирующим боеприпасам",
-    "type": "alert",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124628",
-    "channel": "kupolrussia",
-    "date": "2026-09-06T10:29:41+00:00",
-    "text": "Трасса Чкалово - Новотроицкое \nХерсонская область РФ \nОпасность по барражирующим боеприпасам",
-    "type": "alert",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_84046",
-    "channel": "locatorru",
-    "date": "2026-09-06T10:51:38+00:00",
-    "text": "Приграничные районы Курской области, Брянской области, Белгородской области - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230687",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T10:59:33+00:00",
-    "text": "Володарское и близлежащие \nДНР \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124629",
-    "channel": "kupolrussia",
-    "date": "2026-09-06T10:59:49+00:00",
-    "text": "Володарское и близлежащие \nДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_230688",
     "channel": "LPRalarm",
     "date": "2026-09-06T11:00:01+00:00",
@@ -21998,5 +21921,82 @@
     "region": "Луганская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_231185",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T15:02:36+00:00",
+    "text": "Шебекино\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_125079_Шебекино",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T15:03:11+00:00",
+    "text": "Шебекино\nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Шебекино",
+    "region": "Белгородская область",
+    "lat": 50.4049335,
+    "lon": 36.8796822
+  },
+  {
+    "id": "LPRalarm_231186",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T15:14:21+00:00",
+    "text": "Алчевск и ближайшие\nЛНР\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_231187",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T15:14:29+00:00",
+    "text": "Азовское и дале в направлении Феодосийская трасса опасность по БПЛА Рубака.\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_125080",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T15:14:37+00:00",
+    "text": "Алчевск и ближайшие\nЛНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_125081",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T15:14:43+00:00",
+    "text": "Азовское и дале в направлении Феодосийская трасса опасность по БПЛА Рубака.\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_92313_Золотое Яблоко",
+    "channel": "radarrussiia",
+    "date": "2026-09-07T15:20:04+00:00",
+    "text": "‼️ Золотое Яблоко, Рив Гош и Л’Этуаль могут идти лесом — я больше не ведусь 🤷🏽‍♀️\n\nПодруга показала магазин «PARFUM CLUB» там продают оригинальную парфюмерию прямо из Европы и Дубая\n\nИ цены у них ниже в 2-3 раза, чем те, которые на ценниках в магазинах \n\nЕсли тоже хотите взять брендовый парфюм по их реальной цене — залетайте сюда: https://t.me/+16f0tuv-b_syZDUy",
+    "type": "unknown",
+    "location_name": "Золотое Яблоко",
+    "region": null,
+    "lat": 55.7314885,
+    "lon": 37.6398597
   }
 ]
