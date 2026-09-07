@@ -1,24 +1,4 @@
 {
-  "-": {
-    "display_name": "Республика -",
-    "type": "drone",
-    "text": "Ижевск, Воткинск и близлежащие, Удмуртская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-07T01:17:27+00:00",
-    "expires_at": "2026-09-07T02:17:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "удмурт": {
-    "display_name": "Республика Удмуртия",
-    "type": "drone",
-    "text": "Глазов\nВоткинск\nГлазовский район \nЯрский район\nЮкаменский район\nКрасногорский район\nИгринский район\nБалезинский район\nКезский район\nДебесский район\nРеспублика Удмуртия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-07T01:20:50+00:00",
-    "expires_at": "2026-09-07T02:20:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -26,16 +6,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-07T01:55:50+00:00",
     "expires_at": "2026-09-07T02:55:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "самарск": {
-    "display_name": "Самарская область",
-    "type": "drone",
-    "text": "Новая Куликовка, Новомалыклинский район, Ульяновская область - пролёт БПЛА в сторону Кошкинский район, Самарская область.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-07T01:26:35+00:00",
-    "expires_at": "2026-09-07T02:26:35+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,23 +19,13 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Геленджик и близлежащие\nКраснодарский край\nПродолжается работа ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-07T01:24:55+00:00",
-    "expires_at": "2026-09-07T02:24:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "пермск": {
-    "display_name": "Республика\nПермский",
-    "type": "drone",
-    "text": "Удмуртская Республика\nПермский край \nСвердловская область \n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-09-07T02:08:36+00:00",
-    "expires_at": "2026-09-07T03:08:36+00:00",
+    "display_name": "Пермский край",
+    "type": "alert",
+    "text": "Пермь\nПермский край\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-07T02:27:41+00:00",
+    "expires_at": "2026-09-07T03:27:41+00:00",
     "count": null,
     "count_approx": false
   },
