@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_230662",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T09:05:27+00:00",
-    "text": "Запорожская область РФ \nЛДНР \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_88289",
-    "channel": "vrv_radar",
-    "date": "2026-09-06T09:05:34+00:00",
-    "text": "Краснодарский край\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124605",
-    "channel": "kupolrussia",
-    "date": "2026-09-06T09:05:38+00:00",
-    "text": "Запорожская область РФ \nЛДНР\nВНИМАНИЕ!!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_88290",
     "channel": "vrv_radar",
     "date": "2026-09-06T09:06:22+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_84212",
+    "channel": "locatorru",
+    "date": "2026-09-07T12:55:22+00:00",
+    "text": "Орловская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_84213",
+    "channel": "locatorru",
+    "date": "2026-09-07T12:55:44+00:00",
+    "text": "Приграничные районы Брянской области, Курской области, Белгородской области - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_84214",
+    "channel": "locatorru",
+    "date": "2026-09-07T13:00:22+00:00",
+    "text": "За сегодняшний день приняли участие в сборе 25 наших близких, уже многие начали думать, что специальная военная операция завершена в связи с приездом Америки на переговоры.\nТакой актив в сборе наблюдается всегда, когда речь заходит о перемирии и переговорах. \n\n📡Локатор России - @locatorru",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
