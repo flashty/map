@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_88255",
-    "channel": "vrv_radar",
-    "date": "2026-09-06T04:30:58+00:00",
-    "text": "Собнинский район\nВладимирская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Владимирская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_92100",
-    "channel": "radarrussiia",
-    "date": "2026-09-06T04:31:28+00:00",
-    "text": "Тула \nТульская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_92101_Михайловский",
-    "channel": "radarrussiia",
-    "date": "2026-09-06T04:32:09+00:00",
-    "text": "Михайловский район \nЗахаровский район \nРязанская область \nФиксации групп БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Михайловский",
-    "region": "Рязанская область",
-    "lat": 54.2303577,
-    "lon": 39.0202073
-  },
-  {
     "id": "radarrussiia_92101_Захаровский",
     "channel": "radarrussiia",
     "date": "2026-09-06T04:32:09+00:00",
@@ -21996,6 +21963,39 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_231067",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T08:31:51+00:00",
+    "text": "Трасса на Каланчак с севера, АПП Армянск, Чаплынка и близлежащие, АПП Перекоп \nСохраняется опасность по БПЛА Хорнет \n\nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124979",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T08:31:58+00:00",
+    "text": "Трасса на Каланчак с севера, АПП Армянск, Чаплынка и близлежащие, АПП Перекоп \nСохраняется опасность по БПЛА Хорнет \n\nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_231068",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T08:37:02+00:00",
+    "text": "Опасность по ФПВ трасса Рыльск - Льгов\n\nКурская область",
+    "type": "alert",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }
