@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_124609_Крымский",
-    "channel": "kupolrussia",
-    "date": "2026-09-06T09:16:14+00:00",
-    "text": "Экстренная информация РСЧС: БЕСПИЛОТНАЯ ОПАСНОСТЬ на территории муниципальных образований: г.Анапа, г. Новороссийск, Абинский, Крымский, Темрюкский районы. 06.09.2026.",
-    "type": "alert",
-    "location_name": "Крымский",
-    "region": null,
-    "lat": 54.049175,
-    "lon": 55.234863
-  },
-  {
-    "id": "LPRalarm_230667",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T09:17:30+00:00",
-    "text": "Белая Березка \nРСЗО \nБрянская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124610",
-    "channel": "kupolrussia",
-    "date": "2026-09-06T09:17:42+00:00",
-    "text": "Белая Березка \nРСЗО \nБрянская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230668",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T09:17:57+00:00",
-    "text": "Белгород, Белгородский район и ситуативно Белгородская область! \nРакетная опасность! Займите Безопасные места!\n\n\nПотенциальная опасность для Курской области и Воронежской области",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230669_Белгороде",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T09:18:13+00:00",
-    "text": "РАКЕТНАЯ ОПАСНОСТЬ в городе Белгороде, Белгородском, Шебекинском МО . Спуститесь в подвальное помещение или подземное пространство.",
-    "type": "missile",
-    "location_name": "Белгороде",
-    "region": null,
-    "lat": 54.3958901,
-    "lon": 38.5279843
-  },
-  {
-    "id": "LPRalarm_230669_Белгородском",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T09:18:13+00:00",
-    "text": "РАКЕТНАЯ ОПАСНОСТЬ в городе Белгороде, Белгородском, Шебекинском МО . Спуститесь в подвальное помещение или подземное пространство.",
-    "type": "missile",
-    "location_name": "Белгородском",
-    "region": null,
-    "lat": 50.6103332,
-    "lon": 36.5785137
-  },
-  {
     "id": "kupolrussia_124611",
     "channel": "kupolrussia",
     "date": "2026-09-06T09:18:16+00:00",
@@ -21998,5 +21932,71 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_88549",
+    "channel": "vrv_radar",
+    "date": "2026-09-07T13:35:19+00:00",
+    "text": "Краснодарский край\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_84215",
+    "channel": "locatorru",
+    "date": "2026-09-07T13:37:41+00:00",
+    "text": "Краснодарский край - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_92312",
+    "channel": "radarrussiia",
+    "date": "2026-09-07T13:38:59+00:00",
+    "text": "Краснодарский край\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_231166",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T13:41:03+00:00",
+    "text": "Сизовка\nТрактовое и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_231167_Все",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T13:42:03+00:00",
+    "text": "Все районы Краснодарский край отбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": "Все",
+    "region": "Краснодарский край",
+    "lat": 45.0459485,
+    "lon": 38.9914337
+  },
+  {
+    "id": "kupolrussia_125064_Все",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T13:44:05+00:00",
+    "text": "Все районы Краснодарский край отбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": "Все",
+    "region": "Краснодарский край",
+    "lat": 45.0459485,
+    "lon": 38.9914337
   }
 ]
