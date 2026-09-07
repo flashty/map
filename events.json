@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_230639",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T08:13:56+00:00",
-    "text": "Оленевка и близлежащие \nПринять меры безопасности \nРеспублика Крым",
-    "type": "alert",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124582",
-    "channel": "kupolrussia",
-    "date": "2026-09-06T08:14:14+00:00",
-    "text": "Оленевка и близлежащие \nПринять меры безопасности \nРеспублика Крым",
-    "type": "alert",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230640",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T08:14:33+00:00",
-    "text": "Витино\nМолочное\nШтормовое и близлежащие \nВнимание по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124583",
-    "channel": "kupolrussia",
-    "date": "2026-09-06T08:14:45+00:00",
-    "text": "Витино\nМолочное\nШтормовое и близлежащие \nВнимание по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230641",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T08:16:56+00:00",
-    "text": "Курская область и близлежащие \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230642",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T08:17:24+00:00",
-    "text": "Горское\nОрехово и близлежащие \nОпасность по БПЛА Хорнет\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_230643_Белгороде",
     "channel": "LPRalarm",
     "date": "2026-09-06T08:17:26+00:00",
@@ -21998,5 +21932,71 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_231133",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T11:40:36+00:00",
+    "text": "БПЛА в направлении Енакиево и далее на Юг \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_125036",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T11:40:49+00:00",
+    "text": "БПЛА в направлении Енакиево и далее на Юг \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_231134",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T11:44:06+00:00",
+    "text": "Марковка и далее в направлении Ставки БПЛА Хорнет \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_125037",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T11:44:20+00:00",
+    "text": "Марковка и далее в направлении Ставки БПЛА Хорнет \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_231135_Суземка",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T11:45:43+00:00",
+    "text": "Возможно применение противником РСЗО в течение дня  на направлении Белая Березка - Суземка\nБрянская область",
+    "type": "unknown",
+    "location_name": "Суземка",
+    "region": "Брянская область",
+    "lat": 52.316133,
+    "lon": 34.0759496
+  },
+  {
+    "id": "kupolrussia_125038_Суземка",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T11:45:49+00:00",
+    "text": "Возможно применение противником РСЗО в течение дня  на направлении Белая Березка - Суземка\nБрянская область",
+    "type": "unknown",
+    "location_name": "Суземка",
+    "region": "Брянская область",
+    "lat": 52.316133,
+    "lon": 34.0759496
   }
 ]
