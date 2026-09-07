@@ -1,61 +1,31 @@
 {
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "drone",
-    "text": "Неверкинский район\nПензенская область\nПродолжаются фиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-06T23:55:33+00:00",
-    "expires_at": "2026-09-07T00:55:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ульяновск": {
-    "display_name": "Ульяновская область",
+    "display_name": "Ульяновской области",
     "type": "drone",
-    "text": "Сурский район\nУльяновская область\nФиксация от 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-07T00:41:43+00:00",
-    "expires_at": "2026-09-07T01:41:43+00:00",
-    "count": 3,
-    "count_approx": false
-  },
-  "самарск": {
-    "display_name": "Самарская область",
-    "type": "drone",
-    "text": "Сызрань\nСамарская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-07T00:39:30+00:00",
-    "expires_at": "2026-09-07T01:39:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Новоозёрное и близлежащие \nТревога по БПЛА \nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-06T23:57:33+00:00",
-    "expires_at": "2026-09-07T00:57:33+00:00",
+    "text": "Сызрань, Самарская область - внимание по БПЛА от Кубра, Ульяновской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-07T00:54:37+00:00",
+    "expires_at": "2026-09-07T01:54:37+00:00",
     "count": null,
     "count_approx": false
   },
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Буинский район\nРеспублика Татарстан\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Чистополь\nЗаинск\nАльметьевск\nНижнекамск\nЕлабуга\nНабережные Челны\nБугульма\nЛениногорск\nРеспублика Татарстан\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-07T00:45:18+00:00",
-    "expires_at": "2026-09-07T01:45:18+00:00",
+    "updated_at": "2026-09-07T00:55:12+00:00",
+    "expires_at": "2026-09-07T01:55:12+00:00",
     "count": null,
     "count_approx": false
   },
   "-": {
     "display_name": "Республика -",
     "type": "drone",
-    "text": "Республика Татарстан, Удмуртская Республика - внимание к налёту БПЛА. \n\n📡Локатор России - @locatorru",
+    "text": "Селтинский район, Сюмсинский район, Увинский район, Вавожский район, Удмуртская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-09-07T00:17:08+00:00",
-    "expires_at": "2026-09-07T01:17:08+00:00",
+    "updated_at": "2026-09-07T00:56:25+00:00",
+    "expires_at": "2026-09-07T01:56:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -79,23 +49,13 @@
     "count": null,
     "count_approx": false
   },
-  "опаснос": {
-    "display_name": "Республика \nОпасность",
-    "type": "drone",
-    "text": "Удмуртская Республика \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-06T23:49:52+00:00",
-    "expires_at": "2026-09-07T00:49:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "удмурт": {
     "display_name": "Республика Удмуртия",
     "type": "drone",
-    "text": "Республика Удмуртия\nОпасность по БПЛА",
+    "text": "Селтинский район\nУвинский район\nСюмсинский район\nВавожский район\nРеспублика Удмуртия\nОпасность по БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-09-06T23:52:11+00:00",
-    "expires_at": "2026-09-07T00:52:11+00:00",
+    "updated_at": "2026-09-07T01:00:40+00:00",
+    "expires_at": "2026-09-07T02:00:40+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +86,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-07T00:18:23+00:00",
     "expires_at": "2026-09-07T01:18:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "марий": {
+    "display_name": "Республика Марий",
+    "type": "drone",
+    "text": "Волжск, Республика Марий Эл - пролёт БПЛА в сторону Казань, Зеленодольск. \nМаркетплейс, внимательно! \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-07T00:56:58+00:00",
+    "expires_at": "2026-09-07T01:56:58+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "самарск": {
+    "display_name": "Самарская область",
+    "type": "drone",
+    "text": "Сызранский район\nСамарская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-07T00:57:49+00:00",
+    "expires_at": "2026-09-07T01:57:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "башкортост": {
+    "display_name": "Республика Башкортостан",
+    "type": "drone",
+    "text": "Республика Башкортостан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-07T00:58:24+00:00",
+    "expires_at": "2026-09-07T01:58:24+00:00",
     "count": null,
     "count_approx": false
   }
