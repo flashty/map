@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_88284",
-    "channel": "vrv_radar",
-    "date": "2026-09-06T07:08:12+00:00",
-    "text": "Ярославская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ярославская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230614",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T07:10:31+00:00",
-    "text": "Дорога \nОсипенко  — Бердянск — Инзовка \nОпасность по БПЛА Хорнет \nПринять меры безопасности \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124563",
-    "channel": "kupolrussia",
-    "date": "2026-09-06T07:10:37+00:00",
-    "text": "Дорога \nОсипенко  — Бердянск — Инзовка \nОпасность по БПЛА Хорнет \nПринять меры безопасности \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230615",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T07:11:46+00:00",
-    "text": "Трасса Р-280\nВысокая активность БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_88285",
     "channel": "vrv_radar",
     "date": "2026-09-06T07:16:38+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_231110",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T10:15:16+00:00",
+    "text": "Трасса Е-58 на Мелитополь \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_231111",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T10:15:23+00:00",
+    "text": "Мирное и близлежащие тревога по БПЛА Хорнет (Каланчак)\n\nИ далее АПП Армянск, Армянск",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_125016_Мелитополь",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T10:15:34+00:00",
+    "text": "Трасса Е-58 на Мелитополь\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Мелитополь",
+    "region": null,
+    "lat": 55.7020859,
+    "lon": 49.1449216
+  },
+  {
+    "id": "kupolrussia_125017",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T10:15:40+00:00",
+    "text": "Мирное и близлежащие тревога по БПЛА Хорнет (Каланчак)\n\nИ далее АПП Армянск, Армянск",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
