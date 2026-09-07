@@ -12,10 +12,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "ДНР опасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-07T16:15:27+00:00",
-    "expires_at": "2026-09-07T17:15:27+00:00",
+    "text": "Волноваха,\nМариуполь\nИ близлежащие\nТревога по БПЛА\nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-07T16:26:29+00:00",
+    "expires_at": "2026-09-07T17:26:29+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +86,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-07T16:13:00+00:00",
     "expires_at": "2026-09-07T17:13:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовскую область",
+    "type": "drone",
+    "text": "Донецк и близлежащие\nТревога по БПЛА\nИ далее на Восток,\nВ направлении\nСнежное, Антрацит\nИ далее на Ростовскую область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-07T16:27:05+00:00",
+    "expires_at": "2026-09-07T17:27:05+00:00",
     "count": null,
     "count_approx": false
   }
