@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-07T17:46:14+00:00",
+        "last_updated": "2026-09-07T18:11:00+00:00",
+        "path_labels": [
+          "Таганрог (Ростовская область)",
+          "Неклиновский (Ростовская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.928362,
+            47.215495
+          ],
+          [
+            38.7288396,
+            47.3415164
+          ]
+        ]
+      }
+    }
+  ]
 }
