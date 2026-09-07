@@ -1,60 +1,5 @@
 [
   {
-    "id": "radarrussiia_92101_Захаровский",
-    "channel": "radarrussiia",
-    "date": "2026-09-06T04:32:09+00:00",
-    "text": "Михайловский район \nЗахаровский район \nРязанская область \nФиксации групп БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Захаровский",
-    "region": "Рязанская область",
-    "lat": 54.7872539,
-    "lon": 41.9312913
-  },
-  {
-    "id": "radarrussiia_92102",
-    "channel": "radarrussiia",
-    "date": "2026-09-06T04:32:42+00:00",
-    "text": "Собнинский район\nВладимирская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Владимирская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_88256_Нехаевский",
-    "channel": "vrv_radar",
-    "date": "2026-09-06T04:33:03+00:00",
-    "text": "Нехаевский район\nВолгоградская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Нехаевский",
-    "region": "Волгоградская область",
-    "lat": 50.3223982,
-    "lon": 41.7408217
-  },
-  {
-    "id": "vrv_radar_88257_Чаплыгинский",
-    "channel": "vrv_radar",
-    "date": "2026-09-06T04:33:17+00:00",
-    "text": "Чаплыгинский район \nЛипецкая область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Чаплыгинский",
-    "region": "Липецкая область",
-    "lat": 53.2741151,
-    "lon": 39.9351471
-  },
-  {
-    "id": "radarrussiia_92103_Нехаевский",
-    "channel": "radarrussiia",
-    "date": "2026-09-06T04:33:22+00:00",
-    "text": "Нехаевский район\nВолгоградская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Нехаевский",
-    "region": "Волгоградская область",
-    "lat": 50.3223982,
-    "lon": 41.7408217
-  },
-  {
     "id": "radarrussiia_92104_Чаплыгинский",
     "channel": "radarrussiia",
     "date": "2026-09-06T04:35:25+00:00",
@@ -21996,6 +21941,61 @@
     "type": "alert",
     "location_name": null,
     "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_231069",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T08:41:21+00:00",
+    "text": "Вся трасса Р-280 Запорожская область РФ опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124980",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T08:42:07+00:00",
+    "text": "Вся трасса Р-280\nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_92305",
+    "channel": "radarrussiia",
+    "date": "2026-09-07T08:42:12+00:00",
+    "text": "Враг этой ночью атаковал «Храм Николая Чудотворца» в Тамбовской области.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Тамбовской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_231070",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T08:44:05+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность \nПовторно",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124981",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T08:44:22+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nПовторно\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
