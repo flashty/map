@@ -1,148 +1,5 @@
 [
   {
-    "id": "LPRalarm_230691",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T11:14:23+00:00",
-    "text": "Майский и близлежащие \nОпасность по БПЛА \nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124633",
-    "channel": "kupolrussia",
-    "date": "2026-09-06T11:14:42+00:00",
-    "text": "Майский и близлежащие \n\nБелгородская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_88293_Новороссийск",
-    "channel": "vrv_radar",
-    "date": "2026-09-06T11:14:56+00:00",
-    "text": "Новороссийск\nКраснодарский край\nОтбой опасности по БПЛА\nОпасность по региону сохраняется",
-    "type": "all_clear",
-    "location_name": "Новороссийск",
-    "region": "Краснодарский край",
-    "lat": 44.7239578,
-    "lon": 37.7690711
-  },
-  {
-    "id": "LPRalarm_230692",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T11:18:15+00:00",
-    "text": "Херсонская область РФ\nТаврийск,  атака фпв, будьте осторожны! Особенно районы, восточный, СМУ.",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230693",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T11:18:27+00:00",
-    "text": "Новогродовка ДНР и близлежащие \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124634",
-    "channel": "kupolrussia",
-    "date": "2026-09-06T11:18:35+00:00",
-    "text": "Новогродовка ДНР и близлежащие \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230694",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T11:20:38+00:00",
-    "text": "Федеральная трасса Шебекино Маслова Пристань Крутой лог \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_230695",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T11:20:39+00:00",
-    "text": "Трасса бахмутка от Лисичанска в направление Луганска , Хорошее , Смелое \nБПЛА Хорнет \nПринять меры безопасности \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_124635",
-    "channel": "kupolrussia",
-    "date": "2026-09-06T11:20:52+00:00",
-    "text": "Трасса бахмутка от Лисичанска в направление Луганска , Хорошее , Смелое \nБПЛА Хорнет \nПринять меры безопасности \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_84047_Трубчевский",
-    "channel": "locatorru",
-    "date": "2026-09-06T11:20:56+00:00",
-    "text": "Белая Березка, Трубчевский район, Брянская область - обстрел. \n\n📡Локатор России - @locatorru",
-    "type": "shelling",
-    "location_name": "Трубчевский",
-    "region": "Брянская область",
-    "lat": 52.5867776,
-    "lon": 33.7892267
-  },
-  {
-    "id": "locatorru_84047_Белая Березка",
-    "channel": "locatorru",
-    "date": "2026-09-06T11:20:56+00:00",
-    "text": "Белая Березка, Трубчевский район, Брянская область - обстрел. \n\n📡Локатор России - @locatorru",
-    "type": "shelling",
-    "location_name": "Белая Березка",
-    "region": "Брянская область",
-    "lat": 52.381847,
-    "lon": 33.487415
-  },
-  {
-    "id": "kupolrussia_124636",
-    "channel": "kupolrussia",
-    "date": "2026-09-06T11:20:59+00:00",
-    "text": "Федеральная трасса Шебекино Маслова Пристань Крутой лог \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_84048_Москве",
-    "channel": "locatorru",
-    "date": "2026-09-06T11:24:00+00:00",
-    "text": "Наши близкие, 100 рублей - это чашка кофе (не в Москве, там дороже), полпачки сигарет (бросайте курить). \n\nСбор двигается к своей цели, если нам всем объединиться! 🙏\n\nТам - наши.\n\n🫡Помочь нашим воинам можно через сервис Т-Банк(имеется оплата по СБП): https://pay.cloudtips.ru/p/8719472c",
-    "type": "unknown",
-    "location_name": "Москве",
-    "region": null,
-    "lat": 55.6725952,
-    "lon": 37.4857089
-  },
-  {
     "id": "LPRalarm_230696",
     "channel": "LPRalarm",
     "date": "2026-09-06T11:25:36+00:00",
@@ -21998,5 +21855,148 @@
     "region": "Республика Крым",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "kupolrussia_125082",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T15:32:53+00:00",
+    "text": "Ленинский район \nЛенинск и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_231193",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T15:35:38+00:00",
+    "text": "Феодосия \nМеры безопасности \nФиксация БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_231194",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T15:37:11+00:00",
+    "text": "От Новопокровки в направлении Феодосия фиксации БПЛА.\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_231195",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T15:37:26+00:00",
+    "text": "Севастополь \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_231196",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T15:40:40+00:00",
+    "text": "Пуски БПЛА от Николаевской области",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_231197_Орёл",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T15:42:29+00:00",
+    "text": "Карачев фиксации БПЛА на Орёл",
+    "type": "drone",
+    "location_name": "Орёл",
+    "region": null,
+    "lat": 52.9709262,
+    "lon": 36.0642127
+  },
+  {
+    "id": "LPRalarm_231198",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T15:43:18+00:00",
+    "text": "Трасса Бахмутка БПЛА Хорнет\nЖелобок в направление Хорошее и возможно далее на Луганск\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_125083",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T15:44:33+00:00",
+    "text": "Тульская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_231199",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T15:44:39+00:00",
+    "text": "Тульская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_125084_Орёл",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T15:45:01+00:00",
+    "text": "Карачев фиксации БПЛА на Орёл",
+    "type": "drone",
+    "location_name": "Орёл",
+    "region": null,
+    "lat": 52.9709262,
+    "lon": 36.0642127
+  },
+  {
+    "id": "kupolrussia_125085",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T15:45:12+00:00",
+    "text": "Трасса Бахмутка БПЛА Хорнет\nЖелобок в направление Хорошее и возможно далее на Луганск\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_125086",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T15:45:22+00:00",
+    "text": "Пуски БПЛА от Николаевской области",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_125087_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T15:45:58+00:00",
+    "text": "Севастополь\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
   }
 ]
