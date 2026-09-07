@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_230568",
-    "channel": "LPRalarm",
-    "date": "2026-09-06T01:15:39+00:00",
-    "text": "Отбой ракетной опасности\nпо раннее объявленным",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_88168_Азовский",
-    "channel": "vrv_radar",
-    "date": "2026-09-06T01:17:54+00:00",
-    "text": "Азовский район\nРостовская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Азовский",
-    "region": "Ростовская область",
-    "lat": 46.8996123,
-    "lon": 39.2767155
-  },
-  {
-    "id": "radarrussiia_92064_Азовский",
-    "channel": "radarrussiia",
-    "date": "2026-09-06T01:18:11+00:00",
-    "text": "Азовский район\nРостовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Азовский",
-    "region": "Ростовская область",
-    "lat": 46.8996123,
-    "lon": 39.2767155
-  },
-  {
     "id": "vrv_radar_88169_Сосковский",
     "channel": "vrv_radar",
     "date": "2026-09-06T01:19:33+00:00",
@@ -21996,6 +21963,39 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Республика Татарстан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_230975",
+    "channel": "LPRalarm",
+    "date": "2026-09-07T03:42:52+00:00",
+    "text": "Север\nСеверо-Запад \nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_124905",
+    "channel": "kupolrussia",
+    "date": "2026-09-07T03:42:57+00:00",
+    "text": "Север\nСеверо-Запад \nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_84195",
+    "channel": "locatorru",
+    "date": "2026-09-07T03:43:20+00:00",
+    "text": "Самарская область, Ульяновская область, Чувашская Республика, Рязанская область, Пензенская область, Липецкая область, Саратовская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Самарская область",
     "lat": null,
     "lon": null
   }
