@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-07T04:14:29+00:00",
+        "last_updated": "2026-09-07T04:14:29+00:00",
+        "path_labels": [
+          "Краснодарский край",
+          "Ростовская область"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.49316508777573,
+            45.261497529767816
+          ],
+          [
+            41.33684792465747,
+            47.73608136253729
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-07T04:15:15+00:00",
+        "last_updated": "2026-09-07T04:15:15+00:00",
+        "path_labels": [
+          "Краснодарский край",
+          "Ростовская область"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.49316508777573,
+            45.261497529767816
+          ],
+          [
+            41.33684792465747,
+            47.73608136253729
+          ]
+        ]
+      }
+    }
+  ]
 }
