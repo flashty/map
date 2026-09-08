@@ -52,10 +52,20 @@
   "нижегородск": {
     "display_name": "Нижегородская область",
     "type": "drone",
-    "text": "Владимирская область \nНижегородская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-08T03:01:49+00:00",
-    "expires_at": "2026-09-08T04:01:49+00:00",
+    "text": "Нижегородская область \nОпасность по БПЛА сохраняется",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-08T03:48:19+00:00",
+    "expires_at": "2026-09-08T04:48:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Выгоничи и близлежащие \nОпасность по БПЛА \nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-08T03:53:04+00:00",
+    "expires_at": "2026-09-08T04:53:04+00:00",
     "count": null,
     "count_approx": false
   }
