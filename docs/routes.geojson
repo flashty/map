@@ -90,6 +90,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-09-08T22:09:13+00:00",
+        "last_updated": "2026-09-08T22:52:39+00:00",
+        "path_labels": [
+          "Серафимовичский (Волгоградская область)",
+          "Камышинский (Волгоградская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.7517542,
+            49.4953466
+          ],
+          [
+            43.5628711,
+            49.2272811
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-09-08T22:12:45+00:00",
         "last_updated": "2026-09-08T22:12:45+00:00",
         "path_labels": [
