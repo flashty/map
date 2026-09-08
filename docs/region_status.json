@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "missile",
-    "text": "Белгородская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-08T12:08:24+00:00",
-    "expires_at": "2026-09-08T13:08:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курской области",
     "type": "missile",
@@ -31,51 +21,21 @@
   },
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Бердянск в направлении Урзуф ДНР\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "missile",
+    "text": "Курахово ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-08T12:00:53+00:00",
-    "expires_at": "2026-09-08T13:00:53+00:00",
+    "updated_at": "2026-09-08T12:21:49+00:00",
+    "expires_at": "2026-09-08T13:21:49+00:00",
     "count": null,
     "count_approx": false
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Геленджик и близлежащие \nКраснодарский край\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-08T11:38:11+00:00",
-    "expires_at": "2026-09-08T12:38:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
     "type": "alert",
-    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-08T11:23:43+00:00",
-    "expires_at": "2026-09-08T12:23:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Лисичанск опасность по БПЛА и ближайшие \n\nЛНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-08T11:30:14+00:00",
-    "expires_at": "2026-09-08T12:30:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "харьковск": {
-    "display_name": "Харьковская область",
-    "type": "missile",
-    "text": "Белгородская область, Харьковская область РФ авиационная ракетная бомбовая тревога по УАБ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-08T11:45:53+00:00",
-    "expires_at": "2026-09-08T12:45:53+00:00",
+    "text": "Геленджик\nКраснодарский край\nОпасность по БЭК\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-08T12:24:09+00:00",
+    "expires_at": "2026-09-08T13:24:09+00:00",
     "count": null,
     "count_approx": false
   },
