@@ -19,23 +19,13 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Великая Лепетиха и далее на Юго-Восток \nФиксации реактивных БПЛА \nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-08T19:55:42+00:00",
-    "expires_at": "2026-09-08T20:55:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Нижнегорский район\nТревога по БПЛА\nРеспублика Крым",
+    "text": "Джанкой и близлежащие\nТревога по БПЛА\nРеспублика Крым",
     "channel": "LPRalarm",
-    "updated_at": "2026-09-08T20:34:28+00:00",
-    "expires_at": "2026-09-08T21:34:28+00:00",
+    "updated_at": "2026-09-08T20:46:04+00:00",
+    "expires_at": "2026-09-08T21:46:04+00:00",
     "count": null,
     "count_approx": false
   },
@@ -89,13 +79,23 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
+  "волгоградск": {
+    "display_name": "Волгоградская область",
     "type": "drone",
-    "text": "Геленджик\nКраснодарский край\nПродолжается работа ПВО по БПЛА\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-08T20:45:51+00:00",
-    "expires_at": "2026-09-08T21:45:51+00:00",
+    "text": "Волгоградская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-08T20:48:12+00:00",
+    "expires_at": "2026-09-08T21:48:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Троснянский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-08T20:53:58+00:00",
+    "expires_at": "2026-09-08T21:53:58+00:00",
     "count": null,
     "count_approx": false
   }
