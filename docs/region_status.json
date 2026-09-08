@@ -22,10 +22,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Джанкой и близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-08T20:46:04+00:00",
-    "expires_at": "2026-09-08T21:46:04+00:00",
+    "text": "Азовское и близлежащие\nДжанкойский район\nТревога по БПЛА\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-08T21:02:30+00:00",
+    "expires_at": "2026-09-08T22:02:30+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,10 +52,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Выгонический район\nБрянская область\nТревога по БПЛА",
+    "text": "Брянск и близлежащие\nТревога по БПЛА сохраняется\nБрянская область",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-08T20:38:31+00:00",
-    "expires_at": "2026-09-08T21:38:31+00:00",
+    "updated_at": "2026-09-08T21:13:58+00:00",
+    "expires_at": "2026-09-08T22:13:58+00:00",
     "count": null,
     "count_approx": false
   },
@@ -82,10 +82,10 @@
   "волгоградск": {
     "display_name": "Волгоградская область",
     "type": "drone",
-    "text": "Волгоградская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-08T20:48:12+00:00",
-    "expires_at": "2026-09-08T21:48:12+00:00",
+    "text": "Волгоградская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-08T21:14:53+00:00",
+    "expires_at": "2026-09-08T22:14:53+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +96,46 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-08T20:53:58+00:00",
     "expires_at": "2026-09-08T21:53:58+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарско": {
+    "display_name": "Краснодарского края",
+    "type": "drone",
+    "text": "Черноморское побережье Краснодарского края, тревога по БПЛА сохраняется, летит много",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-08T21:03:45+00:00",
+    "expires_at": "2026-09-08T22:03:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "мордов": {
+    "display_name": "Республика Мордовия",
+    "type": "drone",
+    "text": "Республика Мордовия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-08T21:08:08+00:00",
+    "expires_at": "2026-09-08T22:08:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Курск\nКурчатов\nИ близлежащие\nТревога по БПЛА\nКурская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-08T21:04:53+00:00",
+    "expires_at": "2026-09-08T22:04:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Прохоровский район\nБелгородская область\nТревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-08T21:15:03+00:00",
+    "expires_at": "2026-09-08T22:15:03+00:00",
     "count": null,
     "count_approx": false
   }
