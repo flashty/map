@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_231234",
-    "channel": "LPRalarm",
-    "date": "2026-09-07T17:13:14+00:00",
-    "text": "Локоть и близлежащие\nВнимание по реактивным БПЛА противника\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_125121",
-    "channel": "kupolrussia",
-    "date": "2026-09-07T17:13:34+00:00",
-    "text": "Локоть и близлежащие\nВнимание по реактивным БПЛА противника\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_88553",
-    "channel": "vrv_radar",
-    "date": "2026-09-07T17:14:13+00:00",
-    "text": "Орловская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_231235",
     "channel": "LPRalarm",
     "date": "2026-09-07T17:15:17+00:00",
@@ -21998,5 +21965,38 @@
     "region": null,
     "lat": 54.3750277,
     "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_125641_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-09-08T14:01:55+00:00",
+    "text": "Белгородский район\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_231857",
+    "channel": "LPRalarm",
+    "date": "2026-09-08T14:15:05+00:00",
+    "text": "Анапа\nНовороссийск \nГеленджик \nПриморско-Ахтарск \nКрымск\nСлавянск На Кубани\nИльский \nАфипский \nКраснодар\n\nИ близлежащие \nТревога по БПЛА действует \n\nМеры безопасности",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_125642",
+    "channel": "kupolrussia",
+    "date": "2026-09-08T14:15:21+00:00",
+    "text": "Анапа\nНовороссийск \nГеленджик \nПриморско-Ахтарск \nКрымск\nСлавянск На Кубани\nИльский \nАфипский \nКраснодар\n\nИ близлежащие \nТревога по БПЛА действует \n\nМеры безопасности",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
