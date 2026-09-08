@@ -50,6 +50,31 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-08T09:03:06+00:00",
+        "last_updated": "2026-09-08T09:42:09+00:00",
+        "path_labels": [
+          "Севастополь",
+          "Брянск"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.186371,
+            53.456383
+          ],
+          [
+            34.3668288,
+            53.2423778
+          ]
+        ]
+      }
     }
   ]
 }
