@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_231547",
-    "channel": "LPRalarm",
-    "date": "2026-09-08T04:33:29+00:00",
-    "text": "Воронежская область \nОтбой опасности БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_231548",
-    "channel": "LPRalarm",
-    "date": "2026-09-08T04:33:52+00:00",
-    "text": "Дорога \nПриморск  - Червоно Поле  \nопасность по БПЛА\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_125382",
-    "channel": "kupolrussia",
-    "date": "2026-09-08T04:34:04+00:00",
-    "text": "Воронежская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_231549",
-    "channel": "LPRalarm",
-    "date": "2026-09-08T04:35:30+00:00",
-    "text": "Луначарское и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_125383",
-    "channel": "kupolrussia",
-    "date": "2026-09-08T04:35:35+00:00",
-    "text": "Луначарское и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_125384",
-    "channel": "kupolrussia",
-    "date": "2026-09-08T04:38:33+00:00",
-    "text": "Саратовская область \nОпасность по БПЛА сохраняется \nМеры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_231550",
-    "channel": "LPRalarm",
-    "date": "2026-09-08T04:38:36+00:00",
-    "text": "Саратовская область \nОпасность по БПЛА сохраняется \nМеры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_125385",
-    "channel": "kupolrussia",
-    "date": "2026-09-08T04:39:08+00:00",
-    "text": "Оренбургская область\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Оренбургская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_231551",
-    "channel": "LPRalarm",
-    "date": "2026-09-08T04:39:11+00:00",
-    "text": "Оренбургская область\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Оренбургская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_231552",
     "channel": "LPRalarm",
     "date": "2026-09-08T04:46:00+00:00",
@@ -21998,5 +21899,104 @@
     "region": "Саратовская область",
     "lat": 50.6839799,
     "lon": 47.5143196
+  },
+  {
+    "id": "LPRalarm_232255",
+    "channel": "LPRalarm",
+    "date": "2026-09-08T23:35:18+00:00",
+    "text": "ЛНР тревога по БПЛА сохраняется, летит много",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_125962",
+    "channel": "kupolrussia",
+    "date": "2026-09-08T23:35:23+00:00",
+    "text": "ЛНР тревога по БПЛА сохраняется, летит много",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_88884_Неверкинский",
+    "channel": "vrv_radar",
+    "date": "2026-09-08T23:38:45+00:00",
+    "text": "Неверкинский район\nПензенская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Неверкинский",
+    "region": "Пензенская область",
+    "lat": 52.7787253,
+    "lon": 46.690152
+  },
+  {
+    "id": "radarrussiia_92536_Неверкинский",
+    "channel": "radarrussiia",
+    "date": "2026-09-08T23:39:46+00:00",
+    "text": "Неверкинский район\nПензенская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Неверкинский",
+    "region": "Пензенская область",
+    "lat": 52.7787253,
+    "lon": 46.690152
+  },
+  {
+    "id": "vrv_radar_88885",
+    "channel": "vrv_radar",
+    "date": "2026-09-08T23:41:42+00:00",
+    "text": "Нижегородская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_84387",
+    "channel": "locatorru",
+    "date": "2026-09-08T23:43:07+00:00",
+    "text": "Варыпаево, Пензенский район, Пензенская область - пролёты БПЛА в сторону Саратовской области, возможно повернут на Ульяновскую область. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_92537",
+    "channel": "radarrussiia",
+    "date": "2026-09-08T23:43:59+00:00",
+    "text": "Нижегородская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_125963",
+    "channel": "kupolrussia",
+    "date": "2026-09-08T23:44:10+00:00",
+    "text": "Волгоградская область\nСаратовская область\nПензенская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_232256",
+    "channel": "LPRalarm",
+    "date": "2026-09-08T23:44:13+00:00",
+    "text": "Волгоградская область\nСаратовская область\nПензенская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
   }
 ]
