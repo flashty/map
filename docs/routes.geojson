@@ -215,6 +215,56 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-09-08T14:57:54+00:00",
+        "last_updated": "2026-09-08T15:27:11+00:00",
+        "path_labels": [
+          "Владимировка",
+          "Краснодон"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            142.727438,
+            46.9574273
+          ],
+          [
+            142.6038951,
+            47.2092085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-08T15:07:45+00:00",
+        "last_updated": "2026-09-08T15:29:00+00:00",
+        "path_labels": [
+          "Хотынецкий (Орловская область)",
+          "Севастополь"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.3773008,
+            53.1360589
+          ],
+          [
+            35.186371,
+            53.456383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-09-08T15:09:15+00:00",
         "last_updated": "2026-09-08T15:09:15+00:00",
         "path_labels": [
