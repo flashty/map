@@ -5,36 +5,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-09-08T12:38:26+00:00",
-        "last_updated": "2026-09-08T13:42:08+00:00",
-        "path_labels": [
-          "Темрюкский",
-          "Анапский",
-          "Темрюкского"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.3098799,
-            45.4964119
-          ],
-          [
-            37.755292,
-            45.0702704
-          ],
-          [
-            37.3708765,
-            45.278294
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-09-08T13:11:55+00:00",
         "last_updated": "2026-09-08T13:48:46+00:00",
         "path_labels": [
@@ -52,6 +22,56 @@
           [
             37.755292,
             45.0702704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-08T13:41:11+00:00",
+        "last_updated": "2026-09-08T14:41:37+00:00",
+        "path_labels": [
+          "Темрюкский",
+          "Ачуево"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.3098799,
+            45.4964119
+          ],
+          [
+            37.775433,
+            45.710182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-08T14:21:09+00:00",
+        "last_updated": "2026-09-08T14:36:55+00:00",
+        "path_labels": [
+          "Южные (Ростовская область)",
+          "Таганрог (Ростовская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.3999559,
+            47.0980537
+          ],
+          [
+            38.928362,
+            47.215495
           ]
         ]
       }
