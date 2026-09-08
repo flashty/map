@@ -25,6 +25,31 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-08T12:38:26+00:00",
+        "last_updated": "2026-09-08T13:03:01+00:00",
+        "path_labels": [
+          "Темрюкский",
+          "Анапский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.3098799,
+            45.4964119
+          ],
+          [
+            37.755292,
+            45.0702704
+          ]
+        ]
+      }
     }
   ]
 }
