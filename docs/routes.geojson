@@ -5,31 +5,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-09-08T13:11:55+00:00",
-        "last_updated": "2026-09-08T13:48:46+00:00",
-        "path_labels": [
-          "Геленджик",
-          "Анапский"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.0766832,
-            44.5609447
-          ],
-          [
-            37.755292,
-            45.0702704
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-09-08T13:41:11+00:00",
         "last_updated": "2026-09-08T14:41:37+00:00",
         "path_labels": [
@@ -72,6 +47,31 @@
           [
             38.928362,
             47.215495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-08T14:36:55+00:00",
+        "last_updated": "2026-09-08T14:59:53+00:00",
+        "path_labels": [
+          "Батайск (Ростовская область)",
+          "Кагальницкий (Ростовская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.742348,
+            47.138527
+          ],
+          [
+            40.0169134,
+            46.9299197
           ]
         ]
       }
