@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-08T09:00:32+00:00",
+        "last_updated": "2026-09-08T09:24:10+00:00",
+        "path_labels": [
+          "Валуйский (Белгородская область)",
+          "Волоконовка (Белгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.9638901,
+            50.1632256
+          ],
+          [
+            37.8411269,
+            50.4861556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-08T09:01:47+00:00",
+        "last_updated": "2026-09-08T09:18:35+00:00",
+        "path_labels": [
+          "Ракитянский",
+          "Краснояружский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.9006134,
+            50.8380326
+          ],
+          [
+            35.5718561,
+            50.8175551
+          ]
+        ]
+      }
+    }
+  ]
 }
