@@ -1,31 +1,11 @@
 {
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "Мелекесский район\nУльяновская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-09T02:59:33+00:00",
-    "expires_at": "2026-09-09T03:59:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Акбаш, Ютазинский район, Республика Татарстан - продолжается пролёт БПЛА в сторону Уфы. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-09T03:04:19+00:00",
-    "expires_at": "2026-09-09T04:04:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "оренбургск": {
-    "display_name": "Оренбургская область",
-    "type": "drone",
-    "text": "Асекеевский район\nОренбургская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-09T03:01:26+00:00",
-    "expires_at": "2026-09-09T04:01:26+00:00",
+    "text": "Нижнекамск и близлежащие \nРеспублика Татарстан\nОпасность по БПЛА повторно",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-09T03:48:27+00:00",
+    "expires_at": "2026-09-09T04:48:27+00:00",
     "count": null,
     "count_approx": false
   },
@@ -41,21 +21,11 @@
   },
   "брянск": {
     "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Карачев и близлежащие \nОпасность по БПЛА \nБрянская область",
+    "type": "missile",
+    "text": "Брянская область \nРакетная опасность",
     "channel": "LPRalarm",
-    "updated_at": "2026-09-09T03:44:17+00:00",
-    "expires_at": "2026-09-09T04:44:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "drone",
-    "text": "Кузнецкий район\nПензенская область\nЕщё фиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-09T02:50:11+00:00",
-    "expires_at": "2026-09-09T03:50:11+00:00",
+    "updated_at": "2026-09-09T04:01:00+00:00",
+    "expires_at": "2026-09-09T05:01:00+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,16 +36,6 @@
     "channel": "vrv_radar",
     "updated_at": "2026-09-09T03:08:35+00:00",
     "expires_at": "2026-09-09T04:08:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "татарста": {
-    "display_name": "Республика Татарстаын",
-    "type": "drone",
-    "text": "Нурлатский район\nРеспублика Татарстаын\nФиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-09T02:58:07+00:00",
-    "expires_at": "2026-09-09T03:58:07+00:00",
     "count": null,
     "count_approx": false
   },
@@ -92,30 +52,30 @@
   "пермск": {
     "display_name": "Пермский край",
     "type": "drone",
-    "text": "Пермский край\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-09T03:39:38+00:00",
-    "expires_at": "2026-09-09T04:39:38+00:00",
+    "text": "Березники, Губаха, Пермь, Соликамск, Пермский край - опасность по БПЛА. \n\nВозможно пройдут мимо вас в сторону Свердловской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-09T03:52:20+00:00",
+    "expires_at": "2026-09-09T04:52:20+00:00",
     "count": null,
     "count_approx": false
   },
   "свердловск": {
     "display_name": "Свердловская область",
     "type": "drone",
-    "text": "Свердловская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-09T03:39:32+00:00",
-    "expires_at": "2026-09-09T04:39:32+00:00",
+    "text": "Свердловская область\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-09T03:59:48+00:00",
+    "expires_at": "2026-09-09T04:59:48+00:00",
     "count": null,
     "count_approx": false
   },
   "удмурт": {
     "display_name": "Республика Удмуртия",
     "type": "drone",
-    "text": "Республика Удмуртия\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-09T03:44:14+00:00",
-    "expires_at": "2026-09-09T04:44:14+00:00",
+    "text": "Республика Удмуртия\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-09T03:57:49+00:00",
+    "expires_at": "2026-09-09T04:57:49+00:00",
     "count": null,
     "count_approx": false
   }
