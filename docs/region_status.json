@@ -9,26 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянская область, Калужская область - опасность по БПЛА сохраняется. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-09T04:09:59+00:00",
-    "expires_at": "2026-09-09T05:09:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "-": {
-    "display_name": "Республика -",
-    "type": "drone",
-    "text": "Ижевск, Воткинск и близлежащие, Удмуртская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-09T03:41:27+00:00",
-    "expires_at": "2026-09-09T04:41:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "пермск": {
     "display_name": "Республика\nПермский",
     "type": "drone",
@@ -81,11 +61,11 @@
   },
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "missile",
-    "text": "Артёмовск Днр \nРакетная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-09T04:16:15+00:00",
-    "expires_at": "2026-09-09T05:16:15+00:00",
+    "type": "drone",
+    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ с запада",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-09T04:44:41+00:00",
+    "expires_at": "2026-09-09T05:44:41+00:00",
     "count": null,
     "count_approx": false
   }
