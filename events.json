@@ -1,148 +1,5 @@
 [
   {
-    "id": "LPRalarm_231776",
-    "channel": "LPRalarm",
-    "date": "2026-09-08T11:48:27+00:00",
-    "text": "Готовность к возможным пускам Штормов из Харьковской области",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Харьковской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_14361",
-    "channel": "radar_plus_bpla",
-    "date": "2026-09-08T11:55:29+00:00",
-    "text": "🙏Просьба не игнорировать, а перейти найти свой регион и подписаться на оповещения об опасности.",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_231777",
-    "channel": "LPRalarm",
-    "date": "2026-09-08T11:57:51+00:00",
-    "text": "От ГГ БПЛА Дартс в направлении Белая Березка \n\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_125575",
-    "channel": "kupolrussia",
-    "date": "2026-09-08T11:57:58+00:00",
-    "text": "От ГГ БПЛА Дартс в направлении Белая Березка \n\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_231778",
-    "channel": "LPRalarm",
-    "date": "2026-09-08T11:59:12+00:00",
-    "text": "Керчь и близлежащие соблюдаем меры безопасности при БПЛА. Тревога действует",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_125576",
-    "channel": "kupolrussia",
-    "date": "2026-09-08T11:59:18+00:00",
-    "text": "Керчь и близлежащие соблюдаем меры безопасности при БПЛА. Тревога действует",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_231779",
-    "channel": "LPRalarm",
-    "date": "2026-09-08T11:59:44+00:00",
-    "text": "Бердянск в направлении Урзуф ДНР тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_125577",
-    "channel": "kupolrussia",
-    "date": "2026-09-08T12:00:53+00:00",
-    "text": "Бердянск в направлении Урзуф ДНР\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_231780",
-    "channel": "LPRalarm",
-    "date": "2026-09-08T12:02:41+00:00",
-    "text": "Бердянск и близлежащие в направлении Мариуполь МРШ. Возможны сбросы",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_125578",
-    "channel": "kupolrussia",
-    "date": "2026-09-08T12:03:06+00:00",
-    "text": "Бердянск и близлежащие в направлении Мариуполь МРШ. Возможны сбросы",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_231781",
-    "channel": "LPRalarm",
-    "date": "2026-09-08T12:03:40+00:00",
-    "text": "Ожидаем пуски УАБ или ПРР в направлении Сватово, Северск, Харьковская область РФ",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Харьковская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_125579",
-    "channel": "kupolrussia",
-    "date": "2026-09-08T12:03:46+00:00",
-    "text": "Ожидаем пуски УАБ или ПРР в направлении Сватово, Северск, Харьковская область РФ",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Харьковская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_231782_Константиновка",
-    "channel": "LPRalarm",
-    "date": "2026-09-08T12:04:21+00:00",
-    "text": "Дружковка и близлежащие, Константиновка, Часов Яр, Артёмовск, Соледар и близлежащие авиационная ракетная бомбовая тревога по УАБ",
-    "type": "missile",
-    "location_name": "Константиновка",
-    "region": null,
-    "lat": 51.4472135,
-    "lon": 35.951123
-  },
-  {
     "id": "LPRalarm_231782_Часов Яр",
     "channel": "LPRalarm",
     "date": "2026-09-08T12:04:21+00:00",
@@ -21998,5 +21855,148 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "kupolrussia_126036",
+    "channel": "kupolrussia",
+    "date": "2026-09-09T07:03:07+00:00",
+    "text": "‼️‼️‼️‼️Огромное спасибо Вам за поддержку нашей работы.‼️‼️‼️\n❤️❤️❤️\n\n👇👇👇\nВыразить благодарность администрации канала можно по ссылке, нажав на данный текст или ссылку ниже:\n\nhttps://pay.cloudtips.ru/p/991df385",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_126037",
+    "channel": "kupolrussia",
+    "date": "2026-09-09T07:03:30+00:00",
+    "text": "Калужская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_232347",
+    "channel": "LPRalarm",
+    "date": "2026-09-09T07:03:33+00:00",
+    "text": "Калужская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_232348",
+    "channel": "LPRalarm",
+    "date": "2026-09-09T07:05:35+00:00",
+    "text": "Горловка, Пантелеймоновка ДНР и близлежащие \nОпасность по БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_126038",
+    "channel": "kupolrussia",
+    "date": "2026-09-09T07:06:03+00:00",
+    "text": "Горловка, Пантелеймоновка ДНР и близлежащие \nОпасность по БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_232349",
+    "channel": "LPRalarm",
+    "date": "2026-09-09T07:07:38+00:00",
+    "text": "Краснодарский край отбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_126039",
+    "channel": "kupolrussia",
+    "date": "2026-09-09T07:07:44+00:00",
+    "text": "Краснодарский край отбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_84456",
+    "channel": "locatorru",
+    "date": "2026-09-09T07:07:52+00:00",
+    "text": "Суземка и район, Брянская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_232350_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-09-09T07:10:08+00:00",
+    "text": "Белгородский район опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_126040_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-09-09T07:10:29+00:00",
+    "text": "Белгородский район\nопасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "locatorru_84457",
+    "channel": "locatorru",
+    "date": "2026-09-09T07:10:36+00:00",
+    "text": "Санкино, Новосёлово, Алапаевский район, Свердловская область - возможно прошла группа БПЛА на восток, юго-восток в направлении Тюменской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Свердловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_232351_Все",
+    "channel": "LPRalarm",
+    "date": "2026-09-09T07:10:49+00:00",
+    "text": "Севастополь \nВсе районы - опасность по БПЛА, в т.ч. на электротяге",
+    "type": "drone",
+    "location_name": "Все",
+    "region": null,
+    "lat": 58.0107446,
+    "lon": 56.2819461
+  },
+  {
+    "id": "kupolrussia_126041_Все",
+    "channel": "kupolrussia",
+    "date": "2026-09-09T07:11:08+00:00",
+    "text": "Севастополь \nВсе районы - опасность по БПЛА, в т.ч. на электротяге",
+    "type": "drone",
+    "location_name": "Все",
+    "region": null,
+    "lat": 58.0107446,
+    "lon": 56.2819461
   }
 ]
