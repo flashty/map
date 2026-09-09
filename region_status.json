@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "удмурт": {
-    "display_name": "Республика Удмуртия",
-    "type": "drone",
-    "text": "Республика Удмуртия\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-09T03:57:49+00:00",
-    "expires_at": "2026-09-09T04:57:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -62,10 +52,30 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ с запада",
+    "text": "Донецк и близлежащие \nОпасность по БПЛА и возможным ФПВ \nДНР",
     "channel": "LPRalarm",
-    "updated_at": "2026-09-09T04:44:41+00:00",
-    "expires_at": "2026-09-09T05:44:41+00:00",
+    "updated_at": "2026-09-09T04:52:47+00:00",
+    "expires_at": "2026-09-09T05:52:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область \nТревога по БПЛА сохраняется",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-09T05:00:36+00:00",
+    "expires_at": "2026-09-09T06:00:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "николаевск": {
+    "display_name": "Николаевской областей",
+    "type": "drone",
+    "text": "Стык Одесской и Николаевской областей \nЗапуски БПЛА в акваторию Черного моря",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-09T04:54:43+00:00",
+    "expires_at": "2026-09-09T05:54:43+00:00",
     "count": null,
     "count_approx": false
   }
