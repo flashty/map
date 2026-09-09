@@ -1,14 +1,4 @@
 {
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "missile",
-    "text": "Белгородская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-09T08:37:37+00:00",
-    "expires_at": "2026-09-09T09:37:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тюменск": {
     "display_name": "Тюменскую область",
     "type": "drone",
@@ -16,16 +6,6 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-09-09T08:15:23+00:00",
     "expires_at": "2026-09-09T09:15:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "missile",
-    "text": "Брянская область возможно объявление ракетной опасности",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-09T08:43:25+00:00",
-    "expires_at": "2026-09-09T09:43:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -42,10 +22,10 @@
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
-    "text": "Каховка БПЛА разведчик \n\nХерсонская область РФ",
+    "text": "Скадовск и близлежащие\nХерсонская область РФ\nТревога по БПЛА",
     "channel": "LPRalarm",
-    "updated_at": "2026-09-09T08:25:53+00:00",
-    "expires_at": "2026-09-09T09:25:53+00:00",
+    "updated_at": "2026-09-09T08:54:22+00:00",
+    "expires_at": "2026-09-09T09:54:22+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "орловск": {
-    "display_name": "Орловской области",
-    "type": "missile",
-    "text": "Ивнянский район - Обоянский район - Солнцевский район, Курский район и далее в направлении Орловской области \n\nРакетная тревога",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-09T08:41:05+00:00",
-    "expires_at": "2026-09-09T09:41:05+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "харьковск": {
     "display_name": "Харьковская область",
     "type": "alert",
@@ -79,73 +49,73 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курской области",
-    "type": "missile",
-    "text": "Московская область, Рязанская область \nРакетная опасность с направления стыка Белгородской и Курской области на север",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-09T08:42:42+00:00",
-    "expires_at": "2026-09-09T09:42:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "воронежск": {
-    "display_name": "Воронежской области",
-    "type": "missile",
-    "text": "Белгород, Белгородский район и ситуативно Белгородская область! \nРакетная опасность! Займите Безопасные места!\n\n\nПотенциальная опасность для Курской области и Воронежской области",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-09T08:37:07+00:00",
-    "expires_at": "2026-09-09T09:37:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "missile",
-    "text": "Липецкая область \nТамбовская область \nТульская область \n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-09-09T08:45:24+00:00",
-    "expires_at": "2026-09-09T09:45:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "missile",
-    "text": "Московская область, Рязанская область \nРакетная опасность с направления стыка Белгородской и Курской области на север",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-09T08:42:42+00:00",
-    "expires_at": "2026-09-09T09:42:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "missile",
-    "text": "Московская область, Рязанская область \nРакетная опасность с направления стыка Белгородской и Курской области на север",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-09T08:42:42+00:00",
-    "expires_at": "2026-09-09T09:42:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "missile",
-    "text": "Липецкая область\nРакетная опасность",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-09T08:45:29+00:00",
-    "expires_at": "2026-09-09T09:45:29+00:00",
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Воронежская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-09T08:51:56+00:00",
+    "expires_at": "2026-09-09T09:51:56+00:00",
     "count": null,
     "count_approx": false
   },
   "тамбовск": {
     "display_name": "Тамбовская область",
     "type": "missile",
-    "text": "Липецкая область \nТамбовская область \nТульская область \n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "text": "Липецкая область\nТамбовская область\nСаратовская область\nПензенская лбласть \n\nРакетная опасность по реактивным БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
     "channel": "radar_plus_bpla",
-    "updated_at": "2026-09-09T08:45:24+00:00",
-    "expires_at": "2026-09-09T09:45:24+00:00",
+    "updated_at": "2026-09-09T08:51:28+00:00",
+    "expires_at": "2026-09-09T09:51:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "саратовск": {
+    "display_name": "Саратовская область",
+    "type": "missile",
+    "text": "Саратовская область\nРязанская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-09T08:52:59+00:00",
+    "expires_at": "2026-09-09T09:52:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пензенск": {
+    "display_name": "Пензенская область",
+    "type": "missile",
+    "text": "Саратовская область \nПензенская область \n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-09-09T08:49:25+00:00",
+    "expires_at": "2026-09-09T09:49:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Яснополянское, Солёное Озеро\nРеспублика Крым \nС северо-запада фиксации БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-09T08:51:46+00:00",
+    "expires_at": "2026-09-09T09:51:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "missile",
+    "text": "Саратовская область\nРязанская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-09T08:52:59+00:00",
+    "expires_at": "2026-09-09T09:52:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Борисовский район\nБелгородская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-09T08:53:54+00:00",
+    "expires_at": "2026-09-09T09:53:54+00:00",
     "count": null,
     "count_approx": false
   }
