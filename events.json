@@ -1,148 +1,5 @@
 [
   {
-    "id": "LPRalarm_231554",
-    "channel": "LPRalarm",
-    "date": "2026-09-08T04:54:39+00:00",
-    "text": "Оренбургская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Оренбургская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_88759_Оренбургский",
-    "channel": "vrv_radar",
-    "date": "2026-09-08T04:54:46+00:00",
-    "text": "Оренбургский район \nОренбургская область \nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Оренбургский",
-    "region": "Оренбургская область",
-    "lat": 51.7314215,
-    "lon": 54.8476821
-  },
-  {
-    "id": "radarrussiia_92438_Саратов",
-    "channel": "radarrussiia",
-    "date": "2026-09-08T04:56:31+00:00",
-    "text": "Саратов\nСаратовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Саратов",
-    "region": "Саратовская область",
-    "lat": 51.530018,
-    "lon": 46.034683
-  },
-  {
-    "id": "vrv_radar_88760",
-    "channel": "vrv_radar",
-    "date": "2026-09-08T04:56:53+00:00",
-    "text": "Липецкая область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_88761",
-    "channel": "vrv_radar",
-    "date": "2026-09-08T04:57:11+00:00",
-    "text": "Тамбовская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_92439",
-    "channel": "radarrussiia",
-    "date": "2026-09-08T04:57:16+00:00",
-    "text": "Оренбургская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Оренбургская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_92440_Оренбургский",
-    "channel": "radarrussiia",
-    "date": "2026-09-08T04:57:53+00:00",
-    "text": "Оренбургский район \nОренбургская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Оренбургский",
-    "region": "Оренбургская область",
-    "lat": 51.7314215,
-    "lon": 54.8476821
-  },
-  {
-    "id": "LPRalarm_231555",
-    "channel": "LPRalarm",
-    "date": "2026-09-08T04:58:06+00:00",
-    "text": "Северная часть Макеевки ДНР \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_231556",
-    "channel": "LPRalarm",
-    "date": "2026-09-08T04:59:14+00:00",
-    "text": "Урзуф\nЮрьевка и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_92441",
-    "channel": "radarrussiia",
-    "date": "2026-09-08T04:59:31+00:00",
-    "text": "Липецкая область\nТамбовская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_88762",
-    "channel": "vrv_radar",
-    "date": "2026-09-08T05:01:03+00:00",
-    "text": "Оренбургская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Оренбургская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_125388",
-    "channel": "kupolrussia",
-    "date": "2026-09-08T05:01:20+00:00",
-    "text": "Урзуф\nЮрьевка и близлежащие \nДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_14356",
-    "channel": "radar_plus_bpla",
-    "date": "2026-09-08T05:01:45+00:00",
-    "text": "В районе Оренбурга сбитие БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_231557_Петровский",
     "channel": "LPRalarm",
     "date": "2026-09-08T05:02:10+00:00",
@@ -21998,5 +21855,148 @@
     "region": "Краснодарский край",
     "lat": 45.0702704,
     "lon": 37.755292
+  },
+  {
+    "id": "LPRalarm_232257",
+    "channel": "LPRalarm",
+    "date": "2026-09-09T00:01:40+00:00",
+    "text": "Анапа и ближайшие, тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_125964",
+    "channel": "kupolrussia",
+    "date": "2026-09-09T00:01:45+00:00",
+    "text": "Анапа и ближайшие, тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_92542_Кузнецкий",
+    "channel": "radarrussiia",
+    "date": "2026-09-09T00:01:46+00:00",
+    "text": "Кузнецкий район\nПензенская область\nЕщё фиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Кузнецкий",
+    "region": "Пензенская область",
+    "lat": 53.1878064,
+    "lon": 44.9796903
+  },
+  {
+    "id": "locatorru_84390_Тольятти",
+    "channel": "locatorru",
+    "date": "2026-09-09T00:03:04+00:00",
+    "text": "Тольятти, Сызрань, Самара, Новокуйбышевск, Самарская область - внимание к возможному налёту БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Тольятти",
+    "region": "Самарская область",
+    "lat": 53.5098845,
+    "lon": 49.4189187
+  },
+  {
+    "id": "locatorru_84390_Сызрань",
+    "channel": "locatorru",
+    "date": "2026-09-09T00:03:04+00:00",
+    "text": "Тольятти, Сызрань, Самара, Новокуйбышевск, Самарская область - внимание к возможному налёту БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Сызрань",
+    "region": "Самарская область",
+    "lat": 53.15538,
+    "lon": 48.474121
+  },
+  {
+    "id": "locatorru_84390_Самара",
+    "channel": "locatorru",
+    "date": "2026-09-09T00:03:04+00:00",
+    "text": "Тольятти, Сызрань, Самара, Новокуйбышевск, Самарская область - внимание к возможному налёту БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Самара",
+    "region": "Самарская область",
+    "lat": 53.1956255,
+    "lon": 50.1014927
+  },
+  {
+    "id": "locatorru_84390_Новокуйбышевск",
+    "channel": "locatorru",
+    "date": "2026-09-09T00:03:04+00:00",
+    "text": "Тольятти, Сызрань, Самара, Новокуйбышевск, Самарская область - внимание к возможному налёту БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Новокуйбышевск",
+    "region": "Самарская область",
+    "lat": 53.099243,
+    "lon": 49.948364
+  },
+  {
+    "id": "locatorru_84391",
+    "channel": "locatorru",
+    "date": "2026-09-09T00:04:19+00:00",
+    "text": "Жуковка и близлежащие, Брянская область - пролёты БПЛА в сторону Гришина Слобода, Старь, Бытошь, далее на Людиново, Бетлица, Киров, Калужской области  и далее в тыл.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_88890",
+    "channel": "vrv_radar",
+    "date": "2026-09-09T00:04:27+00:00",
+    "text": "Самарская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_88891_Кузнецкий",
+    "channel": "vrv_radar",
+    "date": "2026-09-09T00:08:38+00:00",
+    "text": "Кузнецкий район\nПензенская область\nЕщё фиксация БПЛА",
+    "type": "drone",
+    "location_name": "Кузнецкий",
+    "region": "Пензенская область",
+    "lat": 53.1878064,
+    "lon": 44.9796903
+  },
+  {
+    "id": "radarrussiia_92543_Кузнецкий",
+    "channel": "radarrussiia",
+    "date": "2026-09-09T00:09:18+00:00",
+    "text": "Кузнецкий район\nПензенская область\nЕщё фиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Кузнецкий",
+    "region": "Пензенская область",
+    "lat": 53.1878064,
+    "lon": 44.9796903
+  },
+  {
+    "id": "vrv_radar_88892_Николаевский",
+    "channel": "vrv_radar",
+    "date": "2026-09-09T00:09:37+00:00",
+    "text": "Николаевский район\nУльяновская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Николаевский",
+    "region": "Ульяновская область",
+    "lat": 53.1039795,
+    "lon": 47.2565168
+  },
+  {
+    "id": "radarrussiia_92544_Николаевский",
+    "channel": "radarrussiia",
+    "date": "2026-09-09T00:13:44+00:00",
+    "text": "Николаевский район\nУльяновская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Николаевский",
+    "region": "Ульяновская область",
+    "lat": 53.1039795,
+    "lon": 47.2565168
   }
 ]
