@@ -22,20 +22,20 @@
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Алькеевский район \nРеспублика Татарстан \nФиксация 18 БПЛА в направлении Нижнекамск \nПодлетное время 06:00\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-09T02:21:15+00:00",
-    "expires_at": "2026-09-09T03:21:15+00:00",
-    "count": 18,
+    "text": "Альметьевск, Бугульма, Заинск, Лениногорск, Чистополь, Республика Татарстан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-09T02:43:51+00:00",
+    "expires_at": "2026-09-09T03:43:51+00:00",
+    "count": null,
     "count_approx": false
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Адлер \nКраснодарский край \nРабота ВКС по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-09T01:54:33+00:00",
-    "expires_at": "2026-09-09T02:54:33+00:00",
+    "text": "Сочи, Адлер, Сириус тревога по БПЛА\nКраснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-09T02:44:21+00:00",
+    "expires_at": "2026-09-09T03:44:21+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,10 +62,10 @@
   "башкортост": {
     "display_name": "Республика Башкортостан",
     "type": "drone",
-    "text": "Уфа \nРеспублика Башкортостан \nВнимание по БПЛА от Республика Татарстан\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-09T02:12:26+00:00",
-    "expires_at": "2026-09-09T03:12:26+00:00",
+    "text": "Республика Башкортостан\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ © ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-09T02:45:13+00:00",
+    "expires_at": "2026-09-09T03:45:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,26 +76,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-09T01:53:22+00:00",
     "expires_at": "2026-09-09T02:53:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "-": {
-    "display_name": "Республика -",
-    "type": "drone",
-    "text": "Чувашская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-09T01:43:02+00:00",
-    "expires_at": "2026-09-09T02:43:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "чуваш": {
-    "display_name": "Республика Чувашия",
-    "type": "drone",
-    "text": "Республика Татарстан\nРеспублика Чувашия \nРеспублика Башкортостан\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-09T01:44:06+00:00",
-    "expires_at": "2026-09-09T02:44:06+00:00",
     "count": null,
     "count_approx": false
   },
@@ -142,11 +122,21 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Вся трасса Р-280 Запорожская область РФ опасность по БПЛА",
+    "text": "Бердянский район \nБердянск и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-09T02:27:41+00:00",
-    "expires_at": "2026-09-09T03:27:41+00:00",
+    "updated_at": "2026-09-09T02:38:59+00:00",
+    "expires_at": "2026-09-09T03:38:59+00:00",
     "count": null,
+    "count_approx": false
+  },
+  "пензенск": {
+    "display_name": "Пензенская область",
+    "type": "drone",
+    "text": "Кузнецкий район\nПензенская область\nФиксация 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-09T02:39:38+00:00",
+    "expires_at": "2026-09-09T03:39:38+00:00",
+    "count": 2,
     "count_approx": false
   }
 }
