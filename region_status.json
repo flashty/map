@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Сочи, Адлер, Сириус тревога по БПЛА\nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-09T02:44:21+00:00",
-    "expires_at": "2026-09-09T03:44:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "оренбургск": {
     "display_name": "Оренбургская область",
     "type": "drone",
@@ -52,20 +42,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Брянская область, тревога по БПЛА сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-09T02:56:30+00:00",
-    "expires_at": "2026-09-09T03:56:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Бердянский район \nБердянск и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-09T02:38:59+00:00",
-    "expires_at": "2026-09-09T03:38:59+00:00",
+    "text": "Карачев и близлежащие \nОпасность по БПЛА \nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-09T03:44:17+00:00",
+    "expires_at": "2026-09-09T04:44:17+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +76,46 @@
     "channel": "vrv_radar",
     "updated_at": "2026-09-09T02:58:07+00:00",
     "expires_at": "2026-09-09T03:58:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "-": {
+    "display_name": "Республика -",
+    "type": "drone",
+    "text": "Ижевск, Воткинск и близлежащие, Удмуртская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-09T03:41:27+00:00",
+    "expires_at": "2026-09-09T04:41:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пермск": {
+    "display_name": "Пермский край",
+    "type": "drone",
+    "text": "Пермский край\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-09T03:39:38+00:00",
+    "expires_at": "2026-09-09T04:39:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "свердловск": {
+    "display_name": "Свердловская область",
+    "type": "drone",
+    "text": "Свердловская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-09T03:39:32+00:00",
+    "expires_at": "2026-09-09T04:39:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "удмурт": {
+    "display_name": "Республика Удмуртия",
+    "type": "drone",
+    "text": "Республика Удмуртия\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-09T03:44:14+00:00",
+    "expires_at": "2026-09-09T04:44:14+00:00",
     "count": null,
     "count_approx": false
   }
