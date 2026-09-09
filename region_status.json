@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарско": {
-    "display_name": "Краснодарского края",
-    "type": "missile",
-    "text": "Экстренная информация РСЧС: Отмена РАКЕТНОЙ ОПАСНОСТИ на территории Краснодарского края. 09.09.26 Телефон 112.",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-09T00:28:09+00:00",
-    "expires_at": "2026-09-09T01:28:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "татарст": {
     "display_name": "Республики Татарстан",
     "type": "drone",
@@ -102,10 +92,30 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Адлер \nСочи \nИ ближайшие \nКраснодарский край \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Адлер \nКраснодарский край \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-09T01:15:46+00:00",
-    "expires_at": "2026-09-09T02:15:46+00:00",
+    "updated_at": "2026-09-09T01:27:18+00:00",
+    "expires_at": "2026-09-09T02:27:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "оренбургск": {
+    "display_name": "Оренбургская область",
+    "type": "drone",
+    "text": "Оренбургская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-09T01:21:04+00:00",
+    "expires_at": "2026-09-09T02:21:04+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "саратовск": {
+    "display_name": "Саратовская область",
+    "type": "drone",
+    "text": "Ивантеевка, Саратовская область - пролёты БПЛА на восток в сторону Пестравка, Большая Глушица, Большая Черниговка. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-09T01:20:19+00:00",
+    "expires_at": "2026-09-09T02:20:19+00:00",
     "count": null,
     "count_approx": false
   }
