@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_231568",
-    "channel": "LPRalarm",
-    "date": "2026-09-08T05:19:52+00:00",
-    "text": "Богатырь \nКурахово и близлежащие \nРакетная опасность\nДНР",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_125400",
-    "channel": "kupolrussia",
-    "date": "2026-09-08T05:20:06+00:00",
-    "text": "Богатырь \nКурахово и близлежащие \nРакетная опасность\nДНР",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_231569",
-    "channel": "LPRalarm",
-    "date": "2026-09-08T05:20:51+00:00",
-    "text": "Мелитопольский район \nМелитополь и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_125401",
-    "channel": "kupolrussia",
-    "date": "2026-09-08T05:20:59+00:00",
-    "text": "Мелитопольский район \nМелитополь и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_231570",
-    "channel": "LPRalarm",
-    "date": "2026-09-08T05:23:05+00:00",
-    "text": "Богатырь\nКурахово ДНР ракетная опасность\nПовторно",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_231571",
-    "channel": "LPRalarm",
-    "date": "2026-09-08T05:26:18+00:00",
-    "text": "Запорожская область РФ \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_125402",
-    "channel": "kupolrussia",
-    "date": "2026-09-08T05:26:24+00:00",
-    "text": "Запорожская область РФ \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_88766",
     "channel": "vrv_radar",
     "date": "2026-09-08T05:29:01+00:00",
@@ -21998,5 +21921,82 @@
     "region": "Пензенская область",
     "lat": 52.7787253,
     "lon": 46.690152
+  },
+  {
+    "id": "vrv_radar_88901_Неверкинский",
+    "channel": "vrv_radar",
+    "date": "2026-09-09T00:34:06+00:00",
+    "text": "Неверкинский район\nПензенская область\nЕщё фиксация БПЛА",
+    "type": "drone",
+    "location_name": "Неверкинский",
+    "region": "Пензенская область",
+    "lat": 52.7787253,
+    "lon": 46.690152
+  },
+  {
+    "id": "radarrussiia_92549_Неверкинский",
+    "channel": "radarrussiia",
+    "date": "2026-09-09T00:36:28+00:00",
+    "text": "Неверкинский район\nПензенская область\nЕщё фиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Неверкинский",
+    "region": "Пензенская область",
+    "lat": 52.7787253,
+    "lon": 46.690152
+  },
+  {
+    "id": "vrv_radar_88902",
+    "channel": "vrv_radar",
+    "date": "2026-09-09T00:39:18+00:00",
+    "text": "Неверкинский район\nПензенская область\nПродолжаются фиксации БПЛА в сторону Ульяновской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14373",
+    "channel": "radar_plus_bpla",
+    "date": "2026-09-09T00:41:52+00:00",
+    "text": "От 30 БПЛА через Пензенскую, Самарскую и Ульяновскую области в направлении Республики Татарстан.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ульяновскую области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_88903",
+    "channel": "vrv_radar",
+    "date": "2026-09-09T00:44:22+00:00",
+    "text": "Смоленская область\nОпасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_92550",
+    "channel": "radarrussiia",
+    "date": "2026-09-09T00:45:17+00:00",
+    "text": "Неверкинский район\nПензенская область\nПродолжаются фиксации БПЛА в сторону Ульяновской области\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_92551",
+    "channel": "radarrussiia",
+    "date": "2026-09-09T00:45:37+00:00",
+    "text": "Смоленская область\nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
   }
 ]
