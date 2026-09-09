@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-09-09T21:47:47+00:00",
-        "last_updated": "2026-09-09T22:04:28+00:00",
-        "path_labels": [
-          "Глазуновский (Орловская область)",
-          "Змиёвка (Орловская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.2419084,
-            52.4484748
-          ],
-          [
-            36.3730739,
-            52.6671693
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
