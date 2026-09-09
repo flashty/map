@@ -10,12 +10,12 @@
     "count_approx": false
   },
   "тюменск": {
-    "display_name": "Тюменской области",
+    "display_name": "Тюменская область",
     "type": "drone",
-    "text": "Санкино, Новосёлово, Алапаевский район, Свердловская область - возможно прошла группа БПЛА на восток, юго-восток в направлении Тюменской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-09T07:10:36+00:00",
-    "expires_at": "2026-09-09T08:10:36+00:00",
+    "text": "Тюменская область - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-09-09T07:43:37+00:00",
+    "expires_at": "2026-09-09T08:43:37+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,36 +36,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-09T07:03:33+00:00",
     "expires_at": "2026-09-09T08:03:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Смоленская область\nТверская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-09T06:42:05+00:00",
-    "expires_at": "2026-09-09T07:42:05+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тверск": {
-    "display_name": "Тверская область",
-    "type": "drone",
-    "text": "Тверская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-09T06:44:29+00:00",
-    "expires_at": "2026-09-09T07:44:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ханты-мансийск": {
-    "display_name": "Ханты-Мансийский автономный округ",
-    "type": "drone",
-    "text": "Ханты-Мансийский автономный округ — Югра - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-09T06:42:55+00:00",
-    "expires_at": "2026-09-09T07:42:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +96,36 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-09T07:23:36+00:00",
     "expires_at": "2026-09-09T08:23:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "От Новокиевка в направлении Каланчак тревога по БПЛА Хорнет \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-09T07:44:54+00:00",
+    "expires_at": "2026-09-09T08:44:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "челябинск": {
+    "display_name": "Челябинская область",
+    "type": "drone",
+    "text": "Челябинская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-09T07:42:56+00:00",
+    "expires_at": "2026-09-09T08:42:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "alert",
+    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-09T07:44:17+00:00",
+    "expires_at": "2026-09-09T08:44:17+00:00",
     "count": null,
     "count_approx": false
   }
