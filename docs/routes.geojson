@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-09T04:59:56+00:00",
+        "last_updated": "2026-09-09T05:16:38+00:00",
+        "path_labels": [
+          "Навлинский (Брянская область)",
+          "Брянск"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.4096754,
+            52.8910027
+          ],
+          [
+            34.3668288,
+            53.2423778
+          ]
+        ]
+      }
+    }
+  ]
 }
