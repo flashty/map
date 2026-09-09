@@ -1,44 +1,4 @@
 {
-  "пермск": {
-    "display_name": "Пермский край",
-    "type": "drone",
-    "text": "Кишертский МО \nПермский край\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-09T05:39:48+00:00",
-    "expires_at": "2026-09-09T06:39:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "свердловск": {
-    "display_name": "Свердловская область",
-    "type": "drone",
-    "text": "Екатеринбург\nСвердловская область\nФиксация БПЛА в вашем направлении\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-09T05:39:29+00:00",
-    "expires_at": "2026-09-09T06:39:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Донецк, Горловка и близлежащие \nОпасность по БПЛА сохраняется \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-09T05:35:38+00:00",
-    "expires_at": "2026-09-09T06:35:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Осипенко, Бердянск, Луначарское кольцо \nИ близлежащие \nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-09T05:44:34+00:00",
-    "expires_at": "2026-09-09T06:44:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -66,6 +26,76 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-09T06:17:37+00:00",
     "expires_at": "2026-09-09T07:17:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тюменск": {
+    "display_name": "Тюменская область",
+    "type": "drone",
+    "text": "Тюменская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-09T06:40:21+00:00",
+    "expires_at": "2026-09-09T07:40:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Гвардейское и близлежащие \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-09T06:36:28+00:00",
+    "expires_at": "2026-09-09T07:36:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калужская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-09T06:41:14+00:00",
+    "expires_at": "2026-09-09T07:41:14+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Смоленская область\nТверская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-09T06:42:05+00:00",
+    "expires_at": "2026-09-09T07:42:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Тверская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-09T06:44:29+00:00",
+    "expires_at": "2026-09-09T07:44:29+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ханты-мансийск": {
+    "display_name": "Ханты-Мансийский автономный округ",
+    "type": "drone",
+    "text": "Ханты-Мансийский автономный округ — Югра - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-09T06:42:55+00:00",
+    "expires_at": "2026-09-09T07:42:55+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Стародубский район тревога по БПЛА Дартс\n\nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-09T06:44:42+00:00",
+    "expires_at": "2026-09-09T07:44:42+00:00",
     "count": null,
     "count_approx": false
   }
