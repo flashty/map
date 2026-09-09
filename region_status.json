@@ -22,11 +22,11 @@
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Альметьевск\nБугульма\nЛениногорск\nРеспублика Татарстан \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-09T02:11:44+00:00",
-    "expires_at": "2026-09-09T03:11:44+00:00",
-    "count": null,
+    "text": "Алькеевский район \nРеспублика Татарстан \nФиксация 18 БПЛА в направлении Нижнекамск \nПодлетное время 06:00\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-09T02:21:15+00:00",
+    "expires_at": "2026-09-09T03:21:15+00:00",
+    "count": 18,
     "count_approx": false
   },
   "краснодарск": {
@@ -42,10 +42,10 @@
   "оренбургск": {
     "display_name": "Оренбургская область",
     "type": "drone",
-    "text": "Оренбургская область \nОт Бузулука до Оренбурга \nВнимание по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Оренбург\nОренбургская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-09T02:06:04+00:00",
-    "expires_at": "2026-09-09T03:06:04+00:00",
+    "updated_at": "2026-09-09T02:26:00+00:00",
+    "expires_at": "2026-09-09T03:26:00+00:00",
     "count": null,
     "count_approx": false
   },
@@ -119,16 +119,6 @@
     "count": null,
     "count_approx": false
   },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Тульская область\nМосковская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-09T02:08:07+00:00",
-    "expires_at": "2026-09-09T03:08:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
@@ -139,13 +129,23 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
+  "крым": {
+    "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Думиничский район \nКалужская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-09T02:10:29+00:00",
-    "expires_at": "2026-09-09T03:10:29+00:00",
+    "text": "Черноморское, тревога по БПЛА типа Баба яга\nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-09T02:18:28+00:00",
+    "expires_at": "2026-09-09T03:18:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Вся трасса Р-280 Запорожская область РФ опасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-09T02:27:41+00:00",
+    "expires_at": "2026-09-09T03:27:41+00:00",
     "count": null,
     "count_approx": false
   }
