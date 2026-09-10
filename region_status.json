@@ -22,60 +22,50 @@
   "тамбовск": {
     "display_name": "Тамбовская область",
     "type": "drone",
-    "text": "Тамбовский район\nТамбовская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-10T22:22:00+00:00",
-    "expires_at": "2026-09-10T23:22:00+00:00",
+    "text": "Инжавинский район\nТамбовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-10T23:23:57+00:00",
+    "expires_at": "2026-09-11T00:23:57+00:00",
     "count": null,
     "count_approx": false
   },
   "волгоградск": {
-    "display_name": "Волгоградская область",
+    "display_name": "Волгоградской областей",
     "type": "drone",
-    "text": "Кумылженский район\nЕланский район\nДаниловский район\nВолгоградская область\nФиксация от 4 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-10T22:36:48+00:00",
-    "expires_at": "2026-09-10T23:36:48+00:00",
-    "count": 4,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульской области",
-    "type": "drone",
-    "text": "Пителино, Ермишь, Кадом, Рязанская область - ещё пролёты БПЛА со стороны Тульской области в сторону Нижегородской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-10T23:06:53+00:00",
-    "expires_at": "2026-09-11T00:06:53+00:00",
+    "text": "Стык Ростовской и Волгоградской областей\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-10T23:27:56+00:00",
+    "expires_at": "2026-09-11T00:27:56+00:00",
     "count": null,
     "count_approx": false
   },
-  "саратовск": {
-    "display_name": "Саратовская область",
+  "тульск": {
+    "display_name": "Тульская область",
     "type": "drone",
-    "text": "Саратов\nЭнгельс\nСаратовская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу © \"КРАСНЫЙ УРОВЕНЬ\"\n(Х © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-10T23:13:21+00:00",
-    "expires_at": "2026-09-11T00:13:21+00:00",
+    "text": "Венёвский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-10T23:19:14+00:00",
+    "expires_at": "2026-09-11T00:19:14+00:00",
     "count": null,
     "count_approx": false
   },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Хвастовичский район\nКалужская область\nФиксация 2 БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-10T22:29:42+00:00",
-    "expires_at": "2026-09-10T23:29:42+00:00",
+    "text": "Мещовский район\nКалужская область\nФиксация 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-10T23:17:20+00:00",
+    "expires_at": "2026-09-11T00:17:20+00:00",
     "count": 2,
     "count_approx": false
   },
   "воронежск": {
-    "display_name": "Воронежской областей",
+    "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Саратовская область - внимание к налёту или пролёту БПЛА на соседние регионы. \n\nИдут от Волгоградской и Воронежской областей. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-10T23:02:27+00:00",
-    "expires_at": "2026-09-11T00:02:27+00:00",
+    "text": "Репьёвский район\nВоронежская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-10T23:29:55+00:00",
+    "expires_at": "2026-09-11T00:29:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,16 +86,6 @@
     "channel": "locatorru",
     "updated_at": "2026-09-10T22:56:58+00:00",
     "expires_at": "2026-09-10T23:56:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Счастье и близлежащие\nЛНР\nТревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-10T22:19:55+00:00",
-    "expires_at": "2026-09-10T23:19:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -202,11 +182,11 @@
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Неверкинский район\nПензенская область\nЕщё фиксация 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-10T23:09:30+00:00",
-    "expires_at": "2026-09-11T00:09:30+00:00",
-    "count": 2,
+    "text": "Неверкинский район\nПензенская область\nЕщё фиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-10T23:30:27+00:00",
+    "expires_at": "2026-09-11T00:30:27+00:00",
+    "count": null,
     "count_approx": false
   },
   "донецк": {
@@ -216,6 +196,56 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-10T23:06:11+00:00",
     "expires_at": "2026-09-11T00:06:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловскую область",
+    "type": "drone",
+    "text": "Ещё группа БПЛА от Сумской области в направлении Курской области на Хомутовский район и далее Орловскую область. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-10T23:21:54+00:00",
+    "expires_at": "2026-09-11T00:21:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "саратовск": {
+    "display_name": "Саратовская область",
+    "type": "drone",
+    "text": "Аркадакский район\nКалининский район\nСаратовская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-10T23:30:48+00:00",
+    "expires_at": "2026-09-11T00:30:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курской области",
+    "type": "drone",
+    "text": "Ещё группа БПЛА от Сумской области в направлении Курской области на Хомутовский район и далее Орловскую область. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-10T23:21:54+00:00",
+    "expires_at": "2026-09-11T00:21:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "drone",
+    "text": "Елецкий район\nЛипецкая область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-10T23:22:31+00:00",
+    "expires_at": "2026-09-11T00:22:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Стародубский район  и близлежащие\nТревога по БПЛА, повторно\nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-10T23:28:05+00:00",
+    "expires_at": "2026-09-11T00:28:05+00:00",
     "count": null,
     "count_approx": false
   }
