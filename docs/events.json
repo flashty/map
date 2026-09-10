@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_232386",
-    "channel": "LPRalarm",
-    "date": "2026-09-09T08:30:27+00:00",
-    "text": "Брянская область опасность по реактивным БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_126073",
-    "channel": "kupolrussia",
-    "date": "2026-09-09T08:30:49+00:00",
-    "text": "Брянская область опасность по реактивным БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_232387",
-    "channel": "LPRalarm",
-    "date": "2026-09-09T08:30:56+00:00",
-    "text": "Опасность БпЛА Мелитопольский, Приазовский Приморский, Бердянский районы \n\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_126074",
-    "channel": "kupolrussia",
-    "date": "2026-09-09T08:31:51+00:00",
-    "text": "Мелитопольский, Приазовский Приморский, Бердянский районы \n\nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_232388",
-    "channel": "LPRalarm",
-    "date": "2026-09-09T08:35:41+00:00",
-    "text": "От Мелитополь в направлении Акимовка тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_126075",
-    "channel": "kupolrussia",
-    "date": "2026-09-09T08:35:53+00:00",
-    "text": "От Мелитополь в направлении Акимовка тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_232389",
-    "channel": "LPRalarm",
-    "date": "2026-09-09T08:36:42+00:00",
-    "text": "Черниговский район Запорожская область РФ фиксация БПЛА. Возможно в направлении Бердянск",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_126076",
     "channel": "kupolrussia",
     "date": "2026-09-09T08:36:52+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_233023",
+    "channel": "LPRalarm",
+    "date": "2026-09-10T09:17:55+00:00",
+    "text": "Полтавка - Новогродовка ДНР и близлежащие \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_126644",
+    "channel": "kupolrussia",
+    "date": "2026-09-10T09:18:07+00:00",
+    "text": "Полтавка - Новогродовка ДНР и близлежащие \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_89254_Дмитровский",
+    "channel": "vrv_radar",
+    "date": "2026-09-10T09:23:38+00:00",
+    "text": "Дмитровский район\nОрловская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Дмитровский",
+    "region": "Орловская область",
+    "lat": 52.6670934,
+    "lon": 35.5664814
+  },
+  {
+    "id": "radarrussiia_92834_Дмитровский",
+    "channel": "radarrussiia",
+    "date": "2026-09-10T09:24:34+00:00",
+    "text": "Дмитровский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Дмитровский",
+    "region": "Орловская область",
+    "lat": 52.6670934,
+    "lon": 35.5664814
+  },
+  {
+    "id": "LPRalarm_233024",
+    "channel": "LPRalarm",
+    "date": "2026-09-10T09:29:29+00:00",
+    "text": "Анапа и близлежащие \nОпасность по БПЛА \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_126645",
+    "channel": "kupolrussia",
+    "date": "2026-09-10T09:29:53+00:00",
+    "text": "Анапа и близлежащие \nКраснодарский край\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_89255",
+    "channel": "vrv_radar",
+    "date": "2026-09-10T09:30:39+00:00",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
