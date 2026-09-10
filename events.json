@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_88999",
-    "channel": "vrv_radar",
-    "date": "2026-09-09T06:33:31+00:00",
-    "text": "Краснодарский край\nОтбой опасности по БЭК",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_92631",
-    "channel": "radarrussiia",
-    "date": "2026-09-09T06:33:57+00:00",
-    "text": "Тюменская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тюменская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_126020",
-    "channel": "kupolrussia",
-    "date": "2026-09-09T06:34:13+00:00",
-    "text": "Тюменская область и ХМАО Опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тюменская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_232328",
     "channel": "LPRalarm",
     "date": "2026-09-09T06:34:16+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Донецкая область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "kupolrussia_126582",
+    "channel": "kupolrussia",
+    "date": "2026-09-10T07:03:22+00:00",
+    "text": "‼️‼️‼️‼️Огромное спасибо Вам за поддержку нашей работы.‼️‼️‼️\n❤️❤️❤️\n\n👇👇👇\nВыразить благодарность администрации канала можно по ссылке, нажав на данный текст или ссылку ниже:\n\nhttps://pay.cloudtips.ru/p/991df385",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_89242_Медынский",
+    "channel": "vrv_radar",
+    "date": "2026-09-10T07:05:55+00:00",
+    "text": "Медынский район\nКалужская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Медынский",
+    "region": "Калужская область",
+    "lat": 55.079008,
+    "lon": 35.8754388
+  },
+  {
+    "id": "vrv_radar_89243_Ульяновский",
+    "channel": "vrv_radar",
+    "date": "2026-09-10T07:05:59+00:00",
+    "text": "Ульяновский район\nКалужская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Ульяновский",
+    "region": "Калужская область",
+    "lat": 53.7054494,
+    "lon": 35.6146918
   }
 ]
