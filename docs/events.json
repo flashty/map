@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_232407_Борисовский",
-    "channel": "LPRalarm",
-    "date": "2026-09-09T08:53:45+00:00",
-    "text": "Борисовский район опасность по БПЛА \n\nБелгородская область",
-    "type": "drone",
-    "location_name": "Борисовский",
-    "region": "Белгородская область",
-    "lat": 50.5951942,
-    "lon": 36.011682
-  },
-  {
-    "id": "kupolrussia_126091_Борисовский",
-    "channel": "kupolrussia",
-    "date": "2026-09-09T08:53:54+00:00",
-    "text": "Борисовский район\nБелгородская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Борисовский",
-    "region": "Белгородская область",
-    "lat": 50.5951942,
-    "lon": 36.011682
-  },
-  {
-    "id": "kupolrussia_126092",
-    "channel": "kupolrussia",
-    "date": "2026-09-09T08:54:10+00:00",
-    "text": "Скадовск и близлежащие\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_232408",
-    "channel": "LPRalarm",
-    "date": "2026-09-09T08:54:22+00:00",
-    "text": "Скадовск и близлежащие\nХерсонская область РФ\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_232409",
-    "channel": "LPRalarm",
-    "date": "2026-09-09T09:01:31+00:00",
-    "text": "Дятьково и близлежащие \nОпасность по БПЛА \nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_126093",
-    "channel": "kupolrussia",
-    "date": "2026-09-09T09:01:48+00:00",
-    "text": "Дятьково и близлежащие \nБрянская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_232410",
-    "channel": "LPRalarm",
-    "date": "2026-09-09T09:03:04+00:00",
-    "text": "Каланчак, Чаплынский район и близлежащие, Новотроицкий район, Скадовский район \n\nТревога по БПЛА от Подо-Калиновка Херсонская область РФ \n\nСевер Крыма внимание с указанного направления",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_126094",
-    "channel": "kupolrussia",
-    "date": "2026-09-09T09:03:12+00:00",
-    "text": "Каланчак, Чаплынский район и близлежащие, Новотроицкий район, Скадовский район \n\nТревога по БПЛА от Подо-Калиновка Херсонская область РФ \n\nСевер Крыма внимание с указанного направления",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_126095",
-    "channel": "kupolrussia",
-    "date": "2026-09-09T09:04:11+00:00",
-    "text": "Отбой ракетной опасности ранее объявленные тыловые регионы",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_232411",
     "channel": "LPRalarm",
     "date": "2026-09-09T09:04:14+00:00",
@@ -21996,6 +21897,105 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Астраханской областей",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_92841_Людиновский",
+    "channel": "radarrussiia",
+    "date": "2026-09-10T10:01:58+00:00",
+    "text": "Людиновский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Людиновский",
+    "region": "Калужская область",
+    "lat": 53.8940803,
+    "lon": 34.4615879
+  },
+  {
+    "id": "vrv_radar_89267_Людиново",
+    "channel": "vrv_radar",
+    "date": "2026-09-10T10:02:19+00:00",
+    "text": "Людиново\nКалужская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Людиново",
+    "region": "Калужская область",
+    "lat": 53.8646239,
+    "lon": 34.447908
+  },
+  {
+    "id": "radarrussiia_92842_Людиново",
+    "channel": "radarrussiia",
+    "date": "2026-09-10T10:03:02+00:00",
+    "text": "Людиново\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Людиново",
+    "region": "Калужская область",
+    "lat": 53.8646239,
+    "lon": 34.447908
+  },
+  {
+    "id": "locatorru_84562",
+    "channel": "locatorru",
+    "date": "2026-09-10T10:04:26+00:00",
+    "text": "Республика Адыгея - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_233033",
+    "channel": "LPRalarm",
+    "date": "2026-09-10T10:05:10+00:00",
+    "text": "Комар ДНР уаб",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_126654",
+    "channel": "kupolrussia",
+    "date": "2026-09-10T10:05:14+00:00",
+    "text": "Комар ДНР уаб",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_84563",
+    "channel": "locatorru",
+    "date": "2026-09-10T10:06:09+00:00",
+    "text": "10/09/2026 13:00 МСК.\n\nОпасность по БПЛА:\n\n🔻Брянская область;\n🔻Смоленская область;\n🔻Калужская область;\n🔻Орловская область;\n🔻Тульская область;\n🔻Московская область;\n🔻Курская область;\n🔻Белгородская область;\n🔻Краснодарский край. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_233034",
+    "channel": "LPRalarm",
+    "date": "2026-09-10T10:07:38+00:00",
+    "text": "Верхнеторецкое, Красный Партизан, Пантелеймоновка ДНР и близлежащие \nОпасность по БПЛА Шарк",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_126655",
+    "channel": "kupolrussia",
+    "date": "2026-09-10T10:08:01+00:00",
+    "text": "Верхнеторецкое, Красный Партизан, Пантелеймоновка ДНР и близлежащие \nОпасность по БПЛА Шарк",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
