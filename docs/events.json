@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_89032",
-    "channel": "vrv_radar",
-    "date": "2026-09-09T12:45:57+00:00",
-    "text": "Геленджик и близлежащие\nКраснодарский край\nОпасность по БПЛА повторно",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_232481_Центральные",
-    "channel": "LPRalarm",
-    "date": "2026-09-09T12:46:08+00:00",
-    "text": "Центральные районы Крыма \nОпасность по БПЛА с севера",
-    "type": "drone",
-    "location_name": "Центральные",
-    "region": null,
-    "lat": 54.9392029,
-    "lon": 43.3283689
-  },
-  {
-    "id": "kupolrussia_126167_Центральные",
-    "channel": "kupolrussia",
-    "date": "2026-09-09T12:46:27+00:00",
-    "text": "Центральные районы Крыма \n с севера\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Центральные",
-    "region": null,
-    "lat": 54.9392029,
-    "lon": 43.3283689
-  },
-  {
-    "id": "kupolrussia_126167_Крыма",
-    "channel": "kupolrussia",
-    "date": "2026-09-09T12:46:27+00:00",
-    "text": "Центральные районы Крыма \n с севера\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Крыма",
-    "region": null,
-    "lat": 54.9683122,
-    "lon": 48.3030779
-  },
-  {
-    "id": "LPRalarm_232482",
-    "channel": "LPRalarm",
-    "date": "2026-09-09T12:46:35+00:00",
-    "text": "Геленджик и близлежащие \nКраснодарский край \nОпасность по БПЛА повторно",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_126168",
-    "channel": "kupolrussia",
-    "date": "2026-09-09T12:46:51+00:00",
-    "text": "Геленджик и близлежащие \nКраснодарский край \nповторно\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_232483",
     "channel": "LPRalarm",
     "date": "2026-09-09T12:49:50+00:00",
@@ -21998,5 +21932,71 @@
     "region": null,
     "lat": 55.6725952,
     "lon": 37.4857089
+  },
+  {
+    "id": "radarrussiia_92848_Калуга",
+    "channel": "radarrussiia",
+    "date": "2026-09-10T14:37:14+00:00",
+    "text": "Калуга\nКалужская область \nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Калуга",
+    "region": "Калужская область",
+    "lat": 54.5101087,
+    "lon": 36.2598115
+  },
+  {
+    "id": "radarrussiia_92849",
+    "channel": "radarrussiia",
+    "date": "2026-09-10T14:37:40+00:00",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_233092",
+    "channel": "LPRalarm",
+    "date": "2026-09-10T14:37:46+00:00",
+    "text": "Волноваха \nЗугрэс\nНаправление на Мариуполь и Снежное\nИ близлежащие \nТревога по БПЛА на электротяге",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_126706_Снежное",
+    "channel": "kupolrussia",
+    "date": "2026-09-10T14:38:28+00:00",
+    "text": "Волноваха \nЗугрэс\nНаправление на Мариуполь и Снежное\nИ близлежащие \n на электротяге\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Снежное",
+    "region": null,
+    "lat": 56.5036175,
+    "lon": 57.1800699
+  },
+  {
+    "id": "LPRalarm_233093",
+    "channel": "LPRalarm",
+    "date": "2026-09-10T14:39:19+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_126707",
+    "channel": "kupolrussia",
+    "date": "2026-09-10T14:39:32+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
   }
 ]
