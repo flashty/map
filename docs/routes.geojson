@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-10T15:33:55+00:00",
+        "last_updated": "2026-09-10T16:11:29+00:00",
+        "path_labels": [
+          "Медвенский",
+          "Строитель (Белгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.0749605,
+            51.4389125
+          ],
+          [
+            36.485428,
+            50.785236
+          ]
+        ]
+      }
+    }
+  ]
 }
