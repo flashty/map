@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_88944",
-    "channel": "vrv_radar",
-    "date": "2026-09-09T02:58:07+00:00",
-    "text": "Нурлатский район\nРеспублика Татарстаын\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Татарстаын",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_88945_Алькеевский",
-    "channel": "vrv_radar",
-    "date": "2026-09-09T02:58:22+00:00",
-    "text": "Алькеевский район\nРеспублика Татарстан\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Алькеевский",
-    "region": "Республика Татарстан",
-    "lat": 54.7809174,
-    "lon": 49.9146203
-  },
-  {
-    "id": "radarrussiia_92594_Нурлатский",
-    "channel": "radarrussiia",
-    "date": "2026-09-09T02:58:28+00:00",
-    "text": "Нурлатский район\nРеспублика Татарстан\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Нурлатский",
-    "region": "Республика Татарстан",
-    "lat": 54.427187,
-    "lon": 50.8090429
-  },
-  {
     "id": "vrv_radar_88946_Мелекесский",
     "channel": "vrv_radar",
     "date": "2026-09-09T02:58:46+00:00",
@@ -21996,6 +21963,39 @@
     "type": "alert",
     "location_name": null,
     "region": "Республика Дагестан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_84553",
+    "channel": "locatorru",
+    "date": "2026-09-10T01:36:17+00:00",
+    "text": "Курская область, Орловская область, Липецкая область, Тульская область, Брянская область, Калужская область - отбой ракетной опасности! \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_232867",
+    "channel": "LPRalarm",
+    "date": "2026-09-10T01:43:23+00:00",
+    "text": "Мелитополь и близлежащие, тревога по БпЛА повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_126507",
+    "channel": "kupolrussia",
+    "date": "2026-09-10T01:43:29+00:00",
+    "text": "Мелитополь и близлежащие, тревога по БпЛА повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
