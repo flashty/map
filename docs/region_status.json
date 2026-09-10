@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "От Брянки в сторону Алчевска\nЛНР\nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-10T11:23:13+00:00",
-    "expires_at": "2026-09-10T12:23:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -42,10 +32,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Карачев, Навля, Брянская область - внимание по БПЛА от Локоть. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-10T11:37:48+00:00",
-    "expires_at": "2026-09-10T12:37:48+00:00",
+    "text": "Клинцы и близлежащие \nБрянская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-10T12:17:39+00:00",
+    "expires_at": "2026-09-10T13:17:39+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +66,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-10T12:10:14+00:00",
     "expires_at": "2026-09-10T13:10:14+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловскую область",
+    "type": "drone",
+    "text": "Обоянский район\nКурский район \nСолнцевский район и далее на Орловскую область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-10T12:21:26+00:00",
+    "expires_at": "2026-09-10T13:21:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Мирное и близлежащие опасность по БПЛА Хорнет \n\nХерсонская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-10T12:28:25+00:00",
+    "expires_at": "2026-09-10T13:28:25+00:00",
     "count": null,
     "count_approx": false
   }
