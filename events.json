@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_126008",
-    "channel": "kupolrussia",
-    "date": "2026-09-09T05:44:34+00:00",
-    "text": "Осипенко, Бердянск, Луначарское кольцо \nИ близлежащие \nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_232315",
-    "channel": "LPRalarm",
-    "date": "2026-09-09T05:49:29+00:00",
-    "text": "Валуйки \nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_84444",
-    "channel": "locatorru",
-    "date": "2026-09-09T05:49:35+00:00",
-    "text": "За прошедшую ночь силами противовоздушной обороны было уничтожено 596 БПЛА над территориями Белгородской, Брянской, Калужской, Курской, Орловской, Оренбургской, Ростовской, Самарской, Тульской, Ульяновской областей, Краснодарского края, Республики Крым и над акваторией Черного моря. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Белгородской областей",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_232316",
-    "channel": "LPRalarm",
-    "date": "2026-09-09T05:49:43+00:00",
-    "text": "Стерегущее и в направлении Тарханкут с моря опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_126009",
     "channel": "kupolrussia",
     "date": "2026-09-09T05:50:00+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Белгородская область",
     "lat": 50.4049335,
     "lon": 36.8796822
+  },
+  {
+    "id": "radar_plus_bpla_14411",
+    "channel": "radar_plus_bpla",
+    "date": "2026-09-10T06:05:58+00:00",
+    "text": "Отбой опасности БПЛА по всем ранее объявленным регионам.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_232937",
+    "channel": "LPRalarm",
+    "date": "2026-09-10T06:08:06+00:00",
+    "text": "Авиационная ракетная бомбовая опасность \nХерсонская область РФ,\nЗапорожская область РФ,\nЛДНР",
+    "type": "missile",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_126567",
+    "channel": "kupolrussia",
+    "date": "2026-09-10T06:08:34+00:00",
+    "text": "Херсонская область РФ\nЗапорожская область РФ\nЛДНР\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_232938",
+    "channel": "LPRalarm",
+    "date": "2026-09-10T06:10:18+00:00",
+    "text": "Новоандреевка \nФиксации БПЛА на северо восток\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
   }
 ]
