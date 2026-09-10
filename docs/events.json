@@ -1,38 +1,5 @@
 [
   {
-    "id": "locatorru_84425_Удмуртская",
-    "channel": "locatorru",
-    "date": "2026-09-09T03:37:16+00:00",
-    "text": "Удмуртская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Удмуртская",
-    "region": "Республика -",
-    "lat": 55.9295327,
-    "lon": 52.1436421
-  },
-  {
-    "id": "locatorru_84426",
-    "channel": "locatorru",
-    "date": "2026-09-09T03:37:35+00:00",
-    "text": "Саратовская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_84427",
-    "channel": "locatorru",
-    "date": "2026-09-09T03:39:18+00:00",
-    "text": "Пермский край, Свердловская область - опасность по БПЛА от Республики Башкортостан. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Пермский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_88958",
     "channel": "vrv_radar",
     "date": "2026-09-09T03:39:32+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Дагестан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_232875",
+    "channel": "LPRalarm",
+    "date": "2026-09-10T02:49:03+00:00",
+    "text": "Отбой ракетной опасности по ранее объявленным",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_126514",
+    "channel": "kupolrussia",
+    "date": "2026-09-10T02:49:16+00:00",
+    "text": "Отбой ракетной опасности по ранее объявленным",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_84556",
+    "channel": "locatorru",
+    "date": "2026-09-10T02:52:24+00:00",
+    "text": "Жуковка и близлежащие, Брянская область - фиксации БПЛА в сторону Гришина Слобода, Старь, Бытошь, далее на Людиново, Бетлица, Киров, Калужской области  и далее в тыл.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
