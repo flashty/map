@@ -1,21 +1,21 @@
 {
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Донецк ДНР и близлежащие \nОпасность по БПЛА сохраняется, ещё фиксации. Будьте предельно осторожными!",
+    "type": "missile",
+    "text": "ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-10T17:35:26+00:00",
-    "expires_at": "2026-09-10T18:35:26+00:00",
+    "updated_at": "2026-09-10T18:10:39+00:00",
+    "expires_at": "2026-09-10T19:10:39+00:00",
     "count": null,
     "count_approx": false
   },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Мценский район\nОрловская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Орел\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-10T17:58:13+00:00",
-    "expires_at": "2026-09-10T18:58:13+00:00",
+    "updated_at": "2026-09-10T18:15:32+00:00",
+    "expires_at": "2026-09-10T19:15:32+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,10 +52,10 @@
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Воронежская область \nОпасность по БПЛА от Белгородской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-10T17:42:43+00:00",
-    "expires_at": "2026-09-10T18:42:43+00:00",
+    "text": "Кантемировский район\nВоронежская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-10T18:11:57+00:00",
+    "expires_at": "2026-09-10T19:11:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,20 +72,20 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Калужская область\nТульская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-10T17:41:07+00:00",
-    "expires_at": "2026-09-10T18:41:07+00:00",
+    "text": "Сухиничский район\nКалужская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-10T18:13:11+00:00",
+    "expires_at": "2026-09-10T19:13:11+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
-    "display_name": "Тульская область",
+    "display_name": "Тульской области",
     "type": "drone",
-    "text": "Калужская область\nТульская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-10T17:41:07+00:00",
-    "expires_at": "2026-09-10T18:41:07+00:00",
+    "text": "Залегощь и близлежащие Орловская область и далее в направлении Тульской области \nТревога по БПЛА сохраняется",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-10T18:13:58+00:00",
+    "expires_at": "2026-09-10T19:13:58+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +96,66 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-10T18:00:42+00:00",
     "expires_at": "2026-09-10T19:00:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "missile",
+    "text": "ЛНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-10T18:11:15+00:00",
+    "expires_at": "2026-09-10T19:11:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "алмазн": {
+    "display_name": "Алмазная область",
+    "type": "drone",
+    "text": "От Углегорска в направлении Алмазная\nЛНР\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-10T18:05:20+00:00",
+    "expires_at": "2026-09-10T19:05:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Тульская область \nКалужская область \nМосковская область \nТревога по БПЛА\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-10T18:06:16+00:00",
+    "expires_at": "2026-09-10T19:06:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область\nТревога по БПЛА сохраняется\n\nОчередная волна.",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-10T18:15:06+00:00",
+    "expires_at": "2026-09-10T19:15:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рязанская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-10T18:12:18+00:00",
+    "expires_at": "2026-09-10T19:12:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "missile",
+    "text": "Ростовская область внимание по возможным ракетам от ЛДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-10T18:12:19+00:00",
+    "expires_at": "2026-09-10T19:12:19+00:00",
     "count": null,
     "count_approx": false
   }
