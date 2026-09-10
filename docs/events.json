@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_88960",
-    "channel": "vrv_radar",
-    "date": "2026-09-09T03:42:20+00:00",
-    "text": "Астраханская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Астраханская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_88961",
-    "channel": "vrv_radar",
-    "date": "2026-09-09T03:44:14+00:00",
-    "text": "Республика Удмуртия\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Удмуртия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_232280",
-    "channel": "LPRalarm",
-    "date": "2026-09-09T03:44:17+00:00",
-    "text": "Карачев и близлежащие \nОпасность по БПЛА \nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_88962",
-    "channel": "vrv_radar",
-    "date": "2026-09-09T03:48:27+00:00",
-    "text": "Нижнекамск и близлежащие \nРеспублика Татарстан\nОпасность по БПЛА повторно",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Татарстан",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_84429",
-    "channel": "locatorru",
-    "date": "2026-09-09T03:52:20+00:00",
-    "text": "Березники, Губаха, Пермь, Соликамск, Пермский край - опасность по БПЛА. \n\nВозможно пройдут мимо вас в сторону Свердловской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Пермский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_125984",
-    "channel": "kupolrussia",
-    "date": "2026-09-09T03:57:31+00:00",
-    "text": "Республика Удмуртия\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Удмуртия",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_232281",
     "channel": "LPRalarm",
     "date": "2026-09-09T03:57:49+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Тверская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_232877",
+    "channel": "LPRalarm",
+    "date": "2026-09-10T03:17:15+00:00",
+    "text": "Причерноморье Краснодарского края \nТуапсе, Сочи и близлежащие \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарского края",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_126516",
+    "channel": "kupolrussia",
+    "date": "2026-09-10T03:17:23+00:00",
+    "text": "Причерноморье Краснодарского края \nТуапсе, Сочи и близлежащие \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарского края",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_232878",
+    "channel": "LPRalarm",
+    "date": "2026-09-10T03:19:15+00:00",
+    "text": "Туапсе и близлежащие \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_126517",
+    "channel": "kupolrussia",
+    "date": "2026-09-10T03:19:21+00:00",
+    "text": "Туапсе и близлежащие \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_232879",
+    "channel": "LPRalarm",
+    "date": "2026-09-10T03:28:03+00:00",
+    "text": "Воронежская область \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_126518",
+    "channel": "kupolrussia",
+    "date": "2026-09-10T03:29:26+00:00",
+    "text": "Воронежская область \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежская область",
     "lat": null,
     "lon": null
   }
