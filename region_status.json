@@ -11,11 +11,11 @@
   },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "Авиационная ракетная бомбовая опасность \nХерсонская область РФ \nЗапорожская область РФ \nЛДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-11T13:11:45+00:00",
-    "expires_at": "2026-09-11T14:11:45+00:00",
+    "type": "drone",
+    "text": "Дорога\n ТОКМАК  - Бердянск    \nопасность по БПЛА \nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-11T13:45:42+00:00",
+    "expires_at": "2026-09-11T14:45:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,6 +116,26 @@
     "channel": "locatorru",
     "updated_at": "2026-09-11T13:15:03+00:00",
     "expires_at": "2026-09-11T14:15:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "АНАПА \nГеленджик и близлежащие \nОпасность по БПЛА \nКраснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-11T13:46:32+00:00",
+    "expires_at": "2026-09-11T14:46:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-11T13:43:27+00:00",
+    "expires_at": "2026-09-11T14:43:27+00:00",
     "count": null,
     "count_approx": false
   }
