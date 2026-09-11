@@ -39,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Муром и близлежащие \nУдарный БПЛА в направлении \nШебекинский район\nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-11T06:12:21+00:00",
-    "expires_at": "2026-09-11T07:12:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курской области",
     "type": "missile",
@@ -66,6 +56,36 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-11T06:02:00+00:00",
     "expires_at": "2026-09-11T07:02:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Волноваха и близлежащие \nТревога по БПЛА в т.ч. на электротяге\nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-11T06:17:45+00:00",
+    "expires_at": "2026-09-11T07:17:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Трасса Брилевка - Каланчак от Малоалександровка на юг БПЛА Хорнет \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-11T06:27:38+00:00",
+    "expires_at": "2026-09-11T07:27:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Опасность БпЛА по Приморскому и Бердянскому районам \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-11T06:30:51+00:00",
+    "expires_at": "2026-09-11T07:30:51+00:00",
     "count": null,
     "count_approx": false
   }
