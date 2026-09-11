@@ -1,49 +1,5 @@
 [
   {
-    "id": "locatorru_84591_Елец",
-    "channel": "locatorru",
-    "date": "2026-09-10T17:35:39+00:00",
-    "text": "г.Елец, Елецкий район, Долгоруковский район, Становлянский район, Измалковский район, Липецкая область - внимание по БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Елец",
-    "region": "Липецкая область",
-    "lat": 52.6219865,
-    "lon": 38.5003298
-  },
-  {
-    "id": "radarrussiia_92872",
-    "channel": "radarrussiia",
-    "date": "2026-09-10T17:35:42+00:00",
-    "text": "Липецкая область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_84592",
-    "channel": "locatorru",
-    "date": "2026-09-10T17:36:32+00:00",
-    "text": "Орловская область - опасность по БПЛА от Железногорского и Фатежского районов, Курской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_233153",
-    "channel": "LPRalarm",
-    "date": "2026-09-10T17:36:44+00:00",
-    "text": "Орловская область\n\nТревога по БАЛА от стыка Брянской и Курской областей",
-    "type": "alert",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_233154_Хомутовский",
     "channel": "LPRalarm",
     "date": "2026-09-10T17:37:08+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Донецкая область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_233620",
+    "channel": "LPRalarm",
+    "date": "2026-09-11T12:31:31+00:00",
+    "text": "Залив Красноперекопск продолжаются фиксации БПЛА \n\nДорога через Красноперекопск на Симферополь и далее на юг особое внимание",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127172",
+    "channel": "kupolrussia",
+    "date": "2026-09-11T12:31:45+00:00",
+    "text": "Залив Красноперекопск продолжаются фиксации БПЛА \n\nДорога через Красноперекопск на Симферополь и далее на юг особое внимание",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_233621",
+    "channel": "LPRalarm",
+    "date": "2026-09-11T12:41:32+00:00",
+    "text": "г. Белгород опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127173_Белгород",
+    "channel": "kupolrussia",
+    "date": "2026-09-11T12:41:54+00:00",
+    "text": "Белгород\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Белгород",
+    "region": null,
+    "lat": 50.5955595,
+    "lon": 36.5873394
   }
 ]
