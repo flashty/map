@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_233202",
-    "channel": "LPRalarm",
-    "date": "2026-09-10T18:26:56+00:00",
-    "text": "Анапа и близлежащие ракетная тревога \n\nВозможно от 4-х ракет в направлении",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_233203",
-    "channel": "LPRalarm",
-    "date": "2026-09-10T18:27:01+00:00",
-    "text": "Анапа\nНовороссийск \nГеленджик \nКраснодарский край \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_126814",
     "channel": "kupolrussia",
     "date": "2026-09-10T18:27:15+00:00",
@@ -21996,6 +21974,28 @@
     "type": "drone",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_233687",
+    "channel": "LPRalarm",
+    "date": "2026-09-11T15:59:51+00:00",
+    "text": "Херсонская область РФ отбой авиационной ракетной бомбовой опасности \n\nОтбой внимания северо-запад, запад Крыма",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127240",
+    "channel": "kupolrussia",
+    "date": "2026-09-11T15:59:56+00:00",
+    "text": "Херсонская область РФ отбой авиационной ракетной бомбовой опасности \n\nОтбой внимания северо-запад, запад Крыма",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Херсонская область",
     "lat": null,
     "lon": null
   }
