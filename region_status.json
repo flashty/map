@@ -22,10 +22,10 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Бердянск дорожное Р280 \nТревога по БПЛА\nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-11T03:27:52+00:00",
-    "expires_at": "2026-09-11T04:27:52+00:00",
+    "text": "Дорога\n Червоно Поле - Приморск   \nопасность по БПЛА \nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-11T04:15:20+00:00",
+    "expires_at": "2026-09-11T05:15:20+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +36,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-11T03:28:57+00:00",
     "expires_at": "2026-09-11T04:28:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "свердловск": {
+    "display_name": "Свердловская область",
+    "type": "drone",
+    "text": "Свердловская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-11T04:07:53+00:00",
+    "expires_at": "2026-09-11T05:07:53+00:00",
     "count": null,
     "count_approx": false
   }
