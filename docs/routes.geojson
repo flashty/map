@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-09-11T15:22:55+00:00",
-        "last_updated": "2026-09-11T15:35:11+00:00",
-        "path_labels": [
-          "Таганрог (Ростовская область)",
-          "Лакедемоновка (Ростовская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.928362,
-            47.215495
-          ],
-          [
-            38.5449653,
-            47.1969749
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
