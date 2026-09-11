@@ -32,10 +32,10 @@
   "волгоградск": {
     "display_name": "Волгоградская область",
     "type": "drone",
-    "text": "Михайловка\nВолгоградская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-11T22:42:55+00:00",
-    "expires_at": "2026-09-11T23:42:55+00:00",
+    "text": "Михайловка\nВолгоградская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-11T22:46:57+00:00",
+    "expires_at": "2026-09-11T23:46:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -60,12 +60,12 @@
     "count_approx": false
   },
   "саратовск": {
-    "display_name": "Саратовской области",
+    "display_name": "Саратовская область",
     "type": "drone",
-    "text": "Новониколаевский, Волгоградская область - фиксации БПЛА в сторону Саратовской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-11T22:23:17+00:00",
-    "expires_at": "2026-09-11T23:23:17+00:00",
+    "text": "Саратов/Энгельс\nСаратовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-11T23:00:37+00:00",
+    "expires_at": "2026-09-12T00:00:37+00:00",
     "count": null,
     "count_approx": false
   },
@@ -82,10 +82,10 @@
   "липецк": {
     "display_name": "Липецкая область",
     "type": "drone",
-    "text": "Задонский район\nЛипецкая область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-11T22:37:26+00:00",
-    "expires_at": "2026-09-11T23:37:26+00:00",
+    "text": "Липецк и район в т.ч. аэ.Липецк-2, Липецкая область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-11T22:51:52+00:00",
+    "expires_at": "2026-09-11T23:51:52+00:00",
     "count": null,
     "count_approx": false
   },
@@ -196,6 +196,16 @@
     "channel": "locatorru",
     "updated_at": "2026-09-11T22:23:17+00:00",
     "expires_at": "2026-09-11T23:23:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Володарское и близлежащие, тревога по БпЛА на электротяге\nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-11T22:56:16+00:00",
+    "expires_at": "2026-09-11T23:56:16+00:00",
     "count": null,
     "count_approx": false
   }
