@@ -2,40 +2,20 @@
   "пермск": {
     "display_name": "Пермский край",
     "type": "drone",
-    "text": "Пермь \nПермский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-11T02:36:07+00:00",
-    "expires_at": "2026-09-11T03:36:07+00:00",
+    "text": "Закамск, Култаево, г.Пермь, Пермский край - опасность по БПЛА от Прикамье, Рождественское.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-11T03:43:34+00:00",
+    "expires_at": "2026-09-11T04:43:34+00:00",
     "count": null,
-    "count_approx": false
-  },
-  "кировск": {
-    "display_name": "Кировская область",
-    "type": "drone",
-    "text": "Кильмезь, Кировская область \nПролёт от 3 БПЛА в сторону Удмуртской Республики\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-11T02:43:29+00:00",
-    "expires_at": "2026-09-11T03:43:29+00:00",
-    "count": 3,
     "count_approx": false
   },
   "удмурт": {
     "display_name": "Республика Удмуртия",
     "type": "drone",
-    "text": "Кировская область \nРеспублика Удмуртия \nФиксации БПЛА в направлении Пермского края\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-11T02:32:40+00:00",
-    "expires_at": "2026-09-11T03:32:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "пермско": {
-    "display_name": "Пермского края",
-    "type": "drone",
-    "text": "Кировская область \nРеспублика Удмуртия \nФиксации БПЛА в направлении Пермского края\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-11T02:32:40+00:00",
-    "expires_at": "2026-09-11T03:32:40+00:00",
+    "text": "Ижевск \nРеспублика Удмуртия\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-11T03:38:05+00:00",
+    "expires_at": "2026-09-11T04:38:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +36,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-11T03:28:57+00:00",
     "expires_at": "2026-09-11T04:28:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "-": {
+    "display_name": "Республика -",
+    "type": "drone",
+    "text": "Ижевск, Воткинск и близлежащие, Удмуртская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-11T03:38:11+00:00",
+    "expires_at": "2026-09-11T04:38:11+00:00",
     "count": null,
     "count_approx": false
   }
