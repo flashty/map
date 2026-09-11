@@ -1,21 +1,11 @@
 {
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Прохоровка и близлежащие \nТревога по БПЛА \nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-11T00:01:20+00:00",
-    "expires_at": "2026-09-11T01:01:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "волгоградск": {
     "display_name": "Волгоградская область",
-    "type": "missile",
-    "text": "Волгоградская область\nРакетная опасность",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-11T00:45:08+00:00",
-    "expires_at": "2026-09-11T01:45:08+00:00",
+    "type": "alert",
+    "text": "Волгоград \nВолгоградская область \nРабота ПВО по воздушным целям\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-11T01:14:11+00:00",
+    "expires_at": "2026-09-11T02:14:11+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,16 +16,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-11T00:53:25+00:00",
     "expires_at": "2026-09-11T01:53:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Ливны и близлежащие\nОрловская область\nТревога по БПЛА\nИ далее в направлении Липецкой области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-11T00:03:20+00:00",
-    "expires_at": "2026-09-11T01:03:20+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,16 +36,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-11T00:52:33+00:00",
     "expires_at": "2026-09-11T01:52:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "удмурт": {
-    "display_name": "Республика Удмуртия",
-    "type": "drone",
-    "text": "Республика Удмуртия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-11T00:11:07+00:00",
-    "expires_at": "2026-09-11T01:11:07+00:00",
     "count": null,
     "count_approx": false
   },
@@ -92,10 +62,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Республика Крым Фиксация БПЛА между  Семисотка Батальное\nИ далее возможно в направлении Керчь",
+    "text": "Приозерное\nЧелядиново\nИ близлежащие\nТревога по БПЛА\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-11T00:49:32+00:00",
-    "expires_at": "2026-09-11T01:49:32+00:00",
+    "updated_at": "2026-09-11T01:03:38+00:00",
+    "expires_at": "2026-09-11T02:03:38+00:00",
     "count": null,
     "count_approx": false
   },
@@ -127,6 +97,56 @@
     "updated_at": "2026-09-11T00:45:36+00:00",
     "expires_at": "2026-09-11T01:45:36+00:00",
     "count": null,
+    "count_approx": false
+  },
+  "пермск": {
+    "display_name": "Пермский край",
+    "type": "drone",
+    "text": "Удмуртские Ключи, Глазовский район, Удмуртская Республика - пролёты БПЛА на восток. \n\nПермский край - внимание к налёту БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-11T01:11:49+00:00",
+    "expires_at": "2026-09-11T02:11:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "башкортост": {
+    "display_name": "Республика Башкортостан",
+    "type": "drone",
+    "text": "Республика Башкортостан\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-11T01:08:14+00:00",
+    "expires_at": "2026-09-11T02:08:14+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "-": {
+    "display_name": "Республика -",
+    "type": "drone",
+    "text": "Удмуртские Ключи, Глазовский район, Удмуртская Республика - пролёты БПЛА на восток. \n\nПермский край - внимание к налёту БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-11T01:11:49+00:00",
+    "expires_at": "2026-09-11T02:11:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "кировск": {
+    "display_name": "Кировская область",
+    "type": "drone",
+    "text": "Медведок, Нолинский район, Кировская область - группа БПЛА на северо-восток. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-11T01:13:38+00:00",
+    "expires_at": "2026-09-11T02:13:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "чуваш": {
+    "display_name": "Республика Чувашия",
+    "type": "drone",
+    "text": "Цивильский район\nРеспублика Чувашия\nФиксация 3 БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-11T01:16:00+00:00",
+    "expires_at": "2026-09-11T02:16:00+00:00",
+    "count": 3,
     "count_approx": false
   }
 }
