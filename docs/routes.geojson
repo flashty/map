@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-11T17:24:14+00:00",
+        "last_updated": "2026-09-11T17:48:15+00:00",
+        "path_labels": [
+          "Феодосия",
+          "Константиновка"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.1164524,
+            51.7088258
+          ],
+          [
+            35.951123,
+            51.4472135
+          ]
+        ]
+      }
+    }
+  ]
 }
