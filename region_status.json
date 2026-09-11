@@ -1,14 +1,4 @@
 {
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Фрунзе \nНиколаевка и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-11T22:25:24+00:00",
-    "expires_at": "2026-09-11T23:25:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "волгоградск": {
     "display_name": "Волгоградская область",
     "type": "drone",
@@ -40,12 +30,12 @@
     "count_approx": false
   },
   "ростовск": {
-    "display_name": "Ростовской области",
-    "type": "drone",
-    "text": "Ещё волна БПЛА идёт от ЛНР на север Ростовской области, от ДНР на южную часть Ростовской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-11T23:11:44+00:00",
-    "expires_at": "2026-09-12T00:11:44+00:00",
+    "display_name": "Ростовская область",
+    "type": "alert",
+    "text": "Ростов\nРостовская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-11T23:30:17+00:00",
+    "expires_at": "2026-09-12T00:30:17+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,36 +46,6 @@
     "channel": "locatorru",
     "updated_at": "2026-09-11T22:44:58+00:00",
     "expires_at": "2026-09-11T23:44:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Смоленская область\nКалужская область\n2% (>>) ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n© $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-11T22:19:37+00:00",
-    "expires_at": "2026-09-11T23:19:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Смоленская область\nКалужская область\n2% (>>) ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\n© $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-11T22:19:37+00:00",
-    "expires_at": "2026-09-11T23:19:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "новониколаевск": {
-    "display_name": "Новониколаевский область",
-    "type": "drone",
-    "text": "Новониколаевский, Волгоградская область - фиксации БПЛА в сторону Саратовской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-11T22:23:17+00:00",
-    "expires_at": "2026-09-11T23:23:17+00:00",
     "count": null,
     "count_approx": false
   },
@@ -102,20 +62,40 @@
   "ульяновск": {
     "display_name": "Ульяновская область",
     "type": "drone",
-    "text": "Самарская область, Ульяновская область - внимание по БПЛА от Саратовской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-11T23:15:10+00:00",
-    "expires_at": "2026-09-12T00:15:10+00:00",
+    "text": "Самарская область\nУльяновская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-11T23:17:21+00:00",
+    "expires_at": "2026-09-12T00:17:21+00:00",
     "count": null,
     "count_approx": false
   },
   "самарск": {
     "display_name": "Самарская область",
     "type": "drone",
-    "text": "Самарская область, Ульяновская область - внимание по БПЛА от Саратовской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-11T23:15:10+00:00",
-    "expires_at": "2026-09-12T00:15:10+00:00",
+    "text": "Самарская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-11T23:17:39+00:00",
+    "expires_at": "2026-09-12T00:17:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "петровск": {
+    "display_name": "Петровское область",
+    "type": "drone",
+    "text": "Петровское, ЛНР\nГруппа БпЛА в направлении Луганска\nМеры предосторожности!",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-11T23:20:08+00:00",
+    "expires_at": "2026-09-12T00:20:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Петровское, ЛНР\nГруппа БпЛА в направлении Луганска\nМеры предосторожности!",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-11T23:20:08+00:00",
+    "expires_at": "2026-09-12T00:20:08+00:00",
     "count": null,
     "count_approx": false
   }
