@@ -1,27 +1,5 @@
 [
   {
-    "id": "kupolrussia_126656",
-    "channel": "kupolrussia",
-    "date": "2026-09-10T10:17:01+00:00",
-    "text": "Белгородская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_233036_Белгород",
-    "channel": "LPRalarm",
-    "date": "2026-09-10T10:17:11+00:00",
-    "text": "Белгород, ШБК укрытия!",
-    "type": "unknown",
-    "location_name": "Белгород",
-    "region": null,
-    "lat": 50.5955595,
-    "lon": 36.5873394
-  },
-  {
     "id": "locatorru_84565",
     "channel": "locatorru",
     "date": "2026-09-10T10:17:15+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Кировская область",
     "lat": 56.9449015,
     "lon": 51.0613993
+  },
+  {
+    "id": "vrv_radar_89623",
+    "channel": "vrv_radar",
+    "date": "2026-09-11T02:55:31+00:00",
+    "text": "Липецкая область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_93132",
+    "channel": "radarrussiia",
+    "date": "2026-09-11T02:55:51+00:00",
+    "text": "Липецкая область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
   }
 ]
