@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянск и близлежащие\nТревога по БПЛА\nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-11T00:29:09+00:00",
-    "expires_at": "2026-09-11T01:29:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ульяновск": {
     "display_name": "Ульяновская область",
     "type": "drone",
@@ -42,10 +32,10 @@
   "самарск": {
     "display_name": "Самарская область",
     "type": "drone",
-    "text": "Сызрань\nСамарская область \nВ вашу сторону фиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-11T00:42:35+00:00",
-    "expires_at": "2026-09-11T01:42:35+00:00",
+    "text": "Тольятти, Сызрань, Самара, Новокуйбышевск, Самарская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-11T01:26:01+00:00",
+    "expires_at": "2026-09-11T02:26:01+00:00",
     "count": null,
     "count_approx": false
   },
@@ -80,12 +70,12 @@
     "count_approx": false
   },
   "ростовск": {
-    "display_name": "Ростовской области",
-    "type": "missile",
-    "text": "южная часть Воронежской области, северная часть Ростовской области - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-11T00:41:29+00:00",
-    "expires_at": "2026-09-11T01:41:29+00:00",
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Матвеев  Курган\nРостовская область\nИ близлежащие\nТревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-11T01:28:08+00:00",
+    "expires_at": "2026-09-11T02:28:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -122,10 +112,10 @@
   "-": {
     "display_name": "Республика -",
     "type": "drone",
-    "text": "Удмуртские Ключи, Глазовский район, Удмуртская Республика - пролёты БПЛА на восток. \n\nПермский край - внимание к налёту БПЛА. \n\n📡Локатор России - @locatorru",
+    "text": "Ильменькасы, Чувашская Республика - пролёты БПЛА в сторону Звенигово, Республика Марий Эл. От 3.\n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-09-11T01:11:49+00:00",
-    "expires_at": "2026-09-11T02:11:49+00:00",
+    "updated_at": "2026-09-11T01:21:47+00:00",
+    "expires_at": "2026-09-11T02:21:47+00:00",
     "count": null,
     "count_approx": false
   },
@@ -142,11 +132,51 @@
   "чуваш": {
     "display_name": "Республика Чувашия",
     "type": "drone",
-    "text": "Цивильский район\nРеспублика Чувашия\nФиксация 3 БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-11T01:16:00+00:00",
-    "expires_at": "2026-09-11T02:16:00+00:00",
+    "text": "Цивильский район\nРеспублика Чувашия\nФиксация 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-11T01:17:11+00:00",
+    "expires_at": "2026-09-11T02:17:11+00:00",
     "count": 3,
+    "count_approx": false
+  },
+  "марий": {
+    "display_name": "Республика Марий",
+    "type": "drone",
+    "text": "Ильменькасы, Чувашская Республика \nПролёты БПЛА в сторону Звенигово, Республика Марий Эл\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-11T01:23:23+00:00",
+    "expires_at": "2026-09-11T02:23:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Мариуполь\nИ близлежащие\nТревога по БПЛА\nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-11T01:23:12+00:00",
+    "expires_at": "2026-09-11T02:23:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пролё": {
+    "display_name": "Республика \nПролёты",
+    "type": "drone",
+    "text": "Ильменькасы, Чувашская Республика \nПролёты БПЛА в сторону Звенигово, Республика Марий Эл\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-11T01:23:23+00:00",
+    "expires_at": "2026-09-11T02:23:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Зеленодольск, Казань, Республика Татарстан - опасность по БПЛА. Маркетплейсы! \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-11T01:30:22+00:00",
+    "expires_at": "2026-09-11T02:30:22+00:00",
+    "count": null,
     "count_approx": false
   }
 }
