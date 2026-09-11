@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_126837",
-    "channel": "kupolrussia",
-    "date": "2026-09-10T18:44:12+00:00",
-    "text": "От Бельбека в направлении Северной стороны Севастополя \nОпасность по БПЛА на электротяге",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_92901_Узловский",
-    "channel": "radarrussiia",
-    "date": "2026-09-10T18:44:45+00:00",
-    "text": "Узловский район\nТульская область\nПродолжаются фиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Узловский",
-    "region": "Тульская область",
-    "lat": 53.9090465,
-    "lon": 38.144457
-  },
-  {
-    "id": "vrv_radar_89336_Киреевский",
-    "channel": "vrv_radar",
-    "date": "2026-09-10T18:45:47+00:00",
-    "text": "Киреевский район\nТульская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Киреевский",
-    "region": "Тульская область",
-    "lat": 54.0220762,
-    "lon": 37.8625474
-  },
-  {
-    "id": "LPRalarm_233227",
-    "channel": "LPRalarm",
-    "date": "2026-09-10T18:46:19+00:00",
-    "text": "Сватово и далее в тыл фиксация ракеты\nЛНР",
-    "type": "missile",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_92902_Киреевский",
-    "channel": "radarrussiia",
-    "date": "2026-09-10T18:46:32+00:00",
-    "text": "Киреевский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Киреевский",
-    "region": "Тульская область",
-    "lat": 54.0220762,
-    "lon": 37.8625474
-  },
-  {
     "id": "kupolrussia_126838",
     "channel": "kupolrussia",
     "date": "2026-09-10T18:46:34+00:00",
@@ -21998,5 +21943,60 @@
     "region": null,
     "lat": 56.0736587,
     "lon": 46.2661214
+  },
+  {
+    "id": "LPRalarm_233720_Керчь",
+    "channel": "LPRalarm",
+    "date": "2026-09-11T17:23:37+00:00",
+    "text": "Трасса Таврида в районе Керчь, Керчь и близлежащие тревога по БПЛА",
+    "type": "drone",
+    "location_name": "Керчь",
+    "region": null,
+    "lat": 55.9354669,
+    "lon": 87.3751001
+  },
+  {
+    "id": "LPRalarm_233721_Феодосия",
+    "channel": "LPRalarm",
+    "date": "2026-09-11T17:24:14+00:00",
+    "text": "Приморский (Феодосия) и близлежащие тревога по БПЛА и далее опасность Феодосия",
+    "type": "drone",
+    "location_name": "Феодосия",
+    "region": null,
+    "lat": 51.7088258,
+    "lon": 36.1164524
+  },
+  {
+    "id": "kupolrussia_127268_Феодосия",
+    "channel": "kupolrussia",
+    "date": "2026-09-11T17:24:37+00:00",
+    "text": "Приморский (Феодосия) и близлежащие тревога по БПЛА и далее опасность Феодосия",
+    "type": "drone",
+    "location_name": "Феодосия",
+    "region": null,
+    "lat": 51.7088258,
+    "lon": 36.1164524
+  },
+  {
+    "id": "LPRalarm_233722",
+    "channel": "LPRalarm",
+    "date": "2026-09-11T17:30:51+00:00",
+    "text": "Железногорск  и близлежащие \nОпасность по БПЛА \nКурская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127269",
+    "channel": "kupolrussia",
+    "date": "2026-09-11T17:31:03+00:00",
+    "text": "Железногорск и близлежащие\nТревога по БПЛА сохраняется\nКурская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
   }
 ]
