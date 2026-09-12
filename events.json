@@ -1,60 +1,5 @@
 [
   {
-    "id": "locatorru_84662",
-    "channel": "locatorru",
-    "date": "2026-09-10T22:29:12+00:00",
-    "text": "Ульяновская область, Самарская область - опасность по БПЛА от Пензы и Саратова. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_233436",
-    "channel": "LPRalarm",
-    "date": "2026-09-10T22:29:22+00:00",
-    "text": "Луганск и близлежащие\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127011",
-    "channel": "kupolrussia",
-    "date": "2026-09-10T22:29:41+00:00",
-    "text": "Луганск и близлежащие\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_89481_Хвастовичский",
-    "channel": "vrv_radar",
-    "date": "2026-09-10T22:29:42+00:00",
-    "text": "Хвастовичский район\nКалужская область\nФиксация 2 БПЛА",
-    "type": "drone",
-    "location_name": "Хвастовичский",
-    "region": "Калужская область",
-    "lat": 53.4981708,
-    "lon": 35.1820052
-  },
-  {
-    "id": "vrv_radar_89482",
-    "channel": "vrv_radar",
-    "date": "2026-09-10T22:30:14+00:00",
-    "text": "Самарская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_89483_Кумылженский",
     "channel": "vrv_radar",
     "date": "2026-09-10T22:31:03+00:00",
@@ -21996,6 +21941,61 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_84858",
+    "channel": "locatorru",
+    "date": "2026-09-12T03:28:23+00:00",
+    "text": "Ростовская область, Волгоградская область, Астраханская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_89773",
+    "channel": "vrv_radar",
+    "date": "2026-09-12T03:28:48+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_89774",
+    "channel": "vrv_radar",
+    "date": "2026-09-12T03:31:10+00:00",
+    "text": "Краснодарский край\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_84859",
+    "channel": "locatorru",
+    "date": "2026-09-12T03:31:11+00:00",
+    "text": "Краснодарский край - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_89775",
+    "channel": "vrv_radar",
+    "date": "2026-09-12T03:31:16+00:00",
+    "text": "Республика Адыгея\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Адыгея",
     "lat": null,
     "lon": null
   }
