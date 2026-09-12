@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-12T15:35:41+00:00",
+        "last_updated": "2026-09-12T16:00:11+00:00",
+        "path_labels": [
+          "Абинск (Краснодарский край)",
+          "Черноморское"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.1578189,
+            44.8649528
+          ],
+          [
+            38.4855598,
+            44.8604244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-12T15:59:35+00:00",
+        "last_updated": "2026-09-12T15:59:35+00:00",
+        "path_labels": [
+          "Белгородская область",
+          "Воронежскую область"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.54641255419135,
+            50.672051273603756
+          ],
+          [
+            40.31197993693381,
+            50.96086308382576
+          ]
+        ]
+      }
+    }
+  ]
 }
