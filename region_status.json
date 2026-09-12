@@ -22,10 +22,10 @@
   "липецк": {
     "display_name": "Липецкая область",
     "type": "drone",
-    "text": "Липецкая область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-12T03:34:58+00:00",
-    "expires_at": "2026-09-12T04:34:58+00:00",
+    "text": "МО Долгоруковский\nМО Задонский\nМО Тербунский\nМО Хлевенский\nМО Воловский\nЛипецкая область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-12T04:00:33+00:00",
+    "expires_at": "2026-09-12T05:00:33+00:00",
     "count": null,
     "count_approx": false
   },
@@ -37,6 +37,56 @@
     "updated_at": "2026-09-12T03:36:54+00:00",
     "expires_at": "2026-09-12T04:36:54+00:00",
     "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калужская область \nОпасность по БПЛА сохраняется",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-12T03:48:27+00:00",
+    "expires_at": "2026-09-12T04:48:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Орловская область \nОпасность по БПЛА сохраняется",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-12T03:49:33+00:00",
+    "expires_at": "2026-09-12T04:49:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "башкортост": {
+    "display_name": "Республики Башкортостан",
+    "type": "drone",
+    "text": "3 БПЛА от Республики Татарстан в направлении Республики Башкортостан.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-09-12T03:55:26+00:00",
+    "expires_at": "2026-09-12T04:55:26+00:00",
+    "count": 3,
+    "count_approx": false
+  },
+  "ульяновск": {
+    "display_name": "Ульяновская область",
+    "type": "drone",
+    "text": "Барышский район\nУльяновская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-12T04:00:37+00:00",
+    "expires_at": "2026-09-12T05:00:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "саратовск": {
+    "display_name": "Саратовская область",
+    "type": "drone",
+    "text": "Сызранский район\nСаратовская область\nФиксация от 2 БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-12T04:00:21+00:00",
+    "expires_at": "2026-09-12T05:00:21+00:00",
+    "count": 2,
     "count_approx": false
   }
 }
