@@ -1,21 +1,11 @@
 {
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "МО Долгоруковский\nМО Задонский\nМО Тербунский\nМО Хлевенский\nМО Воловский\nЛипецкая область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-12T04:00:33+00:00",
-    "expires_at": "2026-09-12T05:00:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Брянск, Бежица и близлежащие\nВнимание по БПЛА\nБрянская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-12T03:36:54+00:00",
-    "expires_at": "2026-09-12T04:36:54+00:00",
+    "text": "Погарский район, фиксация БПЛА в тыл\nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-12T04:41:04+00:00",
+    "expires_at": "2026-09-12T05:41:04+00:00",
     "count": null,
     "count_approx": false
   },
@@ -47,6 +37,26 @@
     "updated_at": "2026-09-12T03:55:26+00:00",
     "expires_at": "2026-09-12T04:55:26+00:00",
     "count": 3,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Красноперекопск внимание по возможным БПЛА\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-12T04:37:17+00:00",
+    "expires_at": "2026-09-12T05:37:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Донецк, Макеевка ДНР и близлежащие \nОпасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-12T04:40:51+00:00",
+    "expires_at": "2026-09-12T05:40:51+00:00",
+    "count": null,
     "count_approx": false
   }
 }
