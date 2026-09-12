@@ -1,60 +1,5 @@
 [
   {
-    "id": "radarrussiia_93027_Новобурасский",
-    "channel": "radarrussiia",
-    "date": "2026-09-10T22:50:29+00:00",
-    "text": "Новобурасский район\nСаратовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Новобурасский",
-    "region": "Саратовская область",
-    "lat": 52.1192964,
-    "lon": 45.8987631
-  },
-  {
-    "id": "locatorru_84669",
-    "channel": "locatorru",
-    "date": "2026-09-10T22:51:02+00:00",
-    "text": "Кировская область - опасность по БПЛА от Республики Марий Эл. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Кировская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_84670_Ола",
-    "channel": "locatorru",
-    "date": "2026-09-10T22:51:24+00:00",
-    "text": "Йошкар-Ола, Марийский НПЗ, Республика Марий Эл - опасность от Чувашской Республики. Маркетплейсы, внимательно. \n\n📡Локатор России - @locatorru",
-    "type": "alert",
-    "location_name": "Ола",
-    "region": "Республика Марий",
-    "lat": 56.6315556,
-    "lon": 47.8868803
-  },
-  {
-    "id": "radarrussiia_93028",
-    "channel": "radarrussiia",
-    "date": "2026-09-10T22:51:28+00:00",
-    "text": "Кировская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Кировская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_84671_Киров",
-    "channel": "locatorru",
-    "date": "2026-09-10T22:51:37+00:00",
-    "text": "Киров, Кирово-Чепецк и близлежащие, Кировская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Киров",
-    "region": "Кировская область",
-    "lat": 58.6035661,
-    "lon": 49.6666241
-  },
-  {
     "id": "radarrussiia_93029_Киров",
     "channel": "radarrussiia",
     "date": "2026-09-10T22:52:01+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Республика Крым",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_233956_Волоконовский",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T04:19:52+00:00",
+    "text": "Волоконовский район \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Волоконовский",
+    "region": null,
+    "lat": 50.4498919,
+    "lon": 37.7986348
+  },
+  {
+    "id": "vrv_radar_89788",
+    "channel": "vrv_radar",
+    "date": "2026-09-12T04:24:15+00:00",
+    "text": "Тульская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127477",
+    "channel": "kupolrussia",
+    "date": "2026-09-12T04:24:23+00:00",
+    "text": "Тульская область \nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_233957",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T04:24:26+00:00",
+    "text": "Тульская область \nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_233958_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T04:26:57+00:00",
+    "text": "Ясные зори Черемошное \nБелгородский район \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
   }
 ]
