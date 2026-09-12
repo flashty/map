@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_233536",
-    "channel": "LPRalarm",
-    "date": "2026-09-11T07:33:52+00:00",
-    "text": "Экстренная информация РСЧС: РАКЕТНАЯ ОПАСНОСТЬ в Валуйском МО 10:32. Спуститесь в подвальное помещение или подземное пространство.",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_233537",
-    "channel": "LPRalarm",
-    "date": "2026-09-11T07:42:26+00:00",
-    "text": "Отбой авиационной ракетной бомбовой опасности Запорожская область РФ, ЛДНР",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127100",
-    "channel": "kupolrussia",
-    "date": "2026-09-11T07:42:53+00:00",
-    "text": "Запорожская область РФ, ЛДНР",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_233538",
-    "channel": "LPRalarm",
-    "date": "2026-09-11T07:45:08+00:00",
-    "text": "Отбой ракетной опасности Белгородская область",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127101",
-    "channel": "kupolrussia",
-    "date": "2026-09-11T07:45:37+00:00",
-    "text": "Белгородская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_14459",
-    "channel": "radar_plus_bpla",
-    "date": "2026-09-11T07:46:19+00:00",
-    "text": "Челябинская область \nСвердловская область\n\nОтбой опасности БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Челябинская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_233539",
     "channel": "LPRalarm",
     "date": "2026-09-11T07:47:05+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Воронежская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "radarrussiia_93264_Сосковский",
+    "channel": "radarrussiia",
+    "date": "2026-09-12T15:40:39+00:00",
+    "text": "Сосковский район\nХотынецкий район\nШаблыкинский район\nОрловская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Сосковский",
+    "region": "Орловская область",
+    "lat": 52.742656,
+    "lon": 35.3808815
+  },
+  {
+    "id": "radarrussiia_93264_Хотынецкий",
+    "channel": "radarrussiia",
+    "date": "2026-09-12T15:40:39+00:00",
+    "text": "Сосковский район\nХотынецкий район\nШаблыкинский район\nОрловская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Хотынецкий",
+    "region": "Орловская область",
+    "lat": 53.1360589,
+    "lon": 35.3773008
+  },
+  {
+    "id": "radarrussiia_93264_Шаблыкинский",
+    "channel": "radarrussiia",
+    "date": "2026-09-12T15:40:39+00:00",
+    "text": "Сосковский район\nХотынецкий район\nШаблыкинский район\nОрловская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Шаблыкинский",
+    "region": "Орловская область",
+    "lat": 52.8579891,
+    "lon": 35.1025788
+  },
+  {
+    "id": "radarrussiia_93265",
+    "channel": "radarrussiia",
+    "date": "2026-09-12T15:41:19+00:00",
+    "text": "Геленджик\nСочи и близлежащие \nНовороссийск и близлежащие \nАнапа и близлежащие\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127668",
+    "channel": "kupolrussia",
+    "date": "2026-09-12T15:42:54+00:00",
+    "text": "Населённые пункты севернее Белгород внимание по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_89834_Крымский",
+    "channel": "vrv_radar",
+    "date": "2026-09-12T15:44:24+00:00",
+    "text": "Крымский район\nКраснодарский край\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Крымский",
+    "region": "Краснодарский край",
+    "lat": 44.9624541,
+    "lon": 37.896802
   }
 ]
