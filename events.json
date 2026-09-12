@@ -1,104 +1,5 @@
 [
   {
-    "id": "vrv_radar_89500_Саратов",
-    "channel": "vrv_radar",
-    "date": "2026-09-10T23:09:45+00:00",
-    "text": "Саратов\nСаратовская область\nМеры безопасности",
-    "type": "alert",
-    "location_name": "Саратов",
-    "region": "Саратовская область",
-    "lat": 51.530018,
-    "lon": 46.034683
-  },
-  {
-    "id": "kupolrussia_127021_Прохоровка",
-    "channel": "kupolrussia",
-    "date": "2026-09-10T23:09:45+00:00",
-    "text": "Ивня - Пристень - Обоянь - Прохоровка\nБелгородская область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Прохоровка",
-    "region": "Белгородская область",
-    "lat": 51.0345463,
-    "lon": 36.7324649
-  },
-  {
-    "id": "radar_plus_bpla_14449",
-    "channel": "radar_plus_bpla",
-    "date": "2026-09-10T23:09:58+00:00",
-    "text": "Саратов\nЭнгельс\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_93036_Саратов",
-    "channel": "radarrussiia",
-    "date": "2026-09-10T23:10:26+00:00",
-    "text": "Саратов\nСаратовская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "alert",
-    "location_name": "Саратов",
-    "region": "Саратовская область",
-    "lat": 51.530018,
-    "lon": 46.034683
-  },
-  {
-    "id": "LPRalarm_233447",
-    "channel": "LPRalarm",
-    "date": "2026-09-10T23:12:04+00:00",
-    "text": "Каменск-Шахтинский\nИ близлежащие\nТревога по БПЛА сохраняется\nРостовская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_89501_Неверкинский",
-    "channel": "vrv_radar",
-    "date": "2026-09-10T23:12:04+00:00",
-    "text": "Неверкинский район\nПензенская область\nЕщё фиксация",
-    "type": "unknown",
-    "location_name": "Неверкинский",
-    "region": "Пензенская область",
-    "lat": 52.7787253,
-    "lon": 46.690152
-  },
-  {
-    "id": "radarrussiia_93037_Неверкинский",
-    "channel": "radarrussiia",
-    "date": "2026-09-10T23:12:18+00:00",
-    "text": "Неверкинский район\nПензенская область\nЕщё фиксация\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "unknown",
-    "location_name": "Неверкинский",
-    "region": "Пензенская область",
-    "lat": 52.7787253,
-    "lon": 46.690152
-  },
-  {
-    "id": "radar_plus_bpla_14450",
-    "channel": "radar_plus_bpla",
-    "date": "2026-09-10T23:12:18+00:00",
-    "text": "На подлёте к Саратову сбитие БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127022",
-    "channel": "kupolrussia",
-    "date": "2026-09-10T23:12:28+00:00",
-    "text": "Каменск-Шахтинский\nИ близлежащие\nТревога по БПЛА сохраняется\nРостовская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_84677_Саратов",
     "channel": "locatorru",
     "date": "2026-09-10T23:12:38+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_233974",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T05:33:09+00:00",
+    "text": "Новоазовский район\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_233975_Валуйский",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T05:36:32+00:00",
+    "text": "Двулучное \nВалуйский район \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": null,
+    "lat": 53.1481885,
+    "lon": 36.3185713
+  },
+  {
+    "id": "LPRalarm_233976_Валуйский",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T05:37:56+00:00",
+    "text": "Валуйский район \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": null,
+    "lat": 53.1481885,
+    "lon": 36.3185713
+  },
+  {
+    "id": "kupolrussia_127488_Валуйский",
+    "channel": "kupolrussia",
+    "date": "2026-09-12T05:38:22+00:00",
+    "text": "Двулучное \nВалуйский район \nОпасность по БПЛА Хорнет\nБелгородская область",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": "Белгородская область",
+    "lat": 50.1632256,
+    "lon": 37.9638901
+  },
+  {
+    "id": "kupolrussia_127489_Валуйский",
+    "channel": "kupolrussia",
+    "date": "2026-09-12T05:38:37+00:00",
+    "text": "Валуйский район \nТревога по БПЛА Хорнет\nБелгородская область",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": "Белгородская область",
+    "lat": 50.1632256,
+    "lon": 37.9638901
+  },
+  {
+    "id": "LPRalarm_233977",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T05:38:46+00:00",
+    "text": "Приморско-Ахтарск и близлежащие\nТревога по БПЛА \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127490",
+    "channel": "kupolrussia",
+    "date": "2026-09-12T05:42:47+00:00",
+    "text": "Приморско-Ахтарск и близлежащие\nТревога по БПЛА \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_93239",
+    "channel": "radarrussiia",
+    "date": "2026-09-12T05:44:02+00:00",
+    "text": "Приморско-Ахтарск и близлежащие\nТревога по БПЛА \nКраснодарский край\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14476",
+    "channel": "radar_plus_bpla",
+    "date": "2026-09-12T05:44:11+00:00",
+    "text": "⚡️За ночь силами ПВО уничтожено 230 БПЛА над российскими регионами.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }

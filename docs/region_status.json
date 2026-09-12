@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Донецк, Макеевка ДНР и близлежащие \nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-12T04:40:51+00:00",
-    "expires_at": "2026-09-12T05:40:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
@@ -46,6 +36,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-12T05:30:38+00:00",
     "expires_at": "2026-09-12T06:30:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Валуйский район \nТревога по БПЛА Хорнет\nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-12T05:38:37+00:00",
+    "expires_at": "2026-09-12T06:38:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Приморско-Ахтарск и близлежащие\nТревога по БПЛА \nКраснодарский край\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-12T05:44:02+00:00",
+    "expires_at": "2026-09-12T06:44:02+00:00",
     "count": null,
     "count_approx": false
   }
