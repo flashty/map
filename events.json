@@ -1,16 +1,5 @@
 [
   {
-    "id": "vrv_radar_89628",
-    "channel": "vrv_radar",
-    "date": "2026-09-11T03:38:05+00:00",
-    "text": "Ижевск \nРеспублика Удмуртия\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Удмуртия",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_84731_Ижевск",
     "channel": "locatorru",
     "date": "2026-09-11T03:38:11+00:00",
@@ -21996,6 +21985,17 @@
     "type": "alert",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_234132",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T13:15:39+00:00",
+    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
