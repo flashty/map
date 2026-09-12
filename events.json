@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_127078",
-    "channel": "kupolrussia",
-    "date": "2026-09-11T06:02:31+00:00",
-    "text": "Белгородская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_89651",
-    "channel": "vrv_radar",
-    "date": "2026-09-11T06:06:18+00:00",
-    "text": "Березники \nПермский край \nМеры безопасности",
-    "type": "alert",
-    "location_name": null,
-    "region": "Пермский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_93143",
-    "channel": "radarrussiia",
-    "date": "2026-09-11T06:06:59+00:00",
-    "text": "Березники \nПермский край \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "alert",
-    "location_name": null,
-    "region": "Пермский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_233513_Шебекинский",
-    "channel": "LPRalarm",
-    "date": "2026-09-11T06:11:52+00:00",
-    "text": "Муром и близлежащие \nУдарный БПЛА в направлении \nШебекинский район",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "locatorru_84747",
-    "channel": "locatorru",
-    "date": "2026-09-11T06:12:15+00:00",
-    "text": "К нам обращаются за помощь в сборе.\n\nОни остро нуждаются в квадрокоптерах:\nDJI Mavic 3T - 2 шт., DJI Mavic 3 Classic - 2 шт.\n\nDJI Mavic — это не роскошь, а необходимый инструмент ведения разведки, помогающий сократить потери. В условиях боя исправно работающий аппарат становится основой для сбережения жизней и достижения целей наступления.\nВаша помощь — это реальная возможность предоставить бойцам преимущество обзора с воздуха, вовремя выявить противника и ускорить завершение войны. Поддержка — ",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_127079_Шебекинский",
     "channel": "kupolrussia",
     "date": "2026-09-11T06:12:21+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_89822",
+    "channel": "vrv_radar",
+    "date": "2026-09-12T14:32:32+00:00",
+    "text": "Тульская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_234162",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T14:34:19+00:00",
+    "text": "Филия, Комар ДНР УАБ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127657",
+    "channel": "kupolrussia",
+    "date": "2026-09-12T14:34:33+00:00",
+    "text": "Филия, Комар ДНР УАБ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_234164",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T14:35:22+00:00",
+    "text": "Донецк ДНР, ЖД вокзал и близлежащие опасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_93260",
+    "channel": "radarrussiia",
+    "date": "2026-09-12T14:43:04+00:00",
+    "text": "Тульская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
     "lat": null,
     "lon": null
   }
