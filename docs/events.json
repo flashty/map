@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_127079_Шебекинский",
-    "channel": "kupolrussia",
-    "date": "2026-09-11T06:12:21+00:00",
-    "text": "Муром и близлежащие \nУдарный БПЛА в направлении \nШебекинский район\nБелгородская область",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": "Белгородская область",
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "LPRalarm_233514",
-    "channel": "LPRalarm",
-    "date": "2026-09-11T06:16:28+00:00",
-    "text": "Волноваха и близлежащие \nТревога по БПЛА в т.ч. на электротяге\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127080",
-    "channel": "kupolrussia",
-    "date": "2026-09-11T06:17:45+00:00",
-    "text": "Волноваха и близлежащие \nТревога по БПЛА в т.ч. на электротяге\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_233515",
-    "channel": "LPRalarm",
-    "date": "2026-09-11T06:22:09+00:00",
-    "text": "Отбой ракетной опасности Белгородская область",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_89652",
     "channel": "vrv_radar",
     "date": "2026-09-11T06:22:35+00:00",
@@ -21996,6 +21952,50 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_234165",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T14:49:39+00:00",
+    "text": "В сторону н.п. Хлебодаровка Волновахский район и далее по направлению  трассы опасность по БПЛА\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127659",
+    "channel": "kupolrussia",
+    "date": "2026-09-12T14:49:49+00:00",
+    "text": "В сторону н.п. Хлебодаровка Волновахский район и далее по направлению  трассы \nДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_234166",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T14:57:49+00:00",
+    "text": "Трасса Червоное Поле - Осипенко -   БЕРДЯНСК - ПРИМОРСК\n\nОпасность по БПЛА. Высокая активность \n\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127660",
+    "channel": "kupolrussia",
+    "date": "2026-09-12T14:58:07+00:00",
+    "text": "Трасса Червоное Поле - Осипенко -   БЕРДЯНСК - ПРИМОРСК\n Высокая активность \n\nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
