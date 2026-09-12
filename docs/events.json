@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_89622",
-    "channel": "vrv_radar",
-    "date": "2026-09-11T02:35:56+00:00",
-    "text": "Пермь \nПермский край\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Пермский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_93130",
-    "channel": "radarrussiia",
-    "date": "2026-09-11T02:36:07+00:00",
-    "text": "Пермь \nПермский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Пермский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_84726_Кильмезь",
-    "channel": "locatorru",
-    "date": "2026-09-11T02:43:04+00:00",
-    "text": "Кильмезь, Кировская область - пролёт от 3 БПЛА в сторону Удмуртской Республики, будут проходить через Сюмси, Ува, Селты и далее в тыл. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Кильмезь",
-    "region": "Кировская область",
-    "lat": 56.9449015,
-    "lon": 51.0613993
-  },
-  {
-    "id": "radarrussiia_93131_Кильмезь",
-    "channel": "radarrussiia",
-    "date": "2026-09-11T02:43:29+00:00",
-    "text": "Кильмезь, Кировская область \nПролёт от 3 БПЛА в сторону Удмуртской Республики\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Кильмезь",
-    "region": "Кировская область",
-    "lat": 56.9449015,
-    "lon": 51.0613993
-  },
-  {
     "id": "vrv_radar_89623",
     "channel": "vrv_radar",
     "date": "2026-09-11T02:55:31+00:00",
@@ -21996,6 +21952,50 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_234125",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T12:24:46+00:00",
+    "text": "от Володарского трасса на Мариуполь \nОпасность по БПЛА на электротяге.\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_234126",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T12:24:49+00:00",
+    "text": "Экстренная информация РСЧС: ОТБОЙ РАКЕТНОЙ ОПАСНОСТИ в Валуйском и Волоконовском МО 15:22.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127623",
+    "channel": "kupolrussia",
+    "date": "2026-09-12T12:24:54+00:00",
+    "text": "от Володарского трасса на Мариуполь \nОпасность по БПЛА на электротяге.\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127624",
+    "channel": "kupolrussia",
+    "date": "2026-09-12T12:25:02+00:00",
+    "text": "Экстренная информация РСЧС: ОТБОЙ РАКЕТНОЙ ОПАСНОСТИ в Валуйском и Волоконовском МО 15:22.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
