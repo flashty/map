@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_233444_Ракитянский",
-    "channel": "LPRalarm",
-    "date": "2026-09-10T23:03:38+00:00",
-    "text": "Ракитянский район\nБелгородская область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Ракитянский",
-    "region": "Белгородская область",
-    "lat": 50.8380326,
-    "lon": 35.9006134
-  },
-  {
-    "id": "kupolrussia_127019_Ракитянский",
-    "channel": "kupolrussia",
-    "date": "2026-09-10T23:03:59+00:00",
-    "text": "Ракитянский район\nБелгородская область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Ракитянский",
-    "region": "Белгородская область",
-    "lat": 50.8380326,
-    "lon": 35.9006134
-  },
-  {
-    "id": "LPRalarm_233445",
-    "channel": "LPRalarm",
-    "date": "2026-09-10T23:05:54+00:00",
-    "text": "Новоазовск\nНовоазовский район\nТревога по БПЛА\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127020",
-    "channel": "kupolrussia",
-    "date": "2026-09-10T23:06:11+00:00",
-    "text": "Новоазовск\nНовоазовский район\nТревога по БПЛА\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_84676",
-    "channel": "locatorru",
-    "date": "2026-09-10T23:06:53+00:00",
-    "text": "Пителино, Ермишь, Кадом, Рязанская область - ещё пролёты БПЛА со стороны Тульской области в сторону Нижегородской области.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_89498_Неверкинский",
-    "channel": "vrv_radar",
-    "date": "2026-09-10T23:08:32+00:00",
-    "text": "Неверкинский район\nПензенская область\nЕщё фиксация БПЛА",
-    "type": "drone",
-    "location_name": "Неверкинский",
-    "region": "Пензенская область",
-    "lat": 52.7787253,
-    "lon": 46.690152
-  },
-  {
     "id": "radarrussiia_93034_Неверкинский",
     "channel": "radarrussiia",
     "date": "2026-09-10T23:08:57+00:00",
@@ -21996,6 +21930,72 @@
     "type": "missile",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_233969_Погарский",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T05:02:41+00:00",
+    "text": "Погарский район \nБрянская область \nФиксации БПЛА от гг в тыл",
+    "type": "drone",
+    "location_name": "Погарский",
+    "region": "Брянская область",
+    "lat": 52.5207056,
+    "lon": 33.2053408
+  },
+  {
+    "id": "kupolrussia_127485_Погарский",
+    "channel": "kupolrussia",
+    "date": "2026-09-12T05:02:49+00:00",
+    "text": "Погарский район \nБрянская область \nФиксации БПЛА от гг в тыл",
+    "type": "drone",
+    "location_name": "Погарский",
+    "region": "Брянская область",
+    "lat": 52.5207056,
+    "lon": 33.2053408
+  },
+  {
+    "id": "LPRalarm_233970",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T05:05:37+00:00",
+    "text": "Трасса Приазовское - Бердянск район Лозановка опасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_233971",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T05:11:58+00:00",
+    "text": "ОТБОЙ РАКЕТНОЙ ОПАСНОСТИ в Валуйском МО",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127486",
+    "channel": "kupolrussia",
+    "date": "2026-09-12T05:12:14+00:00",
+    "text": "ОТБОЙ РАКЕТНОЙ ОПАСНОСТИ в Валуйском МО\nБелгородская область",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_233972",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T05:13:06+00:00",
+    "text": "Огромное спасибо!\n❤️❤️❤️\nhttps://pay.cloudtips.ru/p/f2a9c1d8",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
