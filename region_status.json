@@ -22,10 +22,10 @@
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "alert",
-    "text": "Таганрог\nРостовская область\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-12T00:12:14+00:00",
-    "expires_at": "2026-09-12T01:12:14+00:00",
+    "text": "Таганрог\nРостовская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-12T00:26:40+00:00",
+    "expires_at": "2026-09-12T01:26:40+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,16 +46,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-11T23:46:42+00:00",
     "expires_at": "2026-09-12T00:46:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "петровск": {
-    "display_name": "Петровское область",
-    "type": "drone",
-    "text": "Петровское, ЛНР\nГруппа БпЛА в направлении Луганска\nМеры предосторожности!",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-11T23:20:08+00:00",
-    "expires_at": "2026-09-12T00:20:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +76,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-11T23:46:42+00:00",
     "expires_at": "2026-09-12T00:46:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Ближняя Игуменка и близлежащие, тревога по БпЛА \nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-12T00:25:28+00:00",
+    "expires_at": "2026-09-12T01:25:28+00:00",
     "count": null,
     "count_approx": false
   }
