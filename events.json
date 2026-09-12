@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_89757_Тольятти",
-    "channel": "vrv_radar",
-    "date": "2026-09-12T01:48:48+00:00",
-    "text": "Тольятти\nСамарская область\nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Тольятти",
-    "region": "Самарская область",
-    "lat": 53.5098845,
-    "lon": 49.4189187
-  },
-  {
-    "id": "vrv_radar_89758_Ставропольский",
-    "channel": "vrv_radar",
-    "date": "2026-09-12T01:50:52+00:00",
-    "text": "Ставропольский район \nСамарская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Ставропольский",
-    "region": "Самарская область",
-    "lat": 53.4995586,
-    "lon": 49.6856752
-  },
-  {
-    "id": "radarrussiia_93222_Тольятти",
-    "channel": "radarrussiia",
-    "date": "2026-09-12T01:51:58+00:00",
-    "text": "Тольятти\nСамарская область\nСбитие БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": "Тольятти",
-    "region": "Самарская область",
-    "lat": 53.5098845,
-    "lon": 49.4189187
-  },
-  {
-    "id": "vrv_radar_89759_Кузнецкий",
-    "channel": "vrv_radar",
-    "date": "2026-09-12T01:51:59+00:00",
-    "text": "Кузнецкий район\nПензенская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Кузнецкий",
-    "region": "Пензенская область",
-    "lat": 53.1878064,
-    "lon": 44.9796903
-  },
-  {
-    "id": "radarrussiia_93223_Ставропольский",
-    "channel": "radarrussiia",
-    "date": "2026-09-12T01:52:13+00:00",
-    "text": "Ставропольский район \nСамарская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Ставропольский",
-    "region": "Самарская область",
-    "lat": 53.4995586,
-    "lon": 49.6856752
-  },
-  {
     "id": "radarrussiia_93224_Кузнецкий",
     "channel": "radarrussiia",
     "date": "2026-09-12T01:52:29+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_93409_Сеченовский",
+    "channel": "radarrussiia",
+    "date": "2026-09-12T23:16:01+00:00",
+    "text": "Сеченовский район\nНижегородская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Сеченовский",
+    "region": "Нижегородская область",
+    "lat": 55.2106001,
+    "lon": 45.8385633
+  },
+  {
+    "id": "locatorru_85039",
+    "channel": "locatorru",
+    "date": "2026-09-12T23:16:37+00:00",
+    "text": "Особое внимание НПЗ, Маркетплейсы. \n\n📡Локатор России - @locatorru",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_89994_Кузнецкий",
+    "channel": "vrv_radar",
+    "date": "2026-09-12T23:21:55+00:00",
+    "text": "Кузнецкий район\nПензенская область\nЕщё фиксация БПЛА",
+    "type": "drone",
+    "location_name": "Кузнецкий",
+    "region": "Пензенская область",
+    "lat": 53.1878064,
+    "lon": 44.9796903
+  },
+  {
+    "id": "LPRalarm_234508",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T23:22:06+00:00",
+    "text": "Орловская область тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127915",
+    "channel": "kupolrussia",
+    "date": "2026-09-12T23:22:19+00:00",
+    "text": "Орловская область тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
     "lat": null,
     "lon": null
   }
