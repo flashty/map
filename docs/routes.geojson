@@ -240,6 +240,56 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-09-12T22:52:20+00:00",
+        "last_updated": "2026-09-12T23:24:37+00:00",
+        "path_labels": [
+          "Чувашская (Республика -)",
+          "Воротынский (Нижегородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.8306383,
+            55.8234944
+          ],
+          [
+            45.7088513,
+            56.1678343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-12T23:02:39+00:00",
+        "last_updated": "2026-09-12T23:26:42+00:00",
+        "path_labels": [
+          "Клепиковский (Рязанская область)",
+          "Курлово (Владимирская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.4540307,
+            55.0816095
+          ],
+          [
+            40.6106078,
+            55.4550805
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-09-12T23:02:42+00:00",
         "last_updated": "2026-09-12T23:02:42+00:00",
         "path_labels": [
