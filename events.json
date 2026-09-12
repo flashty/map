@@ -1,71 +1,5 @@
 [
   {
-    "id": "radarrussiia_93088_Саратов",
-    "channel": "radarrussiia",
-    "date": "2026-09-11T00:56:22+00:00",
-    "text": "Саратов\nСаратовская область\nПродолжается работа ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Саратов",
-    "region": "Саратовская область",
-    "lat": 51.530018,
-    "lon": 46.034683
-  },
-  {
-    "id": "LPRalarm_233475",
-    "channel": "LPRalarm",
-    "date": "2026-09-11T01:03:13+00:00",
-    "text": "Приозерное\nЧелядиново\nИ близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127046",
-    "channel": "kupolrussia",
-    "date": "2026-09-11T01:03:38+00:00",
-    "text": "Приозерное\nЧелядиново\nИ близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_89587",
-    "channel": "vrv_radar",
-    "date": "2026-09-11T01:04:02+00:00",
-    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_84700",
-    "channel": "locatorru",
-    "date": "2026-09-11T01:05:17+00:00",
-    "text": "Пермский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Пермский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_84701",
-    "channel": "locatorru",
-    "date": "2026-09-11T01:05:46+00:00",
-    "text": "Республика Башкортостан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Башкортостан",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_93089",
     "channel": "radarrussiia",
     "date": "2026-09-11T01:06:17+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Брянская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_234060",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T08:53:10+00:00",
+    "text": "Розовка\nВерхняя Крышка и близлежащие \nОпасность по БПЛА Шарк\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127567",
+    "channel": "kupolrussia",
+    "date": "2026-09-12T08:53:19+00:00",
+    "text": "Розовка\nВерхняя Крышка и близлежащие \nОпасность по БПЛА Шарк\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_234061",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T08:56:09+00:00",
+    "text": "Лутугино и близлежащие \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127568",
+    "channel": "kupolrussia",
+    "date": "2026-09-12T08:56:24+00:00",
+    "text": "Лутугино и близлежащие \nЛНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_234062_Выгоничи",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T09:00:14+00:00",
+    "text": "Выгоничи Брянская область фиксация БПЛА",
+    "type": "drone",
+    "location_name": "Выгоничи",
+    "region": "Брянская область",
+    "lat": 53.0978,
+    "lon": 34.0683
+  },
+  {
+    "id": "kupolrussia_127569_Выгоничи",
+    "channel": "kupolrussia",
+    "date": "2026-09-12T09:00:55+00:00",
+    "text": "Выгоничи Брянская область фиксация БПЛА",
+    "type": "drone",
+    "location_name": "Выгоничи",
+    "region": "Брянская область",
+    "lat": 53.0978,
+    "lon": 34.0683
   }
 ]
