@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_89606",
-    "channel": "vrv_radar",
-    "date": "2026-09-11T01:52:13+00:00",
-    "text": "Ростовская область \nВолгоградская область \nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_93109_Волжский",
-    "channel": "radarrussiia",
-    "date": "2026-09-11T01:52:15+00:00",
-    "text": "Приволжский, Волжский район Республика Марий Эл \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Волжский",
-    "region": "Республика Марий",
-    "lat": 56.0190524,
-    "lon": 48.5098928
-  },
-  {
     "id": "radarrussiia_93109_Приволжский",
     "channel": "radarrussiia",
     "date": "2026-09-11T01:52:15+00:00",
@@ -21998,5 +21976,27 @@
     "region": null,
     "lat": 43.5854823,
     "lon": 39.723109
+  },
+  {
+    "id": "LPRalarm_234102",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T11:23:46+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127603",
+    "channel": "kupolrussia",
+    "date": "2026-09-12T11:24:12+00:00",
+    "text": "Запорожская область РФ \nЛДНР \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
   }
 ]
