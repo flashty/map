@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_89483_Кумылженский",
-    "channel": "vrv_radar",
-    "date": "2026-09-10T22:31:03+00:00",
-    "text": "Кумылженский район\nВолгоградская область\nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Кумылженский",
-    "region": "Волгоградская область",
-    "lat": 49.8559962,
-    "lon": 42.4469881
-  },
-  {
-    "id": "vrv_radar_89484_Еланский",
-    "channel": "vrv_radar",
-    "date": "2026-09-10T22:32:41+00:00",
-    "text": "Еланский район\nВолгоградская область\nФиксация от 4 БПЛА",
-    "type": "drone",
-    "location_name": "Еланский",
-    "region": "Волгоградская область",
-    "lat": 49.5981534,
-    "lon": 42.182768
-  },
-  {
-    "id": "LPRalarm_233437",
-    "channel": "LPRalarm",
-    "date": "2026-09-10T22:32:50+00:00",
-    "text": "Донузлав \nМирный\nШтормовое \nУютное и близлежащие \nТревога по БПЛА  \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_89485_Даниловский",
-    "channel": "vrv_radar",
-    "date": "2026-09-10T22:33:03+00:00",
-    "text": "Даниловский район\nВолгоградская область\nФиксация от 4 БПЛА",
-    "type": "drone",
-    "location_name": "Даниловский",
-    "region": "Волгоградская область",
-    "lat": 50.3816533,
-    "lon": 44.1307373
-  },
-  {
-    "id": "kupolrussia_127012",
-    "channel": "kupolrussia",
-    "date": "2026-09-10T22:33:16+00:00",
-    "text": "Донузлав \nМирный\nШтормовое \nУютное и близлежащие \nТревога по БПЛА  \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_89486_Калининский",
     "channel": "vrv_radar",
     "date": "2026-09-10T22:33:27+00:00",
@@ -21996,6 +21941,61 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_89776",
+    "channel": "vrv_radar",
+    "date": "2026-09-12T03:34:58+00:00",
+    "text": "Липецкая область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_233949_Брянск",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T03:36:54+00:00",
+    "text": "Брянск, Бежица и близлежащие\nВнимание по БПЛА\nБрянская область",
+    "type": "drone",
+    "location_name": "Брянск",
+    "region": "Брянская область",
+    "lat": 53.2423778,
+    "lon": 34.3668288
+  },
+  {
+    "id": "LPRalarm_233950",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T03:40:37+00:00",
+    "text": "Ростовская область \nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_233951",
+    "channel": "LPRalarm",
+    "date": "2026-09-12T03:40:52+00:00",
+    "text": "Краснодарский край \nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127473",
+    "channel": "kupolrussia",
+    "date": "2026-09-12T03:41:14+00:00",
+    "text": "Ростовская область \nОтбой опасности БПЛА\n\nКраснодарский край \nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
     "lat": null,
     "lon": null
   }

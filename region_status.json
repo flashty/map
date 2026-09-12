@@ -1,14 +1,4 @@
 {
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "Кузоватовский район\nУльяновская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-12T02:34:40+00:00",
-    "expires_at": "2026-09-12T03:34:40+00:00",
-    "count": 2,
-    "count_approx": false
-  },
   "самарск": {
     "display_name": "Самарская область",
     "type": "drone",
@@ -26,6 +16,26 @@
     "channel": "locatorru",
     "updated_at": "2026-09-12T03:07:58+00:00",
     "expires_at": "2026-09-12T04:07:58+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "drone",
+    "text": "Липецкая область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-12T03:34:58+00:00",
+    "expires_at": "2026-09-12T04:34:58+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянск, Бежица и близлежащие\nВнимание по БПЛА\nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-12T03:36:54+00:00",
+    "expires_at": "2026-09-12T04:36:54+00:00",
     "count": null,
     "count_approx": false
   }
