@@ -1,60 +1,5 @@
 [
   {
-    "id": "locatorru_85071",
-    "channel": "locatorru",
-    "date": "2026-09-13T02:45:20+00:00",
-    "text": "Краснодарский край, Республика Адыгея - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_93487",
-    "channel": "radarrussiia",
-    "date": "2026-09-13T02:46:00+00:00",
-    "text": "Краснодарский край\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_234519",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T02:46:09+00:00",
-    "text": "Экстренная информация РСЧС: Отмена БЕСПИЛОТНОЙ ОПАСНОСТИ на территории Краснодарского края. 13.09.26 Телефон 112.",
-    "type": "alert",
-    "location_name": null,
-    "region": "Краснодарского края",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127926",
-    "channel": "kupolrussia",
-    "date": "2026-09-13T02:46:09+00:00",
-    "text": "Экстренная информация РСЧС: Отмена БЕСПИЛОТНОЙ ОПАСНОСТИ на территории Краснодарского края. 13.09.26 Телефон 112.",
-    "type": "alert",
-    "location_name": null,
-    "region": "Краснодарского края",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_90077_Нижнекамск",
-    "channel": "vrv_radar",
-    "date": "2026-09-13T02:47:22+00:00",
-    "text": "Нижнекамск\nРеспублика Татарстан\nМеры безопасности",
-    "type": "alert",
-    "location_name": "Нижнекамск",
-    "region": "Республика Татарстан",
-    "lat": 55.6412879,
-    "lon": 51.8160376
-  },
-  {
     "id": "vrv_radar_90078",
     "channel": "vrv_radar",
     "date": "2026-09-13T02:47:50+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90254_Волгоград",
+    "channel": "vrv_radar",
+    "date": "2026-09-13T22:40:16+00:00",
+    "text": "Волгоград\nВолгоградская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Волгоград",
+    "region": "Волгоградская область",
+    "lat": 48.7081906,
+    "lon": 44.5153353
+  },
+  {
+    "id": "LPRalarm_235197",
+    "channel": "LPRalarm",
+    "date": "2026-09-13T22:42:01+00:00",
+    "text": "Донецк и близлежащие\nТревога по БПЛА остаётся в действии",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_128530",
+    "channel": "kupolrussia",
+    "date": "2026-09-13T22:42:26+00:00",
+    "text": "Донецк и близлежащие\nТревога по БПЛА остаётся в действии",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235198",
+    "channel": "LPRalarm",
+    "date": "2026-09-13T22:45:12+00:00",
+    "text": "Сочи \nИ близлежащие\nТревога по БПЛА, повторно\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_128531",
+    "channel": "kupolrussia",
+    "date": "2026-09-13T22:45:29+00:00",
+    "text": "Сочи \nИ близлежащие\nТревога по БПЛА, повторно\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }

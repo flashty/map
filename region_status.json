@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Золотухинский район\nКурская область\nТревога по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-13T21:45:13+00:00",
-    "expires_at": "2026-09-13T22:45:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -70,12 +60,12 @@
     "count_approx": false
   },
   "волгоградск": {
-    "display_name": "Волгоградской области",
+    "display_name": "Волгоградская область",
     "type": "drone",
-    "text": "Обливский район\nРостовская область\nФиксация БПЛА в направлении Суровикинского района Волгоградской области\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-13T22:38:28+00:00",
-    "expires_at": "2026-09-13T23:38:28+00:00",
+    "text": "Волгоград\nВолгоградская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-13T22:40:16+00:00",
+    "expires_at": "2026-09-13T23:40:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -132,10 +122,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Анапский район\nКраснодарский край\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-13T22:21:42+00:00",
-    "expires_at": "2026-09-13T23:21:42+00:00",
+    "text": "Сочи \nИ близлежащие\nТревога по БПЛА, повторно\nКраснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-13T22:45:29+00:00",
+    "expires_at": "2026-09-13T23:45:29+00:00",
     "count": null,
     "count_approx": false
   },
