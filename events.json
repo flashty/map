@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_234065",
-    "channel": "LPRalarm",
-    "date": "2026-09-12T09:15:01+00:00",
-    "text": "Енакиево ДНР и близлежащие \nОпасность по БПЛА и ФПВ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127571",
-    "channel": "kupolrussia",
-    "date": "2026-09-12T09:15:17+00:00",
-    "text": "Енакиево ДНР и близлежащие \nОпасность по БПЛА и ФПВ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127572",
-    "channel": "kupolrussia",
-    "date": "2026-09-12T09:15:39+00:00",
-    "text": "Херсонская область РФ \nОтбой Авиационной Ракетной бомбовой опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_234066",
-    "channel": "LPRalarm",
-    "date": "2026-09-12T09:24:21+00:00",
-    "text": "Ясиноватая, Макеевка ДНР и близлежащие \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127573",
-    "channel": "kupolrussia",
-    "date": "2026-09-12T09:24:50+00:00",
-    "text": "Ясиноватая, Макеевка ДНР и близлежащие \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_89805",
-    "channel": "vrv_radar",
-    "date": "2026-09-12T09:25:32+00:00",
-    "text": "Краснодарский край \nРеспублика Адыгея \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_234067",
-    "channel": "LPRalarm",
-    "date": "2026-09-12T09:25:54+00:00",
-    "text": "Кучугуры и близлежащие \nКраснодарский край \nВнимание по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127574",
-    "channel": "kupolrussia",
-    "date": "2026-09-12T09:25:57+00:00",
-    "text": "Кучугуры и близлежащие \nКраснодарский край \nВнимание по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_234068",
     "channel": "LPRalarm",
     "date": "2026-09-12T09:28:14+00:00",
@@ -21996,6 +21908,94 @@
     "type": "drone",
     "location_name": null,
     "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90106",
+    "channel": "vrv_radar",
+    "date": "2026-09-13T05:35:35+00:00",
+    "text": "Орловская область\nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127954",
+    "channel": "kupolrussia",
+    "date": "2026-09-13T05:37:11+00:00",
+    "text": "Пензенская область \nСаратовская область \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_234551",
+    "channel": "LPRalarm",
+    "date": "2026-09-13T05:37:13+00:00",
+    "text": "Пензенская область \nСаратовская область \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_234552_Ленинский",
+    "channel": "LPRalarm",
+    "date": "2026-09-13T05:37:19+00:00",
+    "text": "Ленинский район, Кировский район, Феодосия, Чауда и близлежащие опасность по БПЛА с Азовского моря",
+    "type": "drone",
+    "location_name": "Ленинский",
+    "region": null,
+    "lat": 56.0736587,
+    "lon": 46.2661214
+  },
+  {
+    "id": "LPRalarm_234552_Кировский",
+    "channel": "LPRalarm",
+    "date": "2026-09-13T05:37:19+00:00",
+    "text": "Ленинский район, Кировский район, Феодосия, Чауда и близлежащие опасность по БПЛА с Азовского моря",
+    "type": "drone",
+    "location_name": "Кировский",
+    "region": null,
+    "lat": 51.298489,
+    "lon": 36.685303
+  },
+  {
+    "id": "LPRalarm_234552_Феодосия",
+    "channel": "LPRalarm",
+    "date": "2026-09-13T05:37:19+00:00",
+    "text": "Ленинский район, Кировский район, Феодосия, Чауда и близлежащие опасность по БПЛА с Азовского моря",
+    "type": "drone",
+    "location_name": "Феодосия",
+    "region": null,
+    "lat": 51.7088258,
+    "lon": 36.1164524
+  },
+  {
+    "id": "radarrussiia_93496",
+    "channel": "radarrussiia",
+    "date": "2026-09-13T05:38:17+00:00",
+    "text": "Тульская область\nТамбовская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_93497",
+    "channel": "radarrussiia",
+    "date": "2026-09-13T05:45:39+00:00",
+    "text": "Карачаево-Черкесская Республика\nКабардино-Балкарская Республика\nРеспублика Северная Осетия\nРеспублика Ингушетия\nРеспублика Дагестан\nЧеченская Республика\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика\nКабардино-Балкарская",
     "lat": null,
     "lon": null
   }
