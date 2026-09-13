@@ -1,21 +1,11 @@
 {
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "alert",
-    "text": "Славянский район\nКраснодарский край\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-13T00:28:48+00:00",
-    "expires_at": "2026-09-13T01:28:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "владимирск": {
-    "display_name": "Владимирская область",
     "type": "drone",
-    "text": "Гусь-Хрустальный, Владимир, Ковров\nВладимирская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-13T00:25:15+00:00",
-    "expires_at": "2026-09-13T01:25:15+00:00",
+    "text": "Краснодарский край - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-13T01:22:10+00:00",
+    "expires_at": "2026-09-13T02:22:10+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,16 +16,6 @@
     "channel": "locatorru",
     "updated_at": "2026-09-13T01:10:56+00:00",
     "expires_at": "2026-09-13T02:10:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "марий": {
-    "display_name": "Республика Марий",
-    "type": "alert",
-    "text": "Йошкар-Ола, Марийский НПЗ\nРеспублика Марий Эл \nОпасность от Чувашской Республики\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-13T00:23:25+00:00",
-    "expires_at": "2026-09-13T01:23:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +46,36 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-13T01:13:54+00:00",
     "expires_at": "2026-09-13T02:13:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Камские Поляны\nНижнекамский район\nРеспублика Татарстан\nФиксация БПЛА в сторону Нижнекамска\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-13T01:30:41+00:00",
+    "expires_at": "2026-09-13T02:30:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "удмурт": {
+    "display_name": "Республика Удмуртия",
+    "type": "drone",
+    "text": "Кизнерский район\nГраховский район\nМожгинский район\nАлнашский район\nКиясовский район\nСарапульский район\nКамбарский район\nКаракулинский район\nМожга\nСарапул\nРеспублика Удмуртия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-13T01:30:17+00:00",
+    "expires_at": "2026-09-13T02:30:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ульяновск": {
+    "display_name": "Ульяновская область",
+    "type": "drone",
+    "text": "Верхняя Якушка, Ульяновская область - фиксации БПЛА на северо-восток в направлении Республики Татарстан. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-13T01:25:26+00:00",
+    "expires_at": "2026-09-13T02:25:26+00:00",
     "count": null,
     "count_approx": false
   }
