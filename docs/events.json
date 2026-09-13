@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_234000",
-    "channel": "LPRalarm",
-    "date": "2026-09-12T06:49:20+00:00",
-    "text": "Смоленская область по границе с Республикой Беларусь опасность по БПЛА в северо-западном направлении",
-    "type": "drone",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_14477",
-    "channel": "radar_plus_bpla",
-    "date": "2026-09-12T06:49:32+00:00",
-    "text": "Отбой опасности БПЛА по всем ранее объявленным регионам.\n\nВсе цели уничтожены.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_93243",
-    "channel": "radarrussiia",
-    "date": "2026-09-12T06:50:46+00:00",
-    "text": "Республика Адыгея\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Адыгея",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_234001_Шебекинский",
-    "channel": "LPRalarm",
-    "date": "2026-09-12T06:53:29+00:00",
-    "text": "Вознесеновка и близлежащие \nУдарный БПЛА в направлении \nШебекинский район",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
     "id": "LPRalarm_234002",
     "channel": "LPRalarm",
     "date": "2026-09-12T06:53:36+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Республика Татарстан",
     "lat": 55.6412879,
     "lon": 51.8160376
+  },
+  {
+    "id": "vrv_radar_90069_Нижнекамск",
+    "channel": "vrv_radar",
+    "date": "2026-09-13T02:18:31+00:00",
+    "text": "Нижнекамск\nРеспублика Татарстан\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Нижнекамск",
+    "region": "Республика Татарстан",
+    "lat": 55.6412879,
+    "lon": 51.8160376
+  },
+  {
+    "id": "radarrussiia_93482_Нижнекамск",
+    "channel": "radarrussiia",
+    "date": "2026-09-13T02:21:47+00:00",
+    "text": "Нижнекамск\nРеспублика Татарстан\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Нижнекамск",
+    "region": "Республика Татарстан",
+    "lat": 55.6412879,
+    "lon": 51.8160376
+  },
+  {
+    "id": "vrv_radar_90070",
+    "channel": "vrv_radar",
+    "date": "2026-09-13T02:22:14+00:00",
+    "text": "Московская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_93483",
+    "channel": "radarrussiia",
+    "date": "2026-09-13T02:22:21+00:00",
+    "text": "Московская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
   }
 ]
