@@ -1,24 +1,4 @@
 {
-  "самарск": {
-    "display_name": "Самарская область",
-    "type": "drone",
-    "text": "Сызрань\nСамарская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-12T23:53:24+00:00",
-    "expires_at": "2026-09-13T00:53:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "Чувашский Сайман, Николаевский район, Ульяновская область - фиксации БПЛА в сторону Николаевки.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-12T23:59:51+00:00",
-    "expires_at": "2026-09-13T00:59:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "alert",
@@ -27,16 +7,6 @@
     "updated_at": "2026-09-13T00:28:48+00:00",
     "expires_at": "2026-09-13T01:28:48+00:00",
     "count": null,
-    "count_approx": false
-  },
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "drone",
-    "text": "Иссинский район\nПензенская область\nФиксация 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-12T23:57:36+00:00",
-    "expires_at": "2026-09-13T00:57:36+00:00",
-    "count": 2,
     "count_approx": false
   },
   "владимирск": {
@@ -69,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Грайворон, Белгородская область, тревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-12T23:50:23+00:00",
-    "expires_at": "2026-09-13T00:50:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "марий": {
     "display_name": "Республика Марий",
     "type": "alert",
@@ -86,16 +46,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-13T00:23:25+00:00",
     "expires_at": "2026-09-13T01:23:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "удмурт": {
-    "display_name": "Республика Удмуртия",
-    "type": "drone",
-    "text": "Республика Удмуртия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-12T23:54:22+00:00",
-    "expires_at": "2026-09-13T00:54:22+00:00",
     "count": null,
     "count_approx": false
   },
@@ -112,10 +62,10 @@
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Нижнекамск\nРеспублика Татарстан\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Нижнекамский район\nРеспублика Татарстан\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-13T00:43:16+00:00",
-    "expires_at": "2026-09-13T01:43:16+00:00",
+    "updated_at": "2026-09-13T01:01:10+00:00",
+    "expires_at": "2026-09-13T02:01:10+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +76,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-13T00:43:47+00:00",
     "expires_at": "2026-09-13T01:43:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "башкортост": {
+    "display_name": "Республика Башкортостан",
+    "type": "drone",
+    "text": "Стерлитамак, Уфа, Салават, Республика Башкортостан \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-13T00:53:09+00:00",
+    "expires_at": "2026-09-13T01:53:09+00:00",
     "count": null,
     "count_approx": false
   }
