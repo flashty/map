@@ -1,14 +1,4 @@
 {
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Краснодарский край - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-13T01:22:10+00:00",
-    "expires_at": "2026-09-13T02:22:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "-": {
     "display_name": "Республика -",
     "type": "drone",
@@ -16,16 +6,6 @@
     "channel": "locatorru",
     "updated_at": "2026-09-13T01:10:56+00:00",
     "expires_at": "2026-09-13T02:10:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "опаснос": {
-    "display_name": "Республика \nОпасность",
-    "type": "drone",
-    "text": "Ижевск, Воткинск и близлежащие\nУдмуртская Республика \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-13T00:43:47+00:00",
-    "expires_at": "2026-09-13T01:43:47+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "татарст": {
-    "display_name": "Республика Татарстан",
-    "type": "drone",
-    "text": "Камские Поляны\nНижнекамский район\nРеспублика Татарстан\nФиксация БПЛА в сторону Нижнекамска\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-13T01:30:41+00:00",
-    "expires_at": "2026-09-13T02:30:41+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "удмурт": {
     "display_name": "Республика Удмуртия",
     "type": "drone",
@@ -76,6 +46,26 @@
     "channel": "locatorru",
     "updated_at": "2026-09-13T01:25:26+00:00",
     "expires_at": "2026-09-13T02:25:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Камские Поляны\nРеспублика Татарстан\nФиксация БПЛА в сторону Нижнекамска",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-13T01:45:21+00:00",
+    "expires_at": "2026-09-13T02:45:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Краснодон и далее на восток\nЛНР\nТревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-13T01:41:47+00:00",
+    "expires_at": "2026-09-13T02:41:47+00:00",
     "count": null,
     "count_approx": false
   }
