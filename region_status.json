@@ -22,10 +22,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Марковка\nПриозерное \nЧелядиново и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-13T11:41:19+00:00",
-    "expires_at": "2026-09-13T12:41:19+00:00",
+    "text": "Оленевка и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-13T12:01:13+00:00",
+    "expires_at": "2026-09-13T13:01:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,10 +72,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Славянский район \nКраснодарский край \nЕще фиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Сочи и близлежащие \nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-13T11:46:17+00:00",
-    "expires_at": "2026-09-13T12:46:17+00:00",
+    "updated_at": "2026-09-13T11:58:49+00:00",
+    "expires_at": "2026-09-13T12:58:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -112,10 +112,20 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Спартак, Донецк ДНР и близлежащие \nОпасность по БПЛА Хорнет",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-13T11:44:15+00:00",
-    "expires_at": "2026-09-13T12:44:15+00:00",
+    "text": "Авдеевка, Донецк ДНР и близлежащие \nОпасность по БПЛА Хорнет",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-13T12:01:21+00:00",
+    "expires_at": "2026-09-13T13:01:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Ростовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-13T12:00:43+00:00",
+    "expires_at": "2026-09-13T13:00:43+00:00",
     "count": null,
     "count_approx": false
   }
