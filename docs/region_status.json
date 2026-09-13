@@ -10,12 +10,12 @@
     "count_approx": false
   },
   "херсонск": {
-    "display_name": "Херсонская область",
+    "display_name": "Херсонской области",
     "type": "drone",
-    "text": "Каховка \nХерсонская область РФ \nБПЛА разведчик",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-13T15:08:10+00:00",
-    "expires_at": "2026-09-13T16:08:10+00:00",
+    "text": "Николаевская область подготовка к запускам БПЛА в направлении Херсонской области РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-13T15:38:03+00:00",
+    "expires_at": "2026-09-13T16:38:03+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,6 +26,36 @@
     "channel": "locatorru",
     "updated_at": "2026-09-13T15:29:26+00:00",
     "expires_at": "2026-09-13T16:29:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "николаевск": {
+    "display_name": "Николаевская область",
+    "type": "drone",
+    "text": "Николаевская область подготовка к запускам БПЛА в направлении Херсонской области РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-13T15:38:03+00:00",
+    "expires_at": "2026-09-13T16:38:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Запорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-13T15:38:31+00:00",
+    "expires_at": "2026-09-13T16:38:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Авдеевка, Донецк, Ясиноватая ДНР и близлежащие \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-13T15:45:27+00:00",
+    "expires_at": "2026-09-13T16:45:27+00:00",
     "count": null,
     "count_approx": false
   }
