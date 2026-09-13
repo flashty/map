@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_234092",
-    "channel": "LPRalarm",
-    "date": "2026-09-12T10:34:13+00:00",
-    "text": "Причерноморье Краснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127593",
-    "channel": "kupolrussia",
-    "date": "2026-09-12T10:34:23+00:00",
-    "text": "Краснодарский край\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127594",
-    "channel": "kupolrussia",
-    "date": "2026-09-12T10:34:32+00:00",
-    "text": "Причерноморье Краснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_89809",
-    "channel": "vrv_radar",
-    "date": "2026-09-12T10:39:20+00:00",
-    "text": "Ростовская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_234093",
-    "channel": "LPRalarm",
-    "date": "2026-09-12T10:42:19+00:00",
-    "text": "Шебекино \nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127595",
-    "channel": "kupolrussia",
-    "date": "2026-09-12T10:42:42+00:00",
-    "text": "Шебекино \nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_89810",
-    "channel": "vrv_radar",
-    "date": "2026-09-12T10:43:09+00:00",
-    "text": "Туапсе и близлежащие \nСочи и близлежащие \nКраснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_127596",
     "channel": "kupolrussia",
     "date": "2026-09-12T10:47:17+00:00",
@@ -21996,6 +21919,83 @@
     "type": "unknown",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_234568",
+    "channel": "LPRalarm",
+    "date": "2026-09-13T06:51:11+00:00",
+    "text": "Белгород, Белгородский район и ситуативно Белгородская область! \nРакетная опасность! Займите Безопасные места!\n\n\nПотенциальная опасность для Курской области и Воронежской области",
+    "type": "missile",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127971",
+    "channel": "kupolrussia",
+    "date": "2026-09-13T06:51:24+00:00",
+    "text": "Белгородская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_234569",
+    "channel": "LPRalarm",
+    "date": "2026-09-13T06:51:48+00:00",
+    "text": "Экстренная информация РСЧС: РАКЕТНАЯ ОПАСНОСТЬ в Валуйском МО 09:50. Спуститесь в подвальное помещение или подземное пространство.",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_234570",
+    "channel": "LPRalarm",
+    "date": "2026-09-13T06:52:59+00:00",
+    "text": "РАКЕТНАЯ ОПАСНОСТЬ в Шебекинском МО 09:52. Спуститесь в подвальное помещение или подземное пространство.",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127972",
+    "channel": "kupolrussia",
+    "date": "2026-09-13T06:53:16+00:00",
+    "text": "РАКЕТНАЯ ОПАСНОСТЬ в Шебекинском МО 09:52. Спуститесь в подвальное помещение или подземное пространство.",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_234571",
+    "channel": "LPRalarm",
+    "date": "2026-09-13T06:57:00+00:00",
+    "text": "Белгородская область, отбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_127973",
+    "channel": "kupolrussia",
+    "date": "2026-09-13T06:57:09+00:00",
+    "text": "Белгородская область, отбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородская область",
     "lat": null,
     "lon": null
   }
