@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_127761",
-    "channel": "kupolrussia",
-    "date": "2026-09-12T18:07:01+00:00",
-    "text": "Кременная\nСеверодонецк\nЛисичанск\nИ близлежащие\nТревога по БПЛА\nИ далее в тыл\n\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_84926",
-    "channel": "locatorru",
-    "date": "2026-09-12T18:07:17+00:00",
-    "text": "Вся Белгородская область, Вся Воронежская область, Вся Ростовская область - опасность по БПЛА. Очень много БПЛА от ЛНР и Харькова. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_234292",
-    "channel": "LPRalarm",
-    "date": "2026-09-12T18:07:28+00:00",
-    "text": "Мелитополь и близлежащие\nТревога по БПЛА от Веселое\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_89864",
-    "channel": "vrv_radar",
-    "date": "2026-09-12T18:07:31+00:00",
-    "text": "Стык Орловской и Тульской областей\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульской областей",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_84927_Новороссийск",
-    "channel": "locatorru",
-    "date": "2026-09-12T18:07:39+00:00",
-    "text": "Новороссийск, Геленджик, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Новороссийск",
-    "region": "Краснодарский край",
-    "lat": 44.7239578,
-    "lon": 37.7690711
-  },
-  {
-    "id": "locatorru_84927_Геленджик",
-    "channel": "locatorru",
-    "date": "2026-09-12T18:07:39+00:00",
-    "text": "Новороссийск, Геленджик, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Геленджик",
-    "region": "Краснодарский край",
-    "lat": 44.5609447,
-    "lon": 38.0766832
-  },
-  {
     "id": "LPRalarm_234293",
     "channel": "LPRalarm",
     "date": "2026-09-12T18:07:40+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_234823",
+    "channel": "LPRalarm",
+    "date": "2026-09-13T15:08:10+00:00",
+    "text": "Каховка \nХерсонская область РФ \nБПЛА разведчик",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_85116",
+    "channel": "locatorru",
+    "date": "2026-09-13T15:12:35+00:00",
+    "text": "Краснодарский край, Республика Адыгея - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_234824",
+    "channel": "LPRalarm",
+    "date": "2026-09-13T15:12:45+00:00",
+    "text": "Арабатская стрелка и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_128204",
+    "channel": "kupolrussia",
+    "date": "2026-09-13T15:12:53+00:00",
+    "text": "Арабатская стрелка и близлежащие\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90141",
+    "channel": "vrv_radar",
+    "date": "2026-09-13T15:13:55+00:00",
+    "text": "Краснодарский край\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90142",
+    "channel": "vrv_radar",
+    "date": "2026-09-13T15:14:28+00:00",
+    "text": "Республика Адыгея\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Адыгея",
     "lat": null,
     "lon": null
   }
