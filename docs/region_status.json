@@ -9,36 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Карачев, Брянская область - фиксации БПЛА в направлении Калужской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-13T12:13:10+00:00",
-    "expires_at": "2026-09-13T13:13:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужской области",
-    "type": "drone",
-    "text": "Карачев, Брянская область - фиксации БПЛА в направлении Калужской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-13T12:13:10+00:00",
-    "expires_at": "2026-09-13T13:13:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "missile",
-    "text": "Нижняя Дуванка \nЛНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-13T12:04:04+00:00",
-    "expires_at": "2026-09-13T13:04:04+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -46,16 +16,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-13T12:49:21+00:00",
     "expires_at": "2026-09-13T13:49:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Авдеевка, Донецк ДНР и близлежащие \nОпасность по БПЛА Хорнет",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-13T12:01:21+00:00",
-    "expires_at": "2026-09-13T13:01:21+00:00",
     "count": null,
     "count_approx": false
   },
@@ -69,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарско": {
-    "display_name": "Краснодарского края",
-    "type": "drone",
-    "text": "Южная часть Ростовской области, Северная часть и Азовское побережье Краснодарского края - опасность по БПЛА. \n\nЧерноморское побережье Краснодарского края - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-13T12:15:09+00:00",
-    "expires_at": "2026-09-13T13:15:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
@@ -89,23 +39,23 @@
     "count": null,
     "count_approx": false
   },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "alert",
-    "text": "Знаменский район \nОрловская область \nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-13T13:00:55+00:00",
-    "expires_at": "2026-09-13T14:00:55+00:00",
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "missile",
+    "text": "Запорожская область РФ \nЛДНР \nАвиационная ракетно бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-13T13:04:25+00:00",
+    "expires_at": "2026-09-13T14:04:25+00:00",
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Мелитопольский район и близлежащие \nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-13T12:45:52+00:00",
-    "expires_at": "2026-09-13T13:45:52+00:00",
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "alert",
+    "text": "Орел\nОрловская область \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-13T13:10:33+00:00",
+    "expires_at": "2026-09-13T14:10:33+00:00",
     "count": null,
     "count_approx": false
   }
