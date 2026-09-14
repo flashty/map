@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_234532",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T04:37:39+00:00",
-    "text": "Воронежская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127938",
-    "channel": "kupolrussia",
-    "date": "2026-09-13T04:37:52+00:00",
-    "text": "Воронежская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_93495",
-    "channel": "radarrussiia",
-    "date": "2026-09-13T04:40:36+00:00",
-    "text": "Воронежская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_85083",
-    "channel": "locatorru",
-    "date": "2026-09-13T04:52:09+00:00",
-    "text": "Московская область, Тульская область, Рязанская область, Липецкая область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_90089",
-    "channel": "vrv_radar",
-    "date": "2026-09-13T04:52:37+00:00",
-    "text": "Тульская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_90090",
-    "channel": "vrv_radar",
-    "date": "2026-09-13T04:54:25+00:00",
-    "text": "Тамбовская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_234533_Крым",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T04:56:03+00:00",
-    "text": "Раздольное в направлении Евпатория, Новоселовское внимание по возможным БПЛА \nКрым",
-    "type": "drone",
-    "location_name": "Крым",
-    "region": null,
-    "lat": 47.303017,
-    "lon": 39.51408
-  },
-  {
     "id": "kupolrussia_127939_Крым",
     "channel": "kupolrussia",
     "date": "2026-09-13T04:56:09+00:00",
@@ -21998,5 +21921,82 @@
     "region": "Республика Калмыкия",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_235212",
+    "channel": "LPRalarm",
+    "date": "2026-09-13T23:47:50+00:00",
+    "text": "Туапсе и близлежащие\nМеры безопасности при сбитиях БПЛА\nТревога сохраняется\nКраснодарский край",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_128544",
+    "channel": "kupolrussia",
+    "date": "2026-09-13T23:48:13+00:00",
+    "text": "Туапсе и близлежащие\nМеры безопасности при сбитиях БПЛА\nТревога сохраняется\nКраснодарский край",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90262",
+    "channel": "vrv_radar",
+    "date": "2026-09-13T23:54:18+00:00",
+    "text": "Сочи и близлежащие\nКраснодарский край\nПродолжаются сбития БПЛА\nМеры безопасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_93630",
+    "channel": "radarrussiia",
+    "date": "2026-09-13T23:54:51+00:00",
+    "text": "Сочи и близлежащие\nКраснодарский край\nПродолжаются сбития БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_85176_Туапсе",
+    "channel": "locatorru",
+    "date": "2026-09-13T23:56:17+00:00",
+    "text": "Туапсе, Сочи и близлежащие, Краснодарский край - ещё фиксации БПЛА над морем. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Туапсе",
+    "region": "Краснодарский край",
+    "lat": 44.0984747,
+    "lon": 39.0718875
+  },
+  {
+    "id": "locatorru_85177",
+    "channel": "locatorru",
+    "date": "2026-09-13T23:56:32+00:00",
+    "text": "Ростовская область - опасность по БПЛА сохраняется во всех районах. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90263_Октябрьский",
+    "channel": "vrv_radar",
+    "date": "2026-09-13T23:57:30+00:00",
+    "text": "Октябрьский район\nВолгоградская область\nФиксация группы БПЛА в направлении республики Калмыкия",
+    "type": "drone",
+    "location_name": "Октябрьский",
+    "region": "Волгоградская область",
+    "lat": 47.968594,
+    "lon": 43.653126
   }
 ]
