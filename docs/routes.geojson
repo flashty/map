@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-09-14T03:35:49+00:00",
-        "last_updated": "2026-09-14T04:19:52+00:00",
-        "path_labels": [
-          "Шаблыкинский (Орловская область)",
-          "Брасовский (Брянская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1025788,
-            52.8579891
-          ],
-          [
-            34.7134905,
-            52.632653
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
