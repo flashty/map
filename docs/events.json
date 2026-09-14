@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_127969",
-    "channel": "kupolrussia",
-    "date": "2026-09-13T06:44:10+00:00",
-    "text": "Стык Николаевской и Одесской областей\nВыходы БПЛА в акваторию Черного моря",
-    "type": "drone",
-    "location_name": null,
-    "region": "Одесской областей",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_234567",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T06:44:43+00:00",
-    "text": "Евпатория, Уютное, Заозёрное, Саки\nРеспублика Крым \nВнимание по МВШ, в т.ч. со сбросами",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127970",
-    "channel": "kupolrussia",
-    "date": "2026-09-13T06:45:16+00:00",
-    "text": "Евпатория, Уютное, Заозёрное, Саки\nРеспублика Крым \nВнимание по МВШ, в т.ч. со сбросами",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_234568",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T06:51:11+00:00",
-    "text": "Белгород, Белгородский район и ситуативно Белгородская область! \nРакетная опасность! Займите Безопасные места!\n\n\nПотенциальная опасность для Курской области и Воронежской области",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127971",
-    "channel": "kupolrussia",
-    "date": "2026-09-13T06:51:24+00:00",
-    "text": "Белгородская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_234569",
     "channel": "LPRalarm",
     "date": "2026-09-13T06:51:48+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Брянская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "kupolrussia_128564_Северный Кавказ",
+    "channel": "kupolrussia",
+    "date": "2026-09-14T04:05:00+00:00",
+    "text": "Северный Кавказ",
+    "type": "unknown",
+    "location_name": "Северный Кавказ",
+    "region": null,
+    "lat": 51.315148,
+    "lon": 41.767303
+  },
+  {
+    "id": "LPRalarm_235234_Северный Кавказ",
+    "channel": "LPRalarm",
+    "date": "2026-09-14T04:05:09+00:00",
+    "text": "Северный Кавказ",
+    "type": "unknown",
+    "location_name": "Северный Кавказ",
+    "region": null,
+    "lat": 51.315148,
+    "lon": 41.767303
+  },
+  {
+    "id": "kupolrussia_128565",
+    "channel": "kupolrussia",
+    "date": "2026-09-14T04:05:32+00:00",
+    "text": "Тамбовская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235235",
+    "channel": "LPRalarm",
+    "date": "2026-09-14T04:05:38+00:00",
+    "text": "Тамбовская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235236_Брасовский",
+    "channel": "LPRalarm",
+    "date": "2026-09-14T04:07:24+00:00",
+    "text": "Брасовский район \nОпасность по БПЛА Брянская область",
+    "type": "drone",
+    "location_name": "Брасовский",
+    "region": "Брянская область",
+    "lat": 52.632653,
+    "lon": 34.7134905
   }
 ]
