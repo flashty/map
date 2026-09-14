@@ -1,14 +1,4 @@
 {
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "В направлении Ялты с запада 2 БПЛА\nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-14T10:57:53+00:00",
-    "expires_at": "2026-09-14T11:57:53+00:00",
-    "count": 2,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
@@ -26,6 +16,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-14T10:39:19+00:00",
     "expires_at": "2026-09-14T11:39:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Каховка \nХерсонская область РФ \nБПЛА разведчик",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-14T11:03:22+00:00",
+    "expires_at": "2026-09-14T12:03:22+00:00",
     "count": null,
     "count_approx": false
   }
