@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Херсонская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-14T05:21:31+00:00",
-    "expires_at": "2026-09-14T06:21:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -36,6 +26,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-14T06:02:11+00:00",
     "expires_at": "2026-09-14T07:02:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Белгородский район \nБелгородская область \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-14T06:24:33+00:00",
+    "expires_at": "2026-09-14T07:24:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Сухиничи и близлежащие \nОпасность по БПЛА \nКалужская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-14T06:30:35+00:00",
+    "expires_at": "2026-09-14T07:30:35+00:00",
     "count": null,
     "count_approx": false
   }
