@@ -61,11 +61,11 @@
   },
   "ростовск": {
     "display_name": "Ростовская область",
-    "type": "alert",
-    "text": "Зерноградский район\nРостовская область \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-14T20:29:58+00:00",
-    "expires_at": "2026-09-14T21:29:58+00:00",
+    "type": "missile",
+    "text": "Ростовская область\nАвиационная ракетно-бомбовая опасность",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-14T20:32:07+00:00",
+    "expires_at": "2026-09-14T21:32:07+00:00",
     "count": null,
     "count_approx": false
   },
@@ -92,10 +92,10 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Тула\nТульская область \nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-14T20:27:26+00:00",
-    "expires_at": "2026-09-14T21:27:26+00:00",
+    "text": "Тула\nТульская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-14T20:31:33+00:00",
+    "expires_at": "2026-09-14T21:31:33+00:00",
     "count": null,
     "count_approx": false
   },
@@ -202,20 +202,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Краснодарский край\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-14T20:31:01+00:00",
-    "expires_at": "2026-09-14T21:31:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "самарск": {
-    "display_name": "Самарская область",
-    "type": "drone",
-    "text": "Тольятти, Сызрань, Самара, Новокуйбышевск, Самарская область - опасность по БПЛА от Саратовской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-14T20:30:56+00:00",
-    "expires_at": "2026-09-14T21:30:56+00:00",
+    "text": "Краснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-14T20:32:10+00:00",
+    "expires_at": "2026-09-14T21:32:10+00:00",
     "count": null,
     "count_approx": false
   }
