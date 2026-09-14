@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-14T11:04:34+00:00",
+        "last_updated": "2026-09-14T11:30:17+00:00",
+        "path_labels": [
+          "Севастополь",
+          "Посёлка (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.186371,
+            53.456383
+          ],
+          [
+            34.3208708,
+            53.2576901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-14T11:30:59+00:00",
+        "last_updated": "2026-09-14T11:30:59+00:00",
+        "path_labels": [
+          "Республики Крым",
+          "Краснодарский край"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.42471057508752,
+            45.26805741711
+          ],
+          [
+            39.49316508777573,
+            45.261497529767816
+          ]
+        ]
+      }
+    }
+  ]
 }
