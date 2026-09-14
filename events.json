@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_127944",
-    "channel": "kupolrussia",
-    "date": "2026-09-13T05:02:23+00:00",
-    "text": "Липецкая область \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_234540",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T05:02:26+00:00",
-    "text": "Липецкая область \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_85091",
-    "channel": "locatorru",
-    "date": "2026-09-13T05:04:04+00:00",
-    "text": "Предварительно были пуски крылатых ракет из-под Сум в направлении Курской области и далее в тыл. \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Курской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127945",
-    "channel": "kupolrussia",
-    "date": "2026-09-13T05:04:15+00:00",
-    "text": "Воронежская область ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_234541",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T05:05:07+00:00",
-    "text": "Токмак и близлежащие опасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_85092",
-    "channel": "locatorru",
-    "date": "2026-09-13T05:05:10+00:00",
-    "text": "г.Курск и район, Курская область, меры безопасности при ракетной. \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_127946",
     "channel": "kupolrussia",
     "date": "2026-09-13T05:05:21+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Курская область",
     "lat": 51.74807,
     "lon": 36.343323
+  },
+  {
+    "id": "LPRalarm_235215",
+    "channel": "LPRalarm",
+    "date": "2026-09-14T00:26:14+00:00",
+    "text": "Сочи\nАдлер\nИ ближайшие\nТревога по БПЛА остаётся в действии\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235216",
+    "channel": "LPRalarm",
+    "date": "2026-09-14T00:27:03+00:00",
+    "text": "Курская область и близлежащие\nАвиакомпании ракетно-бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_128547",
+    "channel": "kupolrussia",
+    "date": "2026-09-14T00:27:40+00:00",
+    "text": "Курская область и близлежащие\nАвиакомпании ракетно-бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90271",
+    "channel": "vrv_radar",
+    "date": "2026-09-14T00:28:58+00:00",
+    "text": "Сочи и близлежащие\nКраснодарский край\nПродолжается работа ПВО по БПЛА\nМеры безопасности",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_85183_Сочи",
+    "channel": "locatorru",
+    "date": "2026-09-14T00:31:04+00:00",
+    "text": "Сочи, Адлер, Сириус и близлежащие, Краснодарский край - опасность атаки БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Сочи",
+    "region": "Краснодарский край",
+    "lat": 43.5854823,
+    "lon": 39.723109
+  },
+  {
+    "id": "locatorru_85183_Адлер",
+    "channel": "locatorru",
+    "date": "2026-09-14T00:31:04+00:00",
+    "text": "Сочи, Адлер, Сириус и близлежащие, Краснодарский край - опасность атаки БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Адлер",
+    "region": "Краснодарский край",
+    "lat": 43.4439715,
+    "lon": 39.9400928
   }
 ]
