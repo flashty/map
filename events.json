@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_127976",
-    "channel": "kupolrussia",
-    "date": "2026-09-13T07:23:23+00:00",
-    "text": "Угледар ДНР ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_234575_Луганск",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T07:27:13+00:00",
-    "text": "Алчевск, Луганск, Юбилейное, аэродром Острая Могила, Переможное и близлежащие,\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Луганск",
-    "region": null,
-    "lat": 53.622169,
-    "lon": 77.599037
-  },
-  {
-    "id": "LPRalarm_234575_Юбилейное",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T07:27:13+00:00",
-    "text": "Алчевск, Луганск, Юбилейное, аэродром Острая Могила, Переможное и близлежащие,\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Юбилейное",
-    "region": null,
-    "lat": 43.873814,
-    "lon": 46.728188
-  },
-  {
-    "id": "LPRalarm_234575_Острая Могила",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T07:27:13+00:00",
-    "text": "Алчевск, Луганск, Юбилейное, аэродром Острая Могила, Переможное и близлежащие,\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Острая Могила",
-    "region": null,
-    "lat": 44.7804445,
-    "lon": 38.6572815
-  },
-  {
-    "id": "kupolrussia_127977_Луганск",
-    "channel": "kupolrussia",
-    "date": "2026-09-13T07:27:17+00:00",
-    "text": "Алчевск, Луганск, Юбилейное, аэродром Острая Могила, Переможное и близлежащие,\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Луганск",
-    "region": null,
-    "lat": 53.622169,
-    "lon": 77.599037
-  },
-  {
-    "id": "kupolrussia_127977_Юбилейное",
-    "channel": "kupolrussia",
-    "date": "2026-09-13T07:27:17+00:00",
-    "text": "Алчевск, Луганск, Юбилейное, аэродром Острая Могила, Переможное и близлежащие,\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Юбилейное",
-    "region": null,
-    "lat": 43.873814,
-    "lon": 46.728188
-  },
-  {
     "id": "kupolrussia_127977_Острая Могила",
     "channel": "kupolrussia",
     "date": "2026-09-13T07:27:17+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235242",
+    "channel": "LPRalarm",
+    "date": "2026-09-14T04:48:28+00:00",
+    "text": "Очеретино, Новогродовка ДНР и близлежащие \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_85195",
+    "channel": "locatorru",
+    "date": "2026-09-14T04:54:01+00:00",
+    "text": "Белгородская область, Воронежская область, Тамбовская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_85196",
+    "channel": "locatorru",
+    "date": "2026-09-14T04:54:54+00:00",
+    "text": "14/09/2026 07:50 МСК.\n\nОпасность по БПЛА сохраняется:\n\n🔻Брянская область;\n🔻Смоленская область;\n🔻Калужская область;\n🔻Курская область;\n🔻Орловская область.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235243",
+    "channel": "LPRalarm",
+    "date": "2026-09-14T04:58:41+00:00",
+    "text": "Шелковое\nЛуначарское и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_128567",
+    "channel": "kupolrussia",
+    "date": "2026-09-14T05:01:10+00:00",
+    "text": "Астраханская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Астраханская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235244",
+    "channel": "LPRalarm",
+    "date": "2026-09-14T05:01:13+00:00",
+    "text": "Астраханская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Астраханская область",
     "lat": null,
     "lon": null
   }
