@@ -1,115 +1,5 @@
 [
   {
-    "id": "LPRalarm_234744_Отрадное",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T12:00:41+00:00",
-    "text": "Внимание: Малиновка, Отрадное, Октябрьский, займите безопасные места! Тревога по БПЛА \nБелгородский район",
-    "type": "drone",
-    "location_name": "Отрадное",
-    "region": null,
-    "lat": 55.8646371,
-    "lon": 37.6044745
-  },
-  {
-    "id": "LPRalarm_234744_Октябрьский",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T12:00:41+00:00",
-    "text": "Внимание: Малиновка, Отрадное, Октябрьский, займите безопасные места! Тревога по БПЛА \nБелгородский район",
-    "type": "drone",
-    "location_name": "Октябрьский",
-    "region": null,
-    "lat": 54.4809722,
-    "lon": 53.4660062
-  },
-  {
-    "id": "radarrussiia_93513",
-    "channel": "radarrussiia",
-    "date": "2026-09-13T12:00:43+00:00",
-    "text": "Ростовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_234745",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T12:00:46+00:00",
-    "text": "Авдеевка, Донецк ДНР и близлежащие \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_234746_Шебекинский",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T12:00:59+00:00",
-    "text": "Белянка в укрытие, подлетает ударный бпла!\nШебекинский район",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "LPRalarm_234747",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T12:01:09+00:00",
-    "text": "Оленевка и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_128135",
-    "channel": "kupolrussia",
-    "date": "2026-09-13T12:01:13+00:00",
-    "text": "Оленевка и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_128136",
-    "channel": "kupolrussia",
-    "date": "2026-09-13T12:01:21+00:00",
-    "text": "Авдеевка, Донецк ДНР и близлежащие \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_234748",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T12:03:06+00:00",
-    "text": "Донецк \nРайон ЖД вокзала \nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_234749",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T12:03:14+00:00",
-    "text": "Нижняя Дуванка и близлежащие\nЛНР\nВозможна ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_128137",
     "channel": "kupolrussia",
     "date": "2026-09-13T12:03:25+00:00",
@@ -21996,6 +21886,116 @@
     "type": "drone",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90310_Людиновский",
+    "channel": "vrv_radar",
+    "date": "2026-09-14T12:02:30+00:00",
+    "text": "Людиновский район\nКалужская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Людиновский",
+    "region": "Калужская область",
+    "lat": 53.8940803,
+    "lon": 34.4615879
+  },
+  {
+    "id": "radarrussiia_93663_Людиновский",
+    "channel": "radarrussiia",
+    "date": "2026-09-14T12:02:58+00:00",
+    "text": "Людиновский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Людиновский",
+    "region": "Калужская область",
+    "lat": 53.8940803,
+    "lon": 34.4615879
+  },
+  {
+    "id": "LPRalarm_235409",
+    "channel": "LPRalarm",
+    "date": "2026-09-14T12:04:45+00:00",
+    "text": "Николаевская область в направлении Чёрного моря пуски БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Николаевская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_128708",
+    "channel": "kupolrussia",
+    "date": "2026-09-14T12:04:47+00:00",
+    "text": "Николаевская область в направлении Чёрного моря пуски БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Николаевская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_128709",
+    "channel": "kupolrussia",
+    "date": "2026-09-14T12:06:09+00:00",
+    "text": "Новороссийск и близлежащие тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235410",
+    "channel": "LPRalarm",
+    "date": "2026-09-14T12:06:11+00:00",
+    "text": "Новороссийск и близлежащие тревога по БПЛА\n\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235411_Шебекино\nПугачева",
+    "channel": "LPRalarm",
+    "date": "2026-09-14T12:13:29+00:00",
+    "text": "Шебекино\nПугачева, Жд, рынок, всем в укрытие! В небе БПЛА Хорнет! город всем находиться в укрытии",
+    "type": "drone",
+    "location_name": "Шебекино\nПугачева",
+    "region": null,
+    "lat": 50.4043267,
+    "lon": 36.8928466
+  },
+  {
+    "id": "LPRalarm_235412",
+    "channel": "LPRalarm",
+    "date": "2026-09-14T12:14:02+00:00",
+    "text": "Севернее Целинное в направлении Джанкой фиксации БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235413",
+    "channel": "LPRalarm",
+    "date": "2026-09-14T12:15:07+00:00",
+    "text": "Шебекино \nОт спутника до рынка дорогой Никому не пользоваться, всем находиться В укрытии, летает  БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_128710",
+    "channel": "kupolrussia",
+    "date": "2026-09-14T12:15:26+00:00",
+    "text": "Шебекино \nОт спутника до рынка дорогой Никому не пользоваться, всем находиться В укрытии, летает  БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }

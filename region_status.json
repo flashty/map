@@ -1,14 +1,4 @@
 {
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Каховка \nХерсонская область РФ \nБПЛА разведчик",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-14T11:03:22+00:00",
-    "expires_at": "2026-09-14T12:03:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -42,10 +32,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Анапа и близлежащие тревога по БПЛА с моря \n\nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-14T12:00:26+00:00",
-    "expires_at": "2026-09-14T13:00:26+00:00",
+    "text": "Новороссийск и близлежащие тревога по БПЛА\n\nКраснодарский край",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-14T12:06:11+00:00",
+    "expires_at": "2026-09-14T13:06:11+00:00",
     "count": null,
     "count_approx": false
   },
@@ -60,12 +50,22 @@
     "count_approx": false
   },
   "калужск": {
-    "display_name": "Калужской области",
+    "display_name": "Калужская область",
     "type": "drone",
-    "text": "Володарский район, г.Брянск - фиксации БПЛА в направлении Калужской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-14T11:44:45+00:00",
-    "expires_at": "2026-09-14T12:44:45+00:00",
+    "text": "Людиновский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-14T12:02:58+00:00",
+    "expires_at": "2026-09-14T13:02:58+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "николаевск": {
+    "display_name": "Николаевская область",
+    "type": "drone",
+    "text": "Николаевская область в направлении Чёрного моря пуски БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-14T12:04:47+00:00",
+    "expires_at": "2026-09-14T13:04:47+00:00",
     "count": null,
     "count_approx": false
   }
