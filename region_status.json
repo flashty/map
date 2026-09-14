@@ -49,33 +49,13 @@
     "count": null,
     "count_approx": false
   },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "alert",
-    "text": "Бобров\nВоронежская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-14T00:16:31+00:00",
-    "expires_at": "2026-09-14T01:16:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Бердянск и близлежащие\nТревога по БПЛА\nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-14T00:21:29+00:00",
-    "expires_at": "2026-09-14T01:21:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Туапсе и близлежащие \nКраснодарский край \nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-14T01:15:20+00:00",
-    "expires_at": "2026-09-14T02:15:20+00:00",
+    "type": "alert",
+    "text": "Адлер\nТуапсе\nКраснодарский край\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-14T01:27:16+00:00",
+    "expires_at": "2026-09-14T02:27:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +86,16 @@
     "channel": "locatorru",
     "updated_at": "2026-09-14T01:06:23+00:00",
     "expires_at": "2026-09-14T02:06:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республики Крым",
+    "type": "drone",
+    "text": "Через Керчь, Республики Крым в сторону Тамань, Анапа и по нарастающей Новороссийск, Геленджик, Туапсе, Сочи, Адлер, Краснодарский край - продолжают фиксации БПЛА над морем, идут в направлении Сочи. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-14T01:18:01+00:00",
+    "expires_at": "2026-09-14T02:18:01+00:00",
     "count": null,
     "count_approx": false
   }
