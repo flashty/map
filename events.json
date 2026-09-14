@@ -1,27 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_14488",
-    "channel": "radar_plus_bpla",
-    "date": "2026-09-13T06:00:56+00:00",
-    "text": "Отбой опасности БПЛА по всем ранее объявленным регионам.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_234555",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T06:01:45+00:00",
-    "text": "Авдеевка, Донецк, Макеевка ДНР и близлежащие \nОпасность по БПЛА \n\nОсобое внимание на дорогах!",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_127957",
     "channel": "kupolrussia",
     "date": "2026-09-13T06:02:55+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Краснодарский край",
     "lat": 44.7239578,
     "lon": 37.7690711
+  },
+  {
+    "id": "LPRalarm_235226",
+    "channel": "LPRalarm",
+    "date": "2026-09-14T02:14:09+00:00",
+    "text": "Дятьковский район\nБрянская область\nТревога по БПЛА сохраняется,\nИ далее в направлении Смоленской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_128557",
+    "channel": "kupolrussia",
+    "date": "2026-09-14T02:14:26+00:00",
+    "text": "Дятьковский район\nБрянская область\nТревога по БПЛА сохраняется,\nИ далее в направлении Смоленской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
   }
 ]
