@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_234538",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T04:59:53+00:00",
-    "text": "Калужская область \nТульская область \nРязанская область \nМосковская область \n\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_127943",
-    "channel": "kupolrussia",
-    "date": "2026-09-13T04:59:59+00:00",
-    "text": "Калужская область \nТульская область \nРязанская область \nМосковская область \n\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_90094",
-    "channel": "vrv_radar",
-    "date": "2026-09-13T05:00:39+00:00",
-    "text": "Калужская область\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_14486",
-    "channel": "radar_plus_bpla",
-    "date": "2026-09-13T05:00:54+00:00",
-    "text": "Тульская область\nОрловская область\nКалужская область \nМосковская область\n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "missile",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_85089_Курск",
-    "channel": "locatorru",
-    "date": "2026-09-13T05:01:14+00:00",
-    "text": "Курск, меры безопасности при ракетной. \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": "Курск",
-    "region": null,
-    "lat": 51.7309249,
-    "lon": 36.1923123
-  },
-  {
-    "id": "vrv_radar_90095",
-    "channel": "vrv_radar",
-    "date": "2026-09-13T05:01:14+00:00",
-    "text": "Липецкая область\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_85090",
-    "channel": "locatorru",
-    "date": "2026-09-13T05:01:41+00:00",
-    "text": "Воронежская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_90096",
-    "channel": "vrv_radar",
-    "date": "2026-09-13T05:01:46+00:00",
-    "text": "Воронежская область\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_234539",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T05:01:58+00:00",
-    "text": "Воронежская область ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_127944",
     "channel": "kupolrussia",
     "date": "2026-09-13T05:02:23+00:00",
@@ -21998,5 +21899,104 @@
     "region": "Орловская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_90269_Бобров",
+    "channel": "vrv_radar",
+    "date": "2026-09-14T00:16:16+00:00",
+    "text": "Бобров\nВоронежская область\nМеры безопасности",
+    "type": "alert",
+    "location_name": "Бобров",
+    "region": "Воронежская область",
+    "lat": 51.0967999,
+    "lon": 40.0307798
+  },
+  {
+    "id": "radarrussiia_93636_Бобров",
+    "channel": "radarrussiia",
+    "date": "2026-09-14T00:16:31+00:00",
+    "text": "Бобров\nВоронежская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "alert",
+    "location_name": "Бобров",
+    "region": "Воронежская область",
+    "lat": 51.0967999,
+    "lon": 40.0307798
+  },
+  {
+    "id": "LPRalarm_235214",
+    "channel": "LPRalarm",
+    "date": "2026-09-14T00:20:59+00:00",
+    "text": "Бердянск и близлежащие\nТревога по БПЛА\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90270_Сочи",
+    "channel": "vrv_radar",
+    "date": "2026-09-14T00:21:28+00:00",
+    "text": "Сочи\nКраснодарский край\nСбитие БПЛА\nМеры безопасности",
+    "type": "all_clear",
+    "location_name": "Сочи",
+    "region": "Краснодарский край",
+    "lat": 43.5854823,
+    "lon": 39.723109
+  },
+  {
+    "id": "kupolrussia_128546",
+    "channel": "kupolrussia",
+    "date": "2026-09-14T00:21:29+00:00",
+    "text": "Бердянск и близлежащие\nТревога по БПЛА\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_85181",
+    "channel": "locatorru",
+    "date": "2026-09-14T00:25:13+00:00",
+    "text": "Курская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_85182_Курск",
+    "channel": "locatorru",
+    "date": "2026-09-14T00:26:00+00:00",
+    "text": "Курск, Курчатов, Халино, Курская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "type": "missile",
+    "location_name": "Курск",
+    "region": "Курская область",
+    "lat": 51.7270357,
+    "lon": 36.192248
+  },
+  {
+    "id": "locatorru_85182_Курчатов",
+    "channel": "locatorru",
+    "date": "2026-09-14T00:26:00+00:00",
+    "text": "Курск, Курчатов, Халино, Курская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "type": "missile",
+    "location_name": "Курчатов",
+    "region": "Курская область",
+    "lat": 51.659466,
+    "lon": 35.658863
+  },
+  {
+    "id": "locatorru_85182_Халино",
+    "channel": "locatorru",
+    "date": "2026-09-14T00:26:00+00:00",
+    "text": "Курск, Курчатов, Халино, Курская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "type": "missile",
+    "location_name": "Халино",
+    "region": "Курская область",
+    "lat": 51.74807,
+    "lon": 36.343323
   }
 ]
