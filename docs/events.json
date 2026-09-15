@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_235189",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T22:16:25+00:00",
-    "text": "Туапсе и близлежащие\nТревога по БПЛА сохраняется\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_128523",
-    "channel": "kupolrussia",
-    "date": "2026-09-13T22:16:44+00:00",
-    "text": "Туапсе и близлежащие\nТревога по БПЛА сохраняется\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_235190",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T22:19:50+00:00",
-    "text": "Севастополь и близлежащие\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_93618",
-    "channel": "radarrussiia",
-    "date": "2026-09-13T22:19:51+00:00",
-    "text": "Саратовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_128524",
-    "channel": "kupolrussia",
-    "date": "2026-09-13T22:20:06+00:00",
-    "text": "Севастополь и близлежащие\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_90249_Анапский",
-    "channel": "vrv_radar",
-    "date": "2026-09-13T22:21:24+00:00",
-    "text": "Анапский район\nКраснодарский край\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Анапский",
-    "region": "Краснодарский край",
-    "lat": 45.0702704,
-    "lon": 37.755292
-  },
-  {
-    "id": "radarrussiia_93619_Анапский",
-    "channel": "radarrussiia",
-    "date": "2026-09-13T22:21:42+00:00",
-    "text": "Анапский район\nКраснодарский край\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Анапский",
-    "region": "Краснодарский край",
-    "lat": 45.0702704,
-    "lon": 37.755292
-  },
-  {
     "id": "vrv_radar_90250",
     "channel": "vrv_radar",
     "date": "2026-09-13T22:24:05+00:00",
@@ -21998,5 +21921,82 @@
     "region": "Самарская область",
     "lat": 53.15538,
     "lon": 48.474121
+  },
+  {
+    "id": "locatorru_85383_Сызрань",
+    "channel": "locatorru",
+    "date": "2026-09-15T01:37:17+00:00",
+    "text": "Сызрань, Самарская область - опасность по единичным БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Сызрань",
+    "region": "Самарская область",
+    "lat": 53.15538,
+    "lon": 48.474121
+  },
+  {
+    "id": "LPRalarm_235719",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T01:38:23+00:00",
+    "text": "Елизаветово \nНовоселовское \nВиноградово и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_128960",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T01:38:27+00:00",
+    "text": "Елизаветово \nНовоселовское \nВиноградово и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_85384",
+    "channel": "locatorru",
+    "date": "2026-09-15T01:42:06+00:00",
+    "text": "Павловка, Старая Кулатка, Радищево, Николаевка, Новоспасское, Ульяновская область - опасность по БПЛА сохраняется и в сторону Самарской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_85385",
+    "channel": "locatorru",
+    "date": "2026-09-15T01:43:03+00:00",
+    "text": "Самарская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235720_Большесолдатский",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T01:43:17+00:00",
+    "text": "Большесолдатский район от ГГ группа БПЛА \nКурская область",
+    "type": "drone",
+    "location_name": "Большесолдатский",
+    "region": "Курская область",
+    "lat": 51.3379383,
+    "lon": 35.4795438
+  },
+  {
+    "id": "kupolrussia_128961_Большесолдатский",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T01:43:21+00:00",
+    "text": "Большесолдатский район от ГГ группа БПЛА \nКурская область",
+    "type": "drone",
+    "location_name": "Большесолдатский",
+    "region": "Курская область",
+    "lat": 51.3379383,
+    "lon": 35.4795438
   }
 ]
