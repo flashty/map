@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_235283",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T07:43:22+00:00",
-    "text": "Трасса Р-280\n окрестности Осипенко\nЗапорожская область РФ \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_235284",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T07:47:12+00:00",
-    "text": "Попасная\n Первомайск\nЛНР \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_128602",
-    "channel": "kupolrussia",
-    "date": "2026-09-14T07:47:18+00:00",
-    "text": "Попасная\n Первомайск\nЛНР \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_235285",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T07:48:41+00:00",
-    "text": "ДНР \nПриготовиться к пускам Уаб самолётами противника",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_128603",
     "channel": "kupolrussia",
     "date": "2026-09-14T07:48:56+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235832",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T10:47:07+00:00",
+    "text": "Шебекино \nТревога по БПЛА \nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129047_Шебекино",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T10:47:37+00:00",
+    "text": "Шебекино \nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Шебекино",
+    "region": "Белгородская область",
+    "lat": 50.4049335,
+    "lon": 36.8796822
+  },
+  {
+    "id": "LPRalarm_235833",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T10:49:23+00:00",
+    "text": "Давыдовка, Атманай, Кирилловка и близлежащие тревога по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129048",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T10:50:06+00:00",
+    "text": "Давыдовка, Атманай, Кирилловка и близлежащие \nЗапорожская область РФ\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
