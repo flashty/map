@@ -1,82 +1,5 @@
 [
   {
-    "id": "vrv_radar_90253",
-    "channel": "vrv_radar",
-    "date": "2026-09-13T22:38:12+00:00",
-    "text": "Обливский район\nРостовская область\nФиксация БПЛА в направлении Суровикинского района Волгоградской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_93623",
-    "channel": "radarrussiia",
-    "date": "2026-09-13T22:38:28+00:00",
-    "text": "Обливский район\nРостовская область\nФиксация БПЛА в направлении Суровикинского района Волгоградской области\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_90254_Волгоград",
-    "channel": "vrv_radar",
-    "date": "2026-09-13T22:40:16+00:00",
-    "text": "Волгоград\nВолгоградская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Волгоград",
-    "region": "Волгоградская область",
-    "lat": 48.7081906,
-    "lon": 44.5153353
-  },
-  {
-    "id": "LPRalarm_235197",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T22:42:01+00:00",
-    "text": "Донецк и близлежащие\nТревога по БПЛА остаётся в действии",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_128530",
-    "channel": "kupolrussia",
-    "date": "2026-09-13T22:42:26+00:00",
-    "text": "Донецк и близлежащие\nТревога по БПЛА остаётся в действии",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_235198",
-    "channel": "LPRalarm",
-    "date": "2026-09-13T22:45:12+00:00",
-    "text": "Сочи \nИ близлежащие\nТревога по БПЛА, повторно\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_128531",
-    "channel": "kupolrussia",
-    "date": "2026-09-13T22:45:29+00:00",
-    "text": "Сочи \nИ близлежащие\nТревога по БПЛА, повторно\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_235199",
     "channel": "LPRalarm",
     "date": "2026-09-13T22:46:42+00:00",
@@ -21998,5 +21921,82 @@
     "region": "Самарская область",
     "lat": 53.15538,
     "lon": 48.474121
+  },
+  {
+    "id": "kupolrussia_128963",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T02:47:11+00:00",
+    "text": "Самарская область, повторно\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235722",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T02:47:14+00:00",
+    "text": "Самарская область, повторно\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235723_Брянск",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T02:54:33+00:00",
+    "text": "Брянск, тревога по реактивным БПЛА",
+    "type": "drone",
+    "location_name": "Брянск",
+    "region": null,
+    "lat": 53.2423778,
+    "lon": 34.3668288
+  },
+  {
+    "id": "kupolrussia_128964_Брянск",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T02:54:34+00:00",
+    "text": "Брянск, тревога по реактивным БПЛА",
+    "type": "drone",
+    "location_name": "Брянск",
+    "region": null,
+    "lat": 53.2423778,
+    "lon": 34.3668288
+  },
+  {
+    "id": "vrv_radar_90498",
+    "channel": "vrv_radar",
+    "date": "2026-09-15T02:55:29+00:00",
+    "text": "Липецкая область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235724",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T02:56:58+00:00",
+    "text": "Соленое озеро\nЧонгар\nДжанкой\nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_128965",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T02:57:04+00:00",
+    "text": "Соленое озеро\nЧонгар\nДжанкой\nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
   }
 ]
