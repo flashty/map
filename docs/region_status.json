@@ -12,10 +12,10 @@
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "missile",
-    "text": "Херсонская область Любимовка на юго-запад возможно пролёты крылатых ракет \n\nЗапад, северо-запад Крыма внимание!",
+    "text": "Скадовский район\nХерсонская область РФ\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-15T08:35:21+00:00",
-    "expires_at": "2026-09-15T09:35:21+00:00",
+    "updated_at": "2026-09-15T08:47:57+00:00",
+    "expires_at": "2026-09-15T09:47:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,16 +26,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-15T08:24:20+00:00",
     "expires_at": "2026-09-15T09:24:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Троицкое Лнр \nТревога по БПЛА Хорнет",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-15T07:47:53+00:00",
-    "expires_at": "2026-09-15T08:47:53+00:00",
     "count": null,
     "count_approx": false
   },
@@ -53,9 +43,29 @@
     "display_name": "Республика Крым",
     "type": "missile",
     "text": "Республика Крым все районы с запада ракетная опасность по ПКР Нептун",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-15T08:45:40+00:00",
-    "expires_at": "2026-09-15T09:45:40+00:00",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-15T08:45:52+00:00",
+    "expires_at": "2026-09-15T09:45:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "missile",
+    "text": "Краснодарский край\nРеспублика Адыгея\nРакетная опасность",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-15T08:59:55+00:00",
+    "expires_at": "2026-09-15T09:59:55+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "missile",
+    "text": "Краснодарский край\nРеспублика Адыгея\nРакетная опасность",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-15T08:59:55+00:00",
+    "expires_at": "2026-09-15T09:59:55+00:00",
     "count": null,
     "count_approx": false
   }
