@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_235271",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T07:06:54+00:00",
-    "text": "Запорожская область РФ \nЛДНР \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_128590",
-    "channel": "kupolrussia",
-    "date": "2026-09-14T07:07:08+00:00",
-    "text": "Запорожская область РФ \nЛДНР\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_235272",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T07:07:59+00:00",
-    "text": "Лисичанск и близлежащие \nЛНР \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_128591",
-    "channel": "kupolrussia",
-    "date": "2026-09-14T07:08:13+00:00",
-    "text": "Лисичанск и близлежащие \nЛНР \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_235273",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T07:09:24+00:00",
-    "text": "Противник планирует запуски БПЛА в направлении Брянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_128592",
-    "channel": "kupolrussia",
-    "date": "2026-09-14T07:09:36+00:00",
-    "text": "Противник планирует запуски БПЛА в направлении Брянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_235274",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T07:10:03+00:00",
-    "text": "Трасса Р-280\nВысокая активность БПЛА Хорнет \nПринять меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_128593",
-    "channel": "kupolrussia",
-    "date": "2026-09-14T07:10:07+00:00",
-    "text": "Р-280\nВысокая активность БПЛА Хорнет \nПринять меры безопасности\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_235275",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T07:18:11+00:00",
-    "text": "Трасса Лисичанск - Луганск опасность по БПЛА Хорнет \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_128594",
     "channel": "kupolrussia",
     "date": "2026-09-14T07:18:22+00:00",
@@ -21996,6 +21897,105 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235816",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T09:16:54+00:00",
+    "text": "Отбой ракетной опасности по ПКР Нептун и Штормам Республика Крым и Севастополь \nХерсонская область РФ \nКраснодарский край",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129033",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T09:16:58+00:00",
+    "text": "Отбой ракетной опасности по ПКР Нептун и Штормам Республика Крым и Севастополь \nХерсонская область РФ \nКраснодарский край",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235817",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T09:19:55+00:00",
+    "text": "Херсонская область РФ повторно авиационная ракетная бомбовая опасность \n\nВ направлении Алешки, Голая Пристань ожидаем пуски УАБ или крылатых ракет",
+    "type": "missile",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129034",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T09:20:21+00:00",
+    "text": "Херсонская область РФ повторно авиационная ракетная бомбовая опасность \n\nВ направлении Алешки, Голая Пристань ожидаем пуски УАБ или крылатых ракет",
+    "type": "missile",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235818",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T09:24:19+00:00",
+    "text": "Румыния проводит учения, в том числе авиации. Производят инсценировку пусков крылатых ракет в направлении Крыма и Краснодарского края \n\nБыло бы очень хорошо, если бы мы провели учебные пуски по Румынии. Например Орешника. Или Искандеров, штук 20. Чтобы они побегали по подвалам вместе с детьми и закрыли мосты и вокзалы.",
+    "type": "ballistic",
+    "location_name": null,
+    "region": "Краснодарского края",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235819",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T09:25:17+00:00",
+    "text": "Отбой опасности по БПЛА Севастополь и близлежащие \nРежим повышенного внимания сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129035",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T09:25:31+00:00",
+    "text": "Севастополь и близлежащие \nРежим повышенного внимания сохраняется",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235820",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T09:29:58+00:00",
+    "text": "⚠️  Курская область: ракетная опасность! Если вы находитесь дома, необходимо укрыться в помещениях без окон со сплошными стенами: в коридоре, ванной, кладовой. Если вы находитесь на улице — зайдите в ближайшее здание или подходящее укрытие.",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129036",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T09:30:11+00:00",
+    "text": "Курская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }
