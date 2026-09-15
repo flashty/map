@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-15T20:35:59+00:00",
+        "last_updated": "2026-09-15T20:57:58+00:00",
+        "path_labels": [
+          "Тарасовский",
+          "Донецк (Ростовская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.3554416,
+            48.727145
+          ],
+          [
+            39.9509488,
+            48.3382864
+          ]
+        ]
+      }
+    }
+  ]
 }
