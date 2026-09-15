@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_235290",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T08:06:33+00:00",
-    "text": "ЮБК от Фороса до Ялты\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_235291",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T08:06:42+00:00",
-    "text": "Ялта \nФорос и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_128608_Ялты",
-    "channel": "kupolrussia",
-    "date": "2026-09-14T08:06:48+00:00",
-    "text": "ЮБК от Фороса до Ялты\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Ялты",
-    "region": null,
-    "lat": 51.1341389,
-    "lon": 36.0474323
-  },
-  {
-    "id": "LPRalarm_235292",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T08:06:55+00:00",
-    "text": "Севастополь \nС моря опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_128609_Севастополь",
     "channel": "kupolrussia",
     "date": "2026-09-14T08:07:06+00:00",
@@ -21993,6 +21949,50 @@
     "channel": "kupolrussia",
     "date": "2026-09-15T11:30:47+00:00",
     "text": "Рыково и близлежащие \nОпасность по БПЛА Хорнет\nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90525",
+    "channel": "vrv_radar",
+    "date": "2026-09-15T11:42:20+00:00",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90526",
+    "channel": "vrv_radar",
+    "date": "2026-09-15T11:42:46+00:00",
+    "text": "Геленджик и близлежащие \nКраснодарский край \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235840",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T11:44:34+00:00",
+    "text": "Каирка и далее на юг фиксация БПЛА Хорнет \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129055",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T11:44:43+00:00",
+    "text": "Каирка и далее на юг фиксация БПЛА Хорнет \nХерсонская область РФ",
     "type": "drone",
     "location_name": null,
     "region": "Херсонская область",
