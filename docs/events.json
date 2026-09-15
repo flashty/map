@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_128603",
-    "channel": "kupolrussia",
-    "date": "2026-09-14T07:48:56+00:00",
-    "text": "ДНР \nПриготовиться к пускам Уаб самолётами противника",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_235286_Одессы",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T07:51:26+00:00",
-    "text": "Ещё пуски БПЛА от Одессы",
-    "type": "drone",
-    "location_name": "Одессы",
-    "region": null,
-    "lat": 48.7490351,
-    "lon": 44.5413187
-  },
-  {
-    "id": "kupolrussia_128604_Одессы",
-    "channel": "kupolrussia",
-    "date": "2026-09-14T07:52:10+00:00",
-    "text": "Ещё пуски БПЛА от Одессы",
-    "type": "drone",
-    "location_name": "Одессы",
-    "region": null,
-    "lat": 48.7490351,
-    "lon": 44.5413187
-  },
-  {
-    "id": "LPRalarm_235287_Дмг",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T07:52:19+00:00",
-    "text": "Горловка опасность БПЛА и ФПВ \n\nКочегарка бпла самолётного типа ❗️ Дмг",
-    "type": "drone",
-    "location_name": "Дмг",
-    "region": null,
-    "lat": 55.0390759,
-    "lon": 82.9546979
-  },
-  {
-    "id": "kupolrussia_128605_Дмг",
-    "channel": "kupolrussia",
-    "date": "2026-09-14T07:52:26+00:00",
-    "text": "Горловка опасность БПЛА и ФПВ \n\nКочегарка бпла самолётного типа ❗️ Дмг",
-    "type": "drone",
-    "location_name": "Дмг",
-    "region": null,
-    "lat": 55.0390759,
-    "lon": 82.9546979
-  },
-  {
-    "id": "LPRalarm_235288",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T07:55:18+00:00",
-    "text": "Юг, юго-запад Севастополя \nБалаклава, Фиолент\nВнимание по МВШ",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_128606",
     "channel": "kupolrussia",
     "date": "2026-09-14T07:55:27+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129049_Суземский",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T11:02:47+00:00",
+    "text": "Суземский район в направлении Навлинского района \nБрянская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Суземский",
+    "region": "Брянская область",
+    "lat": 52.410945,
+    "lon": 34.0616231
+  },
+  {
+    "id": "LPRalarm_235834_Суземский",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T11:02:48+00:00",
+    "text": "Суземский район в направлении Навлинского района опасность по БПЛА \n\nБрянская область",
+    "type": "drone",
+    "location_name": "Суземский",
+    "region": "Брянская область",
+    "lat": 52.410945,
+    "lon": 34.0616231
+  },
+  {
+    "id": "LPRalarm_235835",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T11:03:18+00:00",
+    "text": "От Нововасильевка в направлении Луначарского кольца тревога по БПЛА Хорнет\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129050",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T11:03:26+00:00",
+    "text": "От Нововасильевка в направлении Луначарского кольца тревога по БПЛА Хорнет\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235836",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T11:12:39+00:00",
+    "text": "БПЛА в напрвлении Лисичанск\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129051",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T11:12:59+00:00",
+    "text": "БПЛА в напрвлении Лисичанск\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
