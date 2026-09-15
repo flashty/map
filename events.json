@@ -1,115 +1,5 @@
 [
   {
-    "id": "LPRalarm_235333_Кача",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T09:33:11+00:00",
-    "text": "Кача, Бельбек, Севастополь\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Кача",
-    "region": null,
-    "lat": 56.1972669,
-    "lon": 92.5363666
-  },
-  {
-    "id": "LPRalarm_235334",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T09:33:43+00:00",
-    "text": "Волноваха, Мариуполь и близлежащие\nТревога по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_235335_Камышовая",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T09:38:18+00:00",
-    "text": "Мыс Херсонес \nБухты Казачья, Камышовая, Стрелецкая, Севастопольская \nСевастополь\nС моря тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Камышовая",
-    "region": null,
-    "lat": 53.787285,
-    "lon": 90.693909
-  },
-  {
-    "id": "LPRalarm_235335_Стрелецкая",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T09:38:18+00:00",
-    "text": "Мыс Херсонес \nБухты Казачья, Камышовая, Стрелецкая, Севастопольская \nСевастополь\nС моря тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Стрелецкая",
-    "region": null,
-    "lat": 60.8629488,
-    "lon": 42.4398878
-  },
-  {
-    "id": "LPRalarm_235336",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T09:38:25+00:00",
-    "text": "От Бельбека на Верхнесадовое \nТревога по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_128648_Камышовая",
-    "channel": "kupolrussia",
-    "date": "2026-09-14T09:38:37+00:00",
-    "text": "Мыс Херсонес \nБухты Казачья, Камышовая, Стрелецкая, Севастопольская \nСевастополь\nС моря тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Камышовая",
-    "region": null,
-    "lat": 53.787285,
-    "lon": 90.693909
-  },
-  {
-    "id": "kupolrussia_128648_Стрелецкая",
-    "channel": "kupolrussia",
-    "date": "2026-09-14T09:38:37+00:00",
-    "text": "Мыс Херсонес \nБухты Казачья, Камышовая, Стрелецкая, Севастопольская \nСевастополь\nС моря тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Стрелецкая",
-    "region": null,
-    "lat": 60.8629488,
-    "lon": 42.4398878
-  },
-  {
-    "id": "kupolrussia_128649",
-    "channel": "kupolrussia",
-    "date": "2026-09-14T09:38:42+00:00",
-    "text": "От Бельбека на Верхнесадовое \nТревога по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_235337",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T09:43:05+00:00",
-    "text": "Орловка \nФиксация БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_90305",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T09:43:22+00:00",
-    "text": "Сочи и близлежащие\nКраснодарский край\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_128650",
     "channel": "kupolrussia",
     "date": "2026-09-14T09:43:24+00:00",
@@ -21996,6 +21886,116 @@
     "type": "drone",
     "location_name": null,
     "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235878",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T14:45:56+00:00",
+    "text": "Раздольненский район \nВнимание по БПЛА с моря \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129091",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T14:45:59+00:00",
+    "text": "Север\nРеспублика Крым \nВнимание по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129092",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T14:46:21+00:00",
+    "text": "Раздольненский район \nВнимание по БПЛА с моря \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_93831",
+    "channel": "radarrussiia",
+    "date": "2026-09-15T14:50:31+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235879",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T14:52:11+00:00",
+    "text": "Раздольненский район \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129093",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T14:52:37+00:00",
+    "text": "Раздольненский район \n\nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235880",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T14:53:28+00:00",
+    "text": "Север\nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129094",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T14:53:46+00:00",
+    "text": "Север\nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_93832",
+    "channel": "radarrussiia",
+    "date": "2026-09-15T14:53:54+00:00",
+    "text": "Север\nРеспублика Крым \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235881",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T15:01:10+00:00",
+    "text": "Север\nСеверо-Запад \nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
