@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-15T22:28:01+00:00",
+        "last_updated": "2026-09-15T22:37:42+00:00",
+        "path_labels": [
+          "Каменский (Ростовская область)",
+          "Глубокий (Ростовская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.5058614,
+            48.3686692
+          ],
+          [
+            40.3171849,
+            48.5242389
+          ]
+        ]
+      }
+    }
+  ]
 }
