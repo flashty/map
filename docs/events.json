@@ -1,71 +1,5 @@
 [
   {
-    "id": "radarrussiia_93644_Туапсе",
-    "channel": "radarrussiia",
-    "date": "2026-09-14T01:33:21+00:00",
-    "text": "Туапсе\nКраснодарский край\nСбития БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": "Туапсе",
-    "region": "Краснодарский край",
-    "lat": 44.0984747,
-    "lon": 39.0718875
-  },
-  {
-    "id": "LPRalarm_235225",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T01:48:54+00:00",
-    "text": "Дятьковский район\nБрянская область, и далее в направлении Калужской области\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_128556",
-    "channel": "kupolrussia",
-    "date": "2026-09-14T01:49:12+00:00",
-    "text": "Дятьковский район\nБрянская область, и далее в направлении Калужской области\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_90282_Туапсе",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T01:50:12+00:00",
-    "text": "Туапсе\nКраснодарский край\nПродолжаются сбития БПЛА\nМеры безопасности",
-    "type": "all_clear",
-    "location_name": "Туапсе",
-    "region": "Краснодарский край",
-    "lat": 44.0984747,
-    "lon": 39.0718875
-  },
-  {
-    "id": "radarrussiia_93645_Туапсе",
-    "channel": "radarrussiia",
-    "date": "2026-09-14T01:50:32+00:00",
-    "text": "Туапсе\nКраснодарский край\nПродолжаются сбития БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": "Туапсе",
-    "region": "Краснодарский край",
-    "lat": 44.0984747,
-    "lon": 39.0718875
-  },
-  {
-    "id": "vrv_radar_90283_Новороссийск",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T01:54:43+00:00",
-    "text": "Новороссийск\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
-    "type": "all_clear",
-    "location_name": "Новороссийск",
-    "region": "Краснодарский край",
-    "lat": 44.7239578,
-    "lon": 37.7690711
-  },
-  {
     "id": "radarrussiia_93646_Новороссийск",
     "channel": "radarrussiia",
     "date": "2026-09-14T01:58:54+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235768",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T06:01:45+00:00",
+    "text": "Севастополь и близлежащие \nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_128988",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T06:02:10+00:00",
+    "text": "Севастополь и близлежащие",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235769",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T06:03:21+00:00",
+    "text": "Краснодарский край \nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_128989",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T06:03:41+00:00",
+    "text": "Краснодарский край \nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_235770",
+    "channel": "LPRalarm",
+    "date": "2026-09-15T06:04:17+00:00",
+    "text": "Республика Крым \nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_128990",
+    "channel": "kupolrussia",
+    "date": "2026-09-15T06:04:31+00:00",
+    "text": "Республика Крым \nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
