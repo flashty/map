@@ -9,33 +9,23 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Херсонская область РФ\n\nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-15T19:43:48+00:00",
-    "expires_at": "2026-09-15T20:43:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Ровеньки ЛНР\nТревога по БПЛА сохраняется\nСоблюдайте меры безопасности",
+    "text": "Ровеньки\nСтаханов и близлежащие, тревога по БпЛА повторно\nЛНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-15T20:22:07+00:00",
-    "expires_at": "2026-09-15T21:22:07+00:00",
+    "updated_at": "2026-09-15T20:40:22+00:00",
+    "expires_at": "2026-09-15T21:40:22+00:00",
     "count": null,
     "count_approx": false
   },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Красногвардейский район\nИ далее на Нижнегорский\nТревога по БПЛА\nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-15T20:25:28+00:00",
-    "expires_at": "2026-09-15T21:25:28+00:00",
+    "text": "Красногвардейское\nМарьяновка\nНекрасово\nИ близлежащие\nТревога по БПЛА\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-15T20:42:22+00:00",
+    "expires_at": "2026-09-15T21:42:22+00:00",
     "count": null,
     "count_approx": false
   },
@@ -51,11 +41,11 @@
   },
   "брянск": {
     "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Белые Берега, Брянская область - пролёт БПЛА в сторону Калужской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-15T19:51:10+00:00",
-    "expires_at": "2026-09-15T20:51:10+00:00",
+    "type": "alert",
+    "text": "Погар \nБрянская область\nопасность по барражирующим боеприпасам!",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-15T20:34:49+00:00",
+    "expires_at": "2026-09-15T21:34:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,16 +56,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-15T20:23:18+00:00",
     "expires_at": "2026-09-15T21:23:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "alert",
-    "text": "Крупец \nРыльский район \nКурская область\n\nОпасность по Бабе Яге со сбросами",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-15T19:44:50+00:00",
-    "expires_at": "2026-09-15T20:44:50+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,16 +86,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-15T19:57:12+00:00",
     "expires_at": "2026-09-15T20:57:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Ачуево, Голубая Нива, Петровская, Полтавская, Славянск-на-Кубани, Краснодарский край - опасность по БПЛА с Азовского моря. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-15T20:30:01+00:00",
-    "expires_at": "2026-09-15T21:30:01+00:00",
     "count": null,
     "count_approx": false
   },
