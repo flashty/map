@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-09-15T02:16:15+00:00",
-        "last_updated": "2026-09-15T02:54:34+00:00",
-        "path_labels": [
-          "Дятьково (Брянская область)",
-          "Брянск"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.3335523,
-            53.6003804
-          ],
-          [
-            34.3668288,
-            53.2423778
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
