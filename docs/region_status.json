@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "missile",
-    "text": "Калужская область \nМосковская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-15T15:16:35+00:00",
-    "expires_at": "2026-09-15T16:16:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -106,6 +96,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-15T16:11:01+00:00",
     "expires_at": "2026-09-15T17:11:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Старобельск и близлежащие \nЛНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-15T16:30:18+00:00",
+    "expires_at": "2026-09-15T17:30:18+00:00",
     "count": null,
     "count_approx": false
   }
