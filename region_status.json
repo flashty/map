@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Шебекино \nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-15T10:47:37+00:00",
-    "expires_at": "2026-09-15T11:47:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -52,10 +42,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Геленджик и близлежащие \nКраснодарский край \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-15T11:42:46+00:00",
-    "expires_at": "2026-09-15T12:42:46+00:00",
+    "text": "Туапсе \nНовороссийск и близлежащие \nКраснодарский край\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-15T11:56:50+00:00",
+    "expires_at": "2026-09-15T12:56:50+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +56,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-09-15T11:42:20+00:00",
     "expires_at": "2026-09-15T12:42:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Армянск \nОпасность по БПЛА Хорнет\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-15T11:51:07+00:00",
+    "expires_at": "2026-09-15T12:51:07+00:00",
     "count": null,
     "count_approx": false
   }
