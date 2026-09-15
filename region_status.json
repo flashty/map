@@ -2,30 +2,10 @@
   "ульяновск": {
     "display_name": "Ульяновская область",
     "type": "drone",
-    "text": "Новоспасский район\nУльяновская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-15T02:28:10+00:00",
-    "expires_at": "2026-09-15T03:28:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Ленинский район\nРеспублика Крым\nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-15T01:46:06+00:00",
-    "expires_at": "2026-09-15T02:46:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Большесолдатский район от ГГ группа БПЛА \nКурская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-15T01:43:21+00:00",
-    "expires_at": "2026-09-15T02:43:21+00:00",
+    "text": "Красносельск, Ульяновская область - БПЛА на восток в сторону Сызрань, Самарская область. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-15T02:41:03+00:00",
+    "expires_at": "2026-09-15T03:41:03+00:00",
     "count": null,
     "count_approx": false
   },
@@ -38,5 +18,15 @@
     "expires_at": "2026-09-15T03:16:15+00:00",
     "count": null,
     "count_approx": false
+  },
+  "самарск": {
+    "display_name": "Самарская область",
+    "type": "drone",
+    "text": "Сызрань, Самарская область - внимание по единичному БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-15T02:41:54+00:00",
+    "expires_at": "2026-09-15T03:41:54+00:00",
+    "count": 1,
+    "count_approx": true
   }
 }
