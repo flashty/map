@@ -2,40 +2,20 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Амвросиевка и близлежащие ДНР и далее в направлении Матвеев Курган\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Ясиноватая, Макеевка, Донецк ДНР и близлежащие \nОпасность по БПЛА Хорнет",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-16T13:14:30+00:00",
-    "expires_at": "2026-09-16T14:14:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Климово и близлежащие опасность по БПЛА Дартс повторно \n\nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-16T12:30:57+00:00",
-    "expires_at": "2026-09-16T13:30:57+00:00",
+    "updated_at": "2026-09-16T13:16:57+00:00",
+    "expires_at": "2026-09-16T14:16:57+00:00",
     "count": null,
     "count_approx": false
   },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Бердянск тревога по БПЛА Хорнет\nЗапорожская область РФ",
+    "text": "Осипенко, Бердянск повторно тревога по БПЛА\nЗапорожская область РФ",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-16T13:12:54+00:00",
-    "expires_at": "2026-09-16T14:12:54+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Брянская область, Курская область - опасность по БПЛА, повторно! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-16T12:25:22+00:00",
-    "expires_at": "2026-09-16T13:25:22+00:00",
+    "updated_at": "2026-09-16T13:24:01+00:00",
+    "expires_at": "2026-09-16T14:24:01+00:00",
     "count": null,
     "count_approx": false
   },
@@ -50,22 +30,12 @@
     "count_approx": false
   },
   "ростовск": {
-    "display_name": "Ростовская область",
+    "display_name": "Ростовской области",
     "type": "drone",
-    "text": "Ростовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-16T13:14:11+00:00",
-    "expires_at": "2026-09-16T14:14:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Смоленская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-16T12:28:41+00:00",
-    "expires_at": "2026-09-16T13:28:41+00:00",
+    "text": "Стык Краснодарского края и Ростовской области все районы опасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-16T13:29:08+00:00",
+    "expires_at": "2026-09-16T14:29:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +56,46 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-16T13:10:41+00:00",
     "expires_at": "2026-09-16T14:10:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонской области",
+    "type": "drone",
+    "text": "Противник готовит запуски БПЛА из Николаевской и Херсонской области",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-16T13:21:24+00:00",
+    "expires_at": "2026-09-16T14:21:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Республика Адыгея опасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-16T13:24:58+00:00",
+    "expires_at": "2026-09-16T14:24:58+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ставропольск": {
+    "display_name": "Ставропольский край",
+    "type": "drone",
+    "text": "Ставропольский край внимание по БПЛА с направления Тихорецк. Могут выйти через Ставропольский край в направлении Майкоп",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-16T13:26:32+00:00",
+    "expires_at": "2026-09-16T14:26:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарско": {
+    "display_name": "Краснодарского края",
+    "type": "drone",
+    "text": "Стык Краснодарского края и Ростовской области все районы опасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-16T13:29:08+00:00",
+    "expires_at": "2026-09-16T14:29:08+00:00",
     "count": null,
     "count_approx": false
   }
