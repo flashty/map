@@ -1,82 +1,5 @@
 [
   {
-    "id": "kupolrussia_128849",
-    "channel": "kupolrussia",
-    "date": "2026-09-14T17:37:00+00:00",
-    "text": "Республика Мордовия\nРязанская область\nВНИМАНИЕН!\n% (> ОБЪЯВЛЕН\nг 4 \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_235582",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T17:37:18+00:00",
-    "text": "Республика Мордовия\nРязанская область\nВНИМАНИЕН!\n% (> ОБЪЯВЛЕН\nг 4 \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_93701",
-    "channel": "radarrussiia",
-    "date": "2026-09-14T17:37:50+00:00",
-    "text": "Республика Мордовия\nРязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_90361",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T17:39:37+00:00",
-    "text": "Республика Мордовия\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_90362_Тарасовский",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T17:40:17+00:00",
-    "text": "Тарасовский район\nМиллеровский район\nРостовская область \nФиксации групп БПЛА",
-    "type": "drone",
-    "location_name": "Тарасовский",
-    "region": "Ростовская область",
-    "lat": 48.727145,
-    "lon": 40.3554416
-  },
-  {
-    "id": "vrv_radar_90362_Миллеровский",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T17:40:17+00:00",
-    "text": "Тарасовский район\nМиллеровский район\nРостовская область \nФиксации групп БПЛА",
-    "type": "drone",
-    "location_name": "Миллеровский",
-    "region": "Ростовская область",
-    "lat": 49.0249872,
-    "lon": 40.2651861
-  },
-  {
-    "id": "vrv_radar_90363_Борисоглебский",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T17:40:39+00:00",
-    "text": "Борисоглебский район\nВоронежская область \nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Борисоглебский",
-    "region": "Воронежская область",
-    "lat": 51.423846,
-    "lon": 42.4212036
-  },
-  {
     "id": "radarrussiia_93702_Тарасовский",
     "channel": "radarrussiia",
     "date": "2026-09-14T17:40:57+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90566",
+    "channel": "vrv_radar",
+    "date": "2026-09-16T03:47:33+00:00",
+    "text": "Республика Калмыкия \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Калмыкия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90567",
+    "channel": "vrv_radar",
+    "date": "2026-09-16T03:48:22+00:00",
+    "text": "Краснодарский край \nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90568",
+    "channel": "vrv_radar",
+    "date": "2026-09-16T03:48:50+00:00",
+    "text": "Республика Адыгея \nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236199_Агой",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T03:48:56+00:00",
+    "text": "Агой, Туапсе и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": "Агой",
+    "region": null,
+    "lat": 44.1454417,
+    "lon": 39.0380211
+  },
+  {
+    "id": "kupolrussia_129350_Агой",
+    "channel": "kupolrussia",
+    "date": "2026-09-16T03:49:01+00:00",
+    "text": "Агой, Туапсе и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": "Агой",
+    "region": null,
+    "lat": 44.1454417,
+    "lon": 39.0380211
+  },
+  {
+    "id": "LPRalarm_236200",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T03:55:16+00:00",
+    "text": "Республика Крым\nСевастополь\nОтбой беспилотной и ракетной опасностей",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129351",
+    "channel": "kupolrussia",
+    "date": "2026-09-16T03:55:21+00:00",
+    "text": "Республика Крым\nСевастополь\nОтбой беспилотной и ракетной опасностей",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
