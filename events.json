@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_235611",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T18:20:41+00:00",
-    "text": "Днепропетровск\nЗапуски БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_128876",
-    "channel": "kupolrussia",
-    "date": "2026-09-14T18:20:59+00:00",
-    "text": "Днепропетровск\nЗапуски БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_85305_Новохопёрск",
-    "channel": "locatorru",
-    "date": "2026-09-14T18:21:10+00:00",
-    "text": "Новохопёрск, Воронежская область - пролёт БПЛА в направлении Борисоглебск. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Новохопёрск",
-    "region": "Воронежская область",
-    "lat": 51.1008393,
-    "lon": 41.6309079
-  },
-  {
-    "id": "vrv_radar_90369_Аркадакский",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T18:22:00+00:00",
-    "text": "Аркадакский район\nСаратовская область \nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Аркадакский",
-    "region": "Саратовская область",
-    "lat": 51.8939515,
-    "lon": 43.6566347
-  },
-  {
     "id": "radarrussiia_93710_Аркадакский",
     "channel": "radarrussiia",
     "date": "2026-09-14T18:22:58+00:00",
@@ -21998,5 +21954,49 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "kupolrussia_129373_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-09-16T06:45:48+00:00",
+    "text": "Севастополь\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "LPRalarm_236231_Ракитянский",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T06:51:17+00:00",
+    "text": "Илек Кошары \nРакитянский район \nТревога по БПЛА Дартс",
+    "type": "drone",
+    "location_name": "Ракитянский",
+    "region": null,
+    "lat": 50.8380326,
+    "lon": 35.9006134
+  },
+  {
+    "id": "LPRalarm_236231_Дартс",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T06:51:17+00:00",
+    "text": "Илек Кошары \nРакитянский район \nТревога по БПЛА Дартс",
+    "type": "drone",
+    "location_name": "Дартс",
+    "region": null,
+    "lat": 66.8198841,
+    "lon": 65.8038835
+  },
+  {
+    "id": "kupolrussia_129374_Ракитянский",
+    "channel": "kupolrussia",
+    "date": "2026-09-16T06:51:36+00:00",
+    "text": "Илек Кошары \nРакитянский район \nТревога по БПЛА Дартс\nБелгородская область",
+    "type": "drone",
+    "location_name": "Ракитянский",
+    "region": "Белгородская область",
+    "lat": 50.8380326,
+    "lon": 35.9006134
   }
 ]
