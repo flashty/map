@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_90428",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T20:53:30+00:00",
-    "text": "Волгоградская область \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_93763",
-    "channel": "radarrussiia",
-    "date": "2026-09-14T20:54:00+00:00",
-    "text": "Ростовская область \nВолгоградская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_90429_Неверкинский",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T20:57:05+00:00",
-    "text": "Неверкинский район\nПензенская область\nФиксация ещё 3 БПЛА",
-    "type": "drone",
-    "location_name": "Неверкинский",
-    "region": "Пензенская область",
-    "lat": 52.7787253,
-    "lon": 46.690152
-  },
-  {
     "id": "vrv_radar_90430_Сызрань",
     "channel": "vrv_radar",
     "date": "2026-09-14T20:58:25+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129505",
+    "channel": "kupolrussia",
+    "date": "2026-09-16T13:00:25+00:00",
+    "text": "Бердянск и близлежайшие \nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236368",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T13:00:59+00:00",
+    "text": "Шебекино \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236369",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T13:01:12+00:00",
+    "text": "Бердянск и близлежайшие опасность по БПЛА\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
