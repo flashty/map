@@ -1,93 +1,5 @@
 [
   {
-    "id": "vrv_radar_90365_Острогожский",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T17:41:33+00:00",
-    "text": "Острогожский район\nВоронежская область \nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Острогожский",
-    "region": "Воронежская область",
-    "lat": 50.8584609,
-    "lon": 39.0772421
-  },
-  {
-    "id": "locatorru_85301",
-    "channel": "locatorru",
-    "date": "2026-09-14T17:41:38+00:00",
-    "text": "Пензенская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_93705_Острогожский",
-    "channel": "radarrussiia",
-    "date": "2026-09-14T17:41:46+00:00",
-    "text": "Острогожский район\nВоронежская область \nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Острогожский",
-    "region": "Воронежская область",
-    "lat": 50.8584609,
-    "lon": 39.0772421
-  },
-  {
-    "id": "vrv_radar_90366_Верхнедонской",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T17:42:01+00:00",
-    "text": "Верхнедонской район\nРостовская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Верхнедонской",
-    "region": "Ростовская область",
-    "lat": 49.7991115,
-    "lon": 41.2630916
-  },
-  {
-    "id": "radarrussiia_93706",
-    "channel": "radarrussiia",
-    "date": "2026-09-14T17:42:04+00:00",
-    "text": "Пензенская область \nОпасность по БПЛА \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_93707_Верхнедонской",
-    "channel": "radarrussiia",
-    "date": "2026-09-14T17:42:20+00:00",
-    "text": "Верхнедонской район\nРостовская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Верхнедонской",
-    "region": "Ростовская область",
-    "lat": 49.7991115,
-    "lon": 41.2630916
-  },
-  {
-    "id": "vrv_radar_90367_Кромской",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T17:42:28+00:00",
-    "text": "Кромской район\nОрловская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Кромской",
-    "region": "Орловская область",
-    "lat": 52.6353551,
-    "lon": 35.763628
-  },
-  {
-    "id": "radarrussiia_93708_Кромской",
-    "channel": "radarrussiia",
-    "date": "2026-09-14T17:42:37+00:00",
-    "text": "Кромской район\nОрловская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Кромской",
-    "region": "Орловская область",
-    "lat": 52.6353551,
-    "lon": 35.763628
-  },
-  {
     "id": "LPRalarm_235584",
     "channel": "LPRalarm",
     "date": "2026-09-14T17:43:38+00:00",
@@ -21996,6 +21908,94 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_93869",
+    "channel": "radarrussiia",
+    "date": "2026-09-16T04:31:15+00:00",
+    "text": "Астраханская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Астраханская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236204",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T04:31:24+00:00",
+    "text": "ЛДНР Запорожская область РФ \nАвиационно ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236205",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T04:31:58+00:00",
+    "text": "Белгородская область \nКурская область \nХарьковская область РФ \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129354",
+    "channel": "kupolrussia",
+    "date": "2026-09-16T04:32:06+00:00",
+    "text": "ЛДНР Запорожская область РФ \nАвиационно ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129355",
+    "channel": "kupolrussia",
+    "date": "2026-09-16T04:32:48+00:00",
+    "text": "Белгородская область \nКурская область \nХарьковская область РФ \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90570",
+    "channel": "vrv_radar",
+    "date": "2026-09-16T04:43:17+00:00",
+    "text": "Тульская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236206",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T04:43:50+00:00",
+    "text": "Осипенко, Бердянск и близлежащие с севера, северо-запада опасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14532",
+    "channel": "radar_plus_bpla",
+    "date": "2026-09-16T04:44:37+00:00",
+    "text": "Отбой опасности БПЛА по всем ранее объявленным регионам.\n\nЭта ночь прошла относительно тихо, были сбития в южные регионах. На сейчас новых целей не фиксируем.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
