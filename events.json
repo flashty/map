@@ -1,126 +1,5 @@
 [
   {
-    "id": "vrv_radar_90461",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T22:16:40+00:00",
-    "text": "Новоспасский район\nУльяновская область\nФиксация от 5 БПЛА в сторону г. Сызрань, Самарская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_93786",
-    "channel": "radarrussiia",
-    "date": "2026-09-14T22:16:53+00:00",
-    "text": "От 5 БПЛА в направлении Чувашской Республики, далее уйдут на Республику Марий Эл\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республику Марий",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_93787",
-    "channel": "radarrussiia",
-    "date": "2026-09-14T22:17:13+00:00",
-    "text": "Новоспасский район\nУльяновская область\nФиксация от 5 БПЛА в сторону г. Сызрань, Самарская область\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_90462_Кузнецкий",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T22:18:06+00:00",
-    "text": "Кузнецкий район\nПензенская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Кузнецкий",
-    "region": "Пензенская область",
-    "lat": 53.1878064,
-    "lon": 44.9796903
-  },
-  {
-    "id": "radarrussiia_93788_Кузнецкий",
-    "channel": "radarrussiia",
-    "date": "2026-09-14T22:18:26+00:00",
-    "text": "Кузнецкий район\nПензенская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Кузнецкий",
-    "region": "Пензенская область",
-    "lat": 53.1878064,
-    "lon": 44.9796903
-  },
-  {
-    "id": "LPRalarm_235708_Севастополь",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T22:18:59+00:00",
-    "text": "Севастополь, тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
-    "id": "kupolrussia_128951_Севастополь",
-    "channel": "kupolrussia",
-    "date": "2026-09-14T22:19:07+00:00",
-    "text": "Севастополь, тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
-    "id": "vrv_radar_90463_Николаевский",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T22:19:41+00:00",
-    "text": "Николаевский район\nУльяновская область\nФиксация реактивного БПЛА в сторону Новоспасского района",
-    "type": "drone",
-    "location_name": "Николаевский",
-    "region": "Ульяновская область",
-    "lat": 53.1039795,
-    "lon": 47.2565168
-  },
-  {
-    "id": "LPRalarm_235709",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T22:22:31+00:00",
-    "text": "Таганрог и близлежащие\nТревога по БПЛА\nРостовская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_128952",
-    "channel": "kupolrussia",
-    "date": "2026-09-14T22:22:37+00:00",
-    "text": "Таганрог и близлежащие\nТревога по БПЛА\nРостовская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_85364_Чувашская Республика",
-    "channel": "locatorru",
-    "date": "2026-09-14T22:22:55+00:00",
-    "text": "Чувашская Республика, Республика Татарстан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Чувашская Республика",
-    "region": "Республика Татарстан",
-    "lat": 55.0571155,
-    "lon": 48.0856726
-  },
-  {
     "id": "locatorru_85365_Зеленодольск",
     "channel": "locatorru",
     "date": "2026-09-14T22:23:06+00:00",
@@ -21998,5 +21877,126 @@
     "region": null,
     "lat": 47.2610441,
     "lon": 39.7249086
+  },
+  {
+    "id": "LPRalarm_236403_Шебекинский",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T14:33:25+00:00",
+    "text": "Муром и близлежащие \nУдарный БПЛА в направлении \nШебекинский район",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": null,
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "kupolrussia_129536_Шебекинский",
+    "channel": "kupolrussia",
+    "date": "2026-09-16T14:33:49+00:00",
+    "text": "Муром и близлежащие \nУдарный БПЛА в направлении \nШебекинский район",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": null,
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "kupolrussia_129537",
+    "channel": "kupolrussia",
+    "date": "2026-09-16T14:34:16+00:00",
+    "text": "Донецк и близлижайшие опасность по МРШ со сбросами\nДНР",
+    "type": "alert",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236404",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T14:34:18+00:00",
+    "text": "Донецк и близлижайшие опасность по МРШ со сбросами\nДНР",
+    "type": "alert",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236405",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T14:38:50+00:00",
+    "text": "Ейск и близлежащие повторно тревога по БПЛА и далее на восток",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129538",
+    "channel": "kupolrussia",
+    "date": "2026-09-16T14:39:01+00:00",
+    "text": "Ейск и близлежащие повторно тревога по БПЛА и далее на восток",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236406",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T14:41:38+00:00",
+    "text": "Приморско-Ахтарск и близлежащие от Ейск опасность по БПЛА вдоль побережья",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129539",
+    "channel": "kupolrussia",
+    "date": "2026-09-16T14:42:15+00:00",
+    "text": "Приморско-Ахтарск и близлежащие от Ейск опасность по БПЛА вдоль побережья",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90585",
+    "channel": "vrv_radar",
+    "date": "2026-09-16T14:44:29+00:00",
+    "text": "Ростов-на-Дону и близлежащие\nРостовская область \nВ вашем направлении фиксации БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90586_Кущевский",
+    "channel": "vrv_radar",
+    "date": "2026-09-16T14:45:13+00:00",
+    "text": "Кущевский район\nКраснодарский край\nФиксация от 2 БПЛА",
+    "type": "drone",
+    "location_name": "Кущевский",
+    "region": "Краснодарский край",
+    "lat": 46.5662308,
+    "lon": 39.6430486
+  },
+  {
+    "id": "vrv_radar_90587_Ленинградский",
+    "channel": "vrv_radar",
+    "date": "2026-09-16T14:45:25+00:00",
+    "text": "Ленинградский район\nКраснодарский край\nФиксации БПЛА",
+    "type": "drone",
+    "location_name": "Ленинградский",
+    "region": "Краснодарский край",
+    "lat": 46.2253372,
+    "lon": 39.4032887
   }
 ]

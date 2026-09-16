@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-16T13:52:20+00:00",
+        "last_updated": "2026-09-16T14:45:13+00:00",
+        "path_labels": [
+          "Таганрог",
+          "Кущевский (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.928362,
+            47.215495
+          ],
+          [
+            39.6430486,
+            46.5662308
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-16T14:01:14+00:00",
+        "last_updated": "2026-09-16T14:33:49+00:00",
+        "path_labels": [
+          "Волоконовский (Белгородская область)",
+          "Шебекинский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.7986348,
+            50.4498919
+          ],
+          [
+            36.8728034,
+            50.438988
+          ]
+        ]
+      }
+    }
+  ]
 }
