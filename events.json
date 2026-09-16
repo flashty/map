@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_235616",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T18:46:34+00:00",
-    "text": "Шахтёрск, Торез, Снежное ДНР и близлежащие \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_128880",
-    "channel": "kupolrussia",
-    "date": "2026-09-14T18:47:11+00:00",
-    "text": "Шахтёрск, Торез, Снежное ДНР и близлежащие\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_90374_Таловской",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T18:47:25+00:00",
-    "text": "Таловской район\nВоронежская область \nФиксация от 3 БПЛА",
-    "type": "drone",
-    "location_name": "Таловской",
-    "region": "Воронежская область",
-    "lat": 51.7832354,
-    "lon": 39.957762
-  },
-  {
-    "id": "LPRalarm_235617",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T18:48:39+00:00",
-    "text": "От Беловодска, ЛНР, в направлении Чертково, Шептуховка, Кутейниково, Ростовская область\nТревога по реактивным БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_85310",
     "channel": "locatorru",
     "date": "2026-09-14T18:48:41+00:00",
@@ -21996,6 +21952,50 @@
     "type": "alert",
     "location_name": null,
     "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236242",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T07:33:44+00:00",
+    "text": "Ростовская область \nАвиационная опасность",
+    "type": "aviation",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129385",
+    "channel": "kupolrussia",
+    "date": "2026-09-16T07:33:55+00:00",
+    "text": "Ростовская область \nАвиационная опасность",
+    "type": "aviation",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236243",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T07:34:35+00:00",
+    "text": "Новогригоровка и близлежащие \nОпасность по БПЛА Хорнет\nОсобое внимание трасса\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129386",
+    "channel": "kupolrussia",
+    "date": "2026-09-16T07:34:44+00:00",
+    "text": "Новогригоровка и близлежащие \nОпасность по БПЛА Хорнет\nОсобое внимание трасса\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
