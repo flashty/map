@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-15T23:35:03+00:00",
+        "last_updated": "2026-09-16T00:10:28+00:00",
+        "path_labels": [
+          "Шаблыкино (Орловская область)",
+          "Фокинский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.195244,
+            52.853958
+          ],
+          [
+            34.4146243,
+            53.213139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-15T23:35:03+00:00",
+        "last_updated": "2026-09-16T00:10:28+00:00",
+        "path_labels": [
+          "Хотынец (Орловская область)",
+          "Бежицкий"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.398,
+            53.1266
+          ],
+          [
+            34.2805431,
+            53.3242154
+          ]
+        ]
+      }
+    }
+  ]
 }
