@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_236403_Шебекинский",
-    "channel": "LPRalarm",
-    "date": "2026-09-16T14:33:25+00:00",
-    "text": "Муром и близлежащие \nУдарный БПЛА в направлении \nШебекинский район",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "kupolrussia_129536_Шебекинский",
-    "channel": "kupolrussia",
-    "date": "2026-09-16T14:33:49+00:00",
-    "text": "Муром и близлежащие \nУдарный БПЛА в направлении \nШебекинский район",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "kupolrussia_129537",
-    "channel": "kupolrussia",
-    "date": "2026-09-16T14:34:16+00:00",
-    "text": "Донецк и близлижайшие опасность по МРШ со сбросами\nДНР",
-    "type": "alert",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_236404",
-    "channel": "LPRalarm",
-    "date": "2026-09-16T14:34:18+00:00",
-    "text": "Донецк и близлижайшие опасность по МРШ со сбросами\nДНР",
-    "type": "alert",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_236405",
-    "channel": "LPRalarm",
-    "date": "2026-09-16T14:38:50+00:00",
-    "text": "Ейск и близлежащие повторно тревога по БПЛА и далее на восток",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_129538",
-    "channel": "kupolrussia",
-    "date": "2026-09-16T14:39:01+00:00",
-    "text": "Ейск и близлежащие повторно тревога по БПЛА и далее на восток",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_236406",
-    "channel": "LPRalarm",
-    "date": "2026-09-16T14:41:38+00:00",
-    "text": "Приморско-Ахтарск и близлежащие от Ейск опасность по БПЛА вдоль побережья",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_129539",
-    "channel": "kupolrussia",
-    "date": "2026-09-16T14:42:15+00:00",
-    "text": "Приморско-Ахтарск и близлежащие от Ейск опасность по БПЛА вдоль побережья",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_90585",
     "channel": "vrv_radar",
     "date": "2026-09-16T14:44:29+00:00",
@@ -21996,6 +21908,94 @@
     "type": "drone",
     "location_name": null,
     "region": "Тверская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236818",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T23:45:50+00:00",
+    "text": "Брянская область, тревога по БПЛА повторно, от Гг фиксации",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_85731_Иванищево",
+    "channel": "locatorru",
+    "date": "2026-09-16T23:45:56+00:00",
+    "text": "Иванищево, Ярославская область - БПЛА в сторону НПЗ, Ярославль. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Иванищево",
+    "region": "Ярославская область",
+    "lat": 57.6917379,
+    "lon": 39.410612
+  },
+  {
+    "id": "kupolrussia_129933",
+    "channel": "kupolrussia",
+    "date": "2026-09-16T23:45:57+00:00",
+    "text": "Брянская область, тревога по БПЛА повторно, от Гг фиксации",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_85732_Ярославский",
+    "channel": "locatorru",
+    "date": "2026-09-16T23:46:17+00:00",
+    "text": "Сарафоново, ​Ярославский район, Ярославская область - пролёт БПЛА на Ярославль.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Ярославский",
+    "region": "Ярославская область",
+    "lat": 57.584609,
+    "lon": 39.8356454
+  },
+  {
+    "id": "locatorru_85732_Сарафоново",
+    "channel": "locatorru",
+    "date": "2026-09-16T23:46:17+00:00",
+    "text": "Сарафоново, ​Ярославский район, Ярославская область - пролёт БПЛА на Ярославль.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Сарафоново",
+    "region": "Ярославская область",
+    "lat": 57.6614813,
+    "lon": 39.6878111
+  },
+  {
+    "id": "vrv_radar_90838",
+    "channel": "vrv_radar",
+    "date": "2026-09-16T23:46:29+00:00",
+    "text": "Костромская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Костромская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_85733",
+    "channel": "locatorru",
+    "date": "2026-09-16T23:48:02+00:00",
+    "text": "Осинки, Вязниковский район, Владимирская область - фиксации БПЛА в сторону Ковров, далее на Ивановскую область и на Ярославль.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Владимирская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_85734",
+    "channel": "locatorru",
+    "date": "2026-09-16T23:48:38+00:00",
+    "text": "Гаврилов-Ям, Ярославская область - пролёт 2 БПЛА в сторону НПЗ, Ярославль.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ярославская область",
     "lat": null,
     "lon": null
   }
