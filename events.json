@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_235702",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T21:27:10+00:00",
-    "text": "Саратовская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_93777_Серафимовичский",
-    "channel": "radarrussiia",
-    "date": "2026-09-14T21:27:20+00:00",
-    "text": "Серафимовичский район\nВолгоградская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Серафимовичский",
-    "region": "Волгоградская область",
-    "lat": 49.4953466,
-    "lon": 42.7517542
-  },
-  {
-    "id": "radarrussiia_93778_Неверкинский",
-    "channel": "radarrussiia",
-    "date": "2026-09-14T21:27:37+00:00",
-    "text": "Неверкинский район\nПензенская область\nЕщё фиксация реактивного БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Неверкинский",
-    "region": "Пензенская область",
-    "lat": 52.7787253,
-    "lon": 46.690152
-  },
-  {
-    "id": "vrv_radar_90448_Михайловский",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T21:28:29+00:00",
-    "text": "Михайловский район \nВолгоградская область \nМеры безопасности",
-    "type": "alert",
-    "location_name": "Михайловский",
-    "region": "Волгоградская область",
-    "lat": 50.0670428,
-    "lon": 43.2061623
-  },
-  {
-    "id": "vrv_radar_90449_Неверкинский",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T21:28:55+00:00",
-    "text": "Неверкинский район\nПензенская область\nЕщё фиксация реактивного БПЛА",
-    "type": "drone",
-    "location_name": "Неверкинский",
-    "region": "Пензенская область",
-    "lat": 52.7787253,
-    "lon": 46.690152
-  },
-  {
     "id": "vrv_radar_90450_Сызрань",
     "channel": "vrv_radar",
     "date": "2026-09-14T21:31:00+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Краснодарского края",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236385",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T13:36:22+00:00",
+    "text": "Светлодарск в сторону трассы Светлодарск - Дебальцево опасность по  БПЛА\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236386",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T13:37:42+00:00",
+    "text": "Лермонтово опасность по БПЛА \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129521",
+    "channel": "kupolrussia",
+    "date": "2026-09-16T13:38:15+00:00",
+    "text": "Лермонтово опасность по БПЛА \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236387",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T13:39:39+00:00",
+    "text": "Старобельский район, Беловодск и близлежащие тревога по БПЛА Хорнет \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129522",
+    "channel": "kupolrussia",
+    "date": "2026-09-16T13:39:48+00:00",
+    "text": "Старобельский район, Беловодск и близлежащие тревога по БПЛА Хорнет \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
