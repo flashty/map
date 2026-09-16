@@ -1,71 +1,5 @@
 [
   {
-    "id": "radarrussiia_93710_Аркадакский",
-    "channel": "radarrussiia",
-    "date": "2026-09-14T18:22:58+00:00",
-    "text": "Аркадакский район\nСаратовская область \nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Аркадакский",
-    "region": "Саратовская область",
-    "lat": 51.8939515,
-    "lon": 43.6566347
-  },
-  {
-    "id": "vrv_radar_90370_Кумылженский",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T18:24:11+00:00",
-    "text": "Кумылженский район\nВолгоградская область \nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Кумылженский",
-    "region": "Волгоградская область",
-    "lat": 49.8559962,
-    "lon": 42.4469881
-  },
-  {
-    "id": "LPRalarm_235612_Калачеевский",
-    "channel": "LPRalarm",
-    "date": "2026-09-14T18:24:53+00:00",
-    "text": "Калачеевский район\nВоронежская область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Калачеевский",
-    "region": "Воронежская область",
-    "lat": 50.342392,
-    "lon": 41.155396
-  },
-  {
-    "id": "vrv_radar_90371_Боковский",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T18:24:57+00:00",
-    "text": "Боковский район\nРостовская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Боковский",
-    "region": "Ростовская область",
-    "lat": 49.2816513,
-    "lon": 41.730816
-  },
-  {
-    "id": "locatorru_85306",
-    "channel": "locatorru",
-    "date": "2026-09-14T18:26:28+00:00",
-    "text": "Республика Мордовия - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_90372_Бобровский",
-    "channel": "vrv_radar",
-    "date": "2026-09-14T18:27:31+00:00",
-    "text": "Бобровский район \nВоронежская область \nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Бобровский",
-    "region": "Воронежская область",
-    "lat": 51.0966142,
-    "lon": 40.0397707
-  },
-  {
     "id": "radarrussiia_93711_Кумылженский",
     "channel": "radarrussiia",
     "date": "2026-09-14T18:27:37+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Белгородская область",
     "lat": 50.8380326,
     "lon": 35.9006134
+  },
+  {
+    "id": "vrv_radar_90575",
+    "channel": "vrv_radar",
+    "date": "2026-09-16T07:04:16+00:00",
+    "text": "Благодарим тех кто участвует в сборе❤️\n\nСобрано:  115.806 из 215.000₽\n\nСсылки для перевода: \nhttps://pay.cloudtips.ru/p/0376bf3f\n\nhttps://yoomoney.ru/fundraise/1H7FOEKHABB.260418",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236232",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T07:05:13+00:00",
+    "text": "Ленинский район \nСемисотка и близлежащие \nОпасность по БПЛА с моря \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129375",
+    "channel": "kupolrussia",
+    "date": "2026-09-16T07:05:31+00:00",
+    "text": "Ленинский район \nСемисотка и близлежащие \nс моря \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236233",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T07:12:04+00:00",
+    "text": "Курская область и близлежащие \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129376",
+    "channel": "kupolrussia",
+    "date": "2026-09-16T07:12:12+00:00",
+    "text": "Курская область и близлежащие\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236234",
+    "channel": "LPRalarm",
+    "date": "2026-09-16T07:15:41+00:00",
+    "text": "Курская область и близлежащие \nОтбой Авиационной Ракетной бомбовой опасности.\nЛожная",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
   }
 ]
