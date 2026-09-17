@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-17T06:09:32+00:00",
+        "last_updated": "2026-09-17T06:46:39+00:00",
+        "path_labels": [
+          "Нечаевка",
+          "Ракитное (Белгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.5632731,
+            50.8652692
+          ],
+          [
+            35.832,
+            50.8343
+          ]
+        ]
+      }
+    }
+  ]
 }
