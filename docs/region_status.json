@@ -11,21 +11,21 @@
   },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Осипенко \nБердянск и близлежащие \nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "missile",
+    "text": "Запорожская область РФ \nЛДНР \nАвиационная ракетно бомбовая опасность \nПовторно",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-17T15:10:44+00:00",
-    "expires_at": "2026-09-17T16:10:44+00:00",
+    "updated_at": "2026-09-17T15:22:51+00:00",
+    "expires_at": "2026-09-17T16:22:51+00:00",
     "count": null,
     "count_approx": false
   },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Погарский район \nПочеп и близлежащие \nБрянская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-17T15:09:59+00:00",
-    "expires_at": "2026-09-17T16:09:59+00:00",
+    "text": "Брянская область \nТревога по БПЛА сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-17T15:30:52+00:00",
+    "expires_at": "2026-09-17T16:30:52+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,10 +52,10 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "Тульская область \nКалужская область \nМосковская область \nТревога по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "ГО Коломна\nМосковская область\nОпасность по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-17T15:07:59+00:00",
-    "expires_at": "2026-09-17T16:07:59+00:00",
+    "updated_at": "2026-09-17T15:29:31+00:00",
+    "expires_at": "2026-09-17T16:29:31+00:00",
     "count": null,
     "count_approx": false
   },
@@ -69,16 +69,6 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Старобельск и ближайшие опасность по БПЛА \nЛНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-17T14:19:55+00:00",
-    "expires_at": "2026-09-17T15:19:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
@@ -89,23 +79,13 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "В направлении Абрикосовка фиксации БПЛА Хорнет \nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-17T14:22:54+00:00",
-    "expires_at": "2026-09-17T15:22:54+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-17T14:59:48+00:00",
-    "expires_at": "2026-09-17T15:59:48+00:00",
+    "text": "Рязанская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-17T15:18:00+00:00",
+    "expires_at": "2026-09-17T16:18:00+00:00",
     "count": null,
     "count_approx": false
   },
@@ -136,6 +116,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-17T15:09:46+00:00",
     "expires_at": "2026-09-17T16:09:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородская область",
+    "type": "drone",
+    "text": "Нижегородская область \nВнимание по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-17T15:17:39+00:00",
+    "expires_at": "2026-09-17T16:17:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "drone",
+    "text": "Владимирская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-17T15:18:43+00:00",
+    "expires_at": "2026-09-17T16:18:43+00:00",
     "count": null,
     "count_approx": false
   }
