@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_236550",
-    "channel": "LPRalarm",
-    "date": "2026-09-16T18:04:38+00:00",
-    "text": "Ровеньки ЛНР \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_129675",
-    "channel": "kupolrussia",
-    "date": "2026-09-16T18:04:52+00:00",
-    "text": "Ровеньки ЛНР\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_90610_Калачевский",
-    "channel": "vrv_radar",
-    "date": "2026-09-16T18:06:33+00:00",
-    "text": "Калачевский район \nВоронежская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Калачевский",
-    "region": "Воронежская область",
-    "lat": 50.4227353,
-    "lon": 40.9872103
-  },
-  {
-    "id": "LPRalarm_236551",
-    "channel": "LPRalarm",
-    "date": "2026-09-16T18:06:58+00:00",
-    "text": "Генеральское и далее в направлении Новочеркасск группа БПЛА \nРостовская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_85527_Бобровский",
-    "channel": "locatorru",
-    "date": "2026-09-16T18:07:10+00:00",
-    "text": "Ясенки, Бобровский район, Воронежская область - пролёты БПЛА на восток, северо-восток.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Бобровский",
-    "region": "Воронежская область",
-    "lat": 51.0966142,
-    "lon": 40.0397707
-  },
-  {
     "id": "locatorru_85527_Ясенки",
     "channel": "locatorru",
     "date": "2026-09-16T18:07:10+00:00",
@@ -21996,6 +21941,61 @@
     "type": "unknown",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_130037",
+    "channel": "kupolrussia",
+    "date": "2026-09-17T08:31:35+00:00",
+    "text": "Причерноморье Краснодарский край \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236948",
+    "channel": "LPRalarm",
+    "date": "2026-09-17T08:34:20+00:00",
+    "text": "Орехово и далее ракетная опасность \n\nЗапорожская область РФ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_130038",
+    "channel": "kupolrussia",
+    "date": "2026-09-17T08:34:54+00:00",
+    "text": "Орехово и далее \nЗапорожская область РФ\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90917",
+    "channel": "vrv_radar",
+    "date": "2026-09-17T08:35:40+00:00",
+    "text": "Ставропольский край\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_94174",
+    "channel": "radarrussiia",
+    "date": "2026-09-17T08:37:19+00:00",
+    "text": "Московская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
     "lat": null,
     "lon": null
   }

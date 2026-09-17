@@ -1,14 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Ясиноватая ДНР и близлежащие \nОпасность по БПЛА Хорнет",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-17T07:39:21+00:00",
-    "expires_at": "2026-09-17T08:39:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курской области",
     "type": "missile",
@@ -26,16 +16,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-17T08:28:08+00:00",
     "expires_at": "2026-09-17T09:28:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "От Бытошь (Брянская область) в сторону Людиново (Калужская область)\n\nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-17T07:43:37+00:00",
-    "expires_at": "2026-09-17T08:43:37+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,30 +42,20 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "missile",
-    "text": "Пологи и близлежащие ракетная опасность \nЗапорожская область РФ",
+    "text": "Орехово и далее \nЗапорожская область РФ\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-17T08:28:21+00:00",
-    "expires_at": "2026-09-17T09:28:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "От Бытошь (Брянская область) в сторону Людиново (Калужская область)\n\nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-17T07:43:37+00:00",
-    "expires_at": "2026-09-17T08:43:37+00:00",
+    "updated_at": "2026-09-17T08:34:54+00:00",
+    "expires_at": "2026-09-17T09:34:54+00:00",
     "count": null,
     "count_approx": false
   },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "Московская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-17T07:58:49+00:00",
-    "expires_at": "2026-09-17T08:58:49+00:00",
+    "text": "Московская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-17T08:37:19+00:00",
+    "expires_at": "2026-09-17T09:37:19+00:00",
     "count": null,
     "count_approx": false
   },
@@ -103,9 +73,9 @@
     "display_name": "Краснодарский край",
     "type": "drone",
     "text": "Причерноморье Краснодарский край \nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-17T08:29:21+00:00",
-    "expires_at": "2026-09-17T09:29:21+00:00",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-17T08:31:35+00:00",
+    "expires_at": "2026-09-17T09:31:35+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +96,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-17T08:18:44+00:00",
     "expires_at": "2026-09-17T09:18:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ставропольск": {
+    "display_name": "Ставропольский край",
+    "type": "drone",
+    "text": "Ставропольский край\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-17T08:35:40+00:00",
+    "expires_at": "2026-09-17T09:35:40+00:00",
     "count": null,
     "count_approx": false
   }
