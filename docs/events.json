@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_236609_Грайворонский",
-    "channel": "LPRalarm",
-    "date": "2026-09-16T18:48:44+00:00",
-    "text": "Грайворонский район и близлежащие \nТревога по БПЛА \nБелгородская область",
-    "type": "drone",
-    "location_name": "Грайворонский",
-    "region": "Белгородская область",
-    "lat": 50.4309028,
-    "lon": 35.5905721
-  },
-  {
-    "id": "kupolrussia_129734_Грайворонский",
-    "channel": "kupolrussia",
-    "date": "2026-09-16T18:48:53+00:00",
-    "text": "Грайворонский район и близлежащие \nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Грайворонский",
-    "region": "Белгородская область",
-    "lat": 50.4309028,
-    "lon": 35.5905721
-  },
-  {
-    "id": "LPRalarm_236610",
-    "channel": "LPRalarm",
-    "date": "2026-09-16T18:48:59+00:00",
-    "text": "Воронежская область \nТревога по БПЛА от Белгородской области \nПовторно",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_85549",
-    "channel": "locatorru",
-    "date": "2026-09-16T18:49:04+00:00",
-    "text": "Терновка, Воронежская область - пролёты БПЛА на Жердевка, Тамбовская область. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_129735",
-    "channel": "kupolrussia",
-    "date": "2026-09-16T18:49:26+00:00",
-    "text": "Воронежская область\nот Белгородской области \nПовторно\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_236611",
-    "channel": "LPRalarm",
-    "date": "2026-09-16T18:49:54+00:00",
-    "text": "Ивня и далее на Обоянь\nТревога по БПЛА \nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_129736",
     "channel": "kupolrussia",
     "date": "2026-09-16T18:50:07+00:00",
@@ -21996,6 +21930,72 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14559",
+    "channel": "radar_plus_bpla",
+    "date": "2026-09-17T12:11:34+00:00",
+    "text": "От Калужской области группы БПЛА в направлении Московской области.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_130118_Погарский",
+    "channel": "kupolrussia",
+    "date": "2026-09-17T12:12:01+00:00",
+    "text": "Погарский район тревога по бпла противника в тыл \nБрянская область",
+    "type": "drone",
+    "location_name": "Погарский",
+    "region": "Брянская область",
+    "lat": 52.5207056,
+    "lon": 33.2053408
+  },
+  {
+    "id": "locatorru_85811",
+    "channel": "locatorru",
+    "date": "2026-09-17T12:14:32+00:00",
+    "text": "Белгородская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "type": "missile",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_85812",
+    "channel": "locatorru",
+    "date": "2026-09-17T12:14:43+00:00",
+    "text": "Ещё пуски РСЗО на Валуйки и район. \n\n📡Локатор России - @locatorru",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_237043",
+    "channel": "LPRalarm",
+    "date": "2026-09-17T12:15:06+00:00",
+    "text": "Валуйский округ повторно ракетная тревога",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_130119",
+    "channel": "kupolrussia",
+    "date": "2026-09-17T12:15:27+00:00",
+    "text": "Валуйский округ повторно ракетная тревога",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
