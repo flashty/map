@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-17T10:24:24+00:00",
+        "last_updated": "2026-09-17T11:03:29+00:00",
+        "path_labels": [
+          "Стародубский (Брянская область)",
+          "Клинцы (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.7150092,
+            52.5153759
+          ],
+          [
+            32.240097,
+            52.758511
+          ]
+        ]
+      }
+    }
+  ]
 }
