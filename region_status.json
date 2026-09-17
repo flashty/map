@@ -10,22 +10,22 @@
     "count_approx": false
   },
   "запорожск": {
-    "display_name": "Запорожская области",
-    "type": "missile",
-    "text": "ЛДНР\nЗапорожская области РФ \nАвиационная бомбовая ,ракетная опасность\nПовторно",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-17T13:14:37+00:00",
-    "expires_at": "2026-09-17T14:14:37+00:00",
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "от Каменки-Днепровской в направлении Мелитополь\nот с.Великая Знаменка опасность по БПЛА \nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-17T13:31:05+00:00",
+    "expires_at": "2026-09-17T14:31:05+00:00",
     "count": null,
     "count_approx": false
   },
   "брянск": {
-    "display_name": "Брянской области",
+    "display_name": "Брянская область",
     "type": "drone",
-    "text": "Фиксации БПЛА от Карачев, Брянской области в направлении Орловской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-17T12:55:34+00:00",
-    "expires_at": "2026-09-17T13:55:34+00:00",
+    "text": "Навля опасность по БПЛА в направлении Брянск\nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-17T13:24:27+00:00",
+    "expires_at": "2026-09-17T14:24:27+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,16 +56,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-17T13:13:43+00:00",
     "expires_at": "2026-09-17T14:13:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Таманский полуостров \nТамань и близлежащие \nКраснодарский край\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-17T12:47:56+00:00",
-    "expires_at": "2026-09-17T13:47:56+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +96,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-09-17T12:58:03+00:00",
     "expires_at": "2026-09-17T13:58:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ивановск": {
+    "display_name": "Ивановская область",
+    "type": "alert",
+    "text": "Шуя, Ивановская область - учения, звуки опасности не несут. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-17T13:27:18+00:00",
+    "expires_at": "2026-09-17T14:27:18+00:00",
     "count": null,
     "count_approx": false
   }

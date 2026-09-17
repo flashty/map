@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-17T12:51:29+00:00",
+        "last_updated": "2026-09-17T13:21:00+00:00",
+        "path_labels": [
+          "Карачев (Брянская область)",
+          "Алтухово (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.9825906,
+            53.1221822
+          ],
+          [
+            34.3663935,
+            52.6755154
+          ]
+        ]
+      }
+    }
+  ]
 }
