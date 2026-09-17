@@ -1,93 +1,5 @@
 [
   {
-    "id": "kupolrussia_129580",
-    "channel": "kupolrussia",
-    "date": "2026-09-16T16:15:00+00:00",
-    "text": "по всем ранее объявленным",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_236455",
-    "channel": "LPRalarm",
-    "date": "2026-09-16T16:17:18+00:00",
-    "text": "Дорогие наши близкие!\n\nВаша поддержка нашей деятельности для нас очень важна.\n❤️❤️❤️\n\nСпасибо огромное всем это понимающим. \n\nМы никогда не получали государственного финансирования, но смогли создать на начальном этапе единственный в своем роде ресурс оповещения и в дальнейшем развиться благодаря Вам!\n\nhttps://pay.cloudtips.ru/p/f2a9c1d8",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_90589",
-    "channel": "vrv_radar",
-    "date": "2026-09-16T16:18:11+00:00",
-    "text": "Ростовская область \nОпасность по БПЛА повторно",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_236456",
-    "channel": "LPRalarm",
-    "date": "2026-09-16T16:20:26+00:00",
-    "text": "Белгородская область  \nХарьковская область РФ \nАвиационная ракетная бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_129581",
-    "channel": "kupolrussia",
-    "date": "2026-09-16T16:20:44+00:00",
-    "text": "Белгородская область  \nХарьковская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_236457_Севастополь",
-    "channel": "LPRalarm",
-    "date": "2026-09-16T16:20:45+00:00",
-    "text": "От Качи с моря на юг фиксации БПЛА \nСевастополь",
-    "type": "drone",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
-    "id": "kupolrussia_129582_Севастополь",
-    "channel": "kupolrussia",
-    "date": "2026-09-16T16:20:57+00:00",
-    "text": "От Качи с моря на юг фиксации БПЛА \nСевастополь",
-    "type": "drone",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
-    "id": "radarrussiia_93889",
-    "channel": "radarrussiia",
-    "date": "2026-09-16T16:23:33+00:00",
-    "text": "Ростовская область \nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_236458",
     "channel": "LPRalarm",
     "date": "2026-09-16T16:32:59+00:00",
@@ -21996,6 +21908,94 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90877",
+    "channel": "vrv_radar",
+    "date": "2026-09-17T03:17:34+00:00",
+    "text": "Карачаево-Черкесская Республика\nКабардино-Балкарская Республика\nРеспублика Северная Осетия\nРеспублика Ингушетия\nЧеченская Республика\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика\nКабардино-Балкарская",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90878",
+    "channel": "vrv_radar",
+    "date": "2026-09-17T03:18:32+00:00",
+    "text": "Астраханская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Астраханская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90879",
+    "channel": "vrv_radar",
+    "date": "2026-09-17T03:18:43+00:00",
+    "text": "Республика Калмыкия\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Калмыкия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90880",
+    "channel": "vrv_radar",
+    "date": "2026-09-17T03:20:26+00:00",
+    "text": "Республика Дагестан\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Дагестан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236828",
+    "channel": "LPRalarm",
+    "date": "2026-09-17T03:24:30+00:00",
+    "text": "Карачев и близлежащие, тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129943",
+    "channel": "kupolrussia",
+    "date": "2026-09-17T03:24:35+00:00",
+    "text": "Карачев и близлежащие, тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_129944",
+    "channel": "kupolrussia",
+    "date": "2026-09-17T03:30:09+00:00",
+    "text": "Волгоградская область\nРеспублика Дагестан",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236829",
+    "channel": "LPRalarm",
+    "date": "2026-09-17T03:30:12+00:00",
+    "text": "Волгоградская область\nРеспублика Дагестан",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Волгоградская область",
     "lat": null,
     "lon": null
   }
