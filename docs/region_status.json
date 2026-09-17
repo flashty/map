@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Ленинский район \nКировское\nЧауда и ближайшее \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-17T07:15:19+00:00",
-    "expires_at": "2026-09-17T08:15:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курской области",
     "type": "drone",
@@ -61,11 +51,11 @@
   },
   "луганск": {
     "display_name": "Луганская область",
-    "type": "missile",
-    "text": "ЛНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "drone",
+    "text": "Горское ЛНР опасность по БПЛА Хорнет",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-17T07:15:42+00:00",
-    "expires_at": "2026-09-17T08:15:42+00:00",
+    "updated_at": "2026-09-17T08:07:20+00:00",
+    "expires_at": "2026-09-17T09:07:20+00:00",
     "count": null,
     "count_approx": false
   },
@@ -81,11 +71,11 @@
   },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "Гуляй Поле и далее \nЗапорожская область РФ\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "alert",
+    "text": "ЛДНР\nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-17T07:46:46+00:00",
-    "expires_at": "2026-09-17T08:46:46+00:00",
+    "updated_at": "2026-09-17T08:10:52+00:00",
+    "expires_at": "2026-09-17T09:10:52+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +96,36 @@
     "channel": "vrv_radar",
     "updated_at": "2026-09-17T07:58:49+00:00",
     "expires_at": "2026-09-17T08:58:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "aviation",
+    "text": "Херсонская область РФ \nАвиационная опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-17T08:09:02+00:00",
+    "expires_at": "2026-09-17T09:09:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Геленджик и близлежащие\nАнапа и близлежащие\nНовороссийск и близлежащие\nКраснодарский край\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-17T08:14:40+00:00",
+    "expires_at": "2026-09-17T09:14:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-17T08:14:19+00:00",
+    "expires_at": "2026-09-17T09:14:19+00:00",
     "count": null,
     "count_approx": false
   }
