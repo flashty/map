@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Скадовск и близлежащие\nХерсонская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-17T06:46:27+00:00",
-    "expires_at": "2026-09-17T07:46:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -91,11 +81,11 @@
   },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Осипенко, Бердянск и близлежащие меры безопасности при БПЛА!\n\nЗапорожская область РФ",
+    "type": "missile",
+    "text": "Гуляй Поле и далее \nЗапорожская область РФ\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-17T07:31:45+00:00",
-    "expires_at": "2026-09-17T08:31:45+00:00",
+    "updated_at": "2026-09-17T07:46:46+00:00",
+    "expires_at": "2026-09-17T08:46:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +96,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-17T07:43:37+00:00",
     "expires_at": "2026-09-17T08:43:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Московская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-17T07:58:49+00:00",
+    "expires_at": "2026-09-17T08:58:49+00:00",
     "count": null,
     "count_approx": false
   }
