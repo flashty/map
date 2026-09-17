@@ -1,60 +1,5 @@
 [
   {
-    "id": "radarrussiia_93891",
-    "channel": "radarrussiia",
-    "date": "2026-09-16T16:53:46+00:00",
-    "text": "Воронежская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_93892_Россошанский",
-    "channel": "radarrussiia",
-    "date": "2026-09-16T16:54:06+00:00",
-    "text": "Россошанский район\nКаменский район\nВоронежская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Россошанский",
-    "region": "Воронежская область",
-    "lat": 50.1186442,
-    "lon": 39.6627682
-  },
-  {
-    "id": "radarrussiia_93892_Каменский",
-    "channel": "radarrussiia",
-    "date": "2026-09-16T16:54:06+00:00",
-    "text": "Россошанский район\nКаменский район\nВоронежская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Каменский",
-    "region": "Воронежская область",
-    "lat": 50.9705693,
-    "lon": 41.1152706
-  },
-  {
-    "id": "LPRalarm_236474",
-    "channel": "LPRalarm",
-    "date": "2026-09-16T16:57:24+00:00",
-    "text": "Экстренная информация РСЧС: ОПАСНОСТЬ АТАКИ БПЛА в Вейделеевском и Ровеньском МО 19:55. Оставайтесь дома, не подходите к окнам или пройдите в укрытие.",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_129599",
-    "channel": "kupolrussia",
-    "date": "2026-09-16T16:57:30+00:00",
-    "text": "Экстренная информация РСЧС: ОПАСНОСТЬ АТАКИ БПЛА в Вейделеевском и Ровеньском МО 19:55. Оставайтесь дома, не подходите к окнам или пройдите в укрытие.",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_85508",
     "channel": "locatorru",
     "date": "2026-09-16T16:57:36+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Новгородская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14551",
+    "channel": "radar_plus_bpla",
+    "date": "2026-09-17T04:31:21+00:00",
+    "text": "Отбой опасности БПЛА по всем ранее объявленным регионам.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_90889",
+    "channel": "vrv_radar",
+    "date": "2026-09-17T04:40:22+00:00",
+    "text": "Карачаево-Черкесская Республика\nКабардино-Балкарская Республика\nРеспублика Северная Осетия\nРеспублика Ингушетия\nЧеченская Республика\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика\nКабардино-Балкарская",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_94166",
+    "channel": "radarrussiia",
+    "date": "2026-09-17T04:41:02+00:00",
+    "text": "Новгородская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Новгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_85787",
+    "channel": "locatorru",
+    "date": "2026-09-17T04:42:35+00:00",
+    "text": "Республика Дагестан - от Гамиях, Махачкала до Зеленоморское, Каспийск - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Дагестан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_236842_Валуйский",
+    "channel": "LPRalarm",
+    "date": "2026-09-17T04:45:24+00:00",
+    "text": "От Яблоново на Дружбу БПЛА разведка Лелека\nВалуйский район",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": null,
+    "lat": 53.1481885,
+    "lon": 36.3185713
   }
 ]
