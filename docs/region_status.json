@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Володарское\nМангуш\nУрзуф\nЯлта\nЮрьевка\nИ близлежащие\nТревога по БПЛА\nИ далее в направлении\nМариуполь\nДНР",
+    "text": "Горловка, Енакиево, Ждановка ДНР и близлежащие \nОпасность по БПЛА \n\nГорловка так же опасность ФПВ сохраняется",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-17T15:41:31+00:00",
-    "expires_at": "2026-09-17T16:41:31+00:00",
+    "updated_at": "2026-09-17T16:27:48+00:00",
+    "expires_at": "2026-09-17T17:27:48+00:00",
     "count": null,
     "count_approx": false
   },
@@ -22,20 +22,20 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Выгоничский район\nТрубчевский район\nБрянская область\nТревога по БПЛА сохраняется\nВозможно над вами БПЛА разведчик",
+    "text": "Сельцо\nБрянск\nИ близлежащие\nТревога по БПЛА сохраняется\nБрянская область",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-17T16:15:43+00:00",
-    "expires_at": "2026-09-17T17:15:43+00:00",
+    "updated_at": "2026-09-17T16:24:45+00:00",
+    "expires_at": "2026-09-17T17:24:45+00:00",
     "count": null,
     "count_approx": false
   },
   "орловск": {
-    "display_name": "Орловской области",
+    "display_name": "Орловская область",
     "type": "drone",
-    "text": "Курская область\nТревога по БПЛА\nИ далее в направлении\nОрловской области",
+    "text": "Орловская область\nТревога по БПЛА\nОт Курской и Брянской областей",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-17T16:03:46+00:00",
-    "expires_at": "2026-09-17T17:03:46+00:00",
+    "updated_at": "2026-09-17T16:22:16+00:00",
+    "expires_at": "2026-09-17T17:22:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -69,36 +69,6 @@
     "count": null,
     "count_approx": false
   },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязанская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-17T15:18:00+00:00",
-    "expires_at": "2026-09-17T16:18:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "нижегородск": {
-    "display_name": "Нижегородская область",
-    "type": "drone",
-    "text": "Нижегородская область \nВнимание по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-17T15:17:39+00:00",
-    "expires_at": "2026-09-17T16:17:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "владимирск": {
-    "display_name": "Владимирская область",
-    "type": "drone",
-    "text": "Владимирская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-17T15:18:43+00:00",
-    "expires_at": "2026-09-17T16:18:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -116,6 +86,46 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-17T16:13:02+00:00",
     "expires_at": "2026-09-17T17:13:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "alert",
+    "text": "Нижнекамск\nРеспублика Татарстан\nЗвуки в небе опасности не несут\nОпасности в регионе нет\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-17T16:20:03+00:00",
+    "expires_at": "2026-09-17T17:20:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Тверская область \nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-17T16:26:34+00:00",
+    "expires_at": "2026-09-17T17:26:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Каховка и близлежащие\nХерсонская область РФ\nБПЛА разведчик",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-17T16:27:03+00:00",
+    "expires_at": "2026-09-17T17:27:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ярославск": {
+    "display_name": "Ярославская область",
+    "type": "drone",
+    "text": "Ярославская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-17T16:30:45+00:00",
+    "expires_at": "2026-09-17T17:30:45+00:00",
     "count": null,
     "count_approx": false
   }
