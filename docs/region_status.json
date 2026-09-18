@@ -9,33 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Погар и близлежащие тревога по БПЛА и ФПВ \n\nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-18T12:56:44+00:00",
-    "expires_at": "2026-09-18T13:56:44+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Геленджик и близлежащие \nКраснодарский край \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-18T12:45:53+00:00",
-    "expires_at": "2026-09-18T13:45:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Черниговка \nЗапорожская область РФ с Северо - Запада тревога по БПЛА Хорнет",
+    "type": "missile",
+    "text": "ЛДНР \nЗапорожская область РФ\nАвиационная бомбовая ракетная опасность \nПовторно",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-18T13:03:08+00:00",
-    "expires_at": "2026-09-18T14:03:08+00:00",
+    "updated_at": "2026-09-18T13:52:32+00:00",
+    "expires_at": "2026-09-18T14:52:32+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,26 +26,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-18T13:00:01+00:00",
     "expires_at": "2026-09-18T14:00:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "мордов": {
-    "display_name": "Республика Мордовия",
-    "type": "drone",
-    "text": "Республика Мордовия\nВнимание по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-18T12:45:53+00:00",
-    "expires_at": "2026-09-18T13:45:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ярославск": {
-    "display_name": "Ярославская область",
-    "type": "drone",
-    "text": "Ярославская область опасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-18T12:51:36+00:00",
-    "expires_at": "2026-09-18T13:51:36+00:00",
     "count": null,
     "count_approx": false
   },
@@ -82,20 +42,20 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Алексин \nТульская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Тула \nТульская область \nРабота ПВО по БПЛА \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-18T13:26:35+00:00",
-    "expires_at": "2026-09-18T14:26:35+00:00",
+    "updated_at": "2026-09-18T13:54:09+00:00",
+    "expires_at": "2026-09-18T14:54:09+00:00",
     "count": null,
     "count_approx": false
   },
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Республика Татарстан\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-18T13:36:55+00:00",
-    "expires_at": "2026-09-18T14:36:55+00:00",
+    "text": "Республика Татарстан\nРеспублика Марий Эл\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-18T13:47:24+00:00",
+    "expires_at": "2026-09-18T14:47:24+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +66,36 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-18T13:42:33+00:00",
     "expires_at": "2026-09-18T14:42:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "марий": {
+    "display_name": "Республика Марий",
+    "type": "drone",
+    "text": "Республика Татарстан\nРеспублика Марий Эл\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-18T13:47:24+00:00",
+    "expires_at": "2026-09-18T14:47:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рязанская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-18T13:48:30+00:00",
+    "expires_at": "2026-09-18T14:48:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "вологодск": {
+    "display_name": "Вологодская область",
+    "type": "drone",
+    "text": "Вологодская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-18T13:55:30+00:00",
+    "expires_at": "2026-09-18T14:55:30+00:00",
     "count": null,
     "count_approx": false
   }
