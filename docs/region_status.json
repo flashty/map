@@ -32,30 +32,30 @@
   "владимирск": {
     "display_name": "Владимирская область",
     "type": "drone",
-    "text": "Суздальский район\nЮрьев-Польский район\nПетушинский район\nВладимирская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-18T00:06:15+00:00",
-    "expires_at": "2026-09-18T01:06:15+00:00",
+    "text": "Муромский район\nВладимирская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-18T00:43:03+00:00",
+    "expires_at": "2026-09-18T01:43:03+00:00",
     "count": null,
     "count_approx": false
   },
   "астраханск": {
     "display_name": "Астраханская область",
-    "type": "alert",
-    "text": "Ахтубинск\nАстраханская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-18T00:20:25+00:00",
-    "expires_at": "2026-09-18T01:20:25+00:00",
+    "type": "drone",
+    "text": "Ахтубинский район\nАстраханская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-18T00:45:37+00:00",
+    "expires_at": "2026-09-18T01:45:37+00:00",
     "count": null,
     "count_approx": false
   },
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
-    "text": "Ржевский район\nОленинский район\nХолм-Жирковский район\nСафоновский район\nТверская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-18T00:06:41+00:00",
-    "expires_at": "2026-09-18T01:06:41+00:00",
+    "text": "Тверь и близлежащие \nТверская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-18T00:44:35+00:00",
+    "expires_at": "2026-09-18T01:44:35+00:00",
     "count": null,
     "count_approx": false
   },
@@ -69,43 +69,23 @@
     "count": null,
     "count_approx": false
   },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Россошанский район\nВоронежская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-17T23:57:14+00:00",
-    "expires_at": "2026-09-18T00:57:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ставропольско": {
-    "display_name": "Ставропольского края",
-    "type": "drone",
-    "text": "От Кропоткин, Кавказская, Кавказский район, Краснодарский край через Темижбекский, Новоалександровский район, Ставропольского края и на восток, юго-восток - опасность по БПЛА в т.ч по реактивным БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-17T23:35:50+00:00",
-    "expires_at": "2026-09-18T00:35:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Новофедоровка\nвозможно пролет БПЛА\nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-17T23:37:08+00:00",
-    "expires_at": "2026-09-18T00:37:08+00:00",
+    "text": "Новофедоровка\n пролет БПЛА\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-18T00:42:01+00:00",
+    "expires_at": "2026-09-18T01:42:01+00:00",
     "count": null,
     "count_approx": false
   },
   "нижегородск": {
     "display_name": "Нижегородская область",
     "type": "drone",
-    "text": "Выксунский район\nНижегородская область\nЕщё фиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-18T00:08:49+00:00",
-    "expires_at": "2026-09-18T01:08:49+00:00",
+    "text": "Сосновский район\nНижегородская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-18T00:43:45+00:00",
+    "expires_at": "2026-09-18T01:43:45+00:00",
     "count": null,
     "count_approx": false
   },
@@ -132,10 +112,10 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Кашира\nГО Коломна\nГО Шатура\nМосковская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-18T00:08:02+00:00",
-    "expires_at": "2026-09-18T01:08:02+00:00",
+    "text": "ГО Коломна\nМосковская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-18T00:45:35+00:00",
+    "expires_at": "2026-09-18T01:45:35+00:00",
     "count": null,
     "count_approx": false
   },
@@ -156,6 +136,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-18T00:30:22+00:00",
     "expires_at": "2026-09-18T01:30:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пензенск": {
+    "display_name": "Пензенская область",
+    "type": "drone",
+    "text": "Земетчинский район\nПензенская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-18T00:45:48+00:00",
+    "expires_at": "2026-09-18T01:45:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ивановск": {
+    "display_name": "Ивановская область",
+    "type": "drone",
+    "text": "Ильинский район\nИвановская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-18T00:44:21+00:00",
+    "expires_at": "2026-09-18T01:44:21+00:00",
     "count": null,
     "count_approx": false
   }
