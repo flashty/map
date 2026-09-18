@@ -2,10 +2,10 @@
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
-    "text": "Владимирская область\nТверская область \nСмоленская область\nопасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-17T23:27:52+00:00",
-    "expires_at": "2026-09-18T00:27:52+00:00",
+    "text": "Холм-Жирковский район\nСафоновский район\nСмоленская область\nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-18T00:02:49+00:00",
+    "expires_at": "2026-09-18T01:02:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -22,30 +22,20 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Ульяновский район\nКалужская область\nФиксация от 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Хвастовичский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-17T23:08:22+00:00",
-    "expires_at": "2026-09-18T00:08:22+00:00",
-    "count": 3,
-    "count_approx": false
-  },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Чаплыгинский район\nЛипецкая область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-17T23:10:37+00:00",
-    "expires_at": "2026-09-18T00:10:37+00:00",
+    "updated_at": "2026-09-18T00:07:04+00:00",
+    "expires_at": "2026-09-18T01:07:04+00:00",
     "count": null,
     "count_approx": false
   },
   "владимирск": {
     "display_name": "Владимирская область",
     "type": "drone",
-    "text": "Петушинский район\nВладимирская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-18T00:01:04+00:00",
-    "expires_at": "2026-09-18T01:01:04+00:00",
+    "text": "Суздальский район\nЮрьев-Польский район\nПетушинский район\nВладимирская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-18T00:06:15+00:00",
+    "expires_at": "2026-09-18T01:06:15+00:00",
     "count": null,
     "count_approx": false
   },
@@ -122,10 +112,10 @@
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
-    "text": "Владимирская область\nТверская область \nСмоленская область\nопасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-17T23:27:52+00:00",
-    "expires_at": "2026-09-18T00:27:52+00:00",
+    "text": "Ржевский район\nОленинский район\nХолм-Жирковский район\nСафоновский район\nТверская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-18T00:06:41+00:00",
+    "expires_at": "2026-09-18T01:06:41+00:00",
     "count": null,
     "count_approx": false
   },
@@ -202,10 +192,10 @@
   "нижегородск": {
     "display_name": "Нижегородская область",
     "type": "drone",
-    "text": "Выксунский район\nНижегородская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Выксунский район\nНижегородская область\nЕщё фиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-17T23:56:09+00:00",
-    "expires_at": "2026-09-18T00:56:09+00:00",
+    "updated_at": "2026-09-18T00:08:49+00:00",
+    "expires_at": "2026-09-18T01:08:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -216,6 +206,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-17T23:59:43+00:00",
     "expires_at": "2026-09-18T00:59:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Белёвский район\nВенёвский район\nТульская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-18T00:07:26+00:00",
+    "expires_at": "2026-09-18T01:07:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Кашира\nГО Коломна\nГО Шатура\nМосковская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-18T00:08:02+00:00",
+    "expires_at": "2026-09-18T01:08:02+00:00",
     "count": null,
     "count_approx": false
   }
