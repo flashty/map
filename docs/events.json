@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_237055",
-    "channel": "LPRalarm",
-    "date": "2026-09-17T12:39:04+00:00",
-    "text": "г. Белгород опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_237056",
-    "channel": "LPRalarm",
-    "date": "2026-09-17T12:39:14+00:00",
-    "text": "ЛДНР\nЗапорожская области \nАвиационная бомбовая ,ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_130127",
-    "channel": "kupolrussia",
-    "date": "2026-09-17T12:39:30+00:00",
-    "text": "ЛДНР\nЗапорожская области \nАвиационная бомбовая ,ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_237057",
-    "channel": "LPRalarm",
-    "date": "2026-09-17T12:39:31+00:00",
-    "text": "Орловская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_130128",
-    "channel": "kupolrussia",
-    "date": "2026-09-17T12:39:40+00:00",
-    "text": "Орловская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_130129",
-    "channel": "kupolrussia",
-    "date": "2026-09-17T12:39:46+00:00",
-    "text": "г. Белгород опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_237058",
     "channel": "LPRalarm",
     "date": "2026-09-17T12:40:44+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Нижегородская область",
     "lat": 55.2462042,
     "lon": 42.212527
+  },
+  {
+    "id": "vrv_radar_91290_Ахтубинск",
+    "channel": "vrv_radar",
+    "date": "2026-09-18T00:18:03+00:00",
+    "text": "Ахтубинск\nАстраханская область\nМеры безопасности",
+    "type": "alert",
+    "location_name": "Ахтубинск",
+    "region": "Астраханская область",
+    "lat": 48.2848132,
+    "lon": 46.1643706
+  },
+  {
+    "id": "radarrussiia_94412_Ахтубинск",
+    "channel": "radarrussiia",
+    "date": "2026-09-18T00:20:25+00:00",
+    "text": "Ахтубинск\nАстраханская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "alert",
+    "location_name": "Ахтубинск",
+    "region": "Астраханская область",
+    "lat": 48.2848132,
+    "lon": 46.1643706
+  },
+  {
+    "id": "kupolrussia_130492",
+    "channel": "kupolrussia",
+    "date": "2026-09-18T00:25:23+00:00",
+    "text": "Ейск повторно\nТревога по БПЛА \nКраснодарский Край\\",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_237481_Краснодарский Край",
+    "channel": "LPRalarm",
+    "date": "2026-09-18T00:25:25+00:00",
+    "text": "Ейск повторно\nТревога по БПЛА \nКраснодарский Край",
+    "type": "drone",
+    "location_name": "Краснодарский Край",
+    "region": null,
+    "lat": 45.7682027,
+    "lon": 39.0258102
+  },
+  {
+    "id": "LPRalarm_237482",
+    "channel": "LPRalarm",
+    "date": "2026-09-18T00:30:21+00:00",
+    "text": "Дебальцево\nПролет БПЛА в сторону ЛНР\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_130493",
+    "channel": "kupolrussia",
+    "date": "2026-09-18T00:30:22+00:00",
+    "text": "Дебальцево\nПролет БПЛА в сторону ЛНР\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
   }
 ]
