@@ -1,14 +1,4 @@
 {
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "От Горского БПЛА восточном направлении \nЛнр",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-18T03:49:26+00:00",
-    "expires_at": "2026-09-18T04:49:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -86,6 +76,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-18T04:41:28+00:00",
     "expires_at": "2026-09-18T05:41:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Краснодарский край \nРеспублика Адыгея \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-18T05:01:09+00:00",
+    "expires_at": "2026-09-18T06:01:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Краснодарский край \nРеспублика Адыгея \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-18T05:01:09+00:00",
+    "expires_at": "2026-09-18T06:01:09+00:00",
     "count": null,
     "count_approx": false
   }
