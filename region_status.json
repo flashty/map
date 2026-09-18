@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Горловка ДНР и близлежащие \n\nОпасность по БПЛА и ФПВ сохраняется",
+    "text": "Севернее Мелитополь в направлении Бердянск, Урзуф ДНР \nГруппа БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-18T15:11:24+00:00",
-    "expires_at": "2026-09-18T16:11:24+00:00",
+    "updated_at": "2026-09-18T15:24:01+00:00",
+    "expires_at": "2026-09-18T16:24:01+00:00",
     "count": null,
     "count_approx": false
   },
@@ -29,23 +29,13 @@
     "count": null,
     "count_approx": false
   },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Старожиловский район\nРязанская область \nФиксация от 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-18T14:24:01+00:00",
-    "expires_at": "2026-09-18T15:24:01+00:00",
-    "count": 3,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Почеп и ближайшие опасность по БПЛА \nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-18T15:11:33+00:00",
-    "expires_at": "2026-09-18T16:11:33+00:00",
+    "text": "Навля и ближайшие тревога по БПЛА \n\nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-18T15:30:32+00:00",
+    "expires_at": "2026-09-18T16:30:32+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,23 +49,33 @@
     "count": null,
     "count_approx": false
   },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "alert",
-    "text": "МО Красноармейск\nМосковская область \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-18T14:24:17+00:00",
-    "expires_at": "2026-09-18T15:24:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Анапа и близлежащие\nНовороссийск и близлежащие \nКраснодарский край \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-18T15:15:46+00:00",
-    "expires_at": "2026-09-18T16:15:46+00:00",
+    "text": "Новороссийск \nГеленджик \nИ близлежащие \n с моря \n\nКраснодарский край\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-18T15:30:39+00:00",
+    "expires_at": "2026-09-18T16:30:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовской области",
+    "type": "drone",
+    "text": "Ейск и далее по стыку Ростовской области и Краснодарского края тревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-18T15:26:30+00:00",
+    "expires_at": "2026-09-18T16:26:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарско": {
+    "display_name": "Краснодарского края",
+    "type": "drone",
+    "text": "Ейск и далее по стыку Ростовской области и Краснодарского края тревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-18T15:26:30+00:00",
+    "expires_at": "2026-09-18T16:26:30+00:00",
     "count": null,
     "count_approx": false
   }
