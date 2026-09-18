@@ -32,20 +32,10 @@
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Республика Татарстан\nРеспублика Марий Эл\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-18T13:47:24+00:00",
-    "expires_at": "2026-09-18T14:47:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "марий": {
-    "display_name": "Республика Марий",
-    "type": "drone",
-    "text": "Республика Татарстан\nРеспублика Марий Эл\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-18T13:47:24+00:00",
-    "expires_at": "2026-09-18T14:47:24+00:00",
+    "text": "Республика Татарстан \nОпасность по БПЛА \nПовторно",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-18T15:00:05+00:00",
+    "expires_at": "2026-09-18T16:00:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,16 +49,6 @@
     "count": 3,
     "count_approx": false
   },
-  "вологодск": {
-    "display_name": "Вологодская область",
-    "type": "drone",
-    "text": "Вологодская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-18T13:59:37+00:00",
-    "expires_at": "2026-09-18T14:59:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
@@ -79,33 +59,13 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Белгородская область \nКурская область \nБрянская область \nОрловская область \nТревога по БПЛА сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-18T13:59:33+00:00",
-    "expires_at": "2026-09-18T14:59:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Трубчевск опасность по БПЛА \nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-18T14:21:18+00:00",
-    "expires_at": "2026-09-18T15:21:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Белгородская область \nКурская область \nБрянская область \nОрловская область \nТревога по БПЛА сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-18T13:59:33+00:00",
-    "expires_at": "2026-09-18T14:59:33+00:00",
+    "text": "Западные районы Брянская область тревога по БПЛА от Рохманово и далее в тыл в направлении Смоленской и Калужской области",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-18T14:50:12+00:00",
+    "expires_at": "2026-09-18T15:50:12+00:00",
     "count": null,
     "count_approx": false
   },
@@ -120,12 +80,12 @@
     "count_approx": false
   },
   "калужск": {
-    "display_name": "Калужская область",
+    "display_name": "Калужской области",
     "type": "drone",
-    "text": "Смоленская область \nКалужская область \nМосковская область \nТульская область \nРязанская область \nЛипецкая область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-18T14:00:51+00:00",
-    "expires_at": "2026-09-18T15:00:51+00:00",
+    "text": "Западные районы Брянская область тревога по БПЛА от Рохманово и далее в тыл в направлении Смоленской и Калужской области",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-18T14:50:12+00:00",
+    "expires_at": "2026-09-18T15:50:12+00:00",
     "count": null,
     "count_approx": false
   },
@@ -136,26 +96,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-18T14:24:17+00:00",
     "expires_at": "2026-09-18T15:24:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Смоленская область \nКалужская область \nМосковская область \nТульская область \nРязанская область \nЛипецкая область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-18T14:00:51+00:00",
-    "expires_at": "2026-09-18T15:00:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Азов, Ростов тревога по БПЛА сохраняется \nРостовская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-18T14:04:34+00:00",
-    "expires_at": "2026-09-18T15:04:34+00:00",
     "count": null,
     "count_approx": false
   },
