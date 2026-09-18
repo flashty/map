@@ -1,104 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_14563",
-    "channel": "radar_plus_bpla",
-    "date": "2026-09-17T14:18:39+00:00",
-    "text": "Тула - сбитие БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_130173_Серпухов",
-    "channel": "kupolrussia",
-    "date": "2026-09-17T14:18:48+00:00",
-    "text": "Еще фиксация группы бпла село Недельное направление на Серпухов\nМосковская область",
-    "type": "drone",
-    "location_name": "Серпухов",
-    "region": "Московская область",
-    "lat": 54.9155247,
-    "lon": 37.4195533
-  },
-  {
-    "id": "LPRalarm_237102_Серпухов",
-    "channel": "LPRalarm",
-    "date": "2026-09-17T14:18:50+00:00",
-    "text": "Еще фиксация группы бпла село Недельное направление на Серпухов\nМосковская область",
-    "type": "drone",
-    "location_name": "Серпухов",
-    "region": "Московская область",
-    "lat": 54.9155247,
-    "lon": 37.4195533
-  },
-  {
-    "id": "vrv_radar_90953_Обнинск",
-    "channel": "vrv_radar",
-    "date": "2026-09-17T14:19:44+00:00",
-    "text": "Обнинск\nКалужская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Обнинск",
-    "region": "Калужская область",
-    "lat": 55.0951738,
-    "lon": 36.611913
-  },
-  {
-    "id": "LPRalarm_237103",
-    "channel": "LPRalarm",
-    "date": "2026-09-17T14:19:55+00:00",
-    "text": "Старобельск и ближайшие опасность по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_90954_Малоярославецкий",
-    "channel": "vrv_radar",
-    "date": "2026-09-17T14:20:49+00:00",
-    "text": "Малоярославецкий район\nКалужская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Малоярославецкий",
-    "region": "Калужская область",
-    "lat": 54.8898368,
-    "lon": 36.4160867
-  },
-  {
-    "id": "vrv_radar_90955_Тарусский",
-    "channel": "vrv_radar",
-    "date": "2026-09-17T14:21:15+00:00",
-    "text": "Тарусский район\nКалужская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Тарусский",
-    "region": "Калужская область",
-    "lat": 54.7179122,
-    "lon": 37.1690689
-  },
-  {
-    "id": "LPRalarm_237104",
-    "channel": "LPRalarm",
-    "date": "2026-09-17T14:21:51+00:00",
-    "text": "Гродовка ДНР ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_237105",
-    "channel": "LPRalarm",
-    "date": "2026-09-17T14:21:57+00:00",
-    "text": "Мелитополь и ближайшие опасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_90956_Узловский",
     "channel": "vrv_radar",
     "date": "2026-09-17T14:22:14+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_237515",
+    "channel": "LPRalarm",
+    "date": "2026-09-18T05:06:55+00:00",
+    "text": "Новогродовка ДНР и близлежащие \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_237516_Валуйского",
+    "channel": "LPRalarm",
+    "date": "2026-09-18T05:07:57+00:00",
+    "text": "Ровное БПЛА разведчик Шарк\nВалуйского района \nБелгородская область",
+    "type": "drone",
+    "location_name": "Валуйского",
+    "region": "Белгородская область",
+    "lat": 50.211038,
+    "lon": 38.0997012
+  },
+  {
+    "id": "kupolrussia_130517",
+    "channel": "kupolrussia",
+    "date": "2026-09-18T05:08:18+00:00",
+    "text": "Новогродовка ДНР и близлежащие \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_91340",
+    "channel": "vrv_radar",
+    "date": "2026-09-18T05:12:51+00:00",
+    "text": "Ярославская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_91341",
+    "channel": "vrv_radar",
+    "date": "2026-09-18T05:14:20+00:00",
+    "text": "Новгородская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Новгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_237517",
+    "channel": "LPRalarm",
+    "date": "2026-09-18T05:14:59+00:00",
+    "text": "Новороссийск и близлежащие \nТревога по БПЛА \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_130518",
+    "channel": "kupolrussia",
+    "date": "2026-09-18T05:15:07+00:00",
+    "text": "Новороссийск и близлежащие \nТревога по БПЛА \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_85958",
+    "channel": "locatorru",
+    "date": "2026-09-18T05:15:22+00:00",
+    "text": "Тверская область, Новгородская область, Вологодская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тверская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_237518",
+    "channel": "LPRalarm",
+    "date": "2026-09-18T05:15:39+00:00",
+    "text": "Пгт Новосветловка Лнр\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
