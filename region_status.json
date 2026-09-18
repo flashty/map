@@ -29,23 +29,13 @@
     "count": null,
     "count_approx": false
   },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Липецкая область \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-18T08:32:26+00:00",
-    "expires_at": "2026-09-18T09:32:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Алексин \nТульская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-18T09:27:30+00:00",
-    "expires_at": "2026-09-18T10:27:30+00:00",
+    "text": "Тульская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-18T09:43:10+00:00",
+    "expires_at": "2026-09-18T10:43:10+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "брянс": {
-    "display_name": "Брянска область",
-    "type": "drone",
-    "text": "Советский  района \n Брянска область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-18T08:43:26+00:00",
-    "expires_at": "2026-09-18T09:43:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "alert",
@@ -76,6 +56,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-18T09:27:32+00:00",
     "expires_at": "2026-09-18T10:27:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка ДНР и близлежащие на восток \nОпасность по БПЛА на электротяге и ФПВ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-18T09:36:19+00:00",
+    "expires_at": "2026-09-18T10:36:19+00:00",
     "count": null,
     "count_approx": false
   }
