@@ -1,27 +1,5 @@
 [
   {
-    "id": "kupolrussia_130442_Орел",
-    "channel": "kupolrussia",
-    "date": "2026-09-17T20:52:09+00:00",
-    "text": "Орел\nОрловская область\nтревога по БПЛА",
-    "type": "drone",
-    "location_name": "Орел",
-    "region": "Орловская область",
-    "lat": 52.9709262,
-    "lon": 36.0642127
-  },
-  {
-    "id": "radarrussiia_94317_Козельский",
-    "channel": "radarrussiia",
-    "date": "2026-09-17T20:52:13+00:00",
-    "text": "Козельский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Козельский",
-    "region": "Калужская область",
-    "lat": 54.0330263,
-    "lon": 35.8308211
-  },
-  {
     "id": "radarrussiia_94318_Орел",
     "channel": "radarrussiia",
     "date": "2026-09-17T20:52:30+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Брянская область",
     "lat": 52.3775002,
     "lon": 34.3656394
+  },
+  {
+    "id": "LPRalarm_237878",
+    "channel": "LPRalarm",
+    "date": "2026-09-18T19:56:43+00:00",
+    "text": "Луганск и ближайшие, ЛНР тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_130848",
+    "channel": "kupolrussia",
+    "date": "2026-09-18T19:56:49+00:00",
+    "text": "Луганск и ближайшие, ЛНР тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
   }
 ]
