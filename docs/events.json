@@ -1,104 +1,5 @@
 [
   {
-    "id": "vrv_radar_91176_Батайск",
-    "channel": "vrv_radar",
-    "date": "2026-09-17T21:13:03+00:00",
-    "text": "Батайск\nРостовская область\nВ вашем направлении фиксации БПЛА",
-    "type": "drone",
-    "location_name": "Батайск",
-    "region": "Ростовская область",
-    "lat": 47.138527,
-    "lon": 39.742348
-  },
-  {
-    "id": "radarrussiia_94329_Калуга",
-    "channel": "radarrussiia",
-    "date": "2026-09-17T21:13:16+00:00",
-    "text": "Калуга\nКалужская область\nСбитие БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": "Калуга",
-    "region": "Калужская область",
-    "lat": 54.5101087,
-    "lon": 36.2598115
-  },
-  {
-    "id": "vrv_radar_91177_Таганрог",
-    "channel": "vrv_radar",
-    "date": "2026-09-17T21:13:23+00:00",
-    "text": "Таганрог\nРостовская область\nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Таганрог",
-    "region": "Ростовская область",
-    "lat": 47.215495,
-    "lon": 38.928362
-  },
-  {
-    "id": "radarrussiia_94330_Батайск",
-    "channel": "radarrussiia",
-    "date": "2026-09-17T21:13:33+00:00",
-    "text": "Батайск\nРостовская область\nВ вашем направлении фиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Батайск",
-    "region": "Ростовская область",
-    "lat": 47.138527,
-    "lon": 39.742348
-  },
-  {
-    "id": "vrv_radar_91178_Азовский",
-    "channel": "vrv_radar",
-    "date": "2026-09-17T21:13:54+00:00",
-    "text": "Азовский район\nРостовская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Азовский",
-    "region": "Ростовская область",
-    "lat": 46.8996123,
-    "lon": 39.2767155
-  },
-  {
-    "id": "LPRalarm_237433",
-    "channel": "LPRalarm",
-    "date": "2026-09-17T21:13:55+00:00",
-    "text": "Ейск и близлежащие\nМаксимальная мера безопасности!!! \nКраснодарский край",
-    "type": "alert",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_130453",
-    "channel": "kupolrussia",
-    "date": "2026-09-17T21:13:57+00:00",
-    "text": "Ейск и близлежащие\nМаксимальная мера безопасности!!! \nКраснодарский край",
-    "type": "alert",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_237434",
-    "channel": "LPRalarm",
-    "date": "2026-09-17T21:14:26+00:00",
-    "text": "От Новоандреевкой в направлении Гвардейское\nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_91179_Тула",
-    "channel": "vrv_radar",
-    "date": "2026-09-17T21:14:48+00:00",
-    "text": "Тула\nТульская область\nМеры безопасности",
-    "type": "alert",
-    "location_name": "Тула",
-    "region": "Тульская область",
-    "lat": 54.1930321,
-    "lon": 37.61754
-  },
-  {
     "id": "kupolrussia_130454",
     "channel": "kupolrussia",
     "date": "2026-09-17T21:15:17+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_237916_Чертковский",
+    "channel": "LPRalarm",
+    "date": "2026-09-18T21:36:50+00:00",
+    "text": "Миллеровский\nТарасовский\nЧертковский районы\nРостовская область\nТревога по БПЛА от ЛНР",
+    "type": "drone",
+    "location_name": "Чертковский",
+    "region": "Ростовская область",
+    "lat": 49.4049606,
+    "lon": 40.6115668
+  },
+  {
+    "id": "kupolrussia_130859_Чертковский",
+    "channel": "kupolrussia",
+    "date": "2026-09-18T21:36:54+00:00",
+    "text": "Миллеровский\nТарасовский\nЧертковский районы\nРостовская область\nТревога по БПЛА от ЛНР",
+    "type": "drone",
+    "location_name": "Чертковский",
+    "region": "Ростовская область",
+    "lat": 49.4049606,
+    "lon": 40.6115668
+  },
+  {
+    "id": "locatorru_86045",
+    "channel": "locatorru",
+    "date": "2026-09-18T21:39:24+00:00",
+    "text": "Орёл и район, Орловская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_237917",
+    "channel": "LPRalarm",
+    "date": "2026-09-18T21:41:30+00:00",
+    "text": "Брянская область, тревога по БПЛА повторно, продолжаются фиксации от Гг",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_130860",
+    "channel": "kupolrussia",
+    "date": "2026-09-18T21:41:34+00:00",
+    "text": "Брянская область, тревога по БПЛА повторно, продолжаются фиксации от Гг",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_91476_Новомосковск",
+    "channel": "vrv_radar",
+    "date": "2026-09-18T21:43:13+00:00",
+    "text": "Новомосковск\nТульская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Новомосковск",
+    "region": "Тульская область",
+    "lat": 54.011013,
+    "lon": 38.290943
+  },
+  {
+    "id": "LPRalarm_237918",
+    "channel": "LPRalarm",
+    "date": "2026-09-18T21:43:22+00:00",
+    "text": "Шахтёрск, Торез, Снежное ДНР и близлежащие \nТревога по БПЛА повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_130861",
+    "channel": "kupolrussia",
+    "date": "2026-09-18T21:43:26+00:00",
+    "text": "Шахтёрск, Торез, Снежное ДНР и близлежащие \nТревога по БПЛА повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_237919",
+    "channel": "LPRalarm",
+    "date": "2026-09-18T21:43:35+00:00",
+    "text": "Луганск и близлежащие\nТревога по БПЛА сохраняется\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
