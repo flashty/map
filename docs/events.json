@@ -1,16 +1,5 @@
 [
   {
-    "id": "vrv_radar_90956_Узловский",
-    "channel": "vrv_radar",
-    "date": "2026-09-17T14:22:14+00:00",
-    "text": "Узловский район\nТульская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Узловский",
-    "region": "Тульская область",
-    "lat": 53.9090465,
-    "lon": 38.144457
-  },
-  {
     "id": "kupolrussia_130174",
     "channel": "kupolrussia",
     "date": "2026-09-17T14:22:15+00:00",
@@ -21993,6 +21982,17 @@
     "channel": "LPRalarm",
     "date": "2026-09-18T05:15:39+00:00",
     "text": "Пгт Новосветловка Лнр\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_130519",
+    "channel": "kupolrussia",
+    "date": "2026-09-18T05:16:01+00:00",
+    "text": "Пгт Новосветловка Лнр\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
     "type": "drone",
     "location_name": null,
     "region": "Луганская область",
