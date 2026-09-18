@@ -5,31 +5,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-09-18T06:58:39+00:00",
-        "last_updated": "2026-09-18T07:34:48+00:00",
-        "path_labels": [
-          "Рохманово (Брянская область)",
-          "Климово (Брянская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.8823703,
-            52.7501468
-          ],
-          [
-            32.1971433,
-            52.3790542
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-09-18T07:40:52+00:00",
         "last_updated": "2026-09-18T08:01:20+00:00",
         "path_labels": [
@@ -47,6 +22,31 @@
           [
             34.3668288,
             53.2423778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-18T08:18:32+00:00",
+        "last_updated": "2026-09-18T08:43:47+00:00",
+        "path_labels": [
+          "Севастополь",
+          "Фокинский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.186371,
+            53.456383
+          ],
+          [
+            34.4146243,
+            53.213139
           ]
         ]
       }
