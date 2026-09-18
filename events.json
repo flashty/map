@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_91014_Козельский",
-    "channel": "vrv_radar",
-    "date": "2026-09-17T17:13:16+00:00",
-    "text": "Козельский район \nКалужская область \nМеры безопасности",
-    "type": "alert",
-    "location_name": "Козельский",
-    "region": "Калужская область",
-    "lat": 54.0330263,
-    "lon": 35.8308211
-  },
-  {
-    "id": "radarrussiia_94220_Козельский",
-    "channel": "radarrussiia",
-    "date": "2026-09-17T17:13:46+00:00",
-    "text": "Козельский район \nКалужская область \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "alert",
-    "location_name": "Козельский",
-    "region": "Калужская область",
-    "lat": 54.0330263,
-    "lon": 35.8308211
-  },
-  {
-    "id": "vrv_radar_91015_Глазуновский",
-    "channel": "vrv_radar",
-    "date": "2026-09-17T17:15:25+00:00",
-    "text": "Глазуновский район \nОрловская область \nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Глазуновский",
-    "region": "Орловская область",
-    "lat": 52.4484748,
-    "lon": 36.2419084
-  },
-  {
-    "id": "radarrussiia_94221_Глазуновский",
-    "channel": "radarrussiia",
-    "date": "2026-09-17T17:16:00+00:00",
-    "text": "Глазуновский район \nОрловская область \nСбитие БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": "Глазуновский",
-    "region": "Орловская область",
-    "lat": 52.4484748,
-    "lon": 36.2419084
-  },
-  {
     "id": "LPRalarm_237215",
     "channel": "LPRalarm",
     "date": "2026-09-17T17:17:29+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Тульская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_237647",
+    "channel": "LPRalarm",
+    "date": "2026-09-18T09:46:27+00:00",
+    "text": "Севастополь и близлежащие \nОпасность по БПЛА \nПовторно",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_91364",
+    "channel": "vrv_radar",
+    "date": "2026-09-18T09:48:24+00:00",
+    "text": "Алексин \nТульская область \nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_237648",
+    "channel": "LPRalarm",
+    "date": "2026-09-18T09:48:39+00:00",
+    "text": "Фиолент\nКамышовое шоссе \nСевастополь \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_85996_Алексин",
+    "channel": "locatorru",
+    "date": "2026-09-18T09:49:32+00:00",
+    "text": "Алексин, Тула и близлежащие, Тульская область - соблюдаем меры безопасности при сбитиях БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": "Алексин",
+    "region": "Тульская область",
+    "lat": 54.5028103,
+    "lon": 37.0667213
   }
 ]
