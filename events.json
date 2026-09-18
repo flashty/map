@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_237215",
-    "channel": "LPRalarm",
-    "date": "2026-09-17T17:17:29+00:00",
-    "text": "От Тарханкута до Севастополя \nС моря опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_91016_Калуга",
-    "channel": "vrv_radar",
-    "date": "2026-09-17T17:20:32+00:00",
-    "text": "Калуга\nКалужская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Калуга",
-    "region": "Калужская область",
-    "lat": 54.5101087,
-    "lon": 36.2598115
-  },
-  {
-    "id": "kupolrussia_130275",
-    "channel": "kupolrussia",
-    "date": "2026-09-17T17:22:42+00:00",
-    "text": "Ярославская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ярославская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_237216",
     "channel": "LPRalarm",
     "date": "2026-09-17T17:22:44+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Тульская область",
     "lat": 54.5028103,
     "lon": 37.0667213
+  },
+  {
+    "id": "vrv_radar_91365",
+    "channel": "vrv_radar",
+    "date": "2026-09-18T09:53:29+00:00",
+    "text": "Краснодарский край \nРеспублика Адыгея \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_85997",
+    "channel": "locatorru",
+    "date": "2026-09-18T09:53:49+00:00",
+    "text": "Краснодарский край - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_91366",
+    "channel": "vrv_radar",
+    "date": "2026-09-18T09:54:30+00:00",
+    "text": "Тула \nТульская область \nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
   }
 ]
