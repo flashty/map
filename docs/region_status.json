@@ -1,14 +1,4 @@
 {
-  "вологодск": {
-    "display_name": "Вологодская область",
-    "type": "drone",
-    "text": "Череповец, Вологодская область - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-18T03:22:51+00:00",
-    "expires_at": "2026-09-18T04:22:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
@@ -66,6 +56,46 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-18T04:13:45+00:00",
     "expires_at": "2026-09-18T05:13:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Валуйский район \nОпасность по БПЛА \nБелгородская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-18T04:24:07+00:00",
+    "expires_at": "2026-09-18T05:24:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Курская область \nОпасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-18T04:26:08+00:00",
+    "expires_at": "2026-09-18T05:26:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калужская область \nСмоленская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-18T04:26:44+00:00",
+    "expires_at": "2026-09-18T05:26:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Калужская область \nСмоленская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-18T04:26:44+00:00",
+    "expires_at": "2026-09-18T05:26:44+00:00",
     "count": null,
     "count_approx": false
   }
