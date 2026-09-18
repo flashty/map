@@ -1,11 +1,11 @@
 {
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Шахтёрск, Торез, Снежное ДНР и близлежащие\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "missile",
+    "text": "ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-18T13:16:09+00:00",
-    "expires_at": "2026-09-18T14:16:09+00:00",
+    "updated_at": "2026-09-18T13:30:03+00:00",
+    "expires_at": "2026-09-18T14:30:03+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "нижегородск": {
-    "display_name": "Нижегородская область",
-    "type": "drone",
-    "text": "Нижегородская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\nу д. \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-18T12:30:12+00:00",
-    "expires_at": "2026-09-18T13:30:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "владимирск": {
     "display_name": "Владимирская область",
     "type": "drone",
@@ -66,16 +56,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-18T12:36:09+00:00",
     "expires_at": "2026-09-18T13:36:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Запад\nСеверо-Запад Республика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-18T12:18:28+00:00",
-    "expires_at": "2026-09-18T13:18:28+00:00",
     "count": null,
     "count_approx": false
   },
@@ -122,10 +102,20 @@
   "чуваш": {
     "display_name": "Республика Чувашия",
     "type": "drone",
-    "text": "Республика Чувашия\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-18T13:15:43+00:00",
-    "expires_at": "2026-09-18T14:15:43+00:00",
+    "text": "Республика Чувашия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-18T13:17:06+00:00",
+    "expires_at": "2026-09-18T14:17:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Алексин \nТульская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-18T13:26:35+00:00",
+    "expires_at": "2026-09-18T14:26:35+00:00",
     "count": null,
     "count_approx": false
   }
