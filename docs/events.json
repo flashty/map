@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_91077",
-    "channel": "vrv_radar",
-    "date": "2026-09-17T18:56:30+00:00",
-    "text": "Новгородская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Новгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_91078_Ельнинский",
-    "channel": "vrv_radar",
-    "date": "2026-09-17T18:57:09+00:00",
-    "text": "Ельнинский район\nСмоленская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Ельнинский",
-    "region": "Смоленская область",
-    "lat": 54.5275089,
-    "lon": 33.3509426
-  },
-  {
-    "id": "vrv_radar_91079_Кимовский",
-    "channel": "vrv_radar",
-    "date": "2026-09-17T18:57:50+00:00",
-    "text": "Кимовский район \nТульская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Кимовский",
-    "region": "Тульская область",
-    "lat": 53.8404975,
-    "lon": 38.6777887
-  },
-  {
-    "id": "kupolrussia_130319",
-    "channel": "kupolrussia",
-    "date": "2026-09-17T18:58:03+00:00",
-    "text": "Брянка\nСтахановка \nАлчевск\nОпасность по БПЛА сохраняется \n\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_91080_Гагаринский",
-    "channel": "vrv_radar",
-    "date": "2026-09-17T18:58:26+00:00",
-    "text": "Гагаринский район \nСмоленская область \nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Гагаринский",
-    "region": "Смоленская область",
-    "lat": 55.6283515,
-    "lon": 35.0054982
-  },
-  {
-    "id": "LPRalarm_237280",
-    "channel": "LPRalarm",
-    "date": "2026-09-17T18:58:40+00:00",
-    "text": "Брянка\nСтахановка \nАлчевск\nОпасность по БПЛА сохраняется \n\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_237281",
     "channel": "LPRalarm",
     "date": "2026-09-17T18:58:50+00:00",
@@ -21996,6 +21930,72 @@
     "type": "unknown",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_237724",
+    "channel": "LPRalarm",
+    "date": "2026-09-18T13:59:06+00:00",
+    "text": "Белгородская область \nКурская область \nБрянская область \nОрловская область \nТревога по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_130707",
+    "channel": "kupolrussia",
+    "date": "2026-09-18T13:59:33+00:00",
+    "text": "Белгородская область \nКурская область \nБрянская область \nОрловская область \nТревога по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_94492",
+    "channel": "radarrussiia",
+    "date": "2026-09-18T13:59:37+00:00",
+    "text": "Вологодская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Вологодская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_130708",
+    "channel": "kupolrussia",
+    "date": "2026-09-18T13:59:49+00:00",
+    "text": "Смоленская область \nКалужская область \nМосковская область \nТульская область \nРязанская область \nЛипецкая область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_237725",
+    "channel": "LPRalarm",
+    "date": "2026-09-18T13:59:53+00:00",
+    "text": "Смоленская область \nКалужская область \nМосковская область \nТульская область \nРязанская область \nЛипецкая область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_94493",
+    "channel": "radarrussiia",
+    "date": "2026-09-18T14:00:51+00:00",
+    "text": "Смоленская область \nКалужская область \nМосковская область \nТульская область \nРязанская область \nЛипецкая область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Смоленская область",
     "lat": null,
     "lon": null
   }
