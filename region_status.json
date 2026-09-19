@@ -52,10 +52,10 @@
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Орёл и Орловская область \nОпасность по БПЛА сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-19T04:27:05+00:00",
-    "expires_at": "2026-09-19T05:27:05+00:00",
+    "text": "Орел\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-19T04:38:11+00:00",
+    "expires_at": "2026-09-19T05:38:11+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +76,36 @@
     "channel": "locatorru",
     "updated_at": "2026-09-19T04:15:25+00:00",
     "expires_at": "2026-09-19T05:15:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "drone",
+    "text": "Муром, Владимирская область - фиксация БПЛА в направлении Нижегородской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-19T04:37:16+00:00",
+    "expires_at": "2026-09-19T05:37:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородской области",
+    "type": "drone",
+    "text": "Муром, Владимирская область - фиксация БПЛА в направлении Нижегородской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-19T04:37:16+00:00",
+    "expires_at": "2026-09-19T05:37:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Сиротино и близлежащие Лнр\nТревога по БПЛА Хорнет",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-19T04:40:25+00:00",
+    "expires_at": "2026-09-19T05:40:25+00:00",
     "count": null,
     "count_approx": false
   }
