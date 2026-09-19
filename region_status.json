@@ -2,10 +2,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Чубковичи, Брянская область - пролёт БПЛА на Стародуб.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-19T04:02:21+00:00",
-    "expires_at": "2026-09-19T05:02:21+00:00",
+    "text": "Почеп и близлежащие Брянская область \nТревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-19T04:49:28+00:00",
+    "expires_at": "2026-09-19T05:49:28+00:00",
     "count": null,
     "count_approx": false
   },
@@ -79,16 +79,6 @@
     "count": null,
     "count_approx": false
   },
-  "владимирск": {
-    "display_name": "Владимирская область",
-    "type": "drone",
-    "text": "Муром, Владимирская область - фиксация БПЛА в направлении Нижегородской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-19T04:37:16+00:00",
-    "expires_at": "2026-09-19T05:37:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "нижегородск": {
     "display_name": "Нижегородской области",
     "type": "drone",
@@ -106,6 +96,36 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-19T04:40:25+00:00",
     "expires_at": "2026-09-19T05:40:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Счастливцево \nСтрелковое и близлежащие \nОпасность по БПЛА  \nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-19T04:50:41+00:00",
+    "expires_at": "2026-09-19T05:50:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Геническ и ближайшие, \nОпасность по БПЛА\nХерсонская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-19T04:52:34+00:00",
+    "expires_at": "2026-09-19T05:52:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ульяновск": {
+    "display_name": "Ульяновская область",
+    "type": "drone",
+    "text": "Ульяновская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-19T04:59:18+00:00",
+    "expires_at": "2026-09-19T05:59:18+00:00",
     "count": null,
     "count_approx": false
   }
