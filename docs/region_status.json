@@ -1,11 +1,11 @@
 {
   "калужск": {
-    "display_name": "Калужской области",
+    "display_name": "Калужская область",
     "type": "drone",
-    "text": "Володарский район \nБрянская область \nОпасность по БПЛА \nДалее в направлении Калужской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-19T11:52:19+00:00",
-    "expires_at": "2026-09-19T12:52:19+00:00",
+    "text": "Хвастовичский район\nКалужская область\nФиксация группы БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-19T12:02:29+00:00",
+    "expires_at": "2026-09-19T13:02:29+00:00",
     "count": null,
     "count_approx": false
   },
@@ -32,10 +32,10 @@
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
-    "text": "Зубцовский район\nТверская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-19T11:01:26+00:00",
-    "expires_at": "2026-09-19T12:01:26+00:00",
+    "text": "Торжокский район \nТверская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-19T12:06:30+00:00",
+    "expires_at": "2026-09-19T13:06:30+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,26 +46,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-19T11:47:45+00:00",
     "expires_at": "2026-09-19T12:47:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Веневский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-19T11:01:58+00:00",
-    "expires_at": "2026-09-19T12:01:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "ГО Коломна\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-19T11:04:42+00:00",
-    "expires_at": "2026-09-19T12:04:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -92,10 +72,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Ясиноватая ДНР и близлежащие \nОпасность по БПЛА и ФПВ",
+    "text": "Донецк \nМакеевка и близлежащие \nОпасность по БПЛА Шарк \nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-19T11:54:05+00:00",
-    "expires_at": "2026-09-19T12:54:05+00:00",
+    "updated_at": "2026-09-19T12:13:49+00:00",
+    "expires_at": "2026-09-19T13:13:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +86,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-19T11:58:48+00:00",
     "expires_at": "2026-09-19T12:58:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Шаблыкинский район\nОрловская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-19T12:13:17+00:00",
+    "expires_at": "2026-09-19T13:13:17+00:00",
     "count": null,
     "count_approx": false
   }
