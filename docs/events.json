@@ -1,115 +1,5 @@
 [
   {
-    "id": "LPRalarm_237550",
-    "channel": "LPRalarm",
-    "date": "2026-09-18T06:08:02+00:00",
-    "text": "Саратовская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_237551",
-    "channel": "LPRalarm",
-    "date": "2026-09-18T06:09:24+00:00",
-    "text": "Тамань\nВышестеблевская и близлежащие \nТревога по БПЛА с юга\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_130542_Тамань",
-    "channel": "kupolrussia",
-    "date": "2026-09-18T06:09:44+00:00",
-    "text": "Тамань\nВышестеблевская и близлежащие \nс юга\nКраснодарский край\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Тамань",
-    "region": "Краснодарский край",
-    "lat": 45.2158646,
-    "lon": 36.7191326
-  },
-  {
-    "id": "LPRalarm_237552_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-09-18T06:11:23+00:00",
-    "text": "Белгородский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "LPRalarm_237553_Волна",
-    "channel": "LPRalarm",
-    "date": "2026-09-18T06:11:30+00:00",
-    "text": "Волна, Анапа и близлежащие с моря тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Волна",
-    "region": null,
-    "lat": 56.2765268,
-    "lon": 46.626371
-  },
-  {
-    "id": "kupolrussia_130543_Волна",
-    "channel": "kupolrussia",
-    "date": "2026-09-18T06:11:46+00:00",
-    "text": "Волна, Анапа и близлежащие с моря тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Волна",
-    "region": null,
-    "lat": 56.2765268,
-    "lon": 46.626371
-  },
-  {
-    "id": "kupolrussia_130544_Белгородский",
-    "channel": "kupolrussia",
-    "date": "2026-09-18T06:11:53+00:00",
-    "text": "Белгородский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "locatorru_85974",
-    "channel": "locatorru",
-    "date": "2026-09-18T06:12:00+00:00",
-    "text": "Краснодарский край - от Керченского полуострова и в сторону Волна, Тамань, Анапа, Новороссийск, Кабардинка, Геленджик, Туапсе, Сочи, Адлер и все ближайщие населенные пункты - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_237554",
-    "channel": "LPRalarm",
-    "date": "2026-09-18T06:14:12+00:00",
-    "text": "Чаплинка \nХерсонская область РФ \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_237555",
-    "channel": "LPRalarm",
-    "date": "2026-09-18T06:14:38+00:00",
-    "text": "Белгород, Белгородский район и ситуативно Белгородская область! \nРакетная опасность! Займите Безопасные места!\n\n\nПотенциальная опасность для Курской области и Воронежской области",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_130545",
     "channel": "kupolrussia",
     "date": "2026-09-18T06:15:05+00:00",
@@ -21998,5 +21888,115 @@
     "region": "Белгородская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_91636_Козельский",
+    "channel": "vrv_radar",
+    "date": "2026-09-19T09:01:46+00:00",
+    "text": "Козельский район\nКалужская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Козельский",
+    "region": "Калужская область",
+    "lat": 54.0330263,
+    "lon": 35.8308211
+  },
+  {
+    "id": "LPRalarm_238060_Шебекинский",
+    "channel": "LPRalarm",
+    "date": "2026-09-19T09:02:20+00:00",
+    "text": "Новая Таволжанка \nШебекинский район \nОбстрел",
+    "type": "shelling",
+    "location_name": "Шебекинский",
+    "region": null,
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "LPRalarm_238061",
+    "channel": "LPRalarm",
+    "date": "2026-09-19T09:03:16+00:00",
+    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и ФПВ повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_91637",
+    "channel": "vrv_radar",
+    "date": "2026-09-19T09:04:00+00:00",
+    "text": "Ярославская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_238062",
+    "channel": "LPRalarm",
+    "date": "2026-09-19T09:08:38+00:00",
+    "text": "Волноваха и близлежащие тревога по БПЛА на электротяге и далее в тыл\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_130982",
+    "channel": "kupolrussia",
+    "date": "2026-09-19T09:09:04+00:00",
+    "text": "Волноваха и близлежащие тревога по БПЛА на электротяге и далее в тыл\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_238063",
+    "channel": "LPRalarm",
+    "date": "2026-09-19T09:10:30+00:00",
+    "text": "От Мирного на Каланчак и близлежащие опасность по БПЛА Хорнет \n\nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_130983",
+    "channel": "kupolrussia",
+    "date": "2026-09-19T09:10:36+00:00",
+    "text": "От Мирного на Каланчак и близлежащие опасность по БПЛА Хорнет \n\nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_94640",
+    "channel": "radarrussiia",
+    "date": "2026-09-19T09:13:49+00:00",
+    "text": "Вологодская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Вологодская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_94641_Козельский",
+    "channel": "radarrussiia",
+    "date": "2026-09-19T09:14:08+00:00",
+    "text": "Козельский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Козельский",
+    "region": "Калужская область",
+    "lat": 54.0330263,
+    "lon": 35.8308211
   }
 ]

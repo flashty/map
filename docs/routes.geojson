@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-09-19T07:30:49+00:00",
-        "last_updated": "2026-09-19T08:09:42+00:00",
-        "path_labels": [
-          "Ивнянский",
-          "Маломихайловка"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.2197073,
-            51.0201731
-          ],
-          [
-            37.0793617,
-            50.4296622
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
