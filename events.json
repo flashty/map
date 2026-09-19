@@ -1,82 +1,5 @@
 [
   {
-    "id": "vrv_radar_91366",
-    "channel": "vrv_radar",
-    "date": "2026-09-18T09:54:30+00:00",
-    "text": "Тула \nТульская область \nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_237649",
-    "channel": "LPRalarm",
-    "date": "2026-09-18T10:01:22+00:00",
-    "text": "Луганск и ближайшие, тревога по БПЛА\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_130632",
-    "channel": "kupolrussia",
-    "date": "2026-09-18T10:01:27+00:00",
-    "text": "Луганск и ближайшие, тревога по БПЛА\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_237650",
-    "channel": "LPRalarm",
-    "date": "2026-09-18T10:05:56+00:00",
-    "text": "Брянская область продолжается фиксация БПЛА от ГГ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_130633",
-    "channel": "kupolrussia",
-    "date": "2026-09-18T10:06:30+00:00",
-    "text": "Брянская область продолжается фиксация БПЛА от ГГ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_237651_Климовский",
-    "channel": "LPRalarm",
-    "date": "2026-09-18T10:06:34+00:00",
-    "text": "Климовский район\nКлинцовский район \nСтародубский район\nУнечский район \nОпасность по БПЛА\n\nБрянская область",
-    "type": "drone",
-    "location_name": "Климовский",
-    "region": "Брянская область",
-    "lat": 52.2780195,
-    "lon": 32.168083
-  },
-  {
-    "id": "LPRalarm_237651_Клинцовский",
-    "channel": "LPRalarm",
-    "date": "2026-09-18T10:06:34+00:00",
-    "text": "Климовский район\nКлинцовский район \nСтародубский район\nУнечский район \nОпасность по БПЛА\n\nБрянская область",
-    "type": "drone",
-    "location_name": "Клинцовский",
-    "region": "Брянская область",
-    "lat": 52.7061238,
-    "lon": 32.0310118
-  },
-  {
     "id": "LPRalarm_237651_Стародубский",
     "channel": "LPRalarm",
     "date": "2026-09-18T10:06:34+00:00",
@@ -21998,5 +21921,82 @@
     "region": "Брянская область",
     "lat": 52.4428795,
     "lon": 34.4921779
+  },
+  {
+    "id": "locatorru_86127",
+    "channel": "locatorru",
+    "date": "2026-09-19T13:03:28+00:00",
+    "text": "Перемышльский район, Калужская область - фиксации БПЛА в сторону Ферзиково, Высокиничи и далее на Наро-Фоминский район, Московской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_238136",
+    "channel": "LPRalarm",
+    "date": "2026-09-19T13:05:03+00:00",
+    "text": "От Заозёрное до Вилино опасность по БПЛА с моря \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_131053",
+    "channel": "kupolrussia",
+    "date": "2026-09-19T13:05:32+00:00",
+    "text": "От Заозёрное до Вилино с моря \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_238137",
+    "channel": "LPRalarm",
+    "date": "2026-09-19T13:09:11+00:00",
+    "text": "От Тарханкута до Севастополя \nС моря тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_86128_Алексин",
+    "channel": "locatorru",
+    "date": "2026-09-19T13:10:38+00:00",
+    "text": "Алексин, Тульская область - не попадите под обломки сбитых БПЛА. Внимательно ещё с юга. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": "Алексин",
+    "region": "Тульская область",
+    "lat": 54.5028103,
+    "lon": 37.0667213
+  },
+  {
+    "id": "kupolrussia_131054",
+    "channel": "kupolrussia",
+    "date": "2026-09-19T13:11:22+00:00",
+    "text": "От Тарханкута до Севастополя \nС моря тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_238138",
+    "channel": "LPRalarm",
+    "date": "2026-09-19T13:15:46+00:00",
+    "text": "Ейск\nКущевская и близлежащие \nОпасность по БПЛА \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
   }
 ]
