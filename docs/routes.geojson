@@ -1,4 +1,105 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-19T16:59:08+00:00",
+        "last_updated": "2026-09-19T17:38:54+00:00",
+        "path_labels": [
+          "Духовщинский (Смоленская область)",
+          "Саки"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.3545111,
+            55.38476
+          ],
+          [
+            31.545233,
+            55.472233
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-19T17:04:25+00:00",
+        "last_updated": "2026-09-19T17:42:02+00:00",
+        "path_labels": [
+          "Гуково (Ростовская область)",
+          "Новошахтинск (Ростовская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.9441925,
+            48.0530303
+          ],
+          [
+            39.8935604,
+            47.7962698
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-19T17:09:47+00:00",
+        "last_updated": "2026-09-19T17:36:48+00:00",
+        "path_labels": [
+          "Белгородский",
+          "Узловский (Тульская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.5167643,
+            54.3750277
+          ],
+          [
+            38.144457,
+            53.9090465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-19T17:10:40+00:00",
+        "last_updated": "2026-09-19T17:33:59+00:00",
+        "path_labels": [
+          "Отрадное Октябрьский",
+          "Карачев (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.2509695,
+            53.328692
+          ],
+          [
+            34.9825906,
+            53.1221822
+          ]
+        ]
+      }
+    }
+  ]
 }
