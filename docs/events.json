@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_130545",
-    "channel": "kupolrussia",
-    "date": "2026-09-18T06:15:05+00:00",
-    "text": "Белгородская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_85975",
-    "channel": "locatorru",
-    "date": "2026-09-18T06:15:08+00:00",
-    "text": "Белгородская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_85976_Шебекино",
-    "channel": "locatorru",
-    "date": "2026-09-18T06:15:36+00:00",
-    "text": "Шебекино, Белгород - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": "Шебекино",
-    "region": null,
-    "lat": 50.4049335,
-    "lon": 36.8796822
-  },
-  {
-    "id": "LPRalarm_237556_Белгороде",
-    "channel": "LPRalarm",
-    "date": "2026-09-18T06:15:38+00:00",
-    "text": "РАКЕТНАЯ ОПАСНОСТЬ в г. Белгороде, Белгородском и Шебекинском МО 09:14. Спуститесь в подвальное помещение или подземное пространство.",
-    "type": "missile",
-    "location_name": "Белгороде",
-    "region": null,
-    "lat": 54.3958901,
-    "lon": 38.5279843
-  },
-  {
-    "id": "LPRalarm_237557_Шебекинский",
-    "channel": "LPRalarm",
-    "date": "2026-09-18T06:15:53+00:00",
-    "text": "Графовка и близлежащие \nШебекинский район \nРакетная тревога",
-    "type": "missile",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "kupolrussia_130546_Шебекинский",
-    "channel": "kupolrussia",
-    "date": "2026-09-18T06:16:07+00:00",
-    "text": "Графовка и близлежащие \nШебекинский район \nРакетная тревога",
-    "type": "missile",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
     "id": "radar_plus_bpla_14580",
     "channel": "radar_plus_bpla",
     "date": "2026-09-18T06:16:27+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Калужская область",
     "lat": 54.0330263,
     "lon": 35.8308211
+  },
+  {
+    "id": "kupolrussia_130984",
+    "channel": "kupolrussia",
+    "date": "2026-09-19T09:19:00+00:00",
+    "text": "Калужская область тревога по БПЛА. Много",
+    "type": "drone",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_238064",
+    "channel": "LPRalarm",
+    "date": "2026-09-19T09:19:03+00:00",
+    "text": "Калужская область тревога по БПЛА. Много",
+    "type": "drone",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_91638_Алексин",
+    "channel": "vrv_radar",
+    "date": "2026-09-19T09:21:29+00:00",
+    "text": "Алексин\nТульская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Алексин",
+    "region": "Тульская область",
+    "lat": 54.5028103,
+    "lon": 37.0667213
+  },
+  {
+    "id": "vrv_radar_91639_Алексин",
+    "channel": "vrv_radar",
+    "date": "2026-09-19T09:21:36+00:00",
+    "text": "Алексин\nТульская область\nМеры безопасности",
+    "type": "alert",
+    "location_name": "Алексин",
+    "region": "Тульская область",
+    "lat": 54.5028103,
+    "lon": 37.0667213
+  },
+  {
+    "id": "radarrussiia_94642_Алексин",
+    "channel": "radarrussiia",
+    "date": "2026-09-19T09:23:13+00:00",
+    "text": "Алексин\nТульская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Алексин",
+    "region": "Тульская область",
+    "lat": 54.5028103,
+    "lon": 37.0667213
+  },
+  {
+    "id": "radarrussiia_94643_Алексин",
+    "channel": "radarrussiia",
+    "date": "2026-09-19T09:23:50+00:00",
+    "text": "Алексин\nТульская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "alert",
+    "location_name": "Алексин",
+    "region": "Тульская область",
+    "lat": 54.5028103,
+    "lon": 37.0667213
   }
 ]
