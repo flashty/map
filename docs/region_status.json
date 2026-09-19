@@ -12,10 +12,10 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Тарусский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-19T10:34:56+00:00",
-    "expires_at": "2026-09-19T11:34:56+00:00",
+    "text": "Жуковский район\nКалужская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-19T11:00:08+00:00",
+    "expires_at": "2026-09-19T12:00:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -42,30 +42,10 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "От Каменки-Днепровской  фиксация БПЛА в направлении Акимовки, далее возможно в Азовское море через Кирилловку\n\nЗапорожская область РФ",
+    "text": "Вся трасса Р-280\n\nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-19T10:24:32+00:00",
-    "expires_at": "2026-09-19T11:24:32+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Старобельск и близлежащие тревога по БПЛА Хорнет \nЛНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-19T09:46:57+00:00",
-    "expires_at": "2026-09-19T10:46:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "ГО Истра\nМосковская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-19T10:43:19+00:00",
-    "expires_at": "2026-09-19T11:43:19+00:00",
+    "updated_at": "2026-09-19T10:50:41+00:00",
+    "expires_at": "2026-09-19T11:50:41+00:00",
     "count": null,
     "count_approx": false
   },
@@ -99,23 +79,13 @@
     "count": null,
     "count_approx": false
   },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Алексин\nТульская область\nФиксация 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-19T10:36:46+00:00",
-    "expires_at": "2026-09-19T11:36:46+00:00",
-    "count": 2,
-    "count_approx": false
-  },
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
-    "text": "Смоленская область \nКалужская область \nТульская область \nТверская область \nМосковская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-19T10:33:09+00:00",
-    "expires_at": "2026-09-19T11:33:09+00:00",
+    "text": "Тверская область\nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-19T11:00:48+00:00",
+    "expires_at": "2026-09-19T12:00:48+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +96,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-19T10:33:07+00:00",
     "expires_at": "2026-09-19T11:33:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "aviation",
+    "text": "Херсонская область РФ \nАвиационная опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-19T10:47:16+00:00",
+    "expires_at": "2026-09-19T11:47:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Заокский район\nТульская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-19T11:00:35+00:00",
+    "expires_at": "2026-09-19T12:00:35+00:00",
     "count": null,
     "count_approx": false
   }
