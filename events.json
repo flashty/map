@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_237535",
-    "channel": "LPRalarm",
-    "date": "2026-09-18T05:45:12+00:00",
-    "text": "Новгородская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Новгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_130529",
-    "channel": "kupolrussia",
-    "date": "2026-09-18T05:45:41+00:00",
-    "text": "Воронежская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_85967",
-    "channel": "locatorru",
-    "date": "2026-09-18T05:46:07+00:00",
-    "text": "Воронежская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_94441",
-    "channel": "radarrussiia",
-    "date": "2026-09-18T05:47:08+00:00",
-    "text": "Воронежская область - ракетная опасность.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "missile",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_237536_Волоконовский",
-    "channel": "LPRalarm",
-    "date": "2026-09-18T05:50:35+00:00",
-    "text": "Ульяновка Пятницкое \nТревога по БПЛА \nВолоконовский район",
-    "type": "drone",
-    "location_name": "Волоконовский",
-    "region": null,
-    "lat": 50.4498919,
-    "lon": 37.7986348
-  },
-  {
-    "id": "kupolrussia_130530_Волоконовский",
-    "channel": "kupolrussia",
-    "date": "2026-09-18T05:50:51+00:00",
-    "text": "Ульяновка Пятницкое \nВолоконовский район\nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Волоконовский",
-    "region": "Белгородская область",
-    "lat": 50.4498919,
-    "lon": 37.7986348
-  },
-  {
-    "id": "locatorru_85968_Валуйский",
-    "channel": "locatorru",
-    "date": "2026-09-18T05:51:18+00:00",
-    "text": "Валуйский район, Белгородская область - отбой ракетной опасности! \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": "Валуйский",
-    "region": "Белгородская область",
-    "lat": 50.1632256,
-    "lon": 37.9638901
-  },
-  {
     "id": "locatorru_85969",
     "channel": "locatorru",
     "date": "2026-09-18T05:54:51+00:00",
@@ -21998,5 +21921,82 @@
     "region": null,
     "lat": 57.6328742,
     "lon": 39.8309382
+  },
+  {
+    "id": "kupolrussia_130973",
+    "channel": "kupolrussia",
+    "date": "2026-09-19T08:20:04+00:00",
+    "text": "Вся трасса Р-280 \nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_238052",
+    "channel": "LPRalarm",
+    "date": "2026-09-19T08:20:06+00:00",
+    "text": "Вся трасса Р-280 \nЗапорожская область РФ опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_91621",
+    "channel": "vrv_radar",
+    "date": "2026-09-19T08:27:50+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_91622",
+    "channel": "vrv_radar",
+    "date": "2026-09-19T08:29:43+00:00",
+    "text": "Рязанская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_238053",
+    "channel": "LPRalarm",
+    "date": "2026-09-19T08:29:56+00:00",
+    "text": "Скадовск и близлежащие опасность по БПЛА \n\nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_130974",
+    "channel": "kupolrussia",
+    "date": "2026-09-19T08:30:23+00:00",
+    "text": "Скадовск и близлежащие \nХерсонская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_94631",
+    "channel": "radarrussiia",
+    "date": "2026-09-19T08:30:48+00:00",
+    "text": "Рязанская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
   }
 ]
