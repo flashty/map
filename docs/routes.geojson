@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-19T08:44:35+00:00",
+        "last_updated": "2026-09-19T09:34:00+00:00",
+        "path_labels": [
+          "Козельский (Калужская область)",
+          "Перемышльский (Калужская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.8308211,
+            54.0330263
+          ],
+          [
+            36.3495593,
+            54.3102372
+          ]
+        ]
+      }
+    }
+  ]
 }
