@@ -49,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "missile",
-    "text": "Республика Крым \nСевастополь\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-20T07:41:22+00:00",
-    "expires_at": "2026-09-20T08:41:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "адыгея": {
     "display_name": "Республика Адыгея",
     "type": "missile",
@@ -76,6 +66,46 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-20T07:43:44+00:00",
     "expires_at": "2026-09-20T08:43:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-20T07:49:22+00:00",
+    "expires_at": "2026-09-20T08:49:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Орловская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-20T07:58:29+00:00",
+    "expires_at": "2026-09-20T08:58:29+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калужская область \nСмоленская область \nОпасность по БПЛА от Брянской области\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-20T07:58:22+00:00",
+    "expires_at": "2026-09-20T08:58:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Калужская область \nСмоленская область \nОпасность по БПЛА от Брянской области\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-20T07:58:22+00:00",
+    "expires_at": "2026-09-20T08:58:22+00:00",
     "count": null,
     "count_approx": false
   }
