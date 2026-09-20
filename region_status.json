@@ -42,10 +42,10 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Поповка, Алексинский район, Тульская область - пролёт от 15 БПЛА в сторону Московской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-20T01:30:30+00:00",
-    "expires_at": "2026-09-20T02:30:30+00:00",
+    "text": "Тула\nТульская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-20T01:41:21+00:00",
+    "expires_at": "2026-09-20T02:41:21+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,10 +72,10 @@
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Спасский район \nРязанская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-20T01:19:10+00:00",
-    "expires_at": "2026-09-20T02:19:10+00:00",
+    "text": "Спасский район \nРязанская область \nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-20T01:33:51+00:00",
+    "expires_at": "2026-09-20T02:33:51+00:00",
     "count": null,
     "count_approx": false
   },
@@ -89,16 +89,6 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Старый Оскол и близлежащие\nТревога по БПЛА\nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-20T00:34:22+00:00",
-    "expires_at": "2026-09-20T01:34:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
@@ -106,36 +96,6 @@
     "channel": "locatorru",
     "updated_at": "2026-09-20T01:00:00+00:00",
     "expires_at": "2026-09-20T02:00:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Геническ и близлежащие\nТревога по БПЛА\nХерсонская область РФ\nИ далее в направлении Республики Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-20T00:32:48+00:00",
-    "expires_at": "2026-09-20T01:32:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Балабаново, Боровский район, Калужская область - ещё фиксации БПЛА в сторону Наро-Фоминск, Московской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-20T01:18:29+00:00",
-    "expires_at": "2026-09-20T02:18:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовс": {
-    "display_name": "Ростовска область",
-    "type": "drone",
-    "text": "Таганрог и близлежащие\nТревога по БПЛА\nРостовска область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-20T00:41:27+00:00",
-    "expires_at": "2026-09-20T01:41:27+00:00",
     "count": null,
     "count_approx": false
   },
@@ -182,10 +142,20 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "Озёры, Коломенский район, Московская область - массовый пролёт БПЛА на север в сторону Раменское и близлежащие. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-20T01:32:34+00:00",
-    "expires_at": "2026-09-20T02:32:34+00:00",
+    "text": "ГО Раменское    \nМосковская область \nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-20T01:45:18+00:00",
+    "expires_at": "2026-09-20T02:45:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калуга\nКалужская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-20T01:45:19+00:00",
+    "expires_at": "2026-09-20T02:45:19+00:00",
     "count": null,
     "count_approx": false
   }
