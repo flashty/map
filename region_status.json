@@ -21,41 +21,41 @@
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Сочи тревога по БПЛА \nКраснодарский край",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-20T22:40:48+00:00",
-    "expires_at": "2026-09-20T23:40:48+00:00",
+    "type": "alert",
+    "text": "Адлер и близлежащие\nКраснодарский край\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-20T23:01:15+00:00",
+    "expires_at": "2026-09-21T00:01:15+00:00",
     "count": null,
     "count_approx": false
   },
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Краснофлотское, Воронежская область - продолжаются пролёты БПЛА от Ростовской области в сторону Калач, Бутурлиновка. \n\nБудут уходить на Саратовскую область, Пензенскую область. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-20T21:52:21+00:00",
-    "expires_at": "2026-09-20T22:52:21+00:00",
+    "text": "Новоусманский район\nВоронежская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-20T22:55:08+00:00",
+    "expires_at": "2026-09-20T23:55:08+00:00",
     "count": null,
     "count_approx": false
   },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Дмитровск, Кромы, Шаблыкино, Орёл, Хотынец, Глазуновка, Змиевка, тревога  по БПЛА.\nОрловская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-20T22:30:52+00:00",
-    "expires_at": "2026-09-20T23:30:52+00:00",
-    "count": null,
+    "text": "Залегощенский район\nОрловская область\nФиксация 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-20T22:54:49+00:00",
+    "expires_at": "2026-09-20T23:54:49+00:00",
+    "count": 2,
     "count_approx": false
   },
   "саратовск": {
-    "display_name": "Саратовской области",
+    "display_name": "Саратовская область",
     "type": "drone",
-    "text": "Михайловка\nВолгоградская область\nФиксация БПЛА в направлении Саратовской области\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Турковский район\nСаратовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-20T22:12:40+00:00",
-    "expires_at": "2026-09-20T23:12:40+00:00",
+    "updated_at": "2026-09-20T22:55:28+00:00",
+    "expires_at": "2026-09-20T23:55:28+00:00",
     "count": null,
     "count_approx": false
   },
@@ -89,36 +89,6 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Запорожская область РФ \nХерсонская область РФ \nопасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-20T21:47:32+00:00",
-    "expires_at": "2026-09-20T22:47:32+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Запорожская область РФ \nХерсонская область РФ \nопасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-20T21:47:32+00:00",
-    "expires_at": "2026-09-20T22:47:32+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснофлотск": {
-    "display_name": "Краснофлотское область",
-    "type": "drone",
-    "text": "Краснофлотское, Воронежская область - продолжаются пролёты БПЛА от Ростовской области в сторону Калач, Бутурлиновка. \n\nБудут уходить на Саратовскую область, Пензенскую область. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-20T21:52:21+00:00",
-    "expires_at": "2026-09-20T22:52:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
@@ -146,6 +116,36 @@
     "channel": "locatorru",
     "updated_at": "2026-09-20T22:14:35+00:00",
     "expires_at": "2026-09-20T23:14:35+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Московская область, Тульская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-20T22:49:24+00:00",
+    "expires_at": "2026-09-20T23:49:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Алексин\nТульская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-20T22:57:28+00:00",
+    "expires_at": "2026-09-20T23:57:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Козельский район\nКалужская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-20T23:00:53+00:00",
+    "expires_at": "2026-09-21T00:00:53+00:00",
     "count": null,
     "count_approx": false
   }
