@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_238320",
-    "channel": "LPRalarm",
-    "date": "2026-09-19T19:01:38+00:00",
-    "text": "Рохманово и далее на север, северо-восток\nТревога по БПЛА сохраняется\n\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_131227",
-    "channel": "kupolrussia",
-    "date": "2026-09-19T19:02:00+00:00",
-    "text": "Рохманово и далее на север, северо-восток\nТревога по БПЛА сохраняется\n\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_238321",
-    "channel": "LPRalarm",
-    "date": "2026-09-19T19:02:09+00:00",
-    "text": "Старобельск\nИ близлежащие\nТревога по БПЛА сохраняется\nИ далее в направлении Ростовской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_91789",
-    "channel": "vrv_radar",
-    "date": "2026-09-19T19:02:15+00:00",
-    "text": "МО Зарайск \nМосковская область \nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_131228",
-    "channel": "kupolrussia",
-    "date": "2026-09-19T19:02:50+00:00",
-    "text": "Старобельск и близлежащие\nТревога по БПЛА, в т.ч. на электротяге, сохраняется\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_94744",
-    "channel": "radarrussiia",
-    "date": "2026-09-19T19:03:00+00:00",
-    "text": "МО Зарайск \nМосковская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_238322",
     "channel": "LPRalarm",
     "date": "2026-09-19T19:03:14+00:00",
@@ -21996,6 +21930,72 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_92404",
+    "channel": "vrv_radar",
+    "date": "2026-09-20T08:17:00+00:00",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_95039",
+    "channel": "radarrussiia",
+    "date": "2026-09-20T08:17:02+00:00",
+    "text": "Ярославская область\nОрловская область\nЯмало-Ненецкий автономный округ\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_238560",
+    "channel": "LPRalarm",
+    "date": "2026-09-20T08:24:51+00:00",
+    "text": "Армянск и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_131414",
+    "channel": "kupolrussia",
+    "date": "2026-09-20T08:25:15+00:00",
+    "text": "Армянск и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_238561",
+    "channel": "LPRalarm",
+    "date": "2026-09-20T08:30:38+00:00",
+    "text": "ЛДНР\nЗапорожская область РФ\n\nОтбой авиационной ракетной бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_131415",
+    "channel": "kupolrussia",
+    "date": "2026-09-20T08:30:43+00:00",
+    "text": "ЛДНР\nЗапорожская область РФ\n\nОтбой авиационной ракетной бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }

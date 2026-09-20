@@ -1,14 +1,4 @@
 {
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "alert",
-    "text": "Запорожская область РФ \nЛДНР\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-20T07:39:46+00:00",
-    "expires_at": "2026-09-20T08:39:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
@@ -16,36 +6,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-20T08:07:55+00:00",
     "expires_at": "2026-09-20T09:07:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Енакиево, Ждановка ДНР и близлежащие\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-20T07:29:48+00:00",
-    "expires_at": "2026-09-20T08:29:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарско": {
-    "display_name": "Краснодарского края",
-    "type": "drone",
-    "text": "Севастополь \nЮБК \nПредварительно группа БПЛА в обход морем в направлении востока Крыма, Керченского полуострова, Причерноморье Краснодарского края",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-20T07:25:56+00:00",
-    "expires_at": "2026-09-20T08:25:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "missile",
-    "text": "Краснодарский край\nРеспублика Адыгея\nРакетная опасность",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-20T07:29:28+00:00",
-    "expires_at": "2026-09-20T08:29:28+00:00",
     "count": null,
     "count_approx": false
   },
@@ -69,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Орловская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-20T07:58:29+00:00",
-    "expires_at": "2026-09-20T08:58:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
@@ -96,6 +46,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-20T07:58:22+00:00",
     "expires_at": "2026-09-20T08:58:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Армянск и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-20T08:25:15+00:00",
+    "expires_at": "2026-09-20T09:25:15+00:00",
     "count": null,
     "count_approx": false
   }
