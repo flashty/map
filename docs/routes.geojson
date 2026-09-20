@@ -1,4 +1,130 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-20T14:40:05+00:00",
+        "last_updated": "2026-09-20T15:11:28+00:00",
+        "path_labels": [
+          "Новороссийск (Краснодарский край)",
+          "Крымск"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.7690711,
+            44.7239578
+          ],
+          [
+            37.9880177,
+            44.9295889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-20T14:40:05+00:00",
+        "last_updated": "2026-09-20T15:11:28+00:00",
+        "path_labels": [
+          "Геленджик (Краснодарский край)",
+          "Ильский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.0766832,
+            44.5609447
+          ],
+          [
+            38.5608255,
+            44.8458544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-20T14:40:05+00:00",
+        "last_updated": "2026-09-20T15:13:14+00:00",
+        "path_labels": [
+          "Мысхако (Краснодарский край)",
+          "Геленджик (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.7583424,
+            44.6587755
+          ],
+          [
+            38.0766832,
+            44.5609447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-20T14:40:05+00:00",
+        "last_updated": "2026-09-20T15:11:28+00:00",
+        "path_labels": [
+          "Кабардинка (Краснодарский край)",
+          "Афипский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.9395292,
+            44.6515718
+          ],
+          [
+            38.8426821,
+            44.9040435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-20T14:40:05+00:00",
+        "last_updated": "2026-09-20T15:11:28+00:00",
+        "path_labels": [
+          "Виноградное (Краснодарский край)",
+          "Абинск"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.9990716,
+            44.6373766
+          ],
+          [
+            38.1578189,
+            44.8649528
+          ]
+        ]
+      }
+    }
+  ]
 }
