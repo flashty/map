@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_131031_Шебекинский",
-    "channel": "kupolrussia",
-    "date": "2026-09-19T11:53:30+00:00",
-    "text": "Графовка и близлежащие \nШебекинский район\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "LPRalarm_238116",
-    "channel": "LPRalarm",
-    "date": "2026-09-19T11:53:43+00:00",
-    "text": "Ясиноватая ДНР и близлежащие \nОпасность по БПЛА и ФПВ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_131032",
-    "channel": "kupolrussia",
-    "date": "2026-09-19T11:53:43+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_131033_Севастополь",
-    "channel": "kupolrussia",
-    "date": "2026-09-19T11:53:53+00:00",
-    "text": "Севастополь\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
     "id": "kupolrussia_131034",
     "channel": "kupolrussia",
     "date": "2026-09-19T11:54:05+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Московская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_92044",
+    "channel": "vrv_radar",
+    "date": "2026-09-20T00:30:00+00:00",
+    "text": "ГО Раменское  \nМосковская область \nРабота ПВО",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_86421",
+    "channel": "locatorru",
+    "date": "2026-09-20T00:30:32+00:00",
+    "text": "Стекольный завод, Козельский район, Калужская область - фиксации БПЛА на Калугу, далее на Московскую область. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_92045",
+    "channel": "vrv_radar",
+    "date": "2026-09-20T00:30:37+00:00",
+    "text": "Алексин \nТульская область \nПродолжается работа ПВО",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_238490_Чонгар",
+    "channel": "LPRalarm",
+    "date": "2026-09-20T00:31:07+00:00",
+    "text": "Чонгар, мост Чонгар, АПП Джанкой  и близлежащие\nИ далее на юго-запад\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Чонгар",
+    "region": null,
+    "lat": 58.3597623,
+    "lon": 60.0444713
   }
 ]
