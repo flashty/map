@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-20T17:56:05+00:00",
+        "last_updated": "2026-09-20T18:12:06+00:00",
+        "path_labels": [
+          "Красноармейский (Краснодарский край)",
+          "Кореновский (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.108521,
+            45.659084
+          ],
+          [
+            39.3336194,
+            45.5500418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-20T18:02:13+00:00",
+        "last_updated": "2026-09-20T18:12:06+00:00",
+        "path_labels": [
+          "Туапсе (Краснодарский край)",
+          "Туапсинский (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.0718875,
+            44.0984747
+          ],
+          [
+            39.1884737,
+            44.2686396
+          ]
+        ]
+      }
+    }
+  ]
 }
