@@ -11,21 +11,21 @@
   },
   "курск": {
     "display_name": "Курская область",
-    "type": "missile",
-    "text": "Курская область и близлежащие авиационная ракетная бомбовая опасность",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-20T07:43:44+00:00",
-    "expires_at": "2026-09-20T08:43:44+00:00",
+    "type": "drone",
+    "text": "Рыльск \nвнимание по БПЛА\n\nКурская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-20T08:41:02+00:00",
+    "expires_at": "2026-09-20T09:41:02+00:00",
     "count": null,
     "count_approx": false
   },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Брянская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Погар, Стародуб, Трубчевск опасность по Бпла Шарк\nБрянская область",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-20T07:49:22+00:00",
-    "expires_at": "2026-09-20T08:49:22+00:00",
+    "updated_at": "2026-09-20T08:43:55+00:00",
+    "expires_at": "2026-09-20T09:43:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +56,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-20T08:25:15+00:00",
     "expires_at": "2026-09-20T09:25:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "alert",
+    "text": "Донецк ЖД и близлежащие \nОпасность по Фпв \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-20T08:42:44+00:00",
+    "expires_at": "2026-09-20T09:42:44+00:00",
     "count": null,
     "count_approx": false
   }
