@@ -1,14 +1,4 @@
 {
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Батайск\nРостовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-20T22:12:22+00:00",
-    "expires_at": "2026-09-20T23:12:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -21,11 +11,11 @@
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "alert",
-    "text": "Адлер и близлежащие\nКраснодарский край\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "text": "Адлер\nКраснодарский край\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-20T23:01:15+00:00",
-    "expires_at": "2026-09-21T00:01:15+00:00",
+    "updated_at": "2026-09-20T23:07:07+00:00",
+    "expires_at": "2026-09-21T00:07:07+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,10 +52,10 @@
   "волгоградск": {
     "display_name": "Волгоградская область",
     "type": "drone",
-    "text": "Фроловский район\nВолгоградская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-20T22:18:02+00:00",
-    "expires_at": "2026-09-20T23:18:02+00:00",
+    "text": "Волгоградская область\nСамарская область\nопасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-20T23:09:55+00:00",
+    "expires_at": "2026-09-21T00:09:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -89,36 +79,6 @@
     "count": null,
     "count_approx": false
   },
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "drone",
-    "text": "Пензенская область \nРеспублика Мордовия\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-09-20T22:02:33+00:00",
-    "expires_at": "2026-09-20T23:02:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "мордов": {
-    "display_name": "Республика Мордовия",
-    "type": "drone",
-    "text": "Пензенская область \nРеспублика Мордовия\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-09-20T22:02:33+00:00",
-    "expires_at": "2026-09-20T23:02:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Инжавино, Тамбовская область - фиксации БПЛА в сторону Кирсанов. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-20T22:14:35+00:00",
-    "expires_at": "2026-09-20T23:14:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
@@ -139,13 +99,23 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
+  "ульяновск": {
+    "display_name": "Ульяновская область",
     "type": "drone",
-    "text": "Козельский район\nКалужская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Ульяновская область\nСамарская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-20T23:00:53+00:00",
-    "expires_at": "2026-09-21T00:00:53+00:00",
+    "updated_at": "2026-09-20T23:09:59+00:00",
+    "expires_at": "2026-09-21T00:09:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "самарск": {
+    "display_name": "Самарская область",
+    "type": "drone",
+    "text": "Самарская область - опасность по БПЛА от Саратовской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-20T23:11:57+00:00",
+    "expires_at": "2026-09-21T00:11:57+00:00",
     "count": null,
     "count_approx": false
   }
