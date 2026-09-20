@@ -1,14 +1,4 @@
 {
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянск, Брянская область \nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-20T22:28:38+00:00",
-    "expires_at": "2026-09-20T23:28:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -59,26 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Большое Жирово, ​Фатежский район, Курская область - фиксации БПЛА в сторону Орловской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-20T22:29:34+00:00",
-    "expires_at": "2026-09-20T23:29:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Дубовое\nБелгородская область\nТревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-20T22:20:36+00:00",
-    "expires_at": "2026-09-20T23:20:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
@@ -92,20 +62,20 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Алексин\nТульская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Алексин\nТульская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-20T22:57:28+00:00",
-    "expires_at": "2026-09-20T23:57:28+00:00",
+    "updated_at": "2026-09-20T23:26:05+00:00",
+    "expires_at": "2026-09-21T00:26:05+00:00",
     "count": null,
     "count_approx": false
   },
   "ульяновск": {
     "display_name": "Ульяновская область",
     "type": "drone",
-    "text": "Ульяновская область\nСамарская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-20T23:09:59+00:00",
-    "expires_at": "2026-09-21T00:09:59+00:00",
+    "text": "Ульяновская область - опасность по БПЛА от Пензенской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-20T23:18:05+00:00",
+    "expires_at": "2026-09-21T00:18:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,6 +86,16 @@
     "channel": "locatorru",
     "updated_at": "2026-09-20T23:11:57+00:00",
     "expires_at": "2026-09-21T00:11:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калуга\nКалужская область\nЕще фиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-20T23:26:24+00:00",
+    "expires_at": "2026-09-21T00:26:24+00:00",
     "count": null,
     "count_approx": false
   }
