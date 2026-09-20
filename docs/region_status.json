@@ -9,26 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Валуйки \nВнимание по БПЛА Хорнет\nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-20T04:33:17+00:00",
-    "expires_at": "2026-09-20T05:33:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "missile",
-    "text": "Курахово ДНР ракетная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-20T04:44:27+00:00",
-    "expires_at": "2026-09-20T05:44:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
@@ -56,6 +36,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-20T05:28:32+00:00",
     "expires_at": "2026-09-20T06:28:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ярославск": {
+    "display_name": "Ярославская область",
+    "type": "drone",
+    "text": "Переславль-Залесский\nЯрославская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-20T05:41:30+00:00",
+    "expires_at": "2026-09-20T06:41:30+00:00",
     "count": null,
     "count_approx": false
   }
