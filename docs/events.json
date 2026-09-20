@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_91863",
-    "channel": "vrv_radar",
-    "date": "2026-09-19T20:50:49+00:00",
-    "text": "Орел \nОрловская область \nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_238422_Рыльский",
-    "channel": "LPRalarm",
-    "date": "2026-09-19T20:51:17+00:00",
-    "text": "Крупецкая зона\nТревога по БПЛА\nРыльский район\nКурская область",
-    "type": "drone",
-    "location_name": "Рыльский",
-    "region": "Курская область",
-    "lat": 51.5713767,
-    "lon": 34.624021
-  },
-  {
     "id": "radarrussiia_94805",
     "channel": "radarrussiia",
     "date": "2026-09-19T20:51:28+00:00",
@@ -21996,6 +21974,28 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_238725",
+    "channel": "LPRalarm",
+    "date": "2026-09-20T16:40:17+00:00",
+    "text": "Раздольненский р-н \nТарханкут \nЕвпатория и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_131567",
+    "channel": "kupolrussia",
+    "date": "2026-09-20T16:40:52+00:00",
+    "text": "Раздольненский р-н \nТарханкут \nЕвпатория и близлежащие \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
