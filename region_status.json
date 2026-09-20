@@ -1,11 +1,11 @@
 {
   "московск": {
     "display_name": "Московская область",
-    "type": "alert",
-    "text": "ГО Домодедово\nМосковская область\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-20T05:00:33+00:00",
-    "expires_at": "2026-09-20T06:00:33+00:00",
+    "type": "drone",
+    "text": "ГО Сергиев-Посад\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-20T05:30:03+00:00",
+    "expires_at": "2026-09-20T06:30:03+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +46,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-20T05:00:54+00:00",
     "expires_at": "2026-09-20T06:00:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область \nТревога по БПЛА сохраняется",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-20T05:28:32+00:00",
+    "expires_at": "2026-09-20T06:28:32+00:00",
     "count": null,
     "count_approx": false
   }
