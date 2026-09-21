@@ -12,20 +12,20 @@
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
-    "text": "Саратов и близлежащие\nЭнгельс и близлежащие\nСаратовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Саратов\nСаратовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-21T22:00:11+00:00",
-    "expires_at": "2026-09-21T23:00:11+00:00",
+    "updated_at": "2026-09-21T22:15:00+00:00",
+    "expires_at": "2026-09-21T23:15:00+00:00",
     "count": null,
     "count_approx": false
   },
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Белинский район\nПензенская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-21T21:54:49+00:00",
-    "expires_at": "2026-09-21T22:54:49+00:00",
+    "text": "Петровск, Саратовская область - пролёты БПЛА на север, северо-восток.\n\nКондоль, Шемышейка, Лопатино, Чаадаевка, Средняя Елюзань и близлежащие, Пензенская область- опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-21T22:14:23+00:00",
+    "expires_at": "2026-09-21T23:14:23+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,16 +56,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-21T21:54:31+00:00",
     "expires_at": "2026-09-21T22:54:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Тульская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-21T21:09:50+00:00",
-    "expires_at": "2026-09-21T22:09:50+00:00",
     "count": null,
     "count_approx": false
   },
@@ -182,10 +172,10 @@
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
-    "text": "Рыково и близлежащие \nХерсонская область РФ\nТревога по БПЛА \nДалее возможно через Геническ с выходом  в Азовское море  или в направлении Республики Крым",
+    "text": "Каланчак и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
     "channel": "LPRalarm",
-    "updated_at": "2026-09-21T21:39:38+00:00",
-    "expires_at": "2026-09-21T22:39:38+00:00",
+    "updated_at": "2026-09-21T22:01:29+00:00",
+    "expires_at": "2026-09-21T23:01:29+00:00",
     "count": null,
     "count_approx": false
   },
@@ -216,6 +206,36 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-21T21:55:27+00:00",
     "expires_at": "2026-09-21T22:55:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "-": {
+    "display_name": "Республика -",
+    "type": "drone",
+    "text": "Чувашская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-21T22:11:57+00:00",
+    "expires_at": "2026-09-21T23:11:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "опаснос": {
+    "display_name": "Республика \nОпасность",
+    "type": "drone",
+    "text": "Чувашская Республика \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-21T22:13:02+00:00",
+    "expires_at": "2026-09-21T23:13:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "чуваш": {
+    "display_name": "Республика Чувашия",
+    "type": "drone",
+    "text": "Республика Чувашия\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-21T22:15:12+00:00",
+    "expires_at": "2026-09-21T23:15:12+00:00",
     "count": null,
     "count_approx": false
   }
