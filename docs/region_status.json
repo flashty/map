@@ -22,11 +22,11 @@
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Неверкинский район\nПензенская область\nПродолжаются фиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-21T22:43:02+00:00",
-    "expires_at": "2026-09-21T23:43:02+00:00",
-    "count": null,
+    "text": "Неверкинский район\nПензенская область\nЕщё фиксация от 4 БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-21T22:56:23+00:00",
+    "expires_at": "2026-09-21T23:56:23+00:00",
+    "count": 4,
     "count_approx": false
   },
   "липецк": {
@@ -69,16 +69,6 @@
     "count": null,
     "count_approx": false
   },
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "Павловка, Старая Кулатка, Радищево, Николаевка, Новоспасское, Ульяновская область - опасность по БПЛА от Кузнецк, Неверкинский, Пензенской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-21T22:39:21+00:00",
-    "expires_at": "2026-09-21T23:39:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ивановск": {
     "display_name": "Ивановская область",
     "type": "drone",
@@ -109,16 +99,6 @@
     "count": null,
     "count_approx": false
   },
-  "волгоградск": {
-    "display_name": "Волгоградская область",
-    "type": "drone",
-    "text": "Даниловский район\nВолгоградская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-21T21:55:27+00:00",
-    "expires_at": "2026-09-21T22:55:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "-": {
     "display_name": "Республика -",
     "type": "drone",
@@ -146,6 +126,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-09-21T22:15:12+00:00",
     "expires_at": "2026-09-21T23:15:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "мордов": {
+    "display_name": "Республика Мордовия",
+    "type": "drone",
+    "text": "Большие Березники, Республика Мордовия - внимание по пролётам БПЛА в сторону Дубенки, Атяшево, Ардатов, далее на Чувашскую Республику.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-21T22:46:50+00:00",
+    "expires_at": "2026-09-21T23:46:50+00:00",
     "count": null,
     "count_approx": false
   }
