@@ -22,11 +22,11 @@
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Неверкинский район\nПензенская область\nЕщё фиксация от 4 БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-21T22:56:23+00:00",
-    "expires_at": "2026-09-21T23:56:23+00:00",
-    "count": 4,
+    "text": "Неверкинский район\nПензенская область\nФиксация 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-21T23:08:27+00:00",
+    "expires_at": "2026-09-22T00:08:27+00:00",
+    "count": 2,
     "count_approx": false
   },
   "липецк": {
@@ -89,16 +89,6 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Каланчак и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-21T22:01:29+00:00",
-    "expires_at": "2026-09-21T23:01:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "-": {
     "display_name": "Республика -",
     "type": "drone",
@@ -109,33 +99,53 @@
     "count": null,
     "count_approx": false
   },
-  "опаснос": {
-    "display_name": "Республика \nОпасность",
-    "type": "drone",
-    "text": "Чувашская Республика \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-21T22:13:02+00:00",
-    "expires_at": "2026-09-21T23:13:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "чуваш": {
-    "display_name": "Республика Чувашия",
-    "type": "drone",
-    "text": "Республика Чувашия\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-21T22:15:12+00:00",
-    "expires_at": "2026-09-21T23:15:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "мордов": {
     "display_name": "Республика Мордовия",
     "type": "drone",
-    "text": "Большие Березники, Республика Мордовия - внимание по пролётам БПЛА в сторону Дубенки, Атяшево, Ардатов, далее на Чувашскую Республику.\n\n📡Локатор России - @locatorru",
+    "text": "Саранск\nРеспублика Мордовия \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-21T23:09:09+00:00",
+    "expires_at": "2026-09-22T00:09:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородская область",
+    "type": "drone",
+    "text": "Лукояновский район, Нижегородская область - фиксации БПЛА от Республики Мордовия на север. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-09-21T22:46:50+00:00",
-    "expires_at": "2026-09-21T23:46:50+00:00",
+    "updated_at": "2026-09-21T23:12:38+00:00",
+    "expires_at": "2026-09-22T00:12:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "самарск": {
+    "display_name": "Самарская область",
+    "type": "drone",
+    "text": "Самарская область, повторно\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-21T23:10:47+00:00",
+    "expires_at": "2026-09-22T00:10:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Республика Татарстан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-21T23:09:22+00:00",
+    "expires_at": "2026-09-22T00:09:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "марий": {
+    "display_name": "Республика Марий",
+    "type": "drone",
+    "text": "Республика Татарстан \nРеспублика Марий Эл \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-21T23:08:47+00:00",
+    "expires_at": "2026-09-22T00:08:47+00:00",
     "count": null,
     "count_approx": false
   }
