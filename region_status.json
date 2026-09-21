@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Пантелеймоновка, Бондаревка и далее на Енакиево ДНР тревога по БПЛА в том числе на электротяге",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-21T10:16:05+00:00",
-    "expires_at": "2026-09-21T11:16:05+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -29,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Трубчевск тревога по БПЛА \nДАРТС \nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-21T09:45:38+00:00",
-    "expires_at": "2026-09-21T10:45:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "missile",
@@ -46,6 +26,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-21T10:17:44+00:00",
     "expires_at": "2026-09-21T11:17:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ сохраняется \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-21T10:43:58+00:00",
+    "expires_at": "2026-09-21T11:43:58+00:00",
     "count": null,
     "count_approx": false
   }
