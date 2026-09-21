@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-09-21T00:34:38+00:00",
-        "last_updated": "2026-09-21T01:07:27+00:00",
-        "path_labels": [
-          "Тольятти (Самарская область)",
-          "Мелекесский (Ульяновская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            49.4189187,
-            53.5098845
-          ],
-          [
-            49.27001,
-            54.1903129
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
