@@ -1,82 +1,5 @@
 [
   {
-    "id": "vrv_radar_92385",
-    "channel": "vrv_radar",
-    "date": "2026-09-20T05:39:34+00:00",
-    "text": "Ярославская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ярославская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_92386_Залесский",
-    "channel": "vrv_radar",
-    "date": "2026-09-20T05:41:30+00:00",
-    "text": "Переславль-Залесский\nЯрославская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Залесский",
-    "region": "Ярославская область",
-    "lat": 56.7367178,
-    "lon": 38.8462714
-  },
-  {
-    "id": "LPRalarm_238523",
-    "channel": "LPRalarm",
-    "date": "2026-09-20T06:02:17+00:00",
-    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и возможным ФПВ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_131378",
-    "channel": "kupolrussia",
-    "date": "2026-09-20T06:02:24+00:00",
-    "text": "Горловка ДНР и близлежащие \nОпасность по БПЛА и возможным ФПВ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_92387",
-    "channel": "vrv_radar",
-    "date": "2026-09-20T06:07:11+00:00",
-    "text": "Ямало-Ненецкий Автономный Округ\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_238524",
-    "channel": "LPRalarm",
-    "date": "2026-09-20T06:07:15+00:00",
-    "text": "Новая Полтавка ДНР и близлежащие \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_131379",
-    "channel": "kupolrussia",
-    "date": "2026-09-20T06:07:40+00:00",
-    "text": "ЯНАО\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_95033",
     "channel": "radarrussiia",
     "date": "2026-09-20T06:09:11+00:00",
@@ -21998,5 +21921,82 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_239038",
+    "channel": "LPRalarm",
+    "date": "2026-09-21T13:17:01+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_131841",
+    "channel": "kupolrussia",
+    "date": "2026-09-21T13:17:37+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_131843_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-09-21T13:17:48+00:00",
+    "text": "Севастополь\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "LPRalarm_239039",
+    "channel": "LPRalarm",
+    "date": "2026-09-21T13:20:10+00:00",
+    "text": "Мыс Херсонес, Фиолент \nБалаклава \nСевастополь \nС моря тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_131844_Фиолент",
+    "channel": "kupolrussia",
+    "date": "2026-09-21T13:20:25+00:00",
+    "text": "Мыс Херсонес, Фиолент \nБалаклава \nСевастополь \nС моря\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Фиолент",
+    "region": null,
+    "lat": 43.1192297,
+    "lon": 131.9618693
+  },
+  {
+    "id": "kupolrussia_131844_Балаклава",
+    "channel": "kupolrussia",
+    "date": "2026-09-21T13:20:25+00:00",
+    "text": "Мыс Херсонес, Фиолент \nБалаклава \nСевастополь \nС моря\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Балаклава",
+    "region": null,
+    "lat": 55.7630085,
+    "lon": 37.6542418
+  },
+  {
+    "id": "kupolrussia_131844_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-09-21T13:20:25+00:00",
+    "text": "Мыс Херсонес, Фиолент \nБалаклава \nСевастополь \nС моря\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
   }
 ]
