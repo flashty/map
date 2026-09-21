@@ -1,31 +1,21 @@
 {
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Курск \nКурская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-21T16:18:21+00:00",
-    "expires_at": "2026-09-21T17:18:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Гвардейское\nГРЭС\nСимферопольский аэропорт\nИ близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-21T17:14:17+00:00",
-    "expires_at": "2026-09-21T18:14:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Старобельск и близлежащие\nОпасность по БПЛА\nЛНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-21T17:15:16+00:00",
-    "expires_at": "2026-09-21T18:15:16+00:00",
+    "text": "Левадное-Старобельск\nТревога по БПЛА\nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-21T17:17:54+00:00",
+    "expires_at": "2026-09-21T18:17:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Князе-Григоровка\n И близлежащие\nИ далее на юго-восток\nТревога по БПЛА\nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-21T17:31:03+00:00",
+    "expires_at": "2026-09-21T18:31:03+00:00",
     "count": null,
     "count_approx": false
   }
