@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_92254",
-    "channel": "vrv_radar",
-    "date": "2026-09-20T02:09:31+00:00",
-    "text": "Жуковский \nМосковская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_86457",
-    "channel": "locatorru",
-    "date": "2026-09-20T02:10:16+00:00",
-    "text": "Курская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_92255",
-    "channel": "vrv_radar",
-    "date": "2026-09-20T02:10:28+00:00",
-    "text": "Орловская область\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_86458",
-    "channel": "locatorru",
-    "date": "2026-09-20T02:10:47+00:00",
-    "text": "Орловская область, Тульская область, Московская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_92256_Островцы",
     "channel": "vrv_radar",
     "date": "2026-09-20T02:11:19+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_238929_Шебекинский",
+    "channel": "LPRalarm",
+    "date": "2026-09-21T06:09:08+00:00",
+    "text": "Обьездная дорога, Ржевка, Премиксы в укрытие, стоп движение, летает ударный БПЛА \nШебекинский район",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": null,
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "LPRalarm_238929_Ржевка",
+    "channel": "LPRalarm",
+    "date": "2026-09-21T06:09:08+00:00",
+    "text": "Обьездная дорога, Ржевка, Премиксы в укрытие, стоп движение, летает ударный БПЛА \nШебекинский район",
+    "type": "drone",
+    "location_name": "Ржевка",
+    "region": null,
+    "lat": 59.4953907,
+    "lon": 29.40683
+  },
+  {
+    "id": "LPRalarm_238930",
+    "channel": "LPRalarm",
+    "date": "2026-09-21T06:12:48+00:00",
+    "text": "Через нп.Беленькое Запорожской области РФ фиксации БПЛА в южном направлении",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_131734",
+    "channel": "kupolrussia",
+    "date": "2026-09-21T06:14:25+00:00",
+    "text": "Через нп.Беленькое Запорожской области РФ фиксации БПЛА в южном направлении",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожской области",
     "lat": null,
     "lon": null
   }
