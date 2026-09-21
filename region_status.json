@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Мариуполь и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и возможным ФПВ с БПЛА \nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-21T15:10:40+00:00",
-    "expires_at": "2026-09-21T16:10:40+00:00",
+    "updated_at": "2026-09-21T16:05:50+00:00",
+    "expires_at": "2026-09-21T17:05:50+00:00",
     "count": null,
     "count_approx": false
   },
@@ -13,9 +13,9 @@
     "display_name": "Херсонская область",
     "type": "drone",
     "text": "Каланчак и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-21T15:50:21+00:00",
-    "expires_at": "2026-09-21T16:50:21+00:00",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-21T16:02:29+00:00",
+    "expires_at": "2026-09-21T17:02:29+00:00",
     "count": null,
     "count_approx": false
   },
@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калужская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-21T15:12:01+00:00",
-    "expires_at": "2026-09-21T16:12:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -48,15 +38,5 @@
     "expires_at": "2026-09-21T16:19:09+00:00",
     "count": null,
     "count_approx": false
-  },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязанская область - внимание по единичным БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-21T15:34:28+00:00",
-    "expires_at": "2026-09-21T16:34:28+00:00",
-    "count": 1,
-    "count_approx": true
   }
 }

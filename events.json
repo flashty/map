@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_238561",
-    "channel": "LPRalarm",
-    "date": "2026-09-20T08:30:38+00:00",
-    "text": "ЛДНР\nЗапорожская область РФ\n\nОтбой авиационной ракетной бомбовой опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_131415",
-    "channel": "kupolrussia",
-    "date": "2026-09-20T08:30:43+00:00",
-    "text": "ЛДНР\nЗапорожская область РФ\n\nОтбой авиационной ракетной бомбовой опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_238562",
-    "channel": "LPRalarm",
-    "date": "2026-09-20T08:35:47+00:00",
-    "text": "Донецк ЖД вокзал\nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_131416",
-    "channel": "kupolrussia",
-    "date": "2026-09-20T08:36:17+00:00",
-    "text": "Донецк ЖД вокзал\nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_238563",
-    "channel": "LPRalarm",
-    "date": "2026-09-20T08:36:20+00:00",
-    "text": "Горловка, Пантелеймоновка, Ясиноватая и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_131417",
     "channel": "kupolrussia",
     "date": "2026-09-20T08:36:27+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_131875",
+    "channel": "kupolrussia",
+    "date": "2026-09-21T16:02:29+00:00",
+    "text": "Каланчак и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_92683",
+    "channel": "vrv_radar",
+    "date": "2026-09-21T16:02:45+00:00",
+    "text": "Рязанская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239072",
+    "channel": "LPRalarm",
+    "date": "2026-09-21T16:05:43+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и возможным ФПВ с БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_131876",
+    "channel": "kupolrussia",
+    "date": "2026-09-21T16:05:50+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и возможным ФПВ с БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_95264",
+    "channel": "radarrussiia",
+    "date": "2026-09-21T16:13:52+00:00",
+    "text": "Тульская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
     "lat": null,
     "lon": null
   }
