@@ -2,10 +2,10 @@
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Шаблыкино, Орловская область - массовый пролёт БПЛА в сторону Нарышкино, Хотынец, Болхов, далее на Тульскую область.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-21T00:07:26+00:00",
-    "expires_at": "2026-09-21T01:07:26+00:00",
+    "text": "Орёл \nОрловская область \nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-21T00:30:54+00:00",
+    "expires_at": "2026-09-21T01:30:54+00:00",
     "count": null,
     "count_approx": false
   },
@@ -20,22 +20,22 @@
     "count_approx": false
   },
   "тульск": {
-    "display_name": "Тульскую область",
+    "display_name": "Тульская область",
     "type": "drone",
-    "text": "Шаблыкино, Орловская область - массовый пролёт БПЛА в сторону Нарышкино, Хотынец, Болхов, далее на Тульскую область.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-21T00:07:26+00:00",
-    "expires_at": "2026-09-21T01:07:26+00:00",
-    "count": null,
+    "text": "Алексин\nТульская область\nФиксация от 2 БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-21T00:30:15+00:00",
+    "expires_at": "2026-09-21T01:30:15+00:00",
+    "count": 2,
     "count_approx": false
   },
   "ульяновск": {
     "display_name": "Ульяновская область",
     "type": "drone",
-    "text": "Ульяновская область\nопасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-20T23:35:18+00:00",
-    "expires_at": "2026-09-21T00:35:18+00:00",
+    "text": "Николаевский район\nУльяновская область\nФиксации БПЛА в вашем направлении\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-21T00:24:35+00:00",
+    "expires_at": "2026-09-21T01:24:35+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,30 +52,30 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Жуковский район\nМещовский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-20T23:43:40+00:00",
-    "expires_at": "2026-09-21T00:43:40+00:00",
+    "text": "Жуковский район\nКалужская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-21T00:27:45+00:00",
+    "expires_at": "2026-09-21T01:27:45+00:00",
     "count": null,
     "count_approx": false
   },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Холмечи, Суземский район, Брянская область - продолжается пролёт БПЛА в сторону Навля, Карачев. \n\n📡Локатор России - @locatorru",
+    "text": "Комаричи, Брянская область - фиксации БПЛА в сторону Дмитровск, Орловская область.\n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-09-20T23:40:34+00:00",
-    "expires_at": "2026-09-21T00:40:34+00:00",
+    "updated_at": "2026-09-21T00:29:09+00:00",
+    "expires_at": "2026-09-21T01:29:09+00:00",
     "count": null,
     "count_approx": false
   },
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Кузнецкий район\nПензенская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-21T00:15:16+00:00",
-    "expires_at": "2026-09-21T01:15:16+00:00",
+    "text": "Кузнецкий район\nПензенская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-21T00:27:18+00:00",
+    "expires_at": "2026-09-21T01:27:18+00:00",
     "count": null,
     "count_approx": false
   },
@@ -110,12 +110,32 @@
     "count_approx": false
   },
   "рязанск": {
-    "display_name": "Рязанская область",
+    "display_name": "Рязанской областей",
     "type": "drone",
-    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Стык Тульской и Рязанской областей \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-21T00:06:55+00:00",
-    "expires_at": "2026-09-21T01:06:55+00:00",
+    "updated_at": "2026-09-21T00:26:15+00:00",
+    "expires_at": "2026-09-21T01:26:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Республика Татарстан\nРеспублика Чувашия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-21T00:25:07+00:00",
+    "expires_at": "2026-09-21T01:25:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "чуваш": {
+    "display_name": "Республика Чувашия",
+    "type": "drone",
+    "text": "Республика Татарстан\nРеспублика Чувашия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-21T00:25:07+00:00",
+    "expires_at": "2026-09-21T01:25:07+00:00",
     "count": null,
     "count_approx": false
   }
