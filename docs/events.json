@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_131368",
-    "channel": "kupolrussia",
-    "date": "2026-09-20T04:01:15+00:00",
-    "text": "Воронежская область \nОпасность по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_92374_Раменское",
-    "channel": "vrv_radar",
-    "date": "2026-09-20T04:01:49+00:00",
-    "text": "ГО Раменское\nМосковская область\nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Раменское",
-    "region": "Московская область",
-    "lat": 55.5709361,
-    "lon": 38.2282099
-  },
-  {
-    "id": "vrv_radar_92375_Подольск",
-    "channel": "vrv_radar",
-    "date": "2026-09-20T04:02:39+00:00",
-    "text": "ГО Подольск\nМосковская область\nПродолжается работа ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Подольск",
-    "region": "Московская область",
-    "lat": 55.4308841,
-    "lon": 37.5453056
-  },
-  {
-    "id": "vrv_radar_92376_Домодедово",
-    "channel": "vrv_radar",
-    "date": "2026-09-20T04:06:40+00:00",
-    "text": "ГО Домодедово\nМосковская область\nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Домодедово",
-    "region": "Московская область",
-    "lat": 55.4087122,
-    "lon": 37.9094721
-  },
-  {
-    "id": "LPRalarm_238512",
-    "channel": "LPRalarm",
-    "date": "2026-09-20T04:08:53+00:00",
-    "text": "Евпатория \nВозможно единичные фиксации БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_131369",
-    "channel": "kupolrussia",
-    "date": "2026-09-20T04:09:04+00:00",
-    "text": "Евпатория \nВозможно единичные фиксации БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_92377_Коломна",
     "channel": "vrv_radar",
     "date": "2026-09-20T04:10:57+00:00",
@@ -21996,6 +21930,72 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_131827",
+    "channel": "kupolrussia",
+    "date": "2026-09-21T11:18:23+00:00",
+    "text": "От Новокиевка в направлении Каланчак фиксации БПЛА Хорнет \n\nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239022",
+    "channel": "LPRalarm",
+    "date": "2026-09-21T11:18:37+00:00",
+    "text": "От Новокиевка в направлении Каланчак фиксации БПЛА Хорнет \n\nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239023",
+    "channel": "LPRalarm",
+    "date": "2026-09-21T11:24:31+00:00",
+    "text": "Вейделевка Бгд на север опасность БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_131828",
+    "channel": "kupolrussia",
+    "date": "2026-09-21T11:24:41+00:00",
+    "text": "Вейделевка Бгд на север опасность БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239024",
+    "channel": "LPRalarm",
+    "date": "2026-09-21T11:29:47+00:00",
+    "text": "Харцызск \nЗугрэс\nИловайск \nИ близлежащие \nОпасность по БПЛА Шарк\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_131829",
+    "channel": "kupolrussia",
+    "date": "2026-09-21T11:29:57+00:00",
+    "text": "Харцызск \nЗугрэс\nИловайск \nИ близлежащие \nОпасность по БПЛА Шарк\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
