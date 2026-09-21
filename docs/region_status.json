@@ -12,20 +12,20 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "missile",
-    "text": "Уманское ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-21T09:14:03+00:00",
-    "expires_at": "2026-09-21T10:14:03+00:00",
+    "text": "ДНР ракетная опасность от Селидово",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-21T10:01:09+00:00",
+    "expires_at": "2026-09-21T11:01:09+00:00",
     "count": null,
     "count_approx": false
   },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Симферопольский район \nОктябрьское и близлежащие \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "text": "От Сизовки на Гвардейское\nФиксация БПЛА\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-21T09:29:47+00:00",
-    "expires_at": "2026-09-21T10:29:47+00:00",
+    "updated_at": "2026-09-21T09:58:56+00:00",
+    "expires_at": "2026-09-21T10:58:56+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +66,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-21T09:30:52+00:00",
     "expires_at": "2026-09-21T10:30:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "aviation",
+    "text": "Краснодарский край \nАвиационная опасность\n(РСЧС)",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-21T09:59:03+00:00",
+    "expires_at": "2026-09-21T10:59:03+00:00",
     "count": null,
     "count_approx": false
   }
