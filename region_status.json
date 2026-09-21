@@ -49,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "missile",
-    "text": "Троицкое ЛНР ракетная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-21T14:41:45+00:00",
-    "expires_at": "2026-09-21T15:41:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
@@ -92,10 +82,10 @@
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
-    "text": "21/09/2026 17:45 МСК.\n\nОпасность по БПЛА сохраняется:\n\n🔻Курская область;\n🔻Белгородская область;\n🔻Орловская область;\n🔻Брянская область;\n🔻Смоленская область;\n🔻Калужская область;\n🔻Ямало-Ненецкий автономный округ;\n🔻Ханты-Мансийский автономный округ — Югра. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-21T14:48:35+00:00",
-    "expires_at": "2026-09-21T15:48:35+00:00",
+    "text": "Смоленская область \nЕдиничные фиксации БПЛА от Брянской области",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-21T15:44:48+00:00",
+    "expires_at": "2026-09-21T16:44:48+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,16 +96,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-21T15:12:01+00:00",
     "expires_at": "2026-09-21T16:12:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Тульская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-21T15:11:17+00:00",
-    "expires_at": "2026-09-21T16:11:17+00:00",
     "count": null,
     "count_approx": false
   },
@@ -132,11 +112,11 @@
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Рязанская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-21T15:28:56+00:00",
-    "expires_at": "2026-09-21T16:28:56+00:00",
-    "count": null,
-    "count_approx": false
+    "text": "Рязанская область - внимание по единичным БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-21T15:34:28+00:00",
+    "expires_at": "2026-09-21T16:34:28+00:00",
+    "count": 1,
+    "count_approx": true
   }
 }
