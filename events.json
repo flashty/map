@@ -1,104 +1,5 @@
 [
   {
-    "id": "radarrussiia_94869_Рязань",
-    "channel": "radarrussiia",
-    "date": "2026-09-20T00:17:15+00:00",
-    "text": "Рязань\nРязанская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Рязань",
-    "region": "Рязанская область",
-    "lat": 54.6295687,
-    "lon": 39.7425039
-  },
-  {
-    "id": "kupolrussia_131350",
-    "channel": "kupolrussia",
-    "date": "2026-09-20T00:17:31+00:00",
-    "text": "Краснодарский край\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_94870_Бронницы",
-    "channel": "radarrussiia",
-    "date": "2026-09-20T00:17:32+00:00",
-    "text": "ГО Бронницы\nМосковская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Бронницы",
-    "region": "Московская область",
-    "lat": 55.422,
-    "lon": 38.2591
-  },
-  {
-    "id": "vrv_radar_92023_Бронницы",
-    "channel": "vrv_radar",
-    "date": "2026-09-20T00:17:37+00:00",
-    "text": "ГО Бронницы\nМосковская область \nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Бронницы",
-    "region": "Московская область",
-    "lat": 55.422,
-    "lon": 38.2591
-  },
-  {
-    "id": "locatorru_86412",
-    "channel": "locatorru",
-    "date": "2026-09-20T00:17:43+00:00",
-    "text": "юг, ю-в, восток Московской области - опасность по БПЛА сохраняется. Продолжаются сбития. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Московской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_94871",
-    "channel": "radarrussiia",
-    "date": "2026-09-20T00:17:50+00:00",
-    "text": "Московская область \nПродолжаются фиксации БПЛА в направлении Москвы\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_92024_Спасский",
-    "channel": "vrv_radar",
-    "date": "2026-09-20T00:18:02+00:00",
-    "text": "Спасский район \nРязанская область \nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Спасский",
-    "region": "Рязанская область",
-    "lat": 54.5079588,
-    "lon": 40.5809989
-  },
-  {
-    "id": "vrv_radar_92025_Павлово-Посадский",
-    "channel": "vrv_radar",
-    "date": "2026-09-20T00:18:04+00:00",
-    "text": "Егорьевск \nПавлово-Посадский район \nМосковская область \nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Павлово-Посадский",
-    "region": "Московская область",
-    "lat": 55.7979099,
-    "lon": 38.6657083
-  },
-  {
-    "id": "vrv_radar_92026",
-    "channel": "vrv_radar",
-    "date": "2026-09-20T00:18:09+00:00",
-    "text": "Рязань \nРязанская область \nПродолжаются фиксации БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_94872",
     "channel": "radarrussiia",
     "date": "2026-09-20T00:18:12+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Мордовия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_131677",
+    "channel": "kupolrussia",
+    "date": "2026-09-20T23:46:08+00:00",
+    "text": "Республика Мордовия\nопасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Мордовия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_238856",
+    "channel": "LPRalarm",
+    "date": "2026-09-20T23:46:13+00:00",
+    "text": "Республика Мордовия\nопасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Мордовия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_92516_Кузнецкий",
+    "channel": "vrv_radar",
+    "date": "2026-09-20T23:47:31+00:00",
+    "text": "Кузнецкий район\nПензенская область \nЕщё фиксация БПЛА",
+    "type": "drone",
+    "location_name": "Кузнецкий",
+    "region": "Пензенская область",
+    "lat": 53.1878064,
+    "lon": 44.9796903
+  },
+  {
+    "id": "radarrussiia_95141_Кузнецкий",
+    "channel": "radarrussiia",
+    "date": "2026-09-20T23:48:00+00:00",
+    "text": "Кузнецкий район\nПензенская область \nЕщё фиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Кузнецкий",
+    "region": "Пензенская область",
+    "lat": 53.1878064,
+    "lon": 44.9796903
+  },
+  {
+    "id": "vrv_radar_92517_Алексин",
+    "channel": "vrv_radar",
+    "date": "2026-09-20T23:49:16+00:00",
+    "text": "Алексин\nТульская область\nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": "Алексин",
+    "region": "Тульская область",
+    "lat": 54.5028103,
+    "lon": 37.0667213
+  },
+  {
+    "id": "radarrussiia_95142_Алексин",
+    "channel": "radarrussiia",
+    "date": "2026-09-20T23:50:16+00:00",
+    "text": "Алексин\nТульская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Алексин",
+    "region": "Тульская область",
+    "lat": 54.5028103,
+    "lon": 37.0667213
+  },
+  {
+    "id": "LPRalarm_238857",
+    "channel": "LPRalarm",
+    "date": "2026-09-20T23:53:45+00:00",
+    "text": "Курская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_131678",
+    "channel": "kupolrussia",
+    "date": "2026-09-20T23:54:26+00:00",
+    "text": "Курская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_95143",
+    "channel": "radarrussiia",
+    "date": "2026-09-20T23:59:41+00:00",
+    "text": "Курская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }
