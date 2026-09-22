@@ -1,93 +1,5 @@
 [
   {
-    "id": "vrv_radar_92473",
-    "channel": "vrv_radar",
-    "date": "2026-09-20T22:10:52+00:00",
-    "text": "Михайловка\nВолгоградская область\nФиксация БПЛА в направлении Саратовской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_95103_Батайск",
-    "channel": "radarrussiia",
-    "date": "2026-09-20T22:12:22+00:00",
-    "text": "Батайск\nРостовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Батайск",
-    "region": "Ростовская область",
-    "lat": 47.138527,
-    "lon": 39.742348
-  },
-  {
-    "id": "radarrussiia_95104",
-    "channel": "radarrussiia",
-    "date": "2026-09-20T22:12:40+00:00",
-    "text": "Михайловка\nВолгоградская область\nФиксация БПЛА в направлении Саратовской области\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_238847_Брянск",
-    "channel": "LPRalarm",
-    "date": "2026-09-20T22:14:04+00:00",
-    "text": "Брянск, Брянская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Брянск",
-    "region": "Брянская область",
-    "lat": 53.2423778,
-    "lon": 34.3668288
-  },
-  {
-    "id": "radarrussiia_95105_Брянск",
-    "channel": "radarrussiia",
-    "date": "2026-09-20T22:14:21+00:00",
-    "text": "Брянск\nБрянская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Брянск",
-    "region": "Брянская область",
-    "lat": 53.2423778,
-    "lon": 34.3668288
-  },
-  {
-    "id": "locatorru_86535_Инжавино",
-    "channel": "locatorru",
-    "date": "2026-09-20T22:14:35+00:00",
-    "text": "Инжавино, Тамбовская область - фиксации БПЛА в сторону Кирсанов. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Инжавино",
-    "region": "Тамбовская область",
-    "lat": 52.3183696,
-    "lon": 42.4953939
-  },
-  {
-    "id": "vrv_radar_92474_Фроловский",
-    "channel": "vrv_radar",
-    "date": "2026-09-20T22:16:28+00:00",
-    "text": "Фроловский район\nВолгоградская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Фроловский",
-    "region": "Волгоградская область",
-    "lat": 49.8599222,
-    "lon": 43.8082806
-  },
-  {
-    "id": "radarrussiia_95106_Фроловский",
-    "channel": "radarrussiia",
-    "date": "2026-09-20T22:18:02+00:00",
-    "text": "Фроловский район\nВолгоградская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Фроловский",
-    "region": "Волгоградская область",
-    "lat": 49.8599222,
-    "lon": 43.8082806
-  },
-  {
     "id": "LPRalarm_238848_Дубовое",
     "channel": "LPRalarm",
     "date": "2026-09-20T22:20:34+00:00",
@@ -21996,6 +21908,94 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132014",
+    "channel": "kupolrussia",
+    "date": "2026-09-22T03:32:02+00:00",
+    "text": "Пензенская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239252",
+    "channel": "LPRalarm",
+    "date": "2026-09-22T03:32:06+00:00",
+    "text": "Пензенская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132015",
+    "channel": "kupolrussia",
+    "date": "2026-09-22T03:32:15+00:00",
+    "text": "Пензенская область\nСамарская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239253",
+    "channel": "LPRalarm",
+    "date": "2026-09-22T03:32:35+00:00",
+    "text": "Пензенская область\nСамарская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_92874",
+    "channel": "vrv_radar",
+    "date": "2026-09-22T03:41:05+00:00",
+    "text": "Орловская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_86717",
+    "channel": "locatorru",
+    "date": "2026-09-22T03:41:17+00:00",
+    "text": "Орловская область, Московская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239254",
+    "channel": "LPRalarm",
+    "date": "2026-09-22T03:43:51+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132016",
+    "channel": "kupolrussia",
+    "date": "2026-09-22T03:44:31+00:00",
+    "text": "Ростовская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Ростовская область",
     "lat": null,
     "lon": null
   }
