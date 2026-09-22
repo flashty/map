@@ -1,14 +1,4 @@
 {
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Староминская \nНовоминская и близлежащие \nТревога по БПЛА \nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-22T21:06:31+00:00",
-    "expires_at": "2026-09-22T22:06:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -49,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Грязинский район\nУсманский район\nЛипецкая область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-22T20:28:15+00:00",
-    "expires_at": "2026-09-22T21:28:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
@@ -92,11 +72,11 @@
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Рыбновский район\nРязанская область\nФиксация от 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Рыбновский район\nРязанская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-22T21:03:32+00:00",
-    "expires_at": "2026-09-22T22:03:32+00:00",
-    "count": 3,
+    "updated_at": "2026-09-22T21:27:22+00:00",
+    "expires_at": "2026-09-22T22:27:22+00:00",
+    "count": null,
     "count_approx": false
   },
   "тульск": {
@@ -122,10 +102,10 @@
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Бобров\nВоронежская область\nПродолжается работа ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-22T21:04:04+00:00",
-    "expires_at": "2026-09-22T22:04:04+00:00",
+    "text": "Воронежская область, тревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-22T21:16:05+00:00",
+    "expires_at": "2026-09-22T22:16:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -182,10 +162,10 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "МО Егорьевск \nГО Шатура\nМосковская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "ГО Павловский Посад\nГО Шатура\nГО Луховицы\nМО Егорьевск \nМосковская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-22T21:03:02+00:00",
-    "expires_at": "2026-09-22T22:03:02+00:00",
+    "updated_at": "2026-09-22T21:27:04+00:00",
+    "expires_at": "2026-09-22T22:27:04+00:00",
     "count": null,
     "count_approx": false
   },
@@ -202,10 +182,40 @@
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Тамалинский район\nПензенская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Мокшанский район\nПензенская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-22T21:31:06+00:00",
+    "expires_at": "2026-09-22T22:31:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ивановск": {
+    "display_name": "Ивановская область",
+    "type": "drone",
+    "text": "Ивановская область\nВладимирская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-22T21:04:19+00:00",
-    "expires_at": "2026-09-22T22:04:19+00:00",
+    "updated_at": "2026-09-22T21:26:20+00:00",
+    "expires_at": "2026-09-22T22:26:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "drone",
+    "text": "Ивановская область\nВладимирская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-22T21:26:20+00:00",
+    "expires_at": "2026-09-22T22:26:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Красный Луч и близлежащие\nТревога по БПЛА от Дебальцево\nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-22T21:22:20+00:00",
+    "expires_at": "2026-09-22T22:22:20+00:00",
     "count": null,
     "count_approx": false
   }
