@@ -1,27 +1,5 @@
 [
   {
-    "id": "radarrussiia_95108_Козельский",
-    "channel": "radarrussiia",
-    "date": "2026-09-20T22:54:09+00:00",
-    "text": "Хвастовичский район\nЖиздринский район\nДуминичиский район\nКозельский район\nКалужская область\nФиксации групп БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Козельский",
-    "region": "Калужская область",
-    "lat": 54.0330263,
-    "lon": 35.8308211
-  },
-  {
-    "id": "radarrussiia_95109_Белевский",
-    "channel": "radarrussiia",
-    "date": "2026-09-20T22:54:31+00:00",
-    "text": "Белевский район\nЧернский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Белевский",
-    "region": "Тульская область",
-    "lat": 53.761018,
-    "lon": 36.1633658
-  },
-  {
     "id": "radarrussiia_95109_Чернский",
     "channel": "radarrussiia",
     "date": "2026-09-20T22:54:31+00:00",
@@ -21996,6 +21974,28 @@
     "type": "alert",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239266",
+    "channel": "LPRalarm",
+    "date": "2026-09-22T05:43:18+00:00",
+    "text": "Курская область и близлежащие \nАвиационно ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132023",
+    "channel": "kupolrussia",
+    "date": "2026-09-22T05:43:43+00:00",
+    "text": "Курская область и близлежащие\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }

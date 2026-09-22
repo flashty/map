@@ -1,14 +1,4 @@
 {
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "ЛДНР Запорожская область РФ \nАвиационно ракетно бомбовая опасность",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-22T04:35:39+00:00",
-    "expires_at": "2026-09-22T05:35:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -16,6 +6,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-22T05:01:14+00:00",
     "expires_at": "2026-09-22T06:01:14+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "alert",
+    "text": "Курская область и близлежащие\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-22T05:43:43+00:00",
+    "expires_at": "2026-09-22T06:43:43+00:00",
     "count": null,
     "count_approx": false
   }
