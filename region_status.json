@@ -79,26 +79,6 @@
     "count": null,
     "count_approx": false
   },
-  "-": {
-    "display_name": "Республика -",
-    "type": "drone",
-    "text": "Чувашская Республика - опасность по БПЛА от Нижегородской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-22T00:07:47+00:00",
-    "expires_at": "2026-09-22T01:07:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "кировск": {
-    "display_name": "Кировская область",
-    "type": "drone",
-    "text": "Кировская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-22T00:14:31+00:00",
-    "expires_at": "2026-09-22T01:14:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "чуваш": {
     "display_name": "Республика Чувашия",
     "type": "drone",
@@ -213,9 +193,19 @@
     "display_name": "Республика Крым",
     "type": "drone",
     "text": "Ленинский район \nКировский район\nНижнегорский район\nЧауда \nФеодосия \nКерченский полуостров \nТревога по БПЛА\nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-22T01:05:11+00:00",
-    "expires_at": "2026-09-22T02:05:11+00:00",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-22T01:05:32+00:00",
+    "expires_at": "2026-09-22T02:05:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "самарск": {
+    "display_name": "Самарская область",
+    "type": "drone",
+    "text": "Ольгино, Безенчукский район, Самарская область - в вашу сторону фиксации БПЛА от Тополёк. Возможно далее на Новокуйбышевск.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-22T01:07:58+00:00",
+    "expires_at": "2026-09-22T02:07:58+00:00",
     "count": null,
     "count_approx": false
   }

@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-22T00:37:23+00:00",
+        "last_updated": "2026-09-22T01:07:58+00:00",
+        "path_labels": [
+          "Приволжский (Самарская область)",
+          "Ольгино (Самарская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.4219881,
+            53.0818536
+          ],
+          [
+            49.1196155,
+            52.8743243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-22T00:39:51+00:00",
+        "last_updated": "2026-09-22T01:07:58+00:00",
+        "path_labels": [
+          "Новокуйбышевск (Самарская область)",
+          "Безенчукский (Самарская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.948364,
+            53.099243
+          ],
+          [
+            49.2578128,
+            52.9893625
+          ]
+        ]
+      }
+    }
+  ]
 }
