@@ -9,23 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Дебальцево и близлежащие\nТревога по БПЛА\nИ далее на Восток\nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-22T21:14:36+00:00",
-    "expires_at": "2026-09-22T22:14:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
-    "text": "Ртищево, Бакуры, Петровск, Саратовская область - внимание по пролётам БПЛА на северо-восток, восток. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-22T21:58:45+00:00",
-    "expires_at": "2026-09-22T22:58:45+00:00",
+    "text": "Саратовский район\nЕкатериновский район\nСаратовская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-22T22:10:53+00:00",
+    "expires_at": "2026-09-22T23:10:53+00:00",
     "count": null,
     "count_approx": false
   },
@@ -79,16 +69,6 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Акимовка \nГирсовка \nЕфремовка \nКирилловка и близлежащие \nЗапорожская область РФ \nТревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-22T21:10:09+00:00",
-    "expires_at": "2026-09-22T22:10:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "воронежск": {
     "display_name": "Воронежской области",
     "type": "drone",
@@ -119,16 +99,6 @@
     "count": null,
     "count_approx": false
   },
-  "нижегородск": {
-    "display_name": "Нижегородская область",
-    "type": "drone",
-    "text": "Нижегородская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-22T21:08:47+00:00",
-    "expires_at": "2026-09-22T22:08:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ульяновск": {
     "display_name": "Ульяновская область",
     "type": "drone",
@@ -149,23 +119,13 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Рыково и близлежащие \nХерсонская область РФ\nТревога по БПЛА \nДалее возможно через Геническ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-22T21:11:29+00:00",
-    "expires_at": "2026-09-22T22:11:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "пензенск": {
-    "display_name": "Пензенской области",
+    "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Павловка, Старая Кулатка, Радищево, Николаевка, Новоспасское, Ульяновская область - опасность по БПЛА от Кузнецк, Неверкинский, Пензенской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-22T22:02:26+00:00",
-    "expires_at": "2026-09-22T23:02:26+00:00",
+    "text": "Иссинский район\nПензенская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-22T22:11:30+00:00",
+    "expires_at": "2026-09-22T23:11:30+00:00",
     "count": null,
     "count_approx": false
   },
@@ -242,10 +202,20 @@
   "опаснос": {
     "display_name": "Республика\nОпасность",
     "type": "drone",
-    "text": "Чувашская Республика\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-22T22:03:40+00:00",
-    "expires_at": "2026-09-22T23:03:40+00:00",
+    "text": "Чувашская Республика\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-22T22:04:10+00:00",
+    "expires_at": "2026-09-22T23:04:10+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Чувашская Республика, Республика Татарстан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-22T22:07:10+00:00",
+    "expires_at": "2026-09-22T23:07:10+00:00",
     "count": null,
     "count_approx": false
   }
