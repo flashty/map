@@ -59,16 +59,6 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "ЛНР. Угроза атаки БПЛА. \nВ границах муниципальных округов: Краснодонский, Лутугинский, Славяносербский, и городов Луганск, Брянка, Кировск, Стаханов, Первомайск\n\nРСЧС",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-21T23:52:01+00:00",
-    "expires_at": "2026-09-22T00:52:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -216,6 +206,16 @@
     "channel": "locatorru",
     "updated_at": "2026-09-22T00:24:01+00:00",
     "expires_at": "2026-09-22T01:24:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Феодосия и близлежащие\nТревога по БПЛА\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-22T00:49:24+00:00",
+    "expires_at": "2026-09-22T01:49:24+00:00",
     "count": null,
     "count_approx": false
   }
