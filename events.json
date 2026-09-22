@@ -1,16 +1,5 @@
 [
   {
-    "id": "vrv_radar_92534_Щёкинский",
-    "channel": "vrv_radar",
-    "date": "2026-09-21T00:29:08+00:00",
-    "text": "Щёкинский район\nТульская область\nФиксация 2 БПЛА",
-    "type": "drone",
-    "location_name": "Щёкинский",
-    "region": "Тульская область",
-    "lat": 53.8906918,
-    "lon": 37.3865251
-  },
-  {
     "id": "locatorru_86553",
     "channel": "locatorru",
     "date": "2026-09-21T00:29:09+00:00",
@@ -21996,6 +21985,17 @@
     "type": "drone",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239311",
+    "channel": "LPRalarm",
+    "date": "2026-09-22T08:51:44+00:00",
+    "text": "дорога Первомайск - Попасное \nЛНР \nОпасность по фпв",
+    "type": "alert",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }

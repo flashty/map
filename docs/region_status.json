@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Север\nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-22T08:00:12+00:00",
-    "expires_at": "2026-09-22T09:00:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
@@ -36,26 +26,6 @@
     "channel": "vrv_radar",
     "updated_at": "2026-09-22T08:34:44+00:00",
     "expires_at": "2026-09-22T09:34:44+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Краснодарский край \nРеспублика Адыгея \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-22T07:53:53+00:00",
-    "expires_at": "2026-09-22T08:53:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Скадовский район и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-22T08:00:35+00:00",
-    "expires_at": "2026-09-22T09:00:35+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +56,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-22T08:29:41+00:00",
     "expires_at": "2026-09-22T09:29:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "alert",
+    "text": "дорога Первомайск - Попасное \nЛНР \nОпасность по фпв",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-22T08:51:44+00:00",
+    "expires_at": "2026-09-22T09:51:44+00:00",
     "count": null,
     "count_approx": false
   }
