@@ -1,71 +1,5 @@
 [
   {
-    "id": "locatorru_86560",
-    "channel": "locatorru",
-    "date": "2026-09-21T01:03:46+00:00",
-    "text": "Калужская область, Тульская область, Московская область - ракетная опасность от Орловской области. \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_95182",
-    "channel": "radarrussiia",
-    "date": "2026-09-21T01:04:07+00:00",
-    "text": "Тульская область\nМосковская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "missile",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_86561",
-    "channel": "locatorru",
-    "date": "2026-09-21T01:05:24+00:00",
-    "text": "Алымова, Карачевский район, Брянская область - фиксации БПЛА в сторону Хотынец, Орловской области.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_92562_Мелекесский",
-    "channel": "vrv_radar",
-    "date": "2026-09-21T01:05:40+00:00",
-    "text": "Мелекесский район\nУльяновская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Мелекесский",
-    "region": "Ульяновская область",
-    "lat": 54.1903129,
-    "lon": 49.27001
-  },
-  {
-    "id": "radarrussiia_95183_Мелекесский",
-    "channel": "radarrussiia",
-    "date": "2026-09-21T01:07:27+00:00",
-    "text": "Мелекесский район\nУльяновская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Мелекесский",
-    "region": "Ульяновская область",
-    "lat": 54.1903129,
-    "lon": 49.27001
-  },
-  {
-    "id": "vrv_radar_92563",
-    "channel": "vrv_radar",
-    "date": "2026-09-21T01:10:26+00:00",
-    "text": "Московская область\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_86562",
     "channel": "locatorru",
     "date": "2026-09-21T01:10:59+00:00",
@@ -21996,6 +21930,72 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239355",
+    "channel": "LPRalarm",
+    "date": "2026-09-22T12:03:29+00:00",
+    "text": "Краснодарский край отбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_92899",
+    "channel": "vrv_radar",
+    "date": "2026-09-22T12:03:42+00:00",
+    "text": "Краснодарский край \nРеспублика Адыгея \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132098",
+    "channel": "kupolrussia",
+    "date": "2026-09-22T12:03:44+00:00",
+    "text": "Краснодарский край",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239356",
+    "channel": "LPRalarm",
+    "date": "2026-09-22T12:04:29+00:00",
+    "text": "Весёлое и близлежащие тревога по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132099",
+    "channel": "kupolrussia",
+    "date": "2026-09-22T12:05:04+00:00",
+    "text": "Весёлое и близлежащие \nЗапорожская область РФ\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239357",
+    "channel": "LPRalarm",
+    "date": "2026-09-22T12:10:16+00:00",
+    "text": "Наши дорогие близкие!\nСпасибо огромное за поддержку нашей деятельности \n❤️❤️❤️\nhttps://pay.cloudtips.ru/p/f2a9c1d8",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
