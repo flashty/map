@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_92561",
-    "channel": "vrv_radar",
-    "date": "2026-09-21T01:02:41+00:00",
-    "text": "Калужская область\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_95179_Рязанский",
-    "channel": "radarrussiia",
-    "date": "2026-09-21T01:02:51+00:00",
-    "text": "Рязанский район\nРязанская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Рязанский",
-    "region": "Рязанская область",
-    "lat": 54.6295687,
-    "lon": 39.7425039
-  },
-  {
-    "id": "radarrussiia_95180_Цильнинский",
-    "channel": "radarrussiia",
-    "date": "2026-09-21T01:03:16+00:00",
-    "text": "Цильнинский район \nУльяновская область \nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Цильнинский",
-    "region": "Ульяновская область",
-    "lat": 54.5559383,
-    "lon": 47.9448547
-  },
-  {
-    "id": "radarrussiia_95181",
-    "channel": "radarrussiia",
-    "date": "2026-09-21T01:03:34+00:00",
-    "text": "Калужская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "missile",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_86560",
     "channel": "locatorru",
     "date": "2026-09-21T01:03:46+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132096",
+    "channel": "kupolrussia",
+    "date": "2026-09-22T11:46:08+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239354",
+    "channel": "LPRalarm",
+    "date": "2026-09-22T11:46:20+00:00",
+    "text": "Новогродовка и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132097",
+    "channel": "kupolrussia",
+    "date": "2026-09-22T11:46:34+00:00",
+    "text": "Новогродовка и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_92898",
+    "channel": "vrv_radar",
+    "date": "2026-09-22T11:47:20+00:00",
+    "text": "Сочи и близлежащие \nКраснодарский край \nОтбой опасности по БПЛА \nНа территории края опасность сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }

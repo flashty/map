@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ \nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-22T11:45:46+00:00",
-    "expires_at": "2026-09-22T12:45:46+00:00",
+    "text": "Новогродовка и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-22T11:46:34+00:00",
+    "expires_at": "2026-09-22T12:46:34+00:00",
     "count": null,
     "count_approx": false
   },
@@ -16,26 +16,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-22T11:29:05+00:00",
     "expires_at": "2026-09-22T12:29:05+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "alert",
-    "text": "Сочи и близлежащие \nКраснодарский край \nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-22T11:40:46+00:00",
-    "expires_at": "2026-09-22T12:40:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянская область \nОпасность по реактивным БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-22T10:53:27+00:00",
-    "expires_at": "2026-09-22T11:53:27+00:00",
     "count": null,
     "count_approx": false
   },
