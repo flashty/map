@@ -1,34 +1,4 @@
 {
-  "самарск": {
-    "display_name": "Самарскую область",
-    "type": "drone",
-    "text": "Все БПЛА прошли Самарскую область в направлении Ульяновской области и Республики Татарстан.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-09-22T02:12:35+00:00",
-    "expires_at": "2026-09-22T03:12:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "татарст": {
-    "display_name": "Республики Татарстан",
-    "type": "drone",
-    "text": "Все БПЛА прошли Самарскую область в направлении Ульяновской области и Республики Татарстан.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-09-22T02:12:35+00:00",
-    "expires_at": "2026-09-22T03:12:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ульяновск": {
-    "display_name": "Ульяновской области",
-    "type": "drone",
-    "text": "Все БПЛА прошли Самарскую область в направлении Ульяновской области и Республики Татарстан.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-09-22T02:12:35+00:00",
-    "expires_at": "2026-09-22T03:12:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -36,6 +6,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-22T02:24:07+00:00",
     "expires_at": "2026-09-22T03:24:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Лисичанск м близлежащие\nТревога по БПЛА Хорнет\nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-22T03:06:19+00:00",
+    "expires_at": "2026-09-22T04:06:19+00:00",
     "count": null,
     "count_approx": false
   }
