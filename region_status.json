@@ -1,14 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Новогродовка и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-22T11:46:34+00:00",
-    "expires_at": "2026-09-22T12:46:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -26,6 +16,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-22T12:28:49+00:00",
     "expires_at": "2026-09-22T13:28:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Запад Республика Крым опасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-22T12:53:08+00:00",
+    "expires_at": "2026-09-22T13:53:08+00:00",
     "count": null,
     "count_approx": false
   }
