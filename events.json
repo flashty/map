@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_238848_Дубовое",
-    "channel": "LPRalarm",
-    "date": "2026-09-20T22:20:34+00:00",
-    "text": "Дубовое\nБелгородская область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Дубовое",
-    "region": "Белгородская область",
-    "lat": 50.5375923,
-    "lon": 36.5846443
-  },
-  {
-    "id": "kupolrussia_131672_Дубовое",
-    "channel": "kupolrussia",
-    "date": "2026-09-20T22:20:36+00:00",
-    "text": "Дубовое\nБелгородская область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Дубовое",
-    "region": "Белгородская область",
-    "lat": 50.5375923,
-    "lon": 36.5846443
-  },
-  {
-    "id": "LPRalarm_238849_Золотухинский",
-    "channel": "LPRalarm",
-    "date": "2026-09-20T22:23:29+00:00",
-    "text": "Золотухинский район, Свобода\nФатеж\n Апальково и близлежащие опасность по БПЛА \nКурская область",
-    "type": "drone",
-    "location_name": "Золотухинский",
-    "region": "Курская область",
-    "lat": 52.038611,
-    "lon": 36.3621685
-  },
-  {
     "id": "LPRalarm_238850",
     "channel": "LPRalarm",
     "date": "2026-09-20T22:27:02+00:00",
@@ -21996,6 +21963,39 @@
     "type": "unknown",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239255",
+    "channel": "LPRalarm",
+    "date": "2026-09-22T03:50:13+00:00",
+    "text": "Феодосия и близлежащие\nТревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132017",
+    "channel": "kupolrussia",
+    "date": "2026-09-22T03:50:55+00:00",
+    "text": "Феодосия и близлежащие\nТревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_95425",
+    "channel": "radarrussiia",
+    "date": "2026-09-22T04:00:52+00:00",
+    "text": "Орловская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская область",
     "lat": null,
     "lon": null
   }
