@@ -1,104 +1,5 @@
 [
   {
-    "id": "radarrussiia_95109_Чернский",
-    "channel": "radarrussiia",
-    "date": "2026-09-20T22:54:31+00:00",
-    "text": "Белевский район\nЧернский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Чернский",
-    "region": "Тульская область",
-    "lat": 53.4524281,
-    "lon": 36.9095591
-  },
-  {
-    "id": "vrv_radar_92481_Турковский",
-    "channel": "vrv_radar",
-    "date": "2026-09-20T22:54:42+00:00",
-    "text": "Турковский район\nСаратовская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Турковский",
-    "region": "Саратовская область",
-    "lat": 52.1096665,
-    "lon": 43.0360147
-  },
-  {
-    "id": "radarrussiia_95110_Залегощенский",
-    "channel": "radarrussiia",
-    "date": "2026-09-20T22:54:49+00:00",
-    "text": "Залегощенский район\nОрловская область\nФиксация 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Залегощенский",
-    "region": "Орловская область",
-    "lat": 52.7558806,
-    "lon": 36.9500702
-  },
-  {
-    "id": "radarrussiia_95111_Новоусманский",
-    "channel": "radarrussiia",
-    "date": "2026-09-20T22:55:08+00:00",
-    "text": "Новоусманский район\nВоронежская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Новоусманский",
-    "region": "Воронежская область",
-    "lat": 51.717129,
-    "lon": 39.49049
-  },
-  {
-    "id": "radarrussiia_95112_Турковский",
-    "channel": "radarrussiia",
-    "date": "2026-09-20T22:55:28+00:00",
-    "text": "Турковский район\nСаратовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Турковский",
-    "region": "Саратовская область",
-    "lat": 52.1096665,
-    "lon": 43.0360147
-  },
-  {
-    "id": "vrv_radar_92482_Алексин",
-    "channel": "vrv_radar",
-    "date": "2026-09-20T22:57:15+00:00",
-    "text": "Алексин\nТульская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Алексин",
-    "region": "Тульская область",
-    "lat": 54.5028103,
-    "lon": 37.0667213
-  },
-  {
-    "id": "radarrussiia_95113_Алексин",
-    "channel": "radarrussiia",
-    "date": "2026-09-20T22:57:28+00:00",
-    "text": "Алексин\nТульская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Алексин",
-    "region": "Тульская область",
-    "lat": 54.5028103,
-    "lon": 37.0667213
-  },
-  {
-    "id": "vrv_radar_92483_Калуга",
-    "channel": "vrv_radar",
-    "date": "2026-09-20T22:59:30+00:00",
-    "text": "Калуга\nКалужская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Калуга",
-    "region": "Калужская область",
-    "lat": 54.5101087,
-    "lon": 36.2598115
-  },
-  {
-    "id": "radarrussiia_95114_Калуга",
-    "channel": "radarrussiia",
-    "date": "2026-09-20T22:59:42+00:00",
-    "text": "Калуга\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Калуга",
-    "region": "Калужская область",
-    "lat": 54.5101087,
-    "lon": 36.2598115
-  },
-  {
     "id": "LPRalarm_238853",
     "channel": "LPRalarm",
     "date": "2026-09-20T23:00:05+00:00",
@@ -21996,6 +21897,105 @@
     "type": "alert",
     "location_name": null,
     "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_92881",
+    "channel": "vrv_radar",
+    "date": "2026-09-22T05:46:10+00:00",
+    "text": "Ульяновская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_92882",
+    "channel": "vrv_radar",
+    "date": "2026-09-22T05:46:16+00:00",
+    "text": "Республика Татарстан\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Татарстан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_92883",
+    "channel": "vrv_radar",
+    "date": "2026-09-22T05:46:32+00:00",
+    "text": "Республика Марий Эл\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Марий",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_92884",
+    "channel": "vrv_radar",
+    "date": "2026-09-22T05:46:38+00:00",
+    "text": "Республика Чувашия\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Чувашия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_92885",
+    "channel": "vrv_radar",
+    "date": "2026-09-22T05:47:32+00:00",
+    "text": "Кировская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Кировская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_92886",
+    "channel": "vrv_radar",
+    "date": "2026-09-22T05:47:49+00:00",
+    "text": "Отбой опасности и внимания по БПЛА по ранее объявленным регионам\nСпасибо ПВО 🤍",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132024",
+    "channel": "kupolrussia",
+    "date": "2026-09-22T05:49:15+00:00",
+    "text": "Республика Чувашия \nРеспублика Татарстан \nУльяновская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Республика Чувашия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239267",
+    "channel": "LPRalarm",
+    "date": "2026-09-22T05:49:23+00:00",
+    "text": "Республика Чувашия \nРеспублика Татарстан \nУльяновская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Республика Чувашия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_95428",
+    "channel": "radarrussiia",
+    "date": "2026-09-22T05:57:32+00:00",
+    "text": "Отбой опасности и внимания по БПЛА по ранее объявленным регионам.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
