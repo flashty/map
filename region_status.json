@@ -39,23 +39,13 @@
     "count": null,
     "count_approx": false
   },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Керчь и близлежащие тревога по БПЛА \nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-22T22:39:28+00:00",
-    "expires_at": "2026-09-22T23:39:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Сириус и близлежащие\nКраснодарский край\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-22T23:30:57+00:00",
-    "expires_at": "2026-09-23T00:30:57+00:00",
+    "text": "Анапа и ближайшие, тревога по БПЛА сохраняется\nКраснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-22T23:45:27+00:00",
+    "expires_at": "2026-09-23T00:45:27+00:00",
     "count": null,
     "count_approx": false
   },
@@ -87,6 +77,26 @@
     "updated_at": "2026-09-22T23:16:21+00:00",
     "expires_at": "2026-09-23T00:16:21+00:00",
     "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Нижнекамск и близлежащие\nНабережные Челны и близлежащие\nЕлабуга и близлежащие\nРеспублика Татарстан\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-22T23:37:25+00:00",
+    "expires_at": "2026-09-23T00:37:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ульяновск": {
+    "display_name": "Ульяновская область",
+    "type": "drone",
+    "text": "Кузоватовский район\nУльяновская область\nФиксация от 4 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-22T23:35:51+00:00",
+    "expires_at": "2026-09-23T00:35:51+00:00",
+    "count": 4,
     "count_approx": false
   }
 }
