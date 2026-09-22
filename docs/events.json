@@ -1,60 +1,5 @@
 [
   {
-    "id": "radarrussiia_95164_Краснокутский",
-    "channel": "radarrussiia",
-    "date": "2026-09-21T00:47:59+00:00",
-    "text": "Питерский район\nКраснокутский район\nСаратовская область\nФиксация от 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Краснокутский",
-    "region": "Саратовская область",
-    "lat": 50.8652774,
-    "lon": 46.9679154
-  },
-  {
-    "id": "kupolrussia_131680",
-    "channel": "kupolrussia",
-    "date": "2026-09-21T00:48:06+00:00",
-    "text": "Республика Татарстан \nопасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Татарстан",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_238859",
-    "channel": "LPRalarm",
-    "date": "2026-09-21T00:48:12+00:00",
-    "text": "Республика Татарстан \nопасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Татарстан",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_95165_Николаевский",
-    "channel": "radarrussiia",
-    "date": "2026-09-21T00:48:20+00:00",
-    "text": "Николаевский район\nУльяновская область\nФиксация 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Николаевский",
-    "region": "Ульяновская область",
-    "lat": 53.1039795,
-    "lon": 47.2565168
-  },
-  {
-    "id": "radarrussiia_95167_Большеберезниковский",
-    "channel": "radarrussiia",
-    "date": "2026-09-21T00:49:23+00:00",
-    "text": "Большеберезниковский район\nРеспублика Мордовия\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Большеберезниковский",
-    "region": "Республика Мордовия",
-    "lat": 54.1989629,
-    "lon": 45.9636087
-  },
-  {
     "id": "radarrussiia_95168_Кузнецкий",
     "channel": "radarrussiia",
     "date": "2026-09-21T00:49:40+00:00",
@@ -21996,6 +21941,61 @@
     "type": "unknown",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239336",
+    "channel": "LPRalarm",
+    "date": "2026-09-22T10:16:50+00:00",
+    "text": "Первомайск \nЗолотое и близлежащие \nЛНР \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132082",
+    "channel": "kupolrussia",
+    "date": "2026-09-22T10:18:18+00:00",
+    "text": "Первомайск \nЗолотое и близлежащие \nЛНР \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239337",
+    "channel": "LPRalarm",
+    "date": "2026-09-22T10:18:22+00:00",
+    "text": "Херсонская область РФ \nЗапорожская область РФ \nЛДНР \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132083",
+    "channel": "kupolrussia",
+    "date": "2026-09-22T10:20:07+00:00",
+    "text": "Херсонская область РФ \nЗапорожская область РФ \nЛДНР\nВНИМАНИЕ!!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_92894",
+    "channel": "vrv_radar",
+    "date": "2026-09-22T10:22:36+00:00",
+    "text": "Сочи и близлежащие \nКраснодарский край \nМеры безопасности",
+    "type": "alert",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
