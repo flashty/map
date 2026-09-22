@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Краснодарский край \nРеспублика Адыгея \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-22T09:49:56+00:00",
-    "expires_at": "2026-09-22T10:49:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -56,6 +46,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-09-22T10:22:36+00:00",
     "expires_at": "2026-09-22T11:22:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область \nОпасность по реактивным БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-22T10:53:27+00:00",
+    "expires_at": "2026-09-22T11:53:27+00:00",
     "count": null,
     "count_approx": false
   }
