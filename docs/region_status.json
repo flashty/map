@@ -1,14 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ сохраняется, ещё фиксации \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-23T12:04:28+00:00",
-    "expires_at": "2026-09-23T13:04:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -16,6 +6,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-23T12:56:57+00:00",
     "expires_at": "2026-09-23T13:56:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "alert",
+    "text": "Белая Берёзка тревога РСЗО в укрытия!\nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-23T13:12:27+00:00",
+    "expires_at": "2026-09-23T14:12:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородской области",
+    "type": "drone",
+    "text": "Приграничные районы Брянской области, Белгородской области - опасность по БПЛА самолётного типа. Опасность по FPV-дронам на высоком уровне. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-23T13:09:01+00:00",
+    "expires_at": "2026-09-23T14:09:01+00:00",
     "count": null,
     "count_approx": false
   }
