@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_239315",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T09:08:42+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132064",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T09:09:08+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_239316",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T09:09:49+00:00",
-    "text": "Орловская область \nОрёл и близлежащие \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132065",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T09:10:51+00:00",
-    "text": "Орловская область \nОрёл и близлежащие\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_239317",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T09:12:55+00:00",
-    "text": "Шахтёрск и близлежащие \nДНР \nОпасность по БПЛА \nОсобое внимание трасса",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_132066",
     "channel": "kupolrussia",
     "date": "2026-09-22T09:13:06+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Брянская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_239722",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T09:33:34+00:00",
+    "text": "В районе объездной Каланчак фиксация БПЛА Хорнет \n\nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132412",
+    "channel": "kupolrussia",
+    "date": "2026-09-23T09:33:51+00:00",
+    "text": "В районе объездной Каланчак фиксация БПЛА Хорнет \n\nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_93230",
+    "channel": "vrv_radar",
+    "date": "2026-09-23T09:35:17+00:00",
+    "text": "Благодарим тех кто участвует в сборе❤️\n\nСобрано:  126.806 из 215.000₽\n\nСсылки для перевода: \nhttps://pay.cloudtips.ru/p/0376bf3f",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239723",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T09:39:10+00:00",
+    "text": "Севастополь \nЮБК и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132413_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-09-23T09:39:31+00:00",
+    "text": "Севастополь \nЮБК и близлежащие\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
   }
 ]
