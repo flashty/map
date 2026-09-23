@@ -9,36 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "удмурт": {
-    "display_name": "Республика Удмуртия",
-    "type": "drone",
-    "text": "Каракулинский район\nРеспублика Удмуртия\nФиксация 2 БПЛА в направлении республики Башкортостан",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-23T04:53:54+00:00",
-    "expires_at": "2026-09-23T05:53:54+00:00",
-    "count": 2,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Скадовский район и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-23T04:52:25+00:00",
-    "expires_at": "2026-09-23T05:52:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "оренбургск": {
-    "display_name": "Оренбургская область",
-    "type": "drone",
-    "text": "Северный район\nОренбургская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-23T04:55:10+00:00",
-    "expires_at": "2026-09-23T05:55:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -56,6 +26,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-23T05:30:32+00:00",
     "expires_at": "2026-09-23T06:30:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "челябинск": {
+    "display_name": "Челябинская область",
+    "type": "drone",
+    "text": "Магнитогорск, Челябинская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-23T05:46:05+00:00",
+    "expires_at": "2026-09-23T06:46:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Красная яруга\nТревога по БПЛА \nБелгородская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-23T05:59:04+00:00",
+    "expires_at": "2026-09-23T06:59:04+00:00",
     "count": null,
     "count_approx": false
   }
