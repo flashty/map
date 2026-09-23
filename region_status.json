@@ -49,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Ростовская область\nопасность по БПЛА сохраняется",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-23T21:28:43+00:00",
-    "expires_at": "2026-09-23T22:28:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "адыгея": {
     "display_name": "Республика Адыгея",
     "type": "drone",
@@ -66,6 +56,36 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-23T21:33:22+00:00",
     "expires_at": "2026-09-23T22:33:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Смоленская область, Тверская область, Новгородская область - опасность по БПЛА от Брянской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-23T21:51:54+00:00",
+    "expires_at": "2026-09-23T22:51:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Смоленская область, Тверская область, Новгородская область - опасность по БПЛА от Брянской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-23T21:51:54+00:00",
+    "expires_at": "2026-09-23T22:51:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "новгородск": {
+    "display_name": "Новгородская область",
+    "type": "drone",
+    "text": "Смоленская область, Тверская область, Новгородская область - опасность по БПЛА от Брянской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-23T21:51:54+00:00",
+    "expires_at": "2026-09-23T22:51:54+00:00",
     "count": null,
     "count_approx": false
   }
