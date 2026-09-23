@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_239313",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T09:06:22+00:00",
-    "text": "Пески, Донецк и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132062",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T09:06:42+00:00",
-    "text": "Пески, Донецк и близлежащие \nДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_239314",
     "channel": "LPRalarm",
     "date": "2026-09-22T09:07:11+00:00",
@@ -21996,6 +21974,28 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239720",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T09:07:59+00:00",
+    "text": "Курская область и близлежащие Авиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132410",
+    "channel": "kupolrussia",
+    "date": "2026-09-23T09:08:22+00:00",
+    "text": "Курская область и близлежащие\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }

@@ -1,14 +1,4 @@
 {
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "shelling",
-    "text": "Белая Березка обстрел окраины \n\nБрянская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-23T08:05:52+00:00",
-    "expires_at": "2026-09-23T09:05:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -26,6 +16,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-23T08:47:05+00:00",
     "expires_at": "2026-09-23T09:47:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "alert",
+    "text": "Курская область и близлежащие\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-23T09:08:22+00:00",
+    "expires_at": "2026-09-23T10:08:22+00:00",
     "count": null,
     "count_approx": false
   }
