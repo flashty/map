@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_239344_Шебекинский",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T11:03:22+00:00",
-    "text": "Сурково, Первое Цепляево, Червоно Диборовка Большетроица \nТревога по БПЛА\nШебекинский район",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "LPRalarm_239344_Сурково",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T11:03:22+00:00",
-    "text": "Сурково, Первое Цепляево, Червоно Диборовка Большетроица \nТревога по БПЛА\nШебекинский район",
-    "type": "drone",
-    "location_name": "Сурково",
-    "region": null,
-    "lat": 58.99564,
-    "lon": 38.33205
-  },
-  {
-    "id": "LPRalarm_239344_Первое Цепляево",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T11:03:22+00:00",
-    "text": "Сурково, Первое Цепляево, Червоно Диборовка Большетроица \nТревога по БПЛА\nШебекинский район",
-    "type": "drone",
-    "location_name": "Первое Цепляево",
-    "region": null,
-    "lat": 50.4987439,
-    "lon": 37.2562838
-  },
-  {
-    "id": "kupolrussia_132088_Шебекинский",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T11:03:40+00:00",
-    "text": "Сурково, Первое Цепляево, Червоно Диборовка Большетроица \nШебекинский район\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "kupolrussia_132088_Сурково",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T11:03:40+00:00",
-    "text": "Сурково, Первое Цепляево, Червоно Диборовка Большетроица \nШебекинский район\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Сурково",
-    "region": null,
-    "lat": 58.99564,
-    "lon": 38.33205
-  },
-  {
     "id": "kupolrussia_132088_Первое Цепляево",
     "channel": "kupolrussia",
     "date": "2026-09-22T11:03:40+00:00",
@@ -21996,6 +21941,61 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239738",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T11:04:06+00:00",
+    "text": "Отбой ракетной опасности по всем ранее объявленным",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239739",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T11:05:28+00:00",
+    "text": "Севастополь и близлежащие \nОтбой беспилотной опасности по ранее объявленным",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239740",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T11:08:17+00:00",
+    "text": "Запад Крыма \nТарханкут и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239741",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T11:08:18+00:00",
+    "text": "Тарханкут и близлежащие \nОпасность по БПЛА \n\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239742",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T11:10:02+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ повторно \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
