@@ -1,24 +1,4 @@
 {
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Льгов и близлежащие \nКурская область \nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-23T16:48:53+00:00",
-    "expires_at": "2026-09-23T17:48:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Добрушино\nСуворовское\nМолочное\nЗаозёрное\nИ близлежащие\nТревога по БПЛА сохраняется\nСоблюдайте меры безопасности\nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-23T17:30:55+00:00",
-    "expires_at": "2026-09-23T18:30:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -26,6 +6,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-23T17:23:46+00:00",
     "expires_at": "2026-09-23T18:23:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "missile",
+    "text": "Республика Крым \nСевастополь\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-23T17:40:11+00:00",
+    "expires_at": "2026-09-23T18:40:11+00:00",
     "count": null,
     "count_approx": false
   }
