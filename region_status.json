@@ -1,14 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Донецк, Еленовка, Докучаевск, Волноваха и близлежащие \nДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-23T08:47:05+00:00",
-    "expires_at": "2026-09-23T09:47:05+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "alert",
@@ -21,11 +11,11 @@
   },
   "брянск": {
     "display_name": "Брянская область",
-    "type": "missile",
-    "text": "Брянская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-23T09:25:47+00:00",
-    "expires_at": "2026-09-23T10:25:47+00:00",
+    "type": "drone",
+    "text": "Брянская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-23T09:58:55+00:00",
+    "expires_at": "2026-09-23T10:58:55+00:00",
     "count": null,
     "count_approx": false
   },

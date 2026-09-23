@@ -1,115 +1,5 @@
 [
   {
-    "id": "kupolrussia_132068",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T09:22:05+00:00",
-    "text": "От Чугуево уабы\nХарьковская область РФ",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Харьковская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_239322",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T09:24:05+00:00",
-    "text": "От Чугуева уабы\nХарьковская область РФ",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Харьковская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_239323",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T09:24:54+00:00",
-    "text": "Шебекино УАБ",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_239324_Тишанка",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T09:25:40+00:00",
-    "text": "Тишанка, Волчья Бгд уабы",
-    "type": "unknown",
-    "location_name": "Тишанка",
-    "region": null,
-    "lat": 50.194183,
-    "lon": 43.35508
-  },
-  {
-    "id": "LPRalarm_239325_Тишанка",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T09:25:42+00:00",
-    "text": "Тишанка, Волчья\n Бгд уабы",
-    "type": "unknown",
-    "location_name": "Тишанка",
-    "region": null,
-    "lat": 50.194183,
-    "lon": 43.35508
-  },
-  {
-    "id": "kupolrussia_132069",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T09:25:55+00:00",
-    "text": "Шебекино УАБ\nБелгородская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132070_Тишанка",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T09:26:01+00:00",
-    "text": "Тишанка, Волчья Бгд уабы",
-    "type": "unknown",
-    "location_name": "Тишанка",
-    "region": null,
-    "lat": 50.194183,
-    "lon": 43.35508
-  },
-  {
-    "id": "kupolrussia_132071_Тишанка",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T09:26:08+00:00",
-    "text": "Тишанка, Волчья\n Бгд уабы",
-    "type": "unknown",
-    "location_name": "Тишанка",
-    "region": null,
-    "lat": 50.194183,
-    "lon": 43.35508
-  },
-  {
-    "id": "LPRalarm_239326_Волчанск",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T09:26:32+00:00",
-    "text": "Уабы в  направлении Волчанск",
-    "type": "unknown",
-    "location_name": "Волчанск",
-    "region": null,
-    "lat": 59.9347177,
-    "lon": 60.0779677
-  },
-  {
-    "id": "kupolrussia_132072_Волчанск",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T09:26:49+00:00",
-    "text": "Уабы в  направлении Волчанск",
-    "type": "unknown",
-    "location_name": "Волчанск",
-    "region": null,
-    "lat": 59.9347177,
-    "lon": 60.0779677
-  },
-  {
     "id": "LPRalarm_239327",
     "channel": "LPRalarm",
     "date": "2026-09-22T09:32:33+00:00",
@@ -21998,5 +21888,115 @@
     "region": null,
     "lat": 53.456383,
     "lon": 35.186371
+  },
+  {
+    "id": "LPRalarm_239725",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T09:47:53+00:00",
+    "text": "Балаклава\nСевастополь \nС юга опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132415_Балаклава",
+    "channel": "kupolrussia",
+    "date": "2026-09-23T09:48:14+00:00",
+    "text": "Балаклава\nСевастополь \nС юга\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Балаклава",
+    "region": null,
+    "lat": 55.7630085,
+    "lon": 37.6542418
+  },
+  {
+    "id": "kupolrussia_132415_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-09-23T09:48:14+00:00",
+    "text": "Балаклава\nСевастополь \nС юга\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "locatorru_86915",
+    "channel": "locatorru",
+    "date": "2026-09-23T09:53:03+00:00",
+    "text": "❤️Обращаемся ко всем участникам нашего канала с призывом проявить сплоченность и единство, внести свой вклад в «Неделя сотки» для завершения сбора. \n\n🫡Принять участие можно через сервис от Т-Банк(имеется оплата по СБП): https://pay.cloudtips.ru/p/0a12af8d",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_86916",
+    "channel": "locatorru",
+    "date": "2026-09-23T09:55:55+00:00",
+    "text": "Брянская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239726",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T09:57:10+00:00",
+    "text": "Севастополь \nС моря еще фиксации БПЛА в направлении",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239727",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T09:57:55+00:00",
+    "text": "Брянская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132416",
+    "channel": "kupolrussia",
+    "date": "2026-09-23T09:58:25+00:00",
+    "text": "Севастополь \nС моря еще фиксации БПЛА в направлении",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132417",
+    "channel": "kupolrussia",
+    "date": "2026-09-23T09:58:31+00:00",
+    "text": "Брянская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_95676",
+    "channel": "radarrussiia",
+    "date": "2026-09-23T09:58:55+00:00",
+    "text": "Брянская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
   }
 ]
