@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-23T03:14:13+00:00",
+        "last_updated": "2026-09-23T03:42:56+00:00",
+        "path_labels": [
+          "Увинский (Республика Удмуртия)",
+          "Малопургинский (Республика Удмуртия)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.29171,
+            56.8495009
+          ],
+          [
+            53.0054269,
+            56.5491794
+          ]
+        ]
+      }
+    }
+  ]
 }
