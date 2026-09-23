@@ -12,11 +12,11 @@
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Спасский район\nПензенская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Неверкинский район\nПензенская область\nФиксация 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-23T00:06:18+00:00",
-    "expires_at": "2026-09-23T01:06:18+00:00",
-    "count": null,
+    "updated_at": "2026-09-23T00:29:55+00:00",
+    "expires_at": "2026-09-23T01:29:55+00:00",
+    "count": 3,
     "count_approx": false
   },
   "волгоградск": {
@@ -42,10 +42,10 @@
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Аксубаевский район\nДрожжановский район\nТетюшский район\nРеспублика Татарстан\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-23T00:19:11+00:00",
-    "expires_at": "2026-09-23T01:19:11+00:00",
+    "text": "Альметьевск, Бугульма, Заинск, Лениногорск, Чистополь, Республика Татарстан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-23T00:28:56+00:00",
+    "expires_at": "2026-09-23T01:28:56+00:00",
     "count": null,
     "count_approx": false
   },
@@ -166,6 +166,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-09-23T00:16:58+00:00",
     "expires_at": "2026-09-23T01:16:58+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Курская область, тревога по БПЛА сохраняется",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-23T00:28:24+00:00",
+    "expires_at": "2026-09-23T01:28:24+00:00",
     "count": null,
     "count_approx": false
   }
