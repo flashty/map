@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_239311",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T08:51:44+00:00",
-    "text": "дорога Первомайск - Попасное \nЛНР \nОпасность по фпв",
-    "type": "alert",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_239312",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T09:02:19+00:00",
-    "text": "Балаклава \nБалаклавская ТЭС \n5й км\nЯлтинское кольцо\nСевастополь \nВнимание по БПЛА с севера",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132061",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T09:02:34+00:00",
-    "text": "Балаклава \nБалаклавская ТЭС \n5й км\nЯлтинское кольцо\nСевастополь \nВнимание по БПЛА с севера",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_239313",
     "channel": "LPRalarm",
     "date": "2026-09-22T09:06:22+00:00",
@@ -21996,6 +21963,39 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239719",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T08:46:44+00:00",
+    "text": "Донецк, Еленовка, Докучаевск, Волноваха и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132409",
+    "channel": "kupolrussia",
+    "date": "2026-09-23T08:47:05+00:00",
+    "text": "Донецк, Еленовка, Докучаевск, Волноваха и близлежащие \nДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_95675",
+    "channel": "radarrussiia",
+    "date": "2026-09-23T08:54:12+00:00",
+    "text": "Фиксаций над нашим воздушным пространством не наблюдаем\n\nВ случае возникновения угрозы незамедлительно сообщим! \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
