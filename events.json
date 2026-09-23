@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_132058_Новороссийск",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T08:32:57+00:00",
-    "text": "Новороссийск \nПовторно \nКраснодарский край\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Новороссийск",
-    "region": "Краснодарский край",
-    "lat": 44.7239578,
-    "lon": 37.7690711
-  },
-  {
-    "id": "LPRalarm_239309",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T08:34:30+00:00",
-    "text": "Северный и близлежащие \nБелгородская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_92890",
-    "channel": "vrv_radar",
-    "date": "2026-09-22T08:34:44+00:00",
-    "text": "Геленджик и близлежащие \nКраснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132059",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T08:34:52+00:00",
-    "text": "Северный и близлежащие \nБелгородская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_239310",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T08:39:48+00:00",
-    "text": "Прохоровка и ближайшие опасность по БПЛА \nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132060",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T08:40:06+00:00",
-    "text": "Прохоровка и ближайшие \nБелгородская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_239311",
     "channel": "LPRalarm",
     "date": "2026-09-22T08:51:44+00:00",
@@ -21996,6 +21930,72 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Оренбургская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239716",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T08:18:36+00:00",
+    "text": "Мелитополь и близлежащие \nОпасность по БПЛА \n\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132406",
+    "channel": "kupolrussia",
+    "date": "2026-09-23T08:18:48+00:00",
+    "text": "Мелитополь и близлежащие \nОпасность по БПЛА \n\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239717",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T08:20:50+00:00",
+    "text": "Пуски БПЛА от Николаевской области",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132407",
+    "channel": "kupolrussia",
+    "date": "2026-09-23T08:20:57+00:00",
+    "text": "Пуски БПЛА от Николаевской области",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239718",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T08:24:17+00:00",
+    "text": "Курская область и близлежащие \nОтбой Авиационной ракетной бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132408",
+    "channel": "kupolrussia",
+    "date": "2026-09-23T08:24:25+00:00",
+    "text": "Курская область и близлежащие \nОтбой Авиационной ракетной бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }
