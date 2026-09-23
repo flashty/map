@@ -9,13 +9,53 @@
     "count": null,
     "count_approx": false
   },
-  "крым": {
-    "display_name": "Республика Крым",
+  "брянск": {
+    "display_name": "Брянская область",
     "type": "drone",
-    "text": "Ленинский район \nКерченский полуостров \nОпасность по БПЛА с Азовского моря \nРеспублика Крым",
+    "text": "Суземский район, Брянская область - опасность по БПЛА и в направлении Навлинского района. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-23T21:20:19+00:00",
+    "expires_at": "2026-09-23T22:20:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Краснодарский край\nопасность по БПЛА",
     "channel": "LPRalarm",
-    "updated_at": "2026-09-23T20:30:05+00:00",
-    "expires_at": "2026-09-23T21:30:05+00:00",
+    "updated_at": "2026-09-23T21:24:11+00:00",
+    "expires_at": "2026-09-23T22:24:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожской область",
+    "type": "drone",
+    "text": "Над Запорожской областью РФ ударные БПЛА в районе Мелитополя, возможен выход в акваторию Азовского моря. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-23T21:25:07+00:00",
+    "expires_at": "2026-09-23T22:25:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "ЛНР\nопасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-23T21:27:45+00:00",
+    "expires_at": "2026-09-23T22:27:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Ростовская область\nопасность по БПЛА сохраняется",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-23T21:28:43+00:00",
+    "expires_at": "2026-09-23T22:28:43+00:00",
     "count": null,
     "count_approx": false
   }
