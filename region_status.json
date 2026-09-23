@@ -1,21 +1,11 @@
 {
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Новозыбков и близлежащие \nОпасность по БПЛА Дартс \n\nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-23T10:16:36+00:00",
-    "expires_at": "2026-09-23T11:16:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
     "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ повторно \nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-23T11:10:02+00:00",
-    "expires_at": "2026-09-23T12:10:02+00:00",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-23T11:18:16+00:00",
+    "expires_at": "2026-09-23T12:18:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,33 +29,23 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
+  "крым": {
+    "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Калужская область, Орловская область - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-23T10:54:26+00:00",
-    "expires_at": "2026-09-23T11:54:26+00:00",
+    "text": "Оленевка и близлежащие \nРеспублика Крым \nТревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-23T11:19:06+00:00",
+    "expires_at": "2026-09-23T12:19:06+00:00",
     "count": null,
     "count_approx": false
   },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Орловская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Болхов фиксация БПЛА \nОрловская область",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-23T10:55:04+00:00",
-    "expires_at": "2026-09-23T11:55:04+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Тарханкут и близлежащие \nОпасность по БПЛА \n\nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-23T11:08:18+00:00",
-    "expires_at": "2026-09-23T12:08:18+00:00",
+    "updated_at": "2026-09-23T11:26:17+00:00",
+    "expires_at": "2026-09-23T12:26:17+00:00",
     "count": null,
     "count_approx": false
   }
