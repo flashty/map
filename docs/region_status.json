@@ -1,14 +1,4 @@
 {
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "alert",
-    "text": "Белая Берёзка тревога РСЗО в укрытия!\nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-23T13:12:27+00:00",
-    "expires_at": "2026-09-23T14:12:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
@@ -16,6 +6,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-23T13:23:37+00:00",
     "expires_at": "2026-09-23T14:23:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Туапсе и близлежащие \nОпасность по БПЛА \nКраснодарский край\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-23T14:08:13+00:00",
+    "expires_at": "2026-09-23T15:08:13+00:00",
     "count": null,
     "count_approx": false
   }
