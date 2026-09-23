@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_132096",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T11:46:08+00:00",
-    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_239354",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T11:46:20+00:00",
-    "text": "Новогродовка и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132097",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T11:46:34+00:00",
-    "text": "Новогродовка и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_92898",
-    "channel": "vrv_radar",
-    "date": "2026-09-22T11:47:20+00:00",
-    "text": "Сочи и близлежащие \nКраснодарский край \nОтбой опасности по БПЛА \nНа территории края опасность сохраняется",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_239355",
     "channel": "LPRalarm",
     "date": "2026-09-22T12:03:29+00:00",
@@ -21996,6 +21952,50 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_93237",
+    "channel": "vrv_radar",
+    "date": "2026-09-23T12:53:43+00:00",
+    "text": "Сочи и близлежащие \nКраснодарский край\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239759",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T12:54:20+00:00",
+    "text": "Сочи\nАдлер и близлежащие \nОпасность по БПЛА \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132439_Сочи",
+    "channel": "kupolrussia",
+    "date": "2026-09-23T12:54:35+00:00",
+    "text": "Сочи\nАдлер и близлежащие \nКраснодарский край\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Сочи",
+    "region": "Краснодарский край",
+    "lat": 43.5854823,
+    "lon": 39.723109
+  },
+  {
+    "id": "radarrussiia_95683",
+    "channel": "radarrussiia",
+    "date": "2026-09-23T12:56:57+00:00",
+    "text": "Сочи и близлежащие \nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
