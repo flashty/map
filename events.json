@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_239276",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T06:45:25+00:00",
-    "text": "Осипенко и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132031",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T06:45:45+00:00",
-    "text": "Осипенко и близлежащие \nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_239277",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T06:46:56+00:00",
-    "text": "Токмак и близлежащие \nОпасность по Фпв\nВысокая активность \nЗапорожская область РФ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_239278",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T06:47:06+00:00",
-    "text": "Шебекино \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_239279",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T06:47:24+00:00",
-    "text": "Армянск \nКрасноперекопский район \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132032_Шебекино",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T06:47:26+00:00",
-    "text": "Шебекино \nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Шебекино",
-    "region": "Белгородская область",
-    "lat": 50.4049335,
-    "lon": 36.8796822
-  },
-  {
     "id": "kupolrussia_132033",
     "channel": "kupolrussia",
     "date": "2026-09-22T06:47:44+00:00",
@@ -21996,6 +21930,72 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Республика Татарстан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_93211",
+    "channel": "vrv_radar",
+    "date": "2026-09-23T05:25:15+00:00",
+    "text": "Ярославская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132387",
+    "channel": "kupolrussia",
+    "date": "2026-09-23T05:27:39+00:00",
+    "text": "Ульяновская область \nРеспублика Татарстан",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239693",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T05:27:43+00:00",
+    "text": "Ульяновская область \nРеспублика Татарстан",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_93212",
+    "channel": "vrv_radar",
+    "date": "2026-09-23T05:29:01+00:00",
+    "text": "❤️ ВРВ требуется ваша поддержка!\n\nМы не размещаем рекламу в канале и не зарабатываем на тревогах.\nПроект держится только на поддержке подписчиков.\n🙌 Если канал вам полезен — поддержите любой суммой.\nДаже небольшая поддержка канала помогает нам продолжать.\n\n👉 https://clck.ru/3VgBJu",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239694",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T05:30:24+00:00",
+    "text": "Новая Полтавка и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132388",
+    "channel": "kupolrussia",
+    "date": "2026-09-23T05:30:32+00:00",
+    "text": "Новая Полтавка и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
