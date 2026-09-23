@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_132025",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T06:13:15+00:00",
-    "text": "Дорога \nМелитополь - Владимировка  - Приморск - Бердянск \nПринять меры безопасности \nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_239269",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T06:20:04+00:00",
-    "text": "Шебекино \nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_239270",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T06:20:49+00:00",
-    "text": "Трасса Шебекино Маслова Пристань \nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_239271",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T06:29:54+00:00",
-    "text": "Шебекино и район \nУгроза атаки БПЛА и ФПВ сохраняется \nКрайне высокая активность",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_132026",
     "channel": "kupolrussia",
     "date": "2026-09-22T06:30:11+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Республика Башкортостан",
     "lat": 53.892303,
     "lon": 55.234493
+  },
+  {
+    "id": "LPRalarm_239689",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T04:52:13+00:00",
+    "text": "Скадовский район и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132383",
+    "channel": "kupolrussia",
+    "date": "2026-09-23T04:52:25+00:00",
+    "text": "Скадовский район и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_93201_Каракулинский",
+    "channel": "vrv_radar",
+    "date": "2026-09-23T04:53:54+00:00",
+    "text": "Каракулинский район\nРеспублика Удмуртия\nФиксация 2 БПЛА в направлении республики Башкортостан",
+    "type": "drone",
+    "location_name": "Каракулинский",
+    "region": "Республика Удмуртия",
+    "lat": 56.0404664,
+    "lon": 53.6587573
+  },
+  {
+    "id": "vrv_radar_93202_Северный",
+    "channel": "vrv_radar",
+    "date": "2026-09-23T04:55:10+00:00",
+    "text": "Северный район\nОренбургская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Северный",
+    "region": "Оренбургская область",
+    "lat": 52.7471677,
+    "lon": 54.5947345
   }
 ]

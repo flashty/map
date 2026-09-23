@@ -12,11 +12,11 @@
   "удмурт": {
     "display_name": "Республика Удмуртия",
     "type": "drone",
-    "text": "Республика Удмуртия - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-09-23T03:53:34+00:00",
-    "expires_at": "2026-09-23T04:53:34+00:00",
-    "count": null,
+    "text": "Каракулинский район\nРеспублика Удмуртия\nФиксация 2 БПЛА в направлении республики Башкортостан",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-23T04:53:54+00:00",
+    "expires_at": "2026-09-23T05:53:54+00:00",
+    "count": 2,
     "count_approx": false
   },
   "запорожск": {
@@ -56,6 +56,26 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-09-23T04:29:00+00:00",
     "expires_at": "2026-09-23T05:29:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Скадовский район и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-23T04:52:25+00:00",
+    "expires_at": "2026-09-23T05:52:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "оренбургск": {
+    "display_name": "Оренбургская область",
+    "type": "drone",
+    "text": "Северный район\nОренбургская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-23T04:55:10+00:00",
+    "expires_at": "2026-09-23T05:55:10+00:00",
     "count": null,
     "count_approx": false
   }
