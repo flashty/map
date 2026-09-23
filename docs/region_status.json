@@ -1,24 +1,4 @@
 {
-  "башкортост": {
-    "display_name": "Республика Башкортостан",
-    "type": "drone",
-    "text": "Уфимский район\nРеспублика Башкортостан\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-23T05:08:32+00:00",
-    "expires_at": "2026-09-23T06:08:32+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Сочи и близлежащие \nКраснодарский край\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-23T05:05:57+00:00",
-    "expires_at": "2026-09-23T06:05:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -43,9 +23,9 @@
     "display_name": "Белгородская область",
     "type": "drone",
     "text": "Красная яруга\nТревога по БПЛА \nБелгородская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-23T05:59:04+00:00",
-    "expires_at": "2026-09-23T06:59:04+00:00",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-23T06:04:45+00:00",
+    "expires_at": "2026-09-23T07:04:45+00:00",
     "count": null,
     "count_approx": false
   }
