@@ -1,14 +1,4 @@
 {
-  "саратовск": {
-    "display_name": "Саратовская область",
-    "type": "drone",
-    "text": "Ровенский район\nСаратовская область\nФиксация от 4 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-23T00:59:20+00:00",
-    "expires_at": "2026-09-23T01:59:20+00:00",
-    "count": 4,
-    "count_approx": false
-  },
   "пензенск": {
     "display_name": "Пензенскую область",
     "type": "drone",
@@ -22,10 +12,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "missile",
-    "text": "Брянская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-23T01:39:32+00:00",
-    "expires_at": "2026-09-23T02:39:32+00:00",
+    "text": "Брянская область\nКурская область\nВоронежская область\nКалужская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-23T01:52:59+00:00",
+    "expires_at": "2026-09-23T02:52:59+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,53 +29,33 @@
     "count": null,
     "count_approx": false
   },
-  "самарск": {
-    "display_name": "Самарская область",
-    "type": "drone",
-    "text": "Ставропольский район\nСамарская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-23T00:58:55+00:00",
-    "expires_at": "2026-09-23T01:58:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "missile",
-    "text": "Калужская область, Орловская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-23T01:41:10+00:00",
-    "expires_at": "2026-09-23T02:41:10+00:00",
+    "text": "Брянская область\nКурская область\nВоронежская область\nКалужская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-23T01:52:59+00:00",
+    "expires_at": "2026-09-23T02:52:59+00:00",
     "count": null,
     "count_approx": false
   },
   "орловск": {
     "display_name": "Орловская область",
     "type": "missile",
-    "text": "Орловская область\nВоронежская область\n\nРакетная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-23T01:42:37+00:00",
-    "expires_at": "2026-09-23T02:42:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Сириус и близлежащие\nКраснодарский край\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Орловская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-23T00:51:28+00:00",
-    "expires_at": "2026-09-23T01:51:28+00:00",
+    "updated_at": "2026-09-23T01:51:54+00:00",
+    "expires_at": "2026-09-23T02:51:54+00:00",
     "count": null,
     "count_approx": false
   },
   "башкортост": {
     "display_name": "Республика Башкортостан",
     "type": "drone",
-    "text": "Чекмагушевский район\nРеспублика Башкортостан\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-23T01:45:11+00:00",
-    "expires_at": "2026-09-23T02:45:11+00:00",
+    "text": "Чекмагуш, Республика Башкортостан - ударный БПЛА в сторону Уфы. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-23T01:52:35+00:00",
+    "expires_at": "2026-09-23T02:52:35+00:00",
     "count": null,
     "count_approx": false
   },
@@ -100,12 +70,12 @@
     "count_approx": false
   },
   "нижегородск": {
-    "display_name": "Нижегородская область",
+    "display_name": "Нижегородской области",
     "type": "drone",
-    "text": "Нижегородская область, Чувашская Республика, Республика Марий Эл, Республика Татарстан, Республика Башкортостан, Удмуртская Республика - опасность по БПЛА сохраняется. \n\nЧерез Пензенскую область, Республику Мордовия продолжаются фиксации БПЛА в вашу сторону. \n\n📡Локатор России - @locatorru",
+    "text": "По восточной части Нижегородской области продолжаются фиксации БПЛА на север, северо-восток. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-09-23T01:08:30+00:00",
-    "expires_at": "2026-09-23T02:08:30+00:00",
+    "updated_at": "2026-09-23T01:51:13+00:00",
+    "expires_at": "2026-09-23T02:51:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,16 +86,6 @@
     "channel": "locatorru",
     "updated_at": "2026-09-23T01:28:45+00:00",
     "expires_at": "2026-09-23T02:28:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "чуваш": {
-    "display_name": "Республика Чувашия",
-    "type": "drone",
-    "text": "Ядринский район\nРеспублика Чувашия\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-23T00:57:58+00:00",
-    "expires_at": "2026-09-23T01:57:58+00:00",
     "count": null,
     "count_approx": false
   },
@@ -142,30 +102,40 @@
   "курск": {
     "display_name": "Курская область",
     "type": "missile",
-    "text": "Курская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-23T01:41:16+00:00",
-    "expires_at": "2026-09-23T02:41:16+00:00",
+    "text": "Брянская область\nКурская область\nВоронежская область\nКалужская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-23T01:52:59+00:00",
+    "expires_at": "2026-09-23T02:52:59+00:00",
     "count": null,
     "count_approx": false
   },
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "missile",
-    "text": "Орловская область\nВоронежская область\n\nРакетная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-23T01:42:37+00:00",
-    "expires_at": "2026-09-23T02:42:37+00:00",
+    "text": "Брянская область\nКурская область\nВоронежская область\nКалужская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-23T01:52:59+00:00",
+    "expires_at": "2026-09-23T02:52:59+00:00",
     "count": null,
     "count_approx": false
   },
   "ставропольск": {
     "display_name": "Ставропольский край",
     "type": "drone",
-    "text": "Ставропольский край - опасность по БПЛА от Армавира. \n\n📡Локатор России - @locatorru",
+    "text": "Ставропольский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-23T01:51:14+00:00",
+    "expires_at": "2026-09-23T02:51:14+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "костромск": {
+    "display_name": "Костромская область",
+    "type": "drone",
+    "text": "Костромская область - внимание по БПЛА от Нижегородской области. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-09-23T01:44:20+00:00",
-    "expires_at": "2026-09-23T02:44:20+00:00",
+    "updated_at": "2026-09-23T01:58:12+00:00",
+    "expires_at": "2026-09-23T02:58:12+00:00",
     "count": null,
     "count_approx": false
   }
