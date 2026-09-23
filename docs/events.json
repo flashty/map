@@ -1,71 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_14668",
-    "channel": "radar_plus_bpla",
-    "date": "2026-09-22T18:02:24+00:00",
-    "text": "Липецкая область\nТамбовская область\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_86758_Россошь",
-    "channel": "locatorru",
-    "date": "2026-09-22T18:02:35+00:00",
-    "text": "Россошь, Воронежская область - продолжаются пролёты БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Россошь",
-    "region": "Воронежская область",
-    "lat": 50.198344,
-    "lon": 39.5630478
-  },
-  {
-    "id": "LPRalarm_239449",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T18:02:40+00:00",
-    "text": "Воронежская область \nТревога по БПЛА \nПринять меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132184",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T18:02:51+00:00",
-    "text": "Воронежская область \n\nПринять меры безопасности\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_239450",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T18:03:16+00:00",
-    "text": "От Шебекино на Разумное фиксации БПЛА\nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_239451",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T18:03:17+00:00",
-    "text": "Наши дорогие близкие!\nСпасибо огромное за поддержку нашей деятельности \n❤️❤️❤️\nhttps://pay.cloudtips.ru/p/f2a9c1d8",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_132185",
     "channel": "kupolrussia",
     "date": "2026-09-22T18:03:28+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Краснодарский край",
     "lat": 45.0351532,
     "lon": 38.9772396
+  },
+  {
+    "id": "kupolrussia_132533",
+    "channel": "kupolrussia",
+    "date": "2026-09-23T22:51:41+00:00",
+    "text": "Севастополь\nтревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239867",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T22:51:43+00:00",
+    "text": "Севастополь\nтревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239868",
+    "channel": "LPRalarm",
+    "date": "2026-09-23T22:53:55+00:00",
+    "text": "Таганрог\nтревога по БПЛА \nРостовская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132534",
+    "channel": "kupolrussia",
+    "date": "2026-09-23T22:53:57+00:00",
+    "text": "Таганрог\nтревога по БПЛА \nРостовская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_86940",
+    "channel": "locatorru",
+    "date": "2026-09-23T22:58:21+00:00",
+    "text": "Смоленская область, Тверская область, Новгородская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_93258",
+    "channel": "vrv_radar",
+    "date": "2026-09-23T23:00:35+00:00",
+    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
