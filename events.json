@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_239298",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T07:55:23+00:00",
-    "text": "Причерноморье Краснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132048",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T07:55:49+00:00",
-    "text": "Причерноморье Краснодарский край\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_239299",
     "channel": "LPRalarm",
     "date": "2026-09-22T07:56:42+00:00",
@@ -21996,6 +21974,28 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14681",
+    "channel": "radar_plus_bpla",
+    "date": "2026-09-23T07:01:51+00:00",
+    "text": "Отбой опасности БПЛА по всем ранее объявленным регионам.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_86911",
+    "channel": "locatorru",
+    "date": "2026-09-23T07:06:49+00:00",
+    "text": "Челябинская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Челябинская область",
     "lat": null,
     "lon": null
   }
