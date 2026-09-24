@@ -1,27 +1,5 @@
 [
   {
-    "id": "locatorru_86761_Унеча",
-    "channel": "locatorru",
-    "date": "2026-09-22T18:10:05+00:00",
-    "text": "Унеча, Брянская область - фиксации БПЛА на север, северо-восток. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Унеча",
-    "region": "Брянская область",
-    "lat": 52.8449574,
-    "lon": 32.6700113
-  },
-  {
-    "id": "vrv_radar_92914_Павловский",
-    "channel": "vrv_radar",
-    "date": "2026-09-22T18:10:09+00:00",
-    "text": "Павловский район\nВоронежская область\nМеры безопасности",
-    "type": "alert",
-    "location_name": "Павловский",
-    "region": "Воронежская область",
-    "lat": 50.854794,
-    "lon": 39.152966
-  },
-  {
     "id": "locatorru_86762_Россошь",
     "channel": "locatorru",
     "date": "2026-09-22T18:10:38+00:00",
@@ -21996,6 +21974,28 @@
     "type": "unknown",
     "location_name": null,
     "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239876",
+    "channel": "LPRalarm",
+    "date": "2026-09-24T04:12:35+00:00",
+    "text": "Красноперекопский район \nВнимание по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132541",
+    "channel": "kupolrussia",
+    "date": "2026-09-24T04:12:43+00:00",
+    "text": "Красноперекопский район \nВнимание по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
