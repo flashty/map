@@ -1,115 +1,5 @@
 [
   {
-    "id": "vrv_radar_92928_Семилукский",
-    "channel": "vrv_radar",
-    "date": "2026-09-22T18:50:53+00:00",
-    "text": "Каширский район \nХохольский район \nРамонский район \nНовоусманский район \nСемилукский район \nВоронежская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Семилукский",
-    "region": "Воронежская область",
-    "lat": 51.7023003,
-    "lon": 39.0339133
-  },
-  {
-    "id": "kupolrussia_132250",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T18:50:58+00:00",
-    "text": "Челядиново и близлежащие \nОпасность по БПЛА \nЕщё фиксации \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_239527_Железногорска",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T18:51:13+00:00",
-    "text": "От Хомутовки на северо-восток, в сторону Железногорска\nКурская область\n\nТревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": "Железногорска",
-    "region": "Курская область",
-    "lat": 52.3295627,
-    "lon": 35.3582026
-  },
-  {
-    "id": "LPRalarm_239528",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T18:51:15+00:00",
-    "text": "Тарханкут \nОленевка и близлежащие \nОпасность по БПЛА с моря \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132251_Железногорска",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T18:51:20+00:00",
-    "text": "От Хомутовки на северо-восток, в сторону Железногорска\nКурская область\n\nТревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": "Железногорска",
-    "region": "Курская область",
-    "lat": 52.3295627,
-    "lon": 35.3582026
-  },
-  {
-    "id": "kupolrussia_132252",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T18:51:26+00:00",
-    "text": "Тарханкут \nОленевка и близлежащие \nОпасность по БПЛА с моря \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_92929_Бобровский",
-    "channel": "vrv_radar",
-    "date": "2026-09-22T18:51:37+00:00",
-    "text": "Бобровский район\nВоронежская область \nМеры безопасности",
-    "type": "alert",
-    "location_name": "Бобровский",
-    "region": "Воронежская область",
-    "lat": 51.0966142,
-    "lon": 40.0397707
-  },
-  {
-    "id": "LPRalarm_239529",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T18:51:45+00:00",
-    "text": "Приазовье \nПричерноморье Краснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132253",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T18:51:58+00:00",
-    "text": "Приазовье \nПричерноморье Краснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_239530_Краснодарский Край",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T18:52:26+00:00",
-    "text": "Ейский и близлежащие\nОпасность по БПЛА\nКраснодарский Край",
-    "type": "drone",
-    "location_name": "Краснодарский Край",
-    "region": null,
-    "lat": 45.7682027,
-    "lon": 39.0258102
-  },
-  {
     "id": "LPRalarm_239531",
     "channel": "LPRalarm",
     "date": "2026-09-22T18:52:47+00:00",
@@ -21996,6 +21886,116 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239972",
+    "channel": "LPRalarm",
+    "date": "2026-09-24T11:33:22+00:00",
+    "text": "Осипенко и близлежащие \nЗапорожская область РФ \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132623",
+    "channel": "kupolrussia",
+    "date": "2026-09-24T11:33:36+00:00",
+    "text": "Осипенко и близлежащие \nЗапорожская область РФ \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239973_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-09-24T11:37:23+00:00",
+    "text": "Белгородский район опасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_132624_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-09-24T11:37:29+00:00",
+    "text": "Белгородский район опасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_239974",
+    "channel": "LPRalarm",
+    "date": "2026-09-24T11:37:50+00:00",
+    "text": "Евпатория и близлежащие опасность по БПЛА \n\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132625",
+    "channel": "kupolrussia",
+    "date": "2026-09-24T11:37:58+00:00",
+    "text": "Евпатория и близлежащие опасность по БПЛА \n\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239975",
+    "channel": "LPRalarm",
+    "date": "2026-09-24T11:39:58+00:00",
+    "text": "г.Белгород опасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132626",
+    "channel": "kupolrussia",
+    "date": "2026-09-24T11:40:36+00:00",
+    "text": "г.Белгород опасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239976",
+    "channel": "LPRalarm",
+    "date": "2026-09-24T11:44:10+00:00",
+    "text": "Экстренная информация РСЧС: УГРОЗА ПОВТОРНОЙ АТАКИ БПЛА в Волоконовском МО 14:42. Оставайтесь дома, не подходите к окнам или пройдите в укрытие.",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132627",
+    "channel": "kupolrussia",
+    "date": "2026-09-24T11:44:26+00:00",
+    "text": "Экстренная информация РСЧС: УГРОЗА ПОВТОРНОЙ АТАКИ БПЛА в Волоконовском МО 14:42. Оставайтесь дома, не подходите к окнам или пройдите в укрытие.",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
