@@ -9,23 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Енакиево и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-24T11:03:59+00:00",
-    "expires_at": "2026-09-24T12:03:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Троицкое Лнр \nТревога по БПЛА Хорнет",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-24T11:26:20+00:00",
-    "expires_at": "2026-09-24T12:26:20+00:00",
+    "text": "Лисичанск , Горское опасность по БПЛА \nХорнет \nЛНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-24T12:04:40+00:00",
+    "expires_at": "2026-09-24T13:04:40+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +26,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-24T11:37:58+00:00",
     "expires_at": "2026-09-24T12:37:58+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Маслова Пристань и близлежащие \nШебекинский район \nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-24T12:12:36+00:00",
+    "expires_at": "2026-09-24T13:12:36+00:00",
     "count": null,
     "count_approx": false
   }
