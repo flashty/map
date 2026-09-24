@@ -9,23 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Губкинский МО и близлежащие \nБелгородская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-24T15:44:05+00:00",
-    "expires_at": "2026-09-24T16:44:05+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
-    "type": "missile",
-    "text": "ЛНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-24T15:04:29+00:00",
-    "expires_at": "2026-09-24T16:04:29+00:00",
+    "type": "drone",
+    "text": "Воронежская область - опасность БПЛА.\n\nМассовые фиксации через Белгородскую область и ЛНР.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-09-24T16:03:28+00:00",
+    "expires_at": "2026-09-24T17:03:28+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,10 +52,40 @@
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Воронежская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Острогожский район\nЛискинский район\nВоронежская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-24T16:00:08+00:00",
-    "expires_at": "2026-09-24T17:00:08+00:00",
+    "updated_at": "2026-09-24T16:07:57+00:00",
+    "expires_at": "2026-09-24T17:07:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Белгородская область\nКурская область \nТревога по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-24T16:02:32+00:00",
+    "expires_at": "2026-09-24T17:02:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тамбовск": {
+    "display_name": "Тамбовская область",
+    "type": "drone",
+    "text": "Тамбовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-24T16:08:32+00:00",
+    "expires_at": "2026-09-24T17:08:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "В направлении Старый Оскол фиксации  БПЛА \nБелгородская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-24T16:14:51+00:00",
+    "expires_at": "2026-09-24T17:14:51+00:00",
     "count": null,
     "count_approx": false
   }
