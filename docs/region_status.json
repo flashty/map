@@ -1,21 +1,11 @@
 {
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-24T10:26:43+00:00",
-    "expires_at": "2026-09-24T11:26:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородской области",
     "type": "drone",
-    "text": "Приграничные районы Белгородской области, Брянской области, Курской области - высокая активность БПЛА, FPV- дронов. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-24T10:20:39+00:00",
-    "expires_at": "2026-09-24T11:20:39+00:00",
+    "text": "Дорога\nТОКМАК - Бердянск  \nОпасность по БПЛА \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-24T11:29:42+00:00",
+    "expires_at": "2026-09-24T12:29:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,13 +29,23 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курской области",
+  "луганск": {
+    "display_name": "Луганская область",
     "type": "drone",
-    "text": "Приграничные районы Белгородской области, Брянской области, Курской области - высокая активность БПЛА, FPV- дронов. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-24T10:20:39+00:00",
-    "expires_at": "2026-09-24T11:20:39+00:00",
+    "text": "Троицкое Лнр \nТревога по БПЛА Хорнет",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-24T11:26:20+00:00",
+    "expires_at": "2026-09-24T12:26:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Керченский полуостров \nКерчь и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-24T11:29:17+00:00",
+    "expires_at": "2026-09-24T12:29:17+00:00",
     "count": null,
     "count_approx": false
   }
