@@ -1,14 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "missile",
-    "text": "Горловка ДНР ракетная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-24T12:29:15+00:00",
-    "expires_at": "2026-09-24T13:29:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -26,6 +16,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-24T12:55:16+00:00",
     "expires_at": "2026-09-24T13:55:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Стерегущее и далее на запад в направлении возможно Межводное \nТревога по БПЛА на электротяге \nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-24T13:29:01+00:00",
+    "expires_at": "2026-09-24T14:29:01+00:00",
     "count": null,
     "count_approx": false
   }
