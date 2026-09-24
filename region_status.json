@@ -2,10 +2,30 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Красноперекопский район \nВнимание по БПЛА \nРеспублика Крым",
+    "text": "Красноперекопский район Республика Крым \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-24T04:23:08+00:00",
+    "expires_at": "2026-09-24T05:23:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Волоконовский район \nОпасность по БПЛА\nБелгородская область",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-24T04:12:43+00:00",
-    "expires_at": "2026-09-24T05:12:43+00:00",
+    "updated_at": "2026-09-24T04:17:05+00:00",
+    "expires_at": "2026-09-24T05:17:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-24T04:24:36+00:00",
+    "expires_at": "2026-09-24T05:24:36+00:00",
     "count": null,
     "count_approx": false
   }
