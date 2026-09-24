@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_239521",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T18:48:22+00:00",
-    "text": "От Тарханкут до Севастополь \nОпасность по БПЛА с моря",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_239522",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T18:48:48+00:00",
-    "text": "Брянская область \nТревога по БПЛА\nЕщё фиксации БПЛА от ГГ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132246",
-    "channel": "kupolrussia",
-    "date": "2026-09-22T18:48:54+00:00",
-    "text": "Брянская область \nТревога по БПЛА\nЕщё фиксации БПЛА от ГГ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_92925_Репьёвский",
-    "channel": "vrv_radar",
-    "date": "2026-09-22T18:48:59+00:00",
-    "text": "Репьёвский район\nВоронежская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Репьёвский",
-    "region": "Воронежская область",
-    "lat": 51.1646691,
-    "lon": 38.7476643
-  },
-  {
-    "id": "LPRalarm_239523",
-    "channel": "LPRalarm",
-    "date": "2026-09-22T18:49:03+00:00",
-    "text": "Кача\nБельбек \nСевастополь \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_239524",
     "channel": "LPRalarm",
     "date": "2026-09-22T18:49:16+00:00",
@@ -21994,6 +21939,61 @@
     "date": "2026-09-24T10:15:29+00:00",
     "text": "Шебекино\nТревога по БПЛА Хорнет повторно",
     "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132615",
+    "channel": "kupolrussia",
+    "date": "2026-09-24T10:16:44+00:00",
+    "text": "Горловка и близлежащие на восток, ю-в \nОпасность по БПЛА и ФПВ \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132616",
+    "channel": "kupolrussia",
+    "date": "2026-09-24T10:16:51+00:00",
+    "text": "Шебекино\nТревога по БПЛА Хорнет повторно\nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_95712",
+    "channel": "radarrussiia",
+    "date": "2026-09-24T10:20:39+00:00",
+    "text": "Приграничные районы Белгородской области, Брянской области, Курской области - высокая активность БПЛА, FPV- дронов. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_239965",
+    "channel": "LPRalarm",
+    "date": "2026-09-24T10:26:43+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_86956",
+    "channel": "locatorru",
+    "date": "2026-09-24T10:30:50+00:00",
+    "text": "❤️Обращаемся ко всем участникам нашего канала с призывом проявить сплоченность и единство, внести свой вклад в «Неделя сотки» для завершения сбора. \n\n🫡Принять участие можно через сервис от Т-Банк(имеется оплата по СБП): https://pay.cloudtips.ru/p/0a12af8d",
+    "type": "unknown",
     "location_name": null,
     "region": null,
     "lat": null,
