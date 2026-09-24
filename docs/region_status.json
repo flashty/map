@@ -12,10 +12,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Стерегущее и близлежащие опасность по БПЛА Хорнет \n\nРеспублика Крым",
+    "text": "Север\nСеверо-Запад Республика Крым тревога по БПЛА \nОт Тарханкут до Армянска",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-24T13:50:21+00:00",
-    "expires_at": "2026-09-24T14:50:21+00:00",
+    "updated_at": "2026-09-24T14:02:33+00:00",
+    "expires_at": "2026-09-24T15:02:33+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,6 +26,36 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-24T13:58:08+00:00",
     "expires_at": "2026-09-24T14:58:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Сириус и близлежащие\nКраснодарский край\nРабота ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-24T14:11:48+00:00",
+    "expires_at": "2026-09-24T15:11:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-24T14:03:23+00:00",
+    "expires_at": "2026-09-24T15:03:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Мариуполь ДНР и ближайшее\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-24T14:08:46+00:00",
+    "expires_at": "2026-09-24T15:08:46+00:00",
     "count": null,
     "count_approx": false
   }
