@@ -1,93 +1,5 @@
 [
   {
-    "id": "locatorru_86785",
-    "channel": "locatorru",
-    "date": "2026-09-22T19:05:49+00:00",
-    "text": "Липецкая область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_95473_Хохольский",
-    "channel": "radarrussiia",
-    "date": "2026-09-22T19:06:02+00:00",
-    "text": "Воронеж\nХохольский район \nВоронежская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Хохольский",
-    "region": "Воронежская область",
-    "lat": 51.5779217,
-    "lon": 38.7866515
-  },
-  {
-    "id": "vrv_radar_92940_Каширский",
-    "channel": "vrv_radar",
-    "date": "2026-09-22T19:06:11+00:00",
-    "text": "Каширский район\nВоронежская область\nФиксация от 3 БПЛА",
-    "type": "drone",
-    "location_name": "Каширский",
-    "region": "Воронежская область",
-    "lat": 51.3448808,
-    "lon": 39.5662114
-  },
-  {
-    "id": "radarrussiia_95474_Каширский",
-    "channel": "radarrussiia",
-    "date": "2026-09-22T19:06:22+00:00",
-    "text": "Каширский район\nВоронежская область\nФиксация от 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Каширский",
-    "region": "Воронежская область",
-    "lat": 51.3448808,
-    "lon": 39.5662114
-  },
-  {
-    "id": "locatorru_86786_Павловский",
-    "channel": "locatorru",
-    "date": "2026-09-22T19:06:37+00:00",
-    "text": "Воронцовка, Павловский район, Воронежская область - пролёт БПЛА в сторону Бутурлиновка. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Павловский",
-    "region": "Воронежская область",
-    "lat": 50.854794,
-    "lon": 39.152966
-  },
-  {
-    "id": "locatorru_86786_Воронцовка",
-    "channel": "locatorru",
-    "date": "2026-09-22T19:06:37+00:00",
-    "text": "Воронцовка, Павловский район, Воронежская область - пролёт БПЛА в сторону Бутурлиновка. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Воронцовка",
-    "region": "Воронежская область",
-    "lat": 50.6154278,
-    "lon": 40.3396185
-  },
-  {
-    "id": "locatorru_86787",
-    "channel": "locatorru",
-    "date": "2026-09-22T19:06:44+00:00",
-    "text": "Курская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_95475",
-    "channel": "radarrussiia",
-    "date": "2026-09-22T19:06:47+00:00",
-    "text": "Брянская область \nТревога по реактивным БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_239549",
     "channel": "LPRalarm",
     "date": "2026-09-22T19:06:51+00:00",
@@ -21996,6 +21908,94 @@
     "type": "alert",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_240023",
+    "channel": "LPRalarm",
+    "date": "2026-09-24T15:39:56+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nХерсонская область РФ \nХарьковская область РФ \nБелгородская область \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132670",
+    "channel": "kupolrussia",
+    "date": "2026-09-24T15:40:14+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nХерсонская область РФ \nХарьковская область РФ \nБелгородская область\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_240024",
+    "channel": "LPRalarm",
+    "date": "2026-09-24T15:44:04+00:00",
+    "text": "Губкинский МО и близлежащие опасность по БПЛА \n\nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132671",
+    "channel": "kupolrussia",
+    "date": "2026-09-24T15:44:05+00:00",
+    "text": "Губкинский МО и близлежащие \nБелгородская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_240025_Вейделевский",
+    "channel": "LPRalarm",
+    "date": "2026-09-24T15:44:56+00:00",
+    "text": "Вейделевский район \nПролет ударных БПЛА в тыл",
+    "type": "drone",
+    "location_name": "Вейделевский",
+    "region": null,
+    "lat": 50.1834343,
+    "lon": 38.5862881
+  },
+  {
+    "id": "kupolrussia_132672_Вейделевский",
+    "channel": "kupolrussia",
+    "date": "2026-09-24T15:45:09+00:00",
+    "text": "Вейделевский район \nПролет ударных БПЛА в тыл",
+    "type": "drone",
+    "location_name": "Вейделевский",
+    "region": null,
+    "lat": 50.1834343,
+    "lon": 38.5862881
+  },
+  {
+    "id": "LPRalarm_240026",
+    "channel": "LPRalarm",
+    "date": "2026-09-24T15:46:05+00:00",
+    "text": "Красноармейск ДНР УАБ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_132673",
+    "channel": "kupolrussia",
+    "date": "2026-09-24T15:46:16+00:00",
+    "text": "Красноармейск ДНР УАБ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
