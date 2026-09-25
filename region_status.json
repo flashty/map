@@ -2,50 +2,120 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Износковский район\nДзержинский район\nЮхновский район\nМалоярославецкий район\nПеремышльский район\nМосальский район\nМещовский район\nБабынинский район\nКалужская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-25T02:23:56+00:00",
-    "expires_at": "2026-09-25T03:23:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Смоленский район\nСафоновский район\nСмоленская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-25T02:23:03+00:00",
-    "expires_at": "2026-09-25T03:23:03+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Моршанский район\nТамбовская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-25T02:27:54+00:00",
-    "expires_at": "2026-09-25T03:27:54+00:00",
+    "text": "Медынский район\nБобровский район \nИзносковский район \nКалужская область \nФиксация группы БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-25T03:19:42+00:00",
+    "expires_at": "2026-09-25T04:19:42+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Тула\nАлексин\nТульская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-25T02:41:04+00:00",
-    "expires_at": "2026-09-25T03:41:04+00:00",
-    "count": null,
+    "text": "Ефремов\nТульская область\nФиксация от 2 БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-25T03:22:10+00:00",
+    "expires_at": "2026-09-25T04:22:10+00:00",
+    "count": 2,
     "count_approx": false
   },
   "самарск": {
     "display_name": "Самарская область",
     "type": "drone",
-    "text": "Самара\nСамарская область \nФиксация БПЛА",
+    "text": "Самара\nСамарская область \nРабота ПВО по БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-09-25T03:05:52+00:00",
-    "expires_at": "2026-09-25T04:05:52+00:00",
+    "updated_at": "2026-09-25T03:16:43+00:00",
+    "expires_at": "2026-09-25T04:16:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "марий": {
+    "display_name": "Республика Марий",
+    "type": "drone",
+    "text": "Моркинский район\nРеспублика Марий Эл\nФиксация от 2 БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-25T03:16:17+00:00",
+    "expires_at": "2026-09-25T04:16:17+00:00",
+    "count": 2,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Камско-Устьинский район\nРеспублика Татарстан\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-25T03:16:57+00:00",
+    "expires_at": "2026-09-25T04:16:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Подольск \nМосковская область \nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-25T03:20:52+00:00",
+    "expires_at": "2026-09-25T04:20:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ульяновск": {
+    "display_name": "Ульяновская область",
+    "type": "drone",
+    "text": "Ульяновский район\nУльяновская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-25T03:17:40+00:00",
+    "expires_at": "2026-09-25T04:17:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородская область",
+    "type": "drone",
+    "text": "Навашино\nНижегородская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-25T03:19:00+00:00",
+    "expires_at": "2026-09-25T04:19:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "missile",
+    "text": "Курская область и близлежащие \nАвиационно ракетно бомбовая опасность",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-25T03:22:56+00:00",
+    "expires_at": "2026-09-25T04:22:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Каменский район\nВоронежская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-25T03:19:32+00:00",
+    "expires_at": "2026-09-25T04:19:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Дмитровский район\nОрловская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-25T03:20:06+00:00",
+    "expires_at": "2026-09-25T04:20:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Таганрог и близлежащие\nОпасность по БПЛА сохраняется \nРостовская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-25T03:28:15+00:00",
+    "expires_at": "2026-09-25T04:28:15+00:00",
     "count": null,
     "count_approx": false
   }
