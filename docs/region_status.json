@@ -1,14 +1,4 @@
 {
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Обнинск\nКалужская область\nФиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-25T04:04:29+00:00",
-    "expires_at": "2026-09-25T05:04:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
@@ -26,6 +16,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-25T04:21:28+00:00",
     "expires_at": "2026-09-25T05:21:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Сочи и близлежащие\nКраснодарский край\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-25T05:12:55+00:00",
+    "expires_at": "2026-09-25T06:12:55+00:00",
     "count": null,
     "count_approx": false
   }
