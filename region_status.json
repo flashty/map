@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "орловск": {
-    "display_name": "Орловской областей",
-    "type": "drone",
-    "text": "Стык Тульской и Орловской областей\nФиксации групп БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-25T01:36:54+00:00",
-    "expires_at": "2026-09-25T02:36:54+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "пермск": {
     "display_name": "Пермский край",
     "type": "alert",
@@ -39,26 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Ястребовка, Мантуровский район, Курская область - пролёты БПЛА в сторону Воронежа. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-25T01:37:30+00:00",
-    "expires_at": "2026-09-25T02:37:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "липецк": {
-    "display_name": "Липецкой области",
-    "type": "drone",
-    "text": "Хлевенский район, Липецкой области\nПролёты БПЛА в сторону г. Липецк",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-25T01:31:12+00:00",
-    "expires_at": "2026-09-25T02:31:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
@@ -66,26 +36,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-25T02:05:13+00:00",
     "expires_at": "2026-09-25T03:05:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Воловский район\nТёпло-Огарёвский район\nЕфремовский район\nЩёкинский район\nПлавский район\nТульская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-25T02:27:34+00:00",
-    "expires_at": "2026-09-25T03:27:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Воронеж\nВоронежская область\nРабота ПВО по БПЛА \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-25T01:40:46+00:00",
-    "expires_at": "2026-09-25T02:40:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -109,16 +59,6 @@
     "count": null,
     "count_approx": false
   },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "ГО Можайск\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-25T02:23:21+00:00",
-    "expires_at": "2026-09-25T03:23:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тамбовск": {
     "display_name": "Тамбовская область",
     "type": "drone",
@@ -126,6 +66,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-25T02:27:54+00:00",
     "expires_at": "2026-09-25T03:27:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Тула\nАлексин\nТульская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-25T02:41:04+00:00",
+    "expires_at": "2026-09-25T03:41:04+00:00",
     "count": null,
     "count_approx": false
   }
