@@ -1,93 +1,5 @@
 [
   {
-    "id": "locatorru_87007",
-    "channel": "locatorru",
-    "date": "2026-09-24T18:09:55+00:00",
-    "text": "Краснодарский край - отбой опасности по БПЛА. Режим внимание. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240105",
-    "channel": "LPRalarm",
-    "date": "2026-09-24T18:10:17+00:00",
-    "text": "Брянская область\nОпасность по БПЛА в т.ч. реактивным",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_87008_Острогожск",
-    "channel": "locatorru",
-    "date": "2026-09-24T18:10:33+00:00",
-    "text": "Острогожск, Лиски, Воронежская область - опасность по БПЛА и в сторону Нововоронеж, Воронеж. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Острогожск",
-    "region": "Воронежская область",
-    "lat": 50.864902,
-    "lon": 39.077244
-  },
-  {
-    "id": "locatorru_87008_Лиски",
-    "channel": "locatorru",
-    "date": "2026-09-24T18:10:33+00:00",
-    "text": "Острогожск, Лиски, Воронежская область - опасность по БПЛА и в сторону Нововоронеж, Воронеж. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Лиски",
-    "region": "Воронежская область",
-    "lat": 50.9873813,
-    "lon": 39.4972321
-  },
-  {
-    "id": "kupolrussia_132747",
-    "channel": "kupolrussia",
-    "date": "2026-09-24T18:10:47+00:00",
-    "text": "Брянская область\nв т.ч. реактивным\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240106",
-    "channel": "LPRalarm",
-    "date": "2026-09-24T18:11:16+00:00",
-    "text": "Экстренная информация РСЧС: Отмена БЕСПИЛОТНОЙ ОПАСНОСТИ на территории Краснодарского края. 24.09.26 Телефон 112.",
-    "type": "alert",
-    "location_name": null,
-    "region": "Краснодарского края",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132748",
-    "channel": "kupolrussia",
-    "date": "2026-09-24T18:11:30+00:00",
-    "text": "Экстренная информация РСЧС: Отмена БЕСПИЛОТНОЙ ОПАСНОСТИ на территории Краснодарского края. 24.09.26 Телефон 112.",
-    "type": "alert",
-    "location_name": null,
-    "region": "Краснодарского края",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_87009",
-    "channel": "locatorru",
-    "date": "2026-09-24T18:11:37+00:00",
-    "text": "Эртиль, Воронежская область - продолжаются фиксации БПЛА в направлении Мордово, Токаревка, Тамбовская область.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_132749",
     "channel": "kupolrussia",
     "date": "2026-09-24T18:12:12+00:00",
@@ -21998,5 +21910,93 @@
     "region": null,
     "lat": 58.3597623,
     "lon": 60.0444713
+  },
+  {
+    "id": "LPRalarm_240453",
+    "channel": "LPRalarm",
+    "date": "2026-09-25T11:34:33+00:00",
+    "text": "Керченский пролив \nОпасность по БПЛА с юга",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133046",
+    "channel": "kupolrussia",
+    "date": "2026-09-25T11:34:52+00:00",
+    "text": "Керченский пролив \nс юга\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_240454",
+    "channel": "LPRalarm",
+    "date": "2026-09-25T11:42:30+00:00",
+    "text": "Шебекино \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133047",
+    "channel": "kupolrussia",
+    "date": "2026-09-25T11:42:46+00:00",
+    "text": "Шебекино \nТревога по БПЛА Хорнет\nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_240455",
+    "channel": "LPRalarm",
+    "date": "2026-09-25T11:44:05+00:00",
+    "text": "Красный Луч и близлежащие \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133048",
+    "channel": "kupolrussia",
+    "date": "2026-09-25T11:44:19+00:00",
+    "text": "Красный Луч и близлежащие \nЛНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_240456",
+    "channel": "LPRalarm",
+    "date": "2026-09-25T11:45:31+00:00",
+    "text": "БПЛА Хорнет в направлении Свердловска\n ЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133049",
+    "channel": "kupolrussia",
+    "date": "2026-09-25T11:45:41+00:00",
+    "text": "БПЛА Хорнет в направлении Свердловска\n ЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
   }
 ]
