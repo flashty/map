@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_93376",
-    "channel": "vrv_radar",
-    "date": "2026-09-24T19:59:14+00:00",
-    "text": "Ульяновская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_93377_Каменский",
-    "channel": "vrv_radar",
-    "date": "2026-09-24T20:00:06+00:00",
-    "text": "Каменский район\nТульская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Каменский",
-    "region": "Тульская область",
-    "lat": 53.2109698,
-    "lon": 38.1162073
-  },
-  {
     "id": "locatorru_87028",
     "channel": "locatorru",
     "date": "2026-09-24T20:00:11+00:00",
@@ -21996,6 +21974,28 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_240602",
+    "channel": "LPRalarm",
+    "date": "2026-09-25T17:21:14+00:00",
+    "text": "Приморский Посад и близлежащие\nИ далее на юг, юго-восток\nТревога по БПЛА\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133182",
+    "channel": "kupolrussia",
+    "date": "2026-09-25T17:21:41+00:00",
+    "text": "Приморский Посад и близлежащие\nИ далее на юг, юго-восток\nТревога по БПЛА\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
