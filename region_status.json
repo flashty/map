@@ -59,16 +59,6 @@
     "count": null,
     "count_approx": false
   },
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "Ульяновский район\nУльяновская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-25T03:17:40+00:00",
-    "expires_at": "2026-09-25T04:17:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "нижегородск": {
     "display_name": "Нижегородская область",
     "type": "drone",
@@ -81,11 +71,11 @@
   },
   "курск": {
     "display_name": "Курская область",
-    "type": "missile",
-    "text": "Курская область и близлежащие \nАвиационно ракетно бомбовая опасность",
+    "type": "drone",
+    "text": "Хомутовка и близлежащие\nКурская область\nТревога по БПЛА сохраняется",
     "channel": "LPRalarm",
-    "updated_at": "2026-09-25T03:22:56+00:00",
-    "expires_at": "2026-09-25T04:22:56+00:00",
+    "updated_at": "2026-09-25T03:31:27+00:00",
+    "expires_at": "2026-09-25T04:31:27+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,6 +106,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-25T03:28:15+00:00",
     "expires_at": "2026-09-25T04:28:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пермск": {
+    "display_name": "Пермский край",
+    "type": "drone",
+    "text": "Пермский край\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_Д2А \"КРАСНЫЙ УРОВЕНЬ\"\n(У) и) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-25T03:32:21+00:00",
+    "expires_at": "2026-09-25T04:32:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "А/ дорога Волчанское - Акимовка \nТревога по БПЛА \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-25T03:38:12+00:00",
+    "expires_at": "2026-09-25T04:38:12+00:00",
     "count": null,
     "count_approx": false
   }
