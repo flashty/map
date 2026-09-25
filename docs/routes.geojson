@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-25T09:36:24+00:00",
+        "last_updated": "2026-09-25T10:14:01+00:00",
+        "path_labels": [
+          "Курчатов",
+          "Рыльский (Курская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.658863,
+            51.659466
+          ],
+          [
+            34.624021,
+            51.5713767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-25T09:36:24+00:00",
+        "last_updated": "2026-09-25T10:14:01+00:00",
+        "path_labels": [
+          "Курск",
+          "Курчатовский (Курская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.1923123,
+            51.7309249
+          ],
+          [
+            35.5408005,
+            51.6821602
+          ]
+        ]
+      }
+    }
+  ]
 }
