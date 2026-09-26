@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_133217_Суземский",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T18:43:32+00:00",
-    "text": "Суземский район\nТрубчевский район \nНавлинский район \nОпасность по БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": "Суземский",
-    "region": "Брянская область",
-    "lat": 52.410945,
-    "lon": 34.0616231
-  },
-  {
-    "id": "kupolrussia_133217_Трубчевский",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T18:43:32+00:00",
-    "text": "Суземский район\nТрубчевский район \nНавлинский район \nОпасность по БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": "Трубчевский",
-    "region": "Брянская область",
-    "lat": 52.5867776,
-    "lon": 33.7892267
-  },
-  {
-    "id": "kupolrussia_133217_Навлинский",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T18:43:32+00:00",
-    "text": "Суземский район\nТрубчевский район \nНавлинский район \nОпасность по БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": "Навлинский",
-    "region": "Брянская область",
-    "lat": 52.8910027,
-    "lon": 34.4096754
-  },
-  {
-    "id": "LPRalarm_240643",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T18:43:39+00:00",
-    "text": "Орловская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240644",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T18:43:43+00:00",
-    "text": "Мелитополь и близлежащие\nТревога по БПЛА\nОчень много.\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133218",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T18:43:56+00:00",
-    "text": "Калужская область \nТульская область \nСмоленская область\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_133219",
     "channel": "kupolrussia",
     "date": "2026-09-25T18:43:57+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241221",
+    "channel": "LPRalarm",
+    "date": "2026-09-26T22:18:02+00:00",
+    "text": "ЛНР, продолжаются фиксации БПЛА в направлении Ростовской, Воронежской области.",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133713",
+    "channel": "kupolrussia",
+    "date": "2026-09-26T22:18:12+00:00",
+    "text": "ЛНР, продолжаются фиксации БПЛА в направлении Ростовской, Воронежской области.",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241222",
+    "channel": "LPRalarm",
+    "date": "2026-09-26T22:19:34+00:00",
+    "text": "Скворцово\nШкольное\nГвардейское\nСимферопольский аэропорт\nИ близлежащие\nТревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133714",
+    "channel": "kupolrussia",
+    "date": "2026-09-26T22:19:39+00:00",
+    "text": "Скворцово\nШкольное\nГвардейское\nСимферопольский аэропорт\nИ близлежащие\nТревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241223",
+    "channel": "LPRalarm",
+    "date": "2026-09-26T22:23:51+00:00",
+    "text": "ЛНР вся область, тревога по БПЛА сохраняется. Высокая активность",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133715",
+    "channel": "kupolrussia",
+    "date": "2026-09-26T22:23:58+00:00",
+    "text": "ЛНР вся область, тревога по БПЛА сохраняется. Высокая активность",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
