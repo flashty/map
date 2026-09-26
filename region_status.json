@@ -39,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "missile",
-    "text": "Белгородская, Курская область повторно\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-26T20:50:56+00:00",
-    "expires_at": "2026-09-26T21:50:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -76,6 +66,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-26T21:25:52+00:00",
     "expires_at": "2026-09-26T22:25:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Котовское, Владимировка с моря Черноморский район и далее в направлении Евпатория, Саки, Гвардейское опасность по БПЛА\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-26T21:53:44+00:00",
+    "expires_at": "2026-09-26T22:53:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "От Строителя в направлении Тамаровки\nТревога по БПЛА \n\nБелгородская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-26T21:55:07+00:00",
+    "expires_at": "2026-09-26T22:55:07+00:00",
     "count": null,
     "count_approx": false
   }
