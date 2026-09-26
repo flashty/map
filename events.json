@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_93560_Воронеж",
-    "channel": "vrv_radar",
-    "date": "2026-09-25T01:07:52+00:00",
-    "text": "Воронеж\nВоронежская область\nЕще сбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Воронеж",
-    "region": "Воронежская область",
-    "lat": 51.6605982,
-    "lon": 39.2005858
-  },
-  {
-    "id": "radar_plus_bpla_14709",
-    "channel": "radar_plus_bpla",
-    "date": "2026-09-25T01:08:48+00:00",
-    "text": "Воронеж - идёт активная работа ПВО.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_95930_Воронеж",
-    "channel": "radarrussiia",
-    "date": "2026-09-25T01:10:52+00:00",
-    "text": "Воронеж\nВоронежская область\nЕще сбитие БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": "Воронеж",
-    "region": "Воронежская область",
-    "lat": 51.6605982,
-    "lon": 39.2005858
-  },
-  {
-    "id": "radarrussiia_95931_Елецкий",
-    "channel": "radarrussiia",
-    "date": "2026-09-25T01:11:25+00:00",
-    "text": "Елецкий район\nЛипецкая область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Елецкий",
-    "region": "Липецкая область",
-    "lat": 52.631157,
-    "lon": 38.57095
-  },
-  {
-    "id": "vrv_radar_93561_Дмитровский",
-    "channel": "vrv_radar",
-    "date": "2026-09-25T01:11:46+00:00",
-    "text": "Дмитровский район\nТроснянский район\nКромской район\nМалоархангельский район\nГлазуновский район\nКолпнянский район\nСвердловский район\nДолжанский район\nЛивенский район\nОрловская область\nФиксации групп БПЛА",
-    "type": "drone",
-    "location_name": "Дмитровский",
-    "region": "Орловская область",
-    "lat": 52.6670934,
-    "lon": 35.5664814
-  },
-  {
-    "id": "vrv_radar_93561_Троснянский",
-    "channel": "vrv_radar",
-    "date": "2026-09-25T01:11:46+00:00",
-    "text": "Дмитровский район\nТроснянский район\nКромской район\nМалоархангельский район\nГлазуновский район\nКолпнянский район\nСвердловский район\nДолжанский район\nЛивенский район\nОрловская область\nФиксации групп БПЛА",
-    "type": "drone",
-    "location_name": "Троснянский",
-    "region": "Орловская область",
-    "lat": 52.3967026,
-    "lon": 35.8058385
-  },
-  {
     "id": "vrv_radar_93561_Кромской",
     "channel": "vrv_radar",
     "date": "2026-09-25T01:11:46+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_96083",
+    "channel": "radarrussiia",
+    "date": "2026-09-26T01:50:26+00:00",
+    "text": "МО Чехов \nМосковская область \nПродолжается работа ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_93814",
+    "channel": "vrv_radar",
+    "date": "2026-09-26T01:54:11+00:00",
+    "text": "ГО Бронницы \nМосковская область \nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_96084",
+    "channel": "radarrussiia",
+    "date": "2026-09-26T01:55:30+00:00",
+    "text": "ГО Бронницы \nМосковская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87255_Бронницы",
+    "channel": "locatorru",
+    "date": "2026-09-26T01:56:24+00:00",
+    "text": "Бронницы, Раменское и близлежащие, Московская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Бронницы",
+    "region": "Московская область",
+    "lat": 55.422,
+    "lon": 38.2591
+  },
+  {
+    "id": "locatorru_87256",
+    "channel": "locatorru",
+    "date": "2026-09-26T01:58:10+00:00",
+    "text": "Ростовская область - отбой ракетной опасности! \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_93815",
+    "channel": "vrv_radar",
+    "date": "2026-09-26T02:01:07+00:00",
+    "text": "Ростовская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
     "lat": null,
     "lon": null
   }
