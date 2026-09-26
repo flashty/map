@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_240375",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T08:32:27+00:00",
-    "text": "Каланчак\nХерсонская область РФ и далее в направлении моря, Раздольненский район, залив Красноперекопск, Красноперекопск опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132972",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T08:32:34+00:00",
-    "text": "Каланчак\nХерсонская область РФ и далее в направлении моря, Раздольненский район, залив Красноперекопск, Красноперекопск опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_93670",
-    "channel": "vrv_radar",
-    "date": "2026-09-25T08:39:37+00:00",
-    "text": "Ростовская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240376",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T08:39:40+00:00",
-    "text": "Южная часть Ростовской области опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132973",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T08:39:53+00:00",
-    "text": "Южная часть Ростовской области\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240377",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T08:48:05+00:00",
-    "text": "От Волоконовки, в направлении Корочи\nТревога по БПЛА\nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_95983",
-    "channel": "radarrussiia",
-    "date": "2026-09-25T08:48:16+00:00",
-    "text": "Ростовская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132974",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T08:48:31+00:00",
-    "text": "От Волоконовки, в направлении Корочи\nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_87150",
-    "channel": "locatorru",
-    "date": "2026-09-25T08:48:57+00:00",
-    "text": "Ростовская область - опасность по БПЛА по югу. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_87151_Матвеев Курган",
     "channel": "locatorru",
     "date": "2026-09-25T08:49:10+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_93862",
+    "channel": "vrv_radar",
+    "date": "2026-09-26T11:02:41+00:00",
+    "text": "Новороссийск и близлежащие\nКраснодарский край\nОтбой опасности по БПЛА\nОпасность по региону сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_240990",
+    "channel": "LPRalarm",
+    "date": "2026-09-26T11:05:41+00:00",
+    "text": "Запорожская область РФ \nЛДНР \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133507",
+    "channel": "kupolrussia",
+    "date": "2026-09-26T11:05:56+00:00",
+    "text": "Запорожская область РФ \nЛДНР\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_240991",
+    "channel": "LPRalarm",
+    "date": "2026-09-26T11:06:16+00:00",
+    "text": "трасса Брянка - Алчевск\nЛНР \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133508",
+    "channel": "kupolrussia",
+    "date": "2026-09-26T11:06:30+00:00",
+    "text": "трасса Брянка - Алчевск\nЛНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_240992",
+    "channel": "LPRalarm",
+    "date": "2026-09-26T11:14:23+00:00",
+    "text": "Фрунзе и близлежащие \nЛНР \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_240993",
+    "channel": "LPRalarm",
+    "date": "2026-09-26T11:14:56+00:00",
+    "text": "Керченский полуостров \nКерчь и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133509",
+    "channel": "kupolrussia",
+    "date": "2026-09-26T11:15:05+00:00",
+    "text": "Фрунзе и близлежащие \nЛНР \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133510",
+    "channel": "kupolrussia",
+    "date": "2026-09-26T11:15:16+00:00",
+    "text": "Керченский полуостров \nКерчь и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
