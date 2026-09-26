@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_240647",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T18:45:49+00:00",
-    "text": "Запорожская область РФ \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133222",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T18:46:07+00:00",
-    "text": "Запорожская область РФ \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240648",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T18:46:16+00:00",
-    "text": "Луганск и близлежащие \nТревога по БПЛА \nПовторно",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240649_Хомутовского",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T18:46:42+00:00",
-    "text": "Рыльск \nОпасность по БПЛА со стороны Хомутовского района\nКурская область",
-    "type": "drone",
-    "location_name": "Хомутовского",
-    "region": "Курская область",
-    "lat": 51.9243293,
-    "lon": 34.5642614
-  },
-  {
-    "id": "kupolrussia_133223_Хомутовского",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T18:46:50+00:00",
-    "text": "Рыльск \nОпасность по БПЛА со стороны Хомутовского района\nКурская область",
-    "type": "drone",
-    "location_name": "Хомутовского",
-    "region": "Курская область",
-    "lat": 51.9243293,
-    "lon": 34.5642614
-  },
-  {
-    "id": "LPRalarm_240650",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T18:47:00+00:00",
-    "text": "Светлодолинск\nМелитопольский район  возможно БПЛА разведчик\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_240651",
     "channel": "LPRalarm",
     "date": "2026-09-25T18:49:45+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87320",
+    "channel": "locatorru",
+    "date": "2026-09-26T22:49:02+00:00",
+    "text": "Воронежская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_93918",
+    "channel": "vrv_radar",
+    "date": "2026-09-26T22:50:16+00:00",
+    "text": "Воронежская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_96107",
+    "channel": "radarrussiia",
+    "date": "2026-09-26T22:50:57+00:00",
+    "text": "Воронежская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14736",
+    "channel": "radar_plus_bpla",
+    "date": "2026-09-26T22:56:57+00:00",
+    "text": "Воронежская область - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241225",
+    "channel": "LPRalarm",
+    "date": "2026-09-26T23:00:26+00:00",
+    "text": "Ирмино\nСтаханов\nБрянка\nАлчевск\nЛуганск\nИ близлежащие\nТревога по БПЛА\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133717",
+    "channel": "kupolrussia",
+    "date": "2026-09-26T23:00:33+00:00",
+    "text": "Ирмино\nСтаханов\nБрянка\nАлчевск\nЛуганск\nИ близлежащие\nТревога по БПЛА\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
