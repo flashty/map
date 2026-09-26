@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_133183",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T17:31:38+00:00",
-    "text": "Противник готовит массовый запуск БПЛА от Николаевской и Одесской областей",
-    "type": "drone",
-    "location_name": null,
-    "region": "Одесской областей",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240604",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T17:35:17+00:00",
-    "text": "Массовые запуски БПЛА от Одесской области в море",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133184",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T17:35:26+00:00",
-    "text": "Массовые запуски БПЛА от Одесской области в море",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240605",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T17:40:51+00:00",
-    "text": "Осипенко\nБердянск и близлежащие\nТревога по БПЛА\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133185",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T17:43:02+00:00",
-    "text": "Осипенко\nБердянск и близлежащие\nТревога по БПЛА\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_87166",
     "channel": "locatorru",
     "date": "2026-09-25T17:44:15+00:00",
@@ -21996,6 +21941,61 @@
     "type": "unknown",
     "location_name": null,
     "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241184",
+    "channel": "LPRalarm",
+    "date": "2026-09-26T20:10:50+00:00",
+    "text": "Запорожская область РФ \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_96102_Белокалитвинский",
+    "channel": "radarrussiia",
+    "date": "2026-09-26T20:11:03+00:00",
+    "text": "Белокалитвинский район \nРостовская область \nФиксация БПЛА в направлении Морозовского района\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Белокалитвинский",
+    "region": "Ростовская область",
+    "lat": 48.2580227,
+    "lon": 40.8413689
+  },
+  {
+    "id": "kupolrussia_133687",
+    "channel": "kupolrussia",
+    "date": "2026-09-26T20:14:14+00:00",
+    "text": "Запорожская область РФ \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_93910",
+    "channel": "vrv_radar",
+    "date": "2026-09-26T20:14:42+00:00",
+    "text": "Республика Адыгея\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_93911",
+    "channel": "vrv_radar",
+    "date": "2026-09-26T20:15:07+00:00",
+    "text": "Астраханская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Астраханская область",
     "lat": null,
     "lon": null
   }
