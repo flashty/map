@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_240641_Боровское",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T18:42:38+00:00",
-    "text": "Рыльск, Боровское, Пригородняя Слободка опасность по БПЛА, возможно со сбросами ФПВ\nКурская область",
-    "type": "drone",
-    "location_name": "Боровское",
-    "region": "Курская область",
-    "lat": 51.5708811,
-    "lon": 34.7282469
-  },
-  {
-    "id": "kupolrussia_133216",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T18:42:54+00:00",
-    "text": "Новоазовск, ДНР, и далее на Ростовскую область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_87169",
-    "channel": "locatorru",
-    "date": "2026-09-25T18:42:55+00:00",
-    "text": "Почеп и близлежащие, Брянская область - фиксация БПЛА на электротяге в тыл. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240642_Суземский",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T18:43:11+00:00",
-    "text": "Суземский район\nТрубчевский район \nНавлинский район \nОпасность по БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": "Суземский",
-    "region": "Брянская область",
-    "lat": 52.410945,
-    "lon": 34.0616231
-  },
-  {
-    "id": "LPRalarm_240642_Трубчевский",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T18:43:11+00:00",
-    "text": "Суземский район\nТрубчевский район \nНавлинский район \nОпасность по БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": "Трубчевский",
-    "region": "Брянская область",
-    "lat": 52.5867776,
-    "lon": 33.7892267
-  },
-  {
-    "id": "LPRalarm_240642_Навлинский",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T18:43:11+00:00",
-    "text": "Суземский район\nТрубчевский район \nНавлинский район \nОпасность по БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": "Навлинский",
-    "region": "Брянская область",
-    "lat": 52.8910027,
-    "lon": 34.4096754
-  },
-  {
     "id": "kupolrussia_133217_Суземский",
     "channel": "kupolrussia",
     "date": "2026-09-25T18:43:32+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241218_Севастополь",
+    "channel": "LPRalarm",
+    "date": "2026-09-26T22:09:13+00:00",
+    "text": "Севастополь, опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "kupolrussia_133710_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-09-26T22:09:19+00:00",
+    "text": "Севастополь, опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "LPRalarm_241219",
+    "channel": "LPRalarm",
+    "date": "2026-09-26T22:12:17+00:00",
+    "text": "Уютное\nЕвпатория\nИ близлежащие\nТревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133711",
+    "channel": "kupolrussia",
+    "date": "2026-09-26T22:12:23+00:00",
+    "text": "Уютное\nЕвпатория\nИ близлежащие\nТревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241220",
+    "channel": "LPRalarm",
+    "date": "2026-09-26T22:13:29+00:00",
+    "text": "Новофедоровка \nФрунзе \nИвановка \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133712",
+    "channel": "kupolrussia",
+    "date": "2026-09-26T22:13:35+00:00",
+    "text": "Новофедоровка \nФрунзе \nИвановка \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
