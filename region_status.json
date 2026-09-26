@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "missile",
-    "text": "Ростовская область - ракетная опасность, повторно! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-26T02:39:19+00:00",
-    "expires_at": "2026-09-26T03:39:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
@@ -29,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Тихорецк и близлежащие, Краснодарский край - меры предосторожности при БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-26T02:48:47+00:00",
-    "expires_at": "2026-09-26T03:48:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
@@ -46,6 +26,36 @@
     "channel": "vrv_radar",
     "updated_at": "2026-09-26T02:58:57+00:00",
     "expires_at": "2026-09-26T03:58:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ивановск": {
+    "display_name": "Ивановская область",
+    "type": "drone",
+    "text": "Ивановская область\nВладимирская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-26T03:01:45+00:00",
+    "expires_at": "2026-09-26T04:01:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "drone",
+    "text": "Петушинский район\nВладимирская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-26T03:02:25+00:00",
+    "expires_at": "2026-09-26T04:02:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Ивановка ЛНР\nИ близлежащие\nТревога по БПЛА\nИ далее на восток",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-26T03:07:25+00:00",
+    "expires_at": "2026-09-26T04:07:25+00:00",
     "count": null,
     "count_approx": false
   }
