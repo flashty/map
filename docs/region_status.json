@@ -12,10 +12,10 @@
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
-    "text": "Чонгар и близлежащие \nХерсонская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "text": "от Корчма в направлении Каланчак \nХерсонская область РФ \nОпасность по БПЛА Хорнет",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-26T07:58:16+00:00",
-    "expires_at": "2026-09-26T08:58:16+00:00",
+    "updated_at": "2026-09-26T08:56:07+00:00",
+    "expires_at": "2026-09-26T09:56:07+00:00",
     "count": null,
     "count_approx": false
   },
@@ -32,20 +32,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Гвардейское и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
+    "text": "Симферопольский район \nГвардейское \nОпасность по БПЛА с запада \nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-26T08:37:15+00:00",
-    "expires_at": "2026-09-26T09:37:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянская область, Курская область, Орловская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-26T07:47:09+00:00",
-    "expires_at": "2026-09-26T08:47:09+00:00",
+    "updated_at": "2026-09-26T08:57:56+00:00",
+    "expires_at": "2026-09-26T09:57:56+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Орловская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-26T07:50:33+00:00",
-    "expires_at": "2026-09-26T08:50:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
@@ -76,6 +56,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-26T08:03:30+00:00",
     "expires_at": "2026-09-26T09:03:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарском крае",
+    "type": "drone",
+    "text": "Три человека погибли, двое пострадали при атаке БПЛА в Краснодарском крае.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-26T08:59:42+00:00",
+    "expires_at": "2026-09-26T09:59:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "от Карбонита на Восток \nОпасность по БПЛА Хорнет\nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-26T08:46:31+00:00",
+    "expires_at": "2026-09-26T09:46:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградская область",
+    "type": "alert",
+    "text": "Волгоград \nВолгоградская область \nЗвуки не несут опасности. Учения О. Зеленый",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-26T08:55:02+00:00",
+    "expires_at": "2026-09-26T09:55:02+00:00",
     "count": null,
     "count_approx": false
   }
