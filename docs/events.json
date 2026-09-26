@@ -1,82 +1,5 @@
 [
   {
-    "id": "vrv_radar_93667",
-    "channel": "vrv_radar",
-    "date": "2026-09-25T07:15:15+00:00",
-    "text": "Смоленская область \nТверская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_93668",
-    "channel": "vrv_radar",
-    "date": "2026-09-25T07:15:33+00:00",
-    "text": "Московская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_95982",
-    "channel": "radarrussiia",
-    "date": "2026-09-25T07:16:16+00:00",
-    "text": "Орловская область \nСмоленская область \nТверская область \nМосковская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240349",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T07:17:23+00:00",
-    "text": "Селидово ДНР ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_132947",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T07:17:38+00:00",
-    "text": "Селидово ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240350",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T07:17:41+00:00",
-    "text": "Украинск ДНР ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240351",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T07:17:55+00:00",
-    "text": "Шевченко ДНР ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_132948",
     "channel": "kupolrussia",
     "date": "2026-09-25T07:18:01+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_240968",
+    "channel": "LPRalarm",
+    "date": "2026-09-26T09:49:01+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133484",
+    "channel": "kupolrussia",
+    "date": "2026-09-26T09:49:19+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_240969",
+    "channel": "LPRalarm",
+    "date": "2026-09-26T09:52:15+00:00",
+    "text": "От Каменки-Днепровской фиксации БПЛА на Мелитополь\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_240970",
+    "channel": "LPRalarm",
+    "date": "2026-09-26T09:52:25+00:00",
+    "text": "Родинское, Красноармейск ДНР УАБы",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133485",
+    "channel": "kupolrussia",
+    "date": "2026-09-26T09:52:41+00:00",
+    "text": "Родинское, Красноармейск ДНР УАБы",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133486",
+    "channel": "kupolrussia",
+    "date": "2026-09-26T09:52:47+00:00",
+    "text": "От Каменки-Днепровской фиксации БПЛА на Мелитополь\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133487",
+    "channel": "kupolrussia",
+    "date": "2026-09-26T09:54:31+00:00",
+    "text": "Родинское, Красноармейск ДНР УАБы",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
