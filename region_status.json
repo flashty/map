@@ -1,14 +1,4 @@
 {
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Новофедоровка и ближайшие тревога по БПЛА \nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-26T13:45:33+00:00",
-    "expires_at": "2026-09-26T14:45:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -26,16 +16,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-26T14:07:17+00:00",
     "expires_at": "2026-09-26T15:07:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Сочи  \nКраснодарский край \nПродолжается работа ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-26T14:29:12+00:00",
-    "expires_at": "2026-09-26T15:29:12+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +66,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-26T14:26:38+00:00",
     "expires_at": "2026-09-26T15:26:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Орловская область опасность по БПЛА от Брянской области",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-26T14:35:17+00:00",
+    "expires_at": "2026-09-26T15:35:17+00:00",
     "count": null,
     "count_approx": false
   }
