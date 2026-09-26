@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "alert",
-    "text": "ЛДНР, Запорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-26T13:57:16+00:00",
-    "expires_at": "2026-09-26T14:57:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "missile",
@@ -76,6 +66,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-26T14:35:17+00:00",
     "expires_at": "2026-09-26T15:35:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Трасса \nКрасногвардейское - Октябрьское \nтревога  по БПЛА \nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-26T14:58:22+00:00",
+    "expires_at": "2026-09-26T15:58:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Пантелеймоновка, Корсунь, Енакиево и близлежащие \nОпасность по БПЛА \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-26T14:56:52+00:00",
+    "expires_at": "2026-09-26T15:56:52+00:00",
     "count": null,
     "count_approx": false
   }
