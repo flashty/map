@@ -1,14 +1,4 @@
 {
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Великая Знаменка и далее на Мелитополь\nЗапорожская область РФ\nТревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-26T16:35:35+00:00",
-    "expires_at": "2026-09-26T17:35:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ставропольск": {
     "display_name": "Ставропольский край",
     "type": "drone",
@@ -26,6 +16,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-26T17:31:00+00:00",
     "expires_at": "2026-09-26T18:31:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Ясиноватая, Макеевка, Донецк и близлежащие \nДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-26T17:32:04+00:00",
+    "expires_at": "2026-09-26T18:32:04+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Красный Луч и близлежащие \nОпасность по БПЛА-разведчику\nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-26T17:37:32+00:00",
+    "expires_at": "2026-09-26T18:37:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "alert",
+    "text": "Туапсе и близлежащие\nКраснодарский край\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-26T17:42:19+00:00",
+    "expires_at": "2026-09-26T18:42:19+00:00",
     "count": null,
     "count_approx": false
   }
