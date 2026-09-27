@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_93693_Неклиновский",
-    "channel": "vrv_radar",
-    "date": "2026-09-25T19:04:46+00:00",
-    "text": "Неклиновский район\nРостовская область\nФиксация 2 БПЛА",
-    "type": "drone",
-    "location_name": "Неклиновский",
-    "region": "Ростовская область",
-    "lat": 47.3415164,
-    "lon": 38.7288396
-  },
-  {
-    "id": "kupolrussia_133231",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T19:04:52+00:00",
-    "text": "Навля и близлежащие \nТревога по БПЛА \nИ далее в тыл\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_93694_Матвеево-Курганский",
-    "channel": "vrv_radar",
-    "date": "2026-09-25T19:05:11+00:00",
-    "text": "Матвеево-Курганский район\nРостовская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Матвеево-Курганский",
-    "region": "Ростовская область",
-    "lat": 47.5696236,
-    "lon": 38.7695966
-  },
-  {
     "id": "LPRalarm_240659",
     "channel": "LPRalarm",
     "date": "2026-09-25T19:07:04+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241240",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T01:50:47+00:00",
+    "text": "Далёкое\nСлавное и близлежащие \nТревога по БПЛА с моря \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133731",
+    "channel": "kupolrussia",
+    "date": "2026-09-27T01:50:51+00:00",
+    "text": "Далёкое\nСлавное и близлежащие \nТревога по БПЛА с моря \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241241",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T02:01:13+00:00",
+    "text": "Адлер\nСочи \nИ близлежащие\nОтбой опасности БПЛА\nКраснодарский край",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
