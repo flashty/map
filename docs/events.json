@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_240672",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T19:23:16+00:00",
-    "text": "Сельцо \nИ ближайшие \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240673",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T19:23:35+00:00",
-    "text": "Горностаевка и далее на Юго-Восток \nТревога по БПЛА \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133245_Сельцо",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T19:23:39+00:00",
-    "text": "Сельцо \nИ ближайшие \nБрянская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Сельцо",
-    "region": "Брянская область",
-    "lat": 53.3709842,
-    "lon": 34.1065866
-  },
-  {
-    "id": "kupolrussia_133246",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T19:23:53+00:00",
-    "text": "Горностаевка и далее на Юго-Восток \nХерсонская область РФ\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240674_Клинцовский",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T19:24:34+00:00",
-    "text": "Клинцовский район\nБрянская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Клинцовский",
-    "region": "Брянская область",
-    "lat": 52.7061238,
-    "lon": 32.0310118
-  },
-  {
     "id": "kupolrussia_133247_Клинцовский",
     "channel": "kupolrussia",
     "date": "2026-09-25T19:25:01+00:00",
@@ -21996,6 +21941,61 @@
     "type": "all_clear",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241252",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T04:02:57+00:00",
+    "text": "Скадовский район и близлежащие \nОпасность по возможным  БПЛА или фпв \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241253",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T04:05:54+00:00",
+    "text": "Скадовск , район заправок \nТревога по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133742",
+    "channel": "kupolrussia",
+    "date": "2026-09-27T04:06:02+00:00",
+    "text": "Скадовск , район заправок \nТревога по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241254",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T04:06:21+00:00",
+    "text": "Шебекино \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133743",
+    "channel": "kupolrussia",
+    "date": "2026-09-27T04:06:30+00:00",
+    "text": "Шебекино \nТревога по БПЛА Хорнет\nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
     "lat": null,
     "lon": null
   }
