@@ -1,14 +1,4 @@
 {
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Выгоничи и близлежащие \nОпасность по БПЛА на электротяге \n\nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-27T11:59:30+00:00",
-    "expires_at": "2026-09-27T12:59:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "воронежск": {
     "display_name": "Воронежскую область",
     "type": "drone",
@@ -29,26 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Туапсе и близлежащие \nТревога по БПЛА сохраняется \nПринять меры безопасности \nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-27T12:28:06+00:00",
-    "expires_at": "2026-09-27T13:28:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-27T12:13:02+00:00",
-    "expires_at": "2026-09-27T13:13:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -66,6 +36,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-27T12:43:40+00:00",
     "expires_at": "2026-09-27T13:43:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарско": {
+    "display_name": "Краснодарского края",
+    "type": "alert",
+    "text": "Экстренная информация РСЧС (Краснодарский край): Отмена БЕСПИЛОТНОЙ ОПАСНОСТИ на территории Краснодарского края. 27.09.26 Телефон 112.",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-27T12:58:33+00:00",
+    "expires_at": "2026-09-27T13:58:33+00:00",
     "count": null,
     "count_approx": false
   }
