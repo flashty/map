@@ -12,40 +12,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Погар и близлежащие\nТревога по БПЛА\nБрянская область",
+    "text": "Брянская область\nДятьковский район\nОпасность по БПЛА",
     "channel": "LPRalarm",
-    "updated_at": "2026-09-27T20:59:44+00:00",
-    "expires_at": "2026-09-27T21:59:44+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "ЛНР\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\n> © \"КРАСНЫЙ УРОВЕНЬ\"\n(Х © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-27T21:00:38+00:00",
-    "expires_at": "2026-09-27T22:00:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Туапсе и близлежащие \nПринять меры безопасности \nЕщё фиксации БПЛА \nКраснодарский край",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-27T20:57:45+00:00",
-    "expires_at": "2026-09-27T21:57:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовской области",
-    "type": "drone",
-    "text": "Свердловск ЛНР и близлежащие\nТревога по БПЛА\nИ далее в направлении Ростовской области",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-27T20:56:54+00:00",
-    "expires_at": "2026-09-27T21:56:54+00:00",
+    "updated_at": "2026-09-27T21:54:43+00:00",
+    "expires_at": "2026-09-27T22:54:43+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +36,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-27T21:37:14+00:00",
     "expires_at": "2026-09-27T22:37:14+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Воронежская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-27T21:49:34+00:00",
+    "expires_at": "2026-09-27T22:49:34+00:00",
     "count": null,
     "count_approx": false
   }
