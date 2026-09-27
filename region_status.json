@@ -10,12 +10,12 @@
     "count_approx": false
   },
   "курск": {
-    "display_name": "Курской области",
+    "display_name": "Курская область",
     "type": "drone",
-    "text": "От Сумской области через Хомутовский район, Курской области пролёты БПЛА в сторону Дмириев-Льговский, Курск, Железногорск, далее на Орловскую область.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-27T22:40:54+00:00",
-    "expires_at": "2026-09-27T23:40:54+00:00",
+    "text": "Курская область\nтревога по БПЛА сохраняется",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-27T23:00:16+00:00",
+    "expires_at": "2026-09-28T00:00:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +106,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-27T22:40:30+00:00",
     "expires_at": "2026-09-27T23:40:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рязанская область \nВнимание по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-27T22:59:38+00:00",
+    "expires_at": "2026-09-27T23:59:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Московская область \nВнимание по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-27T22:59:46+00:00",
+    "expires_at": "2026-09-27T23:59:46+00:00",
     "count": null,
     "count_approx": false
   }
