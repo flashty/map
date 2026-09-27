@@ -1,14 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Володарское и близлежащие\nВ направлении Мариуполь\nТревога по БПЛА сохраняется\n\nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-27T21:26:17+00:00",
-    "expires_at": "2026-09-27T22:26:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -42,20 +32,60 @@
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Россошанский район\nВоронежская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-27T22:09:58+00:00",
-    "expires_at": "2026-09-27T23:09:58+00:00",
+    "text": "В сторону Россошь, Кантемировка, Воронежская область группа БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-27T22:24:36+00:00",
+    "expires_at": "2026-09-27T23:24:36+00:00",
     "count": null,
     "count_approx": false
   },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
-    "text": "Херсонская область РФ \nЗапорожская область РФ \nопасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-27T22:03:55+00:00",
-    "expires_at": "2026-09-27T23:03:55+00:00",
+    "text": "Херсонская область РФ тревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-27T22:23:20+00:00",
+    "expires_at": "2026-09-27T23:23:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовской областей",
+    "type": "drone",
+    "text": "Стык Воронежской и Ростовской областей - опасность по БПЛА от ЛНР. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-27T22:26:49+00:00",
+    "expires_at": "2026-09-27T23:26:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калужская область\nСмоленская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-27T22:29:53+00:00",
+    "expires_at": "2026-09-27T23:29:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Калужская область\nСмоленская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-27T22:29:53+00:00",
+    "expires_at": "2026-09-27T23:29:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Шебекино, Белгородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-27T22:29:54+00:00",
+    "expires_at": "2026-09-27T23:29:54+00:00",
     "count": null,
     "count_approx": false
   }
