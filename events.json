@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_133310",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T21:49:23+00:00",
-    "text": "Ейск и близлежащие\nТревога по БПЛА\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_93746",
-    "channel": "vrv_radar",
-    "date": "2026-09-25T21:52:37+00:00",
-    "text": "МО Чехов \nМосковская область \nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240762",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T21:53:20+00:00",
-    "text": "Крымск\nАбинск\nАхтырский\nИльский\nАфипский\nСеверская\nКраснодар\nТревога по БПЛА сохраняется\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_133311",
     "channel": "kupolrussia",
     "date": "2026-09-25T21:53:37+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Донецкая область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_241384",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T14:42:39+00:00",
+    "text": "Наши дорогие близкие!\n\nСпасибо огромное за поддержку нашей деятельности. \nБез Вашей помощи нам было бы невозможно выполнять задачу\n❤️❤️❤️\n\nhttps://pay.cloudtips.ru/p/f2a9c1d8",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241385_Оленевка",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T14:45:09+00:00",
+    "text": "Оленевка, Тарханкут, Маяк с моря с запада опасность по БПЛА \nКрым",
+    "type": "drone",
+    "location_name": "Оленевка",
+    "region": null,
+    "lat": 52.9814608,
+    "lon": 44.883683
+  },
+  {
+    "id": "LPRalarm_241385_Крым",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T14:45:09+00:00",
+    "text": "Оленевка, Тарханкут, Маяк с моря с запада опасность по БПЛА \nКрым",
+    "type": "drone",
+    "location_name": "Крым",
+    "region": null,
+    "lat": 47.303017,
+    "lon": 39.51408
   }
 ]
