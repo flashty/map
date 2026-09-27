@@ -1,24 +1,4 @@
 {
-  "воронежск": {
-    "display_name": "Воронежскую область",
-    "type": "drone",
-    "text": "Единичные БПЛА, летящие на Воронежскую область уничтожаются на границе.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-09-27T12:32:11+00:00",
-    "expires_at": "2026-09-27T13:32:11+00:00",
-    "count": 1,
-    "count_approx": true
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Новогригоровка\nНовый Мир \nРыково\nАзовское и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-27T12:05:08+00:00",
-    "expires_at": "2026-09-27T13:05:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -46,6 +26,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-27T12:58:33+00:00",
     "expires_at": "2026-09-27T13:58:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Новониколаевка\nФруктовое\nАкимовка и близлежащие \nОпасность по БПЛА Хорнет \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-27T13:02:01+00:00",
+    "expires_at": "2026-09-27T14:02:01+00:00",
     "count": null,
     "count_approx": false
   }
