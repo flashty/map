@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_93777",
-    "channel": "vrv_radar",
-    "date": "2026-09-26T00:02:21+00:00",
-    "text": "Ставропольский край\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_87232",
-    "channel": "locatorru",
-    "date": "2026-09-26T00:03:08+00:00",
-    "text": "Ставропольский край, Кабардино-Балкарская Республика, Карачаево-Черкесская Республика, Республика Дагестан, Республика Ингушетия, Республика Северная Осетия - Алания, Чеченская Республика - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240800",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T00:03:09+00:00",
-    "text": "Белгород и близлежащие\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_93778",
-    "channel": "vrv_radar",
-    "date": "2026-09-26T00:03:34+00:00",
-    "text": "Республика Адыгея\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Республика Адыгея",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_93779_Воскресенск",
-    "channel": "vrv_radar",
-    "date": "2026-09-26T00:04:52+00:00",
-    "text": "ГО Воскресенск\nМосковская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Воскресенск",
-    "region": "Московская область",
-    "lat": 55.322518,
-    "lon": 38.6816824
-  },
-  {
     "id": "vrv_radar_93780_Егорьевск",
     "channel": "vrv_radar",
     "date": "2026-09-26T00:05:26+00:00",
@@ -21993,6 +21938,61 @@
     "channel": "LPRalarm",
     "date": "2026-09-27T21:54:43+00:00",
     "text": "Брянская область\nДятьковский район\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241505",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T22:03:52+00:00",
+    "text": "Херсонская область РФ \nЗапорожская область РФ \nопасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133947",
+    "channel": "kupolrussia",
+    "date": "2026-09-27T22:03:55+00:00",
+    "text": "Херсонская область РФ \nЗапорожская область РФ \nопасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_93962_Россошанский",
+    "channel": "vrv_radar",
+    "date": "2026-09-27T22:09:58+00:00",
+    "text": "Россошанский район\nВоронежская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Россошанский",
+    "region": "Воронежская область",
+    "lat": 50.1186442,
+    "lon": 39.6627682
+  },
+  {
+    "id": "kupolrussia_133949",
+    "channel": "kupolrussia",
+    "date": "2026-09-27T22:14:53+00:00",
+    "text": "Брянская область\nопасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241506",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T22:14:55+00:00",
+    "text": "Брянская область\nопасность по БПЛА сохраняется",
     "type": "drone",
     "location_name": null,
     "region": "Брянская область",
