@@ -1,115 +1,5 @@
 [
   {
-    "id": "LPRalarm_240667",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T19:17:47+00:00",
-    "text": "Калужская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240668",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T19:18:25+00:00",
-    "text": "Брянская область\nВсе районы\nТревога по БПЛА\nСоблюдайте меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_93695_Чертковский",
-    "channel": "vrv_radar",
-    "date": "2026-09-25T19:18:44+00:00",
-    "text": "Чертковский район \nРостовская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Чертковский",
-    "region": "Ростовская область",
-    "lat": 49.4049606,
-    "lon": 40.6115668
-  },
-  {
-    "id": "kupolrussia_133241",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T19:19:27+00:00",
-    "text": "Брянская область\nВсе районы\nТревога по БПЛА\nСоблюдайте меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240669_Тарасовский",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T19:20:23+00:00",
-    "text": "Миллеровский\nЧертковский\nТарасовский районы\nРостовская область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Тарасовский",
-    "region": "Ростовская область",
-    "lat": 48.727145,
-    "lon": 40.3554416
-  },
-  {
-    "id": "kupolrussia_133242_Тарасовский",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T19:21:00+00:00",
-    "text": "Миллеровский\nЧертковский\nТарасовский районы\nРостовская область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Тарасовский",
-    "region": "Ростовская область",
-    "lat": 48.727145,
-    "lon": 40.3554416
-  },
-  {
-    "id": "LPRalarm_240670",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T19:21:43+00:00",
-    "text": "Приморский Посад\nИ близлежащие\nДалее на юг\nТревога по БПЛА\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133243",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T19:22:08+00:00",
-    "text": "Приморский Посад\nИ близлежащие\nДалее на юг\nЗапорожская область РФ\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240671",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T19:22:12+00:00",
-    "text": "Мелитополь и близлежащие\nТревога по БПЛА сохраняется\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133244",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T19:22:29+00:00",
-    "text": "Мелитополь и близлежащие\nТревога по БПЛА сохраняется\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_240672",
     "channel": "LPRalarm",
     "date": "2026-09-25T19:23:16+00:00",
@@ -21996,6 +21886,116 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87328",
+    "channel": "locatorru",
+    "date": "2026-09-27T03:47:14+00:00",
+    "text": "Смоленская область, Калужская область, Орловская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_93925",
+    "channel": "vrv_radar",
+    "date": "2026-09-27T03:47:23+00:00",
+    "text": "Орловская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87329",
+    "channel": "locatorru",
+    "date": "2026-09-27T03:47:43+00:00",
+    "text": "Белгородская область, Воронежская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_93926",
+    "channel": "vrv_radar",
+    "date": "2026-09-27T03:48:03+00:00",
+    "text": "Воронежская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_93927",
+    "channel": "vrv_radar",
+    "date": "2026-09-27T03:48:30+00:00",
+    "text": "Отбой опасности и внимания по БПЛА по ранее объявленным регионам\nСпасибо ПВО 🤍",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241250",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T03:48:33+00:00",
+    "text": "Воронежская область \nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241251",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T03:48:51+00:00",
+    "text": "Курская область \nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133741_Курская \nВоронежская",
+    "channel": "kupolrussia",
+    "date": "2026-09-27T03:49:10+00:00",
+    "text": "Курская \nВоронежская",
+    "type": "unknown",
+    "location_name": "Курская \nВоронежская",
+    "region": null,
+    "lat": 51.6442336,
+    "lon": 38.8525073
+  },
+  {
+    "id": "locatorru_87330",
+    "channel": "locatorru",
+    "date": "2026-09-27T03:49:13+00:00",
+    "text": "Брянская область, Курская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87331",
+    "channel": "locatorru",
+    "date": "2026-09-27T03:49:36+00:00",
+    "text": "Отбой опасности и внимания по БПЛА во всех ранее объявленных регионах. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
