@@ -1,38 +1,5 @@
 [
   {
-    "id": "locatorru_87182",
-    "channel": "locatorru",
-    "date": "2026-09-25T21:17:33+00:00",
-    "text": "Пролёты БПЛА через Рыльск на Льгов, Курской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_93725_Орёл",
-    "channel": "vrv_radar",
-    "date": "2026-09-25T21:17:37+00:00",
-    "text": "Орёл\nОрловская область\nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Орёл",
-    "region": "Орловская область",
-    "lat": 52.9709262,
-    "lon": 36.0642127
-  },
-  {
-    "id": "LPRalarm_240744",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T21:17:57+00:00",
-    "text": "Суземка и близлежащие \nТревога по БПЛА от ГГ\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_93726",
     "channel": "vrv_radar",
     "date": "2026-09-25T21:18:18+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241335",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T10:37:16+00:00",
+    "text": "Миллерово отбой опасности по БПЛА\nРостовская область",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133816",
+    "channel": "kupolrussia",
+    "date": "2026-09-27T10:37:53+00:00",
+    "text": "Миллерово отбой опасности по БПЛА\nРостовская область",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241336",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T10:45:42+00:00",
+    "text": "Брянская область\nКалужская область, Орловская область от Брянской области опасность по реактивным БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }

@@ -22,10 +22,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Брянская область, Курская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-27T09:32:57+00:00",
-    "expires_at": "2026-09-27T10:32:57+00:00",
+    "text": "Брянская область\nКалужская область, Орловская область от Брянской области опасность по реактивным БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-27T10:45:42+00:00",
+    "expires_at": "2026-09-27T11:45:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,26 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Ростовская область - опасность по БПЛА по северу региона. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-27T10:01:02+00:00",
-    "expires_at": "2026-09-27T11:01:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Геленджик, Анапа, Новороссийск, Абинск, Крымск, Темрюк, Краснодарский край - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-27T09:38:09+00:00",
-    "expires_at": "2026-09-27T10:38:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
@@ -66,16 +46,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-27T10:16:41+00:00",
     "expires_at": "2026-09-27T11:16:41+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-27T09:37:29+00:00",
-    "expires_at": "2026-09-27T10:37:29+00:00",
     "count": null,
     "count_approx": false
   },
@@ -90,12 +60,22 @@
     "count_approx": false
   },
   "орловск": {
-    "display_name": "Орловской области",
+    "display_name": "Орловская область",
     "type": "drone",
-    "text": "Золотухинский район, Курская область - опасность по БПЛА и в сторону Орловской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-27T10:10:23+00:00",
-    "expires_at": "2026-09-27T11:10:23+00:00",
+    "text": "Брянская область\nКалужская область, Орловская область от Брянской области опасность по реактивным БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-27T10:45:42+00:00",
+    "expires_at": "2026-09-27T11:45:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Брянская область\nКалужская область, Орловская область от Брянской области опасность по реактивным БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-27T10:45:42+00:00",
+    "expires_at": "2026-09-27T11:45:42+00:00",
     "count": null,
     "count_approx": false
   }
