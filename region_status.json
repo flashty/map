@@ -1,14 +1,4 @@
 {
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянская область\nопасность по БПЛА сохраняется",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-27T22:14:55+00:00",
-    "expires_at": "2026-09-27T23:14:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
@@ -26,16 +16,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-27T22:36:56+00:00",
     "expires_at": "2026-09-27T23:36:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Воронеж и близлежащие \nВоронежская область \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-27T22:51:56+00:00",
-    "expires_at": "2026-09-27T23:51:56+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,10 +42,10 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Кировский район \nУльяновский район \nКалужская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-27T22:38:02+00:00",
-    "expires_at": "2026-09-27T23:38:02+00:00",
+    "text": "Людиновский район \nХвастовичский район \nЖиздринский район \nКалужская область \nФиксация группы БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-27T23:15:13+00:00",
+    "expires_at": "2026-09-28T00:15:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -82,10 +62,10 @@
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
-    "text": "Белгородская область\nТревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-27T22:56:32+00:00",
-    "expires_at": "2026-09-27T23:56:32+00:00",
+    "text": "Белгородская область\nТревога по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-27T23:04:10+00:00",
+    "expires_at": "2026-09-28T00:04:10+00:00",
     "count": null,
     "count_approx": false
   },
@@ -102,30 +82,30 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Тульская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Алексин\nТульская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-27T22:40:30+00:00",
-    "expires_at": "2026-09-27T23:40:30+00:00",
+    "updated_at": "2026-09-27T23:03:52+00:00",
+    "expires_at": "2026-09-28T00:03:52+00:00",
     "count": null,
     "count_approx": false
   },
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Рязанская область \nВнимание по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-27T22:59:38+00:00",
-    "expires_at": "2026-09-27T23:59:38+00:00",
+    "text": "Рязанская область \nМосковская область \nВнимание по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-27T23:03:06+00:00",
+    "expires_at": "2026-09-28T00:03:06+00:00",
     "count": null,
     "count_approx": false
   },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "Московская область \nВнимание по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-27T22:59:46+00:00",
-    "expires_at": "2026-09-27T23:59:46+00:00",
+    "text": "Рязанская область \nМосковская область \nВнимание по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-27T23:03:06+00:00",
+    "expires_at": "2026-09-28T00:03:06+00:00",
     "count": null,
     "count_approx": false
   }
