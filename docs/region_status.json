@@ -2,20 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Зугрэс и близлежащие \nТревога по БПЛА \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-27T20:57:18+00:00",
-    "expires_at": "2026-09-27T21:57:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Запорожская область РФ \nОпасность по реактивным БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-27T20:20:48+00:00",
-    "expires_at": "2026-09-27T21:20:48+00:00",
+    "text": "Володарское и близлежащие\nВ направлении Мариуполь\nТревога по БПЛА сохраняется\n\nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-27T21:26:17+00:00",
+    "expires_at": "2026-09-27T22:26:17+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Гвардейское и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-27T20:18:42+00:00",
-    "expires_at": "2026-09-27T21:18:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -86,6 +66,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-27T20:44:06+00:00",
     "expires_at": "2026-09-27T21:44:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Хомутовский район и далее в направлении Курска\nОпасность по БПЛА\n\nКурская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-27T21:28:32+00:00",
+    "expires_at": "2026-09-27T22:28:32+00:00",
     "count": null,
     "count_approx": false
   }
