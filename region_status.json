@@ -1,24 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка, Карло, Енакиево и близлежащие \nОпасность по БПЛА \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-27T11:12:57+00:00",
-    "expires_at": "2026-09-27T12:12:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Токмакский район \nТокмак и близлежащие \nЗапорожская область РФ \nОпасность по БПЛА \nПринять меры безопасности",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-27T11:13:47+00:00",
-    "expires_at": "2026-09-27T12:13:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -46,6 +26,36 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-27T11:59:21+00:00",
     "expires_at": "2026-09-27T12:59:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Новогригоровка\nНовый Мир \nРыково\nАзовское и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-27T12:05:08+00:00",
+    "expires_at": "2026-09-27T13:05:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Туапсе и близлежащие \nСочи и близлежащие\nГеленджик и близлежащие\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-27T12:14:07+00:00",
+    "expires_at": "2026-09-27T13:14:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-27T12:13:02+00:00",
+    "expires_at": "2026-09-27T13:13:02+00:00",
     "count": null,
     "count_approx": false
   }
