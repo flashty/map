@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-09-27T19:20:20+00:00",
-        "last_updated": "2026-09-27T19:53:00+00:00",
-        "path_labels": [
-          "Валуйский (Белгородская область)",
-          "Вейделевский (Белгородская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.9638901,
-            50.1632256
-          ],
-          [
-            38.5862881,
-            50.1834343
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
