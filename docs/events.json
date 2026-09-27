@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_240749",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T21:27:26+00:00",
-    "text": "Армянск и близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133303",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T21:27:42+00:00",
-    "text": "Армянск и близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_93732_Раменское",
-    "channel": "vrv_radar",
-    "date": "2026-09-25T21:27:49+00:00",
-    "text": "ГО Раменское\nМосковская область\nОпасность по БПЛА повторно",
-    "type": "drone",
-    "location_name": "Раменское",
-    "region": "Московская область",
-    "lat": 55.5709361,
-    "lon": 38.2282099
-  },
-  {
-    "id": "radarrussiia_96016_Раменское",
-    "channel": "radarrussiia",
-    "date": "2026-09-25T21:28:21+00:00",
-    "text": "ГО Раменское\nМосковская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Раменское",
-    "region": "Московская область",
-    "lat": 55.5709361,
-    "lon": 38.2282099
-  },
-  {
-    "id": "radarrussiia_96017",
-    "channel": "radarrussiia",
-    "date": "2026-09-25T21:28:55+00:00",
-    "text": "Орёл \nОрловская область\nСбитие БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240750_Мценский",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T21:29:30+00:00",
-    "text": "Мценский район\nОрловская область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Мценский",
-    "region": "Орловская область",
-    "lat": 53.2451748,
-    "lon": 36.5945584
-  },
-  {
     "id": "locatorru_87187",
     "channel": "locatorru",
     "date": "2026-09-25T21:29:33+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_96117",
+    "channel": "radarrussiia",
+    "date": "2026-09-27T11:16:27+00:00",
+    "text": "Краснодарский край\nРеспублика Адыгея\nРостовская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241350",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T11:28:20+00:00",
+    "text": "Республика Крым \nСевастополь \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133827",
+    "channel": "kupolrussia",
+    "date": "2026-09-27T11:29:32+00:00",
+    "text": "Республика Крым \nСевастополь\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241351",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T11:30:52+00:00",
+    "text": "В направлении Голая Пристань - Чаплинка УАБ\n\nХерсонская область РФ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241352",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T11:31:01+00:00",
+    "text": "Пуски Уаб\nГолая пристань \nХерсонская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133828",
+    "channel": "kupolrussia",
+    "date": "2026-09-27T11:31:03+00:00",
+    "text": "В направлении Голая Пристань - Чаплинка УАБ\n\nХерсонская область РФ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Херсонская область",
     "lat": null,
     "lon": null
   }
