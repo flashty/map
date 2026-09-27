@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Красный Луч в направлении Луганск опасность по реактивным БПЛА\nЛНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-27T16:02:50+00:00",
-    "expires_at": "2026-09-27T17:02:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
@@ -52,50 +42,50 @@
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Орловская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-27T16:48:13+00:00",
-    "expires_at": "2026-09-27T17:48:13+00:00",
+    "text": "Орловская область \nКалужская область\nСмоленская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-27T17:03:19+00:00",
+    "expires_at": "2026-09-27T18:03:19+00:00",
     "count": null,
     "count_approx": false
   },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "alert",
-    "text": "ЛДНР\nЗапорожская область РФ\nВНИМАНИЕ!!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "drone",
+    "text": "Бердянск\nОсипенко\nИ близлежащие\nТревога по БПЛА\nЗапорожская область РФ",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-27T16:47:07+00:00",
-    "expires_at": "2026-09-27T17:47:07+00:00",
+    "updated_at": "2026-09-27T17:15:41+00:00",
+    "expires_at": "2026-09-27T18:15:41+00:00",
     "count": null,
     "count_approx": false
   },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Брянская область, Калужская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-27T16:53:45+00:00",
-    "expires_at": "2026-09-27T17:53:45+00:00",
+    "text": "Брянская область\nОпасность по БПЛА, повторно",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-27T17:15:35+00:00",
+    "expires_at": "2026-09-27T18:15:35+00:00",
     "count": null,
     "count_approx": false
   },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Калужская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-27T16:57:17+00:00",
-    "expires_at": "2026-09-27T17:57:17+00:00",
+    "text": "Орловская область \nКалужская область\nСмоленская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-27T17:03:19+00:00",
+    "expires_at": "2026-09-27T18:03:19+00:00",
     "count": null,
     "count_approx": false
   },
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
-    "text": "Смоленская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-27T16:58:04+00:00",
-    "expires_at": "2026-09-27T17:58:04+00:00",
+    "text": "Орловская область \nКалужская область\nСмоленская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-27T17:03:19+00:00",
+    "expires_at": "2026-09-27T18:03:19+00:00",
     "count": null,
     "count_approx": false
   }
