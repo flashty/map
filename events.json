@@ -1,82 +1,5 @@
 [
   {
-    "id": "kupolrussia_133269",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T20:03:18+00:00",
-    "text": "Новогригорьевка Генический район Херсонская обл, в направлении Озеряны фиксации БПЛА продолжается",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_93702",
-    "channel": "vrv_radar",
-    "date": "2026-09-25T20:03:33+00:00",
-    "text": "Тульская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240697",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T20:04:17+00:00",
-    "text": "Херсонская область РФ\nЗапорожская область РФ\nТревога по БПЛА сохраняется, в том числе реактивным",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240698",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T20:04:33+00:00",
-    "text": "Мелитопольский район и близлежащие \nЕщё фиксации БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133270",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T20:04:37+00:00",
-    "text": "Херсонская область РФ\nЗапорожская область РФ\nТревога по БПЛА сохраняется, в том числе реактивным",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133271",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T20:04:48+00:00",
-    "text": "Мелитопольский район и близлежащие \nЕщё фиксации БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_96003_Думиничский",
-    "channel": "radarrussiia",
-    "date": "2026-09-25T20:06:21+00:00",
-    "text": "Думиничский район \nКалужская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Думиничский",
-    "region": "Калужская область",
-    "lat": 53.933388,
-    "lon": 35.105518
-  },
-  {
     "id": "LPRalarm_240699_Курский",
     "channel": "LPRalarm",
     "date": "2026-09-25T20:06:51+00:00",
@@ -21998,5 +21921,82 @@
     "region": "Херсонская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_241282",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T07:49:19+00:00",
+    "text": "ЛДНР\nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133769",
+    "channel": "kupolrussia",
+    "date": "2026-09-27T07:49:37+00:00",
+    "text": "ЛДНР\nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_93930",
+    "channel": "vrv_radar",
+    "date": "2026-09-27T07:49:53+00:00",
+    "text": "Воронежская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241283",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T07:50:30+00:00",
+    "text": "Филия, Богатырь, Угледар, Комар, Великая Новосёлка и близлежащие ДНР \n\nГуляйполе, Васильевка, Степногорск, Орехов и близлежащие Запорожская область РФ \n\nАвиационная ракетная бомбовая тревога по УАБ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133770",
+    "channel": "kupolrussia",
+    "date": "2026-09-27T07:50:42+00:00",
+    "text": "Филия, Богатырь, Угледар, Комар, Великая Новосёлка и близлежащие ДНР \n\nГуляйполе, Васильевка, Степногорск, Орехов и близлежащие Запорожская область РФ \n\nАвиационная ракетная бомбовая тревога по УАБ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241284",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T07:53:53+00:00",
+    "text": "Шебекино \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133771_Шебекино",
+    "channel": "kupolrussia",
+    "date": "2026-09-27T07:54:10+00:00",
+    "text": "Шебекино \nБелгородская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Шебекино",
+    "region": "Белгородская область",
+    "lat": 50.4049335,
+    "lon": 36.8796822
   }
 ]
