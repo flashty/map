@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_240781",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T22:47:01+00:00",
-    "text": "Свердловск и близлежащие\nЛНР\nТревога по БПЛА\nИ далее на Восток\nВ направлении\nГуково\nКрасный Сулин",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240782",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T22:48:26+00:00",
-    "text": "Ильский\nАфипский\nСеверская\nИ близлежащие\nТревога по БПЛА сохраняется\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133325",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T22:48:43+00:00",
-    "text": "Ильский\nАфипский\nСеверская\nИ близлежащие\nТревога по БПЛА сохраняется\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_96042_Алексин",
-    "channel": "radarrussiia",
-    "date": "2026-09-25T22:49:19+00:00",
-    "text": "Алексин\nТульская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Алексин",
-    "region": "Тульская область",
-    "lat": 54.5028103,
-    "lon": 37.0667213
-  },
-  {
-    "id": "radarrussiia_96043",
-    "channel": "radarrussiia",
-    "date": "2026-09-25T22:49:57+00:00",
-    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_96044_Серпухов",
-    "channel": "radarrussiia",
-    "date": "2026-09-25T22:50:23+00:00",
-    "text": "ГО Серпухов\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Серпухов",
-    "region": "Московская область",
-    "lat": 54.9155247,
-    "lon": 37.4195533
-  },
-  {
-    "id": "locatorru_87210_Динской",
-    "channel": "locatorru",
-    "date": "2026-09-25T22:52:40+00:00",
-    "text": "Найдорф, Динской район, Краснодарский край - Краснодарский - фиксации БПЛА в направлении Новотитаровская, Динская. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Динской",
-    "region": "Краснодарский край",
-    "lat": 45.3846223,
-    "lon": 36.7762283
-  },
-  {
-    "id": "locatorru_87210_Найдорф",
-    "channel": "locatorru",
-    "date": "2026-09-25T22:52:40+00:00",
-    "text": "Найдорф, Динской район, Краснодарский край - Краснодарский - фиксации БПЛА в направлении Новотитаровская, Динская. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Найдорф",
-    "region": "Краснодарский край",
-    "lat": 45.3293526,
-    "lon": 38.8189926
-  },
-  {
-    "id": "LPRalarm_240783",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T22:53:49+00:00",
-    "text": "Евпатория, \nМолочное,\nУютное\n Заозёрное и близлежащие \nтревога по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_133326",
     "channel": "kupolrussia",
     "date": "2026-09-25T22:54:11+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_93953",
+    "channel": "vrv_radar",
+    "date": "2026-09-27T18:11:31+00:00",
+    "text": "Калужская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241436",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T18:12:31+00:00",
+    "text": "Южная часть Ростовской области\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_96125",
+    "channel": "radarrussiia",
+    "date": "2026-09-27T18:12:53+00:00",
+    "text": "Ростовская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133902",
+    "channel": "kupolrussia",
+    "date": "2026-09-27T18:13:09+00:00",
+    "text": "Южная часть Ростовской области\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87358",
+    "channel": "locatorru",
+    "date": "2026-09-27T18:13:14+00:00",
+    "text": "От Мариуполь, ДНР и в направлении Лакедемоновка, Красный Десант, Новобессергеневка, Беглица, Золотая Коса, Красный Десант, Таганрог, Бессергеновка, Семибалки, Круглое, Кагальник, Азов, Кулешовка, Ростов-на-Дону, Батайск, Новобатайск, Зерноград, Егорлыкская, Ростовская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_96126",
+    "channel": "radarrussiia",
+    "date": "2026-09-27T18:14:24+00:00",
+    "text": "С 08:00 до 20:00 силами противовоздушной обороны было уничтожено 43 БПЛА над территориями Курской, Белгородской, Орловской, Брянской и Ростовской областей, Республики Крым, а также над акваторией Черного моря\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовской областей",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241437",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T18:15:29+00:00",
+    "text": "Свердловск\nЛНР\nТревога по БПЛА\nИ далее в направлении\nГуково",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_93954",
+    "channel": "vrv_radar",
+    "date": "2026-09-27T18:15:34+00:00",
+    "text": "Смоленская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133903",
+    "channel": "kupolrussia",
+    "date": "2026-09-27T18:15:41+00:00",
+    "text": "Свердловск\nЛНР\nИ далее в направлении\nГуково\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
