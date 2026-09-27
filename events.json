@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_93691",
-    "channel": "vrv_radar",
-    "date": "2026-09-25T18:55:07+00:00",
-    "text": "Сочи и близлежащие\nКраснодарский край\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_95999",
-    "channel": "radarrussiia",
-    "date": "2026-09-25T18:55:25+00:00",
-    "text": "Ростовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240655",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T18:55:44+00:00",
-    "text": "Великая Лепетиха и близлежащие\nТревога по БПЛА сохраняется\nИ далее на Восток, юго-восток\nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133228",
-    "channel": "kupolrussia",
-    "date": "2026-09-25T18:56:06+00:00",
-    "text": "Великая Лепетиха и близлежащие\nТревога по БПЛА сохраняется\nИ далее на Восток, юго-восток\nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240656",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T19:00:46+00:00",
-    "text": "Новоалексеевка трасса Московская фиксации БПЛА\nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_240657",
     "channel": "LPRalarm",
     "date": "2026-09-25T19:01:40+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Брянская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_93922",
+    "channel": "vrv_radar",
+    "date": "2026-09-27T01:05:10+00:00",
+    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241236",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T01:05:26+00:00",
+    "text": "Туапсе и близлежащие\nТревога по БПЛА\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133728",
+    "channel": "kupolrussia",
+    "date": "2026-09-27T01:05:29+00:00",
+    "text": "Туапсе и близлежащие\nТревога по БПЛА\nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87324_Сочи",
+    "channel": "locatorru",
+    "date": "2026-09-27T01:06:04+00:00",
+    "text": "От Туапсе до Сочи, Адлер, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Сочи",
+    "region": "Краснодарский край",
+    "lat": 43.5854823,
+    "lon": 39.723109
+  },
+  {
+    "id": "locatorru_87324_Адлер",
+    "channel": "locatorru",
+    "date": "2026-09-27T01:06:04+00:00",
+    "text": "От Туапсе до Сочи, Адлер, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Адлер",
+    "region": "Краснодарский край",
+    "lat": 43.4439715,
+    "lon": 39.9400928
   }
 ]
