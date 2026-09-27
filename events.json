@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_93774_Козельский",
-    "channel": "vrv_radar",
-    "date": "2026-09-25T23:52:29+00:00",
-    "text": "Козельский район\nКалужская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Козельский",
-    "region": "Калужская область",
-    "lat": 54.0330263,
-    "lon": 35.8308211
-  },
-  {
-    "id": "radarrussiia_96056_Козельский",
-    "channel": "radarrussiia",
-    "date": "2026-09-25T23:55:24+00:00",
-    "text": "Козельский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Козельский",
-    "region": "Калужская область",
-    "lat": 54.0330263,
-    "lon": 35.8308211
-  },
-  {
-    "id": "locatorru_87231_Азов",
-    "channel": "locatorru",
-    "date": "2026-09-25T23:57:24+00:00",
-    "text": "Азов, Ростовская область - остаёмся в укрытие! \n\n📡Локатор России - @locatorru",
-    "type": "unknown",
-    "location_name": "Азов",
-    "region": "Ростовская область",
-    "lat": 47.1139219,
-    "lon": 39.4259657
-  },
-  {
-    "id": "LPRalarm_240798",
-    "channel": "LPRalarm",
-    "date": "2026-09-25T23:58:00+00:00",
-    "text": "Ростовская область\nКраснодарский край \nРеспублика яАдыгея\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_93775_Таганрог",
-    "channel": "vrv_radar",
-    "date": "2026-09-25T23:58:54+00:00",
-    "text": "Таганрог\nРостовская область\nМеры безопасности",
-    "type": "alert",
-    "location_name": "Таганрог",
-    "region": "Ростовская область",
-    "lat": 47.215495,
-    "lon": 38.928362
-  },
-  {
     "id": "radarrussiia_96057_Таганрог",
     "channel": "radarrussiia",
     "date": "2026-09-25T23:59:23+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Курская область",
     "lat": 51.8755554,
     "lon": 34.6631707
+  },
+  {
+    "id": "kupolrussia_133944_Хомутовский",
+    "channel": "kupolrussia",
+    "date": "2026-09-27T21:31:30+00:00",
+    "text": "Хомутовский район и далее в направлении Курска\nОпасность по БПЛА\n\nКурская область",
+    "type": "drone",
+    "location_name": "Хомутовский",
+    "region": "Курская область",
+    "lat": 51.8755554,
+    "lon": 34.6631707
+  },
+  {
+    "id": "LPRalarm_241500",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T21:37:14+00:00",
+    "text": "Приморский Посад\nИ близлежащие\nТревога по БПЛА\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241501",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T21:43:02+00:00",
+    "text": "Курская область\nтревога по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133945",
+    "channel": "kupolrussia",
+    "date": "2026-09-27T21:43:04+00:00",
+    "text": "Курская область\nтревога по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241502",
+    "channel": "LPRalarm",
+    "date": "2026-09-27T21:43:13+00:00",
+    "text": "Курск\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
