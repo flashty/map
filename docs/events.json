@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_240945_Симферопольский",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T08:57:41+00:00",
-    "text": "Симферопольский район \nГвардейское \nОпасность по БПЛА с запада \nРеспублика Крым",
-    "type": "drone",
-    "location_name": "Симферопольский",
-    "region": "Республика Крым",
-    "lat": 44.9423753,
-    "lon": 34.0968267
-  },
-  {
-    "id": "kupolrussia_133464",
-    "channel": "kupolrussia",
-    "date": "2026-09-26T08:57:47+00:00",
-    "text": "Бахчисарай \nРеспублика Крым \nС юго-запада фиксации БПЛА в направлении",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133465_Симферопольский",
-    "channel": "kupolrussia",
-    "date": "2026-09-26T08:57:56+00:00",
-    "text": "Симферопольский район \nГвардейское \nОпасность по БПЛА с запада \nРеспублика Крым",
-    "type": "drone",
-    "location_name": "Симферопольский",
-    "region": "Республика Крым",
-    "lat": 44.9423753,
-    "lon": 34.0968267
-  },
-  {
-    "id": "radarrussiia_96093",
-    "channel": "radarrussiia",
-    "date": "2026-09-26T08:59:42+00:00",
-    "text": "Три человека погибли, двое пострадали при атаке БПЛА в Краснодарском крае.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарском крае",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240946",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T09:00:28+00:00",
-    "text": "Кача\nБельбек и близлежащие \nОпасность по БПЛА с моря\nПовторно",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_133466",
     "channel": "kupolrussia",
     "date": "2026-09-26T09:00:39+00:00",
@@ -21998,5 +21943,60 @@
     "region": null,
     "lat": 54.9683122,
     "lon": 48.3030779
+  },
+  {
+    "id": "radarrussiia_96225",
+    "channel": "radarrussiia",
+    "date": "2026-09-28T04:39:28+00:00",
+    "text": "Рязанская область\nРеспублика Адыгея\nРостовская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241539_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T04:41:30+00:00",
+    "text": "Салтыково \nБелгородский район \nУдарный БПЛА в направлении",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_133971_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T04:41:46+00:00",
+    "text": "Салтыково \nБелгородский район \nУдарный БПЛА в направлении",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_241540",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T04:43:14+00:00",
+    "text": "Шебекино \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133972",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T04:43:27+00:00",
+    "text": "Шебекино \nТревога по БПЛА Хорнет\nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
   }
 ]
