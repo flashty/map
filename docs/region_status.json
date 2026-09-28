@@ -1,24 +1,4 @@
 {
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязань \nРязанская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-28T03:07:16+00:00",
-    "expires_at": "2026-09-28T04:07:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Кимовский район, Куркинский район, Тульская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-28T02:50:00+00:00",
-    "expires_at": "2026-09-28T03:50:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "кабардино-балкарск": {
     "display_name": "Республика\nКабардино-Балкарская",
     "type": "drone",
@@ -106,6 +86,26 @@
     "channel": "locatorru",
     "updated_at": "2026-09-28T03:32:18+00:00",
     "expires_at": "2026-09-28T04:32:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "МО Лотошино\nМосковская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-28T03:50:54+00:00",
+    "expires_at": "2026-09-28T04:50:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Тверская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-28T03:58:00+00:00",
+    "expires_at": "2026-09-28T04:58:00+00:00",
     "count": null,
     "count_approx": false
   }
