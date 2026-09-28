@@ -1,14 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Волноваха и близлежащие\nТревога по БПЛА\nИ далее в направлении трассы на Мариуполь\nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-28T19:03:03+00:00",
-    "expires_at": "2026-09-28T20:03:03+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -42,10 +32,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Климово и близлежащие, Брянская область - опасность по БПЛА и в сторону Клинцы, Новозыбков, Мглин, Сураж. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-28T20:00:39+00:00",
-    "expires_at": "2026-09-28T21:00:39+00:00",
+    "text": "Погарский район \nОпасность по реактивным бпла в тыл\nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-28T20:08:30+00:00",
+    "expires_at": "2026-09-28T21:08:30+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,10 +62,10 @@
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "missile",
-    "text": "Ростовская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-28T20:01:15+00:00",
-    "expires_at": "2026-09-28T21:01:15+00:00",
+    "text": "Ростовская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-28T20:07:07+00:00",
+    "expires_at": "2026-09-28T21:07:07+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +96,36 @@
     "channel": "locatorru",
     "updated_at": "2026-09-28T19:58:13+00:00",
     "expires_at": "2026-09-28T20:58:13+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградская область",
+    "type": "missile",
+    "text": "Волгоградская область \nСаратовская область \nРакетная опасность от Ростовской области",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-28T20:02:24+00:00",
+    "expires_at": "2026-09-28T21:02:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "саратовск": {
+    "display_name": "Саратовская область",
+    "type": "missile",
+    "text": "Волгоградская область \nСаратовская область \nРакетная опасность от Ростовской области",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-28T20:02:24+00:00",
+    "expires_at": "2026-09-28T21:02:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Смоленская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-28T20:04:51+00:00",
+    "expires_at": "2026-09-28T21:04:51+00:00",
     "count": null,
     "count_approx": false
   }
