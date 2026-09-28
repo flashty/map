@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-28T04:21:04+00:00",
+        "last_updated": "2026-09-28T05:00:43+00:00",
+        "path_labels": [
+          "Сторожевое (Липецкая область)",
+          "Новая Усмань"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.7836491,
+            52.0874827
+          ],
+          [
+            39.4107009,
+            51.6439692
+          ]
+        ]
+      }
+    }
+  ]
 }
