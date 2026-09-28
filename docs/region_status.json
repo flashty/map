@@ -1,14 +1,4 @@
 {
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калужская область \nОпасность по БПЛА от Брянской области\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-28T18:08:51+00:00",
-    "expires_at": "2026-09-28T19:08:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -49,13 +39,23 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
+  "донецк": {
+    "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Туапсе и близлежащие \nОпасность по БПЛА \nКраснодарский край",
+    "text": "Волноваха и близлежащие\nТревога по БПЛА\nИ далее в направлении трассы на Мариуполь\nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-28T19:00:34+00:00",
-    "expires_at": "2026-09-28T20:00:34+00:00",
+    "updated_at": "2026-09-28T19:03:03+00:00",
+    "expires_at": "2026-09-28T20:03:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Запорожская область РФ\nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-28T19:12:07+00:00",
+    "expires_at": "2026-09-28T20:12:07+00:00",
     "count": null,
     "count_approx": false
   }
