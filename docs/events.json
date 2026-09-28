@@ -1,82 +1,5 @@
 [
   {
-    "id": "vrv_radar_93861",
-    "channel": "vrv_radar",
-    "date": "2026-09-26T10:35:42+00:00",
-    "text": "Геленджик и близлежащие\nКраснодарский край\nОпасность по БЭК",
-    "type": "alert",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240982",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T10:36:58+00:00",
-    "text": "Мелитопольский район \nМелитополь и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133499",
-    "channel": "kupolrussia",
-    "date": "2026-09-26T10:37:27+00:00",
-    "text": "Мелитопольский район \nМелитополь и близлежащие \nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240983",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T10:38:29+00:00",
-    "text": "Весёлое и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133500",
-    "channel": "kupolrussia",
-    "date": "2026-09-26T10:38:49+00:00",
-    "text": "Весёлое и близлежащие \nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240984",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T10:39:28+00:00",
-    "text": "Приазовское и близлежащие \nОпасность по БПЛА на электротяге \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133501",
-    "channel": "kupolrussia",
-    "date": "2026-09-26T10:40:14+00:00",
-    "text": "Приазовское и близлежащие \nОпасность по БПЛА на электротяге \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_240985",
     "channel": "LPRalarm",
     "date": "2026-09-26T10:43:45+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133991",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T07:03:05+00:00",
+    "text": "Корчма и близлежащие \nОпасность по БПЛА Хорнет\nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241561",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T07:06:08+00:00",
+    "text": "Пантелеймоновка, Корсунь, Енакиево и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133992",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T07:06:29+00:00",
+    "text": "Пантелеймоновка, Корсунь, Енакиево и близлежащие \nДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_94101",
+    "channel": "vrv_radar",
+    "date": "2026-09-28T07:12:11+00:00",
+    "text": "Самарская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87458",
+    "channel": "locatorru",
+    "date": "2026-09-28T07:13:56+00:00",
+    "text": "Самарская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_133993",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T07:14:20+00:00",
+    "text": "Самарская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241562",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T07:14:23+00:00",
+    "text": "Самарская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Самарская область",
     "lat": null,
     "lon": null
   }
