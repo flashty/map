@@ -1,148 +1,5 @@
 [
   {
-    "id": "LPRalarm_241130",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T17:33:00+00:00",
-    "text": "Сочи\nАдлер и ближайшие\nТревога по БПЛА сохраняется\nСоблюдайте меры безопасности\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133631",
-    "channel": "kupolrussia",
-    "date": "2026-09-26T17:33:27+00:00",
-    "text": "Сочи\nАдлер и ближайшие\nТревога по БПЛА сохраняется\nСоблюдайте меры безопасности\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241131",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T17:34:21+00:00",
-    "text": "Туапсе и близлежащие\nНапоминаем, действует тревога по БПЛА\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133632",
-    "channel": "kupolrussia",
-    "date": "2026-09-26T17:34:39+00:00",
-    "text": "Туапсе и близлежащие\nНапоминаем, действует тревога по БПЛА\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241132",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T17:37:29+00:00",
-    "text": "Красный Луч и близлежащие \nОпасность по БПЛА-разведчику\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133633",
-    "channel": "kupolrussia",
-    "date": "2026-09-26T17:37:32+00:00",
-    "text": "Красный Луч и близлежащие \nОпасность по БПЛА-разведчику\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_93897_Анапа",
-    "channel": "vrv_radar",
-    "date": "2026-09-26T17:40:54+00:00",
-    "text": "Анапа\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
-    "type": "all_clear",
-    "location_name": "Анапа",
-    "region": "Краснодарский край",
-    "lat": 44.894272,
-    "lon": 37.316887
-  },
-  {
-    "id": "vrv_radar_93899",
-    "channel": "vrv_radar",
-    "date": "2026-09-26T17:42:19+00:00",
-    "text": "Туапсе и близлежащие\nКраснодарский край\nМеры безопасности",
-    "type": "alert",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241133",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T17:45:38+00:00",
-    "text": "Гвардейское и близлежащие \nПовторно \nТревога по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133634",
-    "channel": "kupolrussia",
-    "date": "2026-09-26T17:46:04+00:00",
-    "text": "Гвардейское и близлежащие \nПовторно \nРеспублика Крым\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241134_Шебекинский",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T17:46:08+00:00",
-    "text": "Новая Таволжанка, Шебекинский район\nБелгородская область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": "Белгородская область",
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "LPRalarm_241134_Новая Таволжанка",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T17:46:08+00:00",
-    "text": "Новая Таволжанка, Шебекинский район\nБелгородская область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Новая Таволжанка",
-    "region": "Белгородская область",
-    "lat": 50.353954,
-    "lon": 36.827923
-  },
-  {
-    "id": "vrv_radar_93900",
-    "channel": "vrv_radar",
-    "date": "2026-09-26T17:47:08+00:00",
-    "text": "Сочи \nКраснодарский край \nПродолжаются фиксации и сбития БПЛА\nМеры безопасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_241135_Новоалексеевка",
     "channel": "LPRalarm",
     "date": "2026-09-26T17:47:15+00:00",
@@ -21998,5 +21855,148 @@
     "region": "Белгородская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "kupolrussia_134148",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T18:16:11+00:00",
+    "text": "Белгородская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241727",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T18:23:20+00:00",
+    "text": "Счастье и близлежащие\nТревога по БПЛА и далее возможно в направлении\nМеталист\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134149",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T18:23:52+00:00",
+    "text": "Счастье и близлежащие\nЛНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241728",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T18:26:07+00:00",
+    "text": "Счастье ТЭС ЛНР тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134150",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T18:26:25+00:00",
+    "text": "Счастье ТЭС ЛНР тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134151",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T18:26:48+00:00",
+    "text": "Металлист \nЛуганск и близлежащие\nЛНР\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241730",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T18:27:53+00:00",
+    "text": "Металлист \nЛуганск и близлежащие\nТревога по БПЛА\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241732",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T18:29:11+00:00",
+    "text": "Новоалексеевка \nГеническ и близлежащие\nТревога по БПЛА\nДалее возможно в направлении\nАрабатская стрелка, \nАзовское море \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241731",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T18:29:11+00:00",
+    "text": "Геническ и близлежашие\nХерсонская область РФ\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134152",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T18:29:22+00:00",
+    "text": "Геническ и близлежашие\nХерсонская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134153",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T18:29:40+00:00",
+    "text": "Новоалексеевка \nГеническ и близлежащие\nТревога по БПЛА\nДалее возможно в направлении\nАрабатская стрелка, \nАзовское море \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87476_Сочи",
+    "channel": "locatorru",
+    "date": "2026-09-28T18:31:11+00:00",
+    "text": "Сочи, Адлер, Краснодарский край - опасность по БПЛА с моря. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Сочи",
+    "region": "Краснодарский край",
+    "lat": 43.5854823,
+    "lon": 39.723109
+  },
+  {
+    "id": "locatorru_87476_Адлер",
+    "channel": "locatorru",
+    "date": "2026-09-28T18:31:11+00:00",
+    "text": "Сочи, Адлер, Краснодарский край - опасность по БПЛА с моря. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Адлер",
+    "region": "Краснодарский край",
+    "lat": 43.4439715,
+    "lon": 39.9400928
   }
 ]
