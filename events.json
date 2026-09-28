@@ -1,115 +1,5 @@
 [
   {
-    "id": "LPRalarm_241043",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T13:14:05+00:00",
-    "text": "Джанкойский р-н \nДжанкой и близлежащие \nОпасность по БПЛА от Красногвардейского р-на",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133554",
-    "channel": "kupolrussia",
-    "date": "2026-09-26T13:14:25+00:00",
-    "text": "Джанкойский р-н \nДжанкой и близлежащие \nОпасность по БПЛА от Красногвардейского р-на",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_93869",
-    "channel": "vrv_radar",
-    "date": "2026-09-26T13:15:09+00:00",
-    "text": "Ростовская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_87288_Чертково",
-    "channel": "locatorru",
-    "date": "2026-09-26T13:15:24+00:00",
-    "text": "Чертково, Миллерово, Ростовская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Чертково",
-    "region": "Ростовская область",
-    "lat": 49.3799788,
-    "lon": 40.1491516
-  },
-  {
-    "id": "locatorru_87288_Миллерово",
-    "channel": "locatorru",
-    "date": "2026-09-26T13:15:24+00:00",
-    "text": "Чертково, Миллерово, Ростовская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Миллерово",
-    "region": "Ростовская область",
-    "lat": 48.9196264,
-    "lon": 40.391854
-  },
-  {
-    "id": "locatorru_87289",
-    "channel": "locatorru",
-    "date": "2026-09-26T13:15:37+00:00",
-    "text": "Тарасовский, Каменск-Шахтинский, Ростовская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тарасовский область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241044",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T13:17:14+00:00",
-    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ сохраняется \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133555",
-    "channel": "kupolrussia",
-    "date": "2026-09-26T13:17:47+00:00",
-    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ сохраняется \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241045_Туапсе",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T13:19:08+00:00",
-    "text": "Туапсе, Агой \nТревога по БПЛА сохраняется \nКраснодарский край",
-    "type": "drone",
-    "location_name": "Туапсе",
-    "region": "Краснодарский край",
-    "lat": 44.0984747,
-    "lon": 39.0718875
-  },
-  {
-    "id": "kupolrussia_133556_Туапсе",
-    "channel": "kupolrussia",
-    "date": "2026-09-26T13:19:09+00:00",
-    "text": "Туапсе, Агой \nТревога по БПЛА сохраняется \nКраснодарский край",
-    "type": "drone",
-    "location_name": "Туапсе",
-    "region": "Краснодарский край",
-    "lat": 44.0984747,
-    "lon": 39.0718875
-  },
-  {
     "id": "LPRalarm_241046_Почепский",
     "channel": "LPRalarm",
     "date": "2026-09-26T13:20:22+00:00",
@@ -21996,6 +21886,116 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241620_Погарский",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T10:36:49+00:00",
+    "text": "Погарский район\nБрянская область \nопасность по бпла Дартс",
+    "type": "drone",
+    "location_name": "Погарский",
+    "region": "Брянская область",
+    "lat": 52.5207056,
+    "lon": 33.2053408
+  },
+  {
+    "id": "kupolrussia_134049_Погарский",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T10:37:02+00:00",
+    "text": "Погарский район\nБрянская область \nопасность по бпла Дартс",
+    "type": "drone",
+    "location_name": "Погарский",
+    "region": "Брянская область",
+    "lat": 52.5207056,
+    "lon": 33.2053408
+  },
+  {
+    "id": "LPRalarm_241621",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T10:40:38+00:00",
+    "text": "Целинное и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134050",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T10:41:00+00:00",
+    "text": "Целинное и близлежащие \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241622",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T10:43:28+00:00",
+    "text": "Азовское \nРыково и близлежащие \nХерсонская область РФ \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134051",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T10:43:30+00:00",
+    "text": "Азовское \nРыково и близлежащие \nХерсонская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241623",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T10:44:51+00:00",
+    "text": "Ещё фиксации БПЛА в направлении Геническ и близлежащие \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134052",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T10:44:59+00:00",
+    "text": "Ещё фиксации БПЛА в направлении Геническ и близлежащие \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241624",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T10:45:17+00:00",
+    "text": "Чонгар и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134053",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T10:45:46+00:00",
+    "text": "Чонгар и близлежащие \nХерсонская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
     "lat": null,
     "lon": null
   }
