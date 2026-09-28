@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_241076",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T14:25:34+00:00",
-    "text": "Навля\nКарачев и близлежащие \nтревога по БПЛА \nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133583_Навля",
-    "channel": "kupolrussia",
-    "date": "2026-09-26T14:25:58+00:00",
-    "text": "Навля\nКарачев и близлежащие \nБрянская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Навля",
-    "region": "Брянская область",
-    "lat": 52.8271323,
-    "lon": 34.4993843
-  },
-  {
-    "id": "LPRalarm_241077",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T14:26:14+00:00",
-    "text": "Белгород \nШебекино тревога по УАБ от Чугуев",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133584",
-    "channel": "kupolrussia",
-    "date": "2026-09-26T14:26:32+00:00",
-    "text": "Белгород \nШебекино тревога по УАБ от Чугуев",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241078",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T14:26:38+00:00",
-    "text": "Белгород, Белгородский район и ситуативно Белгородская область! \nАвиационная опасность! Займите Безопасные места!\n\n\nПотенциальная опасность для Курской области и Воронежской области",
-    "type": "aviation",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133585",
-    "channel": "kupolrussia",
-    "date": "2026-09-26T14:27:04+00:00",
-    "text": "Белгородская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_241079",
     "channel": "LPRalarm",
     "date": "2026-09-26T14:28:04+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Одесской области",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_241677",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T14:23:30+00:00",
+    "text": "Запад, Северо-запад Беспилотная опасность \nРеспублика Крым",
+    "type": "alert",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134105",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T14:23:36+00:00",
+    "text": "Запад, Северо-запад \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241678",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T14:25:48+00:00",
+    "text": "Тарханкут и близлежащие опасность по БПЛА \n\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134106",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T14:26:04+00:00",
+    "text": "Тарханкут и близлежащие \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241679",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T14:27:07+00:00",
+    "text": "Севастополь \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134107_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T14:27:18+00:00",
+    "text": "Севастополь\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
   }
 ]
