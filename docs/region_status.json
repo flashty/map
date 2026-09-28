@@ -1,24 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Донецк, Докучаевск, Старобешево и близлежащие \nДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-28T17:52:17+00:00",
-    "expires_at": "2026-09-28T18:52:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Сочи \nКраснодарский край\nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-28T18:38:05+00:00",
-    "expires_at": "2026-09-28T19:38:05+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
@@ -36,16 +16,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-28T18:27:53+00:00",
     "expires_at": "2026-09-28T19:27:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Черниговский район Запорожская область РФ в направлении Бердянск большая группа БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-28T17:56:38+00:00",
-    "expires_at": "2026-09-28T18:56:38+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +46,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-28T18:29:40+00:00",
     "expires_at": "2026-09-28T19:29:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Туапсе и близлежащие \nОпасность по БПЛА \nКраснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-28T19:00:34+00:00",
+    "expires_at": "2026-09-28T20:00:34+00:00",
     "count": null,
     "count_approx": false
   }
