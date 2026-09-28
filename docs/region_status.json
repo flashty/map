@@ -2,10 +2,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Трубчевск\nБрянская область\nтревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-28T13:41:10+00:00",
-    "expires_at": "2026-09-28T14:41:10+00:00",
+    "text": "Бежица, Бежицкий район \nТревога по БПЛА \nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-28T14:03:14+00:00",
+    "expires_at": "2026-09-28T15:03:14+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,6 +26,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-28T13:45:20+00:00",
     "expires_at": "2026-09-28T14:45:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовской областей",
+    "type": "drone",
+    "text": "🚨Ожидаем ближе к ночи массовый запуск БПЛА в направлении Воронежской и Ростовской областей и далее в тыловые регионы.\n\nОбщее количество: от 250 единиц.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-09-28T14:13:05+00:00",
+    "expires_at": "2026-09-28T15:13:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "одесск": {
+    "display_name": "Одесской области",
+    "type": "drone",
+    "text": "Выходы БПЛА из Одесской области",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-28T14:13:53+00:00",
+    "expires_at": "2026-09-28T15:13:53+00:00",
     "count": null,
     "count_approx": false
   }
