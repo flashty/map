@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_240939",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T08:48:59+00:00",
-    "text": "Бельбек, Любимовка \nСеверная сторона Севастополя \nС моря еще фиксации БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133458",
-    "channel": "kupolrussia",
-    "date": "2026-09-26T08:49:09+00:00",
-    "text": "Бельбек, Любимовка \nСеверная сторона Севастополя \nС моря еще фиксации БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_240940",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T08:49:20+00:00",
-    "text": "Тепловка \nКолодезное и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133459",
-    "channel": "kupolrussia",
-    "date": "2026-09-26T08:49:31+00:00",
-    "text": "Тепловка \nКолодезное и близлежащие \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_93855",
-    "channel": "vrv_radar",
-    "date": "2026-09-26T08:55:02+00:00",
-    "text": "Волгоград \nВолгоградская область \nЗвуки не несут опасности. Учения О. Зеленый",
-    "type": "alert",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133460_Волгоград",
-    "channel": "kupolrussia",
-    "date": "2026-09-26T08:55:23+00:00",
-    "text": "Волгоград\nД\\ученияи №",
-    "type": "unknown",
-    "location_name": "Волгоград",
-    "region": null,
-    "lat": 48.7081906,
-    "lon": 44.5153353
-  },
-  {
-    "id": "LPRalarm_240941_Волгоград",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T08:55:26+00:00",
-    "text": "Волгоград\nД\\ученияи №",
-    "type": "unknown",
-    "location_name": "Волгоград",
-    "region": null,
-    "lat": 48.7081906,
-    "lon": 44.5153353
-  },
-  {
     "id": "LPRalarm_240942",
     "channel": "LPRalarm",
     "date": "2026-09-26T08:55:53+00:00",
@@ -21996,6 +21919,83 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241533_Вейделевском",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T04:07:40+00:00",
+    "text": "ОТБОЙ ОПАСНОСТИ АТАКИ БПЛА в Волоконовском, Валуйском, Борисовском, Яковлевском, Алексеевском, Вейделевском, Красненском, Красногвардейском, Ровеньском, Чернянском МО",
+    "type": "all_clear",
+    "location_name": "Вейделевском",
+    "region": null,
+    "lat": 50.1495504,
+    "lon": 38.4448028
+  },
+  {
+    "id": "LPRalarm_241533_Красненском",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T04:07:40+00:00",
+    "text": "ОТБОЙ ОПАСНОСТИ АТАКИ БПЛА в Волоконовском, Валуйском, Борисовском, Яковлевском, Алексеевском, Вейделевском, Красненском, Красногвардейском, Ровеньском, Чернянском МО",
+    "type": "all_clear",
+    "location_name": "Красненском",
+    "region": null,
+    "lat": 58.2676587,
+    "lon": 29.1153835
+  },
+  {
+    "id": "LPRalarm_241533_Красногвардейском",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T04:07:40+00:00",
+    "text": "ОТБОЙ ОПАСНОСТИ АТАКИ БПЛА в Волоконовском, Валуйском, Борисовском, Яковлевском, Алексеевском, Вейделевском, Красненском, Красногвардейском, Ровеньском, Чернянском МО",
+    "type": "all_clear",
+    "location_name": "Красногвардейском",
+    "region": null,
+    "lat": 59.9496071,
+    "lon": 30.4101516
+  },
+  {
+    "id": "locatorru_87445",
+    "channel": "locatorru",
+    "date": "2026-09-28T04:08:24+00:00",
+    "text": "Краснодарский край, Республика Адыгея - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87446",
+    "channel": "locatorru",
+    "date": "2026-09-28T04:08:52+00:00",
+    "text": "Ростовская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241534",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T04:09:39+00:00",
+    "text": "Симферопольский р-н \nГвардейское и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87447",
+    "channel": "locatorru",
+    "date": "2026-09-28T04:10:32+00:00",
+    "text": "Саратовская область опасность - опасность по БПЛА. \n\nСаратов, Энгельс - меры предосторожности. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Саратовская область",
     "lat": null,
     "lon": null
   }
