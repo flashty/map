@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_241090",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T15:10:01+00:00",
-    "text": "Экстренная информация РСЧС (Краснодарский край): БЕСПИЛОТНАЯ ОПАСНОСТЬ на территории муниципальных образований: г. Горячий ключ, г. Краснодар, Динской, Кореновский, Усть-Лабинский,  г. Армавир, Успенский, Отрадненский, Новокубанский, Лабинский, Курганинский, Белореченский, Апшеронский районы. 26.09.2026",
-    "type": "alert",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133595",
-    "channel": "kupolrussia",
-    "date": "2026-09-26T15:10:05+00:00",
-    "text": "Экстренная информация РСЧС: ОПАСНОСТЬ АТАКИ БПЛА в Прохоровском МО 18:06. Оставайтесь дома, не подходите к окнам или пройдите в укрытие.",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241091",
-    "channel": "LPRalarm",
-    "date": "2026-09-26T15:10:34+00:00",
-    "text": "Республика Адыгея опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Адыгея",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_133596",
     "channel": "kupolrussia",
     "date": "2026-09-26T15:11:06+00:00",
@@ -21996,6 +21963,39 @@
     "type": "missile",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241692",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T15:37:56+00:00",
+    "text": "Гуляйполе уаб\nДНР",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241693",
+    "channel": "LPRalarm",
+    "date": "2026-09-28T15:38:11+00:00",
+    "text": "Гуляйполе уаб\nЗапорожская область РФ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134119",
+    "channel": "kupolrussia",
+    "date": "2026-09-28T15:38:23+00:00",
+    "text": "Гуляйполе уаб\nЗапорожская область РФ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
