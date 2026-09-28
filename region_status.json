@@ -2,30 +2,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Бежица, Бежицкий район \nТревога по БПЛА \nБрянская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-28T14:03:14+00:00",
-    "expires_at": "2026-09-28T15:03:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калужская область\nСмоленская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-28T13:45:20+00:00",
-    "expires_at": "2026-09-28T14:45:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Калужская область\nСмоленская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-28T13:45:20+00:00",
-    "expires_at": "2026-09-28T14:45:20+00:00",
+    "text": "Брянская область \nОпасность по реактивным БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-28T14:41:45+00:00",
+    "expires_at": "2026-09-28T15:41:45+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +36,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-28T14:26:04+00:00",
     "expires_at": "2026-09-28T15:26:04+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Мелитополь и ближайшие\nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-28T14:41:58+00:00",
+    "expires_at": "2026-09-28T15:41:58+00:00",
     "count": null,
     "count_approx": false
   }
