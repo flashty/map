@@ -185,6 +185,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-09-27T23:18:04+00:00",
+        "last_updated": "2026-09-27T23:56:46+00:00",
+        "path_labels": [
+          "Колпнянский (Орловская область)",
+          "Урицкий (Орловская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.0479282,
+            52.2424901
+          ],
+          [
+            37.881624,
+            52.3825189
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-09-27T23:34:12+00:00",
         "last_updated": "2026-09-27T23:34:12+00:00",
         "path_labels": [
