@@ -1,24 +1,4 @@
 {
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянск\nБежица\nСельцо и близлежащие\nТревога по БПЛА сохраняется\nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-29T01:18:27+00:00",
-    "expires_at": "2026-09-29T02:18:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Курск и близлежащие\nТревога по БПЛА, повторно\nКурская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-29T01:21:34+00:00",
-    "expires_at": "2026-09-29T02:21:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -36,6 +16,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-29T02:14:37+00:00",
     "expires_at": "2026-09-29T03:14:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Тульская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-29T02:27:59+00:00",
+    "expires_at": "2026-09-29T03:27:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калужская область, повторно\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-29T02:28:54+00:00",
+    "expires_at": "2026-09-29T03:28:54+00:00",
     "count": null,
     "count_approx": false
   }
