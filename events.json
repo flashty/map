@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_241320",
-    "channel": "LPRalarm",
-    "date": "2026-09-27T09:30:54+00:00",
-    "text": "Новоалексеевка Херсонская область РФ, БПЛА в направлении Геническ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133806",
-    "channel": "kupolrussia",
-    "date": "2026-09-27T09:31:13+00:00",
-    "text": "Новоалексеевка Херсонская область РФ, БПЛА в направлении Геническ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_87336",
-    "channel": "locatorru",
-    "date": "2026-09-27T09:32:57+00:00",
-    "text": "Брянская область, Курская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_87337_Геленджик",
-    "channel": "locatorru",
-    "date": "2026-09-27T09:33:14+00:00",
-    "text": "Геленджик, Анапа, Новороссийск, Абинск, Крымск, Темрюк, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Геленджик",
-    "region": "Краснодарский край",
-    "lat": 44.5609447,
-    "lon": 38.0766832
-  },
-  {
     "id": "locatorru_87337_Анапа",
     "channel": "locatorru",
     "date": "2026-09-27T09:33:14+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Амурской области",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_94154",
+    "channel": "vrv_radar",
+    "date": "2026-09-29T13:03:32+00:00",
+    "text": "Смоленская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_96293",
+    "channel": "radarrussiia",
+    "date": "2026-09-29T13:03:52+00:00",
+    "text": "Смоленская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241912_Осипенко",
+    "channel": "LPRalarm",
+    "date": "2026-09-29T13:04:57+00:00",
+    "text": "Приазовское - Приморск - Осипенко, Бердянск - Урзуф повторно опасность по БПЛА, в том числе трассы",
+    "type": "drone",
+    "location_name": "Осипенко",
+    "region": null,
+    "lat": 54.400865,
+    "lon": 22.1195489
+  },
+  {
+    "id": "kupolrussia_134310_Осипенко",
+    "channel": "kupolrussia",
+    "date": "2026-09-29T13:06:43+00:00",
+    "text": "Приазовское - Приморск - Осипенко, Бердянск - Урзуф повторно опасность по БПЛА, в том числе трассы",
+    "type": "drone",
+    "location_name": "Осипенко",
+    "region": null,
+    "lat": 54.400865,
+    "lon": 22.1195489
   }
 ]
