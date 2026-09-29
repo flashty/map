@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_133777",
-    "channel": "kupolrussia",
-    "date": "2026-09-27T08:22:11+00:00",
-    "text": "Донецк аэропорт, Киевский и Куйбышевский районы\nТревога по БПЛА, меры безопасности \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241292",
-    "channel": "LPRalarm",
-    "date": "2026-09-27T08:23:11+00:00",
-    "text": "Курская, Белгородская область \nАвиационная ракетная бомбовая тревога \n\nМиргород самолёты F-16",
-    "type": "missile",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_133778",
-    "channel": "kupolrussia",
-    "date": "2026-09-27T08:23:35+00:00",
-    "text": "Курская область \nБелгородская область \n\nМиргород самолёты F-16\nВНИМАНИЕ!!!\n„Зи ОБЪЯВЛЕН\n\"КРАСНЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241293_Перекоп",
-    "channel": "LPRalarm",
-    "date": "2026-09-27T08:23:53+00:00",
-    "text": "Каланчак в направлении Чаплынка, АПП Перекоп, Титан \nФиксация БПЛА Хорнет",
-    "type": "drone",
-    "location_name": "Перекоп",
-    "region": null,
-    "lat": 59.121197,
-    "lon": 49.985012
-  },
-  {
-    "id": "kupolrussia_133779_Перекоп",
-    "channel": "kupolrussia",
-    "date": "2026-09-27T08:24:07+00:00",
-    "text": "Каланчак в направлении Чаплынка, АПП Перекоп, Титан \nФиксация БПЛА Хорнет",
-    "type": "drone",
-    "location_name": "Перекоп",
-    "region": null,
-    "lat": 59.121197,
-    "lon": 49.985012
-  },
-  {
-    "id": "LPRalarm_241294",
-    "channel": "LPRalarm",
-    "date": "2026-09-27T08:24:58+00:00",
-    "text": "Брянская область опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_133780",
     "channel": "kupolrussia",
     "date": "2026-09-27T08:25:13+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Краснодарский край",
     "lat": 43.5854823,
     "lon": 39.723109
+  },
+  {
+    "id": "LPRalarm_241880",
+    "channel": "LPRalarm",
+    "date": "2026-09-29T09:46:22+00:00",
+    "text": "Осипенко и далее на Бердянск группа БПЛА Хорнет\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134286",
+    "channel": "kupolrussia",
+    "date": "2026-09-29T09:46:38+00:00",
+    "text": "Осипенко и далее на Бердянск группа БПЛА Хорнет\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241881",
+    "channel": "LPRalarm",
+    "date": "2026-09-29T09:47:30+00:00",
+    "text": "Курская область и близлежащие авиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134287",
+    "channel": "kupolrussia",
+    "date": "2026-09-29T09:47:54+00:00",
+    "text": "Курская область и близлежащие\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_241882",
+    "channel": "LPRalarm",
+    "date": "2026-09-29T09:56:02+00:00",
+    "text": "Белгородская область \nХарьковская область РФ \nАвиационная ракетная бомбовая тревога",
+    "type": "missile",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134288",
+    "channel": "kupolrussia",
+    "date": "2026-09-29T09:56:21+00:00",
+    "text": "Белгородская область \nХарьковская область РФ\nВНИМАНИЕ!!!\n„Зи ОБЪЯВЛЕН\n\"КРАСНЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
   }
 ]
