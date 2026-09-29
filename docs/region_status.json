@@ -2,30 +2,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Алушта и близлежащие\nопасность по БПЛА\nРеспублика Крым",
+    "text": "Симферопольский район\nКрасногвардейский район\nДжанкойский район\nтревога по БПЛА\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-29T22:04:04+00:00",
-    "expires_at": "2026-09-29T23:04:04+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Моршанский район \nМичуринский район \nТамбовская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-29T21:22:52+00:00",
-    "expires_at": "2026-09-29T22:22:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Верхнедонской район \nБоковский район \nРостовская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-29T21:30:14+00:00",
-    "expires_at": "2026-09-29T22:30:14+00:00",
+    "updated_at": "2026-09-29T22:24:05+00:00",
+    "expires_at": "2026-09-29T23:24:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -42,10 +22,10 @@
   "волгоградск": {
     "display_name": "Волгоградская область",
     "type": "drone",
-    "text": "Большой Лычак, Фроловский район, Волгоградская область - продолжается пролёт БПЛА на восток в сторону Саратовской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-29T21:58:42+00:00",
-    "expires_at": "2026-09-29T22:58:42+00:00",
+    "text": "Камышинский район \nВолгоградская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-29T22:17:36+00:00",
+    "expires_at": "2026-09-29T23:17:36+00:00",
     "count": null,
     "count_approx": false
   },
@@ -89,16 +69,6 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Верхний Рогачик \nХерсонская область РФ \nИ далее в направлении \nВесёлое \nМелитополь \nЗапорожская область РФ \nТревога по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-29T21:28:15+00:00",
-    "expires_at": "2026-09-29T22:28:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
@@ -111,11 +81,11 @@
   },
   "самарск": {
     "display_name": "Самарская область",
-    "type": "drone",
-    "text": "Новокуйбышевск \nСамарская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "alert",
+    "text": "Новокуйбышевск\nСамарская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-29T22:02:06+00:00",
-    "expires_at": "2026-09-29T23:02:06+00:00",
+    "updated_at": "2026-09-29T22:30:12+00:00",
+    "expires_at": "2026-09-29T23:30:12+00:00",
     "count": null,
     "count_approx": false
   },
@@ -226,6 +196,36 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-29T22:06:17+00:00",
     "expires_at": "2026-09-29T23:06:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородская область",
+    "type": "drone",
+    "text": "Нижегородская область\nопасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-29T22:22:58+00:00",
+    "expires_at": "2026-09-29T23:22:58+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Чувашская Республика, Республика Татарстан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-29T22:29:46+00:00",
+    "expires_at": "2026-09-29T23:29:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "чуваш": {
+    "display_name": "Республика Чувашия",
+    "type": "drone",
+    "text": "Республика Чувашия \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-29T22:29:26+00:00",
+    "expires_at": "2026-09-29T23:29:26+00:00",
     "count": null,
     "count_approx": false
   }
