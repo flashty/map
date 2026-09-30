@@ -1,14 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Новоазовский район\nДНР\nТревога по БПЛА\nМеры безопасности",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-30T20:07:14+00:00",
-    "expires_at": "2026-09-30T21:07:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
@@ -22,20 +12,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Черноморский район\nТревога по БПЛА остаётся в действии\nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-30T20:58:02+00:00",
-    "expires_at": "2026-09-30T21:58:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Починковский район \nСмоленская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-30T20:08:57+00:00",
-    "expires_at": "2026-09-30T21:08:57+00:00",
+    "text": "Межводное и близлежащие \nТревога по БПЛА \nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-30T21:06:50+00:00",
+    "expires_at": "2026-09-30T22:06:50+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,40 +42,40 @@
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Болховский район\nМценский район \nОрловская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-30T21:00:38+00:00",
-    "expires_at": "2026-09-30T22:00:38+00:00",
+    "text": "Залегощенский район\nСвердловский район \nОрловская область \nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-30T21:10:13+00:00",
+    "expires_at": "2026-09-30T22:10:13+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Плавский район\nСуворовский район \nТульская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-30T21:00:20+00:00",
-    "expires_at": "2026-09-30T22:00:20+00:00",
+    "text": "Одоевский район\nТульская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-30T21:08:00+00:00",
+    "expires_at": "2026-09-30T22:08:00+00:00",
     "count": null,
     "count_approx": false
   },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Хвастовичский район \nКалужская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Козельский район\nУльяновский район \nКалужская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-30T20:04:13+00:00",
-    "expires_at": "2026-09-30T21:04:13+00:00",
+    "updated_at": "2026-09-30T21:03:48+00:00",
+    "expires_at": "2026-09-30T22:03:48+00:00",
     "count": null,
     "count_approx": false
   },
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
-    "text": "Рыльск и район, Курская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-30T21:00:54+00:00",
-    "expires_at": "2026-09-30T22:00:54+00:00",
+    "text": "Курская область, опасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-30T21:02:55+00:00",
+    "expires_at": "2026-09-30T22:02:55+00:00",
     "count": null,
     "count_approx": false
   },
