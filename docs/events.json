@@ -1,82 +1,5 @@
 [
   {
-    "id": "kupolrussia_134346_Корочанский",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T15:28:26+00:00",
-    "text": "Корочанский район \nОпасность по БПЛА от Шебекинского района",
-    "type": "drone",
-    "location_name": "Корочанский",
-    "region": null,
-    "lat": 50.8026787,
-    "lon": 37.1914961
-  },
-  {
-    "id": "kupolrussia_134346_Шебекинского",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T15:28:26+00:00",
-    "text": "Корочанский район \nОпасность по БПЛА от Шебекинского района",
-    "type": "drone",
-    "location_name": "Шебекинского",
-    "region": null,
-    "lat": 50.4048119,
-    "lon": 36.8808454
-  },
-  {
-    "id": "radarrussiia_96300",
-    "channel": "radarrussiia",
-    "date": "2026-09-29T15:30:37+00:00",
-    "text": "Белгородская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_96301",
-    "channel": "radarrussiia",
-    "date": "2026-09-29T15:30:53+00:00",
-    "text": "Воронежская область \nОпасность по БПЛА от Белгородской области\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_94160",
-    "channel": "vrv_radar",
-    "date": "2026-09-29T15:33:07+00:00",
-    "text": "Воронежская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_14766",
-    "channel": "radar_plus_bpla",
-    "date": "2026-09-29T15:33:35+00:00",
-    "text": "Воронежская область - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241955_Россошанский",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T15:33:49+00:00",
-    "text": "Россошанский район \nКантемировский район \nВоронежская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Россошанский",
-    "region": "Воронежская область",
-    "lat": 50.1186442,
-    "lon": 39.6627682
-  },
-  {
     "id": "LPRalarm_241955_Кантемировский",
     "channel": "LPRalarm",
     "date": "2026-09-29T15:33:49+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242415",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T13:59:46+00:00",
+    "text": "ЛДНР\nЗапорожская область РФ\nАвиационная ракетная бомбовая опасность повторно",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134751",
+    "channel": "kupolrussia",
+    "date": "2026-09-30T13:59:55+00:00",
+    "text": "ЛДНР\nЗапорожская область РФ\n повторно\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242416",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T14:00:57+00:00",
+    "text": "Мангуш \nПриазовскае \nВолодарское опасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242417",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T14:00:59+00:00",
+    "text": "Константиновка ДНР УАБы",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134752",
+    "channel": "kupolrussia",
+    "date": "2026-09-30T14:01:15+00:00",
+    "text": "Мангуш \nПриазовскае \nВолодарское \nДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242418",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T14:01:25+00:00",
+    "text": "Брянская область тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134753",
+    "channel": "kupolrussia",
+    "date": "2026-09-30T14:01:25+00:00",
+    "text": "Константиновка ДНР УАБы",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
