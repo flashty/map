@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-09-30T17:50:37+00:00",
+        "last_updated": "2026-09-30T18:34:08+00:00",
+        "path_labels": [
+          "Шаблыкинский (Орловская область)",
+          "Локоть (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.1025788,
+            52.8579891
+          ],
+          [
+            34.5775468,
+            52.5617098
+          ]
+        ]
+      }
+    }
+  ]
 }
