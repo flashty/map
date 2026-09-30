@@ -1,14 +1,4 @@
 {
-  "пермск": {
-    "display_name": "Пермский край",
-    "type": "drone",
-    "text": "Пермь и близлежащие, Пермский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-30T04:48:07+00:00",
-    "expires_at": "2026-09-30T05:48:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "свердловск": {
     "display_name": "Свердловская область",
     "type": "drone",
@@ -30,12 +20,12 @@
     "count_approx": false
   },
   "запорожск": {
-    "display_name": "Запорожской области",
+    "display_name": "Запорожская область",
     "type": "drone",
-    "text": "трасса Р-280 \n Запорожской области РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Токмак\nПриморск \nБердянск \nЗапорожская область РФ \nОпасность по БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-30T05:11:39+00:00",
-    "expires_at": "2026-09-30T06:11:39+00:00",
+    "updated_at": "2026-09-30T05:47:23+00:00",
+    "expires_at": "2026-09-30T06:47:23+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Трубчевск \nПочеп и близлежащие \nБрянская область \nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-30T05:44:22+00:00",
-    "expires_at": "2026-09-30T06:44:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -76,6 +56,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-30T05:44:31+00:00",
     "expires_at": "2026-09-30T06:44:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Геническ \nГен горка\nХерсонская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-30T05:59:59+00:00",
+    "expires_at": "2026-09-30T06:59:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Джанкой и близлежащие \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-30T06:00:31+00:00",
+    "expires_at": "2026-09-30T07:00:31+00:00",
     "count": null,
     "count_approx": false
   }
