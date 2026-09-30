@@ -22,20 +22,10 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "МО Истра \nМосковская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-30T17:15:28+00:00",
-    "expires_at": "2026-09-30T18:15:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Алчевск, Брянка и ближайшие \nОпасность по БПЛА \nЛНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-30T16:30:27+00:00",
-    "expires_at": "2026-09-30T17:30:27+00:00",
+    "text": "МО Истра \nМосковская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-30T17:16:05+00:00",
+    "expires_at": "2026-09-30T18:16:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +76,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-30T17:07:07+00:00",
     "expires_at": "2026-09-30T18:07:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Приазовье и ближайшие\nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-30T17:23:44+00:00",
+    "expires_at": "2026-09-30T18:23:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Почепский\nПогарский районы\nБрянская область\nТревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-30T17:30:41+00:00",
+    "expires_at": "2026-09-30T18:30:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Новоалексеевка, Геническ, Арабатская стрелка, Чонгар\nХерсонская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-30T17:30:14+00:00",
+    "expires_at": "2026-09-30T18:30:14+00:00",
     "count": null,
     "count_approx": false
   }
