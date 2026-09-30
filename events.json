@@ -1,27 +1,5 @@
 [
   {
-    "id": "kupolrussia_134525",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T20:04:20+00:00",
-    "text": "ЛНР\nЛуганск\nАлчевск\nтревога по БПЛА \nМеры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_94268_Верховский",
-    "channel": "vrv_radar",
-    "date": "2026-09-29T20:04:54+00:00",
-    "text": "Верховский район \nОрловская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Верховский",
-    "region": "Орловская область",
-    "lat": 52.7164603,
-    "lon": 37.2542683
-  },
-  {
     "id": "LPRalarm_242154_Нижнегорский",
     "channel": "LPRalarm",
     "date": "2026-09-29T20:05:13+00:00",
@@ -21996,6 +21974,28 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242683",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T22:58:06+00:00",
+    "text": "Запорожская область РФ\nХерсонская область РФ\nЛДНР\nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134997",
+    "channel": "kupolrussia",
+    "date": "2026-09-30T22:58:10+00:00",
+    "text": "Запорожская область РФ\nХерсонская область РФ\nЛДНР\nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
