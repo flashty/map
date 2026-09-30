@@ -1,104 +1,5 @@
 [
   {
-    "id": "kupolrussia_134515",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T19:58:32+00:00",
-    "text": "Янтарная \nдалее на юг \nФиксация БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_242141",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T19:58:33+00:00",
-    "text": "Янтарная \nдалее на юг \nФиксация БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_134516",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T19:58:38+00:00",
-    "text": "Белогорск \nЗуя\nТаврическая ТЭС\nИ близлежащие \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_134517",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T19:59:12+00:00",
-    "text": "Самарская область опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_242142",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T19:59:16+00:00",
-    "text": "Самарская область опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_242143",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T19:59:37+00:00",
-    "text": "От Алчевска в сторону Лутугино\nЛНР\nТревога по БПЛА\\",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_134518",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T19:59:40+00:00",
-    "text": "От Алчевска в сторону Лутугино\nЛНР\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_242144",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T19:59:56+00:00",
-    "text": "Донецк, Еленовка, Докучаевск, Старобешево и близлежащие \nОпасность по БПЛА сохраняется \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_134519_Сызрань",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T20:00:04+00:00",
-    "text": "Сызрань\nСамарская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Сызрань",
-    "region": "Самарская область",
-    "lat": 53.15538,
-    "lon": 48.474121
-  },
-  {
     "id": "LPRalarm_242145_Сызрань",
     "channel": "LPRalarm",
     "date": "2026-09-29T20:00:10+00:00",
@@ -21998,5 +21899,104 @@
     "region": null,
     "lat": 60.1430705,
     "lon": 32.5534746
+  },
+  {
+    "id": "radarrussiia_96593",
+    "channel": "radarrussiia",
+    "date": "2026-09-30T21:46:14+00:00",
+    "text": "Елец\nЕлецкий МО\nДолгоруковский МО Становлянский МО\nИзмалковский МО\nЛипецкая область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_96594_Елец",
+    "channel": "radarrussiia",
+    "date": "2026-09-30T21:47:16+00:00",
+    "text": "Елец\nЛипецкая область\nСбитие БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": "Елец",
+    "region": "Липецкая область",
+    "lat": 52.6219865,
+    "lon": 38.5003298
+  },
+  {
+    "id": "locatorru_87804",
+    "channel": "locatorru",
+    "date": "2026-09-30T21:48:00+00:00",
+    "text": "Орловская область, Липецкая область, Тульская область - опасность по БПЛА от Курской и Белгородской областей. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_94588_Тула",
+    "channel": "vrv_radar",
+    "date": "2026-09-30T21:48:04+00:00",
+    "text": "Тула\nТульская область \nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": "Тула",
+    "region": "Тульская область",
+    "lat": 54.1930321,
+    "lon": 37.61754
+  },
+  {
+    "id": "radar_plus_bpla_14801",
+    "channel": "radar_plus_bpla",
+    "date": "2026-09-30T21:48:21+00:00",
+    "text": "Тула - сбитие БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_96595_Тула",
+    "channel": "radarrussiia",
+    "date": "2026-09-30T21:49:51+00:00",
+    "text": "Тула\nТульская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Тула",
+    "region": "Тульская область",
+    "lat": 54.1930321,
+    "lon": 37.61754
+  },
+  {
+    "id": "vrv_radar_94589_Тула",
+    "channel": "vrv_radar",
+    "date": "2026-09-30T21:51:14+00:00",
+    "text": "Тула\nТульская область\nСбитие БПЛА\nМеры безопасности",
+    "type": "all_clear",
+    "location_name": "Тула",
+    "region": "Тульская область",
+    "lat": 54.1930321,
+    "lon": 37.61754
+  },
+  {
+    "id": "LPRalarm_242676",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T21:54:47+00:00",
+    "text": "Армянск и близлежащие, тревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134990",
+    "channel": "kupolrussia",
+    "date": "2026-09-30T21:54:52+00:00",
+    "text": "Армянск и близлежащие, тревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
   }
 ]
