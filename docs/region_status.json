@@ -1,21 +1,11 @@
 {
-  "татарст": {
-    "display_name": "Республика Татарстан",
-    "type": "drone",
-    "text": "Тукаевский район \nРеспублика Татарстан \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-30T02:44:56+00:00",
-    "expires_at": "2026-09-30T03:44:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "башкортост": {
     "display_name": "Республика Башкортостан",
     "type": "drone",
-    "text": "Белебеевский район\nРеспублика Башкортостан \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-30T02:43:33+00:00",
-    "expires_at": "2026-09-30T03:43:33+00:00",
+    "text": "Оренбургская область \nРеспублика Башкортостан \nОпасность по БПЛА повторно",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-30T02:47:08+00:00",
+    "expires_at": "2026-09-30T03:47:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -82,10 +72,10 @@
   "оренбургск": {
     "display_name": "Оренбургская область",
     "type": "drone",
-    "text": "Абдулинский район \nОренбургская область \nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-30T02:42:08+00:00",
-    "expires_at": "2026-09-30T03:42:08+00:00",
+    "text": "Оренбургская область \nРеспублика Башкортостан \nОпасность по БПЛА повторно",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-30T02:47:08+00:00",
+    "expires_at": "2026-09-30T03:47:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +86,56 @@
     "channel": "LPRalarm",
     "updated_at": "2026-09-30T02:44:55+00:00",
     "expires_at": "2026-09-30T03:44:55+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "missile",
+    "text": "Брянская область\nРязанская область\nТульская область\nКалужская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-30T02:59:20+00:00",
+    "expires_at": "2026-09-30T03:59:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пермск": {
+    "display_name": "Пермский край",
+    "type": "drone",
+    "text": "Пермский край - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-09-30T03:00:33+00:00",
+    "expires_at": "2026-09-30T04:00:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "missile",
+    "text": "Брянская область\nРязанская область\nТульская область\nКалужская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-30T02:59:20+00:00",
+    "expires_at": "2026-09-30T03:59:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "missile",
+    "text": "Брянская область\nРязанская область\nТульская область\nКалужская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-30T02:59:20+00:00",
+    "expires_at": "2026-09-30T03:59:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "missile",
+    "text": "Брянская область\nРязанская область\nТульская область\nКалужская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-30T02:59:20+00:00",
+    "expires_at": "2026-09-30T03:59:20+00:00",
     "count": null,
     "count_approx": false
   }
