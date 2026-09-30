@@ -1,82 +1,5 @@
 [
   {
-    "id": "locatorru_87528",
-    "channel": "locatorru",
-    "date": "2026-09-29T16:12:36+00:00",
-    "text": "По северу ЛНР пролёты БПЛА в сторону Ровеньского района, Белгородской области, далее примерно на Россошь, Ольховатка, Воронежской области.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_94162",
-    "channel": "vrv_radar",
-    "date": "2026-09-29T16:15:18+00:00",
-    "text": "Липецкая область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_96303",
-    "channel": "radarrussiia",
-    "date": "2026-09-29T16:16:14+00:00",
-    "text": "Липецкая область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_87529_Валуйский",
-    "channel": "locatorru",
-    "date": "2026-09-29T16:16:18+00:00",
-    "text": "Мандрово, Валуйский район, Белгородская область - пролёты БПЛА в сторону Никитовка, Ливенка, Алексеевка.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Валуйский",
-    "region": "Белгородская область",
-    "lat": 50.1632256,
-    "lon": 37.9638901
-  },
-  {
-    "id": "locatorru_87529_Мандрово",
-    "channel": "locatorru",
-    "date": "2026-09-29T16:16:18+00:00",
-    "text": "Мандрово, Валуйский район, Белгородская область - пролёты БПЛА в сторону Никитовка, Ливенка, Алексеевка.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Мандрово",
-    "region": "Белгородская область",
-    "lat": 50.2947838,
-    "lon": 38.250087
-  },
-  {
-    "id": "locatorru_87530",
-    "channel": "locatorru",
-    "date": "2026-09-29T16:18:39+00:00",
-    "text": "Ещё группа БПЛА через Никитовка, Красногвардейский район, Белгородской области в сторону Алексеевка, далее на Острогожск. Лиски, Воронежской области.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241972",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T16:19:32+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nОтбой авиационной ракетной бомбовой опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_134361",
     "channel": "kupolrussia",
     "date": "2026-09-29T16:19:43+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242437",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T14:56:28+00:00",
+    "text": "Одесса запуски БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242438_Одессы",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T14:56:34+00:00",
+    "text": "Запуски БПЛА от Одессы",
+    "type": "drone",
+    "location_name": "Одессы",
+    "region": null,
+    "lat": 48.7490351,
+    "lon": 44.5413187
+  },
+  {
+    "id": "kupolrussia_134771_Одессы",
+    "channel": "kupolrussia",
+    "date": "2026-09-30T14:56:40+00:00",
+    "text": "Запуски БПЛА от Одессы",
+    "type": "drone",
+    "location_name": "Одессы",
+    "region": null,
+    "lat": 48.7490351,
+    "lon": 44.5413187
+  },
+  {
+    "id": "LPRalarm_242439",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T15:00:10+00:00",
+    "text": "ДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134772",
+    "channel": "kupolrussia",
+    "date": "2026-09-30T15:00:39+00:00",
+    "text": "ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242440",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T15:01:30+00:00",
+    "text": "ЛДНР\nЗапорожская область РФ\nХарьковская область РФ\nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_94506",
+    "channel": "vrv_radar",
+    "date": "2026-09-30T15:01:50+00:00",
+    "text": "Благодарим тех кто участвует в сборе❤️\n\nСобрано:  121.055 из 190.000₽\n\nСсылки для перевода: \nhttps://pay.cloudtips.ru/p/0376bf3f",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
