@@ -1,24 +1,4 @@
 {
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Херсонская область РФ \nГеническ и близлежащие \nЗапорожская область РФ \nМелитополь\nтревога по БПЛА сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-30T01:14:22+00:00",
-    "expires_at": "2026-09-30T02:14:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Херсонская область РФ \nГеническ и близлежащие \nЗапорожская область РФ \nМелитополь\nтревога по БПЛА сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-30T01:14:22+00:00",
-    "expires_at": "2026-09-30T02:14:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
@@ -26,16 +6,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-30T01:52:22+00:00",
     "expires_at": "2026-09-30T02:52:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "саратовск": {
-    "display_name": "Саратовская область",
-    "type": "drone",
-    "text": "Краснокутский район \nСаратовская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-30T01:01:49+00:00",
-    "expires_at": "2026-09-30T02:01:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,10 +22,10 @@
   "башкортост": {
     "display_name": "Республика Башкортостан",
     "type": "drone",
-    "text": "Стерлитамак, Уфа, Салават, Республика Башкортостан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-30T01:57:27+00:00",
-    "expires_at": "2026-09-30T02:57:27+00:00",
+    "text": "Республика Башкортостан \nОпасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-30T02:08:38+00:00",
+    "expires_at": "2026-09-30T03:08:38+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +46,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-30T01:57:57+00:00",
     "expires_at": "2026-09-30T02:57:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "вологодск": {
+    "display_name": "Вологодская область",
+    "type": "drone",
+    "text": "Вологодская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-30T02:08:30+00:00",
+    "expires_at": "2026-09-30T03:08:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Стаханов\nАлчевск\nЛуганск\nСлавяносербск \nЛутугино\nОпасность по БПЛА\nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-30T02:15:28+00:00",
+    "expires_at": "2026-09-30T03:15:28+00:00",
     "count": null,
     "count_approx": false
   }
