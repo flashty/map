@@ -48,5 +48,35 @@
     "expires_at": "2026-09-30T06:28:23+00:00",
     "count": null,
     "count_approx": false
+  },
+  "курганск": {
+    "display_name": "Курганская область",
+    "type": "drone",
+    "text": "Курганская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-30T05:40:26+00:00",
+    "expires_at": "2026-09-30T06:40:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Трубчевск \nПочеп и близлежащие \nБрянская область \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-30T05:44:22+00:00",
+    "expires_at": "2026-09-30T06:44:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Шахтёрск \nТорез и близлежащие \nДНР \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-30T05:44:31+00:00",
+    "expires_at": "2026-09-30T06:44:31+00:00",
+    "count": null,
+    "count_approx": false
   }
 }
