@@ -9,33 +9,23 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Розовка Куйбышевский район в направлении Мариуполя и далее опасность по БПЛА \nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-30T19:21:00+00:00",
-    "expires_at": "2026-09-30T20:21:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
-    "type": "shelling",
-    "text": "Каховка артобстрел\nХерсонская область РФ",
+    "type": "drone",
+    "text": "Каланчак в направлении Новопавловка\nОпасность по БПЛА \nХерсонская область РФ",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-30T20:13:20+00:00",
-    "expires_at": "2026-09-30T21:13:20+00:00",
+    "updated_at": "2026-09-30T20:23:14+00:00",
+    "expires_at": "2026-09-30T21:23:14+00:00",
     "count": null,
     "count_approx": false
   },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Кировское,Черноморский район и далее по направлению  Березовка,Раздольненский район \nОпасность по БПЛА \nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-30T20:13:16+00:00",
-    "expires_at": "2026-09-30T21:13:16+00:00",
+    "text": "Симферопольский район, тревога по БПЛА сохраняется\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-30T20:29:54+00:00",
+    "expires_at": "2026-09-30T21:29:54+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Антрацит и близлежащие \nТревога по БПЛА \nЛНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-30T19:24:38+00:00",
-    "expires_at": "2026-09-30T20:24:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
@@ -66,16 +46,6 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-09-30T19:32:53+00:00",
     "expires_at": "2026-09-30T20:32:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Ростовская область \nВоронежская область \nОпасность по БПЛА от ЛНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-30T19:21:42+00:00",
-    "expires_at": "2026-09-30T20:21:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -112,10 +82,10 @@
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Орел \nОрловская область \nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-30T20:14:34+00:00",
-    "expires_at": "2026-09-30T21:14:34+00:00",
+    "text": "Болхов\nОрловская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-30T20:18:35+00:00",
+    "expires_at": "2026-09-30T21:18:35+00:00",
     "count": null,
     "count_approx": false
   },
