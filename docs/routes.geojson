@@ -5,6 +5,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-09-30T01:57:27+00:00",
+        "last_updated": "2026-09-30T02:33:47+00:00",
+        "path_labels": [
+          "Уфа (Республика Башкортостан)",
+          "Благоварский (Республика Башкортостан)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.947499,
+            54.7261409
+          ],
+          [
+            54.9022262,
+            54.6148494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-09-30T02:24:00+00:00",
         "last_updated": "2026-09-30T02:24:00+00:00",
         "path_labels": [
