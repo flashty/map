@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "свердловск": {
-    "display_name": "Свердловская область",
-    "type": "drone",
-    "text": "Красноуфимск, Михайловск, Екатеринбург и близлежащие, Свердловская область - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-30T03:54:47+00:00",
-    "expires_at": "2026-09-30T04:54:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
@@ -41,11 +31,21 @@
   },
   "пермск": {
     "display_name": "Пермский край",
-    "type": "alert",
-    "text": "Пермь\nПермский край \nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-09-30T04:42:44+00:00",
-    "expires_at": "2026-09-30T05:42:44+00:00",
+    "type": "drone",
+    "text": "Пермь и близлежащие, Пермский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-30T04:48:07+00:00",
+    "expires_at": "2026-09-30T05:48:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Тарханкут \nОленевка и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-30T04:57:23+00:00",
+    "expires_at": "2026-09-30T05:57:23+00:00",
     "count": null,
     "count_approx": false
   }
