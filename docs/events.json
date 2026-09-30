@@ -1,93 +1,5 @@
 [
   {
-    "id": "locatorru_87511_Краснодар",
-    "channel": "locatorru",
-    "date": "2026-09-29T07:44:56+00:00",
-    "text": "г.Краснодар, Краснодарский край - с 11:00 плановая проверка системы оповещения населения.\n\n📡Локатор России - @locatorru",
-    "type": "unknown",
-    "location_name": "Краснодар",
-    "region": "Краснодарский край",
-    "lat": 45.0351532,
-    "lon": 38.9772396
-  },
-  {
-    "id": "kupolrussia_134263",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T07:45:00+00:00",
-    "text": "Трасса Приазовское - Приморск \nЗапорожская область РФ\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241857_Джанкойский",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T07:45:44+00:00",
-    "text": "Чонгар и близлежащие, АПП Джанкой, Север Джанкойский район тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Джанкойский",
-    "region": null,
-    "lat": 55.5394245,
-    "lon": 37.5744389
-  },
-  {
-    "id": "kupolrussia_134264_Джанкойский",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T07:46:01+00:00",
-    "text": "Чонгар и близлежащие, АПП Джанкой, Север Джанкойский район\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Джанкойский",
-    "region": null,
-    "lat": 55.5394245,
-    "lon": 37.5744389
-  },
-  {
-    "id": "kupolrussia_134264_Север",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T07:46:01+00:00",
-    "text": "Чонгар и близлежащие, АПП Джанкой, Север Джанкойский район\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Север",
-    "region": null,
-    "lat": 59.926899,
-    "lon": 45.965725
-  },
-  {
-    "id": "radarrussiia_96285_Краснодар",
-    "channel": "radarrussiia",
-    "date": "2026-09-29T07:46:22+00:00",
-    "text": "г.Краснодар, Краснодарский край - с 11:00 плановая проверка системы оповещения населения.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "unknown",
-    "location_name": "Краснодар",
-    "region": "Краснодарский край",
-    "lat": 45.0351532,
-    "lon": 38.9772396
-  },
-  {
-    "id": "LPRalarm_241858_Мелитопольский",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T07:49:08+00:00",
-    "text": "Мелитопольский район тревога по БПЛА действует\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Мелитопольский",
-    "region": null,
-    "lat": 59.9445151,
-    "lon": 30.3614269
-  },
-  {
-    "id": "kupolrussia_134265_Мелитопольский",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T07:49:38+00:00",
-    "text": "Мелитопольский район тревога по БПЛА действует\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Мелитопольский",
-    "region": null,
-    "lat": 59.9445151,
-    "lon": 30.3614269
-  },
-  {
     "id": "LPRalarm_241859",
     "channel": "LPRalarm",
     "date": "2026-09-29T07:53:17+00:00",
@@ -21996,6 +21908,94 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Пермский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_94478",
+    "channel": "vrv_radar",
+    "date": "2026-09-30T07:34:42+00:00",
+    "text": "Омская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Омская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_96502",
+    "channel": "radarrussiia",
+    "date": "2026-09-30T07:35:55+00:00",
+    "text": "Омская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Омская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242328",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T07:36:00+00:00",
+    "text": "Дорога \nТокмак - Бердянск опасность по БПЛА Хорнет.\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134671",
+    "channel": "kupolrussia",
+    "date": "2026-09-30T07:36:18+00:00",
+    "text": "Дорога \nТокмак - Бердянск\nопасность по БПЛА Хорнет.\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242329",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T07:43:34+00:00",
+    "text": "Бердянск, Бердянский район и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134672",
+    "channel": "kupolrussia",
+    "date": "2026-09-30T07:43:49+00:00",
+    "text": "Бердянск, Бердянский район и близлежащие \nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134673",
+    "channel": "kupolrussia",
+    "date": "2026-09-30T07:44:14+00:00",
+    "text": "Саратовская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242330",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T07:44:18+00:00",
+    "text": "Саратовская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Саратовская область",
     "lat": null,
     "lon": null
   }
