@@ -2,10 +2,10 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "На Мелитополь с севера, северо-запада фиксация  БПЛА \nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-30T12:41:35+00:00",
-    "expires_at": "2026-09-30T13:41:35+00:00",
+    "text": "Розовка Куйбышевский район, с севера и далее на юг опасность по БПЛА\nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-30T12:47:24+00:00",
+    "expires_at": "2026-09-30T13:47:24+00:00",
     "count": null,
     "count_approx": false
   },
@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Жиздринский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-30T11:49:05+00:00",
-    "expires_at": "2026-09-30T12:49:05+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
@@ -46,6 +36,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-30T12:04:09+00:00",
     "expires_at": "2026-09-30T13:04:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Каланчак и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-30T12:55:46+00:00",
+    "expires_at": "2026-09-30T13:55:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Белгородский район, Валуйский район, Шебекинский район, Белгородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-30T12:58:53+00:00",
+    "expires_at": "2026-09-30T13:58:53+00:00",
     "count": null,
     "count_approx": false
   }
