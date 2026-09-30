@@ -1,31 +1,21 @@
 {
   "татарст": {
-    "display_name": "Республика Татарстан",
+    "display_name": "Республику Татарстан",
     "type": "drone",
-    "text": "Аксубаевский район\nРеспублика Татарстан\nФиксация 2х БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-30T01:52:22+00:00",
-    "expires_at": "2026-09-30T02:52:22+00:00",
+    "text": "Никольское-на-Черемшане, Димитровград, Новочеремшанск, Ульяновская область - внимание по возможным пролётам БПЛА и далее на Республику Татарстан.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-30T02:24:00+00:00",
+    "expires_at": "2026-09-30T03:24:00+00:00",
     "count": null,
-    "count_approx": false
-  },
-  "оренбургск": {
-    "display_name": "Оренбургская область",
-    "type": "drone",
-    "text": "Колтубановский, Бузулукский район, Оренбургская область -3 БПЛА в сторону Уфы\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-30T01:30:19+00:00",
-    "expires_at": "2026-09-30T02:30:19+00:00",
-    "count": 3,
     "count_approx": false
   },
   "башкортост": {
     "display_name": "Республика Башкортостан",
     "type": "drone",
-    "text": "Республика Башкортостан \nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-30T02:08:38+00:00",
-    "expires_at": "2026-09-30T03:08:38+00:00",
+    "text": "Ульяновская область \nРеспублика Башкортостан \nРеспублика Удмуртия \n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-09-30T02:17:42+00:00",
+    "expires_at": "2026-09-30T03:17:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -42,10 +32,10 @@
   "удмурт": {
     "display_name": "Республика Удмуртия",
     "type": "drone",
-    "text": "Республика Удмуртия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-30T01:57:57+00:00",
-    "expires_at": "2026-09-30T02:57:57+00:00",
+    "text": "Ульяновская область \nРеспублика Башкортостан \nРеспублика Удмуртия \n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-09-30T02:17:42+00:00",
+    "expires_at": "2026-09-30T03:17:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +56,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-30T02:15:28+00:00",
     "expires_at": "2026-09-30T03:15:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Троснянский район \nГлазуновский район \nОрловская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-30T02:23:48+00:00",
+    "expires_at": "2026-09-30T03:23:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Шатура \nМосковская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-30T02:23:32+00:00",
+    "expires_at": "2026-09-30T03:23:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Евпатория \nЗаозерное\nИ близлежащие \nВнимание по БПЛА\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-30T02:29:55+00:00",
+    "expires_at": "2026-09-30T03:29:55+00:00",
     "count": null,
     "count_approx": false
   }
