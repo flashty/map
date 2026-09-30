@@ -1,14 +1,4 @@
 {
-  "башкортост": {
-    "display_name": "Республика Башкортостан",
-    "type": "drone",
-    "text": "Троицкий, Благоварский район, Республика Башкортостан - ещё фиксации БПЛА в сторону Уфы, предварительно уходят в сторону Пермского края, Свердловской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-30T03:43:55+00:00",
-    "expires_at": "2026-09-30T04:43:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
@@ -19,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянская область \nОпасность по реактивным БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-30T03:37:11+00:00",
-    "expires_at": "2026-09-30T04:37:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "свердловск": {
     "display_name": "Свердловская область",
     "type": "drone",
@@ -36,16 +16,6 @@
     "channel": "locatorru",
     "updated_at": "2026-09-30T03:54:47+00:00",
     "expires_at": "2026-09-30T04:54:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "пермско": {
-    "display_name": "Пермского края",
-    "type": "drone",
-    "text": "Троицкий, Благоварский район, Республика Башкортостан - ещё фиксации БПЛА в сторону Уфы, предварительно уходят в сторону Пермского края, Свердловской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-09-30T03:43:55+00:00",
-    "expires_at": "2026-09-30T04:43:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +36,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-09-30T04:17:25+00:00",
     "expires_at": "2026-09-30T05:17:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пермск": {
+    "display_name": "Пермский край",
+    "type": "alert",
+    "text": "Пермь\nПермский край \nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-30T04:42:44+00:00",
+    "expires_at": "2026-09-30T05:42:44+00:00",
     "count": null,
     "count_approx": false
   }
