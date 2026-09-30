@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_134202",
-    "channel": "kupolrussia",
-    "date": "2026-09-28T21:48:22+00:00",
-    "text": "Противник готовит массовый запуск БПЛА в направлении Брянской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241790",
-    "channel": "LPRalarm",
-    "date": "2026-09-28T21:48:27+00:00",
-    "text": "Трехизбенка и близлежащие\nИ далее на Родаково, Луганск\nЕще фиксации БПЛА\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241791",
-    "channel": "LPRalarm",
-    "date": "2026-09-28T21:48:49+00:00",
-    "text": "ЛНР \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_134203",
-    "channel": "kupolrussia",
-    "date": "2026-09-28T21:48:53+00:00",
-    "text": "ЛНР \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_94133_Троснянский",
-    "channel": "vrv_radar",
-    "date": "2026-09-28T21:49:48+00:00",
-    "text": "Троснянский район\nДмитровский район\nОрловская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Троснянский",
-    "region": "Орловская область",
-    "lat": 52.3967026,
-    "lon": 35.8058385
-  },
-  {
-    "id": "vrv_radar_94133_Дмитровский",
-    "channel": "vrv_radar",
-    "date": "2026-09-28T21:49:48+00:00",
-    "text": "Троснянский район\nДмитровский район\nОрловская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Дмитровский",
-    "region": "Орловская область",
-    "lat": 52.6670934,
-    "lon": 35.5664814
-  },
-  {
     "id": "LPRalarm_241792",
     "channel": "LPRalarm",
     "date": "2026-09-28T21:49:53+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Челябинская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_94458",
+    "channel": "vrv_radar",
+    "date": "2026-09-30T04:17:25+00:00",
+    "text": "Челябинская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Челябинская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14782",
+    "channel": "radar_plus_bpla",
+    "date": "2026-09-30T04:20:52+00:00",
+    "text": "Пермь - сбития БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_94459",
+    "channel": "vrv_radar",
+    "date": "2026-09-30T04:22:45+00:00",
+    "text": "Тамбовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14783",
+    "channel": "radar_plus_bpla",
+    "date": "2026-09-30T04:25:14+00:00",
+    "text": "Пермь - на подлёте к городу фиксируем группу БПЛА. \n\nБудут сбития.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242274",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T04:27:22+00:00",
+    "text": "Новокиевка и далее в направлении Каланчак фиксация БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242275_Перекоп",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T04:30:27+00:00",
+    "text": "Высокая активность БПЛА Хорнет Чаплынский район, Скадовский район, Каланчак \n\nОсобое внимание АПП Армянск, АПП Перекоп, Армянск",
+    "type": "drone",
+    "location_name": "Перекоп",
+    "region": null,
+    "lat": 59.121197,
+    "lon": 49.985012
   }
 ]
