@@ -1,104 +1,5 @@
 [
   {
-    "id": "kupolrussia_134329",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T14:25:41+00:00",
-    "text": "Донецк и близлежащие \nОпасность по БПЛА повторно, ещё фиксации \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241933",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T14:32:50+00:00",
-    "text": "Дорога \nЧервоное Поле  - Бердянск  \nОпасность по БПЛА Хорнет \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_134330",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T14:32:55+00:00",
-    "text": "Дорога \nЧервоное Поле  - Бердянск  \nОпасность по БПЛА Хорнет \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241934",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T14:36:17+00:00",
-    "text": "Тарханкут и близлежащие тревога по БПЛА с моря с сервера, северо-запада",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_134331",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T14:36:26+00:00",
-    "text": "Тарханкут и близлежащие тревога по БПЛА с моря с сервера, северо-запада",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241935",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T14:36:34+00:00",
-    "text": "Опасность БПЛА по г. Бердянск и Бердянскому району \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_134332",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T14:36:58+00:00",
-    "text": "Опасность БПЛА по г. Бердянск и Бердянскому району \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241936",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T14:41:14+00:00",
-    "text": "Горловка и близлежащие \nТревога по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_134333",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T14:41:19+00:00",
-    "text": "Горловка и близлежащие \nТревога по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_241937",
     "channel": "LPRalarm",
     "date": "2026-09-29T14:44:19+00:00",
@@ -21996,6 +21897,105 @@
     "type": "all_clear",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242401_Борисовский",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T13:17:10+00:00",
+    "text": "Борисовский район опасность по БПЛА \nБелгородская область",
+    "type": "drone",
+    "location_name": "Борисовский",
+    "region": "Белгородская область",
+    "lat": 50.5951942,
+    "lon": 36.011682
+  },
+  {
+    "id": "kupolrussia_134738_Борисовский",
+    "channel": "kupolrussia",
+    "date": "2026-09-30T13:17:20+00:00",
+    "text": "Борисовский район опасность по БПЛА \nБелгородская область",
+    "type": "drone",
+    "location_name": "Борисовский",
+    "region": "Белгородская область",
+    "lat": 50.5951942,
+    "lon": 36.011682
+  },
+  {
+    "id": "vrv_radar_94501",
+    "channel": "vrv_radar",
+    "date": "2026-09-30T13:18:25+00:00",
+    "text": "Челябинская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Челябинская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242402",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T13:26:55+00:00",
+    "text": "ЛДНР\nЗапорожская область РФ\nХарьковская область РФ\nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134739",
+    "channel": "kupolrussia",
+    "date": "2026-09-30T13:27:16+00:00",
+    "text": "ЛДНР\nЗапорожская область РФ\nХарьковская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242403",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T13:28:41+00:00",
+    "text": "Курская область и близлежащие\nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134740",
+    "channel": "kupolrussia",
+    "date": "2026-09-30T13:28:45+00:00",
+    "text": "Курская область и близлежащие\nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87775",
+    "channel": "locatorru",
+    "date": "2026-09-30T13:30:44+00:00",
+    "text": "Ханты-Мансийский автономный округ — Югра, Ямало-Ненецкий автономный округ; Омская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ханты-Мансийский автономный округ",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_94502",
+    "channel": "vrv_radar",
+    "date": "2026-09-30T13:31:07+00:00",
+    "text": "Ханты-Мансийский автономный округ\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ханты-Мансийский автономный округ",
     "lat": null,
     "lon": null
   }
