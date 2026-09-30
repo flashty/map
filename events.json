@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_241912_Осипенко",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T13:04:57+00:00",
-    "text": "Приазовское - Приморск - Осипенко, Бердянск - Урзуф повторно опасность по БПЛА, в том числе трассы",
-    "type": "drone",
-    "location_name": "Осипенко",
-    "region": null,
-    "lat": 54.400865,
-    "lon": 22.1195489
-  },
-  {
-    "id": "kupolrussia_134310_Осипенко",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T13:06:43+00:00",
-    "text": "Приазовское - Приморск - Осипенко, Бердянск - Урзуф повторно опасность по БПЛА, в том числе трассы",
-    "type": "drone",
-    "location_name": "Осипенко",
-    "region": null,
-    "lat": 54.400865,
-    "lon": 22.1195489
-  },
-  {
-    "id": "vrv_radar_94155",
-    "channel": "vrv_radar",
-    "date": "2026-09-29T13:23:47+00:00",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_134311",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T13:24:30+00:00",
-    "text": "ЛДНР, Запорожская область РФ \nАвиационная ракетная бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241913",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T13:24:31+00:00",
-    "text": "ЛДНР, Запорожская область РФ \nАвиационная ракетная бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241914",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T13:25:08+00:00",
-    "text": "Краснодарский край \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_134312",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T13:25:26+00:00",
-    "text": "Краснодарский край \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_241915",
     "channel": "LPRalarm",
     "date": "2026-09-29T13:28:28+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_94496",
+    "channel": "vrv_radar",
+    "date": "2026-09-30T11:06:09+00:00",
+    "text": "Тульская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134717",
+    "channel": "kupolrussia",
+    "date": "2026-09-30T11:06:30+00:00",
+    "text": "Тульская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242378",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T11:06:33+00:00",
+    "text": "Тульская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_96519",
+    "channel": "radarrussiia",
+    "date": "2026-09-30T11:08:57+00:00",
+    "text": "Тульская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87771",
+    "channel": "locatorru",
+    "date": "2026-09-30T11:09:19+00:00",
+    "text": "Тульская область  - отбой опасности по БПЛА. Режим внимание. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242379",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T11:15:44+00:00",
+    "text": "Экстренная информация РСЧС: ОПАСНОСТЬ АТАКИ БПЛА в Валуйском МО 14:14. Оставайтесь дома, не подходите к окнам или пройдите в укрытие.",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134718",
+    "channel": "kupolrussia",
+    "date": "2026-09-30T11:16:01+00:00",
+    "text": "Экстренная информация РСЧС: ОПАСНОСТЬ АТАКИ БПЛА в Валуйском МО 14:14. Оставайтесь дома, не подходите к окнам или пройдите в укрытие.",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
