@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_134210_Симферопольский",
-    "channel": "kupolrussia",
-    "date": "2026-09-28T22:06:13+00:00",
-    "text": "Симферопольский район \nГвардейское и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": "Симферопольский",
-    "region": "Республика Крым",
-    "lat": 44.9423753,
-    "lon": 34.0968267
-  },
-  {
-    "id": "LPRalarm_241802",
-    "channel": "LPRalarm",
-    "date": "2026-09-28T22:06:52+00:00",
-    "text": "Докучаевск, Старобешево Амвросиевка\nТревога по БПЛА\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_134211",
-    "channel": "kupolrussia",
-    "date": "2026-09-28T22:06:55+00:00",
-    "text": "Докучаевск, Старобешево Амвросиевка\nТревога по БПЛА\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_241803",
-    "channel": "LPRalarm",
-    "date": "2026-09-28T22:07:47+00:00",
-    "text": "Счастье \nЛуганск и близлежащие \nОпасность по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_134212",
-    "channel": "kupolrussia",
-    "date": "2026-09-28T22:07:52+00:00",
-    "text": "Счастье \nЛуганск и близлежащие \nОпасность по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_241804",
     "channel": "LPRalarm",
     "date": "2026-09-28T22:09:16+00:00",
@@ -21996,6 +21941,61 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_94464",
+    "channel": "vrv_radar",
+    "date": "2026-09-30T05:01:34+00:00",
+    "text": "⚠️ Новгородская область \n\nВ период с 29 сентября по 07 октября с 9:00 до 17:00 (По МСК) будет проводиться проверка системы оповещения населения с включением сиренно-речевых установок.\n\nПросим сохранять спокойствие.",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Новгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87752",
+    "channel": "locatorru",
+    "date": "2026-09-30T05:05:34+00:00",
+    "text": "севернее г.Кушва, Свердловская область - пролёт 2 БПЛА направлении Тюменской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Свердловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_94465",
+    "channel": "vrv_radar",
+    "date": "2026-09-30T05:09:10+00:00",
+    "text": "Московская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242285",
+    "channel": "LPRalarm",
+    "date": "2026-09-30T05:11:19+00:00",
+    "text": "трасса Р-280 \n Запорожской области РФ\n Опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_134630",
+    "channel": "kupolrussia",
+    "date": "2026-09-30T05:11:39+00:00",
+    "text": "трасса Р-280 \n Запорожской области РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожской области",
     "lat": null,
     "lon": null
   }
