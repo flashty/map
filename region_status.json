@@ -2,10 +2,10 @@
   "башкортост": {
     "display_name": "Республика Башкортостан",
     "type": "drone",
-    "text": "Оренбургская область \nРеспублика Башкортостан \nОпасность по БПЛА повторно",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-30T02:47:08+00:00",
-    "expires_at": "2026-09-30T03:47:08+00:00",
+    "text": "Чишмы, Республика Башкортостан - БПЛА в сторону Уфы. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-09-30T03:13:14+00:00",
+    "expires_at": "2026-09-30T04:13:14+00:00",
     "count": null,
     "count_approx": false
   },
@@ -19,43 +19,23 @@
     "count": null,
     "count_approx": false
   },
-  "вологодск": {
-    "display_name": "Вологодская область",
-    "type": "drone",
-    "text": "Вологодская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-30T02:08:30+00:00",
-    "expires_at": "2026-09-30T03:08:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Стаханов\nАлчевск\nЛуганск\nСлавяносербск \nЛутугино\nОпасность по БПЛА\nЛНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-30T02:15:28+00:00",
-    "expires_at": "2026-09-30T03:15:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Троснянский район \nГлазуновский район \nОрловская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Свердловский район \nКромской район \nОрловская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-30T02:23:48+00:00",
-    "expires_at": "2026-09-30T03:23:48+00:00",
+    "updated_at": "2026-09-30T03:06:22+00:00",
+    "expires_at": "2026-09-30T04:06:22+00:00",
     "count": null,
     "count_approx": false
   },
   "московск": {
     "display_name": "Московская область",
-    "type": "drone",
-    "text": "ГО Шатура \nМосковская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "missile",
+    "text": "Московская область\nРакетная опасность \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-09-30T02:23:32+00:00",
-    "expires_at": "2026-09-30T03:23:32+00:00",
+    "updated_at": "2026-09-30T03:06:43+00:00",
+    "expires_at": "2026-09-30T04:06:43+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,16 +46,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-09-30T02:29:55+00:00",
     "expires_at": "2026-09-30T03:29:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "оренбургск": {
-    "display_name": "Оренбургская область",
-    "type": "drone",
-    "text": "Оренбургская область \nРеспублика Башкортостан \nОпасность по БПЛА повторно",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-30T02:47:08+00:00",
-    "expires_at": "2026-09-30T03:47:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -136,6 +106,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-30T02:59:20+00:00",
     "expires_at": "2026-09-30T03:59:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "missile",
+    "text": "Ростовская область\nВолгоградская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-30T03:08:35+00:00",
+    "expires_at": "2026-09-30T04:08:35+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградская область",
+    "type": "missile",
+    "text": "Волгоградская область\nРакетная опасность",
+    "channel": "vrv_radar",
+    "updated_at": "2026-09-30T03:10:04+00:00",
+    "expires_at": "2026-09-30T04:10:04+00:00",
     "count": null,
     "count_approx": false
   }
