@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Суворовский район \nТульская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-30T17:05:23+00:00",
-    "expires_at": "2026-09-30T18:05:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
@@ -29,63 +19,63 @@
     "count": null,
     "count_approx": false
   },
-  "тверск": {
-    "display_name": "Тверская область",
-    "type": "drone",
-    "text": "Тверская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-09-30T17:06:54+00:00",
-    "expires_at": "2026-09-30T18:06:54+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "николаевск": {
-    "display_name": "Николаевской области",
-    "type": "drone",
-    "text": "Пуски БПЛА из Николаевской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-30T17:07:07+00:00",
-    "expires_at": "2026-09-30T18:07:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Приазовье и ближайшие\nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Все районы Запорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-30T17:23:44+00:00",
-    "expires_at": "2026-09-30T18:23:44+00:00",
+    "updated_at": "2026-09-30T18:03:25+00:00",
+    "expires_at": "2026-09-30T19:03:25+00:00",
     "count": null,
     "count_approx": false
   },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Почепский\nПогарский районы\nБрянская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "text": "Рохманово, Брянская область опасность по БПЛА и далее по направлению \nСеверо восток",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-30T17:31:09+00:00",
-    "expires_at": "2026-09-30T18:31:09+00:00",
+    "updated_at": "2026-09-30T18:14:36+00:00",
+    "expires_at": "2026-09-30T19:14:36+00:00",
     "count": null,
     "count_approx": false
   },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
-    "text": "От Новокиевка в направлении Каланчак БПЛА Хорнет \nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-09-30T18:00:38+00:00",
-    "expires_at": "2026-09-30T19:00:38+00:00",
+    "text": "Новая Маячка  и далее на юг, юго-восток тревога по БПЛА  \nХерсонская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-09-30T18:11:48+00:00",
+    "expires_at": "2026-09-30T19:11:48+00:00",
     "count": null,
     "count_approx": false
   },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Шаблыкинский район\nОрловская область\nФиксация БПЛА",
+    "text": "Брянская область \nОрловская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n72а \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-09-30T18:05:14+00:00",
+    "expires_at": "2026-09-30T19:05:14+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Перемышльский район \nКалужская область\nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-09-30T17:50:37+00:00",
-    "expires_at": "2026-09-30T18:50:37+00:00",
+    "updated_at": "2026-09-30T18:07:51+00:00",
+    "expires_at": "2026-09-30T19:07:51+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Республика Крым\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-30T18:14:49+00:00",
+    "expires_at": "2026-09-30T19:14:49+00:00",
     "count": null,
     "count_approx": false
   }
