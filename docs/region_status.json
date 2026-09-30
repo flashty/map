@@ -19,26 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "омская": {
-    "display_name": "Омская область",
-    "type": "drone",
-    "text": "Омская область - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-09-30T08:25:17+00:00",
-    "expires_at": "2026-09-30T09:25:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "самарск": {
-    "display_name": "Самарская область",
-    "type": "drone",
-    "text": "Самарская область \nБыла фиксация единичного БПЛА.",
-    "channel": "LPRalarm",
-    "updated_at": "2026-09-30T08:26:46+00:00",
-    "expires_at": "2026-09-30T09:26:46+00:00",
-    "count": 1,
-    "count_approx": true
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -81,11 +61,11 @@
   },
   "луганск": {
     "display_name": "Луганская область",
-    "type": "alert",
-    "text": "Север\nЛНР \nОпасность по МРШ со сбросами",
+    "type": "drone",
+    "text": "От Стаханова, Брянка ЛНР группа БПЛА и далее на Восток",
     "channel": "kupolrussia",
-    "updated_at": "2026-09-30T08:49:01+00:00",
-    "expires_at": "2026-09-30T09:49:01+00:00",
+    "updated_at": "2026-09-30T09:24:29+00:00",
+    "expires_at": "2026-09-30T10:24:29+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +76,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-09-30T09:12:59+00:00",
     "expires_at": "2026-09-30T10:12:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рязанская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-09-30T09:25:06+00:00",
+    "expires_at": "2026-09-30T10:25:06+00:00",
     "count": null,
     "count_approx": false
   }
