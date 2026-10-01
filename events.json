@@ -1,16 +1,5 @@
 [
   {
-    "id": "LPRalarm_242330",
-    "channel": "LPRalarm",
-    "date": "2026-09-30T07:44:18+00:00",
-    "text": "Саратовская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_242331_Джанкойский",
     "channel": "LPRalarm",
     "date": "2026-09-30T07:47:04+00:00",
@@ -21998,5 +21987,16 @@
     "region": "Воронежская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "radarrussiia_96714_Узловский",
+    "channel": "radarrussiia",
+    "date": "2026-10-01T14:46:04+00:00",
+    "text": "Новомосковск\nУзловский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Узловский",
+    "region": "Тульская область",
+    "lat": 53.9090465,
+    "lon": 38.144457
   }
 ]
