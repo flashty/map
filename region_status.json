@@ -8,5 +8,25 @@
     "expires_at": "2026-10-01T04:30:31+00:00",
     "count": null,
     "count_approx": false
+  },
+  "пензенск": {
+    "display_name": "Пензенская область",
+    "type": "drone",
+    "text": "Пензенская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-01T03:51:34+00:00",
+    "expires_at": "2026-10-01T04:51:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Лисичанск Горское ЛНР \nОпасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-01T03:51:48+00:00",
+    "expires_at": "2026-10-01T04:51:48+00:00",
+    "count": null,
+    "count_approx": false
   }
 }

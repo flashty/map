@@ -1,82 +1,5 @@
 [
   {
-    "id": "locatorru_87673",
-    "channel": "locatorru",
-    "date": "2026-09-29T20:54:07+00:00",
-    "text": "Михайловка, Фролово, Петров Вал, Котов, Елань, Жирновск, Волгоградская область - опасность по БПЛА и в сторону Саратовской области.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_96380_Свердловский",
-    "channel": "radarrussiia",
-    "date": "2026-09-29T20:54:29+00:00",
-    "text": "Свердловский район \nОрловская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Свердловский",
-    "region": "Орловская область",
-    "lat": 52.6765295,
-    "lon": 36.2815763
-  },
-  {
-    "id": "LPRalarm_242191",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T20:56:57+00:00",
-    "text": "Краснодарский край\nПричерноморье\nотбой опасности по БПЛА \nПереходим в режим повышенного внимания",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_134550",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T20:56:59+00:00",
-    "text": "Краснодарский край\nПричерноморье\nотбой опасности по БПЛА \nПереходим в режим повышенного внимания",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_134551",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T20:58:33+00:00",
-    "text": "Краснодарский край\nПриазовье\nопасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_242192",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T20:58:34+00:00",
-    "text": "Краснодарский край\nПриазовье\nопасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_94309_Энгельсский",
-    "channel": "vrv_radar",
-    "date": "2026-09-29T20:59:51+00:00",
-    "text": "Энгельсский район \nСаратовская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Энгельсский",
-    "region": "Саратовская область",
-    "lat": 51.4624602,
-    "lon": 46.1190843
-  },
-  {
     "id": "radar_plus_bpla_14775",
     "channel": "radar_plus_bpla",
     "date": "2026-09-29T21:00:07+00:00",
@@ -21996,6 +21919,83 @@
     "type": "all_clear",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87829",
+    "channel": "locatorru",
+    "date": "2026-10-01T03:49:38+00:00",
+    "text": "Пензенская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_135041",
+    "channel": "kupolrussia",
+    "date": "2026-10-01T03:49:51+00:00",
+    "text": "Пензенская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242730",
+    "channel": "LPRalarm",
+    "date": "2026-10-01T03:49:55+00:00",
+    "text": "Пензенская область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_135042",
+    "channel": "kupolrussia",
+    "date": "2026-10-01T03:50:42+00:00",
+    "text": "Калужская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242731",
+    "channel": "LPRalarm",
+    "date": "2026-10-01T03:50:46+00:00",
+    "text": "Калужская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_94619",
+    "channel": "vrv_radar",
+    "date": "2026-10-01T03:51:34+00:00",
+    "text": "Пензенская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242732",
+    "channel": "LPRalarm",
+    "date": "2026-10-01T03:51:48+00:00",
+    "text": "Лисичанск Горское ЛНР \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
