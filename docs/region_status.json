@@ -1,14 +1,4 @@
 {
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Мелитополь и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-01T12:22:37+00:00",
-    "expires_at": "2026-10-01T13:22:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
@@ -30,22 +20,12 @@
     "count_approx": false
   },
   "тульск": {
-    "display_name": "Тульской области",
+    "display_name": "Тульская область",
     "type": "drone",
-    "text": "Мценск, Болхов, Орловская область - опасность по БПЛА и в направлении Тульской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-01T13:03:47+00:00",
-    "expires_at": "2026-10-01T14:03:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "самарск": {
-    "display_name": "Самарская область",
-    "type": "drone",
-    "text": "Тольятти, Чапаевск, Нефтегорск, Сызрань, Самара, Новокуйбышевск, Самарская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-01T12:28:23+00:00",
-    "expires_at": "2026-10-01T13:28:23+00:00",
+    "text": "Щекинский район \nТульская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-01T13:25:08+00:00",
+    "expires_at": "2026-10-01T14:25:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,16 +36,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-01T13:02:38+00:00",
     "expires_at": "2026-10-01T14:02:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Угроза атаки БПЛА. \nВ границах муниципальных округов: Беловодский, Меловский, Марковский, Белокуракинский, Новопсковский и Троицкий.\nЛНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-01T12:28:02+00:00",
-    "expires_at": "2026-10-01T13:28:02+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +76,26 @@
     "channel": "locatorru",
     "updated_at": "2026-10-01T13:13:05+00:00",
     "expires_at": "2026-10-01T14:13:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область\n повторно\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-01T13:24:02+00:00",
+    "expires_at": "2026-10-01T14:24:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Пески, Донецк и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-01T13:29:23+00:00",
+    "expires_at": "2026-10-01T14:29:23+00:00",
     "count": null,
     "count_approx": false
   }
