@@ -12,10 +12,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ \nДНР",
+    "text": "Донецк и близлежащие \nДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-01T09:56:58+00:00",
-    "expires_at": "2026-10-01T10:56:58+00:00",
+    "updated_at": "2026-10-01T10:27:07+00:00",
+    "expires_at": "2026-10-01T11:27:07+00:00",
     "count": null,
     "count_approx": false
   },
@@ -32,10 +32,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Новая Адыгея\nКраснодар \nКраснодарский край \nВнимание по реактивным БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-01T09:42:40+00:00",
-    "expires_at": "2026-10-01T10:42:40+00:00",
+    "text": "Краснодарский край \nКраснодар тревога по реактивным БПЛА сохраняется",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-01T10:24:18+00:00",
+    "expires_at": "2026-10-01T11:24:18+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,10 +52,10 @@
   "ульяновск": {
     "display_name": "Ульяновская область",
     "type": "drone",
-    "text": "Радищевский район \nУльяновская область\nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-01T10:16:04+00:00",
-    "expires_at": "2026-10-01T11:16:04+00:00",
+    "text": "Радищевский район \nУльяновская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-01T10:21:30+00:00",
+    "expires_at": "2026-10-01T11:21:30+00:00",
     "count": null,
     "count_approx": false
   },
@@ -79,16 +79,6 @@
     "count": null,
     "count_approx": false
   },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Ростовская область \nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-01T09:29:46+00:00",
-    "expires_at": "2026-10-01T10:29:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ставропольск": {
     "display_name": "Ставропольский край",
     "type": "drone",
@@ -106,6 +96,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-01T09:44:28+00:00",
     "expires_at": "2026-10-01T10:44:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Республика Татарстан - опасность БПЛА.\n\nФиксации от Ульяновской области.\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-01T10:27:57+00:00",
+    "expires_at": "2026-10-01T11:27:57+00:00",
     "count": null,
     "count_approx": false
   }
