@@ -1,27 +1,5 @@
 [
   {
-    "id": "locatorru_87666_Почеп",
-    "channel": "locatorru",
-    "date": "2026-09-29T20:40:51+00:00",
-    "text": "Погар, Стародуб, Почеп, Брянская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Почеп",
-    "region": "Брянская область",
-    "lat": 52.9287784,
-    "lon": 33.4544207
-  },
-  {
-    "id": "radarrussiia_96371",
-    "channel": "radarrussiia",
-    "date": "2026-09-29T20:40:58+00:00",
-    "text": "Владимирская область\nИвановская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Владимирская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_94298_Красноармейский",
     "channel": "vrv_radar",
     "date": "2026-09-29T20:41:08+00:00",
@@ -21994,6 +21972,28 @@
     "date": "2026-10-01T01:15:31+00:00",
     "text": "Запад, Северо-запад Крыма \nРакетная опасность",
     "type": "missile",
+    "location_name": "Запад",
+    "region": null,
+    "lat": 57.8723,
+    "lon": 41.669
+  },
+  {
+    "id": "LPRalarm_242727_Запад",
+    "channel": "LPRalarm",
+    "date": "2026-10-01T01:17:52+00:00",
+    "text": "Запад, Северо-запад Крыма \nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": "Запад",
+    "region": null,
+    "lat": 57.8723,
+    "lon": 41.669
+  },
+  {
+    "id": "kupolrussia_135038_Запад",
+    "channel": "kupolrussia",
+    "date": "2026-10-01T01:17:59+00:00",
+    "text": "Запад, Северо-запад Крыма \nОтбой ракетной опасности",
+    "type": "all_clear",
     "location_name": "Запад",
     "region": null,
     "lat": 57.8723,
