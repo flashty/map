@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_242331_Джанкойский",
-    "channel": "LPRalarm",
-    "date": "2026-09-30T07:47:04+00:00",
-    "text": "Соленое озеро \nДжанкойский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Джанкойский",
-    "region": null,
-    "lat": 55.5394245,
-    "lon": 37.5744389
-  },
-  {
-    "id": "vrv_radar_94479_Вагайский",
-    "channel": "vrv_radar",
-    "date": "2026-09-30T07:47:19+00:00",
-    "text": "Вагайский район\nТюменская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Вагайский",
-    "region": "Тюменская область",
-    "lat": 57.859121,
-    "lon": 69.5758792
-  },
-  {
-    "id": "kupolrussia_134674",
-    "channel": "kupolrussia",
-    "date": "2026-09-30T07:47:22+00:00",
-    "text": "Соленое озеро \nДжанкойский район \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_94480_Тобольский",
-    "channel": "vrv_radar",
-    "date": "2026-09-30T07:47:24+00:00",
-    "text": "Тобольский район\nТюменская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Тобольский",
-    "region": "Тюменская область",
-    "lat": 58.2273546,
-    "lon": 68.2684219
-  },
-  {
-    "id": "LPRalarm_242332",
-    "channel": "LPRalarm",
-    "date": "2026-09-30T07:47:25+00:00",
-    "text": "Запад Бердянск - Азов - Шевченко активность БПЛА противника Р-280\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_134675",
-    "channel": "kupolrussia",
-    "date": "2026-09-30T07:47:38+00:00",
-    "text": "Запад Бердянск - Азов - Шевченко активность БПЛА противника Р-280\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_134676",
     "channel": "kupolrussia",
     "date": "2026-09-30T07:47:40+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Тульская область",
     "lat": 53.9090465,
     "lon": 38.144457
+  },
+  {
+    "id": "LPRalarm_242946",
+    "channel": "LPRalarm",
+    "date": "2026-10-01T14:51:13+00:00",
+    "text": "Доброполье ДНР уаб",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242947",
+    "channel": "LPRalarm",
+    "date": "2026-10-01T14:52:04+00:00",
+    "text": "Белицкое, Родинское, Димитров ДНР УАБы",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242948",
+    "channel": "LPRalarm",
+    "date": "2026-10-01T14:52:16+00:00",
+    "text": "Новоалексеевка Херсонская область РФ , опасность по БПЛА внимание все трассы",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_94739_Коломна",
+    "channel": "vrv_radar",
+    "date": "2026-10-01T14:53:53+00:00",
+    "text": "ГО Коломна\nМосковская область\nСбитие БПЛА\nМеры безопасности",
+    "type": "all_clear",
+    "location_name": "Коломна",
+    "region": "Московская область",
+    "lat": 55.0938743,
+    "lon": 38.7670121
+  },
+  {
+    "id": "radarrussiia_96715_Коломна",
+    "channel": "radarrussiia",
+    "date": "2026-10-01T14:59:43+00:00",
+    "text": "ГО Коломна\nМосковская область\nСбитие БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": "Коломна",
+    "region": "Московская область",
+    "lat": 55.0938743,
+    "lon": 38.7670121
+  },
+  {
+    "id": "radarrussiia_96716",
+    "channel": "radarrussiia",
+    "date": "2026-10-01T15:01:06+00:00",
+    "text": "Воронеж и близлежащие \nВоронежская область \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
   }
 ]
