@@ -1,104 +1,5 @@
 [
   {
-    "id": "locatorru_87736_Пермь",
-    "channel": "locatorru",
-    "date": "2026-09-30T03:18:10+00:00",
-    "text": "Березники, Губаха, Пермь, Соликамск, Пермский край - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Пермь",
-    "region": "Пермский край",
-    "lat": 58.0108531,
-    "lon": 56.2318528
-  },
-  {
-    "id": "locatorru_87736_Соликамск",
-    "channel": "locatorru",
-    "date": "2026-09-30T03:18:10+00:00",
-    "text": "Березники, Губаха, Пермь, Соликамск, Пермский край - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Соликамск",
-    "region": "Пермский край",
-    "lat": 59.6493177,
-    "lon": 56.7706247
-  },
-  {
-    "id": "vrv_radar_94441",
-    "channel": "vrv_radar",
-    "date": "2026-09-30T03:19:40+00:00",
-    "text": "Московская область \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_87737_Березники",
-    "channel": "locatorru",
-    "date": "2026-09-30T03:22:07+00:00",
-    "text": "Березники, Губаха, Пермский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Березники",
-    "region": "Пермский край",
-    "lat": 59.4084171,
-    "lon": 56.8036958
-  },
-  {
-    "id": "locatorru_87737_Губаха",
-    "channel": "locatorru",
-    "date": "2026-09-30T03:22:07+00:00",
-    "text": "Березники, Губаха, Пермский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Губаха",
-    "region": "Пермский край",
-    "lat": 58.842407,
-    "lon": 57.555058
-  },
-  {
-    "id": "LPRalarm_242258",
-    "channel": "LPRalarm",
-    "date": "2026-09-30T03:28:57+00:00",
-    "text": "Ростовская область \nКраснодарский край \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_134608",
-    "channel": "kupolrussia",
-    "date": "2026-09-30T03:29:09+00:00",
-    "text": "Ростовская область \nКраснодарский край \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_94442",
-    "channel": "vrv_radar",
-    "date": "2026-09-30T03:30:12+00:00",
-    "text": "Ростовская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_87738",
-    "channel": "locatorru",
-    "date": "2026-09-30T03:30:17+00:00",
-    "text": "Ростовская область, Волгоградская область - отбой ракетной опасности! \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_242259",
     "channel": "LPRalarm",
     "date": "2026-09-30T03:30:54+00:00",
@@ -21996,6 +21897,105 @@
     "type": "missile",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242894",
+    "channel": "LPRalarm",
+    "date": "2026-10-01T11:20:12+00:00",
+    "text": "АНАПА и близлежащие \nОпасность по БПЛА \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_135183",
+    "channel": "kupolrussia",
+    "date": "2026-10-01T11:20:37+00:00",
+    "text": "АНАПА и близлежащие  \nКраснодарский край\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_94696_Знаменский",
+    "channel": "vrv_radar",
+    "date": "2026-10-01T11:23:20+00:00",
+    "text": "Знаменский район \nОрловская область \nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Знаменский",
+    "region": "Орловская область",
+    "lat": 52.9974809,
+    "lon": 36.066136
+  },
+  {
+    "id": "vrv_radar_94697_Шаблыкинский",
+    "channel": "vrv_radar",
+    "date": "2026-10-01T11:23:45+00:00",
+    "text": "Шаблыкинский район \nОрловская область \nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Шаблыкинский",
+    "region": "Орловская область",
+    "lat": 52.8579891,
+    "lon": 35.1025788
+  },
+  {
+    "id": "kupolrussia_135184",
+    "channel": "kupolrussia",
+    "date": "2026-10-01T11:26:36+00:00",
+    "text": "Волгоградская область \nТревога по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242895",
+    "channel": "LPRalarm",
+    "date": "2026-10-01T11:26:39+00:00",
+    "text": "Волгоградская область \nТревога по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_135185",
+    "channel": "kupolrussia",
+    "date": "2026-10-01T11:28:57+00:00",
+    "text": "‼️Если наш канал для вас важен, приносит пользу в тревожные минуты, то вы можете отблагодарить нас по ссылке ниже:\nВаша помощь позволяет нам постоянно развиваться и давать более точные предупреждения, расширять нашу команду.\n\n          👇👇👇\n\nhttps://pay.cloudtips.ru/p/991df385\n\n\nНаша команда работает 24/7 для безопасности жителей России!\n\nСпасибо❤️❤️❤️",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242896",
+    "channel": "LPRalarm",
+    "date": "2026-10-01T11:29:16+00:00",
+    "text": "Осипенко, Бердянск и близлежащие\nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_135186",
+    "channel": "kupolrussia",
+    "date": "2026-10-01T11:29:26+00:00",
+    "text": "Осипенко, Бердянск и близлежащие\nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
