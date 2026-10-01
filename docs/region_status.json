@@ -12,10 +12,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Донецк и близлежащие \nДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Донецк и близлежащие \nТревога по БПЛА, ещё фиксации \nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-01T10:27:07+00:00",
-    "expires_at": "2026-10-01T11:27:07+00:00",
+    "updated_at": "2026-10-01T10:35:59+00:00",
+    "expires_at": "2026-10-01T11:35:59+00:00",
     "count": null,
     "count_approx": false
   },
@@ -69,36 +69,6 @@
     "count": null,
     "count_approx": false
   },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "alert",
-    "text": "Трубчевск опасность по дартс\nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-01T09:35:54+00:00",
-    "expires_at": "2026-10-01T10:35:54+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ставропольск": {
-    "display_name": "Ставропольский край",
-    "type": "drone",
-    "text": "Ставропольский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-01T09:32:19+00:00",
-    "expires_at": "2026-10-01T10:32:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Республика Адыгея \nОпасность по реактивным БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-01T09:44:28+00:00",
-    "expires_at": "2026-10-01T10:44:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
@@ -106,6 +76,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-01T10:27:57+00:00",
     "expires_at": "2026-10-01T11:27:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "оренбургск": {
+    "display_name": "Оренбургская область",
+    "type": "drone",
+    "text": "Оренбургская область\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-01T10:44:17+00:00",
+    "expires_at": "2026-10-01T11:44:17+00:00",
     "count": null,
     "count_approx": false
   }

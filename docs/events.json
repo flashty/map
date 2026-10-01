@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_94429",
-    "channel": "vrv_radar",
-    "date": "2026-09-30T02:55:05+00:00",
-    "text": "Нижнекамск и близлежащие\nНабережные Челны и близлежащие\nЕлабуга и близлежащие\nРеспублика Татарстан\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Татарстан",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_94430",
-    "channel": "vrv_radar",
-    "date": "2026-09-30T02:55:54+00:00",
-    "text": "Пермский край\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Пермский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_87727",
-    "channel": "locatorru",
-    "date": "2026-09-30T02:56:16+00:00",
-    "text": "Воронежская область, Самарская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_87728",
-    "channel": "locatorru",
-    "date": "2026-09-30T02:57:35+00:00",
-    "text": "Тамбовская область, Липецкая область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_94431",
-    "channel": "vrv_radar",
-    "date": "2026-09-30T02:57:57+00:00",
-    "text": "Самарская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_242250",
     "channel": "LPRalarm",
     "date": "2026-09-30T02:58:07+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242875",
+    "channel": "LPRalarm",
+    "date": "2026-10-01T10:35:48+00:00",
+    "text": "Донецк и близлежащие \nТревога по БПЛА, ещё фиксации \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_135168",
+    "channel": "kupolrussia",
+    "date": "2026-10-01T10:35:59+00:00",
+    "text": "Донецк и близлежащие \nТревога по БПЛА, ещё фиксации \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_94690",
+    "channel": "vrv_radar",
+    "date": "2026-10-01T10:43:48+00:00",
+    "text": "Оренбургская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Оренбургская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_135169",
+    "channel": "kupolrussia",
+    "date": "2026-10-01T10:44:12+00:00",
+    "text": "Оренбургская область\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Оренбургская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242876",
+    "channel": "LPRalarm",
+    "date": "2026-10-01T10:44:17+00:00",
+    "text": "Оренбургская область\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Оренбургская область",
     "lat": null,
     "lon": null
   }
