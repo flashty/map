@@ -1,14 +1,4 @@
 {
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "drone",
-    "text": "Пензенская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-01T03:51:34+00:00",
-    "expires_at": "2026-10-01T04:51:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -36,6 +26,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-01T04:43:22+00:00",
     "expires_at": "2026-10-01T05:43:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "missile",
+    "text": "Курская область и близлежащие \nАвиационно ракетно бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-01T04:56:36+00:00",
+    "expires_at": "2026-10-01T05:56:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "missile",
+    "text": "Гуляйполе \nРакетная опасность\nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-01T04:59:28+00:00",
+    "expires_at": "2026-10-01T05:59:28+00:00",
     "count": null,
     "count_approx": false
   }
