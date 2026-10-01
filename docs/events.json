@@ -1,104 +1,5 @@
 [
   {
-    "id": "vrv_radar_94303_Саратов",
-    "channel": "vrv_radar",
-    "date": "2026-09-29T20:45:55+00:00",
-    "text": "Саратов\nСаратовская область\nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Саратов",
-    "region": "Саратовская область",
-    "lat": 51.530018,
-    "lon": 46.034683
-  },
-  {
-    "id": "vrv_radar_94304_Шолоховский",
-    "channel": "vrv_radar",
-    "date": "2026-09-29T20:46:57+00:00",
-    "text": "Шолоховский район \nРостовская область \nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Шолоховский",
-    "region": "Ростовская область",
-    "lat": 48.282608,
-    "lon": 41.046478
-  },
-  {
-    "id": "vrv_radar_94305_Чертковский",
-    "channel": "vrv_radar",
-    "date": "2026-09-29T20:47:55+00:00",
-    "text": "Чертковский район \nРостовская область \nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Чертковский",
-    "region": "Ростовская область",
-    "lat": 49.4049606,
-    "lon": 40.6115668
-  },
-  {
-    "id": "kupolrussia_134549",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T20:47:57+00:00",
-    "text": "От Туапсе до КПП Псоу \nТревога по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_242190",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T20:48:03+00:00",
-    "text": "От Туапсе до КПП Псоу \nТревога по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_87670_Донское",
-    "channel": "locatorru",
-    "date": "2026-09-29T20:48:22+00:00",
-    "text": "мкр.Донское, г.Мичуринск - БПЛА на центр.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Донское",
-    "region": null,
-    "lat": 52.615471,
-    "lon": 38.975815
-  },
-  {
-    "id": "vrv_radar_94306_Мичуринский",
-    "channel": "vrv_radar",
-    "date": "2026-09-29T20:50:06+00:00",
-    "text": "Мичуринский район \nТамбовская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Мичуринский",
-    "region": "Тамбовская область",
-    "lat": 52.9459943,
-    "lon": 40.2702736
-  },
-  {
-    "id": "locatorru_87671",
-    "channel": "locatorru",
-    "date": "2026-09-29T20:50:39+00:00",
-    "text": "Куркино, Тульская область - фиксации БПЛА в сторону Чернава, Скопино, Рязанская область. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_87672",
-    "channel": "locatorru",
-    "date": "2026-09-29T20:51:00+00:00",
-    "text": "Большой Лычак, Фроловский район, Волгоградская область - группа БПЛА на восток в сторону Саратовской области.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_96373_Кумылженский",
     "channel": "radarrussiia",
     "date": "2026-09-29T20:51:05+00:00",
@@ -21998,5 +21899,104 @@
     "region": "Тульская область",
     "lat": 54.1930321,
     "lon": 37.61754
+  },
+  {
+    "id": "radarrussiia_96613_Тула",
+    "channel": "radarrussiia",
+    "date": "2026-10-01T02:16:08+00:00",
+    "text": "Тула\nТульская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Тула",
+    "region": "Тульская область",
+    "lat": 54.1930321,
+    "lon": 37.61754
+  },
+  {
+    "id": "vrv_radar_94614_Зубцовский",
+    "channel": "vrv_radar",
+    "date": "2026-10-01T02:16:35+00:00",
+    "text": "Зубцовский район\nТверская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Зубцовский",
+    "region": "Тверская область",
+    "lat": 56.1263568,
+    "lon": 34.816375
+  },
+  {
+    "id": "radarrussiia_96614_Зубцовский",
+    "channel": "radarrussiia",
+    "date": "2026-10-01T02:16:57+00:00",
+    "text": "Зубцовский район\nТверская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Зубцовский",
+    "region": "Тверская область",
+    "lat": 56.1263568,
+    "lon": 34.816375
+  },
+  {
+    "id": "vrv_radar_94615_Износковский",
+    "channel": "vrv_radar",
+    "date": "2026-10-01T02:21:36+00:00",
+    "text": "Износковский район \nКалужская область \nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Износковский",
+    "region": "Калужская область",
+    "lat": 55.0361794,
+    "lon": 35.3550716
+  },
+  {
+    "id": "radarrussiia_96615_Износковский",
+    "channel": "radarrussiia",
+    "date": "2026-10-01T02:23:00+00:00",
+    "text": "Износковский район \nКалужская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Износковский",
+    "region": "Калужская область",
+    "lat": 55.0361794,
+    "lon": 35.3550716
+  },
+  {
+    "id": "LPRalarm_242728",
+    "channel": "LPRalarm",
+    "date": "2026-10-01T02:23:34+00:00",
+    "text": "Евпатория и ближайшие, опасность по БПЛА сохраняется\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_135039",
+    "channel": "kupolrussia",
+    "date": "2026-10-01T02:23:39+00:00",
+    "text": "Евпатория и ближайшие, опасность по БПЛА сохраняется\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_94616",
+    "channel": "vrv_radar",
+    "date": "2026-10-01T02:27:20+00:00",
+    "text": "ГО Ступино      \nМосковская область \nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_96616",
+    "channel": "radarrussiia",
+    "date": "2026-10-01T02:27:47+00:00",
+    "text": "ГО Ступино      \nМосковская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
   }
 ]
