@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-01T15:36:24+00:00",
+        "last_updated": "2026-10-01T16:13:11+00:00",
+        "path_labels": [
+          "Котовск (Тамбовская область)",
+          "Жердевский (Тамбовская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.4994249,
+            52.5870419
+          ],
+          [
+            41.5913479,
+            51.8619928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-01T15:36:24+00:00",
+        "last_updated": "2026-10-01T16:13:11+00:00",
+        "path_labels": [
+          "Тамбов (Тамбовская область)",
+          "Знаменский (Тамбовская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.4523988,
+            52.7216164
+          ],
+          [
+            41.2861904,
+            52.379734
+          ]
+        ]
+      }
+    }
+  ]
 }
