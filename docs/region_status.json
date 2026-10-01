@@ -12,10 +12,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Горловка и близлежащие \nОпасность по БПЛА и возможным ФПВ \nДНР",
+    "text": "Донецк\nМакеевка \nЯсиноватая \nопасность по БПЛА \nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-01T12:00:42+00:00",
-    "expires_at": "2026-10-01T13:00:42+00:00",
+    "updated_at": "2026-10-01T12:06:19+00:00",
+    "expires_at": "2026-10-01T13:06:19+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,10 +62,10 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Тульская область\nКалужская область\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-10-01T11:53:22+00:00",
-    "expires_at": "2026-10-01T12:53:22+00:00",
+    "text": "Калужская область \nМосковская область \nОпасность по БПЛА \nПовторно",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-01T12:12:55+00:00",
+    "expires_at": "2026-10-01T13:12:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -92,10 +92,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Сочи и близлежащие\nКраснодарский край \nОпасность по БПЛА повторно",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-01T11:55:47+00:00",
-    "expires_at": "2026-10-01T12:55:47+00:00",
+    "text": "Сочи и близлежащие\nКраснодарский край \nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-01T12:02:29+00:00",
+    "expires_at": "2026-10-01T13:02:29+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,16 +106,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-01T11:56:42+00:00",
     "expires_at": "2026-10-01T12:56:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "alert",
-    "text": "Херсонская область РФ \nЗапорожская область РФ \nЛДНР\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-01T11:09:31+00:00",
-    "expires_at": "2026-10-01T12:09:31+00:00",
     "count": null,
     "count_approx": false
   },
@@ -156,6 +146,16 @@
     "channel": "locatorru",
     "updated_at": "2026-10-01T11:51:18+00:00",
     "expires_at": "2026-10-01T12:51:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Калужская область \nМосковская область \nОпасность по БПЛА \nПовторно",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-01T12:12:55+00:00",
+    "expires_at": "2026-10-01T13:12:55+00:00",
     "count": null,
     "count_approx": false
   }
