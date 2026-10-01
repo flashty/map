@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_94597",
-    "channel": "vrv_radar",
-    "date": "2026-10-01T00:24:16+00:00",
-    "text": "Астраханская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Астраханская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_94598_Ульяновский",
-    "channel": "vrv_radar",
-    "date": "2026-10-01T00:25:15+00:00",
-    "text": "Ульяновский район \nЖиздринский район \nКалужская область \nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Ульяновский",
-    "region": "Калужская область",
-    "lat": 53.7054494,
-    "lon": 35.6146918
-  },
-  {
-    "id": "vrv_radar_94598_Жиздринский",
-    "channel": "vrv_radar",
-    "date": "2026-10-01T00:25:15+00:00",
-    "text": "Ульяновский район \nЖиздринский район \nКалужская область \nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Жиздринский",
-    "region": "Калужская область",
-    "lat": 53.6378048,
-    "lon": 34.7343468
-  },
-  {
-    "id": "vrv_radar_94599_Барятинский",
-    "channel": "vrv_radar",
-    "date": "2026-10-01T00:26:05+00:00",
-    "text": "Барятинский район \nКалужская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Барятинский",
-    "region": "Калужская область",
-    "lat": 54.3256512,
-    "lon": 34.5647721
-  },
-  {
-    "id": "vrv_radar_94600",
-    "channel": "vrv_radar",
-    "date": "2026-10-01T00:26:38+00:00",
-    "text": "Республика Калмыкия \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Калмыкия",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_96602_Ульяновский",
     "channel": "radarrussiia",
     "date": "2026-10-01T00:26:56+00:00",
@@ -21998,5 +21943,60 @@
     "region": null,
     "lat": 48.7081906,
     "lon": 44.5153353
+  },
+  {
+    "id": "vrv_radar_94909",
+    "channel": "vrv_radar",
+    "date": "2026-10-01T23:31:12+00:00",
+    "text": "Волгоград \nВолгоградская область \nФиксация реактивной цели",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_96830",
+    "channel": "radarrussiia",
+    "date": "2026-10-01T23:32:49+00:00",
+    "text": "Волгоград \nВолгоградская область \nФиксация реактивной цели\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_94910",
+    "channel": "vrv_radar",
+    "date": "2026-10-01T23:33:42+00:00",
+    "text": "Волгоград \nВолгоградская область \nФиксации БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_94911",
+    "channel": "vrv_radar",
+    "date": "2026-10-01T23:34:22+00:00",
+    "text": "Волгоград \nВолгоградская область \nПродолжается работа ПВО\nМеры безопасности",
+    "type": "alert",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87977_Кашары",
+    "channel": "locatorru",
+    "date": "2026-10-01T23:34:49+00:00",
+    "text": "Кашары, Ростовская область - ещё ракеты или реактивные БПЛА на юго-восток. \n\n📡Локатор России - @locatorru",
+    "type": "missile",
+    "location_name": "Кашары",
+    "region": "Ростовская область",
+    "lat": 49.036999,
+    "lon": 41.008045
   }
 ]
