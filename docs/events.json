@@ -1,71 +1,5 @@
 [
   {
-    "id": "radarrussiia_96391",
-    "channel": "radarrussiia",
-    "date": "2026-09-29T21:17:46+00:00",
-    "text": "ГО Коломна \nМосковская область \nСбитие БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_242197",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T21:19:29+00:00",
-    "text": "село Солёное Озеро и близлежащие\nфиксация БпЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_134556",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T21:19:31+00:00",
-    "text": "село Солёное Озеро и близлежащие\nфиксация БпЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_94322_Новомосковский",
-    "channel": "vrv_radar",
-    "date": "2026-09-29T21:19:47+00:00",
-    "text": "Новомосковский район\nТульская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Новомосковский",
-    "region": "Тульская область",
-    "lat": 54.0348905,
-    "lon": 38.2638224
-  },
-  {
-    "id": "LPRalarm_242198",
-    "channel": "LPRalarm",
-    "date": "2026-09-29T21:20:30+00:00",
-    "text": "Краснодарский край\nПриазовье \nотбой опасности по БПЛА \nПереходим в режим повышенного внимания",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_134557",
-    "channel": "kupolrussia",
-    "date": "2026-09-29T21:20:31+00:00",
-    "text": "Краснодарский край\nПриазовье \nотбой опасности по БПЛА \nПереходим в режим повышенного внимания",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_96392_Новомосковский",
     "channel": "radarrussiia",
     "date": "2026-09-29T21:20:33+00:00",
@@ -21996,6 +21930,72 @@
     "type": "unknown",
     "location_name": null,
     "region": "Пензенская области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87840",
+    "channel": "locatorru",
+    "date": "2026-10-01T05:18:14+00:00",
+    "text": "Тульская область, Московская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_135053",
+    "channel": "kupolrussia",
+    "date": "2026-10-01T05:18:39+00:00",
+    "text": "Тульская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242745",
+    "channel": "LPRalarm",
+    "date": "2026-10-01T05:18:43+00:00",
+    "text": "Тульская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_94629",
+    "channel": "vrv_radar",
+    "date": "2026-10-01T05:18:49+00:00",
+    "text": "Тульская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242746_Валуйский",
+    "channel": "LPRalarm",
+    "date": "2026-10-01T05:22:30+00:00",
+    "text": "Уразово-Двулучное и близлежащие \nБПЛА разведка \nВалуйский район",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": null,
+    "lat": 53.1481885,
+    "lon": 36.3185713
+  },
+  {
+    "id": "vrv_radar_94630",
+    "channel": "vrv_radar",
+    "date": "2026-10-01T05:29:01+00:00",
+    "text": "❤️ ВРВ требуется ваша поддержка!\n\nМы не размещаем рекламу в канале и не зарабатываем на тревогах.\nПроект держится только на поддержке подписчиков.\n🙌 Если канал вам полезен — поддержите любой суммой.\nДаже небольшая поддержка канала помогает нам продолжать.\n\n👉 https://clck.ru/3VgBJu",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
