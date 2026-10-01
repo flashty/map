@@ -2,30 +2,30 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "missile",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность \nПовторно",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-01T09:07:47+00:00",
-    "expires_at": "2026-10-01T10:07:47+00:00",
+    "updated_at": "2026-10-01T10:00:09+00:00",
+    "expires_at": "2026-10-01T11:00:09+00:00",
     "count": null,
     "count_approx": false
   },
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "missile",
-    "text": "Комар, Богатырь ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "drone",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ \nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-01T09:07:11+00:00",
-    "expires_at": "2026-10-01T10:07:11+00:00",
+    "updated_at": "2026-10-01T09:56:58+00:00",
+    "expires_at": "2026-10-01T10:56:58+00:00",
     "count": null,
     "count_approx": false
   },
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
-    "text": "Петровский район \nСаратовская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-01T09:28:18+00:00",
-    "expires_at": "2026-10-01T10:28:18+00:00",
+    "text": "Питерский район \nСаратовская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-01T09:56:28+00:00",
+    "expires_at": "2026-10-01T10:56:28+00:00",
     "count": null,
     "count_approx": false
   },
@@ -42,30 +42,30 @@
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Камешкирский район \nПензенская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-01T09:34:07+00:00",
-    "expires_at": "2026-10-01T10:34:07+00:00",
+    "text": "Неверкинский район \nПензенская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-01T09:59:34+00:00",
+    "expires_at": "2026-10-01T10:59:34+00:00",
     "count": null,
     "count_approx": false
   },
   "ульяновск": {
     "display_name": "Ульяновская область",
     "type": "drone",
-    "text": "Николаевский район \nУльяновская область \nЕще фиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Старокулатинский район \nУльяновская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-01T09:44:10+00:00",
-    "expires_at": "2026-10-01T10:44:10+00:00",
+    "updated_at": "2026-10-01T10:00:54+00:00",
+    "expires_at": "2026-10-01T11:00:54+00:00",
     "count": null,
     "count_approx": false
   },
   "самарск": {
     "display_name": "Самарская область",
     "type": "drone",
-    "text": "Сызрань \nСамарская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-01T09:22:04+00:00",
-    "expires_at": "2026-10-01T10:22:04+00:00",
+    "text": "Хворостянский район\nСамарская область \nФиксация БПЛА примерно на г.Чапаевск",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-01T09:54:00+00:00",
+    "expires_at": "2026-10-01T10:54:00+00:00",
     "count": null,
     "count_approx": false
   },
@@ -79,16 +79,6 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калужская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-01T08:48:16+00:00",
-    "expires_at": "2026-10-01T09:48:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
@@ -99,16 +89,6 @@
     "count": null,
     "count_approx": false
   },
-  "волгоградск": {
-    "display_name": "Волгоградская область",
-    "type": "drone",
-    "text": "Старополтавский район \nВолгоградская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-01T09:07:33+00:00",
-    "expires_at": "2026-10-01T10:07:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -116,16 +96,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-01T09:13:45+00:00",
     "expires_at": "2026-10-01T10:13:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "Московская область \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-01T09:19:59+00:00",
-    "expires_at": "2026-10-01T10:19:59+00:00",
     "count": null,
     "count_approx": false
   },
