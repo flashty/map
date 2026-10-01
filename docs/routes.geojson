@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-01T11:10:36+00:00",
+        "last_updated": "2026-10-01T11:50:30+00:00",
+        "path_labels": [
+          "Безенчукский (Самарская область)",
+          "Малая Глушица (Самарская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.2578128,
+            52.9893625
+          ],
+          [
+            50.2059679,
+            52.4377646
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-01T11:11:42+00:00",
+        "last_updated": "2026-10-01T11:50:30+00:00",
+        "path_labels": [
+          "Большечерниговский (Самарская область)",
+          "Большеглушицкий (Самарская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.7605632,
+            52.0570568
+          ],
+          [
+            50.5480933,
+            52.4445183
+          ]
+        ]
+      }
+    }
+  ]
 }
