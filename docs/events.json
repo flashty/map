@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_242361_Камышовая",
-    "channel": "LPRalarm",
-    "date": "2026-09-30T09:50:07+00:00",
-    "text": "Севастополь\nМыс Херсонес, Фиолент \nБалаклава \nБухты Казачья, Камышовая, Стрелецкая, Севастопольская \nС моря с запада опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Камышовая",
-    "region": null,
-    "lat": 53.787285,
-    "lon": 90.693909
-  },
-  {
-    "id": "LPRalarm_242361_Стрелецкая",
-    "channel": "LPRalarm",
-    "date": "2026-09-30T09:50:07+00:00",
-    "text": "Севастополь\nМыс Херсонес, Фиолент \nБалаклава \nБухты Казачья, Камышовая, Стрелецкая, Севастопольская \nС моря с запада опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Стрелецкая",
-    "region": null,
-    "lat": 60.8629488,
-    "lon": 42.4398878
-  },
-  {
-    "id": "LPRalarm_242362",
-    "channel": "LPRalarm",
-    "date": "2026-09-30T09:59:22+00:00",
-    "text": "Осипенко, Бердянск опасность по БПЛА с севера\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_94490",
-    "channel": "vrv_radar",
-    "date": "2026-09-30T10:00:05+00:00",
-    "text": "Курганская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Курганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_96514",
     "channel": "radarrussiia",
     "date": "2026-09-30T10:00:43+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87875",
+    "channel": "locatorru",
+    "date": "2026-10-01T16:46:18+00:00",
+    "text": "Наши близкие!\nСбор стоит на месте.\n\nКаждые 100₽, 200₽, 300₽ приближают его завершение!\n\n🫡Принять участие можно через сервис от Т-Банк(имеется оплата по СБП): https://pay.cloudtips.ru/p/0a12af8d",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87876",
+    "channel": "locatorru",
+    "date": "2026-10-01T16:50:33+00:00",
+    "text": "Саратовская область, Пензенская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_135249",
+    "channel": "kupolrussia",
+    "date": "2026-10-01T16:51:02+00:00",
+    "text": "Пензенская область \nПовторно\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_242970",
+    "channel": "LPRalarm",
+    "date": "2026-10-01T16:51:05+00:00",
+    "text": "Пензенская область \nПовторно\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пензенская область",
     "lat": null,
     "lon": null
   }
