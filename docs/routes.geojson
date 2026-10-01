@@ -5,6 +5,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-10-01T17:47:51+00:00",
+        "last_updated": "2026-10-01T18:23:45+00:00",
+        "path_labels": [
+          "Стародубский",
+          "Погарский (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.7150092,
+            52.5153759
+          ],
+          [
+            33.2053408,
+            52.5207056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-10-01T17:54:22+00:00",
         "last_updated": "2026-10-01T17:54:22+00:00",
         "path_labels": [
