@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Макеевка и близлежащие \nОпасность по БПЛА Баба Яга \nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-02T19:04:32+00:00",
-    "expires_at": "2026-10-02T20:04:32+00:00",
+    "text": "Макеевка и близлежащие \nОпасность по БПЛА \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-02T20:08:37+00:00",
+    "expires_at": "2026-10-02T21:08:37+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "саратовск": {
-    "display_name": "Саратовская область",
-    "type": "drone",
-    "text": "Самойловский район \nСаратовская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-02T19:06:00+00:00",
-    "expires_at": "2026-10-02T20:06:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
@@ -62,30 +52,30 @@
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Мценский район \nБолховский район \nЗнаменский район \nХотынецкий район \nУрицкий район \nОрловская область \nФиксации групп БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Дмитровский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-02T19:53:22+00:00",
-    "expires_at": "2026-10-02T20:53:22+00:00",
+    "updated_at": "2026-10-02T20:10:03+00:00",
+    "expires_at": "2026-10-02T21:10:03+00:00",
     "count": null,
     "count_approx": false
   },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Дзержинский район, Ферзиковский район, г.Калуга, Малоярославецкий район, Жуковский район, Калужская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-02T19:47:04+00:00",
-    "expires_at": "2026-10-02T20:47:04+00:00",
-    "count": null,
+    "text": "Ульяновский район \nКалужская область\nФиксация 2 БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-02T20:04:29+00:00",
+    "expires_at": "2026-10-02T21:04:29+00:00",
+    "count": 2,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Арсеньевский район\nЧернский район \nТульская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Плавский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-02T19:46:17+00:00",
-    "expires_at": "2026-10-02T20:46:17+00:00",
+    "updated_at": "2026-10-02T20:07:49+00:00",
+    "expires_at": "2026-10-02T21:07:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,6 +106,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-02T19:48:27+00:00",
     "expires_at": "2026-10-02T20:48:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградская область",
+    "type": "drone",
+    "text": "Михайловский район \nВолгоградская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-02T20:03:54+00:00",
+    "expires_at": "2026-10-02T21:03:54+00:00",
     "count": null,
     "count_approx": false
   }
