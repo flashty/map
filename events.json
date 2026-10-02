@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_243178",
-    "channel": "LPRalarm",
-    "date": "2026-10-01T21:09:21+00:00",
-    "text": "Севастополь и близлежащие \nОтбой беспилотной опасности по ранее объявленным \n\nРежим повышенного внимания сохраняем",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_94808",
-    "channel": "vrv_radar",
-    "date": "2026-10-01T21:09:49+00:00",
-    "text": "Стык Белгородской и Воронежской областей\nФиксации групп БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежской областей",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_243179",
-    "channel": "LPRalarm",
-    "date": "2026-10-01T21:09:56+00:00",
-    "text": "Между Крутыми Горками и Урывский в сторону Тишкина - НПЗ Тарасовский\nФиксации БПЛА на электротяге,\nРостовская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_135407",
-    "channel": "kupolrussia",
-    "date": "2026-10-01T21:10:14+00:00",
-    "text": "Между Крутыми Горками и Урывский в сторону Тишкина - НПЗ Тарасовский\nФиксации БПЛА на электротяге,\nРостовская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_94809_Троснянский",
-    "channel": "vrv_radar",
-    "date": "2026-10-01T21:10:19+00:00",
-    "text": "Троснянский район\nМалоархангельский район\nОрловская область \nФиксации групп БПЛА",
-    "type": "drone",
-    "location_name": "Троснянский",
-    "region": "Орловская область",
-    "lat": 52.3967026,
-    "lon": 35.8058385
-  },
-  {
-    "id": "vrv_radar_94809_Малоархангельский",
-    "channel": "vrv_radar",
-    "date": "2026-10-01T21:10:19+00:00",
-    "text": "Троснянский район\nМалоархангельский район\nОрловская область \nФиксации групп БПЛА",
-    "type": "drone",
-    "location_name": "Малоархангельский",
-    "region": "Орловская область",
-    "lat": 52.3931726,
-    "lon": 36.5399011
-  },
-  {
     "id": "radarrussiia_96761",
     "channel": "radarrussiia",
     "date": "2026-10-01T21:10:38+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_97041",
+    "channel": "radarrussiia",
+    "date": "2026-10-02T19:15:58+00:00",
+    "text": "Хотынецкий район \nШаблыкинский район \nДмитровский район \nОрловская область \nПродолжаются фиксации БПЛА со стороны Брянской области\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_97042",
+    "channel": "radarrussiia",
+    "date": "2026-10-02T19:18:39+00:00",
+    "text": "Архипка, Туапсе  \nИ близлежащие \nТревога по БПЛА\nКраснодарский край\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_243602",
+    "channel": "LPRalarm",
+    "date": "2026-10-02T19:24:52+00:00",
+    "text": "Брянск и близлежащие\nТревога по БПЛА сохраняется\nВ том числе реактивным\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_135786",
+    "channel": "kupolrussia",
+    "date": "2026-10-02T19:25:09+00:00",
+    "text": "Брянск и близлежащие\nТревога по БПЛА сохраняется\nВ том числе реактивным\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_88071",
+    "channel": "locatorru",
+    "date": "2026-10-02T19:26:06+00:00",
+    "text": "Мценск и близлежащие, Орловская область - фиксации БПЛА в сторону Чернь, Плавск, Тёплое, Щёкино, Тульской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_243603",
+    "channel": "LPRalarm",
+    "date": "2026-10-02T19:29:03+00:00",
+    "text": "Суземка опасность по БПЛА Баба Яга\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
