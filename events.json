@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_135095",
-    "channel": "kupolrussia",
-    "date": "2026-10-01T07:36:16+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_242801",
-    "channel": "LPRalarm",
-    "date": "2026-10-01T07:36:40+00:00",
-    "text": "Все приграничные регионы\nАвиационная ракетная бомбовая опасность \nВозможно подготовка к пускам Штормов",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_135096",
-    "channel": "kupolrussia",
-    "date": "2026-10-01T07:37:05+00:00",
-    "text": "Все приграничные регионы\nАвиационная ракетная бомбовая опасность \nВозможно подготовка к пускам Штормов",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_94650_Бутурлиновский",
-    "channel": "vrv_radar",
-    "date": "2026-10-01T07:38:35+00:00",
-    "text": "Бутурлиновский район\nВоронежская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Бутурлиновский",
-    "region": "Воронежская область",
-    "lat": 50.7920286,
-    "lon": 40.5642561
-  },
-  {
-    "id": "radarrussiia_96629_Бутурлиновский",
-    "channel": "radarrussiia",
-    "date": "2026-10-01T07:39:02+00:00",
-    "text": "Бутурлиновский район\nВоронежская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Бутурлиновский",
-    "region": "Воронежская область",
-    "lat": 50.7920286,
-    "lon": 40.5642561
-  },
-  {
     "id": "LPRalarm_242802",
     "channel": "LPRalarm",
     "date": "2026-10-01T07:40:24+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_87997",
+    "channel": "locatorru",
+    "date": "2026-10-02T02:31:53+00:00",
+    "text": "Павловка, Ульяновская область - пролёты БПЛА в сторону Старая Кулатка, Радищево и далее в сторону Самарской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_135489",
+    "channel": "kupolrussia",
+    "date": "2026-10-02T02:32:04+00:00",
+    "text": "Республика Удмуртия\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Удмуртия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_243282",
+    "channel": "LPRalarm",
+    "date": "2026-10-02T02:32:10+00:00",
+    "text": "Республика Удмуртия\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Удмуртия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_135490",
+    "channel": "kupolrussia",
+    "date": "2026-10-02T02:32:31+00:00",
+    "text": "Пермский край\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пермский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_243283",
+    "channel": "LPRalarm",
+    "date": "2026-10-02T02:32:39+00:00",
+    "text": "Пермский край\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пермский край",
     "lat": null,
     "lon": null
   }
