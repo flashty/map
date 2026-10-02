@@ -19,26 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Воробьевский район \nВоронежская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-02T03:18:29+00:00",
-    "expires_at": "2026-10-02T04:18:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "удмурт": {
-    "display_name": "Республика Удмуртия",
-    "type": "drone",
-    "text": "Республика Удмуртия\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-02T02:32:10+00:00",
-    "expires_at": "2026-10-02T03:32:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
@@ -82,10 +62,10 @@
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Лунинский район \nПензенская область \nФиксация БПЛА",
+    "text": "Вадинский район \nПензенская область \nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-02T03:16:02+00:00",
-    "expires_at": "2026-10-02T04:16:02+00:00",
+    "updated_at": "2026-10-02T03:34:29+00:00",
+    "expires_at": "2026-10-02T04:34:29+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +76,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-02T03:26:45+00:00",
     "expires_at": "2026-10-02T04:26:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "башкортост": {
+    "display_name": "Республика Башкортостан",
+    "type": "drone",
+    "text": "Стерлитамак, Уфа, Салават, Республика Башкортостан - опасность атаки по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-02T03:41:52+00:00",
+    "expires_at": "2026-10-02T04:41:52+00:00",
     "count": null,
     "count_approx": false
   }
