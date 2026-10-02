@@ -2,10 +2,10 @@
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
-    "text": "Новоалексеевка и близлежащие опасность по БПЛА\nХерсонская область РФ  внимание трассы",
+    "text": "Новоалексеевка, Геническ, Арабатская Стрелка, Чонгар\n\nХерсонская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-02T08:37:00+00:00",
-    "expires_at": "2026-10-02T09:37:00+00:00",
+    "updated_at": "2026-10-02T09:15:31+00:00",
+    "expires_at": "2026-10-02T10:15:31+00:00",
     "count": null,
     "count_approx": false
   },
@@ -16,36 +16,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-02T08:38:35+00:00",
     "expires_at": "2026-10-02T09:38:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка и близлежащие \nОпасность по БПЛА и возможным ФПВ \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-02T08:10:17+00:00",
-    "expires_at": "2026-10-02T09:10:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Республика Адыгея \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-02T08:15:35+00:00",
-    "expires_at": "2026-10-02T09:15:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "самарск": {
-    "display_name": "Самарская область",
-    "type": "drone",
-    "text": "Самарская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\nАА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-02T08:28:26+00:00",
-    "expires_at": "2026-10-02T09:28:26+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +56,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-10-02T09:01:37+00:00",
     "expires_at": "2026-10-02T10:01:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Алмазная\nБрянка и близлежащие \nЛНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-02T09:14:03+00:00",
+    "expires_at": "2026-10-02T10:14:03+00:00",
     "count": null,
     "count_approx": false
   }
