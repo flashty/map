@@ -1,61 +1,31 @@
 {
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "drone",
-    "text": "Пензенский район \nПензенская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-02T02:54:26+00:00",
-    "expires_at": "2026-10-02T03:54:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "волгоградск": {
     "display_name": "Волгоградская область",
     "type": "drone",
-    "text": "Волгоград \nВолгоградская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-02T02:05:27+00:00",
-    "expires_at": "2026-10-02T03:05:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "Павловский район \nУльяновская область \nФиксация БПЛА",
+    "text": "Суровикинский район \nВолгоградская область \nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-02T02:55:01+00:00",
-    "expires_at": "2026-10-02T03:55:01+00:00",
+    "updated_at": "2026-10-02T03:04:46+00:00",
+    "expires_at": "2026-10-02T04:04:46+00:00",
     "count": null,
     "count_approx": false
   },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Бердянск\nБердянский район\nЗапорожская область РФ\nТревога по БПЛА , повторно",
+    "text": "Бердянск и близлежащие\nТревога по БПЛА остаётся в действии\nЗапорожская область РФ",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-02T02:13:24+00:00",
-    "expires_at": "2026-10-02T03:13:24+00:00",
+    "updated_at": "2026-10-02T03:05:36+00:00",
+    "expires_at": "2026-10-02T04:05:36+00:00",
     "count": null,
     "count_approx": false
   },
   "оренбургск": {
     "display_name": "Оренбургская область",
     "type": "drone",
-    "text": "Переволоцкий район \nОренбургская область\nФиксация БПЛА",
+    "text": "Оренбург и близлежащие \nОренбургская область \nОпасность по БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-02T02:57:23+00:00",
-    "expires_at": "2026-10-02T03:57:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ракетн": {
-    "display_name": "Республика\nРакетная",
-    "type": "missile",
-    "text": "Ижевск, Воткинск и близлежащие\nУдмуртская Республика\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-02T02:06:15+00:00",
-    "expires_at": "2026-10-02T03:06:15+00:00",
+    "updated_at": "2026-10-02T03:13:31+00:00",
+    "expires_at": "2026-10-02T04:13:31+00:00",
     "count": null,
     "count_approx": false
   },
@@ -89,36 +59,6 @@
     "count": null,
     "count_approx": false
   },
-  "кировск": {
-    "display_name": "Кировская область",
-    "type": "drone",
-    "text": "Кировская область\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-02T02:09:27+00:00",
-    "expires_at": "2026-10-02T03:09:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "свердловск": {
-    "display_name": "Свердловская область",
-    "type": "missile",
-    "text": "Свердловская область\nЧелябинская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-02T02:05:00+00:00",
-    "expires_at": "2026-10-02T03:05:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "челябинск": {
-    "display_name": "Челябинская область",
-    "type": "missile",
-    "text": "Свердловская область\nЧелябинская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-02T02:05:00+00:00",
-    "expires_at": "2026-10-02T03:05:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "удмурт": {
     "display_name": "Республика Удмуртия",
     "type": "drone",
@@ -142,20 +82,20 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Новокрымское\nОстровское\nПавловка\nДжанкойский район\nТревога по БПЛА\nРеспублика Крым",
+    "text": "Красноперекопск и близлежащие\nТревога по БПЛА сохраняется\nМеры безопасности\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-02T02:55:46+00:00",
-    "expires_at": "2026-10-02T03:55:46+00:00",
+    "updated_at": "2026-10-02T03:14:21+00:00",
+    "expires_at": "2026-10-02T04:14:21+00:00",
     "count": null,
     "count_approx": false
   },
   "самарск": {
-    "display_name": "Самарская область",
+    "display_name": "Самарской области",
     "type": "drone",
-    "text": "Волжский район \nСамарская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-02T02:56:06+00:00",
-    "expires_at": "2026-10-02T03:56:06+00:00",
+    "text": "Кузоватово, Ульяновская область - фиксации БПЛА в сторону Волынщина, Тереньга и далее в сторону Самарской области.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-02T03:05:52+00:00",
+    "expires_at": "2026-10-02T04:05:52+00:00",
     "count": null,
     "count_approx": false
   },
@@ -176,6 +116,26 @@
     "channel": "vrv_radar",
     "updated_at": "2026-10-02T02:53:43+00:00",
     "expires_at": "2026-10-02T03:53:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "марий": {
+    "display_name": "Республика Марий",
+    "type": "drone",
+    "text": "Республика Марий Эл\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-02T03:01:18+00:00",
+    "expires_at": "2026-10-02T04:01:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пензенск": {
+    "display_name": "Пензенская область",
+    "type": "drone",
+    "text": "Лунинский район \nПензенская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-02T03:16:02+00:00",
+    "expires_at": "2026-10-02T04:16:02+00:00",
     "count": null,
     "count_approx": false
   }
