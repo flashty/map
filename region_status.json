@@ -1,42 +1,32 @@
 {
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Малоархангельский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-02T21:03:57+00:00",
-    "expires_at": "2026-10-02T22:03:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
-    "display_name": "Калужская область",
+    "display_name": "Калужскую область",
     "type": "drone",
-    "text": "Думиничиский район\nКалужская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-02T22:00:48+00:00",
-    "expires_at": "2026-10-02T23:00:48+00:00",
+    "text": "Брянская область, тревога по БПЛА над всей областью, далее на Калужскую область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-02T22:06:46+00:00",
+    "expires_at": "2026-10-02T23:06:46+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Воловский район\nТульская область\nФиксация от 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Заокский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-02T21:44:40+00:00",
-    "expires_at": "2026-10-02T22:44:40+00:00",
-    "count": 3,
+    "updated_at": "2026-10-02T22:10:04+00:00",
+    "expires_at": "2026-10-02T23:10:04+00:00",
+    "count": null,
     "count_approx": false
   },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "Московская область\nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "ГО Серебряные Пруды\nМосковская область\nФиксация 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-02T21:40:29+00:00",
-    "expires_at": "2026-10-02T22:40:29+00:00",
-    "count": null,
+    "updated_at": "2026-10-02T22:05:09+00:00",
+    "expires_at": "2026-10-02T23:05:09+00:00",
+    "count": 2,
     "count_approx": false
   },
   "рязанск": {
@@ -44,28 +34,8 @@
     "type": "drone",
     "text": "Михайловский район\nРязанская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-02T21:40:12+00:00",
-    "expires_at": "2026-10-02T22:40:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "астраханск": {
-    "display_name": "Астраханская область",
-    "type": "drone",
-    "text": "Астраханская область\nРеспублика Калмыкия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-02T21:14:53+00:00",
-    "expires_at": "2026-10-02T22:14:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калмык": {
-    "display_name": "Республика Калмыкия",
-    "type": "drone",
-    "text": "Астраханская область\nРеспублика Калмыкия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-02T21:14:53+00:00",
-    "expires_at": "2026-10-02T22:14:53+00:00",
+    "updated_at": "2026-10-02T22:05:28+00:00",
+    "expires_at": "2026-10-02T23:05:28+00:00",
     "count": null,
     "count_approx": false
   },
@@ -82,10 +52,20 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Брянск\nБежица\nСельцо и близлежащие\nТревога по БПЛА сохраняется\nБрянская область",
+    "text": "Брянская область, тревога по БПЛА над всей областью, далее на Калужскую область",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-02T21:52:54+00:00",
-    "expires_at": "2026-10-02T22:52:54+00:00",
+    "updated_at": "2026-10-02T22:06:46+00:00",
+    "expires_at": "2026-10-02T23:06:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Керченский полуостров, Керчь и близлежащие, тревога по БПЛА\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-02T22:14:34+00:00",
+    "expires_at": "2026-10-02T23:14:34+00:00",
     "count": null,
     "count_approx": false
   }
