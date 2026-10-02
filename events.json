@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_94722_Тула",
-    "channel": "vrv_radar",
-    "date": "2026-10-01T13:58:19+00:00",
-    "text": "Тула\nТульская область\nФиксация 2 БПЛА",
-    "type": "drone",
-    "location_name": "Тула",
-    "region": "Тульская область",
-    "lat": 54.1930321,
-    "lon": 37.61754
-  },
-  {
-    "id": "vrv_radar_94723_Щекинский",
-    "channel": "vrv_radar",
-    "date": "2026-10-01T13:58:27+00:00",
-    "text": "Щекинский район \nТульская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Щекинский",
-    "region": "Тульская область",
-    "lat": 53.8906918,
-    "lon": 37.3865251
-  },
-  {
-    "id": "kupolrussia_135221",
-    "channel": "kupolrussia",
-    "date": "2026-10-01T13:58:32+00:00",
-    "text": "Липецкая область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_242934",
-    "channel": "LPRalarm",
-    "date": "2026-10-01T13:58:35+00:00",
-    "text": "Липецкая область\nС 55 ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_96706_Щекинский",
     "channel": "radarrussiia",
     "date": "2026-10-01T13:58:38+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_243394",
+    "channel": "LPRalarm",
+    "date": "2026-10-02T09:33:27+00:00",
+    "text": "трасса Урзуф-Мангуш \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_135594",
+    "channel": "kupolrussia",
+    "date": "2026-10-02T09:33:44+00:00",
+    "text": "трасса Урзуф-Мангуш \nДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_243395",
+    "channel": "LPRalarm",
+    "date": "2026-10-02T09:41:13+00:00",
+    "text": "Север Республика Крым опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_135595",
+    "channel": "kupolrussia",
+    "date": "2026-10-02T09:41:26+00:00",
+    "text": "Север Республика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }

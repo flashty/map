@@ -9,26 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Новороссийск \nМеры безопасности при БПЛА \n\nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-02T08:38:35+00:00",
-    "expires_at": "2026-10-02T09:38:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "alert",
-    "text": "Курская область и близлежащие\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-02T08:33:37+00:00",
-    "expires_at": "2026-10-02T09:33:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -76,6 +56,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-02T09:28:49+00:00",
     "expires_at": "2026-10-02T10:28:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "трасса Урзуф-Мангуш \nДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-02T09:33:44+00:00",
+    "expires_at": "2026-10-02T10:33:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Север Республика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-02T09:41:26+00:00",
+    "expires_at": "2026-10-02T10:41:26+00:00",
     "count": null,
     "count_approx": false
   }
