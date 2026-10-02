@@ -1,27 +1,5 @@
 [
   {
-    "id": "kupolrussia_135212",
-    "channel": "kupolrussia",
-    "date": "2026-10-01T13:38:16+00:00",
-    "text": "От Новокиевка в направлении Каланчак БПЛА Хорнет \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_242926",
-    "channel": "LPRalarm",
-    "date": "2026-10-01T13:39:14+00:00",
-    "text": "Угроза атаки БПЛА \nВ границах муниципальных округов: Станично-Луганский, Новоайдарский, Старобельский, Сватовский.\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_135213",
     "channel": "kupolrussia",
     "date": "2026-10-01T13:39:21+00:00",
@@ -21996,6 +21974,28 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14834",
+    "channel": "radar_plus_bpla",
+    "date": "2026-10-02T08:57:09+00:00",
+    "text": "Отбой опасности БПЛА по всем ранее объявленным регионам.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_95123",
+    "channel": "vrv_radar",
+    "date": "2026-10-02T09:01:37+00:00",
+    "text": "Волгоград \nВолгоградская область \nЗвуки не несут опасности\nВ случае опасности оповестим",
+    "type": "alert",
+    "location_name": null,
+    "region": "Волгоградская область",
     "lat": null,
     "lon": null
   }
