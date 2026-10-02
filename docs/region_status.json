@@ -19,26 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "татарст": {
-    "display_name": "Республика Татарстан",
-    "type": "drone",
-    "text": "Республика Татарстан \nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-02T08:24:41+00:00",
-    "expires_at": "2026-10-02T09:24:41+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Климово и близлежащие Брянская область повторно тревога по БПЛА Дартс и ФПВ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-02T07:49:41+00:00",
-    "expires_at": "2026-10-02T08:49:41+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -86,6 +66,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-02T08:30:43+00:00",
     "expires_at": "2026-10-02T09:30:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "alert",
+    "text": "ЛДНР\nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-02T08:54:55+00:00",
+    "expires_at": "2026-10-02T09:54:55+00:00",
     "count": null,
     "count_approx": false
   }
