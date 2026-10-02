@@ -12,10 +12,10 @@
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
-    "text": "Энгельс\nСаратовская область\nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-02T00:00:10+00:00",
-    "expires_at": "2026-10-02T01:00:10+00:00",
+    "text": "Балтайский район\nТатищевский район\nАткарский район\nКалининский район\nКрасноармейский район\nСаратовская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-02T00:15:34+00:00",
+    "expires_at": "2026-10-02T01:15:34+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,20 +62,20 @@
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Неверкинский район \nПензенская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Кузнецкий район\nПензенская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-01T23:50:58+00:00",
-    "expires_at": "2026-10-02T00:50:58+00:00",
+    "updated_at": "2026-10-02T00:14:58+00:00",
+    "expires_at": "2026-10-02T01:14:58+00:00",
     "count": null,
     "count_approx": false
   },
   "волгоградск": {
     "display_name": "Волгоградская область",
     "type": "drone",
-    "text": "Волгоград \nВолгоградская область \nФиксация реактивного БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Волгоград \nВолгоградская область \nФиксация 3 реактивных БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-01T23:50:43+00:00",
-    "expires_at": "2026-10-02T00:50:43+00:00",
+    "updated_at": "2026-10-02T00:14:21+00:00",
+    "expires_at": "2026-10-02T01:14:21+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +106,46 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-01T23:59:49+00:00",
     "expires_at": "2026-10-02T00:59:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Чувашская Республика, Республика Татарстан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-02T00:08:43+00:00",
+    "expires_at": "2026-10-02T01:08:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "мордов": {
+    "display_name": "Республика Мордовия",
+    "type": "drone",
+    "text": "Кочкуровский район \nРеспублика Мордовия\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-02T00:14:39+00:00",
+    "expires_at": "2026-10-02T01:14:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тамбовск": {
+    "display_name": "Тамбовская область",
+    "type": "drone",
+    "text": "Рассказовский район\nТамбовская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-02T00:13:00+00:00",
+    "expires_at": "2026-10-02T01:13:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Россошанский район\nОльховатский район\nКантемировский район\nВоронежская область\nФиксации групп БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-02T00:15:15+00:00",
+    "expires_at": "2026-10-02T01:15:15+00:00",
     "count": null,
     "count_approx": false
   }
