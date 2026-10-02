@@ -39,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "missile",
-    "text": "ЛНР в направлении Луганска, ракетная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-02T21:25:09+00:00",
-    "expires_at": "2026-10-02T22:25:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -66,6 +56,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-02T22:14:34+00:00",
     "expires_at": "2026-10-02T23:14:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Донецк, ДНР и близлежащие, тревога по БПЛА сохраняется, высокая активность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-02T22:29:11+00:00",
+    "expires_at": "2026-10-02T23:29:11+00:00",
     "count": null,
     "count_approx": false
   }
