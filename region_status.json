@@ -2,11 +2,11 @@
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Неверкинский район \nПензенская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Неверкинский район \nПензенская область \nФиксация 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-02T05:32:01+00:00",
-    "expires_at": "2026-10-02T06:32:01+00:00",
-    "count": null,
+    "updated_at": "2026-10-02T05:48:17+00:00",
+    "expires_at": "2026-10-02T06:48:17+00:00",
+    "count": 2,
     "count_approx": false
   },
   "башкортост": {
@@ -19,26 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "саратовск": {
-    "display_name": "Саратовская область",
-    "type": "drone",
-    "text": "Саратов\nСаратовская область \nОпасность по БПЛА повторно",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-02T05:43:37+00:00",
-    "expires_at": "2026-10-02T06:43:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "Ульяновский район, Ульяновская область - пролёты БПЛА в сторону примерно Большое Нагаткино, далее на Буинск, Тетюши, Болгар, Республика Татарстан. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-02T05:32:41+00:00",
-    "expires_at": "2026-10-02T06:32:41+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -46,46 +26,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-02T05:35:11+00:00",
     "expires_at": "2026-10-02T06:35:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "челябинск": {
-    "display_name": "Челябинская область",
-    "type": "drone",
-    "text": "Челябинская область - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-10-02T04:52:13+00:00",
-    "expires_at": "2026-10-02T05:52:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Приморско-Ахтарский район, Брюховецкий район, Ейский район, Каневской район, Щербиновский район, Абинский район,  Калининский район, Красноармейский район, Крымский район, Северский район, Славянский район, Темрюкский район, Тимашевский район, Краснодарский край - опасность по БПЛА. \n\n📡Локатор Росси",
-    "channel": "locatorru",
-    "updated_at": "2026-10-02T04:46:13+00:00",
-    "expires_at": "2026-10-02T05:46:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "самарск": {
-    "display_name": "Самарская область",
-    "type": "drone",
-    "text": "Самарская область \nТревога по БПЛА сохраняется",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-02T05:10:46+00:00",
-    "expires_at": "2026-10-02T06:10:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Республика Адыгея \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-02T04:52:14+00:00",
-    "expires_at": "2026-10-02T05:52:14+00:00",
     "count": null,
     "count_approx": false
   },
@@ -119,26 +59,6 @@
     "count": null,
     "count_approx": false
   },
-  "астраханск": {
-    "display_name": "Астраханская область",
-    "type": "drone",
-    "text": "Астраханская область \nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-02T05:20:24+00:00",
-    "expires_at": "2026-10-02T06:20:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Погарский район\nБрянская область \nФиксации ударных БПЛА в тыл",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-02T05:20:01+00:00",
-    "expires_at": "2026-10-02T06:20:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожской области",
     "type": "drone",
@@ -166,6 +86,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-10-02T05:27:54+00:00",
     "expires_at": "2026-10-02T06:27:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарско": {
+    "display_name": "Краснодарского края",
+    "type": "alert",
+    "text": "Экстренная информация РСЧС: Отмена БЕСПИЛОТНОЙ ОПАСНОСТИ на территории Краснодарского края. 02.10.26 Телефон 112.",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-02T05:56:58+00:00",
+    "expires_at": "2026-10-02T06:56:58+00:00",
     "count": null,
     "count_approx": false
   }
