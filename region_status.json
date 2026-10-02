@@ -1,51 +1,51 @@
 {
   "калужск": {
-    "display_name": "Калужскую область",
+    "display_name": "Калужская область",
     "type": "drone",
-    "text": "Брянская область, тревога по БПЛА над всей областью, далее на Калужскую область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-02T22:06:46+00:00",
-    "expires_at": "2026-10-02T23:06:46+00:00",
+    "text": "Людиновский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-02T22:45:28+00:00",
+    "expires_at": "2026-10-02T23:45:28+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Заокский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Ясногорский район\nЗаокский район\nЩёкинский район\nКимовский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-02T22:10:04+00:00",
-    "expires_at": "2026-10-02T23:10:04+00:00",
+    "updated_at": "2026-10-02T22:45:11+00:00",
+    "expires_at": "2026-10-02T23:45:11+00:00",
     "count": null,
     "count_approx": false
   },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Серебряные Пруды\nМосковская область\nФиксация 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-02T22:05:09+00:00",
-    "expires_at": "2026-10-02T23:05:09+00:00",
-    "count": 2,
+    "text": "ГО Одинцово\nМосковская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-02T22:44:32+00:00",
+    "expires_at": "2026-10-02T23:44:32+00:00",
+    "count": null,
     "count_approx": false
   },
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Михайловский район\nРязанская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Михайловский район\nРязанская область\nФиксация 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-02T22:05:28+00:00",
-    "expires_at": "2026-10-02T23:05:28+00:00",
-    "count": null,
+    "updated_at": "2026-10-02T22:45:45+00:00",
+    "expires_at": "2026-10-02T23:45:45+00:00",
+    "count": 2,
     "count_approx": false
   },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Брянская область, тревога по БПЛА над всей областью, далее на Калужскую область",
+    "text": "Брянская область, летит еще, много, тревога по БПЛА сохраняется",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-02T22:06:46+00:00",
-    "expires_at": "2026-10-02T23:06:46+00:00",
+    "updated_at": "2026-10-02T22:42:55+00:00",
+    "expires_at": "2026-10-02T23:42:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +66,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-02T22:29:11+00:00",
     "expires_at": "2026-10-02T23:29:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Курск и ближайшие, Курская область, тревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-02T22:45:52+00:00",
+    "expires_at": "2026-10-02T23:45:52+00:00",
     "count": null,
     "count_approx": false
   }
