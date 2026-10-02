@@ -30,6 +30,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-10-02T05:29:10+00:00",
+        "last_updated": "2026-10-02T06:15:44+00:00",
+        "path_labels": [
+          "Неверкинский (Пензенская область)",
+          "Павловский (Ульяновская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.690152,
+            52.7787253
+          ],
+          [
+            47.0919061,
+            52.7252994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-10-02T05:32:41+00:00",
         "last_updated": "2026-10-02T05:32:41+00:00",
         "path_labels": [
