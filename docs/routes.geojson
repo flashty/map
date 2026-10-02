@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-02T10:48:00+00:00",
+        "last_updated": "2026-10-02T11:22:37+00:00",
+        "path_labels": [
+          "Шаблыкинский (Орловская область)",
+          "Хвастовичский (Калужская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.1025788,
+            52.8579891
+          ],
+          [
+            35.1820052,
+            53.4981708
+          ]
+        ]
+      }
+    }
+  ]
 }
