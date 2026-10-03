@@ -150,6 +150,81 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-10-03T18:06:39+00:00",
+        "last_updated": "2026-10-03T18:56:06+00:00",
+        "path_labels": [
+          "Почеп (Брянская область)",
+          "Советский (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4544207,
+            52.9287784
+          ],
+          [
+            32.2393222,
+            52.7512957
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-03T18:21:04+00:00",
+        "last_updated": "2026-10-03T18:56:06+00:00",
+        "path_labels": [
+          "Навля (Брянская область)",
+          "Фокинский (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.4993843,
+            52.8271323
+          ],
+          [
+            34.4146243,
+            53.213139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-03T18:34:53+00:00",
+        "last_updated": "2026-10-03T18:57:43+00:00",
+        "path_labels": [
+          "Миллерово (Ростовская область)",
+          "Тарасовский (Ростовская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.391854,
+            48.9196264
+          ],
+          [
+            40.3554416,
+            48.727145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-10-03T18:38:42+00:00",
         "last_updated": "2026-10-03T18:38:42+00:00",
         "path_labels": [
