@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-03T07:17:01+00:00",
+        "last_updated": "2026-10-03T07:29:10+00:00",
+        "path_labels": [
+          "Кучугуры (Краснодарский край)",
+          "Темрюкский (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.9533724,
+            45.4084502
+          ],
+          [
+            37.3098799,
+            45.4964119
+          ]
+        ]
+      }
+    }
+  ]
 }
