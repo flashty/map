@@ -1,21 +1,11 @@
 {
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Угранский район\nСмоленская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-03T01:50:10+00:00",
-    "expires_at": "2026-10-03T02:50:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Каменск-Шахтинский, тревога по БПЛА сохраняется, высокая активность\nРостовская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-03T01:59:53+00:00",
-    "expires_at": "2026-10-03T02:59:53+00:00",
+    "text": "Глубокий, Каменск-Шахтинский, Лозовской и близлежащие, Ростовская область - опасность по БПЛА ещё действует. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-03T02:56:45+00:00",
+    "expires_at": "2026-10-03T03:56:45+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +26,36 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-03T02:35:03+00:00",
     "expires_at": "2026-10-03T03:35:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калуга\nКалужская область\nПродолжаются фиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-03T02:55:41+00:00",
+    "expires_at": "2026-10-03T03:55:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Новороссийск и близлежащие\nКраснодарский край\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-03T03:00:05+00:00",
+    "expires_at": "2026-10-03T04:00:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Старый Крым, тревога по БПЛА\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-03T02:59:41+00:00",
+    "expires_at": "2026-10-03T03:59:41+00:00",
     "count": null,
     "count_approx": false
   }
