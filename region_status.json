@@ -1,11 +1,11 @@
 {
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "missile",
-    "text": "Новая Полтавка ДНР ракетная опасность",
+    "type": "drone",
+    "text": "Нижняя Крынка, Макеевка и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-03T13:09:09+00:00",
-    "expires_at": "2026-10-03T14:09:09+00:00",
+    "updated_at": "2026-10-03T13:28:29+00:00",
+    "expires_at": "2026-10-03T14:28:29+00:00",
     "count": null,
     "count_approx": false
   },
@@ -51,11 +51,11 @@
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "alert",
-    "text": "Армавир \nКропоткин \nКурганинск \nТихорецк \nКраснодарский край \nБеспилотная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-03T13:14:12+00:00",
-    "expires_at": "2026-10-03T14:14:12+00:00",
+    "type": "drone",
+    "text": "Армавир\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-03T13:28:14+00:00",
+    "expires_at": "2026-10-03T14:28:14+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,10 +72,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Октябрьское\nГвардейское \nЗуя\nБелогорск \nОпасность по БПЛА \n\nРеспублика Крым",
+    "text": "Гвардейское с запада тревога по БПЛА\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-03T12:52:46+00:00",
-    "expires_at": "2026-10-03T13:52:46+00:00",
+    "updated_at": "2026-10-03T13:27:18+00:00",
+    "expires_at": "2026-10-03T14:27:18+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,6 +116,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-03T13:07:33+00:00",
     "expires_at": "2026-10-03T14:07:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Грайворон и ближайшие Белгородская область \nТревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-03T13:26:27+00:00",
+    "expires_at": "2026-10-03T14:26:27+00:00",
     "count": null,
     "count_approx": false
   }
