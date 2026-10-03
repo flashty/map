@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_94869_Кромской",
-    "channel": "vrv_radar",
-    "date": "2026-10-01T22:40:57+00:00",
-    "text": "Кромской район\nОрловская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Кромской",
-    "region": "Орловская область",
-    "lat": 52.6353551,
-    "lon": 35.763628
-  },
-  {
-    "id": "radarrussiia_96810_Кромской",
-    "channel": "radarrussiia",
-    "date": "2026-10-01T22:41:08+00:00",
-    "text": "Кромской район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": "Кромской",
-    "region": "Орловская область",
-    "lat": 52.6353551,
-    "lon": 35.763628
-  },
-  {
-    "id": "locatorru_87961",
-    "channel": "locatorru",
-    "date": "2026-10-01T22:41:20+00:00",
-    "text": "Белгородская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_87962",
-    "channel": "locatorru",
-    "date": "2026-10-01T22:41:26+00:00",
-    "text": "Воронежская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_87963",
-    "channel": "locatorru",
-    "date": "2026-10-01T22:41:30+00:00",
-    "text": "Липецкая область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_94870_Покровский",
     "channel": "vrv_radar",
     "date": "2026-10-01T22:41:30+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_88089",
+    "channel": "locatorru",
+    "date": "2026-10-03T00:48:08+00:00",
+    "text": "Ульяновская область, Саратовская область, Пензенская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_95307",
+    "channel": "vrv_radar",
+    "date": "2026-10-03T00:51:59+00:00",
+    "text": "Рязанская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_88090",
+    "channel": "locatorru",
+    "date": "2026-10-03T00:56:09+00:00",
+    "text": "03/10/2026 03:55 МСК.\n\nОпасность по БПЛА сохраняется:\n\n🔻Брянская область;\n🔻Смоленская область;\n🔻Калужская область;\n🔻Курская область;\n🔻Орловская область;\n🔻Тульская область;\n🔻Московская область;\n🔻Рязанская область;\n🔻Белгородская область;\n🔻Воронежская область;\n🔻Ростовская область;\n🔻Тамбовская область;\n🔻Краснодарский край. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_243659",
+    "channel": "LPRalarm",
+    "date": "2026-10-03T00:59:34+00:00",
+    "text": "Лисичанск\nСеверодонецк\nИ близлежащие\nТревога по БПЛА\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_135839",
+    "channel": "kupolrussia",
+    "date": "2026-10-03T00:59:38+00:00",
+    "text": "Лисичанск\nСеверодонецк\nИ близлежащие\nТревога по БПЛА\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
