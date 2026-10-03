@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Знаменский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-03T02:35:03+00:00",
-    "expires_at": "2026-10-03T03:35:03+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
@@ -42,10 +32,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Анапа\nГеленджик\nНовороссийск\nИ близлежащие\nТревога по БПЛА\nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-03T03:06:23+00:00",
-    "expires_at": "2026-10-03T04:06:23+00:00",
+    "text": "Ейск и близлежащие \nОпасность по БПЛА \nКраснодарский край",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-03T03:37:28+00:00",
+    "expires_at": "2026-10-03T04:37:28+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +46,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-03T02:59:41+00:00",
     "expires_at": "2026-10-03T03:59:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "А/ дорога Кировское - Хорошее\nТревога по БПЛА Хорнет\nЛНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-03T03:45:01+00:00",
+    "expires_at": "2026-10-03T04:45:01+00:00",
     "count": null,
     "count_approx": false
   }
