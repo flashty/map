@@ -12,30 +12,20 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "по г. Бердянск и Бердянскому району \nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Давыдовка\nЗапорожская область РФ\nИ далее на юг, юго-восток\nТревога по БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-03T16:28:11+00:00",
-    "expires_at": "2026-10-03T17:28:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Краснадар \nКраснодарский край \nТревога по БПЛА сохраняется \nМеры безопасности",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-03T16:30:49+00:00",
-    "expires_at": "2026-10-03T17:30:49+00:00",
+    "updated_at": "2026-10-03T17:24:14+00:00",
+    "expires_at": "2026-10-03T18:24:14+00:00",
     "count": null,
     "count_approx": false
   },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "Московская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-03T17:14:57+00:00",
-    "expires_at": "2026-10-03T18:14:57+00:00",
+    "text": "МО Истра\nМосковская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-03T17:27:01+00:00",
+    "expires_at": "2026-10-03T18:27:01+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +36,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-03T17:03:12+00:00",
     "expires_at": "2026-10-03T18:03:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Тула\nТульская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-03T17:27:44+00:00",
+    "expires_at": "2026-10-03T18:27:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Черноморское\nРаздольненский район\nРеспублика Крым\nТревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-03T17:27:42+00:00",
+    "expires_at": "2026-10-03T18:27:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Ростовская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-03T17:30:40+00:00",
+    "expires_at": "2026-10-03T18:30:40+00:00",
     "count": null,
     "count_approx": false
   }
