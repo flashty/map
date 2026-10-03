@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_95153_Алексин",
-    "channel": "vrv_radar",
-    "date": "2026-10-02T12:22:32+00:00",
-    "text": "Алексин\nТульская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Алексин",
-    "region": "Тульская область",
-    "lat": 54.5028103,
-    "lon": 37.0667213
-  },
-  {
-    "id": "LPRalarm_243431",
-    "channel": "LPRalarm",
-    "date": "2026-10-02T12:22:59+00:00",
-    "text": "Воронежская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_135631",
-    "channel": "kupolrussia",
-    "date": "2026-10-02T12:23:26+00:00",
-    "text": "Керченский полуостров \nКерчь и близлежащие \nРеспублика Крым\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_95154",
-    "channel": "vrv_radar",
-    "date": "2026-10-02T12:23:33+00:00",
-    "text": "Сочи и близлежащие\nКраснодарский край\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_95155_Сочи",
     "channel": "vrv_radar",
     "date": "2026-10-02T12:23:43+00:00",
@@ -21996,6 +21952,50 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_243948",
+    "channel": "LPRalarm",
+    "date": "2026-10-03T12:29:15+00:00",
+    "text": "Угледар ДНР и на юго-восток ракетная тревога",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_243949",
+    "channel": "LPRalarm",
+    "date": "2026-10-03T12:29:52+00:00",
+    "text": "Курахово ДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_136095",
+    "channel": "kupolrussia",
+    "date": "2026-10-03T12:30:06+00:00",
+    "text": "Курахово ДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_136096",
+    "channel": "kupolrussia",
+    "date": "2026-10-03T12:30:20+00:00",
+    "text": "Угледар ДНР и на юго-восток ракетная тревога",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
