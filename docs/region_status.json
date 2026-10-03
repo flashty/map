@@ -42,10 +42,10 @@
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Миллеровский район, Ростовская область - продолжаются пролёты БПЛА на восток, юго-восток. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-03T22:45:39+00:00",
-    "expires_at": "2026-10-03T23:45:39+00:00",
+    "text": "Боковская и близлежащие\nИ далее в направлении Морозовск\nТревога по БПЛА сохраняется\nРостовская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-03T23:23:05+00:00",
+    "expires_at": "2026-10-04T00:23:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,23 +59,13 @@
     "count": null,
     "count_approx": false
   },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Павловский район\nВоронежская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-03T22:25:35+00:00",
-    "expires_at": "2026-10-03T23:25:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "астраханск": {
     "display_name": "Астраханская область",
     "type": "drone",
-    "text": "Астрахань и близлежащие \nАстраханская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-03T23:08:00+00:00",
-    "expires_at": "2026-10-04T00:08:00+00:00",
+    "text": "Астраханская область - внимание к массовому налёту БПЛА от Ростовской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-03T23:23:38+00:00",
+    "expires_at": "2026-10-04T00:23:38+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,26 +86,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-03T22:56:00+00:00",
     "expires_at": "2026-10-03T23:56:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "МО Чехов \nМосковская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-03T22:17:25+00:00",
-    "expires_at": "2026-10-03T23:17:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ставропольск": {
-    "display_name": "Ставропольский край",
-    "type": "drone",
-    "text": "Ставропольский край, Республика Калмыкия, Астраханская область - опасность по БПЛА от Ростовской и Волгоградской областей. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-03T22:17:41+00:00",
-    "expires_at": "2026-10-03T23:17:41+00:00",
     "count": null,
     "count_approx": false
   },
@@ -176,6 +146,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-03T23:04:28+00:00",
     "expires_at": "2026-10-04T00:04:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Курск и ближайшие, Курская область, тревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-03T23:19:43+00:00",
+    "expires_at": "2026-10-04T00:19:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградская область",
+    "type": "drone",
+    "text": "Суровикино \nВолгоградская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-03T23:26:54+00:00",
+    "expires_at": "2026-10-04T00:26:54+00:00",
     "count": null,
     "count_approx": false
   }
