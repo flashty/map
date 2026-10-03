@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-03T14:09:24+00:00",
+        "last_updated": "2026-10-03T14:30:16+00:00",
+        "path_labels": [
+          "Валуец (Брянская область)",
+          "Почеп (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3854567,
+            52.7421241
+          ],
+          [
+            33.4544207,
+            52.9287784
+          ]
+        ]
+      }
+    }
+  ]
 }

@@ -1,104 +1,5 @@
 [
   {
-    "id": "kupolrussia_135662",
-    "channel": "kupolrussia",
-    "date": "2026-10-02T14:17:44+00:00",
-    "text": "От Мангуш на Мелекино и далее в направлении Урзуфа в доль трассы на Мариуполь \nДНР",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_243464",
-    "channel": "LPRalarm",
-    "date": "2026-10-02T14:18:28+00:00",
-    "text": "ДНР, Донецк район ЖД вокзала и ближайшие тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_135663",
-    "channel": "kupolrussia",
-    "date": "2026-10-02T14:19:39+00:00",
-    "text": "ДНР, Донецк район ЖД вокзала и ближайшие тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_243465",
-    "channel": "LPRalarm",
-    "date": "2026-10-02T14:20:07+00:00",
-    "text": "Белевица и далее на Погар \nОтпасть по ДАРТС\nБрянская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_243466",
-    "channel": "LPRalarm",
-    "date": "2026-10-02T14:21:04+00:00",
-    "text": "Белгородская область \nТревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_135664",
-    "channel": "kupolrussia",
-    "date": "2026-10-02T14:21:07+00:00",
-    "text": "Белевица и далее на Погар \nОтпасть по ДАРТС\nБрянская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_96991",
-    "channel": "radarrussiia",
-    "date": "2026-10-02T14:23:16+00:00",
-    "text": "Белгородская область \nТревога по БПЛА сохраняется\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_243467",
-    "channel": "LPRalarm",
-    "date": "2026-10-02T14:25:17+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_135665",
-    "channel": "kupolrussia",
-    "date": "2026-10-02T14:25:27+00:00",
-    "text": "Белгородская область \nТревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_135666",
     "channel": "kupolrussia",
     "date": "2026-10-02T14:25:38+00:00",
@@ -21998,5 +21899,104 @@
     "region": "Орловская область",
     "lat": 53.1360589,
     "lon": 35.3773008
+  },
+  {
+    "id": "vrv_radar_95449",
+    "channel": "vrv_radar",
+    "date": "2026-10-03T14:19:58+00:00",
+    "text": "Тверская область\nСмоленская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тверская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_243988_Игрушино",
+    "channel": "LPRalarm",
+    "date": "2026-10-03T14:22:24+00:00",
+    "text": "Игрушино, Жирятино и далее на  Выгоничи\nТревога по БПЛА \nБрянская область",
+    "type": "drone",
+    "location_name": "Игрушино",
+    "region": "Брянская область",
+    "lat": 53.0015897,
+    "lon": 33.4619852
+  },
+  {
+    "id": "kupolrussia_136133_Игрушино",
+    "channel": "kupolrussia",
+    "date": "2026-10-03T14:22:49+00:00",
+    "text": "Игрушино, Жирятино и далее на  Выгоничи\nБрянская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Игрушино",
+    "region": "Брянская область",
+    "lat": 53.0015897,
+    "lon": 33.4619852
+  },
+  {
+    "id": "kupolrussia_136133_Выгоничи",
+    "channel": "kupolrussia",
+    "date": "2026-10-03T14:22:49+00:00",
+    "text": "Игрушино, Жирятино и далее на  Выгоничи\nБрянская область\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Выгоничи",
+    "region": "Брянская область",
+    "lat": 53.0978,
+    "lon": 34.0683
+  },
+  {
+    "id": "radarrussiia_97219",
+    "channel": "radarrussiia",
+    "date": "2026-10-03T14:28:44+00:00",
+    "text": "Тверская область\nСмоленская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тверская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_243989_Почепский",
+    "channel": "LPRalarm",
+    "date": "2026-10-03T14:30:00+00:00",
+    "text": "Почеп, Почепский район и ближайшие тревога по БПЛА сохраняется \nБрянская область",
+    "type": "drone",
+    "location_name": "Почепский",
+    "region": "Брянская область",
+    "lat": 52.9262598,
+    "lon": 33.493436
+  },
+  {
+    "id": "LPRalarm_243989_Почеп",
+    "channel": "LPRalarm",
+    "date": "2026-10-03T14:30:00+00:00",
+    "text": "Почеп, Почепский район и ближайшие тревога по БПЛА сохраняется \nБрянская область",
+    "type": "drone",
+    "location_name": "Почеп",
+    "region": "Брянская область",
+    "lat": 52.9287784,
+    "lon": 33.4544207
+  },
+  {
+    "id": "kupolrussia_136134_Почепский",
+    "channel": "kupolrussia",
+    "date": "2026-10-03T14:30:16+00:00",
+    "text": "Почеп, Почепский район и ближайшие тревога по БПЛА сохраняется \nБрянская область",
+    "type": "drone",
+    "location_name": "Почепский",
+    "region": "Брянская область",
+    "lat": 52.9262598,
+    "lon": 33.493436
+  },
+  {
+    "id": "kupolrussia_136134_Почеп",
+    "channel": "kupolrussia",
+    "date": "2026-10-03T14:30:16+00:00",
+    "text": "Почеп, Почепский район и ближайшие тревога по БПЛА сохраняется \nБрянская область",
+    "type": "drone",
+    "location_name": "Почеп",
+    "region": "Брянская область",
+    "lat": 52.9287784,
+    "lon": 33.4544207
   }
 ]
