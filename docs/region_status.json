@@ -2,10 +2,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Сочи и близлежащие \nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-04T18:44:52+00:00",
-    "expires_at": "2026-10-04T19:44:52+00:00",
+    "text": "Волна, Анапа, Тамань, Новороссийск, Геленджик, Туапсе, Сочи, Адлер, Широкая Балка, Федотовка, Мысхако, Кабардинка, Виноградное, Краснодарский край - опасность по БПЛА сохраняется и по всему Черноморскому побережью. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-04T18:46:43+00:00",
+    "expires_at": "2026-10-04T19:46:43+00:00",
     "count": null,
     "count_approx": false
   },
@@ -29,23 +29,33 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Хорлы\nХерсонская область РФ\nБПЛА разведчик",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-04T17:49:08+00:00",
-    "expires_at": "2026-10-04T18:49:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Щёкино\nТульская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-04T18:42:51+00:00",
-    "expires_at": "2026-10-04T19:42:51+00:00",
+    "text": "Щёкино\nТульская область\nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-04T18:52:10+00:00",
+    "expires_at": "2026-10-04T19:52:10+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Покровский район\nОрловская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-04T18:51:11+00:00",
+    "expires_at": "2026-10-04T19:51:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Козельский район\nКалужская область\nФиксация группы БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-04T18:56:43+00:00",
+    "expires_at": "2026-10-04T19:56:43+00:00",
     "count": null,
     "count_approx": false
   }
