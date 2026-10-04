@@ -1,24 +1,4 @@
 {
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "В сторону Туапсе, Сочи, Краснодарский край ещё фиксации БПЛА над морем. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-04T01:49:34+00:00",
-    "expires_at": "2026-10-04T02:49:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "астраханск": {
-    "display_name": "Астраханская область",
-    "type": "drone",
-    "text": "Красноярский район \nАстраханская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-04T01:44:15+00:00",
-    "expires_at": "2026-10-04T02:44:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -26,16 +6,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-04T02:29:56+00:00",
     "expires_at": "2026-10-04T03:29:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Рыльск и ближайшие, Курская область, опасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-04T01:40:32+00:00",
-    "expires_at": "2026-10-04T02:40:32+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,20 +22,60 @@
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-04T02:05:03+00:00",
-    "expires_at": "2026-10-04T03:05:03+00:00",
+    "text": "Рязанская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-04T02:45:34+00:00",
+    "expires_at": "2026-10-04T03:45:34+00:00",
     "count": null,
     "count_approx": false
   },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Донецк и ближайшие, тревога по БПЛА\nДНР",
+    "text": "Донецк и ближайшие, тревога по БПЛА сохраняется\nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-04T02:13:37+00:00",
-    "expires_at": "2026-10-04T03:13:37+00:00",
+    "updated_at": "2026-10-04T02:35:00+00:00",
+    "expires_at": "2026-10-04T03:35:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Майкоп, аэ.Ханская и близлежащие, Республика Адыгея - опасность по БПЛА сохраняется от Белореченск, Горячий Ключ. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-04T02:37:44+00:00",
+    "expires_at": "2026-10-04T03:37:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородская область",
+    "type": "drone",
+    "text": "Нижегородская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-04T02:45:01+00:00",
+    "expires_at": "2026-10-04T03:45:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "drone",
+    "text": "Владимирская область\nИвановская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-04T02:45:22+00:00",
+    "expires_at": "2026-10-04T03:45:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ивановск": {
+    "display_name": "Ивановская область",
+    "type": "drone",
+    "text": "Владимирская область\nИвановская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-04T02:45:22+00:00",
+    "expires_at": "2026-10-04T03:45:22+00:00",
     "count": null,
     "count_approx": false
   }
