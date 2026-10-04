@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_95400",
-    "channel": "vrv_radar",
-    "date": "2026-10-03T10:35:12+00:00",
-    "text": "Московская область \nВнимание по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_243879",
-    "channel": "LPRalarm",
-    "date": "2026-10-03T10:35:34+00:00",
-    "text": "Смоленская область \nЕльня\nРославль и близлежащие \nТревога по БПЛА\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\n> © \"КРАСНЫЙ УРОВЕНЬ\"\n(Х © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_97157",
-    "channel": "radarrussiia",
-    "date": "2026-10-03T10:35:38+00:00",
-    "text": "Фиксации БПЛА в направлении Керчь \nРеспублика Крым\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_136030",
-    "channel": "kupolrussia",
-    "date": "2026-10-03T10:36:02+00:00",
-    "text": "Ставропольский край\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_97158",
-    "channel": "radarrussiia",
-    "date": "2026-10-03T10:36:03+00:00",
-    "text": "Московская область \nВнимание по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_243880",
     "channel": "LPRalarm",
     "date": "2026-10-03T10:36:04+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Республика Адыгея",
     "lat": 44.6062079,
     "lon": 40.104053
+  },
+  {
+    "id": "vrv_radar_95678_Майкоп",
+    "channel": "vrv_radar",
+    "date": "2026-10-04T00:33:43+00:00",
+    "text": "Майкоп\nРеспублика Адыгея\nФиксации БПЛА в вашем направлении \nМеры безопасности",
+    "type": "drone",
+    "location_name": "Майкоп",
+    "region": "Республика Адыгея",
+    "lat": 44.6062079,
+    "lon": 40.104053
+  },
+  {
+    "id": "vrv_radar_95679_Красноярский",
+    "channel": "vrv_radar",
+    "date": "2026-10-04T00:37:31+00:00",
+    "text": "Красноярский район\nАстраханская область\nСбитие БПЛА",
+    "type": "all_clear",
+    "location_name": "Красноярский",
+    "region": "Астраханская область",
+    "lat": 46.9876036,
+    "lon": 48.3804572
+  },
+  {
+    "id": "radarrussiia_97414_Майкоп",
+    "channel": "radarrussiia",
+    "date": "2026-10-04T00:40:02+00:00",
+    "text": "Майкоп\nРеспублика Адыгея\nФиксации БПЛА в вашем направлении \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": "Майкоп",
+    "region": "Республика Адыгея",
+    "lat": 44.6062079,
+    "lon": 40.104053
+  },
+  {
+    "id": "radarrussiia_97415_Красноярский",
+    "channel": "radarrussiia",
+    "date": "2026-10-04T00:40:19+00:00",
+    "text": "Красноярский район\nАстраханская область\nСбитие БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "all_clear",
+    "location_name": "Красноярский",
+    "region": "Астраханская область",
+    "lat": 46.9876036,
+    "lon": 48.3804572
+  },
+  {
+    "id": "vrv_radar_95680_Тула",
+    "channel": "vrv_radar",
+    "date": "2026-10-04T00:44:55+00:00",
+    "text": "Тула\nТульская область\nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": "Тула",
+    "region": "Тульская область",
+    "lat": 54.1930321,
+    "lon": 37.61754
   }
 ]
