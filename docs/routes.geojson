@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-04T05:50:51+00:00",
+        "last_updated": "2026-10-04T06:24:23+00:00",
+        "path_labels": [
+          "Погарский",
+          "Шебекинский (Белгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.5165733,
+            50.4015692
+          ],
+          [
+            36.8728034,
+            50.438988
+          ]
+        ]
+      }
+    }
+  ]
 }
