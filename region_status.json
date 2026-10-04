@@ -32,10 +32,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Славянский район\nКраснодарский край\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-04T11:08:27+00:00",
-    "expires_at": "2026-10-04T12:08:27+00:00",
+    "text": "Геленджик\nКраснодарский край\nФиксация БПЛА в вашем направлении",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-04T11:29:23+00:00",
+    "expires_at": "2026-10-04T12:29:23+00:00",
     "count": null,
     "count_approx": false
   },
@@ -91,11 +91,11 @@
   },
   "московск": {
     "display_name": "Московская область",
-    "type": "alert",
-    "text": "Кубинка\nМосковская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "missile",
+    "text": "Московская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-04T11:14:15+00:00",
-    "expires_at": "2026-10-04T12:14:15+00:00",
+    "updated_at": "2026-10-04T11:23:14+00:00",
+    "expires_at": "2026-10-04T12:23:14+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +126,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-04T11:03:54+00:00",
     "expires_at": "2026-10-04T12:03:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Каховка и близлежащие \nХерсонская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-04T11:21:08+00:00",
+    "expires_at": "2026-10-04T12:21:08+00:00",
     "count": null,
     "count_approx": false
   }
