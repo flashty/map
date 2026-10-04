@@ -1,21 +1,11 @@
 {
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "alert",
-    "text": "Запорожская область РФ \nОпасность по МРШ со сбросами",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-04T05:43:58+00:00",
-    "expires_at": "2026-10-04T06:43:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "-": {
-    "display_name": "Республика -",
     "type": "drone",
-    "text": "Чувашская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-04T05:06:14+00:00",
-    "expires_at": "2026-10-04T06:06:14+00:00",
+    "text": "Осипенко и близлежащие \nТрасса Р- 280\nОпасность по БПЛА сохраняется \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-04T05:58:57+00:00",
+    "expires_at": "2026-10-04T06:58:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,33 +39,53 @@
     "count": null,
     "count_approx": false
   },
-  "астраханск": {
-    "display_name": "Астраханская область",
+  "брянск": {
+    "display_name": "Брянская область",
     "type": "drone",
-    "text": "Астраханская область \nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-04T05:37:27+00:00",
-    "expires_at": "2026-10-04T06:37:27+00:00",
+    "text": "Погарский район \nОпасность по БПЛА сохраняется\nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-04T05:51:11+00:00",
+    "expires_at": "2026-10-04T06:51:11+00:00",
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "missile",
+    "text": "Димитров Гродовка ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-04T05:54:51+00:00",
+    "expires_at": "2026-10-04T06:54:51+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "марий": {
+    "display_name": "Республика Марий",
     "type": "drone",
-    "text": "Старый хутор БПЛА разведка Домаха\nВалуйский район \nБелгородская область",
+    "text": "Республика Марий Эл - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-04T05:59:41+00:00",
+    "expires_at": "2026-10-04T06:59:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "марий-": {
+    "display_name": "Республика Марий-Эл",
+    "type": "drone",
+    "text": "Республика Марий-Эл опасность по БПЛА\n2% > ВНИМАНИЕ!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх © ОПАСНОСТИ\nПО БПЛА",
     "channel": "LPRalarm",
-    "updated_at": "2026-10-04T05:38:49+00:00",
-    "expires_at": "2026-10-04T06:38:49+00:00",
+    "updated_at": "2026-10-04T05:57:44+00:00",
+    "expires_at": "2026-10-04T06:57:44+00:00",
     "count": null,
     "count_approx": false
   },
-  "калмык": {
-    "display_name": "Республика Калмыкия",
+  "кировск": {
+    "display_name": "Кировская область",
     "type": "drone",
-    "text": "Республика Калмыкия \nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-04T05:45:24+00:00",
-    "expires_at": "2026-10-04T06:45:24+00:00",
+    "text": "Кировская область внимание по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-04T06:00:27+00:00",
+    "expires_at": "2026-10-04T07:00:27+00:00",
     "count": null,
     "count_approx": false
   }
