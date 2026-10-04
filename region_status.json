@@ -22,40 +22,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Крымский район\nКраснодарский край\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-04T12:00:20+00:00",
-    "expires_at": "2026-10-04T13:00:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "воронежск": {
-    "display_name": "Воронежской области",
-    "type": "missile",
-    "text": "Белгород, Белгородский район и ситуативно Белгородская область! \nРакетная опасность! Займите Безопасные места!\n\n\nПотенциальная опасность для Курской области и Воронежской области",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-04T11:02:19+00:00",
-    "expires_at": "2026-10-04T12:02:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Трасса Приморск\n Приазовское \nАктивность бпла Хорнет и Майя\nФПВ ждуны на Ветрогенераторах\nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-04T11:15:38+00:00",
-    "expires_at": "2026-10-04T12:15:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Тульская область \nКалужская область\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\n> © \"КРАСНЫЙ УРОВЕНЬ\"\n(Х © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-04T11:49:13+00:00",
-    "expires_at": "2026-10-04T12:49:13+00:00",
+    "text": "От Туапсе до Сочи, Адлер, Краснодарский край - опасность по БПЛА от Геленджика. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-04T12:14:34+00:00",
+    "expires_at": "2026-10-04T13:14:34+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +76,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-04T11:52:47+00:00",
     "expires_at": "2026-10-04T12:52:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-04T12:07:24+00:00",
+    "expires_at": "2026-10-04T13:07:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Республика Адыгея\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-04T12:13:43+00:00",
+    "expires_at": "2026-10-04T13:13:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "alert",
+    "text": "Алексин\nТульская область\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-04T12:14:26+00:00",
+    "expires_at": "2026-10-04T13:14:26+00:00",
     "count": null,
     "count_approx": false
   }
