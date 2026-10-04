@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Тульская область \nКалужская область \nМосковская область \n\nПриготовиться к очередной волне БПЛА от Брянской и Орловской областей",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-04T16:50:59+00:00",
-    "expires_at": "2026-10-04T17:50:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужскую область",
     "type": "drone",
@@ -136,6 +126,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-04T17:43:22+00:00",
     "expires_at": "2026-10-04T18:43:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Криничная, Макеевка и близлежащие \nОпасность по БПЛА Баба Яга \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-04T17:47:13+00:00",
+    "expires_at": "2026-10-04T18:47:13+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Хорлы\nХерсонская область РФ\nБПЛА разведчик",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-04T17:49:08+00:00",
+    "expires_at": "2026-10-04T18:49:08+00:00",
     "count": null,
     "count_approx": false
   }
