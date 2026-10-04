@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_243884",
-    "channel": "LPRalarm",
-    "date": "2026-10-03T10:41:12+00:00",
-    "text": "Причерноморье Краснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_136033",
-    "channel": "kupolrussia",
-    "date": "2026-10-03T10:41:17+00:00",
-    "text": "Таманский полуостров \nТревога по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_136034",
-    "channel": "kupolrussia",
-    "date": "2026-10-03T10:41:28+00:00",
-    "text": "Причерноморье Краснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_136035",
-    "channel": "kupolrussia",
-    "date": "2026-10-03T10:42:02+00:00",
-    "text": "В направлении \nСмоленская область \nКалужская область \nМосковская область \nРеактивные БПЛА или БПЛА фламинго от Брянской области",
-    "type": "missile",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_243885",
-    "channel": "LPRalarm",
-    "date": "2026-10-03T10:42:05+00:00",
-    "text": "В направлении \nСмоленская область \nКалужская область \nМосковская область \nРеактивные БПЛА или БПЛА фламинго от Брянской области",
-    "type": "missile",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_243886",
-    "channel": "LPRalarm",
-    "date": "2026-10-03T10:42:40+00:00",
-    "text": "Славянск-на-Кубани \nИльский \nАфипский \nТемрюк и близлежащие \nОпасность по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_136036",
-    "channel": "kupolrussia",
-    "date": "2026-10-03T10:42:56+00:00",
-    "text": "Славянск-на-Кубани \nИльский \nАфипский \nТемрюк и близлежащие \nОпасность по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_97160",
     "channel": "radarrussiia",
     "date": "2026-10-03T10:43:23+00:00",
@@ -21998,5 +21921,82 @@
     "region": "Республика Адыгея",
     "lat": 44.6062079,
     "lon": 40.104053
+  },
+  {
+    "id": "vrv_radar_95690_Майкоп",
+    "channel": "vrv_radar",
+    "date": "2026-10-04T01:01:29+00:00",
+    "text": "Майкоп\nРеспублика Адыгея\nСбитие БПЛА",
+    "type": "all_clear",
+    "location_name": "Майкоп",
+    "region": "Республика Адыгея",
+    "lat": 44.6062079,
+    "lon": 40.104053
+  },
+  {
+    "id": "vrv_radar_95691",
+    "channel": "vrv_radar",
+    "date": "2026-10-04T01:02:58+00:00",
+    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_136483",
+    "channel": "kupolrussia",
+    "date": "2026-10-04T01:03:29+00:00",
+    "text": "Республика Адыгея\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\n> © \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_244386",
+    "channel": "LPRalarm",
+    "date": "2026-10-04T01:03:31+00:00",
+    "text": "Республика Адыгея\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\n> © \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_95692",
+    "channel": "vrv_radar",
+    "date": "2026-10-04T01:08:56+00:00",
+    "text": "Тула \nТульская область \nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_97422",
+    "channel": "radarrussiia",
+    "date": "2026-10-04T01:10:12+00:00",
+    "text": "Тула \nТульская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_95693",
+    "channel": "vrv_radar",
+    "date": "2026-10-04T01:12:56+00:00",
+    "text": "Майкоп \nРеспублика Адыгея \nПродолжается работа ПВО по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
   }
 ]
