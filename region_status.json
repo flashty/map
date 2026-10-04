@@ -9,23 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "ставропольск": {
-    "display_name": "Ставропольский край",
-    "type": "drone",
-    "text": "Ставропольский край\nВНИМАНИЕ!!!\n< (>>) ОБЪЯВЛЕН\n> © \"КРАСНЫЙ УРОВЕНЬ\"\n(7 © ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-04T01:50:31+00:00",
-    "expires_at": "2026-10-04T02:50:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Рязанская область \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-04T02:45:34+00:00",
-    "expires_at": "2026-10-04T03:45:34+00:00",
+    "text": "Рязанская область\nС 55 ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-04T03:01:13+00:00",
+    "expires_at": "2026-10-04T04:01:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,20 +52,50 @@
   "владимирск": {
     "display_name": "Владимирская область",
     "type": "drone",
-    "text": "Владимирская область\nИвановская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-04T02:45:22+00:00",
-    "expires_at": "2026-10-04T03:45:22+00:00",
+    "text": "Владимирская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-04T02:48:20+00:00",
+    "expires_at": "2026-10-04T03:48:20+00:00",
     "count": null,
     "count_approx": false
   },
   "ивановск": {
     "display_name": "Ивановская область",
     "type": "drone",
-    "text": "Владимирская область\nИвановская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "text": "Ивановская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-04T02:48:18+00:00",
+    "expires_at": "2026-10-04T03:48:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "мордов": {
+    "display_name": "Республика Мордовия",
+    "type": "drone",
+    "text": "Республика Мордовия \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-04T02:45:22+00:00",
-    "expires_at": "2026-10-04T03:45:22+00:00",
+    "updated_at": "2026-10-04T02:50:16+00:00",
+    "expires_at": "2026-10-04T03:50:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Козельский район \nКалужская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-04T02:58:39+00:00",
+    "expires_at": "2026-10-04T03:58:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Коломна \nМосковская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-04T02:59:14+00:00",
+    "expires_at": "2026-10-04T03:59:14+00:00",
     "count": null,
     "count_approx": false
   }
