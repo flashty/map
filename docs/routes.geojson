@@ -5,6 +5,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-10-04T14:32:50+00:00",
+        "last_updated": "2026-10-04T14:46:47+00:00",
+        "path_labels": [
+          "Курчанская (Краснодарский край)",
+          "Анапский (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.568371,
+            45.219315
+          ],
+          [
+            37.755292,
+            45.0702704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-10-04T14:38:40+00:00",
         "last_updated": "2026-10-04T14:38:40+00:00",
         "path_labels": [
