@@ -1,61 +1,11 @@
 {
-  "владимирск": {
-    "display_name": "Владимирская область",
-    "type": "drone",
-    "text": "Гороховецкий район \nВладимирская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-04T04:33:29+00:00",
-    "expires_at": "2026-10-04T05:33:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Вся Запорожская область РФ \nОпасность по МРШ со сбросами БПЛА и ФПВ",
+    "type": "alert",
+    "text": "Запорожская область РФ \nОпасность по МРШ со сбросами",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-04T05:30:59+00:00",
-    "expires_at": "2026-10-04T06:30:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "От Туапсе до Сочи, Адлер, Краснодарский край - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-04T05:30:55+00:00",
-    "expires_at": "2026-10-04T06:30:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Алчевск, Брянка, Стаханов и близлежащие\nТревога по БПЛА\nЛНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-04T04:45:04+00:00",
-    "expires_at": "2026-10-04T05:45:04+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ярославск": {
-    "display_name": "Ярославская область",
-    "type": "drone",
-    "text": "Ярославская область \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-04T04:44:02+00:00",
-    "expires_at": "2026-10-04T05:44:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московской области",
-    "type": "drone",
-    "text": "западная часть Московской области - опасность по БПЛА от Калужской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-04T05:00:04+00:00",
-    "expires_at": "2026-10-04T06:00:04+00:00",
+    "updated_at": "2026-10-04T05:43:58+00:00",
+    "expires_at": "2026-10-04T06:43:58+00:00",
     "count": null,
     "count_approx": false
   },
@@ -82,10 +32,10 @@
   "вологодск": {
     "display_name": "Вологодская область",
     "type": "drone",
-    "text": "Тверская область, Вологодская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-04T05:30:03+00:00",
-    "expires_at": "2026-10-04T06:30:03+00:00",
+    "text": "Вологодская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-04T05:32:00+00:00",
+    "expires_at": "2026-10-04T06:32:00+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +46,36 @@
     "channel": "locatorru",
     "updated_at": "2026-10-04T05:30:03+00:00",
     "expires_at": "2026-10-04T06:30:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "астраханск": {
+    "display_name": "Астраханская область",
+    "type": "drone",
+    "text": "Астраханская область \nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-04T05:37:27+00:00",
+    "expires_at": "2026-10-04T06:37:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Старый хутор БПЛА разведка Домаха\nВалуйский район \nБелгородская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-04T05:38:49+00:00",
+    "expires_at": "2026-10-04T06:38:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калмык": {
+    "display_name": "Республика Калмыкия",
+    "type": "drone",
+    "text": "Республика Калмыкия \nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-04T05:45:24+00:00",
+    "expires_at": "2026-10-04T06:45:24+00:00",
     "count": null,
     "count_approx": false
   }
