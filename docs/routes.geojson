@@ -170,6 +170,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-10-04T16:20:56+00:00",
+        "last_updated": "2026-10-04T16:59:49+00:00",
+        "path_labels": [
+          "Трубчевск (Брянская область)",
+          "Почепский (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.767467,
+            52.5835
+          ],
+          [
+            33.493436,
+            52.9262598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-10-04T16:25:55+00:00",
         "last_updated": "2026-10-04T16:25:55+00:00",
         "path_labels": [
