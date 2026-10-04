@@ -1,16 +1,5 @@
 [
   {
-    "id": "vrv_radar_95611_Ленинский",
-    "channel": "vrv_radar",
-    "date": "2026-10-03T21:59:40+00:00",
-    "text": "Ленинский район\nВолгоградская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Ленинский",
-    "region": "Волгоградская область",
-    "lat": 49.0482474,
-    "lon": 45.5187013
-  },
-  {
     "id": "radar_plus_bpla_14847",
     "channel": "radar_plus_bpla",
     "date": "2026-10-03T22:00:10+00:00",
@@ -21996,6 +21985,17 @@
     "type": "drone",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_95905",
+    "channel": "vrv_radar",
+    "date": "2026-10-04T23:01:09+00:00",
+    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
