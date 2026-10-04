@@ -19,23 +19,13 @@
     "count": null,
     "count_approx": false
   },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Майкоп \nРеспублика Адыгея \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-04T01:59:34+00:00",
-    "expires_at": "2026-10-04T02:59:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Джанкой и ближайшие, опасность по БПЛА\nРеспублика Крым",
+    "text": "Джанкой и далее в направлении Симферопольского района, тревога по БПЛА\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-04T01:41:46+00:00",
-    "expires_at": "2026-10-04T02:41:46+00:00",
+    "updated_at": "2026-10-04T02:05:23+00:00",
+    "expires_at": "2026-10-04T03:05:23+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +46,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-04T01:50:31+00:00",
     "expires_at": "2026-10-04T02:50:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n🌐 Обход белых списков - @Internet_Boost_bot",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-04T02:05:03+00:00",
+    "expires_at": "2026-10-04T03:05:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Донецк и ближайшие, тревога по БПЛА\nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-04T02:13:37+00:00",
+    "expires_at": "2026-10-04T03:13:37+00:00",
     "count": null,
     "count_approx": false
   }
