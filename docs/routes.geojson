@@ -1,4 +1,80 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-05T06:01:25+00:00",
+        "last_updated": "2026-10-05T06:39:09+00:00",
+        "path_labels": [
+          "Абинский (Краснодарский край)",
+          "Новороссийск"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.288214,
+            44.8852141
+          ],
+          [
+            37.7690711,
+            44.7239578
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-05T06:01:25+00:00",
+        "last_updated": "2026-10-05T06:39:09+00:00",
+        "path_labels": [
+          "Крымский (Краснодарский край)",
+          "Гостагаевская"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.896802,
+            44.9624541
+          ],
+          [
+            37.502266,
+            45.024044
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-05T06:01:25+00:00",
+        "last_updated": "2026-10-05T06:39:09+00:00",
+        "path_labels": [
+          "Темрюкский (Краснодарский край)",
+          "Натухаевская (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.3098799,
+            45.4964119
+          ],
+          [
+            37.5649206,
+            44.9088818
+          ]
+        ]
+      }
+    }
+  ]
 }
