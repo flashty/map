@@ -2,30 +2,20 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Мелитополь, Мелитопольский район и далее на юг, юго-восток тревога по БПЛА повторно\n\nЗапорожская область РФ",
+    "text": "Бердянск \nБердянский район \nТревога по БПЛА \nЗапорожская область РФ \nсохраняется",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-05T08:15:17+00:00",
-    "expires_at": "2026-10-05T09:15:17+00:00",
+    "updated_at": "2026-10-05T08:30:33+00:00",
+    "expires_at": "2026-10-05T09:30:33+00:00",
     "count": null,
     "count_approx": false
   },
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Донецк и близлежащие \nмеры безопасности при БПЛА \nДНР",
+    "type": "missile",
+    "text": "Константиновка Дзержинск ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-05T08:15:12+00:00",
-    "expires_at": "2026-10-05T09:15:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарско": {
-    "display_name": "Краснодарского края",
-    "type": "drone",
-    "text": "Вся территория Краснодарского края - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-05T07:17:17+00:00",
-    "expires_at": "2026-10-05T08:17:17+00:00",
+    "updated_at": "2026-10-05T08:27:43+00:00",
+    "expires_at": "2026-10-05T09:27:43+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,26 +36,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-05T07:58:10+00:00",
     "expires_at": "2026-10-05T08:58:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Бабынино, Боровск, Малоярославец, Жуков, Калуга, Обнинск, Таруса и близлежащие, Калужская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-05T07:24:48+00:00",
-    "expires_at": "2026-10-05T08:24:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Смоленская область \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-05T07:19:52+00:00",
-    "expires_at": "2026-10-05T08:19:52+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +66,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-05T07:49:02+00:00",
     "expires_at": "2026-10-05T08:49:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Валуйки \nТревога по БПЛА Хорнет\nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-05T08:29:22+00:00",
+    "expires_at": "2026-10-05T09:29:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Горностаевка, Великая Лепетиха \nХерсонская область РФ \n\nФиксации групп БПЛА в направлении Мелитополь, Геническ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-05T08:24:45+00:00",
+    "expires_at": "2026-10-05T09:24:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Майкоп \nРеспублика Адыгея \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-05T08:29:51+00:00",
+    "expires_at": "2026-10-05T09:29:51+00:00",
     "count": null,
     "count_approx": false
   }
