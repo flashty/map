@@ -1,21 +1,11 @@
 {
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Красный луч \nАнтрацит \nРовеньки \nОпасность по электрическим БПЛА \nЛНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-05T03:42:30+00:00",
-    "expires_at": "2026-10-05T04:42:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Весёлое возможно в направлении Мелитополь ещё БПЛА \nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-05T04:23:53+00:00",
-    "expires_at": "2026-10-05T05:23:53+00:00",
+    "text": "Мелитополь опасность по БПЛА \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-05T04:36:43+00:00",
+    "expires_at": "2026-10-05T05:36:43+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,6 +16,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-05T04:26:00+00:00",
     "expires_at": "2026-10-05T05:26:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Горностаевка, Великая Лепетиха \nХерсонская область РФ \n\nФиксации групп БПЛА в направлении Мелитополь, Геническ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-05T04:36:43+00:00",
+    "expires_at": "2026-10-05T05:36:43+00:00",
     "count": null,
     "count_approx": false
   }
