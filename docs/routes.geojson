@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-05T10:57:22+00:00",
+        "last_updated": "2026-10-05T10:57:22+00:00",
+        "path_labels": [
+          "Республики Крым",
+          "Краснодарский край"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.42471057508752,
+            45.26805741711
+          ],
+          [
+            39.49316508777573,
+            45.261497529767816
+          ]
+        ]
+      }
+    }
+  ]
 }
