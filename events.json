@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_95746",
-    "channel": "vrv_radar",
-    "date": "2026-10-04T05:15:33+00:00",
-    "text": "Тамбовская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_244442",
-    "channel": "LPRalarm",
-    "date": "2026-10-04T05:17:56+00:00",
-    "text": "Осипенко, Бердянск и близлежащие тревога по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_244443",
-    "channel": "LPRalarm",
-    "date": "2026-10-04T05:17:58+00:00",
-    "text": "Осипенко и близлежащие \nТрасса Р- 280\nОпасность по БПЛА сохраняется \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_95747",
-    "channel": "vrv_radar",
-    "date": "2026-10-04T05:18:14+00:00",
-    "text": "Воронежская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_136532",
-    "channel": "kupolrussia",
-    "date": "2026-10-04T05:18:31+00:00",
-    "text": "Тульская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_244444",
-    "channel": "LPRalarm",
-    "date": "2026-10-04T05:18:34+00:00",
-    "text": "Тульская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_244445",
     "channel": "LPRalarm",
     "date": "2026-10-04T05:18:54+00:00",
@@ -21996,6 +21930,72 @@
     "type": "alert",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245016_Рохманово",
+    "channel": "LPRalarm",
+    "date": "2026-10-05T09:46:52+00:00",
+    "text": "Рохманово, Брянская  область опасность по БПЛА и далее на северо-восток",
+    "type": "drone",
+    "location_name": "Рохманово",
+    "region": "Брянская  область",
+    "lat": 52.7501468,
+    "lon": 32.8823703
+  },
+  {
+    "id": "kupolrussia_137036_Рохманово",
+    "channel": "kupolrussia",
+    "date": "2026-10-05T09:47:10+00:00",
+    "text": "Рохманово, Брянская  область опасность по БПЛА и далее на северо-восток",
+    "type": "drone",
+    "location_name": "Рохманово",
+    "region": "Брянская  область",
+    "lat": 52.7501468,
+    "lon": 32.8823703
+  },
+  {
+    "id": "LPRalarm_245017",
+    "channel": "LPRalarm",
+    "date": "2026-10-05T09:53:50+00:00",
+    "text": "Ивня и близлежащие опасность по БПЛА в том числе на электротяге \nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137037",
+    "channel": "kupolrussia",
+    "date": "2026-10-05T09:54:05+00:00",
+    "text": "Ивня и близлежащие\nв том числе на электротяге \nБелгородская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245018",
+    "channel": "LPRalarm",
+    "date": "2026-10-05T09:58:33+00:00",
+    "text": "Джанкой в направлении Октябрьское фиксации БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137038",
+    "channel": "kupolrussia",
+    "date": "2026-10-05T09:58:52+00:00",
+    "text": "Джанкой в направлении Октябрьское фиксации БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
