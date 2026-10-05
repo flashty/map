@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-05T16:55:56+00:00",
+        "last_updated": "2026-10-05T17:30:25+00:00",
+        "path_labels": [
+          "Почеп (Брянская область)",
+          "Погар (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4544207,
+            52.9287784
+          ],
+          [
+            33.263706,
+            52.554283
+          ]
+        ]
+      }
+    }
+  ]
 }
