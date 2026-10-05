@@ -1,104 +1,5 @@
 [
   {
-    "id": "kupolrussia_136609_Стародуб",
-    "channel": "kupolrussia",
-    "date": "2026-10-04T08:14:15+00:00",
-    "text": "Стародуб, Унеча\nБрянская область\nФиксации БПЛА от Чубковичи",
-    "type": "drone",
-    "location_name": "Стародуб",
-    "region": "Брянская область",
-    "lat": 52.5853016,
-    "lon": 32.7603126
-  },
-  {
-    "id": "kupolrussia_136609_Унеча",
-    "channel": "kupolrussia",
-    "date": "2026-10-04T08:14:15+00:00",
-    "text": "Стародуб, Унеча\nБрянская область\nФиксации БПЛА от Чубковичи",
-    "type": "drone",
-    "location_name": "Унеча",
-    "region": "Брянская область",
-    "lat": 52.8449574,
-    "lon": 32.6700113
-  },
-  {
-    "id": "LPRalarm_244532",
-    "channel": "LPRalarm",
-    "date": "2026-10-04T08:14:19+00:00",
-    "text": "Старобельск и близлежащие \nОпасность по БПЛА Хорнет \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_136610",
-    "channel": "kupolrussia",
-    "date": "2026-10-04T08:14:25+00:00",
-    "text": "Старобельск и близлежащие \nОпасность по БПЛА Хорнет \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_244533",
-    "channel": "LPRalarm",
-    "date": "2026-10-04T08:18:11+00:00",
-    "text": "Донецк аэропорт, Киевский, Куйбышевский районы и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_136611",
-    "channel": "kupolrussia",
-    "date": "2026-10-04T08:18:33+00:00",
-    "text": "Донецк аэропорт, Киевский, Куйбышевский районы и близлежащие \nДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_244534_Крыма",
-    "channel": "LPRalarm",
-    "date": "2026-10-04T08:21:17+00:00",
-    "text": "Геническ, Ген.Горка и далее на северо-восток Крыма, Керченский полуостров \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Крыма",
-    "region": null,
-    "lat": 54.9683122,
-    "lon": 48.3030779
-  },
-  {
-    "id": "LPRalarm_244535",
-    "channel": "LPRalarm",
-    "date": "2026-10-04T08:21:28+00:00",
-    "text": "Север Крыма \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_136612_Крыма",
-    "channel": "kupolrussia",
-    "date": "2026-10-04T08:22:14+00:00",
-    "text": "Геническ, Ген.Горка и далее на северо-восток Крыма, Керченский полуостров \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Крыма",
-    "region": null,
-    "lat": 54.9683122,
-    "lon": 48.3030779
-  },
-  {
     "id": "kupolrussia_136613",
     "channel": "kupolrussia",
     "date": "2026-10-04T08:22:36+00:00",
@@ -21998,5 +21899,104 @@
     "region": "Курская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_245107",
+    "channel": "LPRalarm",
+    "date": "2026-10-05T14:06:41+00:00",
+    "text": "Выгоничи и близлежащие \nБрянская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137120",
+    "channel": "kupolrussia",
+    "date": "2026-10-05T14:07:13+00:00",
+    "text": "Выгоничи и близлежащие \nБрянская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_95984",
+    "channel": "vrv_radar",
+    "date": "2026-10-05T14:07:21+00:00",
+    "text": "Анапа и близлежащие\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории края опасность сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245108",
+    "channel": "LPRalarm",
+    "date": "2026-10-05T14:12:17+00:00",
+    "text": "Ясиноватая, Криничная, Макеевка и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137121",
+    "channel": "kupolrussia",
+    "date": "2026-10-05T14:12:32+00:00",
+    "text": "Ясиноватая, Криничная, Макеевка и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245109",
+    "channel": "LPRalarm",
+    "date": "2026-10-05T14:13:10+00:00",
+    "text": "Пятихатки, Пантелеймоновка, Корсунь и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137122",
+    "channel": "kupolrussia",
+    "date": "2026-10-05T14:13:34+00:00",
+    "text": "Пятихатки, Пантелеймоновка, Корсунь и близлежащие \nДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245110_Курска",
+    "channel": "LPRalarm",
+    "date": "2026-10-05T14:15:27+00:00",
+    "text": "Фиксация бпла от 1-е Цветово в сторону Курска",
+    "type": "drone",
+    "location_name": "Курска",
+    "region": null,
+    "lat": 55.7571978,
+    "lon": 37.6593319
+  },
+  {
+    "id": "kupolrussia_137123_Курска",
+    "channel": "kupolrussia",
+    "date": "2026-10-05T14:15:51+00:00",
+    "text": "Фиксация бпла от 1-е Цветово в сторону Курска",
+    "type": "drone",
+    "location_name": "Курска",
+    "region": null,
+    "lat": 55.7571978,
+    "lon": 37.6593319
   }
 ]
