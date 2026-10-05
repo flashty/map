@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_244584",
-    "channel": "LPRalarm",
-    "date": "2026-10-04T09:26:41+00:00",
-    "text": "Брянск \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_136658_Брянск",
-    "channel": "kupolrussia",
-    "date": "2026-10-04T09:26:52+00:00",
-    "text": "Брянск\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Брянск",
-    "region": null,
-    "lat": 53.2423778,
-    "lon": 34.3668288
-  },
-  {
-    "id": "LPRalarm_244585",
-    "channel": "LPRalarm",
-    "date": "2026-10-04T09:27:28+00:00",
-    "text": "Горское Хорнет\nЛНР",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_88263",
-    "channel": "locatorru",
-    "date": "2026-10-04T09:27:37+00:00",
-    "text": "Спасское, Медвенский район, Курская область - пролёты БПЛА в сторону Октябрьского района, Курского района и далее на север в сторону Орловской области, Тульской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_244586",
-    "channel": "LPRalarm",
-    "date": "2026-10-04T09:27:42+00:00",
-    "text": "Духовец\n снт Авангард\nв направлении Курска фиксации БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_136659",
-    "channel": "kupolrussia",
-    "date": "2026-10-04T09:27:46+00:00",
-    "text": "Горское Хорнет\nЛНР",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_136660",
-    "channel": "kupolrussia",
-    "date": "2026-10-04T09:27:51+00:00",
-    "text": "Духовец\n снт Авангард\nв направлении Курска фиксации БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_244587",
     "channel": "LPRalarm",
     "date": "2026-10-04T09:28:57+00:00",
@@ -21996,6 +21919,83 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245146",
+    "channel": "LPRalarm",
+    "date": "2026-10-05T16:18:09+00:00",
+    "text": "Старобельск и близлежащие \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137158",
+    "channel": "kupolrussia",
+    "date": "2026-10-05T16:18:47+00:00",
+    "text": "Старобельск и близлежащие \nЛНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245147",
+    "channel": "LPRalarm",
+    "date": "2026-10-05T16:19:53+00:00",
+    "text": "Краснодарский край \nОтбой опасность по БПЛА.\nРежим повышенного внимания сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137159",
+    "channel": "kupolrussia",
+    "date": "2026-10-05T16:20:07+00:00",
+    "text": "Краснодарский край \nРежим повышенного внимания сохраняется",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_97619",
+    "channel": "radarrussiia",
+    "date": "2026-10-05T16:26:54+00:00",
+    "text": "Краснодарский край\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245148",
+    "channel": "LPRalarm",
+    "date": "2026-10-05T16:28:32+00:00",
+    "text": "Токмак и ближайшие опасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137160",
+    "channel": "kupolrussia",
+    "date": "2026-10-05T16:28:53+00:00",
+    "text": "Токмак и ближайшие \nЗапорожская область РФ\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
