@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-04T23:34:26+00:00",
+        "last_updated": "2026-10-05T00:09:06+00:00",
+        "path_labels": [
+          "Тула (Тульская область)",
+          "Серпухов (Московская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.61754,
+            54.1930321
+          ],
+          [
+            37.4195533,
+            54.9155247
+          ]
+        ]
+      }
+    }
+  ]
 }
