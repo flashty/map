@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_245213",
-    "channel": "LPRalarm",
-    "date": "2026-10-05T19:02:02+00:00",
-    "text": "Белгородская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_137222",
-    "channel": "kupolrussia",
-    "date": "2026-10-05T19:02:23+00:00",
-    "text": "Белгородская область\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_245214",
-    "channel": "LPRalarm",
-    "date": "2026-10-05T19:03:19+00:00",
-    "text": "Новобогдановка\nИ далее в направлении\nМелитополь\nТревога по БПЛА\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_245215",
     "channel": "LPRalarm",
     "date": "2026-10-05T19:03:40+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_96429_Миллеровский",
+    "channel": "vrv_radar",
+    "date": "2026-10-06T14:32:52+00:00",
+    "text": "Миллеровский район \nРостовская область \nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Миллеровский",
+    "region": "Ростовская область",
+    "lat": 49.0249872,
+    "lon": 40.2651861
+  },
+  {
+    "id": "kupolrussia_137535",
+    "channel": "kupolrussia",
+    "date": "2026-10-06T14:45:18+00:00",
+    "text": "Осипенко и ближайшие \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245601",
+    "channel": "LPRalarm",
+    "date": "2026-10-06T14:45:26+00:00",
+    "text": "Осипенко, Бердянский МО и ближайшие опасность по БПЛА \n\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
