@@ -2,20 +2,10 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Сухиничский район\nДуминичиский район\nКалужская область\nФиксации групп БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-06T04:29:45+00:00",
-    "expires_at": "2026-10-06T05:29:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "Зеленоград \nМосковская область \nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-06T04:02:10+00:00",
-    "expires_at": "2026-10-06T05:02:10+00:00",
+    "text": "Сухиничский район\nДуминичиский район\nКалужская область\nФиксации групп БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-06T04:37:01+00:00",
+    "expires_at": "2026-10-06T05:37:01+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,43 +29,13 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "missile",
-    "text": "Курская область и близлежащие\nОбой ракетной опасности",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-06T03:40:14+00:00",
-    "expires_at": "2026-10-06T04:40:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Брянская область, Калужская область, Курская область, Орловская область, Тульская область, Московская область - опасность по реактивным БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-06T03:38:44+00:00",
-    "expires_at": "2026-10-06T04:38:44+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Балевский район \nТульская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-06T04:13:59+00:00",
-    "expires_at": "2026-10-06T05:13:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "Гуляйполе \nРакетная опасность\nЗапорожская область РФ",
+    "type": "drone",
+    "text": "Активность БПЛА Хорнет трассы Р280\nЗапорожская область РФ. Соблюдаем меры безопасности",
     "channel": "LPRalarm",
-    "updated_at": "2026-10-06T03:56:54+00:00",
-    "expires_at": "2026-10-06T04:56:54+00:00",
+    "updated_at": "2026-10-06T04:39:08+00:00",
+    "expires_at": "2026-10-06T05:39:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +56,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-06T04:29:39+00:00",
     "expires_at": "2026-10-06T05:29:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-06T04:39:39+00:00",
+    "expires_at": "2026-10-06T05:39:39+00:00",
     "count": null,
     "count_approx": false
   }
