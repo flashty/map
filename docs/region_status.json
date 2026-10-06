@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянск\nБежица\nИ близлежащие\nТревога по БПЛА остается в действии\nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-05T23:27:04+00:00",
-    "expires_at": "2026-10-06T00:27:04+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
@@ -30,42 +20,32 @@
     "count_approx": false
   },
   "орловск": {
-    "display_name": "Орловская область",
-    "type": "missile",
-    "text": "Орловская область\nРакетная опасность",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-05T23:45:59+00:00",
-    "expires_at": "2026-10-06T00:45:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
+    "display_name": "Орловскую область",
     "type": "drone",
-    "text": "Свердловск Червонопартизанск\nЛНР\nТревога по БПЛА\nИ далее\nГуково\nЗверево\nРостовская область",
+    "text": "Фиксация БПЛА Пекло\nЧерез Орловскую область в направлении\nМосковской области",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-05T23:23:57+00:00",
-    "expires_at": "2026-10-06T00:23:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Свердловск Червонопартизанск\nЛНР\nТревога по БПЛА\nИ далее\nГуково\nЗверево\nРостовская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-05T23:23:57+00:00",
-    "expires_at": "2026-10-06T00:23:57+00:00",
+    "updated_at": "2026-10-06T00:24:29+00:00",
+    "expires_at": "2026-10-06T01:24:29+00:00",
     "count": null,
     "count_approx": false
   },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Калуга\nКалужская область\nЕще фиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-06T00:14:34+00:00",
-    "expires_at": "2026-10-06T01:14:34+00:00",
+    "text": "Кировский район\nЛюдиновский район\nЖиздринский район\nКалужская область\nФиксации групп БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-06T00:29:52+00:00",
+    "expires_at": "2026-10-06T01:29:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Бронницы \nМосковская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-06T00:29:31+00:00",
+    "expires_at": "2026-10-06T01:29:31+00:00",
     "count": null,
     "count_approx": false
   }
