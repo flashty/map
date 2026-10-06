@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Погар и район \nБрянская область \nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-06T04:30:16+00:00",
-    "expires_at": "2026-10-06T05:30:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -26,16 +16,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-06T04:39:08+00:00",
     "expires_at": "2026-10-06T05:39:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Трассы \nФащевка - Антрацит- Красный Луч\nТревога по БПЛА Хорнет. Соблюдаем меры безопасности \n\nЛНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-06T04:29:39+00:00",
-    "expires_at": "2026-10-06T05:29:39+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,13 +29,23 @@
     "count": null,
     "count_approx": false
   },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Дубенский район \nТульская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-06T05:25:14+00:00",
+    "expires_at": "2026-10-06T06:25:14+00:00",
+    "count": null,
+    "count_approx": false
+  },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "Московская область \nТревога по БПЛА сохраняется \nПринять меры безопасности",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-06T05:07:40+00:00",
-    "expires_at": "2026-10-06T06:07:40+00:00",
+    "text": "ГО Шатура \nМосковская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-06T05:29:09+00:00",
+    "expires_at": "2026-10-06T06:29:09+00:00",
     "count": null,
     "count_approx": false
   }
