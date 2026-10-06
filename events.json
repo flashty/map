@@ -1,71 +1,5 @@
 [
   {
-    "id": "radarrussiia_97608",
-    "channel": "radarrussiia",
-    "date": "2026-10-05T13:29:34+00:00",
-    "text": "Ставропольский край\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_137101",
-    "channel": "kupolrussia",
-    "date": "2026-10-05T13:29:40+00:00",
-    "text": "Красноармейск\n\nСелидово\nДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_245089",
-    "channel": "LPRalarm",
-    "date": "2026-10-05T13:29:43+00:00",
-    "text": "Курск \nМеры безопасности",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_137102",
-    "channel": "kupolrussia",
-    "date": "2026-10-05T13:29:52+00:00",
-    "text": "Курск \nМеры безопасности",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_88384",
-    "channel": "locatorru",
-    "date": "2026-10-05T13:33:34+00:00",
-    "text": "От Макеево в сторону Рыльска БПЛА, Курская область. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_245090",
-    "channel": "LPRalarm",
-    "date": "2026-10-05T13:33:44+00:00",
-    "text": "Макеево \nРыльск и близлежащие \nКурская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_137103_Макеево",
     "channel": "kupolrussia",
     "date": "2026-10-05T13:34:01+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Липецкая область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_245503",
+    "channel": "LPRalarm",
+    "date": "2026-10-06T07:33:03+00:00",
+    "text": "Курская область и близлежащие \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137441",
+    "channel": "kupolrussia",
+    "date": "2026-10-06T07:33:22+00:00",
+    "text": "Курская область и близлежащие\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245504",
+    "channel": "LPRalarm",
+    "date": "2026-10-06T07:36:02+00:00",
+    "text": "Орловская область \nАвиационно ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137442",
+    "channel": "kupolrussia",
+    "date": "2026-10-06T07:36:18+00:00",
+    "text": "Орловская область\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245505_Валуйский",
+    "channel": "LPRalarm",
+    "date": "2026-10-06T07:43:52+00:00",
+    "text": "Валуйский район приграничье \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": null,
+    "lat": 53.1481885,
+    "lon": 36.3185713
+  },
+  {
+    "id": "kupolrussia_137443_Валуйский",
+    "channel": "kupolrussia",
+    "date": "2026-10-06T07:44:16+00:00",
+    "text": "Валуйский район приграничье \nБелгородская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": "Белгородская область",
+    "lat": 50.1632256,
+    "lon": 37.9638901
   }
 ]
