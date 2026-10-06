@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_137229",
-    "channel": "kupolrussia",
-    "date": "2026-10-05T19:14:13+00:00",
-    "text": "1-ая Моква и далее в сторону Курска\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_137230",
-    "channel": "kupolrussia",
-    "date": "2026-10-05T19:14:23+00:00",
-    "text": "Спартак, Донецк и близлежащие \nДНР\nС > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_245222",
-    "channel": "LPRalarm",
-    "date": "2026-10-05T19:16:00+00:00",
-    "text": "Север, северо-запад\nРеспублика Крым\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_137231",
-    "channel": "kupolrussia",
-    "date": "2026-10-05T19:16:26+00:00",
-    "text": "Север, северо-запад\nРеспублика Крым\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_245223",
     "channel": "LPRalarm",
     "date": "2026-10-05T19:16:50+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Калужская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_96432",
+    "channel": "vrv_radar",
+    "date": "2026-10-06T15:32:02+00:00",
+    "text": "Ростовская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_97952",
+    "channel": "radarrussiia",
+    "date": "2026-10-06T15:34:09+00:00",
+    "text": "Ростовская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245607_Рыльский",
+    "channel": "LPRalarm",
+    "date": "2026-10-06T15:44:18+00:00",
+    "text": "Крупец - внимание по БПЛА разведке.\nВнимание по возможной атаки ФПВ.\n\nРыльский район \nКурская область",
+    "type": "drone",
+    "location_name": "Рыльский",
+    "region": "Курская область",
+    "lat": 51.5713767,
+    "lon": 34.624021
+  },
+  {
+    "id": "kupolrussia_137542_Рыльский",
+    "channel": "kupolrussia",
+    "date": "2026-10-06T15:44:33+00:00",
+    "text": "Крупец - внимание по БПЛА разведке.\nВнимание по возможной атаки ФПВ.\n\nРыльский район \nКурская область",
+    "type": "drone",
+    "location_name": "Рыльский",
+    "region": "Курская область",
+    "lat": 51.5713767,
+    "lon": 34.624021
   }
 ]
