@@ -1,14 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ сохраняется, ещё фиксации \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-06T11:40:42+00:00",
-    "expires_at": "2026-10-06T12:40:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
@@ -36,6 +26,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-06T12:09:19+00:00",
     "expires_at": "2026-10-06T13:09:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Мелитополь и близлежащие \nОпасность по БПЛА \n\nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-06T12:44:16+00:00",
+    "expires_at": "2026-10-06T13:44:16+00:00",
     "count": null,
     "count_approx": false
   }
