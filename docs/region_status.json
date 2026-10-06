@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "missile",
-    "text": "Филия, Богатырь, Угледар, Комар, Великая Новосёлка и близлежащие ДНР \n\nГуляйполе, Васильевка, Степногорск, Орехов и близлежащие Запорожская область РФ \n\nАвиационная ракетная бомбовая опасность по УАБ.",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-06T14:00:00+00:00",
-    "expires_at": "2026-10-06T15:00:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
@@ -56,6 +46,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-10-06T14:32:52+00:00",
     "expires_at": "2026-10-06T15:32:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калужская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-06T14:56:23+00:00",
+    "expires_at": "2026-10-06T15:56:23+00:00",
     "count": null,
     "count_approx": false
   }
