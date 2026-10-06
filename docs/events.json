@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_96098",
-    "channel": "vrv_radar",
-    "date": "2026-10-05T21:40:56+00:00",
-    "text": "ГО Зарайск \nМосковская область \nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_97701",
-    "channel": "radarrussiia",
-    "date": "2026-10-05T21:41:17+00:00",
-    "text": "ГО Наро-Фоминск \nГО Можайск\nГО Коломна \nГО Зарайск \nМосковская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_96099",
-    "channel": "vrv_radar",
-    "date": "2026-10-05T21:41:41+00:00",
-    "text": "ГО Кашира \nМосковская область \nФиксация от 3 БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_97702",
-    "channel": "radarrussiia",
-    "date": "2026-10-05T21:42:00+00:00",
-    "text": "Тульская область\nРязанская область \nМосковская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "missile",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radar_plus_bpla_14875",
     "channel": "radar_plus_bpla",
     "date": "2026-10-05T21:42:20+00:00",
@@ -21998,5 +21954,49 @@
     "region": null,
     "lat": 48.7525209,
     "lon": 44.538852
+  },
+  {
+    "id": "vrv_radar_96486_Чертковский",
+    "channel": "vrv_radar",
+    "date": "2026-10-06T19:58:15+00:00",
+    "text": "Чертковский район \nМиллеровский район \nРостовская область \nФиксация группы БПЛА",
+    "type": "drone",
+    "location_name": "Чертковский",
+    "region": "Ростовская область",
+    "lat": 49.4049606,
+    "lon": 40.6115668
+  },
+  {
+    "id": "vrv_radar_96486_Миллеровский",
+    "channel": "vrv_radar",
+    "date": "2026-10-06T19:58:15+00:00",
+    "text": "Чертковский район \nМиллеровский район \nРостовская область \nФиксация группы БПЛА",
+    "type": "drone",
+    "location_name": "Миллеровский",
+    "region": "Ростовская область",
+    "lat": 49.0249872,
+    "lon": 40.2651861
+  },
+  {
+    "id": "LPRalarm_245764",
+    "channel": "LPRalarm",
+    "date": "2026-10-06T19:59:44+00:00",
+    "text": "Херсонская область РФ \nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137681",
+    "channel": "kupolrussia",
+    "date": "2026-10-06T20:00:00+00:00",
+    "text": "Херсонская область РФ\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
   }
 ]
