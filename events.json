@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_245241_Брянка",
-    "channel": "LPRalarm",
-    "date": "2026-10-05T19:35:32+00:00",
-    "text": "Стаханов, Брянка, Первомайск и далее в направлении Луганск тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Брянка",
-    "region": null,
-    "lat": 59.107403,
-    "lon": 93.47525
-  },
-  {
-    "id": "kupolrussia_137249",
-    "channel": "kupolrussia",
-    "date": "2026-10-05T19:35:33+00:00",
-    "text": "Луганск \nЛНР\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_137250_Стаханов",
-    "channel": "kupolrussia",
-    "date": "2026-10-05T19:35:39+00:00",
-    "text": "Стаханов, Брянка, Первомайск и далее в направлении Луганск тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Стаханов",
-    "region": null,
-    "lat": 55.3926303,
-    "lon": 36.7659751
-  },
-  {
-    "id": "kupolrussia_137250_Брянка",
-    "channel": "kupolrussia",
-    "date": "2026-10-05T19:35:39+00:00",
-    "text": "Стаханов, Брянка, Первомайск и далее в направлении Луганск тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Брянка",
-    "region": null,
-    "lat": 59.107403,
-    "lon": 93.47525
-  },
-  {
-    "id": "LPRalarm_245242",
-    "channel": "LPRalarm",
-    "date": "2026-10-05T19:36:11+00:00",
-    "text": "Обоянский район, Солнцевский район, Курский район и далее на Орловскую область тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловскую область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_137251",
-    "channel": "kupolrussia",
-    "date": "2026-10-05T19:36:18+00:00",
-    "text": "Обоянский район, Солнцевский район, Курский район и далее на Орловскую область тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловскую область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_96011",
-    "channel": "vrv_radar",
-    "date": "2026-10-05T19:36:43+00:00",
-    "text": "Тульская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_245243_Краснодонский",
-    "channel": "LPRalarm",
-    "date": "2026-10-05T19:36:52+00:00",
-    "text": "РАКЕТНАЯ ОПАСНОСТЬ\nВ границах муниципальных округов: Краснодонский, Лутугинский, Славяносербский, и городов Луганск, Брянка, Кировск, Стаханов, Первомайск\n\nРСЧС 22:32",
-    "type": "missile",
-    "location_name": "Краснодонский",
-    "region": null,
-    "lat": 49.1861,
-    "lon": 44.075279
-  },
-  {
     "id": "LPRalarm_245243_Луганск",
     "channel": "LPRalarm",
     "date": "2026-10-05T19:36:52+00:00",
@@ -21996,6 +21908,94 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245621",
+    "channel": "LPRalarm",
+    "date": "2026-10-06T16:19:12+00:00",
+    "text": "От Евпатории в направлении Заозёрное \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137554",
+    "channel": "kupolrussia",
+    "date": "2026-10-06T16:19:37+00:00",
+    "text": "От Заозёрного в направлении Евпатории \nОпасность по БПЛА \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245622",
+    "channel": "LPRalarm",
+    "date": "2026-10-06T16:25:34+00:00",
+    "text": "Брянская область \nОпасность по БПЛА сохраняется \nВ том числе и реактивным",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137555",
+    "channel": "kupolrussia",
+    "date": "2026-10-06T16:25:43+00:00",
+    "text": "Брянская область \nОпасность по БПЛА сохраняется \nВ том числе и реактивным",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245623",
+    "channel": "LPRalarm",
+    "date": "2026-10-06T16:27:32+00:00",
+    "text": "Каланчак и близлежащие и далее на АПП Армянск, Армянск ещё фиксации БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137556",
+    "channel": "kupolrussia",
+    "date": "2026-10-06T16:28:17+00:00",
+    "text": "Каланчак и близлежащие и далее на АПП Армянск, Армянск ещё фиксации БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245624",
+    "channel": "LPRalarm",
+    "date": "2026-10-06T16:30:44+00:00",
+    "text": "Князе-Григорьевка, Каиры, Каховка и ближайшие опасность по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137557",
+    "channel": "kupolrussia",
+    "date": "2026-10-06T16:31:12+00:00",
+    "text": "Князе-Григорьевка, Каиры, Каховка и ближайшие \nХерсонская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
     "lat": null,
     "lon": null
   }
