@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Темкинский район \nВяземский район \nСмоленская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-06T04:15:18+00:00",
-    "expires_at": "2026-10-06T05:15:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -56,6 +46,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-06T04:48:46+00:00",
     "expires_at": "2026-10-06T05:48:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Московская область \nТревога по БПЛА сохраняется \nПринять меры безопасности",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-06T05:07:40+00:00",
+    "expires_at": "2026-10-06T06:07:40+00:00",
     "count": null,
     "count_approx": false
   }
