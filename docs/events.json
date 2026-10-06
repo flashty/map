@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_245031",
-    "channel": "LPRalarm",
-    "date": "2026-10-05T10:27:56+00:00",
-    "text": "Багерово от Азовского моря и далее в направлении Керчь тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_245032",
-    "channel": "LPRalarm",
-    "date": "2026-10-05T10:29:08+00:00",
-    "text": "Керченский полуостров \nКерчь \nКрымский мост\nТаманский полуостров\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_137051_Керчь",
-    "channel": "kupolrussia",
-    "date": "2026-10-05T10:30:53+00:00",
-    "text": "Керченский полуостров \nКерчь \nКрымский мост\nТаманский полуостров\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Керчь",
-    "region": null,
-    "lat": 55.9354669,
-    "lon": 87.3751001
-  },
-  {
-    "id": "LPRalarm_245033_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-10-05T10:32:03+00:00",
-    "text": "Белгородский район опасность по БПЛА повторно",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
     "id": "kupolrussia_137052_Белгородский",
     "channel": "kupolrussia",
     "date": "2026-10-05T10:32:08+00:00",
@@ -21996,6 +21952,50 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_97908",
+    "channel": "radarrussiia",
+    "date": "2026-10-06T04:46:30+00:00",
+    "text": "Тула \nТульская область \nСбитие БПЛА \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245460",
+    "channel": "LPRalarm",
+    "date": "2026-10-06T04:48:46+00:00",
+    "text": "Новогродовка, Димитров и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245461",
+    "channel": "LPRalarm",
+    "date": "2026-10-06T04:49:57+00:00",
+    "text": "Гуляйполе РСЗО \nЗапорожская область РФ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_96373",
+    "channel": "vrv_radar",
+    "date": "2026-10-06T04:57:53+00:00",
+    "text": "АО Троицк\nМосква\nПродолжается работа ПВО по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
