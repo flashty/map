@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Луганск ЛНР, тревога по БПЛА и далее на Ростовскую область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-06T11:09:57+00:00",
-    "expires_at": "2026-10-06T12:09:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -76,6 +66,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-06T11:55:34+00:00",
     "expires_at": "2026-10-06T12:55:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Новокиевка в направлении Каланчак, вдоль канала фиксация БПЛА Дартс \n\nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-06T12:09:19+00:00",
+    "expires_at": "2026-10-06T13:09:19+00:00",
     "count": null,
     "count_approx": false
   }
