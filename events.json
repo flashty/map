@@ -1,27 +1,5 @@
 [
   {
-    "id": "kupolrussia_137496",
-    "channel": "kupolrussia",
-    "date": "2026-10-06T11:10:16+00:00",
-    "text": "Луганск ЛНР\nи далее на Ростовскую область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_245560",
-    "channel": "LPRalarm",
-    "date": "2026-10-06T11:11:13+00:00",
-    "text": "Пантелеймоновка, Макеевка и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_137497",
     "channel": "kupolrussia",
     "date": "2026-10-06T11:11:35+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Курская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_246070_Дебальцево",
+    "channel": "LPRalarm",
+    "date": "2026-10-07T16:37:12+00:00",
+    "text": "Светлодарск, Дебальцево, Алчевск и близлежащие \nОпасность по БПЛА \nЛДНР",
+    "type": "drone",
+    "location_name": "Дебальцево",
+    "region": null,
+    "lat": 47.3190637,
+    "lon": 39.6366067
+  },
+  {
+    "id": "kupolrussia_137939_Дебальцево",
+    "channel": "kupolrussia",
+    "date": "2026-10-07T16:37:33+00:00",
+    "text": "Светлодарск, Дебальцево, Алчевск и близлежащие \nЛДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Дебальцево",
+    "region": null,
+    "lat": 47.3190637,
+    "lon": 39.6366067
   }
 ]
