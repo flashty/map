@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Трасса Приморск с северо-запада тревога по БПЛА \nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-07T12:45:19+00:00",
-    "expires_at": "2026-10-07T13:45:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "псковск": {
     "display_name": "Псковская область",
     "type": "drone",
@@ -26,26 +16,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-07T12:50:17+00:00",
     "expires_at": "2026-10-07T13:50:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "новгородск": {
-    "display_name": "Новгородская область",
-    "type": "drone",
-    "text": "Поддорский район\nНовгородская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-07T12:44:06+00:00",
-    "expires_at": "2026-10-07T13:44:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовской области",
-    "type": "drone",
-    "text": "Южная часть Ростовской области \nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-07T12:44:28+00:00",
-    "expires_at": "2026-10-07T13:44:28+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +56,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-07T12:58:06+00:00",
     "expires_at": "2026-10-07T13:58:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Новоайдар и далее в направлении Счастье опасность по БПЛА \nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-07T13:34:32+00:00",
+    "expires_at": "2026-10-07T14:34:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Воронежская область \nВнимание по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-07T13:41:43+00:00",
+    "expires_at": "2026-10-07T14:41:43+00:00",
     "count": null,
     "count_approx": false
   }
