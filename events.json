@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_245433_Шарапово",
-    "channel": "LPRalarm",
-    "date": "2026-10-06T00:40:14+00:00",
-    "text": "Шарапово\nНовомосковский АО, Серпухов\nМосковская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": "Шарапово",
-    "region": "Московская область",
-    "lat": 55.6563127,
-    "lon": 36.7413374
-  },
-  {
-    "id": "LPRalarm_245433_Серпухов",
-    "channel": "LPRalarm",
-    "date": "2026-10-06T00:40:14+00:00",
-    "text": "Шарапово\nНовомосковский АО, Серпухов\nМосковская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": "Серпухов",
-    "region": "Московская область",
-    "lat": 54.9155247,
-    "lon": 37.4195533
-  },
-  {
-    "id": "kupolrussia_137387_Шарапово",
-    "channel": "kupolrussia",
-    "date": "2026-10-06T00:40:44+00:00",
-    "text": "Шарапово\nНовомосковский АО, Серпухов\nМосковская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": "Шарапово",
-    "region": "Московская область",
-    "lat": 55.6563127,
-    "lon": 36.7413374
-  },
-  {
-    "id": "kupolrussia_137387_Серпухов",
-    "channel": "kupolrussia",
-    "date": "2026-10-06T00:40:44+00:00",
-    "text": "Шарапово\nНовомосковский АО, Серпухов\nМосковская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": "Серпухов",
-    "region": "Московская область",
-    "lat": 54.9155247,
-    "lon": 37.4195533
-  },
-  {
-    "id": "vrv_radar_96302",
-    "channel": "vrv_radar",
-    "date": "2026-10-06T00:41:11+00:00",
-    "text": "ГО Бронницы \nМосковская область \nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_137388_Чехов",
-    "channel": "kupolrussia",
-    "date": "2026-10-06T00:42:25+00:00",
-    "text": "Чехов\nМосковская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": "Чехов",
-    "region": "Московская область",
-    "lat": 55.1426603,
-    "lon": 37.4545328
-  },
-  {
-    "id": "LPRalarm_245434_Чехов",
-    "channel": "LPRalarm",
-    "date": "2026-10-06T00:42:33+00:00",
-    "text": "Чехов\nМосковская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": "Чехов",
-    "region": "Московская область",
-    "lat": 55.1426603,
-    "lon": 37.4545328
-  },
-  {
-    "id": "vrv_radar_96303_Дмитров",
-    "channel": "vrv_radar",
-    "date": "2026-10-06T00:43:06+00:00",
-    "text": "ГО Дмитров\nМосковская область\nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Дмитров",
-    "region": "Московская область",
-    "lat": 56.3450695,
-    "lon": 37.5200723
-  },
-  {
     "id": "radarrussiia_97876",
     "channel": "radarrussiia",
     "date": "2026-10-06T00:43:11+00:00",
@@ -21996,6 +21908,94 @@
     "type": "unknown",
     "location_name": null,
     "region": "Владимирская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_88655",
+    "channel": "locatorru",
+    "date": "2026-10-07T04:58:16+00:00",
+    "text": "Ульяновская область, Кировская область, Самарская область, Оренбургская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245880",
+    "channel": "LPRalarm",
+    "date": "2026-10-07T04:58:49+00:00",
+    "text": "РАКЕТНАЯ ОПАСНОСТЬ в Валуйском МО",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137777",
+    "channel": "kupolrussia",
+    "date": "2026-10-07T04:59:22+00:00",
+    "text": "РАКЕТНАЯ ОПАСНОСТЬ в Валуйском МО\nБелгородская область",
+    "type": "missile",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245881_Валуйский",
+    "channel": "LPRalarm",
+    "date": "2026-10-07T04:59:59+00:00",
+    "text": "Хохлово \nВалуйский район укрытие \nРакетная тревога",
+    "type": "missile",
+    "location_name": "Валуйский",
+    "region": null,
+    "lat": 53.1481885,
+    "lon": 36.3185713
+  },
+  {
+    "id": "vrv_radar_96623",
+    "channel": "vrv_radar",
+    "date": "2026-10-07T05:00:06+00:00",
+    "text": "Самарская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137778",
+    "channel": "kupolrussia",
+    "date": "2026-10-07T05:00:34+00:00",
+    "text": "Ульяновская область\nСамарская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137779_Валуйский",
+    "channel": "kupolrussia",
+    "date": "2026-10-07T05:00:40+00:00",
+    "text": "Хохлово \nВалуйский район укрытие \nРакетная тревога",
+    "type": "missile",
+    "location_name": "Валуйский",
+    "region": null,
+    "lat": 53.1481885,
+    "lon": 36.3185713
+  },
+  {
+    "id": "LPRalarm_245882",
+    "channel": "LPRalarm",
+    "date": "2026-10-07T05:00:47+00:00",
+    "text": "Ульяновская область\nСамарская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Ульяновская область",
     "lat": null,
     "lon": null
   }

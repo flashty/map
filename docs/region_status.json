@@ -9,23 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Мелитополь - Бердянск трасса Р-280 опасность по БПЛА. Высокая активность \nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-07T03:58:42+00:00",
-    "expires_at": "2026-10-07T04:58:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Селидово и близлежащие на юг\nОпасность по БПЛА \nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-07T03:57:11+00:00",
-    "expires_at": "2026-10-07T04:57:11+00:00",
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "missile",
+    "text": "РАКЕТНАЯ ОПАСНОСТЬ в Валуйском МО\nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-07T04:59:22+00:00",
+    "expires_at": "2026-10-07T05:59:22+00:00",
     "count": null,
     "count_approx": false
   }
