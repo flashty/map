@@ -1,31 +1,31 @@
 {
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Феодосия и ближайшие, опасность по БПЛА\nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-07T02:54:35+00:00",
-    "expires_at": "2026-10-07T03:54:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "пермск": {
     "display_name": "Пермский край",
     "type": "drone",
-    "text": "Пермский район\nПермский край\nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-07T03:41:12+00:00",
-    "expires_at": "2026-10-07T04:41:12+00:00",
+    "text": "Закамск, Култаево, г.Пермь, Пермский край - опасность по БПЛА от Прикамье, Рождественское.\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-07T03:57:51+00:00",
+    "expires_at": "2026-10-07T04:57:51+00:00",
     "count": null,
     "count_approx": false
   },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Светлодолинск и близлежащие\nЗапорожская область РФ\nТревога по БПЛА\nИ далее на восток",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-07T03:34:08+00:00",
-    "expires_at": "2026-10-07T04:34:08+00:00",
+    "text": "Мелитополь - Бердянск трасса Р-280 опасность по БПЛА. Высокая активность \nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-07T03:58:42+00:00",
+    "expires_at": "2026-10-07T04:58:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Селидово и близлежащие на юг\nОпасность по БПЛА \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-07T03:57:11+00:00",
+    "expires_at": "2026-10-07T04:57:11+00:00",
     "count": null,
     "count_approx": false
   }
