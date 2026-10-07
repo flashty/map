@@ -1,21 +1,11 @@
 {
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Судак и ближайшие, опасность по БПЛА\nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-07T01:09:12+00:00",
-    "expires_at": "2026-10-07T02:09:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "самарск": {
     "display_name": "Самарская область",
     "type": "alert",
-    "text": "Новокуйбышевск\nСамарская область\nМеры безопасности сохраняем!",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-07T02:00:02+00:00",
-    "expires_at": "2026-10-07T03:00:02+00:00",
+    "text": "Новокуйбышевск\nСамарская область\nМеры безопасности сохраняем\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-07T02:06:13+00:00",
+    "expires_at": "2026-10-07T03:06:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +66,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-07T02:00:41+00:00",
     "expires_at": "2026-10-07T03:00:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пермск": {
+    "display_name": "Пермский край",
+    "type": "drone",
+    "text": "Пермский край\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-07T02:10:03+00:00",
+    "expires_at": "2026-10-07T03:10:03+00:00",
     "count": null,
     "count_approx": false
   }
