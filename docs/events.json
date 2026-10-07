@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_245558_Джанкойский",
-    "channel": "LPRalarm",
-    "date": "2026-10-06T11:08:40+00:00",
-    "text": "Новоалексеевка, Геническ, Чонгар, север Джанкойский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Джанкойский",
-    "region": null,
-    "lat": 55.5394245,
-    "lon": 37.5744389
-  },
-  {
-    "id": "LPRalarm_245558_Новоалексеевка",
-    "channel": "LPRalarm",
-    "date": "2026-10-06T11:08:40+00:00",
-    "text": "Новоалексеевка, Геническ, Чонгар, север Джанкойский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Новоалексеевка",
-    "region": null,
-    "lat": 54.288979,
-    "lon": 55.593761
-  },
-  {
-    "id": "LPRalarm_245558_Чонгар",
-    "channel": "LPRalarm",
-    "date": "2026-10-06T11:08:40+00:00",
-    "text": "Новоалексеевка, Геническ, Чонгар, север Джанкойский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Чонгар",
-    "region": null,
-    "lat": 58.3597623,
-    "lon": 60.0444713
-  },
-  {
-    "id": "kupolrussia_137495_Джанкойский",
-    "channel": "kupolrussia",
-    "date": "2026-10-06T11:08:45+00:00",
-    "text": "Новоалексеевка, Геническ, Чонгар, север Джанкойский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Джанкойский",
-    "region": null,
-    "lat": 55.5394245,
-    "lon": 37.5744389
-  },
-  {
-    "id": "kupolrussia_137495_Новоалексеевка",
-    "channel": "kupolrussia",
-    "date": "2026-10-06T11:08:45+00:00",
-    "text": "Новоалексеевка, Геническ, Чонгар, север Джанкойский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Новоалексеевка",
-    "region": null,
-    "lat": 54.288979,
-    "lon": 55.593761
-  },
-  {
-    "id": "kupolrussia_137495_Чонгар",
-    "channel": "kupolrussia",
-    "date": "2026-10-06T11:08:45+00:00",
-    "text": "Новоалексеевка, Геническ, Чонгар, север Джанкойский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Чонгар",
-    "region": null,
-    "lat": 58.3597623,
-    "lon": 60.0444713
-  },
-  {
     "id": "LPRalarm_245559",
     "channel": "LPRalarm",
     "date": "2026-10-06T11:09:57+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_246067",
+    "channel": "LPRalarm",
+    "date": "2026-10-07T16:10:10+00:00",
+    "text": "Курская область \nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137936",
+    "channel": "kupolrussia",
+    "date": "2026-10-07T16:10:33+00:00",
+    "text": "Курская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_88681",
+    "channel": "locatorru",
+    "date": "2026-10-07T16:11:13+00:00",
+    "text": "Тульская область, Липецкая область - отбой внимания по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_246068",
+    "channel": "LPRalarm",
+    "date": "2026-10-07T16:12:21+00:00",
+    "text": "Пуски БПЛА из Одесской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Одесской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137937",
+    "channel": "kupolrussia",
+    "date": "2026-10-07T16:12:49+00:00",
+    "text": "Пуски БПЛА из Одесской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Одесской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_246069",
+    "channel": "LPRalarm",
+    "date": "2026-10-07T16:14:38+00:00",
+    "text": "Курская область: внимание! Отбой ракетной опасности.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }
