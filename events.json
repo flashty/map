@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_137398",
-    "channel": "kupolrussia",
-    "date": "2026-10-06T03:03:32+00:00",
-    "text": "Южная часть Ростовской области\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_96354_Людиновский",
-    "channel": "vrv_radar",
-    "date": "2026-10-06T03:03:38+00:00",
-    "text": "Людиновский район \nКалужская область \nФиксация групп БПЛА",
-    "type": "drone",
-    "location_name": "Людиновский",
-    "region": "Калужская область",
-    "lat": 53.8940803,
-    "lon": 34.4615879
-  },
-  {
-    "id": "kupolrussia_137399",
-    "channel": "kupolrussia",
-    "date": "2026-10-06T03:03:44+00:00",
-    "text": "Краснодарский край\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_96355",
-    "channel": "vrv_radar",
-    "date": "2026-10-06T03:07:36+00:00",
-    "text": "Воронежская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_245447",
-    "channel": "LPRalarm",
-    "date": "2026-10-06T03:09:55+00:00",
-    "text": "Воронежская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_137400",
-    "channel": "kupolrussia",
-    "date": "2026-10-06T03:23:35+00:00",
-    "text": "Калужская область, повторно\nВНИМАНИЕ!!\n\\ > ОБЪЯВЛЕН\nг © \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_245448",
     "channel": "LPRalarm",
     "date": "2026-10-06T03:24:33+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245927",
+    "channel": "LPRalarm",
+    "date": "2026-10-07T07:55:26+00:00",
+    "text": "Луганск ЛНР тревога по БПЛА и далее в направлении Ростовской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245928",
+    "channel": "LPRalarm",
+    "date": "2026-10-07T07:55:37+00:00",
+    "text": "Амвросиевка ДНР и далее на Матвеев Курган Ростовская область опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137817",
+    "channel": "kupolrussia",
+    "date": "2026-10-07T07:55:43+00:00",
+    "text": "Луганск ЛНР\nи далее в направлении Ростовской области",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137818",
+    "channel": "kupolrussia",
+    "date": "2026-10-07T07:56:05+00:00",
+    "text": "Амвросиевка ДНР\nи далее на Матвеев Курган Ростовская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245929",
+    "channel": "LPRalarm",
+    "date": "2026-10-07T07:58:54+00:00",
+    "text": "Дорога \nЛуганск - Беловодск опасность по БПЛА Хорнет \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137819",
+    "channel": "kupolrussia",
+    "date": "2026-10-07T07:59:03+00:00",
+    "text": "Дорога \nЛуганск - Беловодск опасность по БПЛА Хорнет \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
