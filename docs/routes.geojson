@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-07T10:13:44+00:00",
+        "last_updated": "2026-10-07T10:42:37+00:00",
+        "path_labels": [
+          "Жуковка (Брянская область)",
+          "Ершичский (Смоленская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.7320863,
+            53.5329608
+          ],
+          [
+            32.6901656,
+            53.6046499
+          ]
+        ]
+      }
+    }
+  ]
 }
