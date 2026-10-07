@@ -12,10 +12,10 @@
   "самарск": {
     "display_name": "Самарская область",
     "type": "drone",
-    "text": "Новокуйбышевск\nСамарская область \nФиксации БПЛА в вашем направлении\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "text": "Нефтегорский район\nКинельский район\nБезенчукский район\nКошкинский район\nЧапаевск\nСамарская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-07T01:19:10+00:00",
-    "expires_at": "2026-10-07T02:19:10+00:00",
+    "updated_at": "2026-10-07T01:44:31+00:00",
+    "expires_at": "2026-10-07T02:44:31+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +66,36 @@
     "channel": "locatorru",
     "updated_at": "2026-10-07T00:56:04+00:00",
     "expires_at": "2026-10-07T01:56:04+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "саратовск": {
+    "display_name": "Саратовская область",
+    "type": "drone",
+    "text": "Красноармейский район\nСаратовская область \nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-07T01:31:16+00:00",
+    "expires_at": "2026-10-07T02:31:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "missile",
+    "text": "ЛДНР\nЗапорожская область РФ\nАвиационная ракетная бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-07T01:38:15+00:00",
+    "expires_at": "2026-10-07T02:38:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Орловская область, опасность по БПЛА от Курской области",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-07T01:44:48+00:00",
+    "expires_at": "2026-10-07T02:44:48+00:00",
     "count": null,
     "count_approx": false
   }
