@@ -5,6 +5,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-10-07T00:22:03+00:00",
+        "last_updated": "2026-10-07T01:14:18+00:00",
+        "path_labels": [
+          "Пестравский (Самарская область)",
+          "Большеглушицкий (Самарская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.8551832,
+            52.3918197
+          ],
+          [
+            50.5480933,
+            52.4445183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-10-07T00:29:01+00:00",
         "last_updated": "2026-10-07T00:29:01+00:00",
         "path_labels": [
