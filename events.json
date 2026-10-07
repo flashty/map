@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_245500_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-10-06T07:29:31+00:00",
-    "text": "Никольское Белгородский район и близлежащие \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "kupolrussia_137438_Белгородский",
-    "channel": "kupolrussia",
-    "date": "2026-10-06T07:29:54+00:00",
-    "text": "Никольское Белгородский район и близлежащие\nВНИМАНИЕ!!!\n< (> ОБЪЯВЛЕН\n_ ДА \"КРАСНЫЙ УРОВЕНЬ\"\n($) $) ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "LPRalarm_245501",
-    "channel": "LPRalarm",
-    "date": "2026-10-06T07:30:05+00:00",
-    "text": "Север Бердянска отмечается активность Бпла в рн Осипенко - Бердянское, Р-280\nПринять меры безопасности \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_137439",
-    "channel": "kupolrussia",
-    "date": "2026-10-06T07:30:26+00:00",
-    "text": "Север Бердянска отмечается активность Бпла в рн Осипенко - Бердянское, Р-280\nПринять меры безопасности \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_137440",
-    "channel": "kupolrussia",
-    "date": "2026-10-06T07:30:50+00:00",
-    "text": "Липецкая область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_245502",
-    "channel": "LPRalarm",
-    "date": "2026-10-06T07:30:53+00:00",
-    "text": "Липецкая область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_245503",
-    "channel": "LPRalarm",
-    "date": "2026-10-06T07:33:03+00:00",
-    "text": "Курская область и близлежащие \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_137441",
     "channel": "kupolrussia",
     "date": "2026-10-06T07:33:22+00:00",
@@ -21998,5 +21921,82 @@
     "region": "Тульская область",
     "lat": 53.2775444,
     "lon": 37.8607231
+  },
+  {
+    "id": "vrv_radar_96665_Тула",
+    "channel": "vrv_radar",
+    "date": "2026-10-07T11:49:35+00:00",
+    "text": "Тула\nТульская область\nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": "Тула",
+    "region": "Тульская область",
+    "lat": 54.1930321,
+    "lon": 37.61754
+  },
+  {
+    "id": "radarrussiia_98104_Тула",
+    "channel": "radarrussiia",
+    "date": "2026-10-07T11:49:47+00:00",
+    "text": "Тула\nТульская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": "Тула",
+    "region": "Тульская область",
+    "lat": 54.1930321,
+    "lon": 37.61754
+  },
+  {
+    "id": "LPRalarm_245996",
+    "channel": "LPRalarm",
+    "date": "2026-10-07T11:51:40+00:00",
+    "text": "Авдеевка ДНР БПЛА Лелека",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14921",
+    "channel": "radar_plus_bpla",
+    "date": "2026-10-07T11:52:06+00:00",
+    "text": "Тула - сбитие БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_137876",
+    "channel": "kupolrussia",
+    "date": "2026-10-07T11:52:07+00:00",
+    "text": "Авдеевка ДНР БПЛА Лелека",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245997",
+    "channel": "LPRalarm",
+    "date": "2026-10-07T11:56:00+00:00",
+    "text": "Спасибо огромное \n❤️❤️❤️\nhttps://pay.cloudtips.ru/p/f2a9c1d8",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_245998",
+    "channel": "LPRalarm",
+    "date": "2026-10-07T11:57:05+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ, ещё фиксации \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
   }
 ]
