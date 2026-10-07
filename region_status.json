@@ -9,36 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "орловск": {
-    "display_name": "Орловскую область",
-    "type": "drone",
-    "text": "Курская область, далее на Орловскую область, тревога по БПЛА сохраняется, высокая активность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-07T01:53:20+00:00",
-    "expires_at": "2026-10-07T02:53:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Курская область, далее на Орловскую область, тревога по БПЛА сохраняется, высокая активность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-07T01:53:20+00:00",
-    "expires_at": "2026-10-07T02:53:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Донецк и ближайшие, тревога по БПЛА сохраняется\nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-07T02:00:41+00:00",
-    "expires_at": "2026-10-07T03:00:41+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "пермск": {
     "display_name": "Пермский край",
     "type": "drone",
@@ -66,6 +36,16 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-10-07T02:21:26+00:00",
     "expires_at": "2026-10-07T03:21:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Феодосия и ближайшие, опасность по БПЛА\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-07T02:54:35+00:00",
+    "expires_at": "2026-10-07T03:54:35+00:00",
     "count": null,
     "count_approx": false
   }
