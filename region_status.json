@@ -52,30 +52,30 @@
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
-    "text": "Глинковский район\nСмоленская область\nФиксации 2 БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-07T11:20:20+00:00",
-    "expires_at": "2026-10-07T12:20:20+00:00",
-    "count": 2,
+    "text": "Ярцевский район\nСмоленская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-07T11:38:58+00:00",
+    "expires_at": "2026-10-07T12:38:58+00:00",
+    "count": null,
     "count_approx": false
   },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Барятинский район\nКалужская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-07T11:20:57+00:00",
-    "expires_at": "2026-10-07T12:20:57+00:00",
+    "text": "Смоленская область\nКалужская область\nТульская область\n\nТревога по реактивным БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-07T11:35:59+00:00",
+    "expires_at": "2026-10-07T12:35:59+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "07/10/2026 14:00 МСК.\n\nОпасность по БПЛА:\n\n🔻Брянская область;\n🔻Смоленская область;\n🔻Калужская область;\n🔻Курская область;\n🔻Орловская область;\n🔻Белгородская область;\n🔻Ростовская область;\n🔻Краснодарский край. \n\nВнимание по БПЛА:\n\n🔻Тульская область;\n🔻Липецкая область. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-07T11:00:19+00:00",
-    "expires_at": "2026-10-07T12:00:19+00:00",
+    "text": "Одоевский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-07T11:45:05+00:00",
+    "expires_at": "2026-10-07T12:45:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -111,11 +111,11 @@
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Сочи и близлежащие \nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-07T11:30:37+00:00",
-    "expires_at": "2026-10-07T12:30:37+00:00",
+    "type": "aviation",
+    "text": "Авиационная опасность \nКраснодарский край\n(рсчс)",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-07T11:34:46+00:00",
+    "expires_at": "2026-10-07T12:34:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +126,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-07T11:22:13+00:00",
     "expires_at": "2026-10-07T12:22:13+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожской области",
+    "type": "drone",
+    "text": "трасса Р-280 на территории Запорожской области РФ\n\nТревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-07T11:40:13+00:00",
+    "expires_at": "2026-10-07T12:40:13+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Бельский район\nТверская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-07T11:44:31+00:00",
+    "expires_at": "2026-10-07T12:44:31+00:00",
     "count": null,
     "count_approx": false
   }
