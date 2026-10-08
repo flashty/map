@@ -30,6 +30,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-10-08T11:35:37+00:00",
+        "last_updated": "2026-10-08T12:14:53+00:00",
+        "path_labels": [
+          "Центральный",
+          "Николаевка"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.3792021,
+            56.889669
+          ],
+          [
+            38.6394148,
+            56.5199581
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-10-08T11:36:28+00:00",
         "last_updated": "2026-10-08T11:58:32+00:00",
         "path_labels": [
@@ -107,6 +132,31 @@
           [
             37.5453056,
             55.4308841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-08T11:36:28+00:00",
+        "last_updated": "2026-10-08T12:14:53+00:00",
+        "path_labels": [
+          "Раменский (Московская область)",
+          "Красная Горка"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.2350653,
+            56.6567871
+          ],
+          [
+            35.9733083,
+            56.5190608
           ]
         ]
       }
