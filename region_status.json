@@ -2,10 +2,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Красногвардейское и близлежащие тревога по БПЛА\nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-08T00:15:06+00:00",
-    "expires_at": "2026-10-08T01:15:06+00:00",
+    "text": "Кача\nБельбек \nСевастополь и близлежащие \nОпасность по БПЛА с моря\nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-08T00:20:21+00:00",
+    "expires_at": "2026-10-08T01:20:21+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Мальчевская ещё фиксации БПЛА\nРостовская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-07T23:19:56+00:00",
-    "expires_at": "2026-10-08T00:19:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "оренбургск": {
     "display_name": "Оренбургская область",
     "type": "drone",
@@ -72,10 +62,30 @@
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Кузнецкий район\nПензенская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-08T00:13:58+00:00",
-    "expires_at": "2026-10-08T01:13:58+00:00",
+    "text": "Кузнецкий район\nПензенская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-08T00:16:18+00:00",
+    "expires_at": "2026-10-08T01:16:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Республика Татарстан\nРеспублика Башкортостан\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-08T00:16:44+00:00",
+    "expires_at": "2026-10-08T01:16:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "башкортост": {
+    "display_name": "Республика Башкортостан",
+    "type": "drone",
+    "text": "Республика Татарстан\nРеспублика Башкортостан\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-08T00:16:44+00:00",
+    "expires_at": "2026-10-08T01:16:44+00:00",
     "count": null,
     "count_approx": false
   }
