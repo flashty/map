@@ -1,104 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_14947_Кировский",
-    "channel": "radar_plus_bpla",
-    "date": "2026-10-08T11:12:40+00:00",
-    "text": "Кировский район\nСоветский район\nЦентральный район\n\nОмск. Приготовится к сбитиям БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": "Кировский",
-    "region": null,
-    "lat": 51.298489,
-    "lon": 36.685303
-  },
-  {
-    "id": "radar_plus_bpla_14947_Советский",
-    "channel": "radar_plus_bpla",
-    "date": "2026-10-08T11:12:40+00:00",
-    "text": "Кировский район\nСоветский район\nЦентральный район\n\nОмск. Приготовится к сбитиям БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": "Советский",
-    "region": null,
-    "lat": 52.931834,
-    "lon": 158.405383
-  },
-  {
-    "id": "radar_plus_bpla_14947_Центральный",
-    "channel": "radar_plus_bpla",
-    "date": "2026-10-08T11:12:40+00:00",
-    "text": "Кировский район\nСоветский район\nЦентральный район\n\nОмск. Приготовится к сбитиям БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": "Центральный",
-    "region": null,
-    "lat": 56.889669,
-    "lon": 37.3792021
-  },
-  {
-    "id": "LPRalarm_246550",
-    "channel": "LPRalarm",
-    "date": "2026-10-08T11:15:47+00:00",
-    "text": "Севастополь \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_246551",
-    "channel": "LPRalarm",
-    "date": "2026-10-08T11:16:02+00:00",
-    "text": "Бельбек и близлежащие \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_138343_Севастополь",
-    "channel": "kupolrussia",
-    "date": "2026-10-08T11:16:09+00:00",
-    "text": "Севастополь",
-    "type": "unknown",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
-    "id": "kupolrussia_138344",
-    "channel": "kupolrussia",
-    "date": "2026-10-08T11:16:19+00:00",
-    "text": "Бельбек и близлежащие\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_96986",
-    "channel": "vrv_radar",
-    "date": "2026-10-08T11:17:10+00:00",
-    "text": "Алексин \nТульская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_246552",
-    "channel": "LPRalarm",
-    "date": "2026-10-08T11:18:21+00:00",
-    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ сохраняется \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_138345",
     "channel": "kupolrussia",
     "date": "2026-10-08T11:18:27+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_138680",
+    "channel": "kupolrussia",
+    "date": "2026-10-09T04:34:03+00:00",
+    "text": "Калужская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_246929",
+    "channel": "LPRalarm",
+    "date": "2026-10-09T04:34:06+00:00",
+    "text": "Калужская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_97329",
+    "channel": "vrv_radar",
+    "date": "2026-10-09T04:34:42+00:00",
+    "text": "Краснодар \nКраснодарский край \nОтбой опасности по БПЛА \nНа территории края опасность сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_97330_Истра",
+    "channel": "vrv_radar",
+    "date": "2026-10-09T04:36:54+00:00",
+    "text": "ГО Истра\nМосковская область\nОтбой опасности по БПЛА \nОпасность на территории региона сохраняется",
+    "type": "all_clear",
+    "location_name": "Истра",
+    "region": "Московская область",
+    "lat": 55.9145993,
+    "lon": 36.8595482
+  },
+  {
+    "id": "LPRalarm_246930",
+    "channel": "LPRalarm",
+    "date": "2026-10-09T04:38:21+00:00",
+    "text": "Таманский полуостров \nТамань \nи близлежащие \nТревога по БПЛА \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_138681",
+    "channel": "kupolrussia",
+    "date": "2026-10-09T04:38:30+00:00",
+    "text": "Таманский полуостров \nТамань \nи близлежащие \nТревога по БПЛА \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_246931_Шебекинского",
+    "channel": "LPRalarm",
+    "date": "2026-10-09T04:39:47+00:00",
+    "text": "От Шебекинского района в направлении Белгородского и Корочанского \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Шебекинского",
+    "region": null,
+    "lat": 50.4048119,
+    "lon": 36.8808454
+  },
+  {
+    "id": "LPRalarm_246932",
+    "channel": "LPRalarm",
+    "date": "2026-10-09T04:40:14+00:00",
+    "text": "Керченский полуостров \nКерчь\nКрымский мост \nИ близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_14964",
+    "channel": "radar_plus_bpla",
+    "date": "2026-10-09T04:44:32+00:00",
+    "text": "Отбой опасности БПЛА по всем ранее объявленным регионам.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }

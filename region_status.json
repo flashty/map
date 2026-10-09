@@ -1,24 +1,4 @@
 {
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "От Голубицкой в направлении Темрюка\nОпасность по БПЛА \nКраснодарский край",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-09T04:16:28+00:00",
-    "expires_at": "2026-10-09T05:16:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "alert",
-    "text": "Курская область\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-09T03:35:35+00:00",
-    "expires_at": "2026-10-09T04:35:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -36,6 +16,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-09T04:26:39+00:00",
     "expires_at": "2026-10-09T05:26:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Таманский полуостров \nТамань \nи близлежащие \nТревога по БПЛА \nКраснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-09T04:38:30+00:00",
+    "expires_at": "2026-10-09T05:38:30+00:00",
     "count": null,
     "count_approx": false
   }
