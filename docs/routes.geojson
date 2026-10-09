@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-09T10:53:39+00:00",
+        "last_updated": "2026-10-09T11:12:14+00:00",
+        "path_labels": [
+          "Десногорский (Смоленская область)",
+          "Рославльский (Смоленская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.2818913,
+            54.1528403
+          ],
+          [
+            33.0399211,
+            54.0413396
+          ]
+        ]
+      }
+    }
+  ]
 }
