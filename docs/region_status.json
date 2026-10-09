@@ -9,24 +9,14 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Сухиничский район\nХвастовичский район\nКозельский район \nКалужская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-09T13:43:15+00:00",
-    "expires_at": "2026-10-09T14:43:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
-    "display_name": "Московской области",
+    "display_name": "Московская область",
     "type": "drone",
-    "text": "От 30 БПЛА в направлении Московской области.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-10-09T14:27:03+00:00",
-    "expires_at": "2026-10-09T15:27:03+00:00",
-    "count": 30,
+    "text": "Московская область \nОпасность по БПЛА и МВШ сохраняется",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-09T14:40:55+00:00",
+    "expires_at": "2026-10-09T15:40:55+00:00",
+    "count": null,
     "count_approx": false
   },
   "вологодск": {
@@ -71,11 +61,31 @@
   },
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка и близлежащие \nОпасность по БПЛА повторно, ещё фиксации \nДНР",
+    "type": "missile",
+    "text": "Димитров, Гродовка ДНР ракетная опасность",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-09T14:26:58+00:00",
-    "expires_at": "2026-10-09T15:26:58+00:00",
+    "updated_at": "2026-10-09T14:37:27+00:00",
+    "expires_at": "2026-10-09T15:37:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рыбновский район \nРязанская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-09T14:40:00+00:00",
+    "expires_at": "2026-10-09T15:40:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Хиславичский район \nСмоленская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-09T14:40:21+00:00",
+    "expires_at": "2026-10-09T15:40:21+00:00",
     "count": null,
     "count_approx": false
   }
