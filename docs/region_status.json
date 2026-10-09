@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Горловка и близлежащие \nОпасность по БПЛА \nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-09T04:20:57+00:00",
-    "expires_at": "2026-10-09T05:20:57+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА повторно, ещё фиксации \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-09T05:06:16+00:00",
+    "expires_at": "2026-10-09T06:06:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,6 +26,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-09T04:59:58+00:00",
     "expires_at": "2026-10-09T05:59:58+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Шебекино \nТревога по БПЛА Хорнет\nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-09T05:12:12+00:00",
+    "expires_at": "2026-10-09T06:12:12+00:00",
     "count": null,
     "count_approx": false
   }
