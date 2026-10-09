@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-09T13:24:14+00:00",
+        "last_updated": "2026-10-09T14:03:43+00:00",
+        "path_labels": [
+          "Дмитровский (Орловская область)",
+          "Знаменский (Орловская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.5664814,
+            52.6670934
+          ],
+          [
+            36.066136,
+            52.9974809
+          ]
+        ]
+      }
+    }
+  ]
 }
