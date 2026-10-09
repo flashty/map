@@ -19,43 +19,13 @@
     "count": null,
     "count_approx": false
   },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Глазуновский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-09T00:35:11+00:00",
-    "expires_at": "2026-10-09T01:35:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Казань и близлежащие\nРеспублика Татарстан\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-09T01:17:31+00:00",
-    "expires_at": "2026-10-09T02:17:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Сочи, Сириус, Адлер и близлежащие, Краснодарский край - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-09T00:44:48+00:00",
-    "expires_at": "2026-10-09T01:44:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовской области",
-    "type": "drone",
-    "text": "Над ЛНР продолжаются фиксации ударных БПЛА в сторону Ростовской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-09T00:41:42+00:00",
-    "expires_at": "2026-10-09T01:41:42+00:00",
+    "text": "Нижнекамск и близлежащие\nЕлабуга и близлежащие\nНабережные Челны и близлежащие\nРеспублика Татарстан\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-09T01:44:29+00:00",
+    "expires_at": "2026-10-09T02:44:29+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +56,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-09T01:10:45+00:00",
     "expires_at": "2026-10-09T02:10:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "-": {
+    "display_name": "Республика -",
+    "type": "drone",
+    "text": "Моргауши и близлежащие, Чувашская Республика - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-09T01:45:33+00:00",
+    "expires_at": "2026-10-09T02:45:33+00:00",
     "count": null,
     "count_approx": false
   }
