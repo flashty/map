@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_138297",
-    "channel": "kupolrussia",
-    "date": "2026-10-08T08:36:38+00:00",
-    "text": "Челябинская область\n3“ “\nжай ОТБОЙ\nл\\ь ОПАСНОСТИ ПО БПЛА\n2.",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Челябинская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_246500",
-    "channel": "LPRalarm",
-    "date": "2026-10-08T08:36:44+00:00",
-    "text": "Челябинская область\n3“ “\nжай ОТБОЙ\nл\\ь ОПАСНОСТИ ПО БПЛА\n2.",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Челябинская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_96982",
-    "channel": "vrv_radar",
-    "date": "2026-10-08T08:37:16+00:00",
-    "text": "Свердловская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Свердловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_88838",
-    "channel": "locatorru",
-    "date": "2026-10-08T08:37:41+00:00",
-    "text": "Свердловская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Свердловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_138298",
-    "channel": "kupolrussia",
-    "date": "2026-10-08T08:43:10+00:00",
-    "text": "Свердловская область\n3“ “\nжай ОТБОЙ\nл\\ь ОПАСНОСТИ ПО БПЛА\n2.",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Свердловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_246501",
     "channel": "LPRalarm",
     "date": "2026-10-08T08:43:13+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Воронежская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "locatorru_89086",
+    "channel": "locatorru",
+    "date": "2026-10-09T01:16:10+00:00",
+    "text": "Казань - опасность атаки БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_97292",
+    "channel": "vrv_radar",
+    "date": "2026-10-09T01:16:23+00:00",
+    "text": "Казань и близлежащие\nРеспублика Татарстан\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Татарстан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_97293_Калуга",
+    "channel": "vrv_radar",
+    "date": "2026-10-09T01:17:20+00:00",
+    "text": "Калуга\nКалужская область\nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": "Калуга",
+    "region": "Калужская область",
+    "lat": 54.5101087,
+    "lon": 36.2598115
+  },
+  {
+    "id": "radarrussiia_98563",
+    "channel": "radarrussiia",
+    "date": "2026-10-09T01:17:31+00:00",
+    "text": "Казань и близлежащие\nРеспублика Татарстан\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Татарстан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_98564_Калуга",
+    "channel": "radarrussiia",
+    "date": "2026-10-09T01:17:53+00:00",
+    "text": "Калуга\nКалужская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": "Калуга",
+    "region": "Калужская область",
+    "lat": 54.5101087,
+    "lon": 36.2598115
   }
 ]
