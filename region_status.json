@@ -2,10 +2,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Сочи и близлежащие\nКраснодарский край \nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-09T04:13:52+00:00",
-    "expires_at": "2026-10-09T05:13:52+00:00",
+    "text": "От Голубицкой в направлении Темрюка\nОпасность по БПЛА \nКраснодарский край",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-09T04:16:28+00:00",
+    "expires_at": "2026-10-09T05:16:28+00:00",
     "count": null,
     "count_approx": false
   },
@@ -16,6 +16,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-09T03:35:35+00:00",
     "expires_at": "2026-10-09T04:35:35+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-09T04:20:57+00:00",
+    "expires_at": "2026-10-09T05:20:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Опасность по БПЛА Мелитопольский, Приморский районы \nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-09T04:26:39+00:00",
+    "expires_at": "2026-10-09T05:26:39+00:00",
     "count": null,
     "count_approx": false
   }

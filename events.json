@@ -1,82 +1,5 @@
 [
   {
-    "id": "kupolrussia_138341",
-    "channel": "kupolrussia",
-    "date": "2026-10-08T11:08:20+00:00",
-    "text": "Димитров ДНР уаб",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_246549_Кача",
-    "channel": "LPRalarm",
-    "date": "2026-10-08T11:11:16+00:00",
-    "text": "Кача, Бельбек, Севастополь \nМыс Херсонес, Фиолент \nБухты Казачья, Камышовая, Стрелецкая, Севастопольская \nОпасность по БПЛА с моря",
-    "type": "drone",
-    "location_name": "Кача",
-    "region": null,
-    "lat": 56.1972669,
-    "lon": 92.5363666
-  },
-  {
-    "id": "LPRalarm_246549_Камышовая",
-    "channel": "LPRalarm",
-    "date": "2026-10-08T11:11:16+00:00",
-    "text": "Кача, Бельбек, Севастополь \nМыс Херсонес, Фиолент \nБухты Казачья, Камышовая, Стрелецкая, Севастопольская \nОпасность по БПЛА с моря",
-    "type": "drone",
-    "location_name": "Камышовая",
-    "region": null,
-    "lat": 53.787285,
-    "lon": 90.693909
-  },
-  {
-    "id": "LPRalarm_246549_Стрелецкая",
-    "channel": "LPRalarm",
-    "date": "2026-10-08T11:11:16+00:00",
-    "text": "Кача, Бельбек, Севастополь \nМыс Херсонес, Фиолент \nБухты Казачья, Камышовая, Стрелецкая, Севастопольская \nОпасность по БПЛА с моря",
-    "type": "drone",
-    "location_name": "Стрелецкая",
-    "region": null,
-    "lat": 60.8629488,
-    "lon": 42.4398878
-  },
-  {
-    "id": "kupolrussia_138342_Кача",
-    "channel": "kupolrussia",
-    "date": "2026-10-08T11:11:30+00:00",
-    "text": "Кача, Бельбек, Севастополь \nМыс Херсонес, Фиолент \nБухты Казачья, Камышовая, Стрелецкая, Севастопольская \nОпасность по БПЛА с моря",
-    "type": "drone",
-    "location_name": "Кача",
-    "region": null,
-    "lat": 56.1972669,
-    "lon": 92.5363666
-  },
-  {
-    "id": "kupolrussia_138342_Камышовая",
-    "channel": "kupolrussia",
-    "date": "2026-10-08T11:11:30+00:00",
-    "text": "Кача, Бельбек, Севастополь \nМыс Херсонес, Фиолент \nБухты Казачья, Камышовая, Стрелецкая, Севастопольская \nОпасность по БПЛА с моря",
-    "type": "drone",
-    "location_name": "Камышовая",
-    "region": null,
-    "lat": 53.787285,
-    "lon": 90.693909
-  },
-  {
-    "id": "kupolrussia_138342_Стрелецкая",
-    "channel": "kupolrussia",
-    "date": "2026-10-08T11:11:30+00:00",
-    "text": "Кача, Бельбек, Севастополь \nМыс Херсонес, Фиолент \nБухты Казачья, Камышовая, Стрелецкая, Севастопольская \nОпасность по БПЛА с моря",
-    "type": "drone",
-    "location_name": "Стрелецкая",
-    "region": null,
-    "lat": 60.8629488,
-    "lon": 42.4398878
-  },
-  {
     "id": "radar_plus_bpla_14947_Кировский",
     "channel": "radar_plus_bpla",
     "date": "2026-10-08T11:12:40+00:00",
@@ -21996,6 +21919,83 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Республика Калмыкия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_246925",
+    "channel": "LPRalarm",
+    "date": "2026-10-09T04:16:28+00:00",
+    "text": "От Голубицкой в направлении Темрюка\nОпасность по БПЛА \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_97328",
+    "channel": "vrv_radar",
+    "date": "2026-10-09T04:18:56+00:00",
+    "text": "Тульская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_138679",
+    "channel": "kupolrussia",
+    "date": "2026-10-09T04:19:21+00:00",
+    "text": "Тульская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_246926",
+    "channel": "LPRalarm",
+    "date": "2026-10-09T04:19:24+00:00",
+    "text": "Тульская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_98581",
+    "channel": "radarrussiia",
+    "date": "2026-10-09T04:20:26+00:00",
+    "text": "Тульская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_246927",
+    "channel": "LPRalarm",
+    "date": "2026-10-09T04:20:57+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_246928",
+    "channel": "LPRalarm",
+    "date": "2026-10-09T04:26:39+00:00",
+    "text": "Опасность по БПЛА Мелитопольский, Приморский районы \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
