@@ -1,11 +1,11 @@
 {
   "московск": {
-    "display_name": "Московской области",
+    "display_name": "Московская область",
     "type": "drone",
-    "text": "Дзержинский район, Ферзиковский район, г.Калуга, Малоярославецкий район, Жуковский район, Калужская область - опасность по БПЛА и в направлении Московской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-09T01:04:34+00:00",
-    "expires_at": "2026-10-09T02:04:34+00:00",
+    "text": "Рузский район \nМосковская область \nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-09T02:13:48+00:00",
+    "expires_at": "2026-10-09T03:13:48+00:00",
     "count": null,
     "count_approx": false
   },
@@ -16,36 +16,6 @@
     "channel": "locatorru",
     "updated_at": "2026-10-09T01:54:51+00:00",
     "expires_at": "2026-10-09T02:54:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "татарст": {
-    "display_name": "Республика Татарстан",
-    "type": "drone",
-    "text": "Республика Татарстан\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-09T01:57:45+00:00",
-    "expires_at": "2026-10-09T02:57:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарско": {
-    "display_name": "Краснодарского края",
-    "type": "alert",
-    "text": "По всему причерноморью Краснодарского края сохраняется беспилотная опасность!",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-09T01:09:22+00:00",
-    "expires_at": "2026-10-09T02:09:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "владимирск": {
-    "display_name": "Владимирская область",
-    "type": "drone",
-    "text": "Владимир и близлежащие\nВладимирская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-09T01:10:45+00:00",
-    "expires_at": "2026-10-09T02:10:45+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +56,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-09T01:57:17+00:00",
     "expires_at": "2026-10-09T02:57:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Воронежская область\nОпасность по БпЛА сохраняется во ВСЕХ районах!\nМножественные фиксации",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-09T02:12:25+00:00",
+    "expires_at": "2026-10-09T03:12:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Монастырщинский район\nКраснинский район\nСмоленская область\nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-09T02:15:42+00:00",
+    "expires_at": "2026-10-09T03:15:42+00:00",
     "count": null,
     "count_approx": false
   }
