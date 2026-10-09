@@ -12,10 +12,10 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "ЛНР \nТревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-09T17:30:48+00:00",
-    "expires_at": "2026-10-09T18:30:48+00:00",
+    "text": "Старобельск и близлежащие \nЛНР \nТревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-09T17:49:07+00:00",
+    "expires_at": "2026-10-09T18:49:07+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,16 +26,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-09T17:35:53+00:00",
     "expires_at": "2026-10-09T18:35:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Корочанский район\nНовооскольский район и далее на Чернянка\nОпасность по БПЛА \nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-09T17:43:53+00:00",
-    "expires_at": "2026-10-09T18:43:53+00:00",
     "count": null,
     "count_approx": false
   },
@@ -50,12 +40,12 @@
     "count_approx": false
   },
   "воронежск": {
-    "display_name": "Воронежская область",
+    "display_name": "Воронежскую область",
     "type": "drone",
-    "text": "Россошанский район \nОстрогожский район \nВоронежская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-09T17:44:41+00:00",
-    "expires_at": "2026-10-09T18:44:41+00:00",
+    "text": "Боровое, Новооскольский район, Белгородская область - фиксации БПЛА в стоону Красное, Новоуколово и далее на Воронежскую область.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-09T17:55:34+00:00",
+    "expires_at": "2026-10-09T18:55:34+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,16 +56,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-09T17:35:56+00:00",
     "expires_at": "2026-10-09T18:35:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Раздольное \nРаздольненский район \nОпасность по БПЛА \nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-09T17:27:19+00:00",
-    "expires_at": "2026-10-09T18:27:19+00:00",
     "count": null,
     "count_approx": false
   },
@@ -119,13 +99,23 @@
     "count": null,
     "count_approx": false
   },
-  "коми": {
-    "display_name": "Республика Коми",
+  "крым": {
+    "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Республика Коми\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-09T17:41:06+00:00",
-    "expires_at": "2026-10-09T18:41:06+00:00",
+    "text": "Гвардейское и близлежащие\nТревога по БПЛА\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-09T17:54:14+00:00",
+    "expires_at": "2026-10-09T18:54:14+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Боровое, Новооскольский район, Белгородская область - фиксации БПЛА в стоону Красное, Новоуколово и далее на Воронежскую область.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-09T17:55:34+00:00",
+    "expires_at": "2026-10-09T18:55:34+00:00",
     "count": null,
     "count_approx": false
   }
