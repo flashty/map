@@ -2,10 +2,10 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Станица Луганска и далее по направлению Луганска опасность по БПЛА \nЛНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-09T19:42:40+00:00",
-    "expires_at": "2026-10-09T20:42:40+00:00",
+    "text": "Новоайдар и близлежащие\nТревога по БПЛА\nЛНР и далее в тыл",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-09T19:59:44+00:00",
+    "expires_at": "2026-10-09T20:59:44+00:00",
     "count": null,
     "count_approx": false
   },
@@ -20,32 +20,22 @@
     "count_approx": false
   },
   "воронежск": {
-    "display_name": "Воронежская область",
+    "display_name": "Воронежской области",
     "type": "drone",
-    "text": "Воронежская область \nБелгородская область\nБрянская область \nОрловская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Марковка и близлежащие ЛНР\nТревога по БПЛА сохраняется\nФиксации от Запорожское\nИ далее в направлении\nВоронежской области",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-09T19:28:45+00:00",
-    "expires_at": "2026-10-09T20:28:45+00:00",
+    "updated_at": "2026-10-09T19:52:41+00:00",
+    "expires_at": "2026-10-09T20:52:41+00:00",
     "count": null,
     "count_approx": false
   },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Кашары, Ростовская область и далее на восток опасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-09T19:40:26+00:00",
-    "expires_at": "2026-10-09T20:40:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "саратовск": {
-    "display_name": "Саратовская область",
-    "type": "drone",
-    "text": "Саратовская область \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-09T19:00:47+00:00",
-    "expires_at": "2026-10-09T20:00:47+00:00",
+    "text": "Дибровый, Кашарский район, Ростовская область - группа БПЛА в сторону Каргинская, Боковская.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-09T19:47:26+00:00",
+    "expires_at": "2026-10-09T20:47:26+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,16 +46,6 @@
     "channel": "locatorru",
     "updated_at": "2026-10-09T19:30:47+00:00",
     "expires_at": "2026-10-09T20:30:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "drone",
-    "text": "Пензенская область \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-09T19:00:40+00:00",
-    "expires_at": "2026-10-09T20:00:40+00:00",
     "count": null,
     "count_approx": false
   },
@@ -81,11 +61,11 @@
   },
   "московск": {
     "display_name": "Московская область",
-    "type": "drone",
-    "text": "Наро-Фоминский район, Троицкий АО, Московская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-09T19:40:46+00:00",
-    "expires_at": "2026-10-09T20:40:46+00:00",
+    "type": "alert",
+    "text": "ГО Подольск \nМосковская область \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-09T19:57:50+00:00",
+    "expires_at": "2026-10-09T20:57:50+00:00",
     "count": null,
     "count_approx": false
   },
@@ -132,40 +112,10 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Осипенко и близлежащие \nБердянский МО\nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Трасса \nМелитополь - Новоалексеевка и близлежащие \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-09T19:15:09+00:00",
-    "expires_at": "2026-10-09T20:15:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "кировск": {
-    "display_name": "Кировская область",
-    "type": "alert",
-    "text": "Кировская область \nОпасность по МВШ\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-09T18:51:35+00:00",
-    "expires_at": "2026-10-09T19:51:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "коми": {
-    "display_name": "Республика Коми",
-    "type": "alert",
-    "text": "Республика Коми \nОпасность по МВШ\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-09T18:50:19+00:00",
-    "expires_at": "2026-10-09T19:50:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "архангельск": {
-    "display_name": "Архангельская область",
-    "type": "drone",
-    "text": "Архангельская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-09T18:51:23+00:00",
-    "expires_at": "2026-10-09T19:51:23+00:00",
+    "updated_at": "2026-10-09T19:50:58+00:00",
+    "expires_at": "2026-10-09T20:50:58+00:00",
     "count": null,
     "count_approx": false
   },
@@ -192,20 +142,40 @@
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Троснянский район \nОрловская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-09T19:45:44+00:00",
-    "expires_at": "2026-10-09T20:45:44+00:00",
+    "text": "Шаблыкинский район \nОрловская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-09T19:48:29+00:00",
+    "expires_at": "2026-10-09T20:48:29+00:00",
     "count": null,
     "count_approx": false
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Ейск и близлижащие \nКраснодарский край\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Ейск приготовиться к массовому налёту БПЛА  со стороны Азовского моря\nКраснодарский край",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-09T19:40:01+00:00",
-    "expires_at": "2026-10-09T20:40:01+00:00",
+    "updated_at": "2026-10-09T19:59:35+00:00",
+    "expires_at": "2026-10-09T20:59:35+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "николаевск": {
+    "display_name": "Николаевской области",
+    "type": "drone",
+    "text": "Пуски БПЛА из Николаевской области",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-09T19:49:59+00:00",
+    "expires_at": "2026-10-09T20:49:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Краснодарский край \nРеспублика Адыгея \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-09T19:56:31+00:00",
+    "expires_at": "2026-10-09T20:56:31+00:00",
     "count": null,
     "count_approx": false
   }
