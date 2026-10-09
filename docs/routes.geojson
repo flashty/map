@@ -5,6 +5,56 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-10-09T10:44:10+00:00",
+        "last_updated": "2026-10-09T11:16:48+00:00",
+        "path_labels": [
+          "Хвастовичский (Калужская область)",
+          "Шаблыкинский (Орловская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.1820052,
+            53.4981708
+          ],
+          [
+            35.1025788,
+            52.8579891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-09T10:44:53+00:00",
+        "last_updated": "2026-10-09T11:16:48+00:00",
+        "path_labels": [
+          "Белевский (Тульская область)",
+          "Болховский (Орловская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.1633658,
+            53.761018
+          ],
+          [
+            35.9880329,
+            53.4361073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-10-09T10:53:39+00:00",
         "last_updated": "2026-10-09T11:12:14+00:00",
         "path_labels": [
