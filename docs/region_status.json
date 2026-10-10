@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Валуйский район опасность по БПЛА повторно\nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-10T12:17:46+00:00",
-    "expires_at": "2026-10-10T13:17:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -56,6 +46,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-10T12:45:41+00:00",
     "expires_at": "2026-10-10T13:45:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и возможным ФПВ \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-10T13:23:22+00:00",
+    "expires_at": "2026-10-10T14:23:22+00:00",
     "count": null,
     "count_approx": false
   }
