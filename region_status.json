@@ -12,21 +12,21 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Бабынинский район\nКалужская область\nФиксация от 3 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-10T01:11:54+00:00",
-    "expires_at": "2026-10-10T02:11:54+00:00",
-    "count": 3,
+    "text": "Дзержинский район\nКалужская область\nФиксация группы БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-10T01:17:44+00:00",
+    "expires_at": "2026-10-10T02:17:44+00:00",
+    "count": null,
     "count_approx": false
   },
   "московск": {
     "display_name": "Московская область",
-    "type": "drone",
-    "text": "МО Шаховская\nМосковская область\nФиксация от 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "alert",
+    "text": "ГО Подольск\nМосковская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-10T01:14:18+00:00",
-    "expires_at": "2026-10-10T02:14:18+00:00",
-    "count": 2,
+    "updated_at": "2026-10-10T01:26:34+00:00",
+    "expires_at": "2026-10-10T02:26:34+00:00",
+    "count": null,
     "count_approx": false
   },
   "ростовск": {
@@ -49,43 +49,13 @@
     "count": null,
     "count_approx": false
   },
-  "мордов": {
-    "display_name": "Республика Мордовия",
-    "type": "drone",
-    "text": "Ковылкинский район\nРеспублика Мордовия\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-10T00:19:58+00:00",
-    "expires_at": "2026-10-10T01:19:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Белгородская область\nКурская область\nОрловская область\nТревога по БПЛА остаётся в действии",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-10T00:51:34+00:00",
-    "expires_at": "2026-10-10T01:51:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "нижегородск": {
-    "display_name": "Нижегородская область",
-    "type": "drone",
-    "text": "Вадский район\nНижегородская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-10T00:19:41+00:00",
-    "expires_at": "2026-10-10T01:19:41+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "татарст": {
-    "display_name": "Республика Татарстан",
-    "type": "drone",
-    "text": "Казань и близлежащие\nЗеленодольск и близлежащие\nРеспублика Татарстан\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-10T00:18:25+00:00",
-    "expires_at": "2026-10-10T01:18:25+00:00",
+    "text": "Орловский район \nОрловская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-10T01:17:18+00:00",
+    "expires_at": "2026-10-10T02:17:18+00:00",
     "count": null,
     "count_approx": false
   },
@@ -166,6 +136,36 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-10T01:12:44+00:00",
     "expires_at": "2026-10-10T02:12:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Тула\nТульская область\nВНИМАНИЕ!!\n\\ > ОБЪЯВЛЕН\nг © \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-10T01:31:03+00:00",
+    "expires_at": "2026-10-10T02:31:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Тверская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-10T01:26:17+00:00",
+    "expires_at": "2026-10-10T02:26:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рязанская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-10T01:30:03+00:00",
+    "expires_at": "2026-10-10T02:30:03+00:00",
     "count": null,
     "count_approx": false
   }
