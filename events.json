@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_247109_Туапсе",
-    "channel": "LPRalarm",
-    "date": "2026-10-09T15:45:04+00:00",
-    "text": "Туапсе, Сочи,Агой \nОпасность по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": "Туапсе",
-    "region": "Краснодарский край",
-    "lat": 44.0984747,
-    "lon": 39.0718875
-  },
-  {
-    "id": "LPRalarm_247109_Сочи",
-    "channel": "LPRalarm",
-    "date": "2026-10-09T15:45:04+00:00",
-    "text": "Туапсе, Сочи,Агой \nОпасность по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": "Сочи",
-    "region": "Краснодарский край",
-    "lat": 43.5854823,
-    "lon": 39.723109
-  },
-  {
-    "id": "kupolrussia_138847_Туапсе",
-    "channel": "kupolrussia",
-    "date": "2026-10-09T15:46:15+00:00",
-    "text": "Туапсе, Сочи,Агой \nОпасность по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": "Туапсе",
-    "region": "Краснодарский край",
-    "lat": 44.0984747,
-    "lon": 39.0718875
-  },
-  {
-    "id": "kupolrussia_138847_Сочи",
-    "channel": "kupolrussia",
-    "date": "2026-10-09T15:46:15+00:00",
-    "text": "Туапсе, Сочи,Агой \nОпасность по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": "Сочи",
-    "region": "Краснодарский край",
-    "lat": 43.5854823,
-    "lon": 39.723109
-  },
-  {
-    "id": "LPRalarm_247110",
-    "channel": "LPRalarm",
-    "date": "2026-10-09T15:47:37+00:00",
-    "text": "Пуски БПЛА из Одесской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Одесской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_138848",
-    "channel": "kupolrussia",
-    "date": "2026-10-09T15:47:45+00:00",
-    "text": "Пуски БПЛА из Одесской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Одесской области",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_247111_Белгород",
     "channel": "LPRalarm",
     "date": "2026-10-09T15:49:47+00:00",
@@ -21996,6 +21930,72 @@
     "type": "all_clear",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247553_Ивнянский",
+    "channel": "LPRalarm",
+    "date": "2026-10-10T14:02:02+00:00",
+    "text": "Яковлевский, Ивнянский районы опасность по БПЛА\nБелгородская область",
+    "type": "drone",
+    "location_name": "Ивнянский",
+    "region": "Белгородская область",
+    "lat": 51.0201731,
+    "lon": 36.2197073
+  },
+  {
+    "id": "LPRalarm_247553_Яковлевский",
+    "channel": "LPRalarm",
+    "date": "2026-10-10T14:02:02+00:00",
+    "text": "Яковлевский, Ивнянский районы опасность по БПЛА\nБелгородская область",
+    "type": "drone",
+    "location_name": "Яковлевский",
+    "region": "Белгородская область",
+    "lat": 50.7321022,
+    "lon": 36.2290154
+  },
+  {
+    "id": "LPRalarm_247554_Судак",
+    "channel": "LPRalarm",
+    "date": "2026-10-10T14:08:10+00:00",
+    "text": "ЮБК от Форос и далее в направлении Алушта, Судак, Феодосия опасность по БПЛА с моря",
+    "type": "drone",
+    "location_name": "Судак",
+    "region": null,
+    "lat": 62.0375765,
+    "lon": 32.9920476
+  },
+  {
+    "id": "LPRalarm_247555",
+    "channel": "LPRalarm",
+    "date": "2026-10-10T14:10:09+00:00",
+    "text": "Одесса\nМножественные запуски БПЛА от Одессы в море",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139221",
+    "channel": "kupolrussia",
+    "date": "2026-10-10T14:10:31+00:00",
+    "text": "Одесса\nМножественные запуски БПЛА от Одессы в море",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247556",
+    "channel": "LPRalarm",
+    "date": "2026-10-10T14:14:01+00:00",
+    "text": "Счастье ЛНР и близлежащие тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
