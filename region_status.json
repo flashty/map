@@ -29,26 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "чуваш": {
-    "display_name": "Республика Чувашия",
-    "type": "alert",
-    "text": "Республика Татарстан \nРеспублика Чувашия \nОпасность по МВШ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-10T10:39:31+00:00",
-    "expires_at": "2026-10-10T11:39:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "татарст": {
-    "display_name": "Республика Татарстан",
-    "type": "alert",
-    "text": "Республика Татарстан \nРеспублика Чувашия \nОпасность по МВШ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-10T10:39:31+00:00",
-    "expires_at": "2026-10-10T11:39:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
@@ -126,6 +106,46 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-10T11:29:37+00:00",
     "expires_at": "2026-10-10T12:29:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Пантелеймоновка, Корсунь, Енакиево, Ждановка и близлежащие \nОпасность по БПЛА \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-10T11:40:46+00:00",
+    "expires_at": "2026-10-10T12:40:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Херсонская область РФ Новокиевка, Каланчак и далее АПП Армянск, Армянск, Красноперкопск Опасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-10T11:40:18+00:00",
+    "expires_at": "2026-10-10T12:40:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Счастье ЛНР и близлежащие тревога по БПЛА. Возможно в направлении Тарасовский, Миллеровский район Ростовская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-10T11:41:43+00:00",
+    "expires_at": "2026-10-10T12:41:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Счастье ЛНР и близлежащие тревога по БПЛА. Возможно в направлении Тарасовский, Миллеровский район Ростовская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-10T11:41:43+00:00",
+    "expires_at": "2026-10-10T12:41:43+00:00",
     "count": null,
     "count_approx": false
   }
