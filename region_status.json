@@ -1,11 +1,11 @@
 {
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-10T08:31:00+00:00",
-    "expires_at": "2026-10-10T09:31:00+00:00",
+    "type": "alert",
+    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-10T08:31:15+00:00",
+    "expires_at": "2026-10-10T09:31:15+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +96,16 @@
     "channel": "locatorru",
     "updated_at": "2026-10-10T08:25:38+00:00",
     "expires_at": "2026-10-10T09:25:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-10T08:36:04+00:00",
+    "expires_at": "2026-10-10T09:36:04+00:00",
     "count": null,
     "count_approx": false
   }
