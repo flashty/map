@@ -1,24 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-10T09:47:11+00:00",
-    "expires_at": "2026-10-10T10:47:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "alert",
-    "text": "Тульская область \nКалужская область\nМосковская область\nРязанская область\nНижегородская область\nЯрославская область \n\nОпасность по МВШ.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-10-10T09:46:43+00:00",
-    "expires_at": "2026-10-10T10:46:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -36,66 +16,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-10T10:07:02+00:00",
     "expires_at": "2026-10-10T11:07:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "нижегородск": {
-    "display_name": "Нижегородская область",
-    "type": "alert",
-    "text": "Тульская область \nКалужская область\nМосковская область\nРязанская область\nНижегородская область\nЯрославская область \n\nОпасность по МВШ.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-10-10T09:46:43+00:00",
-    "expires_at": "2026-10-10T10:46:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "alert",
-    "text": "Тульская область \nКалужская область\nМосковская область\nРязанская область\nНижегородская область\nЯрославская область \n\nОпасность по МВШ.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-10-10T09:46:43+00:00",
-    "expires_at": "2026-10-10T10:46:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ярославск": {
-    "display_name": "Ярославская область",
-    "type": "alert",
-    "text": "Тульская область \nКалужская область\nМосковская область\nРязанская область\nНижегородская область\nЯрославская область \n\nОпасность по МВШ.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-10-10T09:46:43+00:00",
-    "expires_at": "2026-10-10T10:46:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "alert",
-    "text": "Тульская область \nКалужская область\nМосковская область\nРязанская область\nНижегородская область\nЯрославская область \n\nОпасность по МВШ.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-10-10T09:46:43+00:00",
-    "expires_at": "2026-10-10T10:46:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "alert",
-    "text": "Тульская область \nКалужская область\nМосковская область\nРязанская область\nНижегородская область\nЯрославская область \n\nОпасность по МВШ.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-10-10T09:46:43+00:00",
-    "expires_at": "2026-10-10T10:46:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "одесск": {
-    "display_name": "Одесская область",
-    "type": "drone",
-    "text": "Одесская область возможно запуски БПЛА с выходом в Чёрное море",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-10T09:51:23+00:00",
-    "expires_at": "2026-10-10T10:51:23+00:00",
     "count": null,
     "count_approx": false
   },
@@ -156,6 +76,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-10T10:45:06+00:00",
     "expires_at": "2026-10-10T11:45:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "марий": {
+    "display_name": "Республика Марий",
+    "type": "alert",
+    "text": "Республика Марий Эл\nОпасность по МВШ",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-10T10:58:24+00:00",
+    "expires_at": "2026-10-10T11:58:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "кировск": {
+    "display_name": "Кировская область",
+    "type": "alert",
+    "text": "Кировская область\nОпасность по МВШ",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-10T10:58:55+00:00",
+    "expires_at": "2026-10-10T11:58:55+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "костромск": {
+    "display_name": "Костромская область",
+    "type": "alert",
+    "text": "Костромская область\nОпасность по МВШ",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-10T10:59:03+00:00",
+    "expires_at": "2026-10-10T11:59:03+00:00",
     "count": null,
     "count_approx": false
   }
