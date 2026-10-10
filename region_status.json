@@ -1,14 +1,4 @@
 {
-  "вологодск": {
-    "display_name": "Вологодская область",
-    "type": "drone",
-    "text": "Вологодская область, Тверская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-10T03:27:26+00:00",
-    "expires_at": "2026-10-10T04:27:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульской области",
     "type": "drone",
@@ -22,20 +12,10 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Ступино \nМосковская область \nФиксация БПЛА",
+    "text": "ГО Истра \nМосковская область\nОпасность по БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-10T04:14:34+00:00",
-    "expires_at": "2026-10-10T05:14:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тверск": {
-    "display_name": "Тверская область",
-    "type": "drone",
-    "text": "Вологодская область, Тверская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-10T03:27:26+00:00",
-    "expires_at": "2026-10-10T04:27:26+00:00",
+    "updated_at": "2026-10-10T04:28:18+00:00",
+    "expires_at": "2026-10-10T05:28:18+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,30 +32,30 @@
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Мценск и близлежащие, Орловская область - фиксации БПЛА в сторону Чернь, Плавск, Тёплое, Щёкино, Тульской области и далее в тыл. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-10T04:03:00+00:00",
-    "expires_at": "2026-10-10T05:03:00+00:00",
+    "text": "Болховский район \nОрловский район \nКромской район \nОрловская область\nФиксация групп БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-10T04:23:26+00:00",
+    "expires_at": "2026-10-10T05:23:26+00:00",
     "count": null,
     "count_approx": false
   },
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
-    "text": "Вяземский район \nУгранский район \nСмоленская область \nФиксация группы БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-10T04:06:11+00:00",
-    "expires_at": "2026-10-10T05:06:11+00:00",
+    "text": "Смоленская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-10T04:30:54+00:00",
+    "expires_at": "2026-10-10T05:30:54+00:00",
     "count": null,
     "count_approx": false
   },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Калужская область \nМосковская область\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-10T04:14:09+00:00",
-    "expires_at": "2026-10-10T05:14:09+00:00",
+    "text": "Сухиничский район \nКалужская область \nФиксация группы БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-10T04:30:56+00:00",
+    "expires_at": "2026-10-10T05:30:56+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +66,46 @@
     "channel": "vrv_radar",
     "updated_at": "2026-10-10T04:15:15+00:00",
     "expires_at": "2026-10-10T05:15:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Иловайск реактивный БПЛА \n\nНа юго-восток\nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-10T04:24:21+00:00",
+    "expires_at": "2026-10-10T05:24:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "missile",
+    "text": "Ещё ракеты или реактивные БПЛА в сторону Матвеев Курган, Таганрог, Азов, Ростов-на-Дону, Батайс, Ростовская область. \n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-10T04:28:09+00:00",
+    "expires_at": "2026-10-10T05:28:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Красная Яруга \nТревога по БПЛА \nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-10T04:28:40+00:00",
+    "expires_at": "2026-10-10T05:28:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "missile",
+    "text": "Юг\nЛНР \nРакетная опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-10T04:26:37+00:00",
+    "expires_at": "2026-10-10T05:26:37+00:00",
     "count": null,
     "count_approx": false
   }
