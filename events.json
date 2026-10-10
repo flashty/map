@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_97463",
-    "channel": "vrv_radar",
-    "date": "2026-10-09T17:01:14+00:00",
-    "text": "Ивановская область \nВладимирская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ивановская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_14977",
-    "channel": "radar_plus_bpla",
-    "date": "2026-10-09T17:01:38+00:00",
-    "text": "Отбой опасности БПЛА по всем ранее объявленным регионам.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_138855",
-    "channel": "kupolrussia",
-    "date": "2026-10-09T17:02:09+00:00",
-    "text": "Сальск и близлежащие\nРостовская область\nРеактивные цели в направлении",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_98671",
-    "channel": "radarrussiia",
-    "date": "2026-10-09T17:02:21+00:00",
-    "text": "Калужская область \nИвановская область \nВладимирская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_98672",
     "channel": "radarrussiia",
     "date": "2026-10-09T17:03:16+00:00",
@@ -21998,5 +21954,49 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_247566",
+    "channel": "LPRalarm",
+    "date": "2026-10-10T15:09:40+00:00",
+    "text": "Урзуф, Ялта ДНР, Мариуполь, Володарское, Мангуш и близлежащие тревога по БПЛА повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139232",
+    "channel": "kupolrussia",
+    "date": "2026-10-10T15:09:53+00:00",
+    "text": "Урзуф, Ялта ДНР, Мариуполь, Володарское, Мангуш и близлежащие повторно",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247567_Счастье",
+    "channel": "LPRalarm",
+    "date": "2026-10-10T15:13:28+00:00",
+    "text": "Счастье, Станица Луганская, Луганск и область опасность по единичным БПЛА сохраняется",
+    "type": "drone",
+    "location_name": "Счастье",
+    "region": "область",
+    "lat": 53.3746456,
+    "lon": 34.1062113
+  },
+  {
+    "id": "kupolrussia_139233_Счастье",
+    "channel": "kupolrussia",
+    "date": "2026-10-10T15:13:34+00:00",
+    "text": "Счастье, Станица Луганская, Луганск и область опасность по единичным БПЛА сохраняется",
+    "type": "drone",
+    "location_name": "Счастье",
+    "region": "область",
+    "lat": 53.3746456,
+    "lon": 34.1062113
   }
 ]
