@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Донецк и близлежащие \nОпасность по БПЛА, единичные фиксации \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-10T13:35:55+00:00",
-    "expires_at": "2026-10-10T14:35:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
@@ -41,11 +31,11 @@
   },
   "луганск": {
     "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Счастье ЛНР и близлежащие тревога по БПЛА",
+    "type": "alert",
+    "text": "Красный Луч опасность по МВШ \nЛНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-10T14:16:42+00:00",
-    "expires_at": "2026-10-10T15:16:42+00:00",
+    "updated_at": "2026-10-10T14:33:04+00:00",
+    "expires_at": "2026-10-10T15:33:04+00:00",
     "count": null,
     "count_approx": false
   },
