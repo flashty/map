@@ -32,10 +32,10 @@
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Еще фиксации БПЛА через Азовский район, в направлении\nРостов-на-Дону\nРостовская область",
+    "text": "Азов, район портовой зоны и ближайшие тревога по БПЛА сохраняется \nРостовская область",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-10T01:55:34+00:00",
-    "expires_at": "2026-10-10T02:55:34+00:00",
+    "updated_at": "2026-10-10T02:27:16+00:00",
+    "expires_at": "2026-10-10T03:27:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -89,16 +89,6 @@
     "count": null,
     "count_approx": false
   },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязанская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-10T01:30:03+00:00",
-    "expires_at": "2026-10-10T02:30:03+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
@@ -116,6 +106,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-10T02:08:45+00:00",
     "expires_at": "2026-10-10T03:08:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Курск, Курская область опасность по БПЛА.",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-10T02:29:13+00:00",
+    "expires_at": "2026-10-10T03:29:13+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "вологодск": {
+    "display_name": "Вологодская область",
+    "type": "drone",
+    "text": "Вологодская область \nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-10T02:31:21+00:00",
+    "expires_at": "2026-10-10T03:31:21+00:00",
     "count": null,
     "count_approx": false
   }
