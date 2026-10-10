@@ -1,21 +1,11 @@
 {
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "alert",
-    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-10T08:31:15+00:00",
-    "expires_at": "2026-10-10T09:31:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
     "type": "drone",
-    "text": "Каланчак\nЧаплинка опасть по бпла\nХерсонская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-10T08:15:16+00:00",
-    "expires_at": "2026-10-10T09:15:16+00:00",
+    "text": "Акимовка и близлежащие\n\nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-10T09:02:35+00:00",
+    "expires_at": "2026-10-10T10:02:35+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,33 +39,13 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Врубовка\n Горское опасность по БПЛА Хорнет\nЛНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-10T08:14:56+00:00",
-    "expires_at": "2026-10-10T09:14:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Рыльск и район, Курская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-10T08:09:39+00:00",
-    "expires_at": "2026-10-10T09:09:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "воронежск": {
-    "display_name": "Воронежская область",
+    "display_name": "Воронежскую область",
     "type": "drone",
-    "text": "Воронежская область - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "text": "Начались фиксации групп БПЛА через Белгородскую и Воронежскую область и далее в тыл.\n\n✈️ Наш ТГ | 📲 Наш MAX",
     "channel": "radar_plus_bpla",
-    "updated_at": "2026-10-10T08:40:01+00:00",
-    "expires_at": "2026-10-10T09:40:01+00:00",
+    "updated_at": "2026-10-10T09:10:25+00:00",
+    "expires_at": "2026-10-10T10:10:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,6 +86,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-10T08:43:31+00:00",
     "expires_at": "2026-10-10T09:43:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородская область",
+    "type": "drone",
+    "text": "Нижегородская область\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-10T09:15:30+00:00",
+    "expires_at": "2026-10-10T10:15:30+00:00",
     "count": null,
     "count_approx": false
   }
