@@ -22,10 +22,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Трубчевск и близлежащие\nТревога по БПЛА\nи далее в тыл\nБрянская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-10T10:18:16+00:00",
-    "expires_at": "2026-10-10T11:18:16+00:00",
+    "text": "От ГГ опасность по БПЛА Дартс на Белую Березку, возможно подвернет на Трубчевск \nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-10T10:42:21+00:00",
+    "expires_at": "2026-10-10T11:42:21+00:00",
     "count": null,
     "count_approx": false
   },
@@ -79,16 +79,6 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Новотроицкое\nНовоалексеевка  и близлежащие тревога по БПЛА\nХерсонская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-10T09:34:06+00:00",
-    "expires_at": "2026-10-10T10:34:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "alert",
@@ -136,6 +126,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-10T10:16:13+00:00",
     "expires_at": "2026-10-10T11:16:13+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "чуваш": {
+    "display_name": "Республика Чувашия",
+    "type": "alert",
+    "text": "Республика Татарстан \nРеспублика Чувашия \nОпасность по МВШ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-10T10:39:31+00:00",
+    "expires_at": "2026-10-10T11:39:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "alert",
+    "text": "Республика Татарстан \nРеспублика Чувашия \nОпасность по МВШ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-10T10:39:31+00:00",
+    "expires_at": "2026-10-10T11:39:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Курчатов и близлежащие тревога по БПЛА действует. Меры безопасности \nКурская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-10T10:45:06+00:00",
+    "expires_at": "2026-10-10T11:45:06+00:00",
     "count": null,
     "count_approx": false
   }
