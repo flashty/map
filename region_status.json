@@ -2,10 +2,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Брянск\nБежица\nИ близлежащие\nТревога по БПЛА сохраняется\nБрянская область",
+    "text": "Брянская область\nТревога по БПЛА остаётся в действии\nМассовые фиксации",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-10T01:53:56+00:00",
-    "expires_at": "2026-10-10T02:53:56+00:00",
+    "updated_at": "2026-10-10T02:12:19+00:00",
+    "expires_at": "2026-10-10T03:12:19+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Волноваха и близлежащие\nТревога по БПЛА\nДНР\nДалее возможно в направлении\nМариуполь, Новоазовск",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-10T01:11:18+00:00",
-    "expires_at": "2026-10-10T02:11:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
@@ -59,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "Радищевский район \nУльяновская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-10T01:12:24+00:00",
-    "expires_at": "2026-10-10T02:12:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
@@ -76,16 +56,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-10T01:42:37+00:00",
     "expires_at": "2026-10-10T02:42:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "самарск": {
-    "display_name": "Самарская область",
-    "type": "drone",
-    "text": "Нефтегорский район \nСамарская область \nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-10T01:14:02+00:00",
-    "expires_at": "2026-10-10T02:14:02+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +96,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-10T01:30:03+00:00",
     "expires_at": "2026-10-10T02:30:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Республика Татарстан\nС > ВНИМАНИЕ!!!\n5 «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-10T02:06:08+00:00",
+    "expires_at": "2026-10-10T03:06:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородской областей",
+    "type": "drone",
+    "text": "Стык Курской и Белгородской областей\nИ далее в тыл\nПродолжаются фиксации БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-10T02:08:45+00:00",
+    "expires_at": "2026-10-10T03:08:45+00:00",
     "count": null,
     "count_approx": false
   }
