@@ -9,53 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Ростов на Дону и ближайшие \nТревога по БПЛА сохраняется \nЕщё фиксации в вашем направлении,меры безопасности \nРостовская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-10T03:03:42+00:00",
-    "expires_at": "2026-10-10T04:03:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Курск, Курская область опасность по БПЛА.",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-10T02:29:13+00:00",
-    "expires_at": "2026-10-10T03:29:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "вологодск": {
     "display_name": "Вологодская область",
     "type": "drone",
-    "text": "Вологодская область \nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-10T02:31:21+00:00",
-    "expires_at": "2026-10-10T03:31:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калуга \nКалужская область \nРабота ПВО по БПЛА \nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-10T03:12:52+00:00",
-    "expires_at": "2026-10-10T04:12:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московской области",
-    "type": "drone",
-    "text": "Калужская область\nВ направлении\nМосковской области\nВНИМАНИЕ!!\n\\ > ОБЪЯВЛЕН\nг © \"КРАСНЫЙ УРОВЕНЬ\"\nХх ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-10T02:49:13+00:00",
-    "expires_at": "2026-10-10T03:49:13+00:00",
+    "text": "Вологодская область, Тверская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-10T03:27:26+00:00",
+    "expires_at": "2026-10-10T04:27:26+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +26,26 @@
     "channel": "vrv_radar",
     "updated_at": "2026-10-10T03:15:46+00:00",
     "expires_at": "2026-10-10T04:15:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Подольск, Домодедово и близлежащие, Московская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-10T03:23:56+00:00",
+    "expires_at": "2026-10-10T04:23:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Вологодская область, Тверская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-10T03:27:26+00:00",
+    "expires_at": "2026-10-10T04:27:26+00:00",
     "count": null,
     "count_approx": false
   }
