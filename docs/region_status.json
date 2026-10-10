@@ -2,10 +2,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Трубчевск и близлежащие тревога по БПЛА\nБрянская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-10T13:44:24+00:00",
-    "expires_at": "2026-10-10T14:44:24+00:00",
+    "text": "Трубчевск и близлежащие тревога по БПЛА \nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-10T14:22:19+00:00",
+    "expires_at": "2026-10-10T15:22:19+00:00",
     "count": null,
     "count_approx": false
   },
@@ -43,9 +43,19 @@
     "display_name": "Луганская область",
     "type": "drone",
     "text": "Счастье ЛНР и близлежащие тревога по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-10T14:14:01+00:00",
-    "expires_at": "2026-10-10T15:14:01+00:00",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-10T14:16:42+00:00",
+    "expires_at": "2026-10-10T15:16:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "От Рыльске до Коренево, Курская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-10T14:26:45+00:00",
+    "expires_at": "2026-10-10T15:26:45+00:00",
     "count": null,
     "count_approx": false
   }
