@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "воронежск": {
-    "display_name": "Воронежскую область",
-    "type": "drone",
-    "text": "Начались фиксации групп БПЛА через Белгородскую и Воронежскую область и далее в тыл.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-10-10T09:10:25+00:00",
-    "expires_at": "2026-10-10T10:10:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
     "type": "alert",
@@ -42,10 +32,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Погарский район , тревога по бпла Дартс\nБрянская область",
+    "text": "От ГГ  опасность по БПЛА Дартс на Белую Березку\nБрянская область",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-10T08:47:29+00:00",
-    "expires_at": "2026-10-10T09:47:29+00:00",
+    "updated_at": "2026-10-10T09:45:41+00:00",
+    "expires_at": "2026-10-10T10:45:41+00:00",
     "count": null,
     "count_approx": false
   },
@@ -146,6 +136,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-10T09:26:50+00:00",
     "expires_at": "2026-10-10T10:26:50+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Новотроицкое\nНовоалексеевка  и близлежащие тревога по БПЛА\nХерсонская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-10T09:34:06+00:00",
+    "expires_at": "2026-10-10T10:34:06+00:00",
     "count": null,
     "count_approx": false
   }
