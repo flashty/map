@@ -2,10 +2,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "От ГГ опасность по БПЛА Дартс на Белую Березку, возможно подвернет на Трубчевск \nБрянская область",
+    "text": "Климово и близлежащие тревога по БПЛА Дартс \nБрянская область",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-10T10:42:21+00:00",
-    "expires_at": "2026-10-10T11:42:21+00:00",
+    "updated_at": "2026-10-10T11:18:54+00:00",
+    "expires_at": "2026-10-10T12:18:54+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,26 +26,6 @@
     "channel": "locatorru",
     "updated_at": "2026-10-10T11:13:27+00:00",
     "expires_at": "2026-10-10T12:13:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Свердловск ЛНР опасность по БПЛА в направлении\nГуково, Каменск-Шахтинский \nРостовской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-10T10:16:13+00:00",
-    "expires_at": "2026-10-10T11:16:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовской области",
-    "type": "drone",
-    "text": "Свердловск ЛНР опасность по БПЛА в направлении\nГуково, Каменск-Шахтинский \nРостовской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-10T10:16:13+00:00",
-    "expires_at": "2026-10-10T11:16:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,30 +52,30 @@
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
-    "text": "Курчатов и близлежащие тревога по БПЛА действует. Меры безопасности \nКурская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-10T10:45:06+00:00",
-    "expires_at": "2026-10-10T11:45:06+00:00",
+    "text": "г.Курск и район, Курская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-10T11:22:19+00:00",
+    "expires_at": "2026-10-10T12:22:19+00:00",
     "count": null,
     "count_approx": false
   },
   "марий": {
     "display_name": "Республика Марий",
     "type": "alert",
-    "text": "Республика Марий Эл\nОпасность по МВШ",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-10T10:58:24+00:00",
-    "expires_at": "2026-10-10T11:58:24+00:00",
+    "text": "Чувашская Республика\nРеспублика Татарстан \nРеспублика Марий Эл\nКировская область \n\nОпасность по МВШ.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-10-10T11:23:50+00:00",
+    "expires_at": "2026-10-10T12:23:50+00:00",
     "count": null,
     "count_approx": false
   },
   "кировск": {
     "display_name": "Кировская область",
     "type": "alert",
-    "text": "Кировская область\nОпасность по МВШ",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-10T10:58:55+00:00",
-    "expires_at": "2026-10-10T11:58:55+00:00",
+    "text": "Чувашская Республика\nРеспублика Татарстан \nРеспублика Марий Эл\nКировская область \n\nОпасность по МВШ.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-10-10T11:23:50+00:00",
+    "expires_at": "2026-10-10T12:23:50+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,6 +96,36 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-10T11:09:19+00:00",
     "expires_at": "2026-10-10T12:09:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "марий-": {
+    "display_name": "Республика Марий-Эл",
+    "type": "alert",
+    "text": "Республика Марий-Эл\nКировская область \nОпасность по МВШ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-10T11:17:15+00:00",
+    "expires_at": "2026-10-10T12:17:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородская область",
+    "type": "drone",
+    "text": "Нижегородская область\nМосковская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-10T11:29:37+00:00",
+    "expires_at": "2026-10-10T12:29:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Нижегородская область\nМосковская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-10T11:29:37+00:00",
+    "expires_at": "2026-10-10T12:29:37+00:00",
     "count": null,
     "count_approx": false
   }
