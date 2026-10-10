@@ -20,22 +20,22 @@
     "count_approx": false
   },
   "тульск": {
-    "display_name": "Тульская область",
+    "display_name": "Тульской области",
     "type": "drone",
-    "text": "Ясногорский район \nТульская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-10T03:15:46+00:00",
-    "expires_at": "2026-10-10T04:15:46+00:00",
+    "text": "Кромской район\n Орловская область и далее в направлении Тульской области \nТревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-10T03:38:46+00:00",
+    "expires_at": "2026-10-10T04:38:46+00:00",
     "count": null,
     "count_approx": false
   },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "Подольск, Домодедово и близлежащие, Московская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-10T03:23:56+00:00",
-    "expires_at": "2026-10-10T04:23:56+00:00",
+    "text": "ГО Дмитриевск \nГО Сергиево-Посад\nМосковская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-10T03:45:42+00:00",
+    "expires_at": "2026-10-10T04:45:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +46,36 @@
     "channel": "locatorru",
     "updated_at": "2026-10-10T03:27:26+00:00",
     "expires_at": "2026-10-10T04:27:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Таганрог, Азов, Батайск, Ростов-на-Дону и близлежащие, Ростовская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-10T03:31:47+00:00",
+    "expires_at": "2026-10-10T04:31:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ярославск": {
+    "display_name": "Ярославская область",
+    "type": "drone",
+    "text": "Ярославская область \nОпасность по БПЛА сохраняется",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-10T03:37:57+00:00",
+    "expires_at": "2026-10-10T04:37:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Кромской район\n Орловская область и далее в направлении Тульской области \nТревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-10T03:38:46+00:00",
+    "expires_at": "2026-10-10T04:38:46+00:00",
     "count": null,
     "count_approx": false
   }
