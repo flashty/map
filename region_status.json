@@ -1,14 +1,4 @@
 {
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Трубчевск и близлежащие тревога по БПЛА \nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-10T14:22:19+00:00",
-    "expires_at": "2026-10-10T15:22:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -29,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "От Рыльске до Коренево, Курская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-10T14:26:45+00:00",
-    "expires_at": "2026-10-10T15:26:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -46,6 +26,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-10T15:09:40+00:00",
     "expires_at": "2026-10-10T16:09:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Каховка БПЛА разведчик\nХерсонская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-10T15:19:23+00:00",
+    "expires_at": "2026-10-10T16:19:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Валуйский округ Белгородская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-10T15:28:05+00:00",
+    "expires_at": "2026-10-10T16:28:05+00:00",
     "count": null,
     "count_approx": false
   }
