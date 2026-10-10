@@ -2,30 +2,30 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Горловка и близлежащие на восток \nОпасность по БПЛА \nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-10T20:58:19+00:00",
-    "expires_at": "2026-10-10T21:58:19+00:00",
+    "text": "Докучаевск ДНР и далее на восток \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-10T21:10:45+00:00",
+    "expires_at": "2026-10-10T22:10:45+00:00",
     "count": null,
     "count_approx": false
   },
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
-    "text": "Липецкая область, Тамбовская область, Саратовская область, Пензенская область - повторно, внимание по массовому пролёту БПЛА от Воронежской области, Ростовской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-10T20:54:50+00:00",
-    "expires_at": "2026-10-10T21:54:50+00:00",
+    "text": "Фёдоровский район\nСаратовская область\nФиксации групп БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-10T21:11:44+00:00",
+    "expires_at": "2026-10-10T22:11:44+00:00",
     "count": null,
     "count_approx": false
   },
   "пензенск": {
-    "display_name": "Пензенская область",
+    "display_name": "Пензенской области",
     "type": "drone",
-    "text": "Сахзавод, Беково, Сердоборск, Сазанье, Малая Сердоба, Пензенская область - опасность по БПЛА от Саратовской области сохраняется. \n\n📡Локатор России - @locatorru",
+    "text": "Со стороны Сердобск, Пензенской области группа БПЛА в сторону Пензы. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-10-10T21:01:15+00:00",
-    "expires_at": "2026-10-10T22:01:15+00:00",
+    "updated_at": "2026-10-10T21:15:38+00:00",
+    "expires_at": "2026-10-10T22:15:38+00:00",
     "count": null,
     "count_approx": false
   },
@@ -141,51 +141,21 @@
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Сочи\nАдлер \nСириус \nКраснодарский край \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "alert",
+    "text": "Сочи\nКраснодарский край\nПродолжается работа ПВО\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-10T20:53:45+00:00",
-    "expires_at": "2026-10-10T21:53:45+00:00",
+    "updated_at": "2026-10-10T21:11:17+00:00",
+    "expires_at": "2026-10-10T22:11:17+00:00",
     "count": null,
     "count_approx": false
   },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
-    "text": "Новониколаевка и близлежащие опасность по БПЛА \nХерсонская область РФ",
+    "text": "Скадовский район опасность по БПЛА\nХерсонская область РФ",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-10T20:44:54+00:00",
-    "expires_at": "2026-10-10T21:44:54+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Краснодарский край\nРеспублика Адыгея\nАстраханская область\nРеспублика Калмыкия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-10T20:15:37+00:00",
-    "expires_at": "2026-10-10T21:15:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "астраханск": {
-    "display_name": "Астраханская область",
-    "type": "drone",
-    "text": "Краснодарский край\nРеспублика Адыгея\nАстраханская область\nРеспублика Калмыкия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-10T20:15:37+00:00",
-    "expires_at": "2026-10-10T21:15:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калмык": {
-    "display_name": "Республика Калмыкия",
-    "type": "drone",
-    "text": "Краснодарский край\nРеспублика Адыгея\nАстраханская область\nРеспублика Калмыкия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-10T20:15:37+00:00",
-    "expires_at": "2026-10-10T21:15:37+00:00",
+    "updated_at": "2026-10-10T21:13:22+00:00",
+    "expires_at": "2026-10-10T22:13:22+00:00",
     "count": null,
     "count_approx": false
   },
@@ -202,10 +172,10 @@
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
-    "text": "Рыльский район, Курская область - фиксации БПЛА в сторону Льгов, Курчатов, Курск.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-10T20:44:39+00:00",
-    "expires_at": "2026-10-10T21:44:39+00:00",
+    "text": "г. Львов фиксации по реактивным БПЛА \nКурская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-10T21:15:57+00:00",
+    "expires_at": "2026-10-10T22:15:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -216,6 +186,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-10T20:50:01+00:00",
     "expires_at": "2026-10-10T21:50:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ульяновск": {
+    "display_name": "Ульяновская область",
+    "type": "drone",
+    "text": "Ульяновская область\nСамарская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-10T21:10:33+00:00",
+    "expires_at": "2026-10-10T22:10:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "самарск": {
+    "display_name": "Самарская область",
+    "type": "drone",
+    "text": "Ульяновская область\nСамарская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-10T21:10:33+00:00",
+    "expires_at": "2026-10-10T22:10:33+00:00",
     "count": null,
     "count_approx": false
   }
