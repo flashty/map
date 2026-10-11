@@ -1,93 +1,5 @@
 [
   {
-    "id": "kupolrussia_139176",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T10:45:06+00:00",
-    "text": "Курчатов и близлежащие тревога по БПЛА действует. Меры безопасности \nКурская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_247501",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T10:52:48+00:00",
-    "text": "Шебекино \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_139177",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T10:53:09+00:00",
-    "text": "Шебекино \nБелгородская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_247502",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T10:54:50+00:00",
-    "text": "Спасибо огромное \n❤️❤️❤️\nhttps://pay.cloudtips.ru/p/f2a9c1d8",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_97773",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T10:58:24+00:00",
-    "text": "Республика Марий Эл\nОпасность по МВШ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Республика Марий",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_97774",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T10:58:55+00:00",
-    "text": "Кировская область\nОпасность по МВШ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Кировская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_97775",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T10:59:03+00:00",
-    "text": "Костромская область\nОпасность по МВШ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Костромская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_89315",
-    "channel": "locatorru",
-    "date": "2026-10-10T11:04:56+00:00",
-    "text": "Практически тишина в помощи. Огромное спасибо кто помогает!🙏\n\n📡Локатор России - @locatorru",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_97776",
     "channel": "vrv_radar",
     "date": "2026-10-10T11:08:29+00:00",
@@ -21998,5 +21910,93 @@
     "region": null,
     "lat": 50.438988,
     "lon": 36.8728034
+  },
+  {
+    "id": "LPRalarm_247946_Севастополь",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T12:22:44+00:00",
+    "text": "Одесса запуски БПЛА. Направлении предварительно на Тарханкут или в обход на Севастополь",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "kupolrussia_139565_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T12:23:02+00:00",
+    "text": "Одесса запуски БПЛА. Направлении предварительно на Тарханкут или в обход на Севастополь",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "LPRalarm_247947",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T12:27:49+00:00",
+    "text": "Константиновка УАБ",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139566",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T12:28:01+00:00",
+    "text": "Константиновка УАБ\nДНР",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247948",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T12:28:29+00:00",
+    "text": "Красноармейск ДНР УАБ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139567",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T12:28:44+00:00",
+    "text": "Красноармейск ДНР УАБ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247949",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T12:30:15+00:00",
+    "text": "Новопавловка ДНР Уаб",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139568",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T12:30:25+00:00",
+    "text": "Новопавловка ДНР Уаб",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
   }
 ]
