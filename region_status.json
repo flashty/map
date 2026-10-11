@@ -1,21 +1,21 @@
 {
   "брянск": {
     "display_name": "Брянская область",
-    "type": "shelling",
-    "text": "Белая Березка и близлежащие, Трубчевский район, Брянская область - обстрел. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-11T10:32:01+00:00",
-    "expires_at": "2026-10-11T11:32:01+00:00",
+    "type": "drone",
+    "text": "Брянская область\nОпасность по БПЛА сохраняется",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-11T11:44:09+00:00",
+    "expires_at": "2026-10-11T12:44:09+00:00",
     "count": null,
     "count_approx": false
   },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Калужская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-11T10:51:21+00:00",
-    "expires_at": "2026-10-11T11:51:21+00:00",
+    "text": "Калужская область, Смоленская область - опасность по БПЛА от Брянской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-11T11:42:55+00:00",
+    "expires_at": "2026-10-11T12:42:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -42,10 +42,10 @@
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
-    "text": "Смоленская область\nМосковская область\nВоронежская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-11T11:22:00+00:00",
-    "expires_at": "2026-10-11T12:22:00+00:00",
+    "text": "Калужская область, Смоленская область - опасность по БПЛА от Брянской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-11T11:42:55+00:00",
+    "expires_at": "2026-10-11T12:42:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +66,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-11T11:22:47+00:00",
     "expires_at": "2026-10-11T12:22:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "От Рыльске до Коренево, Курская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-11T11:43:19+00:00",
+    "expires_at": "2026-10-11T12:43:19+00:00",
     "count": null,
     "count_approx": false
   }
