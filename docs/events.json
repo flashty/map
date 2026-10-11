@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_97752",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T07:58:49+00:00",
-    "text": "Московская область\nОтбой опасности по МВШ",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_97753",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T07:59:08+00:00",
-    "text": "Смоленская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_97754",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T07:59:32+00:00",
-    "text": "Калужская область\nОтбой опасности по МВШ",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_97755",
     "channel": "vrv_radar",
     "date": "2026-10-10T08:00:08+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247900",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T09:04:49+00:00",
+    "text": "Каланчак и далее на юг \nХерсонская область РФ \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139528",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T09:05:02+00:00",
+    "text": "Каланчак и далее на юг \nХерсонская область РФ \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247901",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T09:15:45+00:00",
+    "text": "Армавир и близлежащие \nОпасность по мвш\nКраснодарский край",
+    "type": "alert",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
