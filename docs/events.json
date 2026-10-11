@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_247471_Погарский",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T08:47:13+00:00",
-    "text": "Погарский район , тревога по бпла Дартс\nБрянская область",
-    "type": "drone",
-    "location_name": "Погарский",
-    "region": "Брянская область",
-    "lat": 52.5207056,
-    "lon": 33.2053408
-  },
-  {
-    "id": "kupolrussia_139149_Погарский",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T08:47:29+00:00",
-    "text": "Погарский район , тревога по бпла Дартс\nБрянская область",
-    "type": "drone",
-    "location_name": "Погарский",
-    "region": "Брянская область",
-    "lat": 52.5207056,
-    "lon": 33.2053408
-  },
-  {
-    "id": "LPRalarm_247472",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T08:54:54+00:00",
-    "text": "Новоазовский район \nТельманово и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_139150",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T08:54:58+00:00",
-    "text": "Новоазовский район \nТельманово и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_247473",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T09:02:14+00:00",
-    "text": "Акимовка и близлежащие\nОпасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_139151",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T09:02:35+00:00",
-    "text": "Акимовка и близлежащие\n\nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_247474_Мелитопольский",
     "channel": "LPRalarm",
     "date": "2026-10-10T09:09:47+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Орловская область",
     "lat": 52.9974809,
     "lon": 36.066136
+  },
+  {
+    "id": "kupolrussia_139540",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T10:16:30+00:00",
+    "text": "Брянская область \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247918",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T10:27:02+00:00",
+    "text": "Белая Березка \nРСЗО \nБрянская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139541",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T10:27:15+00:00",
+    "text": "Белая Березка \nРСЗО \nБрянская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247919",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T10:29:43+00:00",
+    "text": "Еще пуски РСЗО в направлении Белая Березка \nБрянская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139542",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T10:29:51+00:00",
+    "text": "Еще пуски РСЗО в направлении Белая Березка \nБрянская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_98077",
+    "channel": "vrv_radar",
+    "date": "2026-10-11T10:30:55+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
   }
 ]
