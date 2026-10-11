@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_97872",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T19:41:45+00:00",
-    "text": "Нижегородская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Нижегородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_139383",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T19:41:49+00:00",
-    "text": "Марковка и близлежащие ЛНР\nТревога по БПЛА сохраняется\nФиксации от Запорожское\nИ далее в направлении\nВоронежской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_98950_Плавский",
     "channel": "radarrussiia",
     "date": "2026-10-10T19:41:54+00:00",
@@ -21996,6 +21974,28 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_248151",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T22:14:04+00:00",
+    "text": "Селидово\nКурахово\nУгледар\nИ близлежащие\nТревога по БПЛА\nИ далее возможно в направлении\nМариуполь\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139742",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T22:14:20+00:00",
+    "text": "Селидово\nКурахово\nУгледар\nИ близлежащие\nТревога по БПЛА\nИ далее возможно в направлении\nМариуполь\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
