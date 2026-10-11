@@ -1,11 +1,11 @@
 {
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Сочи, Адлер, Сириус и близлежащие, Краснодарский край - опасность по БПЛА сохраняется. Укрытие не покидаем! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-11T01:34:36+00:00",
-    "expires_at": "2026-10-11T02:34:36+00:00",
+    "type": "alert",
+    "text": "Сочи \nКраснодарский край\nПродолжается работа ПВО\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-11T01:52:49+00:00",
+    "expires_at": "2026-10-11T02:52:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +46,46 @@
     "channel": "locatorru",
     "updated_at": "2026-10-11T01:23:53+00:00",
     "expires_at": "2026-10-11T02:23:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Репьёвский район\nВоронежская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-11T01:59:03+00:00",
+    "expires_at": "2026-10-11T02:59:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "drone",
+    "text": "Задонский район\nЛипецкая область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-11T01:59:20+00:00",
+    "expires_at": "2026-10-11T02:59:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Советский район\nРостовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-11T01:59:36+00:00",
+    "expires_at": "2026-10-11T02:59:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградская область",
+    "type": "drone",
+    "text": "Новониколаевский район\nСерафимовичский район\nВолгоградская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-11T02:01:05+00:00",
+    "expires_at": "2026-10-11T03:01:05+00:00",
     "count": null,
     "count_approx": false
   }
