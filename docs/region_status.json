@@ -12,30 +12,20 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Чубковичи и далее по направлению на Стародуб тревога по БПЛА \nБрянская область",
+    "text": "Рохманово и далее на север \nТревога по БПЛА \nБрянская область",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-11T14:59:01+00:00",
-    "expires_at": "2026-10-11T15:59:01+00:00",
+    "updated_at": "2026-10-11T15:15:07+00:00",
+    "expires_at": "2026-10-11T16:15:07+00:00",
     "count": null,
     "count_approx": false
   },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Светлодолинское и ближайшие опасность по БПЛА разведку \nЗапорожская область РФ",
+    "text": "Мелитополь и ближайшие \nОпасность по БПЛА \nЗапорожская область РФ",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-11T14:18:05+00:00",
-    "expires_at": "2026-10-11T15:18:05+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ярославск": {
-    "display_name": "Ярославская область",
-    "type": "alert",
-    "text": "Ярославская область\nОпасность по МВШ\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-11T14:14:09+00:00",
-    "expires_at": "2026-10-11T15:14:09+00:00",
+    "updated_at": "2026-10-11T15:13:55+00:00",
+    "expires_at": "2026-10-11T16:13:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +46,36 @@
     "channel": "locatorru",
     "updated_at": "2026-10-11T14:27:50+00:00",
     "expires_at": "2026-10-11T15:27:50+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "alert",
+    "text": "ГО Домодедово\nМосковская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-11T15:06:19+00:00",
+    "expires_at": "2026-10-11T16:06:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Смоленская область, Калужская область - опасность по БПЛА от Брянской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-11T15:15:46+00:00",
+    "expires_at": "2026-10-11T16:15:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Смоленская область, Калужская область - опасность по БПЛА от Брянской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-11T15:15:46+00:00",
+    "expires_at": "2026-10-11T16:15:46+00:00",
     "count": null,
     "count_approx": false
   }

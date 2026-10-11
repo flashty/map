@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-11T14:49:48+00:00",
+        "last_updated": "2026-10-11T15:06:13+00:00",
+        "path_labels": [
+          "Клинцы (Брянская область)",
+          "Найтоповичи (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.240097,
+            52.758511
+          ],
+          [
+            32.6531746,
+            52.7596446
+          ]
+        ]
+      }
+    }
+  ]
 }
