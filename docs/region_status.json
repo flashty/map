@@ -12,30 +12,10 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Луганск и близлежащие\nТревога по БПЛА\nЛНР",
+    "text": "Новосветловка и ближайшие ЛНР\nТревога по БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-11T23:11:16+00:00",
-    "expires_at": "2026-10-12T00:11:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "волгоградск": {
-    "display_name": "Волгоградской области",
-    "type": "drone",
-    "text": "Боковская и близлежащие\nТревога по БПЛА\nИ далее в направлении\nМорозовск Ростовская область \nВозможно в направлении\nВолгоградской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-11T22:32:27+00:00",
-    "expires_at": "2026-10-11T23:32:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянск и близлежащие\nТревога по БПЛА\nСоблюдайте меры безопасности\nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-11T22:33:41+00:00",
-    "expires_at": "2026-10-11T23:33:41+00:00",
+    "updated_at": "2026-10-11T23:40:25+00:00",
+    "expires_at": "2026-10-12T00:40:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,10 +42,10 @@
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Таганрог\nРостовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-11T23:08:16+00:00",
-    "expires_at": "2026-10-12T00:08:16+00:00",
+    "text": "Каменск-Шахтинский\nИ близлежащие\nРостовская область\nТревога по БПЛА\nСоблюдайте меры безопасности",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-11T23:42:08+00:00",
+    "expires_at": "2026-10-12T00:42:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +56,26 @@
     "channel": "locatorru",
     "updated_at": "2026-10-11T23:26:40+00:00",
     "expires_at": "2026-10-12T00:26:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "shelling",
+    "text": "Каховка артобстрел\nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-11T23:43:22+00:00",
+    "expires_at": "2026-10-12T00:43:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Валуйки, Белгородская область - фиксация БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-11T23:45:24+00:00",
+    "expires_at": "2026-10-12T00:45:24+00:00",
     "count": null,
     "count_approx": false
   }
