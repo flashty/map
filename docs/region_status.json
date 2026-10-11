@@ -1,31 +1,21 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Авдеевка, Ясиноватая, Донецк и близлежащие \nОпасность по БПЛА \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-11T16:58:11+00:00",
-    "expires_at": "2026-10-11T17:58:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
-    "type": "drone",
-    "text": "ГО Домодедово\nМосковская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-11T17:44:51+00:00",
-    "expires_at": "2026-10-11T18:44:51+00:00",
+    "type": "alert",
+    "text": "МО Волоколамск\nМосковская область\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-11T17:58:55+00:00",
+    "expires_at": "2026-10-11T18:58:55+00:00",
     "count": null,
     "count_approx": false
   },
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
-    "text": "Тверская область \nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-11T17:32:53+00:00",
-    "expires_at": "2026-10-11T18:32:53+00:00",
+    "text": "Пеновский район\nТверская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-11T17:57:10+00:00",
+    "expires_at": "2026-10-11T18:57:10+00:00",
     "count": null,
     "count_approx": false
   },
@@ -112,10 +102,10 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Одоевский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-11T17:39:59+00:00",
-    "expires_at": "2026-10-11T18:39:59+00:00",
+    "text": "Дубенский район\nОдоевский район\nТульская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-11T17:57:58+00:00",
+    "expires_at": "2026-10-11T18:57:58+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +116,46 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-11T17:42:55+00:00",
     "expires_at": "2026-10-11T18:42:55+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Мыс Казантип и близлежащие\nТревога по БПЛА\nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-11T17:47:48+00:00",
+    "expires_at": "2026-10-11T18:47:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ярославск": {
+    "display_name": "Ярославская область",
+    "type": "drone",
+    "text": "Ярославская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-11T17:48:42+00:00",
+    "expires_at": "2026-10-11T18:48:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Воскресенка и ближайшие и далее в Азовское море\nТревога по БПЛА\n Запорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-11T17:58:54+00:00",
+    "expires_at": "2026-10-11T18:58:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Орловская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-11T18:00:47+00:00",
+    "expires_at": "2026-10-11T19:00:47+00:00",
     "count": null,
     "count_approx": false
   }
