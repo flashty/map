@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_247401_Матвеев Курган",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T04:25:04+00:00",
-    "text": "Матвеев Курган, Таганрог, Ростов-на-Дону ракетная опасность",
-    "type": "missile",
-    "location_name": "Матвеев Курган",
-    "region": null,
-    "lat": 47.568459,
-    "lon": 38.861942
-  },
-  {
-    "id": "LPRalarm_247401_Таганрог",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T04:25:04+00:00",
-    "text": "Матвеев Курган, Таганрог, Ростов-на-Дону ракетная опасность",
-    "type": "missile",
-    "location_name": "Таганрог",
-    "region": null,
-    "lat": 47.215495,
-    "lon": 38.928362
-  },
-  {
-    "id": "kupolrussia_139078_Матвеев Курган",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T04:25:18+00:00",
-    "text": "Матвеев Курган, Таганрог, Ростов-на-Дону ракетная опасность\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": "Матвеев Курган",
-    "region": null,
-    "lat": 47.568459,
-    "lon": 38.861942
-  },
-  {
-    "id": "kupolrussia_139078_Таганрог",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T04:25:18+00:00",
-    "text": "Матвеев Курган, Таганрог, Ростов-на-Дону ракетная опасность\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": "Таганрог",
-    "region": null,
-    "lat": 47.215495,
-    "lon": 38.928362
-  },
-  {
-    "id": "kupolrussia_139078_Дону",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T04:25:18+00:00",
-    "text": "Матвеев Курган, Таганрог, Ростов-на-Дону ракетная опасность\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": "Дону",
-    "region": null,
-    "lat": 47.2610441,
-    "lon": 39.7249086
-  },
-  {
     "id": "locatorru_89282",
     "channel": "locatorru",
     "date": "2026-10-10T04:25:29+00:00",
@@ -21993,6 +21938,61 @@
     "channel": "vrv_radar",
     "date": "2026-10-11T00:45:38+00:00",
     "text": "Самарская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_89501",
+    "channel": "locatorru",
+    "date": "2026-10-11T00:48:45+00:00",
+    "text": "Самарская область, Оренбургская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_98010",
+    "channel": "vrv_radar",
+    "date": "2026-10-11T00:48:52+00:00",
+    "text": "Владимир \nВладимирская область \nМеры безопасности \nОт окон!",
+    "type": "alert",
+    "location_name": null,
+    "region": "Владимирская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_98011",
+    "channel": "vrv_radar",
+    "date": "2026-10-11T00:51:04+00:00",
+    "text": "Владимир \nВладимирская область \nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Владимирская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_99027",
+    "channel": "radarrussiia",
+    "date": "2026-10-11T00:51:38+00:00",
+    "text": "Владимир \nВладимирская область \nМеры безопасности \nРабота ПВО по БПЛА\nОт окон\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": null,
+    "region": "Владимирская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_99028",
+    "channel": "radarrussiia",
+    "date": "2026-10-11T00:52:07+00:00",
+    "text": "Самарская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
     "type": "all_clear",
     "location_name": null,
     "region": "Самарская область",
