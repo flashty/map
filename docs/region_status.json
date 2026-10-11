@@ -1,24 +1,4 @@
 {
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Старь, Дятьковский район и ближайшие \nДалее в направлении Ивот\nОпасность по БПЛА сохраняется \nБрянская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-11T17:00:47+00:00",
-    "expires_at": "2026-10-11T18:00:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Угранский район\nВяземский район\nТемкинский район\nЕльнинский район\nРославльский район\nСмоленская область\nФиксации групп БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-11T16:50:27+00:00",
-    "expires_at": "2026-10-11T17:50:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -29,33 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "alert",
-    "text": "Село Мокрая Орловка, опасность сбросов с Бабы-Яги.\nГрайворонский район \nБелгородская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-11T16:43:32+00:00",
-    "expires_at": "2026-10-11T17:43:32+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Мценск, Болхов, Шаблыкино, Орёл и близлежащие, Орловская область - опасность по БПЛА и в направлении Тульской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-11T16:45:15+00:00",
-    "expires_at": "2026-10-11T17:45:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Суворовский район\nТульская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "alert",
+    "text": "Алексин\nТульская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-11T16:59:49+00:00",
-    "expires_at": "2026-10-11T17:59:49+00:00",
+    "updated_at": "2026-10-11T17:15:21+00:00",
+    "expires_at": "2026-10-11T18:15:21+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +36,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-11T16:50:05+00:00",
     "expires_at": "2026-10-11T17:50:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовской области",
+    "type": "drone",
+    "text": "Антрацит и близлежащие\nВнимание !!!\nБПЛА разведчик\nИ далее в направлении\nРостовской области",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-11T17:02:25+00:00",
+    "expires_at": "2026-10-11T18:02:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Анапа и близлежащие\nТревога по БПЛА\nКраснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-11T17:05:46+00:00",
+    "expires_at": "2026-10-11T18:05:46+00:00",
     "count": null,
     "count_approx": false
   }
