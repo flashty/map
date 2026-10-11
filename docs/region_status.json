@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Селидово\nКурахово\nУгледар\nИ близлежащие\nТревога по БПЛА\nИ далее возможно в направлении\nМариуполь\nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-11T22:14:20+00:00",
-    "expires_at": "2026-10-11T23:14:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -32,20 +22,10 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Старобельск и близлежащие\nТревога по БПЛА \nЛНР\nИ далее в направлении\nРостовской области",
+    "text": "Луганск и близлежащие\nТревога по БПЛА\nЛНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-11T22:03:18+00:00",
-    "expires_at": "2026-10-11T23:03:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Батайск, Ростов-на-Дону и близлежащие, Ростовская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-11T22:58:18+00:00",
-    "expires_at": "2026-10-11T23:58:18+00:00",
+    "updated_at": "2026-10-11T23:11:16+00:00",
+    "expires_at": "2026-10-12T00:11:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +66,16 @@
     "channel": "locatorru",
     "updated_at": "2026-10-11T22:54:21+00:00",
     "expires_at": "2026-10-11T23:54:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Таганрог\nРостовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-11T23:08:16+00:00",
+    "expires_at": "2026-10-12T00:08:16+00:00",
     "count": null,
     "count_approx": false
   }
