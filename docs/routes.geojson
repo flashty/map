@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-10-11T08:14:44+00:00",
-        "last_updated": "2026-10-11T08:38:10+00:00",
-        "path_labels": [
-          "Знаменский (Орловская область)",
-          "Хотынецкий (Орловская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.066136,
-            52.9974809
-          ],
-          [
-            35.3773008,
-            53.1360589
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }

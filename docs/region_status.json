@@ -9,33 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Стрелковое и близлежащие \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-11T08:38:42+00:00",
-    "expires_at": "2026-10-11T09:38:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Хотынецкий район\nОрловская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-11T08:38:10+00:00",
-    "expires_at": "2026-10-11T09:38:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Курская область, Брянская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-11T09:01:18+00:00",
-    "expires_at": "2026-10-11T10:01:18+00:00",
+    "text": "Почеп и близлежащие \nБрянская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-11T09:43:42+00:00",
+    "expires_at": "2026-10-11T10:43:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,10 +32,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "alert",
-    "text": "Сочи\nАдлер и близлежащие \nОпасность по бэк \nПринять меры безопасности \nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-11T09:30:48+00:00",
-    "expires_at": "2026-10-11T10:30:48+00:00",
+    "text": "Сочи и близлежащие\nКраснодарский край\nОпасность по БЭК",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-11T09:36:53+00:00",
+    "expires_at": "2026-10-11T10:36:53+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +56,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-11T09:26:37+00:00",
     "expires_at": "2026-10-11T10:26:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Волноваха и близлежащие \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-11T09:40:35+00:00",
+    "expires_at": "2026-10-11T10:40:35+00:00",
     "count": null,
     "count_approx": false
   }
