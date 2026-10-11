@@ -2,10 +2,10 @@
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
-    "text": "Зубцовский район\nКалининский район\nКонаковский район\nТверская область\nФиксации БПЛА",
+    "text": "Конаковский район\nТверская область\nЕщё фиксации групп БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-11T18:11:35+00:00",
-    "expires_at": "2026-10-11T19:11:35+00:00",
+    "updated_at": "2026-10-11T18:42:30+00:00",
+    "expires_at": "2026-10-11T19:42:30+00:00",
     "count": null,
     "count_approx": false
   },
@@ -22,30 +22,10 @@
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
-    "text": "Руднянский район\nДемидовский район\nСмоленская область\nФиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-11T18:13:24+00:00",
-    "expires_at": "2026-10-11T19:13:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "псковск": {
-    "display_name": "Псковская область",
-    "type": "drone",
-    "text": "Псковская область\nВНИМАНИЕ!!!\n— ОБЪЯВЛЕН\nчм “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-11T17:37:13+00:00",
-    "expires_at": "2026-10-11T18:37:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Дубенский район\nОдоевский район\nТульская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-11T17:57:58+00:00",
-    "expires_at": "2026-10-11T18:57:58+00:00",
+    "text": "Рославльский район\nЕршичский район\nСмоленская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-11T18:37:17+00:00",
+    "expires_at": "2026-10-11T19:37:17+00:00",
     "count": null,
     "count_approx": false
   },
@@ -112,10 +92,10 @@
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
-    "text": "Каланчак\nХерсонская область РФ\nВозможно БПЛА\nБаба-Яга",
+    "text": "Мирное и бшизлежащие\nКаланчакский район\nХерсонская область РФ\nТревога по БПЛА Баба Яга",
     "channel": "LPRalarm",
-    "updated_at": "2026-10-11T18:15:16+00:00",
-    "expires_at": "2026-10-11T19:15:16+00:00",
+    "updated_at": "2026-10-11T18:39:08+00:00",
+    "expires_at": "2026-10-11T19:39:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -142,10 +122,10 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "Московская область\nОпасность по БПЛА\nСохраняется\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-11T18:28:45+00:00",
-    "expires_at": "2026-10-11T19:28:45+00:00",
+    "text": "ГО Клин\nМосковская область\nЕщё фиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-11T18:44:52+00:00",
+    "expires_at": "2026-10-11T19:44:52+00:00",
     "count": null,
     "count_approx": false
   },
@@ -156,6 +136,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-11T18:27:23+00:00",
     "expires_at": "2026-10-11T19:27:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калуга\nКалужская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-11T18:41:09+00:00",
+    "expires_at": "2026-10-11T19:41:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "костромск": {
+    "display_name": "Костромская область",
+    "type": "drone",
+    "text": "Костромская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-11T18:44:15+00:00",
+    "expires_at": "2026-10-11T19:44:15+00:00",
     "count": null,
     "count_approx": false
   }
