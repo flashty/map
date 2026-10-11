@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_97689_Вяземский",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T04:06:11+00:00",
-    "text": "Вяземский район \nУгранский район \nСмоленская область \nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Вяземский",
-    "region": "Смоленская область",
-    "lat": 55.23521,
-    "lon": 34.171403
-  },
-  {
-    "id": "vrv_radar_97689_Угранский",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T04:06:11+00:00",
-    "text": "Вяземский район \nУгранский район \nСмоленская область \nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": "Угранский",
-    "region": "Смоленская область",
-    "lat": 54.7904822,
-    "lon": 34.3736036
-  },
-  {
-    "id": "vrv_radar_97690",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T04:06:59+00:00",
-    "text": "ГО Руза \nМосковская область \nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_139070",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T04:07:30+00:00",
-    "text": "Московская область \nОпасность по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_247394",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T04:07:33+00:00",
-    "text": "Московская область \nОпасность по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_97691",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T04:07:58+00:00",
-    "text": "ГО Одинцово \nМосковская область \nФиксация группы БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_97692",
     "channel": "vrv_radar",
     "date": "2026-10-10T04:08:59+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Краснодарский край",
     "lat": 43.4439715,
     "lon": 39.9400928
+  },
+  {
+    "id": "kupolrussia_139468_Калдево",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T00:16:19+00:00",
+    "text": "Калдево Рязанская область  и далее в направлении  г. Москва  фиксации БПЛА",
+    "type": "drone",
+    "location_name": "Калдево",
+    "region": "Рязанская область",
+    "lat": 55.1347583,
+    "lon": 40.1050325
+  },
+  {
+    "id": "LPRalarm_247838_Калдево",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T00:16:24+00:00",
+    "text": "Калдево Рязанская область  и далее в направлении  г. Москва  фиксации БПЛА",
+    "type": "drone",
+    "location_name": "Калдево",
+    "region": "Рязанская область",
+    "lat": 55.1347583,
+    "lon": 40.1050325
+  },
+  {
+    "id": "LPRalarm_247839",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T00:17:32+00:00",
+    "text": "Армянск и близлежащие \nОпасность по БПЛА с севера \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139469",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T00:17:47+00:00",
+    "text": "Армянск и близлежащие \nОпасность по БПЛА с севера \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_97998",
+    "channel": "vrv_radar",
+    "date": "2026-10-11T00:20:42+00:00",
+    "text": "Сочи \nКраснодарский край\nПродолжается работа ПВО",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_97999",
+    "channel": "vrv_radar",
+    "date": "2026-10-11T00:26:59+00:00",
+    "text": "Сочи \nКраснодарский край\nПродолжается работа ПВО\nОт окон!",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
   }
 ]
