@@ -1,104 +1,5 @@
 [
   {
-    "id": "vrv_radar_97768",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T09:24:48+00:00",
-    "text": "Рязанская область\nОпасность по МВШ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_247478",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T09:25:25+00:00",
-    "text": "Осипенко, Бердянск и близлежащие опасность по БПЛА с севера  \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_139156",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T09:26:07+00:00",
-    "text": "Осипенко, Бердянск и близлежащие \nс севера  \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_98866",
-    "channel": "radarrussiia",
-    "date": "2026-10-10T09:26:50+00:00",
-    "text": "Рязанская область\nОпасность по МВШ\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "alert",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_247479",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T09:30:28+00:00",
-    "text": "Валуйский округ Белгородская область ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_139157",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T09:30:45+00:00",
-    "text": "Валуйский округ Белгородская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_247480_Валуйский",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T09:31:14+00:00",
-    "text": "Рсзо Новопокровка \nВалуйский район",
-    "type": "unknown",
-    "location_name": "Валуйский",
-    "region": null,
-    "lat": 53.1481885,
-    "lon": 36.3185713
-  },
-  {
-    "id": "kupolrussia_139158_Валуйский",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T09:31:29+00:00",
-    "text": "Рсзо Новопокровка \nВалуйский район",
-    "type": "unknown",
-    "location_name": "Валуйский",
-    "region": null,
-    "lat": 53.1481885,
-    "lon": 36.3185713
-  },
-  {
-    "id": "LPRalarm_247481_Валуйский",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T09:31:40+00:00",
-    "text": "РСЗО Новопокровка \nВалуйский район\nЕщё пуски",
-    "type": "unknown",
-    "location_name": "Валуйский",
-    "region": null,
-    "lat": 53.1481885,
-    "lon": 36.3185713
-  },
-  {
     "id": "kupolrussia_139159_Валуйский",
     "channel": "kupolrussia",
     "date": "2026-10-10T09:33:28+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247925",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T11:01:31+00:00",
+    "text": "Горловка и близлежащие на восток \nОпасность по БПЛА и ФПВ \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139548",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T11:05:23+00:00",
+    "text": "Горловка и близлежащие на восток \nОпасность по БПЛА и ФПВ \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247926",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T11:06:14+00:00",
+    "text": "Армавир \nОтбой опасность по МРШ",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139549",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T11:06:29+00:00",
+    "text": "Армавир \nОтбой опасность по МРШ",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247927",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T11:10:40+00:00",
+    "text": "Донецк, Макеевка и близлежащие \nОпасность по БПЛА, единичные фиксации \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247928_Преображенка",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T11:11:49+00:00",
+    "text": "Каланчак и далее в направлении Преображенка, Армянск фиксации БПЛА",
+    "type": "drone",
+    "location_name": "Преображенка",
+    "region": null,
+    "lat": 55.7963698,
+    "lon": 37.7153466
+  },
+  {
+    "id": "kupolrussia_139550_Преображенка",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T11:12:03+00:00",
+    "text": "Каланчак и далее в направлении Преображенка, Армянск фиксации БПЛА",
+    "type": "drone",
+    "location_name": "Преображенка",
+    "region": null,
+    "lat": 55.7963698,
+    "lon": 37.7153466
+  },
+  {
+    "id": "kupolrussia_139551",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T11:12:09+00:00",
+    "text": "Донецк, Макеевка и близлежащие \nОпасность по БПЛА, единичные фиксации \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247929",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T11:15:53+00:00",
+    "text": "Активность применения ударных БПЛА на участке дорожного направления Р280 в районах Приморск - Бердянск- Червоное Поле\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
