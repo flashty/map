@@ -9,33 +9,23 @@
     "count": null,
     "count_approx": false
   },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "alert",
-    "text": "Алексин\nТульская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-11T17:15:21+00:00",
-    "expires_at": "2026-10-11T18:15:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "МО Истра\nМосковская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "text": "ГО Раменское\nМосковская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-11T17:00:05+00:00",
-    "expires_at": "2026-10-11T18:00:05+00:00",
+    "updated_at": "2026-10-11T17:27:01+00:00",
+    "expires_at": "2026-10-11T18:27:01+00:00",
     "count": null,
     "count_approx": false
   },
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
-    "text": "Тверская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "text": "Жарковский район\nТверская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-11T16:50:05+00:00",
-    "expires_at": "2026-10-11T17:50:05+00:00",
+    "updated_at": "2026-10-11T17:22:49+00:00",
+    "expires_at": "2026-10-11T18:22:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,10 +42,70 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Анапа и близлежащие\nТревога по БПЛА\nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-11T17:05:46+00:00",
-    "expires_at": "2026-10-11T18:05:46+00:00",
+    "text": "Краснодарский край\nРеспублика Адыгея \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-11T17:23:05+00:00",
+    "expires_at": "2026-10-11T18:23:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Дорогобужский район\nГлинковский район\nПочинковский район\nГагаринский район\nНоводугинский район\nСмоленская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-11T17:22:15+00:00",
+    "expires_at": "2026-10-11T18:22:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "alert",
+    "text": "Тульская область \nРязанская область \nПринять меры безопасности",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-11T17:20:57+00:00",
+    "expires_at": "2026-10-11T18:20:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-11T17:23:05+00:00",
+    "expires_at": "2026-10-11T18:23:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калуга\nКалужская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-11T17:22:42+00:00",
+    "expires_at": "2026-10-11T18:22:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "drone",
+    "text": "Владимирская область, Владимир\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-11T17:23:45+00:00",
+    "expires_at": "2026-10-11T18:23:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Тульская область \nПринять меры безопасности \nМножественные фиксации БПЛА\nи\n<>\nРК",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-11T17:30:43+00:00",
+    "expires_at": "2026-10-11T18:30:43+00:00",
     "count": null,
     "count_approx": false
   }
