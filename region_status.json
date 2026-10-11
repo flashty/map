@@ -1,14 +1,4 @@
 {
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Ракитное \nТревога по БПЛА \nБелгородская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-11T06:01:44+00:00",
-    "expires_at": "2026-10-11T07:01:44+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -16,6 +6,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-11T06:08:11+00:00",
     "expires_at": "2026-10-11T07:08:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Каланчак и близлежащие \nЕщё фиксации БПЛА Хорнет \nПринять меры безопасности \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-11T06:43:45+00:00",
+    "expires_at": "2026-10-11T07:43:45+00:00",
     "count": null,
     "count_approx": false
   }

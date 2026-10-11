@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_247436",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T06:50:07+00:00",
-    "text": "Ивановская область\nВладимирская область\nВологодская область\n3“ “\nжай ОТБОЙ\nл\\ь ОПАСНОСТИ ПО БПЛА\n2.",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ивановская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_97741",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T06:50:31+00:00",
-    "text": "Ярославская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ярославская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_98857",
-    "channel": "radarrussiia",
-    "date": "2026-10-10T06:50:54+00:00",
-    "text": "Ярославская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ярославская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_97742",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T06:55:33+00:00",
-    "text": "Воронежская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_247437",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T06:56:51+00:00",
-    "text": "Климово и близлежащие \nБрянская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_139115",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T06:57:09+00:00",
-    "text": "Климово и близлежащие \nБрянская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_97743",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T06:58:25+00:00",
-    "text": "Республика Чувашия\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Чувашия",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_97744",
     "channel": "vrv_radar",
     "date": "2026-10-10T06:58:34+00:00",
@@ -21996,6 +21919,83 @@
     "type": "alert",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247872",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T06:31:38+00:00",
+    "text": "Каланчак и далее на Юг фиксация БПЛА Хорнет \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15009",
+    "channel": "radar_plus_bpla",
+    "date": "2026-10-11T06:31:40+00:00",
+    "text": "⚡️За ночь силами ПВО было уничтожено 479 БПЛА над территориями Белгородской, Брянской, Курской, Тульской, Рязанской, Орловской, Липецкой, Воронежской, Тамбовской, Нижегородской, Владимирской, Саратовской, Самарской, Пензенской, Волгоградской, Ростовской областей, Краснодарского края, Республики Крым и над акваторией Черного моря.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородской областей",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139502",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T06:31:55+00:00",
+    "text": "Каланчак и далее на Юг фиксация БПЛА Хорнет \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139503",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T06:38:49+00:00",
+    "text": "Саратовская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247873",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T06:38:51+00:00",
+    "text": "Саратовская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247874",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T06:43:31+00:00",
+    "text": "Каланчак и близлежащие \nЕщё фиксации БПЛА Хорнет \nПринять меры безопасности \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139504",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T06:43:45+00:00",
+    "text": "Каланчак и близлежащие \nЕщё фиксации БПЛА Хорнет \nПринять меры безопасности \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
     "lat": null,
     "lon": null
   }
