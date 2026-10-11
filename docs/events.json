@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_139100",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T05:29:51+00:00",
-    "text": "Внимание трасса Р-280 Приморск - Бердянск - Осипенко\nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_97715",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T05:29:58+00:00",
-    "text": "ГО Дубна \nМосковская область \nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_139102",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T05:34:07+00:00",
-    "text": "Тверская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тверская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_139101",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T05:34:07+00:00",
-    "text": "Костромская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Костромская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_247424",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T05:34:11+00:00",
-    "text": "Тверская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тверская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_247423",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T05:34:11+00:00",
-    "text": "Костромская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Костромская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_139103",
     "channel": "kupolrussia",
     "date": "2026-10-10T05:34:33+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Липецкая область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "kupolrussia_139481",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T03:37:52+00:00",
+    "text": "Республика Чувашия\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Чувашия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247850",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T03:37:55+00:00",
+    "text": "Республика Чувашия\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Чувашия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139482",
+    "channel": "kupolrussia",
+    "date": "2026-10-11T03:38:11+00:00",
+    "text": "Ульяновская область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247851",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T03:38:15+00:00",
+    "text": "Ульяновская область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_247852_Сочи",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T03:45:19+00:00",
+    "text": "Сочи, Адлер, Сириус \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": "Сочи",
+    "region": null,
+    "lat": 43.5854823,
+    "lon": 39.723109
+  },
+  {
+    "id": "LPRalarm_247852_Адлер",
+    "channel": "LPRalarm",
+    "date": "2026-10-11T03:45:19+00:00",
+    "text": "Сочи, Адлер, Сириус \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": "Адлер",
+    "region": null,
+    "lat": 43.4439715,
+    "lon": 39.9400928
   }
 ]
