@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-12T16:09:07+00:00",
+        "last_updated": "2026-10-12T16:43:15+00:00",
+        "path_labels": [
+          "Климово (Брянская область)",
+          "Высокое (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.1971433,
+            52.3790542
+          ],
+          [
+            32.726681,
+            53.023911
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-12T16:09:07+00:00",
+        "last_updated": "2026-10-12T16:43:15+00:00",
+        "path_labels": [
+          "Стародуб (Брянская область)",
+          "Рохманово (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.7603126,
+            52.5853016
+          ],
+          [
+            32.8823703,
+            52.7501468
+          ]
+        ]
+      }
+    }
+  ]
 }
