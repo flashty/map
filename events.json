@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_97936",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T21:31:02+00:00",
-    "text": "Стык Воронежской и Ростовской областей\nФиксации групп БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовской областей",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_139431",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T21:31:09+00:00",
-    "text": "Курск меры безопасности при БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_139430",
     "channel": "kupolrussia",
     "date": "2026-10-10T21:31:09+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Белгородская область",
     "lat": 50.4221435,
     "lon": 37.8307569
+  },
+  {
+    "id": "LPRalarm_248286",
+    "channel": "LPRalarm",
+    "date": "2026-10-12T10:37:17+00:00",
+    "text": "Осипенко, Бердянск \nОпасность по БПЛА\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139844",
+    "channel": "kupolrussia",
+    "date": "2026-10-12T10:37:25+00:00",
+    "text": "Осипенко, Бердянск \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
   }
 ]
