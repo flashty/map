@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_97972",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T22:51:43+00:00",
-    "text": "Сочи \nКраснодарский край\nПродолжается работа ПВО\nМеры безопасности",
-    "type": "alert",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_247825_Кромы",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T22:53:06+00:00",
-    "text": "Кромы, Орловская область и близлежащие и далее в тыл \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Кромы",
-    "region": "Орловская область",
-    "lat": 52.6894445,
-    "lon": 35.7736585
-  },
-  {
-    "id": "kupolrussia_139456_Кромы",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T22:53:14+00:00",
-    "text": "Кромы, Орловская область и близлежащие и далее в тыл \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Кромы",
-    "region": "Орловская область",
-    "lat": 52.6894445,
-    "lon": 35.7736585
-  },
-  {
-    "id": "LPRalarm_247826",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T22:53:53+00:00",
-    "text": "Сочи в море фиксации БПЛА продолжаются. Меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_139457",
     "channel": "kupolrussia",
     "date": "2026-10-10T22:54:02+00:00",
@@ -21996,6 +21952,50 @@
     "type": "alert",
     "location_name": null,
     "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_248343",
+    "channel": "LPRalarm",
+    "date": "2026-10-12T15:08:51+00:00",
+    "text": "Армянск \nКрасноперекопский район и близлежащие \nОпасность по БПЛА Хорнет \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139895",
+    "channel": "kupolrussia",
+    "date": "2026-10-12T15:08:57+00:00",
+    "text": "Армянск \nКрасноперекопский район и близлежащие \nОпасность по БПЛА Хорнет \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_248344",
+    "channel": "LPRalarm",
+    "date": "2026-10-12T15:09:43+00:00",
+    "text": "Бердянск \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139896",
+    "channel": "kupolrussia",
+    "date": "2026-10-12T15:10:00+00:00",
+    "text": "Бердянск \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
