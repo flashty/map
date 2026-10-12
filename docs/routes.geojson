@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-11T23:05:56+00:00",
+        "last_updated": "2026-10-11T23:45:51+00:00",
+        "path_labels": [
+          "Таганрог (Ростовская область)",
+          "Матвеев Курган (Ростовская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.928362,
+            47.215495
+          ],
+          [
+            38.861942,
+            47.568459
+          ]
+        ]
+      }
+    }
+  ]
 }
