@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_247829",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T22:59:50+00:00",
-    "text": "Макеевка, Ясиноватая, Донецк ДНР \nИ близлежащие опасность по БПЛА повторно",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_97975",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T23:01:35+00:00",
-    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_89479",
     "channel": "locatorru",
     "date": "2026-10-10T23:02:06+00:00",
@@ -21996,6 +21974,28 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_248352",
+    "channel": "LPRalarm",
+    "date": "2026-10-12T15:39:39+00:00",
+    "text": "Осипенко \nБердянск и близлежайшие \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139904",
+    "channel": "kupolrussia",
+    "date": "2026-10-12T15:39:57+00:00",
+    "text": "Осипенко \nБердянск и близлежайшие \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
