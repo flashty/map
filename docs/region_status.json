@@ -1,11 +1,11 @@
 {
   "запорожск": {
-    "display_name": "Запорожская область",
+    "display_name": "Запорожской область",
     "type": "drone",
-    "text": "Мелитополь \nКонстантиновка \nНововасилевка \nМолочанск \nТокмак \nВладовка \nПриморск\nБотиево и близлежащие \nЗапорожская область РФ \nТревога по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-12T19:14:58+00:00",
-    "expires_at": "2026-10-12T20:14:58+00:00",
+    "text": "Над Запорожской областью РФ продолжаются фиксации ударных БПЛА в направлении акватории Азовского моря. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-12T19:24:17+00:00",
+    "expires_at": "2026-10-12T20:24:17+00:00",
     "count": null,
     "count_approx": false
   },
@@ -19,33 +19,23 @@
     "count": null,
     "count_approx": false
   },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "Наро-Фоминский район, Можайский район, Одинцовский район, Рузский район, Московская область - опасность по БПЛА сохраняется. Ещё фиксации от Калужской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-12T19:15:40+00:00",
-    "expires_at": "2026-10-12T20:15:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Карачев, Глыбочка \nТревога по БПЛА сохраняется и далее на север\nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-12T19:11:47+00:00",
-    "expires_at": "2026-10-12T20:11:47+00:00",
+    "text": "Сельцо, Брянская область - пролёты БПЛА в сторону Калужской области.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-12T19:20:10+00:00",
+    "expires_at": "2026-10-12T20:20:10+00:00",
     "count": null,
     "count_approx": false
   },
   "белгородск": {
-    "display_name": "Белгородская область",
+    "display_name": "Белгородской области",
     "type": "drone",
-    "text": "Майский и близлежащие\nБелгородская область\nТревога по БПЛА",
+    "text": "От Чугуева, Харьковская область, в сторону Белгородской области\nПролёты БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-12T19:13:19+00:00",
-    "expires_at": "2026-10-12T20:13:19+00:00",
+    "updated_at": "2026-10-12T19:30:29+00:00",
+    "expires_at": "2026-10-12T20:30:29+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,16 +46,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-12T19:15:58+00:00",
     "expires_at": "2026-10-12T20:15:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Белгородская область \nКурская область \nТревога по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-12T18:31:06+00:00",
-    "expires_at": "2026-10-12T19:31:06+00:00",
     "count": null,
     "count_approx": false
   },
@@ -89,16 +69,6 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калуга \nКалужская область \nРабота ПВО по БПЛА \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-12T19:14:21+00:00",
-    "expires_at": "2026-10-12T20:14:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -112,10 +82,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Горловка, Углегорск, Дебальцево и близлежащие \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "text": "Дебальцево и далее на восток, юго-восток\nДНР\nТревога по БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-12T19:12:38+00:00",
-    "expires_at": "2026-10-12T20:12:38+00:00",
+    "updated_at": "2026-10-12T19:16:46+00:00",
+    "expires_at": "2026-10-12T20:16:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +96,96 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-12T19:13:28+00:00",
     "expires_at": "2026-10-12T20:13:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовскую область",
+    "type": "drone",
+    "text": "Дебальцево\nКрасный Луч\nАнтрацит\nИ близлежащие\nТревога по БПЛА\nИ далее на Ростовскую область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-12T19:17:48+00:00",
+    "expires_at": "2026-10-12T20:17:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "drone",
+    "text": "Липецкая область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-12T19:19:40+00:00",
+    "expires_at": "2026-10-12T20:19:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тамбовск": {
+    "display_name": "Тамбовская область",
+    "type": "drone",
+    "text": "Тамбовская область, Пензенская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-12T19:26:03+00:00",
+    "expires_at": "2026-10-12T20:26:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "днепропетровск": {
+    "display_name": "Днепропетровская область",
+    "type": "drone",
+    "text": "Днепропетровская область \nЗапуски БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-12T19:21:21+00:00",
+    "expires_at": "2026-10-12T20:21:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пензенск": {
+    "display_name": "Пензенская область",
+    "type": "drone",
+    "text": "Тамбовская область, Пензенская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-12T19:26:03+00:00",
+    "expires_at": "2026-10-12T20:26:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "саратовск": {
+    "display_name": "Саратовская область",
+    "type": "drone",
+    "text": "Пензенская область \nСаратовская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-12T19:25:31+00:00",
+    "expires_at": "2026-10-12T20:25:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Серпухов \nМосковская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-12T19:26:47+00:00",
+    "expires_at": "2026-10-12T20:26:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Воронежская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-12T19:27:18+00:00",
+    "expires_at": "2026-10-12T20:27:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "харьковск": {
+    "display_name": "Харьковская область",
+    "type": "drone",
+    "text": "От Чугуева, Харьковская область, в сторону Белгородской области\nПролёты БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-12T19:30:29+00:00",
+    "expires_at": "2026-10-12T20:30:29+00:00",
     "count": null,
     "count_approx": false
   }
