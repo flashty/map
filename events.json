@@ -1,60 +1,5 @@
 [
   {
-    "id": "radarrussiia_98993_Среднеахтубинский",
-    "channel": "radarrussiia",
-    "date": "2026-10-10T22:01:23+00:00",
-    "text": "Среднеахтубинский район\nВолгоградская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": "Среднеахтубинский",
-    "region": "Волгоградская область",
-    "lat": 48.8929798,
-    "lon": 44.8725893
-  },
-  {
-    "id": "vrv_radar_97949",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T22:01:33+00:00",
-    "text": "Сочи \nКраснодарский край\nПродолжается работа ПВО",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_89470",
-    "channel": "locatorru",
-    "date": "2026-10-10T22:01:37+00:00",
-    "text": "Тумкино, Тереньгульский район, Ульяновская область - фиксации БПЛА в сторону Новоспасского района, далее на Самарскую область. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_89471_Тольятти",
-    "channel": "locatorru",
-    "date": "2026-10-10T22:02:04+00:00",
-    "text": "Тольятти, Сызрань, Самара, Новокуйбышевск, Самарская область - внимание по БПЛА от Новоспасского района. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Тольятти",
-    "region": "Самарская область",
-    "lat": 53.5098845,
-    "lon": 49.4189187
-  },
-  {
-    "id": "locatorru_89471_Сызрань",
-    "channel": "locatorru",
-    "date": "2026-10-10T22:02:04+00:00",
-    "text": "Тольятти, Сызрань, Самара, Новокуйбышевск, Самарская область - внимание по БПЛА от Новоспасского района. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Сызрань",
-    "region": "Самарская область",
-    "lat": 53.15538,
-    "lon": 48.474121
-  },
-  {
     "id": "locatorru_89471_Самара",
     "channel": "locatorru",
     "date": "2026-10-10T22:02:04+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_248311",
+    "channel": "LPRalarm",
+    "date": "2026-10-12T12:38:21+00:00",
+    "text": "Кача \nБельбек \nСевастополь опасность по БПЛА с моря",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139866_Кача",
+    "channel": "kupolrussia",
+    "date": "2026-10-12T12:38:35+00:00",
+    "text": "Кача \nБельбек \nСевастополь\n с моря\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Кача",
+    "region": null,
+    "lat": 56.1972669,
+    "lon": 92.5363666
+  },
+  {
+    "id": "kupolrussia_139866_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-10-12T12:38:35+00:00",
+    "text": "Кача \nБельбек \nСевастополь\n с моря\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "LPRalarm_248312",
+    "channel": "LPRalarm",
+    "date": "2026-10-12T12:44:01+00:00",
+    "text": "Южная часть Ростовской области\nОтбой беспилотной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139867",
+    "channel": "kupolrussia",
+    "date": "2026-10-12T12:44:33+00:00",
+    "text": "Южная часть Ростовской области\n3“ “\nжай ОТБОЙ\nл\\ь ОПАСНОСТИ ПО БПЛА\n2.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовской области",
     "lat": null,
     "lon": null
   }
