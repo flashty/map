@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_139416",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T20:54:10+00:00",
-    "text": "Стерегущее \nРаздольное \nПортовое и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_247775",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T20:54:17+00:00",
-    "text": "Стаханов и близлежащие \nОпасность по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_139417",
-    "channel": "kupolrussia",
-    "date": "2026-10-10T20:54:22+00:00",
-    "text": "Стаханов и близлежащие \nОпасность по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_89457",
-    "channel": "locatorru",
-    "date": "2026-10-10T20:54:50+00:00",
-    "text": "Липецкая область, Тамбовская область, Саратовская область, Пензенская область - повторно, внимание по массовому пролёту БПЛА от Воронежской области, Ростовской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_97915_Сочи",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T20:55:15+00:00",
-    "text": "Сочи\nКраснодарский край\nПродолжается работа ПВО",
-    "type": "unknown",
-    "location_name": "Сочи",
-    "region": "Краснодарский край",
-    "lat": 43.5854823,
-    "lon": 39.723109
-  },
-  {
     "id": "vrv_radar_97916_Сочи",
     "channel": "vrv_radar",
     "date": "2026-10-10T20:55:57+00:00",
@@ -21998,5 +21943,60 @@
     "region": null,
     "lat": 66.8198841,
     "lon": 65.8038835
+  },
+  {
+    "id": "LPRalarm_248240_Белая Берёзка",
+    "channel": "LPRalarm",
+    "date": "2026-10-12T07:38:21+00:00",
+    "text": "Белая Берёзка, возможно применение РСЗО\nБрянская область",
+    "type": "unknown",
+    "location_name": "Белая Берёзка",
+    "region": "Брянская область",
+    "lat": 52.381847,
+    "lon": 33.487415
+  },
+  {
+    "id": "LPRalarm_248241",
+    "channel": "LPRalarm",
+    "date": "2026-10-12T07:41:01+00:00",
+    "text": "В направлении Марковка ЛНР от Новопсков БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_139811_Белая Берёзка",
+    "channel": "kupolrussia",
+    "date": "2026-10-12T07:41:22+00:00",
+    "text": "Белая Берёзка, возможно применение РСЗО\nБрянская область",
+    "type": "unknown",
+    "location_name": "Белая Берёзка",
+    "region": "Брянская область",
+    "lat": 52.381847,
+    "lon": 33.487415
+  },
+  {
+    "id": "kupolrussia_139812",
+    "channel": "kupolrussia",
+    "date": "2026-10-12T07:41:29+00:00",
+    "text": "В направлении Марковка ЛНР от Новопсков БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_248242_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-10-12T07:44:39+00:00",
+    "text": "Белгородский район опасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
   }
 ]
