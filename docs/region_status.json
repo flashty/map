@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка и близлежащие на восток, ю-в \nОпасность по БПЛА и ФПВ \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-12T15:46:40+00:00",
-    "expires_at": "2026-10-12T16:46:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
@@ -26,26 +16,6 @@
     "channel": "locatorru",
     "updated_at": "2026-10-12T16:03:43+00:00",
     "expires_at": "2026-10-12T17:03:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "missile",
-    "text": "ЛНР \nРакетная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-12T16:44:48+00:00",
-    "expires_at": "2026-10-12T17:44:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Рохманово, Высокое\nБрянская область\nИ далее в тыл на северо-восток\nТревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-12T16:43:15+00:00",
-    "expires_at": "2026-10-12T17:43:15+00:00",
     "count": null,
     "count_approx": false
   },
@@ -79,13 +49,23 @@
     "count": null,
     "count_approx": false
   },
-  "ростовск": {
-    "display_name": "Ростовской области",
-    "type": "missile",
-    "text": "северная часть Ростовской области - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-12T16:45:43+00:00",
-    "expires_at": "2026-10-12T17:45:43+00:00",
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Гвардейское \nСимферополь и близлежащие \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-12T16:47:34+00:00",
+    "expires_at": "2026-10-12T17:47:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Погребы\nБрасовский район \nИ близлежащие\nТревога по БПЛА\nДалее возможно в направлении\nНавля\nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-12T16:55:13+00:00",
+    "expires_at": "2026-10-12T17:55:13+00:00",
     "count": null,
     "count_approx": false
   }
