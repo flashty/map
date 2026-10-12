@@ -1,71 +1,5 @@
 [
   {
-    "id": "locatorru_89440",
-    "channel": "locatorru",
-    "date": "2026-10-10T20:06:38+00:00",
-    "text": "Астраханская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Астраханская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_89441_Белинский",
-    "channel": "locatorru",
-    "date": "2026-10-10T20:08:03+00:00",
-    "text": "Белинский район, Пензенская область - опасность по БПЛА. Есть фиксация. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Белинский",
-    "region": "Пензенская область",
-    "lat": 52.9669338,
-    "lon": 43.4130625
-  },
-  {
-    "id": "vrv_radar_97886_Балашовский",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T20:08:08+00:00",
-    "text": "Балашовский район\nСаратовская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Балашовский",
-    "region": "Саратовская область",
-    "lat": 51.4916866,
-    "lon": 43.1611071
-  },
-  {
-    "id": "LPRalarm_247745",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T20:08:52+00:00",
-    "text": "Форос и близлежащие\nТревога по БПЛА с моря\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_89442_Пачелма",
-    "channel": "locatorru",
-    "date": "2026-10-10T20:09:53+00:00",
-    "text": "Пачелма, Нижний Ломов, Вадинск и близлежащие, Пензенская область - в вашу сторону БПЛА от Белинского района. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Пачелма",
-    "region": "Пензенская область",
-    "lat": 53.3320723,
-    "lon": 43.3199188
-  },
-  {
-    "id": "locatorru_89442_Нижний Ломов",
-    "channel": "locatorru",
-    "date": "2026-10-10T20:09:53+00:00",
-    "text": "Пачелма, Нижний Ломов, Вадинск и близлежащие, Пензенская область - в вашу сторону БПЛА от Белинского района. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Нижний Ломов",
-    "region": "Пензенская область",
-    "lat": 53.529991,
-    "lon": 43.673626
-  },
-  {
     "id": "LPRalarm_247746",
     "channel": "LPRalarm",
     "date": "2026-10-10T20:09:59+00:00",
@@ -21996,6 +21930,72 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Ивановская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_98275",
+    "channel": "vrv_radar",
+    "date": "2026-10-12T02:04:03+00:00",
+    "text": "Нижегородская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_98276",
+    "channel": "vrv_radar",
+    "date": "2026-10-12T02:04:24+00:00",
+    "text": "Ярославская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_98277",
+    "channel": "vrv_radar",
+    "date": "2026-10-12T02:05:05+00:00",
+    "text": "Псковская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_98278",
+    "channel": "vrv_radar",
+    "date": "2026-10-12T02:09:22+00:00",
+    "text": "Новгородская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Новгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_98279",
+    "channel": "vrv_radar",
+    "date": "2026-10-12T02:10:21+00:00",
+    "text": "Тверская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тверская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_98280",
+    "channel": "vrv_radar",
+    "date": "2026-10-12T02:14:50+00:00",
+    "text": "Вологодская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Вологодская область",
     "lat": null,
     "lon": null
   }
