@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_97888",
-    "channel": "vrv_radar",
-    "date": "2026-10-10T20:11:24+00:00",
-    "text": "Сочи и близлежащие\nКраснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_247748",
-    "channel": "LPRalarm",
-    "date": "2026-10-10T20:11:34+00:00",
-    "text": "Шахтёрск и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_139399",
     "channel": "kupolrussia",
     "date": "2026-10-10T20:11:56+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Курская область",
     "lat": 52.12849,
     "lon": 35.075439
+  },
+  {
+    "id": "vrv_radar_98282",
+    "channel": "vrv_radar",
+    "date": "2026-10-12T03:14:59+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_98283",
+    "channel": "vrv_radar",
+    "date": "2026-10-12T03:15:08+00:00",
+    "text": "Орловская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
   }
 ]
