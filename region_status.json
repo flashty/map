@@ -1,14 +1,4 @@
 {
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянская область \nОрловская область\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-13T09:42:01+00:00",
-    "expires_at": "2026-10-13T10:42:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "alert",
@@ -59,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Белгородская область \nКурская область \nОрловская область \nОпасность по БПЛА\n2% > ВНИМАНИЕ!!!\n$ «> ОБЪЯВЛЕН\n\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nХх $ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-13T09:41:13+00:00",
-    "expires_at": "2026-10-13T10:41:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "alert",
@@ -92,10 +72,10 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "alert",
-    "text": "Тульская область \nОпасность по МВШ",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-13T10:17:10+00:00",
-    "expires_at": "2026-10-13T11:17:10+00:00",
+    "text": "Тульская область \nОпасность по МВШ\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-13T10:36:07+00:00",
+    "expires_at": "2026-10-13T11:36:07+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +86,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-13T10:29:05+00:00",
     "expires_at": "2026-10-13T11:29:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Скадовск \nТревога по ударному БПЛА \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-13T10:34:59+00:00",
+    "expires_at": "2026-10-13T11:34:59+00:00",
     "count": null,
     "count_approx": false
   }
