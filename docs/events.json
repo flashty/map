@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_248380_Погарский",
-    "channel": "LPRalarm",
-    "date": "2026-10-12T16:52:39+00:00",
-    "text": "Почепский район\nПогарский район\nБрянская область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Погарский",
-    "region": "Брянская область",
-    "lat": 52.5207056,
-    "lon": 33.2053408
-  },
-  {
-    "id": "kupolrussia_139934_Почепский",
-    "channel": "kupolrussia",
-    "date": "2026-10-12T16:53:08+00:00",
-    "text": "Почепский район\nПогарский район\nБрянская область",
-    "type": "unknown",
-    "location_name": "Почепский",
-    "region": "Брянская область",
-    "lat": 52.9262598,
-    "lon": 33.493436
-  },
-  {
-    "id": "kupolrussia_139934_Погарский",
-    "channel": "kupolrussia",
-    "date": "2026-10-12T16:53:08+00:00",
-    "text": "Почепский район\nПогарский район\nБрянская область",
-    "type": "unknown",
-    "location_name": "Погарский",
-    "region": "Брянская область",
-    "lat": 52.5207056,
-    "lon": 33.2053408
-  },
-  {
-    "id": "LPRalarm_248381",
-    "channel": "LPRalarm",
-    "date": "2026-10-12T16:53:28+00:00",
-    "text": "ЛНР, Ростовская область отбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_139935",
-    "channel": "kupolrussia",
-    "date": "2026-10-12T16:53:48+00:00",
-    "text": "ЛНР, Ростовская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_89622",
-    "channel": "locatorru",
-    "date": "2026-10-12T16:53:58+00:00",
-    "text": "Ростовская область, Волгоградская область - отбой ракетной опасности! \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_99204",
-    "channel": "radarrussiia",
-    "date": "2026-10-12T16:54:29+00:00",
-    "text": "Ростовская область\nВолгоградская область\nОтбой ракетной опасности\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_248382_Севск",
-    "channel": "LPRalarm",
-    "date": "2026-10-12T16:55:08+00:00",
-    "text": "Севск, Локоть, Навля, Брянск внимание по возможным БПЛА противника с юга. В том числе реактивным \nБрянская область",
-    "type": "drone",
-    "location_name": "Севск",
-    "region": "Брянская область",
-    "lat": 52.156021,
-    "lon": 34.494572
-  },
-  {
     "id": "LPRalarm_248382_Локоть",
     "channel": "LPRalarm",
     "date": "2026-10-12T16:55:08+00:00",
@@ -21996,6 +21908,94 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_98621",
+    "channel": "vrv_radar",
+    "date": "2026-10-13T08:32:53+00:00",
+    "text": "Костромская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Костромская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_99456",
+    "channel": "radarrussiia",
+    "date": "2026-10-13T08:33:01+00:00",
+    "text": "Отбой опасности БПЛА по всем ранее объявленным регионам.\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_140271",
+    "channel": "kupolrussia",
+    "date": "2026-10-13T08:34:07+00:00",
+    "text": "Костромская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Костромская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_248785",
+    "channel": "LPRalarm",
+    "date": "2026-10-13T08:34:10+00:00",
+    "text": "Костромская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Костромская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_98622",
+    "channel": "vrv_radar",
+    "date": "2026-10-13T08:36:30+00:00",
+    "text": "Тверская область \nНовгородская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тверская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_98623",
+    "channel": "vrv_radar",
+    "date": "2026-10-13T08:37:10+00:00",
+    "text": "Отбой опасности и внимания по БПЛА по ранее объявленным регионам\nСпасибо ПВО 🤍",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_248786",
+    "channel": "LPRalarm",
+    "date": "2026-10-13T08:43:23+00:00",
+    "text": "Белокуракино, Пески, Новопсков, Писаревка опасность по бпла\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_140272",
+    "channel": "kupolrussia",
+    "date": "2026-10-13T08:43:41+00:00",
+    "text": "Белокуракино, Пески, Новопсков, Писаревка \nЛНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
