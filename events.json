@@ -1,115 +1,5 @@
 [
   {
-    "id": "vrv_radar_98310_Знаменский",
-    "channel": "vrv_radar",
-    "date": "2026-10-12T17:36:54+00:00",
-    "text": "Знаменский район \nОрловская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Знаменский",
-    "region": "Орловская область",
-    "lat": 52.9974809,
-    "lon": 36.066136
-  },
-  {
-    "id": "vrv_radar_98311_Людиновский",
-    "channel": "vrv_radar",
-    "date": "2026-10-12T17:37:03+00:00",
-    "text": "Людиновский район \nКалужская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Людиновский",
-    "region": "Калужская область",
-    "lat": 53.8940803,
-    "lon": 34.4615879
-  },
-  {
-    "id": "LPRalarm_248413",
-    "channel": "LPRalarm",
-    "date": "2026-10-12T17:37:15+00:00",
-    "text": "Большое Полпино,\nБрянская область\n и далее в направлении Калужской области \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_99206_Знаменский",
-    "channel": "radarrussiia",
-    "date": "2026-10-12T17:37:20+00:00",
-    "text": "Знаменский район \nОрловская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": "Знаменский",
-    "region": "Орловская область",
-    "lat": 52.9974809,
-    "lon": 36.066136
-  },
-  {
-    "id": "kupolrussia_139964",
-    "channel": "kupolrussia",
-    "date": "2026-10-12T17:37:33+00:00",
-    "text": "Большое Полпино,\nБрянская область\n и далее в направлении Калужской области",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_99207_Людиновский",
-    "channel": "radarrussiia",
-    "date": "2026-10-12T17:37:43+00:00",
-    "text": "Людиновский район \nКалужская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": "Людиновский",
-    "region": "Калужская область",
-    "lat": 53.8940803,
-    "lon": 34.4615879
-  },
-  {
-    "id": "kupolrussia_139965",
-    "channel": "kupolrussia",
-    "date": "2026-10-12T17:38:34+00:00",
-    "text": "Калужская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_248414",
-    "channel": "LPRalarm",
-    "date": "2026-10-12T17:38:36+00:00",
-    "text": "Калужская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_248415_Унечский",
-    "channel": "LPRalarm",
-    "date": "2026-10-12T17:38:41+00:00",
-    "text": "Унечский район\nБрянская область\nТревога по БПЛА\nИ далее в тыл\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Унечский",
-    "region": "Брянская область",
-    "lat": 52.8313819,
-    "lon": 32.8245377
-  },
-  {
-    "id": "kupolrussia_139966_Унечский",
-    "channel": "kupolrussia",
-    "date": "2026-10-12T17:39:01+00:00",
-    "text": "Унечский район\nБрянская область\nТревога по БПЛА\nИ далее в тыл\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Унечский",
-    "region": "Брянская область",
-    "lat": 52.8313819,
-    "lon": 32.8245377
-  },
-  {
     "id": "vrv_radar_98312_Людиновский",
     "channel": "vrv_radar",
     "date": "2026-10-12T17:43:33+00:00",
@@ -21998,5 +21888,115 @@
     "region": "Луганская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_248817_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-10-13T11:23:21+00:00",
+    "text": "Белгородский район опасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_140304_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-10-13T11:23:34+00:00",
+    "text": "Белгородский район опасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_248818",
+    "channel": "LPRalarm",
+    "date": "2026-10-13T11:23:41+00:00",
+    "text": "Никольское Бгд \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_140305",
+    "channel": "kupolrussia",
+    "date": "2026-10-13T11:24:00+00:00",
+    "text": "Никольское Бгд \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_248819_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-10-13T11:29:37+00:00",
+    "text": "Никольское Таврово Дубовое \nТревога по БПЛА \nБелгородский район",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_140306_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-10-13T11:30:01+00:00",
+    "text": "Никольское Таврово Дубовое \nБелгородский район",
+    "type": "unknown",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_248820_Яковлевский",
+    "channel": "LPRalarm",
+    "date": "2026-10-13T11:30:03+00:00",
+    "text": "Яковлевский район опасность по БПЛА \nБелгородская область",
+    "type": "drone",
+    "location_name": "Яковлевский",
+    "region": "Белгородская область",
+    "lat": 50.7321022,
+    "lon": 36.2290154
+  },
+  {
+    "id": "locatorru_89845_Белгородский",
+    "channel": "locatorru",
+    "date": "2026-10-13T11:30:15+00:00",
+    "text": "Белгородский район, Яковлевский район, г.Белгород - опасность по БПЛА\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "locatorru_89845_Яковлевский",
+    "channel": "locatorru",
+    "date": "2026-10-13T11:30:15+00:00",
+    "text": "Белгородский район, Яковлевский район, г.Белгород - опасность по БПЛА\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Яковлевский",
+    "region": null,
+    "lat": 52.0018504,
+    "lon": 35.9126963
+  },
+  {
+    "id": "kupolrussia_140307_Яковлевский",
+    "channel": "kupolrussia",
+    "date": "2026-10-13T11:30:22+00:00",
+    "text": "Яковлевский район\nБелгородская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Яковлевский",
+    "region": "Белгородская область",
+    "lat": 50.7321022,
+    "lon": 36.2290154
   }
 ]
