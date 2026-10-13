@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_248313",
-    "channel": "LPRalarm",
-    "date": "2026-10-12T12:50:59+00:00",
-    "text": "Брянская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_139868",
-    "channel": "kupolrussia",
-    "date": "2026-10-12T12:51:10+00:00",
-    "text": "Брянская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_99189_Шаблыкинский",
-    "channel": "radarrussiia",
-    "date": "2026-10-12T12:51:12+00:00",
-    "text": "Шаблыкинский район \nОрловская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": "Шаблыкинский",
-    "region": "Орловская область",
-    "lat": 52.8579891,
-    "lon": 35.1025788
-  },
-  {
     "id": "LPRalarm_248314",
     "channel": "LPRalarm",
     "date": "2026-10-12T12:51:14+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Тульская область",
     "lat": 54.122559,
     "lon": 36.3581132
+  },
+  {
+    "id": "vrv_radar_98585",
+    "channel": "vrv_radar",
+    "date": "2026-10-13T02:17:05+00:00",
+    "text": "Рязанская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_248715_Одессы",
+    "channel": "LPRalarm",
+    "date": "2026-10-13T02:21:51+00:00",
+    "text": "Пуски БПЛА из-под Одессы",
+    "type": "drone",
+    "location_name": "Одессы",
+    "region": null,
+    "lat": 48.7490351,
+    "lon": 44.5413187
+  },
+  {
+    "id": "kupolrussia_140215_Одессы",
+    "channel": "kupolrussia",
+    "date": "2026-10-13T02:22:19+00:00",
+    "text": "Пуски БПЛА из-под Одессы",
+    "type": "drone",
+    "location_name": "Одессы",
+    "region": null,
+    "lat": 48.7490351,
+    "lon": 44.5413187
   }
 ]
