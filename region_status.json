@@ -2,10 +2,10 @@
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
-    "text": "Херсонская область РФ \nАктивность БПЛА Хорнет \nОсобое внимание трассы",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-13T08:07:57+00:00",
-    "expires_at": "2026-10-13T09:07:57+00:00",
+    "text": "Скадовский район и близлежащие опасность по БПЛА Хорнет\nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-13T09:13:17+00:00",
+    "expires_at": "2026-10-13T10:13:17+00:00",
     "count": null,
     "count_approx": false
   },
@@ -16,6 +16,66 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-13T08:52:38+00:00",
     "expires_at": "2026-10-13T09:52:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-13T09:07:27+00:00",
+    "expires_at": "2026-10-13T10:07:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "alert",
+    "text": "Калужская область \nМосковская область \nОпасность по МВШ",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-13T09:13:25+00:00",
+    "expires_at": "2026-10-13T10:13:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Орловский район\nЗалегощенский район\nОрловская область\nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-13T09:15:07+00:00",
+    "expires_at": "2026-10-13T10:15:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Смоленская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-13T09:09:50+00:00",
+    "expires_at": "2026-10-13T10:09:50+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "alert",
+    "text": "Калужская область \nМосковская область \nОпасность по МВШ",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-13T09:13:25+00:00",
+    "expires_at": "2026-10-13T10:13:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Россошанский район\nВоронежская область\nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-13T09:15:28+00:00",
+    "expires_at": "2026-10-13T10:15:28+00:00",
     "count": null,
     "count_approx": false
   }
