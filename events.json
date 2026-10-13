@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_139875",
-    "channel": "kupolrussia",
-    "date": "2026-10-12T13:32:10+00:00",
-    "text": "Прибрежное, Саки, Новофедоровка, Симферополь \nРеспублика Крым\n3“ “\nжай ОТБОЙ\nл\\ь ОПАСНОСТИ ПО БПЛА\n2.",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_248322",
-    "channel": "LPRalarm",
-    "date": "2026-10-12T13:34:42+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_139876",
-    "channel": "kupolrussia",
-    "date": "2026-10-12T13:35:02+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_248324",
     "channel": "LPRalarm",
     "date": "2026-10-12T13:37:10+00:00",
@@ -21996,6 +21963,39 @@
     "type": "all_clear",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_248721",
+    "channel": "LPRalarm",
+    "date": "2026-10-13T03:43:47+00:00",
+    "text": "Мелитопольский район и далее на юг опасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_98592",
+    "channel": "vrv_radar",
+    "date": "2026-10-13T03:43:50+00:00",
+    "text": "Ставропольский край \nРеспублика Калмыкия \nАстраханская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_140221",
+    "channel": "kupolrussia",
+    "date": "2026-10-13T03:43:53+00:00",
+    "text": "Мелитопольский район и далее на юг опасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
