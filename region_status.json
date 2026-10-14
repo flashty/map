@@ -18,5 +18,25 @@
     "expires_at": "2026-10-14T04:29:57+00:00",
     "count": null,
     "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская области",
+    "type": "drone",
+    "text": "Калужская \nТульская области\nОпасность по БПЛА сохраняется",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-14T04:05:00+00:00",
+    "expires_at": "2026-10-14T05:05:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Дубна\nМосковская область\nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-14T04:15:15+00:00",
+    "expires_at": "2026-10-14T05:15:15+00:00",
+    "count": null,
+    "count_approx": false
   }
 }
