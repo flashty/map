@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_98652_Ольховатский",
-    "channel": "vrv_radar",
-    "date": "2026-10-13T16:28:12+00:00",
-    "text": "Ольховатский район\nВоронежская область\nФиксация 2 БПЛА",
-    "type": "drone",
-    "location_name": "Ольховатский",
-    "region": "Воронежская область",
-    "lat": 50.3121144,
-    "lon": 39.2495873
-  },
-  {
-    "id": "vrv_radar_98653_Кантемировский",
-    "channel": "vrv_radar",
-    "date": "2026-10-13T16:28:31+00:00",
-    "text": "Кантемировский район\nВоронежская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Кантемировский",
-    "region": "Воронежская область",
-    "lat": 49.797172,
-    "lon": 39.7513457
-  },
-  {
-    "id": "LPRalarm_248933",
-    "channel": "LPRalarm",
-    "date": "2026-10-13T16:29:02+00:00",
-    "text": "Воронежская область Павловский район и далее в направлении Верхнего Мамона\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_140404",
-    "channel": "kupolrussia",
-    "date": "2026-10-13T16:29:10+00:00",
-    "text": "Воронежская область Павловский район и далее в направлении Верхнего Мамона\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_98654_Верхнемамонский",
-    "channel": "vrv_radar",
-    "date": "2026-10-13T16:29:15+00:00",
-    "text": "Верхнемамонский район\nВоронежская область\nФиксация 2 БПЛА",
-    "type": "drone",
-    "location_name": "Верхнемамонский",
-    "region": "Воронежская область",
-    "lat": 50.2295643,
-    "lon": 40.4459068
-  },
-  {
-    "id": "LPRalarm_248934",
-    "channel": "LPRalarm",
-    "date": "2026-10-13T16:29:41+00:00",
-    "text": "Харцызск, Зугрэс, Иловайск, Макеевка, Шахтёрск трассы опасность по БПЛА Хорнет \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_89868_Новозыбковский",
     "channel": "locatorru",
     "date": "2026-10-13T16:30:03+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Калужская область",
     "lat": 54.5101087,
     "lon": 36.2598115
+  },
+  {
+    "id": "vrv_radar_99151",
+    "channel": "vrv_radar",
+    "date": "2026-10-14T03:31:28+00:00",
+    "text": "МО Раменское \nМосковская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_99152",
+    "channel": "vrv_radar",
+    "date": "2026-10-14T03:32:21+00:00",
+    "text": "Волгоградская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_99153",
+    "channel": "vrv_radar",
+    "date": "2026-10-14T03:37:14+00:00",
+    "text": "Воронежская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_249184",
+    "channel": "LPRalarm",
+    "date": "2026-10-14T03:38:12+00:00",
+    "text": "Воронежская область \nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_99154",
+    "channel": "vrv_radar",
+    "date": "2026-10-14T03:38:31+00:00",
+    "text": "Тамбовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_140642",
+    "channel": "kupolrussia",
+    "date": "2026-10-14T03:38:34+00:00",
+    "text": "Воронежская область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
   }
 ]
