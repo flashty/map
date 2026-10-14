@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "ЛНР \n\nЗимогорье, Славяносербск и далее в направлении Алчевск, Лутугино, Луганск \nГруппа БПЛА, в том числе на электротяге.\n\nОсобое внимание трассы",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-14T07:28:49+00:00",
-    "expires_at": "2026-10-14T08:28:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "missile",
@@ -33,9 +23,19 @@
     "display_name": "Донецкая область",
     "type": "drone",
     "text": "Ханженково ДНР опасность по БПЛА Хорнет",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-14T08:13:02+00:00",
-    "expires_at": "2026-10-14T09:13:02+00:00",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-14T08:20:56+00:00",
+    "expires_at": "2026-10-14T09:20:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Климово тревога по БПЛА Дартс \nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-14T08:31:00+00:00",
+    "expires_at": "2026-10-14T09:31:00+00:00",
     "count": null,
     "count_approx": false
   }
