@@ -1,11 +1,11 @@
 {
   "калужск": {
-    "display_name": "Калужская область",
+    "display_name": "Калужской области",
     "type": "drone",
-    "text": "Калуга\nКалужская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-14T00:54:59+00:00",
-    "expires_at": "2026-10-14T01:54:59+00:00",
+    "text": "Дядьковский район \nБрянская область и далее в направлении Калужской области опасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-14T01:30:57+00:00",
+    "expires_at": "2026-10-14T02:30:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -32,10 +32,10 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Белёвский район\nАрсеньевский район\nТульская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-14T01:06:48+00:00",
-    "expires_at": "2026-10-14T02:06:48+00:00",
+    "text": "Алексин\nТульская область\nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-14T01:30:46+00:00",
+    "expires_at": "2026-10-14T02:30:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +56,26 @@
     "channel": "locatorru",
     "updated_at": "2026-10-14T01:24:02+00:00",
     "expires_at": "2026-10-14T02:24:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Хотынецкий район \nОрловская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-14T01:28:25+00:00",
+    "expires_at": "2026-10-14T02:28:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Дядьковский район \nБрянская область и далее в направлении Калужской области опасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-14T01:30:57+00:00",
+    "expires_at": "2026-10-14T02:30:57+00:00",
     "count": null,
     "count_approx": false
   }
