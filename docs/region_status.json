@@ -1,14 +1,4 @@
 {
-  "архангельск": {
-    "display_name": "Архангельская область",
-    "type": "drone",
-    "text": "Архангельская область \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-14T05:21:48+00:00",
-    "expires_at": "2026-10-14T06:21:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -16,6 +6,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-14T06:00:51+00:00",
     "expires_at": "2026-10-14T07:00:51+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовской области",
+    "type": "drone",
+    "text": "Первомайск, Брянка, Алчевск, Ирмино и далее на Луганск, Красный Луч \nОпасность по БПЛА Лютый\n\nДалее, возможно, в направлении Ростовской области",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-14T06:02:53+00:00",
+    "expires_at": "2026-10-14T07:02:53+00:00",
     "count": null,
     "count_approx": false
   }
