@@ -29,13 +29,23 @@
     "count": null,
     "count_approx": false
   },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "alert",
-    "text": "ГО Одинцово\nМосковская область\nПродолжается работа ПВО\nМеры безопасности",
+  "саратовск": {
+    "display_name": "Саратовская область",
+    "type": "drone",
+    "text": "Энгельс/Саратов\nСаратовская область\nРабота ПВО по БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-14T03:08:26+00:00",
-    "expires_at": "2026-10-14T04:08:26+00:00",
+    "updated_at": "2026-10-14T03:27:20+00:00",
+    "expires_at": "2026-10-14T04:27:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калуга\nКалужская область \nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-14T03:29:57+00:00",
+    "expires_at": "2026-10-14T04:29:57+00:00",
     "count": null,
     "count_approx": false
   }
