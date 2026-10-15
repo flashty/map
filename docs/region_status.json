@@ -1,41 +1,21 @@
 {
-  "владимирск": {
-    "display_name": "Владимирская область",
-    "type": "drone",
-    "text": "Петушинский район \nВладимирская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-15T04:32:40+00:00",
-    "expires_at": "2026-10-15T05:32:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "рязанск": {
     "display_name": "Рязанская область",
-    "type": "alert",
-    "text": "Рязань \nРязанская область \nПродолжается работа ПВО\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-15T05:14:18+00:00",
-    "expires_at": "2026-10-15T06:14:18+00:00",
+    "type": "drone",
+    "text": "Рязань и район в т.ч. аэ.Дягилево, Рязанская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-15T05:45:20+00:00",
+    "expires_at": "2026-10-15T06:45:20+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Тульская область \nОпасность по БПЛА сохраняется",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-15T04:54:16+00:00",
-    "expires_at": "2026-10-15T05:54:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Белгородская область \nОпасность по БПЛА сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-15T04:52:14+00:00",
-    "expires_at": "2026-10-15T05:52:14+00:00",
+    "type": "alert",
+    "text": "Тула \nТульская область \nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-15T05:34:32+00:00",
+    "expires_at": "2026-10-15T06:34:32+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +56,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-15T05:11:53+00:00",
     "expires_at": "2026-10-15T06:11:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Прогресс и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-15T05:39:35+00:00",
+    "expires_at": "2026-10-15T06:39:35+00:00",
     "count": null,
     "count_approx": false
   }
