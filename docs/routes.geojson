@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-15T13:54:33+00:00",
+        "last_updated": "2026-10-15T14:26:40+00:00",
+        "path_labels": [
+          "Рыльск",
+          "Глушковский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.683506,
+            51.570538
+          ],
+          [
+            34.5075078,
+            51.3286372
+          ]
+        ]
+      }
+    }
+  ]
 }
