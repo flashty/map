@@ -1,54 +1,4 @@
 {
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязань и район в т.ч. аэ.Дягилево, Рязанская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-15T05:45:20+00:00",
-    "expires_at": "2026-10-15T06:45:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "alert",
-    "text": "Тула \nТульская область \nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-15T05:34:32+00:00",
-    "expires_at": "2026-10-15T06:34:32+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "alert",
-    "text": "Тамбовская область \nПринять меры безопасности",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-15T04:56:33+00:00",
-    "expires_at": "2026-10-15T05:56:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ярославск": {
-    "display_name": "Ярославская область",
-    "type": "drone",
-    "text": "Ярославская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-15T04:50:12+00:00",
-    "expires_at": "2026-10-15T05:50:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "мордов": {
-    "display_name": "Республика Мордовия",
-    "type": "drone",
-    "text": "Республика Мордовия\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-15T04:56:07+00:00",
-    "expires_at": "2026-10-15T05:56:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -61,11 +11,11 @@
   },
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Прогресс и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "type": "missile",
+    "text": "Курахово \nДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-15T05:39:35+00:00",
-    "expires_at": "2026-10-15T06:39:35+00:00",
+    "updated_at": "2026-10-15T06:00:01+00:00",
+    "expires_at": "2026-10-15T07:00:01+00:00",
     "count": null,
     "count_approx": false
   }
