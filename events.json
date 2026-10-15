@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_249125_Каменский",
-    "channel": "LPRalarm",
-    "date": "2026-10-13T20:11:47+00:00",
-    "text": "Глубокий\nКаменский район\nРостовская область\nТревога по БПЛА на электротяге",
-    "type": "drone",
-    "location_name": "Каменский",
-    "region": "Ростовская область",
-    "lat": 48.3686692,
-    "lon": 40.5058614
-  },
-  {
-    "id": "vrv_radar_98827",
-    "channel": "vrv_radar",
-    "date": "2026-10-13T20:12:28+00:00",
-    "text": "ГО Коломна \nМосковская область \nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_249126_Трубчевский",
-    "channel": "LPRalarm",
-    "date": "2026-10-13T20:12:42+00:00",
-    "text": "Трубчевск\nТрубчевский район\nОпасность по БПЛА \nБрянская область",
-    "type": "drone",
-    "location_name": "Трубчевский",
-    "region": "Брянская область",
-    "lat": 52.5867776,
-    "lon": 33.7892267
-  },
-  {
-    "id": "radar_plus_bpla_15060",
-    "channel": "radar_plus_bpla",
-    "date": "2026-10-13T20:13:35+00:00",
-    "text": "Пензенская область \nРеспублика Мордовия\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_98828",
-    "channel": "vrv_radar",
-    "date": "2026-10-13T20:14:13+00:00",
-    "text": "Ставропольский край\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_98829",
-    "channel": "vrv_radar",
-    "date": "2026-10-13T20:15:26+00:00",
-    "text": "ГО Домодедово \nМосковская область \nПродолжается работа ПВО",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_98830",
-    "channel": "vrv_radar",
-    "date": "2026-10-13T20:15:46+00:00",
-    "text": "ГО Одинцово \nМосковская область \nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_99627",
     "channel": "radarrussiia",
     "date": "2026-10-13T20:15:53+00:00",
@@ -21998,5 +21921,82 @@
     "region": "Луганская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_99292_Дмитровский",
+    "channel": "vrv_radar",
+    "date": "2026-10-14T23:51:16+00:00",
+    "text": "Дмитровский район\nОрловская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Дмитровский",
+    "region": "Орловская область",
+    "lat": 52.6670934,
+    "lon": 35.5664814
+  },
+  {
+    "id": "radarrussiia_100005_Дмитровский",
+    "channel": "radarrussiia",
+    "date": "2026-10-14T23:52:19+00:00",
+    "text": "Дмитровский район\nОрловская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": "Дмитровский",
+    "region": "Орловская область",
+    "lat": 52.6670934,
+    "lon": 35.5664814
+  },
+  {
+    "id": "locatorru_90118",
+    "channel": "locatorru",
+    "date": "2026-10-14T23:55:11+00:00",
+    "text": "Выгоничи и близлежащие, Брянская область - массовый пролёт БПЛА в сторону Брянска и далее на Калужскую и Орловскую области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_249428",
+    "channel": "LPRalarm",
+    "date": "2026-10-14T23:55:20+00:00",
+    "text": "Брянская область\nПродолжаются фиксации БпЛА в направлении Калужской области и далее в тыл",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_140861",
+    "channel": "kupolrussia",
+    "date": "2026-10-14T23:55:25+00:00",
+    "text": "Брянская область\nПродолжаются фиксации БпЛА в направлении Калужской области и далее в тыл",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_99293_Дмитровский",
+    "channel": "vrv_radar",
+    "date": "2026-10-14T23:56:25+00:00",
+    "text": "Дмитровский район\nОрловская область\nПродолжаются фиксации БПЛА",
+    "type": "drone",
+    "location_name": "Дмитровский",
+    "region": "Орловская область",
+    "lat": 52.6670934,
+    "lon": 35.5664814
+  },
+  {
+    "id": "radarrussiia_100006_Дмитровский",
+    "channel": "radarrussiia",
+    "date": "2026-10-14T23:56:45+00:00",
+    "text": "Дмитровский район\nОрловская область\nПродолжаются фиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": "Дмитровский",
+    "region": "Орловская область",
+    "lat": 52.6670934,
+    "lon": 35.5664814
   }
 ]

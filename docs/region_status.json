@@ -1,11 +1,11 @@
 {
   "орловск": {
-    "display_name": "Орловской области",
+    "display_name": "Орловская область",
     "type": "drone",
-    "text": "Западная часть Орловской области и восточная часть Липецкой области - опасность по БПЛА и в направлении Тульской и Рязанской областей. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-14T23:38:42+00:00",
-    "expires_at": "2026-10-15T00:38:42+00:00",
+    "text": "Дмитровский район\nОрловская область\nПродолжаются фиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-14T23:56:45+00:00",
+    "expires_at": "2026-10-15T00:56:45+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "тамбовск": {
-    "display_name": "Тамбовской области",
-    "type": "drone",
-    "text": "Садовое и близлежащие, Аннинский район, Воронежская область - фиксации ударных БПЛА в сторону Тамбовской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-14T22:49:43+00:00",
-    "expires_at": "2026-10-14T23:49:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
@@ -56,16 +46,6 @@
     "channel": "locatorru",
     "updated_at": "2026-10-14T23:07:06+00:00",
     "expires_at": "2026-10-15T00:07:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Московская область\nСмоленская область\nТульская область\nВНИМАНИЕ!!!\n——/^\\ — оБЪЯВЛЕН |\n^^ М желтый уровень\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-14T22:59:57+00:00",
-    "expires_at": "2026-10-14T23:59:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -146,6 +126,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-14T23:43:10+00:00",
     "expires_at": "2026-10-15T00:43:10+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область\nПродолжаются фиксации БпЛА в направлении Калужской области и далее в тыл",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-14T23:55:25+00:00",
+    "expires_at": "2026-10-15T00:55:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужской области",
+    "type": "drone",
+    "text": "Брянская область\nПродолжаются фиксации БпЛА в направлении Калужской области и далее в тыл",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-14T23:55:25+00:00",
+    "expires_at": "2026-10-15T00:55:25+00:00",
     "count": null,
     "count_approx": false
   }
