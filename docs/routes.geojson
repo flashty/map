@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-15T15:42:23+00:00",
+        "last_updated": "2026-10-15T16:15:33+00:00",
+        "path_labels": [
+          "Суземский (Брянская область)",
+          "Почепский (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.0616231,
+            52.410945
+          ],
+          [
+            33.493436,
+            52.9262598
+          ]
+        ]
+      }
+    }
+  ]
 }
