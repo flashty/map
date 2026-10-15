@@ -11,11 +11,11 @@
   },
   "рязанск": {
     "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Шацкий район \nСтарожиловский район \nРязанская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-15T04:29:11+00:00",
-    "expires_at": "2026-10-15T05:29:11+00:00",
+    "type": "alert",
+    "text": "Рязань \nРязанская область \nПродолжается работа ПВО\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-15T05:14:18+00:00",
+    "expires_at": "2026-10-15T06:14:18+00:00",
     "count": null,
     "count_approx": false
   },
@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Воронежская область \nТревога по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-15T04:53:08+00:00",
-    "expires_at": "2026-10-15T05:53:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
@@ -46,16 +36,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-15T04:52:14+00:00",
     "expires_at": "2026-10-15T05:52:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "alert",
-    "text": "Экстренная информация РСЧС (Краснодарский край): \n\nОтмена БЕСПИЛОТНОЙ ОПАСНОСТИ на территории муниципальных образований:\n\nАбинский,  Калининский, Красноармейский, Крымский, Северский, Славянский, Темрюкский, Тимашевский, Туапсинский муниципальный округ, г. Сочи, г. Геленджик, Мостовский, г. Геленджи",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-15T04:03:04+00:00",
-    "expires_at": "2026-10-15T05:03:04+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +66,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-15T04:56:07+00:00",
     "expires_at": "2026-10-15T05:56:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Запорожская область РФ \nТрасса Р-280\nАктивность БПЛА Хорнет",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-15T05:11:53+00:00",
+    "expires_at": "2026-10-15T06:11:53+00:00",
     "count": null,
     "count_approx": false
   }
