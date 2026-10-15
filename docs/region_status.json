@@ -2,20 +2,10 @@
   "владимирск": {
     "display_name": "Владимирская область",
     "type": "drone",
-    "text": "Владимирская область \nТревога по БПЛА \nПринять меры безопасности\nи\n<>\nРК",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-15T04:00:24+00:00",
-    "expires_at": "2026-10-15T05:00:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "чуваш": {
-    "display_name": "Республика Чувашия",
-    "type": "missile",
-    "text": "Ульяновская область \nРеспублика Чувашия \nРакетная опасность сохраняется",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-15T03:44:25+00:00",
-    "expires_at": "2026-10-15T04:44:25+00:00",
+    "text": "Петушинский район \nВладимирская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-15T04:32:40+00:00",
+    "expires_at": "2026-10-15T05:32:40+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "нижегородск": {
-    "display_name": "Нижегородская область",
-    "type": "drone",
-    "text": "Нижегородская область \nОпасность по БПЛА сохраняется\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-15T03:39:59+00:00",
-    "expires_at": "2026-10-15T04:39:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
@@ -76,46 +56,6 @@
     "channel": "locatorru",
     "updated_at": "2026-10-15T03:51:53+00:00",
     "expires_at": "2026-10-15T04:51:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Белгородская область \nКурская область \nБрянская область \nОрловская область \nОпасность по БПЛА сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-15T03:41:49+00:00",
-    "expires_at": "2026-10-15T04:41:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Белгородская область \nКурская область \nБрянская область \nОрловская область \nОпасность по БПЛА сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-15T03:41:49+00:00",
-    "expires_at": "2026-10-15T04:41:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Белгородская область \nКурская область \nБрянская область \nОрловская область \nОпасность по БПЛА сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-15T03:41:49+00:00",
-    "expires_at": "2026-10-15T04:41:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Липецкая область \nОпасность по БПЛА от Воронежской области.\nПовторно",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-15T03:42:49+00:00",
-    "expires_at": "2026-10-15T04:42:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -156,6 +96,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-10-15T04:27:41+00:00",
     "expires_at": "2026-10-15T05:27:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пензенск": {
+    "display_name": "Пензенская область",
+    "type": "drone",
+    "text": "Пензенская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-15T04:44:14+00:00",
+    "expires_at": "2026-10-15T05:44:14+00:00",
     "count": null,
     "count_approx": false
   }
