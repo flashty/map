@@ -1,60 +1,5 @@
 [
   {
-    "id": "radarrussiia_100166_Арсеньевский",
-    "channel": "radarrussiia",
-    "date": "2026-10-15T18:59:48+00:00",
-    "text": "Чернский район\nБелёвский район\nАрсеньевский район\nТульская область\nФиксации групп БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": "Арсеньевский",
-    "region": "Тульская область",
-    "lat": 53.6268642,
-    "lon": 36.5818743
-  },
-  {
-    "id": "locatorru_90239_Залегощенский",
-    "channel": "locatorru",
-    "date": "2026-10-15T19:00:28+00:00",
-    "text": "Ржаное, Залегощенский район, Орловская область - пролёты БПЛА в сторону Новосиль, Нечаево.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Залегощенский",
-    "region": "Орловская область",
-    "lat": 52.7558806,
-    "lon": 36.9500702
-  },
-  {
-    "id": "locatorru_90239_Ржаное",
-    "channel": "locatorru",
-    "date": "2026-10-15T19:00:28+00:00",
-    "text": "Ржаное, Залегощенский район, Орловская область - пролёты БПЛА в сторону Новосиль, Нечаево.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Ржаное",
-    "region": "Орловская область",
-    "lat": 52.9096378,
-    "lon": 36.6151926
-  },
-  {
-    "id": "vrv_radar_99577_Юхновский",
-    "channel": "vrv_radar",
-    "date": "2026-10-15T19:00:50+00:00",
-    "text": "Юхновский район\nКалужская область\nФиксация 2 БПЛА",
-    "type": "drone",
-    "location_name": "Юхновский",
-    "region": "Калужская область",
-    "lat": 54.7218559,
-    "lon": 35.2288543
-  },
-  {
-    "id": "vrv_radar_99578_Мещовский",
-    "channel": "vrv_radar",
-    "date": "2026-10-15T19:01:20+00:00",
-    "text": "Мещовский район\nКалужская область\nФиксация 2 БПЛА",
-    "type": "drone",
-    "location_name": "Мещовский",
-    "region": "Калужская область",
-    "lat": 54.3627077,
-    "lon": 35.2706268
-  },
-  {
     "id": "vrv_radar_99579_Калуга",
     "channel": "vrv_radar",
     "date": "2026-10-15T19:01:43+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_249972",
+    "channel": "LPRalarm",
+    "date": "2026-10-16T13:02:29+00:00",
+    "text": "Ханженково и близлежащие \nДНР \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_141374",
+    "channel": "kupolrussia",
+    "date": "2026-10-16T13:02:42+00:00",
+    "text": "Ханженково и близлежащие \nДНР \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_249973",
+    "channel": "LPRalarm",
+    "date": "2026-10-16T13:03:07+00:00",
+    "text": "ЮБК от бухты Ласпи \nОпасность по БПЛА, в т.ч. на электротяге",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_141375",
+    "channel": "kupolrussia",
+    "date": "2026-10-16T13:03:53+00:00",
+    "text": "ЮБК от бухты Ласпи \nОпасность по БПЛА, в т.ч. на электротяге",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_249974",
+    "channel": "LPRalarm",
+    "date": "2026-10-16T13:14:38+00:00",
+    "text": "Мыс Фиолент \nБалаклава \nСевастополь \nОпасность по ФПВ",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
