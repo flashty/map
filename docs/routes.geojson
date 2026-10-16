@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-10-16T04:16:52+00:00",
-        "last_updated": "2026-10-16T05:11:50+00:00",
-        "path_labels": [
-          "Удмуртская (Республика -)",
-          "Мензелинский (Республика Татарстан)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.1436421,
-            55.9295327
-          ],
-          [
-            53.0710953,
-            55.6549589
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
