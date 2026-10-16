@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_99533_Чернский",
-    "channel": "vrv_radar",
-    "date": "2026-10-15T18:15:27+00:00",
-    "text": "Чернский район\nТульская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Чернский",
-    "region": "Тульская область",
-    "lat": 53.4524281,
-    "lon": 36.9095591
-  },
-  {
-    "id": "LPRalarm_249658",
-    "channel": "LPRalarm",
-    "date": "2026-10-15T18:15:34+00:00",
-    "text": "Орловская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_100134_Вяземский",
     "channel": "radarrussiia",
     "date": "2026-10-15T18:16:07+00:00",
@@ -21996,6 +21974,28 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_249907",
+    "channel": "LPRalarm",
+    "date": "2026-10-16T07:16:56+00:00",
+    "text": "От Тарханкута до Севастополя включительно \nС моря тревога по БПЛА, в т.ч. реактивным",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_141306",
+    "channel": "kupolrussia",
+    "date": "2026-10-16T07:17:03+00:00",
+    "text": "От Тарханкута до Севастополя включительно \nС моря тревога по БПЛА, в т.ч. реактивным",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
