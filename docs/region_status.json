@@ -9,26 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "тюменск": {
-    "display_name": "Тюменская область",
-    "type": "drone",
-    "text": "Тюменская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-16T06:33:23+00:00",
-    "expires_at": "2026-10-16T07:33:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Белокуракино, Белолуцк, Новопсков\nЛНР \nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-16T06:45:03+00:00",
-    "expires_at": "2026-10-16T07:45:03+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "коми": {
     "display_name": "Республика Коми",
     "type": "drone",
@@ -42,10 +22,10 @@
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
-    "text": "Чаплынка опасность по БПЛА Хорнет \nХерсонская область РФ",
+    "text": "Чаплынка с севера\nтревога по БПЛА Хорнет \nХерсонская область РФ",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-16T06:59:38+00:00",
-    "expires_at": "2026-10-16T07:59:38+00:00",
+    "updated_at": "2026-10-16T07:38:24+00:00",
+    "expires_at": "2026-10-16T08:38:24+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +46,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-16T07:09:39+00:00",
     "expires_at": "2026-10-16T08:09:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Туапсе, Геленджик, Новороссийск и близлежащие\nКраснодарский край \nс моря\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-16T07:37:16+00:00",
+    "expires_at": "2026-10-16T08:37:16+00:00",
     "count": null,
     "count_approx": false
   }
