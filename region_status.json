@@ -22,10 +22,10 @@
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
-    "text": "Рославльский район\nТёмкинский район\nПочинковский район\nСмоленская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-16T20:59:51+00:00",
-    "expires_at": "2026-10-16T21:59:51+00:00",
+    "text": "Смоленская область\nопасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-16T21:03:25+00:00",
+    "expires_at": "2026-10-16T22:03:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -42,10 +42,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ повторно, ещё фиксации \nДНР",
+    "text": "Донецк и близлежащие \nОпасность по БПЛА, в том числе и на электротяге \nДНР",
     "channel": "LPRalarm",
-    "updated_at": "2026-10-16T20:08:31+00:00",
-    "expires_at": "2026-10-16T21:08:31+00:00",
+    "updated_at": "2026-10-16T21:14:44+00:00",
+    "expires_at": "2026-10-16T22:14:44+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,26 +86,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-16T20:34:26+00:00",
     "expires_at": "2026-10-16T21:34:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Херсонская область РФ\nЗапорожская область РФ \nтревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-16T20:11:01+00:00",
-    "expires_at": "2026-10-16T21:11:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Джанкой и близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-16T20:11:17+00:00",
-    "expires_at": "2026-10-16T21:11:17+00:00",
     "count": null,
     "count_approx": false
   },
@@ -172,20 +152,20 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Тульская область\nКалужская область\nопасность по БПЛА сохраняется",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-16T20:55:28+00:00",
-    "expires_at": "2026-10-16T21:55:28+00:00",
+    "text": "Алексин\nТульская область\nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-16T21:11:58+00:00",
+    "expires_at": "2026-10-16T22:11:58+00:00",
     "count": null,
     "count_approx": false
   },
   "ярославск": {
     "display_name": "Ярославская область",
     "type": "drone",
-    "text": "Ярославская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-16T20:58:24+00:00",
-    "expires_at": "2026-10-16T21:58:24+00:00",
+    "text": "Ярославская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-16T21:01:29+00:00",
+    "expires_at": "2026-10-16T22:01:29+00:00",
     "count": null,
     "count_approx": false
   },
@@ -202,10 +182,10 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Домодедово\nГО Серпухов\nГО Подольск \nМосковская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "text": "ГО Одинцово\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-16T21:01:11+00:00",
-    "expires_at": "2026-10-16T22:01:11+00:00",
+    "updated_at": "2026-10-16T21:07:31+00:00",
+    "expires_at": "2026-10-16T22:07:31+00:00",
     "count": null,
     "count_approx": false
   }
