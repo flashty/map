@@ -1,21 +1,11 @@
 {
   "московск": {
     "display_name": "Московская область",
-    "type": "alert",
-    "text": "ГО Домодедово\nМосковская область \nПродолжается работа ПВО\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-16T00:46:02+00:00",
-    "expires_at": "2026-10-16T01:46:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "владимирск": {
-    "display_name": "Владимирская область",
     "type": "drone",
-    "text": "Великодворский, Гусь-Хрустальный район, Владимирская область - пролёт БПЛА в сторону восточной части Московской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-16T00:01:25+00:00",
-    "expires_at": "2026-10-16T01:01:25+00:00",
+    "text": "ГО Коломна\nМосковская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-16T01:04:44+00:00",
+    "expires_at": "2026-10-16T02:04:44+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Трояново, Железногорск и близлежащие, тревога по БпЛА \nКурская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-16T00:06:53+00:00",
-    "expires_at": "2026-10-16T01:06:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
@@ -82,30 +62,10 @@
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Неверкинский район\nПензенская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "text": "Кузнецкий район\nПензенская область\nПродолжаются фиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-16T01:00:30+00:00",
-    "expires_at": "2026-10-16T02:00:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "саратовск": {
-    "display_name": "Саратовская область",
-    "type": "drone",
-    "text": "Песчанка, Калининский район, Саратовская область - пролёт от 2 БПЛА в сторону Саратова. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-16T00:07:25+00:00",
-    "expires_at": "2026-10-16T01:07:25+00:00",
-    "count": 2,
-    "count_approx": false
-  },
-  "чуваш": {
-    "display_name": "Республика Чувашия",
-    "type": "drone",
-    "text": "Республика Чувашия\nУльяновская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-16T00:09:04+00:00",
-    "expires_at": "2026-10-16T01:09:04+00:00",
+    "updated_at": "2026-10-16T01:08:26+00:00",
+    "expires_at": "2026-10-16T02:08:26+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,26 +76,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-16T00:28:15+00:00",
     "expires_at": "2026-10-16T01:28:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "марий": {
-    "display_name": "Республика Марий",
-    "type": "drone",
-    "text": "Республика Марий Эл\nВнимание по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-16T00:06:25+00:00",
-    "expires_at": "2026-10-16T01:06:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "-": {
-    "display_name": "Республика -",
-    "type": "drone",
-    "text": "Чувашская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-16T00:12:24+00:00",
-    "expires_at": "2026-10-16T01:12:24+00:00",
     "count": null,
     "count_approx": false
   },
