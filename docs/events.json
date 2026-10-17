@@ -1,71 +1,5 @@
 [
   {
-    "id": "locatorru_90432_Темрюк",
-    "channel": "locatorru",
-    "date": "2026-10-16T04:18:32+00:00",
-    "text": "Геленджик, Анапа, Новороссийск, Абинск, Крымск, Темрюк, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Темрюк",
-    "region": "Краснодарский край",
-    "lat": 45.2823609,
-    "lon": 37.3658235
-  },
-  {
-    "id": "vrv_radar_99948",
-    "channel": "vrv_radar",
-    "date": "2026-10-16T04:19:04+00:00",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_99949_Геленджик",
-    "channel": "vrv_radar",
-    "date": "2026-10-16T04:19:25+00:00",
-    "text": "Геленджик\nКраснодарский край\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Геленджик",
-    "region": "Краснодарский край",
-    "lat": 44.5609447,
-    "lon": 38.0766832
-  },
-  {
-    "id": "locatorru_90433",
-    "channel": "locatorru",
-    "date": "2026-10-16T04:19:31+00:00",
-    "text": "Республика Мордовия, Нижегородская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_100473_Селтинский",
-    "channel": "radarrussiia",
-    "date": "2026-10-16T04:19:40+00:00",
-    "text": "Селтинский район\nСюмсинский район\nУвинский район\nВавожский район\nРеспублика Удмуртия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": "Селтинский",
-    "region": "Республика Удмуртия",
-    "lat": 57.356429,
-    "lon": 51.9170198
-  },
-  {
-    "id": "radarrussiia_100473_Сюмсинский",
-    "channel": "radarrussiia",
-    "date": "2026-10-16T04:19:40+00:00",
-    "text": "Селтинский район\nСюмсинский район\nУвинский район\nВавожский район\nРеспублика Удмуртия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": "Сюмсинский",
-    "region": "Республика Удмуртия",
-    "lat": 57.1642705,
-    "lon": 51.5232455
-  },
-  {
     "id": "radarrussiia_100473_Увинский",
     "channel": "radarrussiia",
     "date": "2026-10-16T04:19:40+00:00",
@@ -21996,6 +21930,72 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_141626",
+    "channel": "kupolrussia",
+    "date": "2026-10-17T03:16:36+00:00",
+    "text": "Пензенская область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_250248",
+    "channel": "LPRalarm",
+    "date": "2026-10-17T03:16:39+00:00",
+    "text": "Пензенская область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_141627",
+    "channel": "kupolrussia",
+    "date": "2026-10-17T03:20:08+00:00",
+    "text": "Саратовская область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_250249",
+    "channel": "LPRalarm",
+    "date": "2026-10-17T03:20:11+00:00",
+    "text": "Саратовская область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_250250",
+    "channel": "LPRalarm",
+    "date": "2026-10-17T03:20:38+00:00",
+    "text": "Воронежская область \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_141628",
+    "channel": "kupolrussia",
+    "date": "2026-10-17T03:20:49+00:00",
+    "text": "Воронежская область \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежская область",
     "lat": null,
     "lon": null
   }
