@@ -1,14 +1,4 @@
 {
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калуга\nКалужская область\nПродолжаются фиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-17T02:06:20+00:00",
-    "expires_at": "2026-10-17T03:06:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -29,23 +19,13 @@
     "count": null,
     "count_approx": false
   },
-  "архангельск": {
-    "display_name": "Архангельская область",
-    "type": "drone",
-    "text": "Архангельская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-17T02:14:45+00:00",
-    "expires_at": "2026-10-17T03:14:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Трубчевский район \nБрянская область \nопасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-17T02:29:24+00:00",
-    "expires_at": "2026-10-17T03:29:24+00:00",
+    "text": "Трубчевск и близлежащие тревога по БПЛА повторно \nМеры безопасности \nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-17T03:07:19+00:00",
+    "expires_at": "2026-10-17T04:07:19+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +36,26 @@
     "channel": "locatorru",
     "updated_at": "2026-10-17T02:52:10+00:00",
     "expires_at": "2026-10-17T03:52:10+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "костромск": {
+    "display_name": "Костромская область",
+    "type": "drone",
+    "text": "Костромская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-17T03:06:23+00:00",
+    "expires_at": "2026-10-17T04:06:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Ударные БПЛА со стороны Тарасовский в сторону Миллерово, Ростовская область. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-17T03:15:17+00:00",
+    "expires_at": "2026-10-17T04:15:17+00:00",
     "count": null,
     "count_approx": false
   }
