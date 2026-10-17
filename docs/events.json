@@ -1,49 +1,5 @@
 [
   {
-    "id": "locatorru_90458_Лабинск",
-    "channel": "locatorru",
-    "date": "2026-10-16T06:24:24+00:00",
-    "text": "Брюховецкая, Тимашевск, Кореновск, Динская, Краснодар, Усть-Лабинск, Краснодарский край - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": "Лабинск",
-    "region": "Краснодарский край",
-    "lat": 44.6347953,
-    "lon": 40.7242185
-  },
-  {
-    "id": "radar_plus_bpla_15135",
-    "channel": "radar_plus_bpla",
-    "date": "2026-10-16T06:29:28+00:00",
-    "text": "Тюменская область - опасность БПЛА от Свердловской области.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тюменская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_99984",
-    "channel": "vrv_radar",
-    "date": "2026-10-16T06:30:10+00:00",
-    "text": "Республика Татарстан\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Татарстан",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_141287",
-    "channel": "kupolrussia",
-    "date": "2026-10-16T06:30:58+00:00",
-    "text": "Свердловская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Свердловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_249890",
     "channel": "LPRalarm",
     "date": "2026-10-16T06:31:05+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Воронежская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_250308",
+    "channel": "LPRalarm",
+    "date": "2026-10-17T07:47:37+00:00",
+    "text": "н.п. Красноармейское (Новоазовский район) БПЛА фиксации БПЛА Хорнет\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_141676",
+    "channel": "kupolrussia",
+    "date": "2026-10-17T07:47:51+00:00",
+    "text": "н.п. Красноармейское (Новоазовский район) БПЛА фиксации БПЛА Хорнет\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_250309",
+    "channel": "LPRalarm",
+    "date": "2026-10-17T07:49:54+00:00",
+    "text": "Федеральная трасса Шебекино Белгород \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_141677_Шебекино Белгород",
+    "channel": "kupolrussia",
+    "date": "2026-10-17T07:50:07+00:00",
+    "text": "Федеральная трасса Шебекино Белгород\nи\n<>\nРК",
+    "type": "unknown",
+    "location_name": "Шебекино Белгород",
+    "region": null,
+    "lat": 50.4049335,
+    "lon": 36.8796822
   }
 ]
