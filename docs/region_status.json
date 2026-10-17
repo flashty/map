@@ -42,10 +42,10 @@
   "вологодск": {
     "display_name": "Вологодская область",
     "type": "drone",
-    "text": "Череповец\nВологодская область\nОпасность по БПЛА",
+    "text": "Череповец\nВологодская область\nРабота ПВО по БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-17T04:59:42+00:00",
-    "expires_at": "2026-10-17T05:59:42+00:00",
+    "updated_at": "2026-10-17T05:04:23+00:00",
+    "expires_at": "2026-10-17T06:04:23+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +56,46 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-17T04:56:00+00:00",
     "expires_at": "2026-10-17T05:56:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "новоминск": {
+    "display_name": "Новоминская край",
+    "type": "drone",
+    "text": "Новоминская, Краснодарский край - ударный БПЛА в сторону Ленинградская. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-17T05:01:33+00:00",
+    "expires_at": "2026-10-17T06:01:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Новоминская, Краснодарский край - ударный БПЛА в сторону Ленинградская. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-17T05:01:33+00:00",
+    "expires_at": "2026-10-17T06:01:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарско": {
+    "display_name": "Краснодарского края",
+    "type": "drone",
+    "text": "Новоминская \nКраснодарского края\nФиксации БПЛА в направлении Павловской и далее на восток",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-17T05:02:01+00:00",
+    "expires_at": "2026-10-17T06:02:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Чаплынка опасность по БПЛА Хорнет \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-17T05:15:33+00:00",
+    "expires_at": "2026-10-17T06:15:33+00:00",
     "count": null,
     "count_approx": false
   }
