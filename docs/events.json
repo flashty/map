@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_249900",
-    "channel": "LPRalarm",
-    "date": "2026-10-16T06:54:35+00:00",
-    "text": "Республика Башкортостан\n3“ “\nжай ОТБОЙ\nл\\ь ОПАСНОСТИ ПО БПЛА\n2.",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Башкортостан",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_249901",
-    "channel": "LPRalarm",
-    "date": "2026-10-16T06:55:00+00:00",
-    "text": "Авдеевка, Пески, Донецк и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_99990",
-    "channel": "vrv_radar",
-    "date": "2026-10-16T06:55:06+00:00",
-    "text": "Ростовская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_141299",
-    "channel": "kupolrussia",
-    "date": "2026-10-16T06:55:13+00:00",
-    "text": "ХМАО\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_249902",
     "channel": "LPRalarm",
     "date": "2026-10-16T06:55:19+00:00",
@@ -21993,6 +21949,50 @@
     "channel": "kupolrussia",
     "date": "2026-10-17T09:14:55+00:00",
     "text": "Куйбышево и близлежащие \nЗапорожская область РФ \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_250325",
+    "channel": "LPRalarm",
+    "date": "2026-10-17T09:27:39+00:00",
+    "text": "Курская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_141693",
+    "channel": "kupolrussia",
+    "date": "2026-10-17T09:28:25+00:00",
+    "text": "Курская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_250326",
+    "channel": "LPRalarm",
+    "date": "2026-10-17T09:29:57+00:00",
+    "text": "Дорожное направление \nПриморск - Осипенко - Червоно-Поле. \nОтмечается Активность БПЛА противника \nОсобое внимание Трасса Р-280\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_141695",
+    "channel": "kupolrussia",
+    "date": "2026-10-17T09:30:20+00:00",
+    "text": "Дорожное направление \nПриморск - Осипенко - Червоно-Поле. \nОтмечается Активность БПЛА противника \nОсобое внимание Трасса Р-280\nЗапорожская область РФ",
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
