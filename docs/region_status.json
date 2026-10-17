@@ -2,10 +2,10 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Белокуракино и близлежащие \nЛНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-17T08:42:54+00:00",
-    "expires_at": "2026-10-17T09:42:54+00:00",
+    "text": "Лисичанск\nБелая гора , Боброво опасность по БПЛА Хорнет\nЛНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-17T09:00:43+00:00",
+    "expires_at": "2026-10-17T10:00:43+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Ленинский район \nКировское \nЧауда и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-17T08:34:01+00:00",
-    "expires_at": "2026-10-17T09:34:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -56,6 +46,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-17T08:45:09+00:00",
     "expires_at": "2026-10-17T09:45:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Анапа и близлежащие\nГеленджик и близлежащие\nНовороссийск и близлежащие\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-17T08:56:22+00:00",
+    "expires_at": "2026-10-17T09:56:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-17T08:55:23+00:00",
+    "expires_at": "2026-10-17T09:55:23+00:00",
     "count": null,
     "count_approx": false
   }
