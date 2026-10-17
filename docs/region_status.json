@@ -1,24 +1,4 @@
 {
-  "вологодск": {
-    "display_name": "Вологодская область",
-    "type": "drone",
-    "text": "Череповец\nВологодская область\nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-17T05:04:23+00:00",
-    "expires_at": "2026-10-17T06:04:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Опасность по БПЛА Бердянский район \nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-17T04:56:00+00:00",
-    "expires_at": "2026-10-17T05:56:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "новоминск": {
     "display_name": "Новоминская край",
     "type": "drone",
@@ -36,16 +16,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-17T05:36:18+00:00",
     "expires_at": "2026-10-17T06:36:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "missile",
-    "text": "Курская область и близлежащие \nАвиационная ракетная бомбовая опасность",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-17T05:45:47+00:00",
-    "expires_at": "2026-10-17T06:45:47+00:00",
     "count": null,
     "count_approx": false
   }
