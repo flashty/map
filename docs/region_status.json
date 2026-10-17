@@ -1,21 +1,11 @@
 {
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Миллерово\nЕщё фиксации БПЛА с юга\nРостовская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-17T03:58:42+00:00",
-    "expires_at": "2026-10-17T04:58:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ярославск": {
     "display_name": "Ярославская область",
     "type": "drone",
-    "text": "Рыбинск\nЯрославская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-17T04:44:50+00:00",
-    "expires_at": "2026-10-17T05:44:50+00:00",
+    "text": "Рыбинск\nЯрославская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-17T04:46:32+00:00",
+    "expires_at": "2026-10-17T05:46:32+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "воронежск": {
-    "display_name": "Воронежской области",
-    "type": "missile",
-    "text": "Белгород, Белгородский район и ситуативно Белгородская область! \nРакетная опасность! Займите Безопасные места!\n\n\nПотенциальная опасность для Курской области и Воронежской области",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-17T04:34:49+00:00",
-    "expires_at": "2026-10-17T05:34:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "missile",
@@ -56,6 +36,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-17T04:43:04+00:00",
     "expires_at": "2026-10-17T05:43:04+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "вологодск": {
+    "display_name": "Вологодская область",
+    "type": "drone",
+    "text": "Череповец\nВологодская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-17T04:59:42+00:00",
+    "expires_at": "2026-10-17T05:59:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Опасность по БПЛА Бердянский район \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-17T04:56:00+00:00",
+    "expires_at": "2026-10-17T05:56:00+00:00",
     "count": null,
     "count_approx": false
   }
