@@ -1,24 +1,4 @@
 {
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Трубчевск и близлежащие тревога по БПЛА повторно \nМеры безопасности \nБрянская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-17T03:07:19+00:00",
-    "expires_at": "2026-10-17T04:07:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "костромск": {
-    "display_name": "Костромская область",
-    "type": "drone",
-    "text": "Костромская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-17T03:06:23+00:00",
-    "expires_at": "2026-10-17T04:06:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
@@ -46,6 +26,26 @@
     "channel": "locatorru",
     "updated_at": "2026-10-17T03:48:07+00:00",
     "expires_at": "2026-10-17T04:48:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ярославск": {
+    "display_name": "Ярославская область",
+    "type": "drone",
+    "text": "Рыбинск, Ярославская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-17T04:15:35+00:00",
+    "expires_at": "2026-10-17T05:15:35+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Ярославская область \nТверская область \n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-10-17T04:15:16+00:00",
+    "expires_at": "2026-10-17T05:15:16+00:00",
     "count": null,
     "count_approx": false
   }
