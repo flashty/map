@@ -12,10 +12,10 @@
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
-    "text": "Майский,\n Белгород и близлежащие, тревога по БПЛА\nБелгородская область",
+    "text": "Белгород Харгора \nТревога по БПЛА\nБелгородская область",
     "channel": "LPRalarm",
-    "updated_at": "2026-10-18T16:43:17+00:00",
-    "expires_at": "2026-10-18T17:43:17+00:00",
+    "updated_at": "2026-10-18T16:46:30+00:00",
+    "expires_at": "2026-10-18T17:46:30+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,10 +52,10 @@
   "липецк": {
     "display_name": "Липецкая область",
     "type": "drone",
-    "text": "Липецкая область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-18T16:02:21+00:00",
-    "expires_at": "2026-10-18T17:02:21+00:00",
+    "text": "Липецкая область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-18T16:49:02+00:00",
+    "expires_at": "2026-10-18T17:49:02+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +96,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-18T16:34:32+00:00",
     "expires_at": "2026-10-18T17:34:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка и близлежащие \nс запада \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-18T16:51:10+00:00",
+    "expires_at": "2026-10-18T17:51:10+00:00",
     "count": null,
     "count_approx": false
   }
