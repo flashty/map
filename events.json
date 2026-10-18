@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_250540",
-    "channel": "LPRalarm",
-    "date": "2026-10-17T19:36:11+00:00",
-    "text": "Карачев и близлежащие\nТревога по БПЛА сохраняется\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_141910",
-    "channel": "kupolrussia",
-    "date": "2026-10-17T19:36:18+00:00",
-    "text": "Карачев и близлежащие\nТревога по БПЛА сохраняется\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_100478",
-    "channel": "vrv_radar",
-    "date": "2026-10-17T19:37:25+00:00",
-    "text": "Рязанская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_90734",
-    "channel": "locatorru",
-    "date": "2026-10-17T19:37:27+00:00",
-    "text": "Кременки и близлежащие, Жуковский район, Калужская область - пролёты БПЛА в сторону Серпухов, Чехов, Московская область.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_100859",
     "channel": "radarrussiia",
     "date": "2026-10-17T19:37:34+00:00",
@@ -21998,5 +21954,49 @@
     "region": null,
     "lat": 53.622169,
     "lon": 77.599037
+  },
+  {
+    "id": "LPRalarm_250802_Новооскольского",
+    "channel": "LPRalarm",
+    "date": "2026-10-18T12:40:37+00:00",
+    "text": "Шебекино в направлении Новооскольского района опасность по БПЛА \nБелгородская область",
+    "type": "drone",
+    "location_name": "Новооскольского",
+    "region": "Белгородская область",
+    "lat": 50.7648167,
+    "lon": 37.8622478
+  },
+  {
+    "id": "kupolrussia_142155_Новооскольского",
+    "channel": "kupolrussia",
+    "date": "2026-10-18T12:40:51+00:00",
+    "text": "Шебекино в направлении Новооскольского района \nБелгородская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Новооскольского",
+    "region": "Белгородская область",
+    "lat": 50.7648167,
+    "lon": 37.8622478
+  },
+  {
+    "id": "LPRalarm_250803",
+    "channel": "LPRalarm",
+    "date": "2026-10-18T12:43:16+00:00",
+    "text": "г. Белгород опасность по БПЛА действует \nМеры предосторожности",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142156",
+    "channel": "kupolrussia",
+    "date": "2026-10-18T12:43:34+00:00",
+    "text": "г. Белгород опасность по БПЛА действует \nМеры предосторожности",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
