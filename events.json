@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_250504",
-    "channel": "LPRalarm",
-    "date": "2026-10-17T19:08:25+00:00",
-    "text": "ДНР опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_141869",
-    "channel": "kupolrussia",
-    "date": "2026-10-17T19:08:27+00:00",
-    "text": "Брянская область \nОтбой ракетной опасности \n\nТревога по БПЛА, в т.ч реактивным действует!!",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_250505_Белая Берёзка",
-    "channel": "LPRalarm",
-    "date": "2026-10-17T19:08:30+00:00",
-    "text": "Белая Берёзка и далее в тыл\nТревога по БПЛА\nМножественные фиксации!\nБрянская область",
-    "type": "drone",
-    "location_name": "Белая Берёзка",
-    "region": "Брянская область",
-    "lat": 52.381847,
-    "lon": 33.487415
-  },
-  {
-    "id": "kupolrussia_141870_Белая Берёзка",
-    "channel": "kupolrussia",
-    "date": "2026-10-17T19:08:33+00:00",
-    "text": "Белая Берёзка и далее в тыл\nТревога по БПЛА\nМножественные фиксации!\nБрянская область",
-    "type": "drone",
-    "location_name": "Белая Берёзка",
-    "region": "Брянская область",
-    "lat": 52.381847,
-    "lon": 33.487415
-  },
-  {
-    "id": "locatorru_90712_Ершичи",
-    "channel": "locatorru",
-    "date": "2026-10-17T19:08:34+00:00",
-    "text": "Ершичи, Смоленская область - пролёты БПЛА в сторону Рославль, Смоленск. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Ершичи",
-    "region": "Смоленская область",
-    "lat": 53.673527,
-    "lon": 32.748249
-  },
-  {
-    "id": "kupolrussia_141871",
-    "channel": "kupolrussia",
-    "date": "2026-10-17T19:08:42+00:00",
-    "text": "ДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_141872_Людиново",
-    "channel": "kupolrussia",
-    "date": "2026-10-17T19:09:06+00:00",
-    "text": "Людиново\nКалужская область\n\nПовторно\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": "Людиново",
-    "region": "Калужская область",
-    "lat": 53.8646239,
-    "lon": 34.447908
-  },
-  {
-    "id": "LPRalarm_250506_Людиново",
-    "channel": "LPRalarm",
-    "date": "2026-10-17T19:09:12+00:00",
-    "text": "Людиново\nКалужская область\n\nПовторно\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": "Людиново",
-    "region": "Калужская область",
-    "lat": 53.8646239,
-    "lon": 34.447908
-  },
-  {
-    "id": "LPRalarm_250507",
-    "channel": "LPRalarm",
-    "date": "2026-10-17T19:09:32+00:00",
-    "text": "Брянск\nБежица\nСельцо \nИ близлежащие\nТревога по БПЛА сохраняется\nИ далее в тыловые регионы\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_141873",
     "channel": "kupolrussia",
     "date": "2026-10-17T19:09:51+00:00",
@@ -21998,5 +21899,104 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_250754",
+    "channel": "LPRalarm",
+    "date": "2026-10-18T08:46:13+00:00",
+    "text": "Первомайск опасность по БПЛА Хорнет \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142104",
+    "channel": "kupolrussia",
+    "date": "2026-10-18T08:46:22+00:00",
+    "text": "Первомайск опасность по БПЛА Хорнет \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_250755",
+    "channel": "LPRalarm",
+    "date": "2026-10-18T08:48:08+00:00",
+    "text": "Цукурино, Марьинка, Донецк, Докучаевск и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142105",
+    "channel": "kupolrussia",
+    "date": "2026-10-18T08:48:19+00:00",
+    "text": "Цукурино, Марьинка, Донецк, Докучаевск и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_250756",
+    "channel": "LPRalarm",
+    "date": "2026-10-18T08:49:19+00:00",
+    "text": "Трасса Р-280\n Азов - Приморск - Инзовка \nОпасность по БПЛА с севера \n\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142106",
+    "channel": "kupolrussia",
+    "date": "2026-10-18T08:49:29+00:00",
+    "text": "Трасса Р-280\n Азов - Приморск - Инзовка \nОпасность по БПЛА с севера \n\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_250757",
+    "channel": "LPRalarm",
+    "date": "2026-10-18T08:56:50+00:00",
+    "text": "Курская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142107",
+    "channel": "kupolrussia",
+    "date": "2026-10-18T08:57:00+00:00",
+    "text": "Курская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15218_Петербурге",
+    "channel": "radar_plus_bpla",
+    "date": "2026-10-18T08:57:49+00:00",
+    "text": "⚡️⚡️Под атаку БПЛА попал один из логистических центров «OZON» в Санкт-Петербурге.\n\n✈️ Наш ТГ | 📲 Наш MAX\nь\n‚\n4\nй д’ р\nе . \"ща\nй. ко #- &%\"“ $ т\n& | |\n_ ВЕНЕ |\nо =— щ = ь\n—— Е ни: —— Е Е Ш ——\nр == ине  — — ее\n| И\nА\nРЯ ч ьа |\n&\n* № + ри\n—\n|\nый ие Ре 3 | И <. ,\nм1 Е, <. | и ии\nУТ! ь—. № ^^ 4 _ 79 | к | Е\" ТТ.\nИ Л ЗЫ Р- | ы\n| П\\ | - ——\n© И и „й ИИ 2 } 254 К 4 \\ |\n’ $ \\ | ® Г И ”\nИ и — - ь ГО =—— 7) о Г и - | |\n= ГУ <<<) К // у { ь . |\n-: у | _ | } | в. — |\n|| М 82 За м | т\nЕ № = |. БОИОВИННИННИ т Г.",
+    "type": "drone",
+    "location_name": "Петербурге",
+    "region": null,
+    "lat": 59.9480717,
+    "lon": 30.3427111
   }
 ]
