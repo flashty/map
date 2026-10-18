@@ -21,21 +21,21 @@
   },
   "брянск": {
     "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Почепский район\nПогарский район\nКурская область\nТревога по БПЛА\nБрянская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-18T19:40:56+00:00",
-    "expires_at": "2026-10-18T20:40:56+00:00",
+    "type": "missile",
+    "text": "Брянская область, Калужская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-18T20:00:57+00:00",
+    "expires_at": "2026-10-18T21:00:57+00:00",
     "count": null,
     "count_approx": false
   },
   "липецк": {
     "display_name": "Липецкая область",
     "type": "drone",
-    "text": "Тербунский район\nВоловский район\nЛипецкая область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-18T19:36:27+00:00",
-    "expires_at": "2026-10-18T20:36:27+00:00",
+    "text": "Елец, Липецкая область - БПЛА на север. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-18T19:55:34+00:00",
+    "expires_at": "2026-10-18T20:55:34+00:00",
     "count": null,
     "count_approx": false
   },
@@ -79,16 +79,6 @@
     "count": null,
     "count_approx": false
   },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-18T18:53:45+00:00",
-    "expires_at": "2026-10-18T19:53:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "волгоградск": {
     "display_name": "Волгоградская область",
     "type": "drone",
@@ -106,36 +96,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-18T19:05:02+00:00",
     "expires_at": "2026-10-18T20:05:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "missile",
-    "text": "Азов\nРостов на Дону\nБатайск\nИ близлежащие\nРостовская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-18T19:45:01+00:00",
-    "expires_at": "2026-10-18T20:45:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "самарск": {
-    "display_name": "Самарская область",
-    "type": "drone",
-    "text": "Самарская область \nУльяновская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-18T18:52:36+00:00",
-    "expires_at": "2026-10-18T19:52:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "Самарская область \nУльяновская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-18T18:52:36+00:00",
-    "expires_at": "2026-10-18T19:52:36+00:00",
     "count": null,
     "count_approx": false
   },
@@ -181,11 +141,61 @@
   },
   "тульск": {
     "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Воловский район\nПлавский район\nТульская область\nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "alert",
+    "text": "Тула\nТульская область\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-18T19:39:20+00:00",
-    "expires_at": "2026-10-18T20:39:20+00:00",
+    "updated_at": "2026-10-18T19:52:31+00:00",
+    "expires_at": "2026-10-18T20:52:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Приморск \nБердянск \nОпасность по БПЛА \nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-18T19:53:47+00:00",
+    "expires_at": "2026-10-18T20:53:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ивская": {
+    "display_name": "Обливская область",
+    "type": "drone",
+    "text": "Обливская, Каргинская, Милютинская, Ростовская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-18T19:57:56+00:00",
+    "expires_at": "2026-10-18T20:57:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "каргинск": {
+    "display_name": "Каргинская область",
+    "type": "drone",
+    "text": "Обливская, Каргинская, Милютинская, Ростовская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-18T19:57:56+00:00",
+    "expires_at": "2026-10-18T20:57:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "милютинск": {
+    "display_name": "Милютинская область",
+    "type": "drone",
+    "text": "Обливская, Каргинская, Милютинская, Ростовская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-18T19:57:56+00:00",
+    "expires_at": "2026-10-18T20:57:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "missile",
+    "text": "Брянская область, Калужская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-18T20:00:57+00:00",
+    "expires_at": "2026-10-18T21:00:57+00:00",
     "count": null,
     "count_approx": false
   }
