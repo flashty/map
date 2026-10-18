@@ -12,11 +12,31 @@
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
-    "text": "Кувшиновский район \nТверская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-18T03:15:59+00:00",
-    "expires_at": "2026-10-18T04:15:59+00:00",
+    "text": "Оленинский район \nТверская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-18T03:21:47+00:00",
+    "expires_at": "2026-10-18T04:21:47+00:00",
     "count": null,
     "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Обнинск, Калужская область - внимание по единичным БПЛА в направлении Наро-Фоминск, Московской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-18T03:29:28+00:00",
+    "expires_at": "2026-10-18T04:29:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Протвино и близлежащие, Московская область - внимание по единичным БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-18T03:29:28+00:00",
+    "expires_at": "2026-10-18T04:29:28+00:00",
+    "count": 1,
+    "count_approx": true
   }
 }
