@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-10-18T12:40:37+00:00",
-        "last_updated": "2026-10-18T13:15:38+00:00",
-        "path_labels": [
-          "Новооскольского (Белгородская область)",
-          "Старооскольский (Белгородская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.8622478,
-            50.7648167
-          ],
-          [
-            38.070712,
-            51.2258539
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
