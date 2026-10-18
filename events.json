@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_250516",
-    "channel": "LPRalarm",
-    "date": "2026-10-17T19:15:32+00:00",
-    "text": "ЛНР \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_141885",
-    "channel": "kupolrussia",
-    "date": "2026-10-17T19:15:36+00:00",
-    "text": "ЛНР",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_250517",
-    "channel": "LPRalarm",
-    "date": "2026-10-17T19:15:52+00:00",
-    "text": "Ростовская область \nВоронежская область \nОпасность по БПЛА от ЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_141886",
-    "channel": "kupolrussia",
-    "date": "2026-10-17T19:16:09+00:00",
-    "text": "Ростовская область \nВоронежская область \n от ЛНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_90716_Губкинский",
-    "channel": "locatorru",
-    "date": "2026-10-17T19:16:12+00:00",
-    "text": "Губкинский район, Старооскольский район, Белгородская область - опасность по БПЛА от Курской области.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Губкинский",
-    "region": "Белгородская область",
-    "lat": 51.1706934,
-    "lon": 37.3808082
-  },
-  {
-    "id": "locatorru_90716_Старооскольский",
-    "channel": "locatorru",
-    "date": "2026-10-17T19:16:12+00:00",
-    "text": "Губкинский район, Старооскольский район, Белгородская область - опасность по БПЛА от Курской области.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Старооскольский",
-    "region": "Белгородская область",
-    "lat": 51.2258539,
-    "lon": 38.070712
-  },
-  {
     "id": "radar_plus_bpla_15170",
     "channel": "radar_plus_bpla",
     "date": "2026-10-17T19:16:18+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142119",
+    "channel": "kupolrussia",
+    "date": "2026-10-18T09:42:59+00:00",
+    "text": "Счастье и близлежащие \n\nЛНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_101246",
+    "channel": "radarrussiia",
+    "date": "2026-10-18T09:43:03+00:00",
+    "text": "‼️ВНИМАНИЕ\nВ связи с возможной ночной угрозой оружием было принято решение создать канал «Радар в МАХ» данный канал БУДЕТ РАБОТАТЬ ДАЖЕ БЕЗ МОБИЛЬНОЙ СВЯЗИ .\n\nУбедительная просьба перейти на канал и включить звуковое оповещение «БПЛА И РАКЕТНОЙ ОПАСНОСТИ».\n\nСсылка на канал — https://max.ru/radarrussiia",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_250768",
+    "channel": "LPRalarm",
+    "date": "2026-10-18T09:43:06+00:00",
+    "text": "Приморск и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142120",
+    "channel": "kupolrussia",
+    "date": "2026-10-18T09:43:15+00:00",
+    "text": "Приморск и близлежащие \n\nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142121",
+    "channel": "kupolrussia",
+    "date": "2026-10-18T09:45:43+00:00",
+    "text": "Тульская область \nКалужская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_250769",
+    "channel": "LPRalarm",
+    "date": "2026-10-18T09:45:46+00:00",
+    "text": "Тульская область \nКалужская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тульская область",
     "lat": null,
     "lon": null
   }
