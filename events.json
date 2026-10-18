@@ -1,16 +1,5 @@
 [
   {
-    "id": "vrv_radar_100437",
-    "channel": "vrv_radar",
-    "date": "2026-10-17T18:54:55+00:00",
-    "text": "Калуга \nКалужская область\nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_250488",
     "channel": "LPRalarm",
     "date": "2026-10-17T18:55:11+00:00",
@@ -21998,5 +21987,16 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_250723_Валуйский",
+    "channel": "LPRalarm",
+    "date": "2026-10-18T06:15:34+00:00",
+    "text": "Бирюч \nВалуйский район \nБПЛА разведка",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": null,
+    "lat": 53.1481885,
+    "lon": 36.3185713
   }
 ]
