@@ -1,34 +1,4 @@
 {
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Курск\nКурчатов\nИ близлежащие\nТревога по БПЛА сохраняется\nСоблюдайте меры безопасности\nКурская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-18T20:39:29+00:00",
-    "expires_at": "2026-10-18T21:39:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Анновка, Великомихайловка\nКорочанского района, и далее на север\nТревога по БПЛА \nБелгородская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-18T20:40:39+00:00",
-    "expires_at": "2026-10-18T21:40:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Донецк и близлежащие\nТревога по БПЛА сохраняется\nСоблюдайте меры безопасности\nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-18T20:37:18+00:00",
-    "expires_at": "2026-10-18T21:37:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
@@ -46,16 +16,6 @@
     "channel": "locatorru",
     "updated_at": "2026-10-18T21:17:47+00:00",
     "expires_at": "2026-10-18T22:17:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Приморск и близлежащие\nТревога по БПЛА\nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-18T20:40:18+00:00",
-    "expires_at": "2026-10-18T21:40:18+00:00",
     "count": null,
     "count_approx": false
   },
@@ -82,10 +42,10 @@
   "самарск": {
     "display_name": "Самарская область",
     "type": "drone",
-    "text": "Самарская область \nПовторно\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-18T21:21:01+00:00",
-    "expires_at": "2026-10-18T22:21:01+00:00",
+    "text": "Самарская область\nУльяновская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-18T21:32:31+00:00",
+    "expires_at": "2026-10-18T22:32:31+00:00",
     "count": null,
     "count_approx": false
   },
@@ -107,6 +67,46 @@
     "updated_at": "2026-10-18T21:30:25+00:00",
     "expires_at": "2026-10-18T22:30:25+00:00",
     "count": 2,
+    "count_approx": false
+  },
+  "опаснос": {
+    "display_name": "Республика \nОпасность",
+    "type": "drone",
+    "text": "Чувашская Республика \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-18T21:32:03+00:00",
+    "expires_at": "2026-10-18T22:32:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ульяновск": {
+    "display_name": "Ульяновская область",
+    "type": "drone",
+    "text": "Ульяновская область - опасность по БПЛА от Республики Мордовия. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-18T21:34:27+00:00",
+    "expires_at": "2026-10-18T22:34:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "drone",
+    "text": "Владимирская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-18T21:36:40+00:00",
+    "expires_at": "2026-10-18T22:36:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ивановск": {
+    "display_name": "Ивановская область",
+    "type": "drone",
+    "text": "Владимирская область\nИвановская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-18T21:35:30+00:00",
+    "expires_at": "2026-10-18T22:35:30+00:00",
+    "count": null,
     "count_approx": false
   }
 }
