@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-18T10:05:19+00:00",
+        "last_updated": "2026-10-18T10:31:09+00:00",
+        "path_labels": [
+          "Крымский (Краснодарский край)",
+          "Приазовье (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.896802,
+            44.9624541
+          ],
+          [
+            38.1017316,
+            45.2696697
+          ]
+        ]
+      }
+    }
+  ]
 }
