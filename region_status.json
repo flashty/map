@@ -12,20 +12,10 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Лисичанск и далее в направлении Луганск фиксации БПЛА Хорнет \nЛНР",
+    "text": "Ирмино и близлежащие \nОпасность по БПЛА Хорнет \nЛНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-18T10:36:41+00:00",
-    "expires_at": "2026-10-18T11:36:41+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "missile",
-    "text": "Белгородская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-18T10:44:53+00:00",
-    "expires_at": "2026-10-18T11:44:53+00:00",
+    "updated_at": "2026-10-18T10:54:28+00:00",
+    "expires_at": "2026-10-18T11:54:28+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +26,16 @@
     "channel": "locatorru",
     "updated_at": "2026-10-18T10:45:43+00:00",
     "expires_at": "2026-10-18T11:45:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "alert",
+    "text": "Токмак и близлежащие \nОпасность по Фпв \nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-18T10:57:06+00:00",
+    "expires_at": "2026-10-18T11:57:06+00:00",
     "count": null,
     "count_approx": false
   }
