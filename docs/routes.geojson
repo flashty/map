@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-18T04:13:05+00:00",
+        "last_updated": "2026-10-18T04:52:17+00:00",
+        "path_labels": [
+          "Перелесье (Ленинградская область)",
+          "Приморский (Ленинградская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.9717212,
+            59.6334256
+          ],
+          [
+            29.0710002,
+            59.8941817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-18T04:17:18+00:00",
+        "last_updated": "2026-10-18T04:50:40+00:00",
+        "path_labels": [
+          "Лопухинка (Ленинградская область)",
+          "Гатчинский (Ленинградская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.4090576,
+            59.7304904
+          ],
+          [
+            30.1059744,
+            59.5633078
+          ]
+        ]
+      }
+    }
+  ]
 }
