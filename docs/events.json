@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_141855",
-    "channel": "kupolrussia",
-    "date": "2026-10-17T18:55:21+00:00",
-    "text": "Углегорск, Енакиево и близлежащие на юв\nОпасность по БПЛА, ещё группа \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_100438",
-    "channel": "vrv_radar",
-    "date": "2026-10-17T18:56:16+00:00",
-    "text": "Орловская область \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_90698",
-    "channel": "locatorru",
-    "date": "2026-10-17T18:56:24+00:00",
-    "text": "Вяльки, Унечский район, Брянская область - продолжаются массовые пролёты БПЛА на север в сторону Смоленской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_90699_Калуга",
-    "channel": "locatorru",
-    "date": "2026-10-17T18:56:46+00:00",
-    "text": "Калуга, Детчино, Малоярославец, Обнинск, Жуков, Боровск и близлежащие, Калужская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Калуга",
-    "region": "Калужская область",
-    "lat": 54.5101087,
-    "lon": 36.2598115
-  },
-  {
-    "id": "locatorru_90699_Детчино",
-    "channel": "locatorru",
-    "date": "2026-10-17T18:56:46+00:00",
-    "text": "Калуга, Детчино, Малоярославец, Обнинск, Жуков, Боровск и близлежащие, Калужская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Детчино",
-    "region": "Калужская область",
-    "lat": 54.8091052,
-    "lon": 36.309691
-  },
-  {
-    "id": "locatorru_90699_Малоярославец",
-    "channel": "locatorru",
-    "date": "2026-10-17T18:56:46+00:00",
-    "text": "Калуга, Детчино, Малоярославец, Обнинск, Жуков, Боровск и близлежащие, Калужская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Малоярославец",
-    "region": "Калужская область",
-    "lat": 55.012181,
-    "lon": 36.4590246
-  },
-  {
     "id": "locatorru_90699_Обнинск",
     "channel": "locatorru",
     "date": "2026-10-17T18:56:46+00:00",
@@ -21996,6 +21930,72 @@
     "type": "alert",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_250724_Валуйский",
+    "channel": "LPRalarm",
+    "date": "2026-10-18T06:35:05+00:00",
+    "text": "Валуйский район приграничье \nВысокая активность БПЛА разведки",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": null,
+    "lat": 53.1481885,
+    "lon": 36.3185713
+  },
+  {
+    "id": "LPRalarm_250725",
+    "channel": "LPRalarm",
+    "date": "2026-10-18T06:36:01+00:00",
+    "text": "Снежное и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142073",
+    "channel": "kupolrussia",
+    "date": "2026-10-18T06:41:26+00:00",
+    "text": "Тверская область опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тверская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_250726",
+    "channel": "LPRalarm",
+    "date": "2026-10-18T06:41:28+00:00",
+    "text": "Тверская область опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тверская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_250727",
+    "channel": "LPRalarm",
+    "date": "2026-10-18T06:45:11+00:00",
+    "text": "Попасная, Первомайск, Брянка и близлежащие опасность по БПЛА Хорнет от Бахмутская трасса \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142074",
+    "channel": "kupolrussia",
+    "date": "2026-10-18T06:45:47+00:00",
+    "text": "Попасная, Первомайск, Брянка и близлежащие опасность по БПЛА Хорнет от Бахмутская трасса \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
