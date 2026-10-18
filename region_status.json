@@ -1,41 +1,21 @@
 {
-  "тверск": {
-    "display_name": "Тверская область",
-    "type": "drone",
-    "text": "Оленинский район \nТверская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-18T03:21:47+00:00",
-    "expires_at": "2026-10-18T04:21:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Обнинск, Калужская область - внимание по единичным БПЛА в направлении Наро-Фоминск, Московской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-18T03:29:28+00:00",
-    "expires_at": "2026-10-18T04:29:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "Протвино и близлежащие, Московская область - внимание по единичным БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-18T03:29:28+00:00",
-    "expires_at": "2026-10-18T04:29:28+00:00",
-    "count": 1,
-    "count_approx": true
-  },
   "ленинградск": {
     "display_name": "Ленинградская область",
     "type": "drone",
-    "text": "Перелесье, Кингисеппский район, Ленинградская область - фиксация БПЛА. Возможно кружит. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-18T04:13:05+00:00",
-    "expires_at": "2026-10-18T05:13:05+00:00",
+    "text": "Ломоносовский район\nЛенинградская область\nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-18T04:19:47+00:00",
+    "expires_at": "2026-10-18T05:19:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Антрацит \nКрасный Луч \nАлчевск и близлежащие опасность по БПЛА \nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-18T04:21:42+00:00",
+    "expires_at": "2026-10-18T05:21:42+00:00",
     "count": null,
     "count_approx": false
   }
