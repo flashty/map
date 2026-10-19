@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_100750_Гатчинский",
-    "channel": "vrv_radar",
-    "date": "2026-10-17T23:55:55+00:00",
-    "text": "Гатчинский район\nЛенинградская область\nСбитие БПЛА\nМеры безопасности",
-    "type": "all_clear",
-    "location_name": "Гатчинский",
-    "region": "Ленинградская область",
-    "lat": 59.5633078,
-    "lon": 30.1059744
-  },
-  {
-    "id": "radarrussiia_101087_Ломоносовский",
-    "channel": "radarrussiia",
-    "date": "2026-10-17T23:56:09+00:00",
-    "text": "Ломоносовский район\nЛенинградская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": "Ломоносовский",
-    "region": "Ленинградская область",
-    "lat": 59.832674,
-    "lon": 29.5030883
-  },
-  {
     "id": "vrv_radar_100751_Раменское",
     "channel": "vrv_radar",
     "date": "2026-10-17T23:56:21+00:00",
@@ -21996,6 +21974,28 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251088",
+    "channel": "LPRalarm",
+    "date": "2026-10-19T08:27:27+00:00",
+    "text": "Трасса Дебальцево - Красный Луч и близлежащие\nОпасность по БПЛА \nЛДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142426",
+    "channel": "kupolrussia",
+    "date": "2026-10-19T08:27:44+00:00",
+    "text": "Трасса Дебальцево - Красный Луч и близлежащие\nЛДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
