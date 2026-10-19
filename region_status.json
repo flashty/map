@@ -2,10 +2,10 @@
   "пермск": {
     "display_name": "Пермский край",
     "type": "drone",
-    "text": "Березники, Губаха, Соликамск и близлежащие, Пермский край - внимание по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-19T04:17:01+00:00",
-    "expires_at": "2026-10-19T05:17:01+00:00",
+    "text": "Пермский край \nОпасность по БПЛА сохраняется",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-19T04:44:53+00:00",
+    "expires_at": "2026-10-19T05:44:53+00:00",
     "count": null,
     "count_approx": false
   },
@@ -16,6 +16,46 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-19T04:27:36+00:00",
     "expires_at": "2026-10-19T05:27:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожской области",
+    "type": "drone",
+    "text": "Опасность БПЛА по трассе Р-280 на территории Запорожской области РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-19T04:40:37+00:00",
+    "expires_at": "2026-10-19T05:40:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "свердловск": {
+    "display_name": "Свердловская область",
+    "type": "drone",
+    "text": "Свердловская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-19T04:45:11+00:00",
+    "expires_at": "2026-10-19T05:45:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "челябинск": {
+    "display_name": "Челябинская область",
+    "type": "drone",
+    "text": "Свердловская область, Челябинская область - опасность по БПЛА от Пермского края. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-19T04:41:44+00:00",
+    "expires_at": "2026-10-19T05:41:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "missile",
+    "text": "Новая Полтавка, Пантелеймоновка ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-19T04:42:43+00:00",
+    "expires_at": "2026-10-19T05:42:43+00:00",
     "count": null,
     "count_approx": false
   }
