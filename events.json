@@ -1,71 +1,5 @@
 [
   {
-    "id": "radarrussiia_101116_Тосно",
-    "channel": "radarrussiia",
-    "date": "2026-10-18T00:30:07+00:00",
-    "text": "Кингисепп, Волосо, Гатчина, Тосно, Приморск, Выборг, Кириши\nЛенинградская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": "Тосно",
-    "region": "Ленинградская область",
-    "lat": 59.5412777,
-    "lon": 30.8773645
-  },
-  {
-    "id": "radarrussiia_101116_Приморск",
-    "channel": "radarrussiia",
-    "date": "2026-10-18T00:30:07+00:00",
-    "text": "Кингисепп, Волосо, Гатчина, Тосно, Приморск, Выборг, Кириши\nЛенинградская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": "Приморск",
-    "region": "Ленинградская область",
-    "lat": 60.366665,
-    "lon": 28.616673
-  },
-  {
-    "id": "radarrussiia_101116_Выборг",
-    "channel": "radarrussiia",
-    "date": "2026-10-18T00:30:07+00:00",
-    "text": "Кингисепп, Волосо, Гатчина, Тосно, Приморск, Выборг, Кириши\nЛенинградская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": "Выборг",
-    "region": "Ленинградская область",
-    "lat": 60.709217,
-    "lon": 28.744051
-  },
-  {
-    "id": "radarrussiia_101116_Кириши",
-    "channel": "radarrussiia",
-    "date": "2026-10-18T00:30:07+00:00",
-    "text": "Кингисепп, Волосо, Гатчина, Тосно, Приморск, Выборг, Кириши\nЛенинградская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": "Кириши",
-    "region": "Ленинградская область",
-    "lat": 59.450325,
-    "lon": 32.010578
-  },
-  {
-    "id": "locatorru_90882_Волосовский",
-    "channel": "locatorru",
-    "date": "2026-10-18T00:30:44+00:00",
-    "text": "Кикерино, Волосовский район, Ленинградская область - пролёты БПЛА вдоль ж/д в сторону Гатчины. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Волосовский",
-    "region": "Ленинградская область",
-    "lat": 59.357817,
-    "lon": 29.3456608
-  },
-  {
-    "id": "locatorru_90882_Кикерино",
-    "channel": "locatorru",
-    "date": "2026-10-18T00:30:44+00:00",
-    "text": "Кикерино, Волосовский район, Ленинградская область - пролёты БПЛА вдоль ж/д в сторону Гатчины. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Кикерино",
-    "region": "Ленинградская область",
-    "lat": 59.4663815,
-    "lon": 29.6276066
-  },
-  {
     "id": "locatorru_90883_Нерехта",
     "channel": "locatorru",
     "date": "2026-10-18T00:31:13+00:00",
@@ -21998,5 +21932,71 @@
     "region": null,
     "lat": 54.3750277,
     "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_142449",
+    "channel": "kupolrussia",
+    "date": "2026-10-19T10:32:56+00:00",
+    "text": "Херсонская область РФ от\nНижние Серогозы ракетная опасность и далее в тыл",
+    "type": "missile",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251112",
+    "channel": "LPRalarm",
+    "date": "2026-10-19T10:33:03+00:00",
+    "text": "Херсонская область РФ от\nНижние Серогозы ракетная опасность и далее в тыл",
+    "type": "missile",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251113",
+    "channel": "LPRalarm",
+    "date": "2026-10-19T10:33:57+00:00",
+    "text": "Херсонская область РФ \nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142450",
+    "channel": "kupolrussia",
+    "date": "2026-10-19T10:34:05+00:00",
+    "text": "Херсонская область РФ \nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251114",
+    "channel": "LPRalarm",
+    "date": "2026-10-19T10:36:01+00:00",
+    "text": "г. Белгород опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142451_Белгород",
+    "channel": "kupolrussia",
+    "date": "2026-10-19T10:36:12+00:00",
+    "text": "г. Белгород\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Белгород",
+    "region": null,
+    "lat": 50.5955595,
+    "lon": 36.5873394
   }
 ]
