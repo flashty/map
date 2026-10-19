@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Дебальцево и близлежащие \nОпасность по БПЛА сохраняется \nДНР",
+    "text": "Красноармейск и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-19T09:43:26+00:00",
-    "expires_at": "2026-10-19T10:43:26+00:00",
+    "updated_at": "2026-10-19T10:14:42+00:00",
+    "expires_at": "2026-10-19T11:14:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "alert",
-    "text": "ЛДНР\nЗапорожская область\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-19T09:36:02+00:00",
-    "expires_at": "2026-10-19T10:36:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
@@ -52,10 +42,10 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Брянская область, Калужская область, Курская область, Орловская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-19T09:41:21+00:00",
-    "expires_at": "2026-10-19T10:41:21+00:00",
+    "text": "Калужская область\nВНИМАНИЕ!!!\n——/^\\ — оБЪЯВЛЕН |\n^^ М желтый уровень\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-19T10:07:46+00:00",
+    "expires_at": "2026-10-19T11:07:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +56,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-19T09:43:08+00:00",
     "expires_at": "2026-10-19T10:43:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Смоленская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-19T10:07:26+00:00",
+    "expires_at": "2026-10-19T11:07:26+00:00",
     "count": null,
     "count_approx": false
   }
