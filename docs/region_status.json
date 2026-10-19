@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Мемрик и близлежащие на восток \nОпасность по БПЛА Хорнет \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-19T05:39:42+00:00",
-    "expires_at": "2026-10-19T06:39:42+00:00",
+    "text": "Опытное, Спартак, Донецк и близлежащие \nОпасность по БПЛА \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-19T06:40:12+00:00",
+    "expires_at": "2026-10-19T07:40:12+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +46,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-19T06:05:41+00:00",
     "expires_at": "2026-10-19T07:05:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "АПП Джанкой и далее на Джанкойский район по трассе АПП Джанкой - Джанкой\nОпасность по БПЛА \n\nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-19T06:40:23+00:00",
+    "expires_at": "2026-10-19T07:40:23+00:00",
     "count": null,
     "count_approx": false
   }
