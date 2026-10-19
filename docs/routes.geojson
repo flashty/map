@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-19T18:07:58+00:00",
+        "last_updated": "2026-10-19T18:29:02+00:00",
+        "path_labels": [
+          "Валуйский (Белгородская область)",
+          "Волоконовский (Белгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.9638901,
+            50.1632256
+          ],
+          [
+            37.7986348,
+            50.4498919
+          ]
+        ]
+      }
+    }
+  ]
 }
