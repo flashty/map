@@ -9,43 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Донецк аэропорт и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-19T14:05:01+00:00",
-    "expires_at": "2026-10-19T15:05:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Токмакский, Мелитопольский, \nБердянский, Приморский районы \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-19T14:06:20+00:00",
-    "expires_at": "2026-10-19T15:06:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Счастье и близлежайшие тревога по БПЛА \nЛНР",
+    "text": "Старобельск и далее в направлении \nБеловодск опасность по БПЛА Хорнет \nЛНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-19T14:09:07+00:00",
-    "expires_at": "2026-10-19T15:09:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "missile",
-    "text": "Волоконовский район и далее в тыл ракетная опасность Белгородская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-19T14:59:27+00:00",
-    "expires_at": "2026-10-19T15:59:27+00:00",
+    "updated_at": "2026-10-19T15:15:01+00:00",
+    "expires_at": "2026-10-19T16:15:01+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +26,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-19T14:58:39+00:00",
     "expires_at": "2026-10-19T15:58:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Белгородская область \nТревога по БПЛА \nСохраняется",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-19T15:08:10+00:00",
+    "expires_at": "2026-10-19T16:08:10+00:00",
     "count": null,
     "count_approx": false
   }
