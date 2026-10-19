@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-19T04:17:01+00:00",
+        "last_updated": "2026-10-19T04:53:24+00:00",
+        "path_labels": [
+          "Губаха (Пермский край)",
+          "Таман (Пермский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            57.555058,
+            58.842407
+          ],
+          [
+            56.3474812,
+            59.3046194
+          ]
+        ]
+      }
+    }
+  ]
 }
