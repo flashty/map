@@ -1,24 +1,4 @@
 {
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Воинка \nКрасноперекопск \nПервомайское\nОсторовское \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-20T10:21:17+00:00",
-    "expires_at": "2026-10-20T11:21:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Новозыбков и близлежащие опасность по БПЛА Дартс \nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-20T10:30:12+00:00",
-    "expires_at": "2026-10-20T11:30:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -36,6 +16,46 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-20T10:59:39+00:00",
     "expires_at": "2026-10-20T11:59:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "николаевск": {
+    "display_name": "Николаевской области",
+    "type": "drone",
+    "text": "Пуски БПЛА из Николаевской области",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-20T11:19:07+00:00",
+    "expires_at": "2026-10-20T12:19:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Счастье в направление Луганска \nЛНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-20T11:27:02+00:00",
+    "expires_at": "2026-10-20T12:27:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-20T11:30:22+00:00",
+    "expires_at": "2026-10-20T12:30:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-20T11:30:22+00:00",
+    "expires_at": "2026-10-20T12:30:22+00:00",
     "count": null,
     "count_approx": false
   }
