@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_250849",
-    "channel": "LPRalarm",
-    "date": "2026-10-18T16:46:30+00:00",
-    "text": "Белгород Харгора \nТревога по БПЛА\nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_90996",
-    "channel": "locatorru",
-    "date": "2026-10-18T16:46:53+00:00",
-    "text": "г.Белгород - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_142205",
-    "channel": "kupolrussia",
-    "date": "2026-10-18T16:46:54+00:00",
-    "text": "Белгород Харгора \nБелгородская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_142206",
-    "channel": "kupolrussia",
-    "date": "2026-10-18T16:48:56+00:00",
-    "text": "Липецкая область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_250850",
-    "channel": "LPRalarm",
-    "date": "2026-10-18T16:49:02+00:00",
-    "text": "Липецкая область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_250851",
-    "channel": "LPRalarm",
-    "date": "2026-10-18T16:50:57+00:00",
-    "text": "Горловка и близлежащие \nОпасность по БПЛА с запада \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_142207",
-    "channel": "kupolrussia",
-    "date": "2026-10-18T16:51:10+00:00",
-    "text": "Горловка и близлежащие \nс запада \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_90997_Ракитянский",
     "channel": "locatorru",
     "date": "2026-10-18T16:51:41+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251273",
+    "channel": "LPRalarm",
+    "date": "2026-10-20T06:41:05+00:00",
+    "text": "Армянск \nКрасноперекопск и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251274",
+    "channel": "LPRalarm",
+    "date": "2026-10-20T06:41:43+00:00",
+    "text": "Смелое и близлежащие \nЛНР \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251275",
+    "channel": "LPRalarm",
+    "date": "2026-10-20T06:44:10+00:00",
+    "text": "Курская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142598",
+    "channel": "kupolrussia",
+    "date": "2026-10-20T06:44:29+00:00",
+    "text": "Армянск \nКрасноперекопск и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142599",
+    "channel": "kupolrussia",
+    "date": "2026-10-20T06:44:45+00:00",
+    "text": "Чаплынка и далее на юго-восток \nФиксации БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142600",
+    "channel": "kupolrussia",
+    "date": "2026-10-20T06:44:51+00:00",
+    "text": "Смелое и близлежащие \nЛНР \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142601",
+    "channel": "kupolrussia",
+    "date": "2026-10-20T06:45:03+00:00",
+    "text": "Курская область\n3“ <\nжай ОТБОЙ\n`\\ь ОПАСНОСТИ ПО БПЛА\n2.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }

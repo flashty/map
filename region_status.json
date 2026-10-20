@@ -2,10 +2,10 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Шовкуновка \nПавловка и близлежащие \nЛНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "text": "Смелое и близлежащие \nЛНР \nОпасность по БПЛА Хорнет",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-20T06:21:24+00:00",
-    "expires_at": "2026-10-20T07:21:24+00:00",
+    "updated_at": "2026-10-20T06:44:51+00:00",
+    "expires_at": "2026-10-20T07:44:51+00:00",
     "count": null,
     "count_approx": false
   },
@@ -13,9 +13,9 @@
     "display_name": "Херсонская область",
     "type": "drone",
     "text": "Чаплынка и далее на юго-восток \nФиксации БПЛА \nХерсонская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-20T06:39:56+00:00",
-    "expires_at": "2026-10-20T07:39:56+00:00",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-20T06:44:45+00:00",
+    "expires_at": "2026-10-20T07:44:45+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,6 +26,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-20T06:20:57+00:00",
     "expires_at": "2026-10-20T07:20:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Армянск \nКрасноперекопск и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-20T06:44:29+00:00",
+    "expires_at": "2026-10-20T07:44:29+00:00",
     "count": null,
     "count_approx": false
   }
