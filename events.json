@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_100840_Чернский",
-    "channel": "vrv_radar",
-    "date": "2026-10-18T16:35:25+00:00",
-    "text": "Чернский район\nТульская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Чернский",
-    "region": "Тульская область",
-    "lat": 53.4524281,
-    "lon": 36.9095591
-  },
-  {
-    "id": "vrv_radar_100841_Мценский",
-    "channel": "vrv_radar",
-    "date": "2026-10-18T16:35:59+00:00",
-    "text": "Мценский район\nБолховский район\nОрловская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Мценский",
-    "region": "Орловская область",
-    "lat": 53.2451748,
-    "lon": 36.5945584
-  },
-  {
-    "id": "vrv_radar_100841_Болховский",
-    "channel": "vrv_radar",
-    "date": "2026-10-18T16:35:59+00:00",
-    "text": "Мценский район\nБолховский район\nОрловская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Болховский",
-    "region": "Орловская область",
-    "lat": 53.4361073,
-    "lon": 35.9880329
-  },
-  {
-    "id": "LPRalarm_250844",
-    "channel": "LPRalarm",
-    "date": "2026-10-18T16:36:06+00:00",
-    "text": "Духовец\nснт Авангард\nв направлении Курска\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_250845",
-    "channel": "LPRalarm",
-    "date": "2026-10-18T16:37:07+00:00",
-    "text": "Старый Оскол\nИ близлежащие\nБелгородская область \nТревога по БПЛА\nИ далее в направлении Воронежской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_101257_Мценский",
     "channel": "radarrussiia",
     "date": "2026-10-18T16:37:51+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_101488",
+    "channel": "radarrussiia",
+    "date": "2026-10-20T05:36:26+00:00",
+    "text": "Орловская область \nКалужская область \nНижегородская область\nВладимирская область \nИвановская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251263",
+    "channel": "LPRalarm",
+    "date": "2026-10-20T05:41:08+00:00",
+    "text": "Нижняя Дуванка фиксация БПЛА  на север\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142590",
+    "channel": "kupolrussia",
+    "date": "2026-10-20T05:41:28+00:00",
+    "text": "Нижняя Дуванка фиксация БПЛА  на север\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251264",
+    "channel": "LPRalarm",
+    "date": "2026-10-20T05:45:15+00:00",
+    "text": "Грицаевка и близлежащие \nЛНР \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142591",
+    "channel": "kupolrussia",
+    "date": "2026-10-20T05:45:38+00:00",
+    "text": "Грицаевка и близлежащие \nЛНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
