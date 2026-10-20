@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_250830",
-    "channel": "LPRalarm",
-    "date": "2026-10-18T15:42:52+00:00",
-    "text": "Курская область \nОрловская область \nБелгородская область \nТревога по БПЛА \nПринять меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_250831_Вейделевский",
-    "channel": "LPRalarm",
-    "date": "2026-10-18T15:45:26+00:00",
-    "text": "Волоконовский \nВейделевский районы \nМассовый пролет ударных БПЛА",
-    "type": "drone",
-    "location_name": "Вейделевский",
-    "region": null,
-    "lat": 50.1834343,
-    "lon": 38.5862881
-  },
-  {
-    "id": "vrv_radar_100835",
-    "channel": "vrv_radar",
-    "date": "2026-10-18T15:48:11+00:00",
-    "text": "Липецкая область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_15222",
-    "channel": "radar_plus_bpla",
-    "date": "2026-10-18T15:48:46+00:00",
-    "text": "🚨Массовые пролёты БПЛА через Белгородскую и Курскую области в направлении Липецкой, Орловской и Тульской области и далее на Московскую область.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курскую области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_142187_Вейделевский",
-    "channel": "kupolrussia",
-    "date": "2026-10-18T15:49:05+00:00",
-    "text": "Волоконовский \nВейделевский районы \nМассовый пролет ударных БПЛА",
-    "type": "drone",
-    "location_name": "Вейделевский",
-    "region": null,
-    "lat": 50.1834343,
-    "lon": 38.5862881
-  },
-  {
-    "id": "LPRalarm_250832",
-    "channel": "LPRalarm",
-    "date": "2026-10-18T15:49:58+00:00",
-    "text": "Орловская область, тревога по БПЛА от Курской области, массово",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_142188",
-    "channel": "kupolrussia",
-    "date": "2026-10-18T15:50:03+00:00",
-    "text": "Орловская область, тревога по БПЛА от Курской области, массово",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_142189",
     "channel": "kupolrussia",
     "date": "2026-10-18T15:50:04+00:00",
@@ -21998,5 +21921,82 @@
     "region": "Псковская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "locatorru_91232",
+    "channel": "locatorru",
+    "date": "2026-10-20T03:20:52+00:00",
+    "text": "ЛПДС \"Никольское\", Бензоперекачивающая ст., Тамбовская область - опасность по БПЛА сохраняется. Ещё фиксации БПЛА в вашу сторону. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251249",
+    "channel": "LPRalarm",
+    "date": "2026-10-20T03:24:34+00:00",
+    "text": "Мариуполь и близлежащие\nТревога по БПЛА\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142578",
+    "channel": "kupolrussia",
+    "date": "2026-10-20T03:24:48+00:00",
+    "text": "Мариуполь и близлежащие\nТревога по БПЛА\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_91233",
+    "channel": "locatorru",
+    "date": "2026-10-20T03:25:07+00:00",
+    "text": "Тульская область, Московская область, Липецкая область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_101081",
+    "channel": "vrv_radar",
+    "date": "2026-10-20T03:28:07+00:00",
+    "text": "Тульская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_91234_Мичуринский",
+    "channel": "locatorru",
+    "date": "2026-10-20T03:30:52+00:00",
+    "text": "Панское, Мичуринский район, Тамбовская область - ещё БПЛА в сторону Новоникольское, Стаево, Мичуринск. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Мичуринский",
+    "region": "Тамбовская область",
+    "lat": 52.9459943,
+    "lon": 40.2702736
+  },
+  {
+    "id": "locatorru_91234_Панское",
+    "channel": "locatorru",
+    "date": "2026-10-20T03:30:52+00:00",
+    "text": "Панское, Мичуринский район, Тамбовская область - ещё БПЛА в сторону Новоникольское, Стаево, Мичуринск. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Панское",
+    "region": "Тамбовская область",
+    "lat": 52.895439,
+    "lon": 40.567101
   }
 ]
