@@ -1,71 +1,5 @@
 [
   {
-    "id": "locatorru_90987_Халино",
-    "channel": "locatorru",
-    "date": "2026-10-18T16:20:02+00:00",
-    "text": "Курчатов, Курск, Халино, Курская область - опасность по БПЛА от Кислино, Высоконские Дворы.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Халино",
-    "region": "Курская область",
-    "lat": 51.74807,
-    "lon": 36.343323
-  },
-  {
-    "id": "kupolrussia_142197",
-    "channel": "kupolrussia",
-    "date": "2026-10-18T16:22:45+00:00",
-    "text": "Тульская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_250839",
-    "channel": "LPRalarm",
-    "date": "2026-10-18T16:22:48+00:00",
-    "text": "Тульская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_90988",
-    "channel": "locatorru",
-    "date": "2026-10-18T16:23:27+00:00",
-    "text": "Шебекино и близлежащие, Белгородская область - пролёты БПЛА от госграницы в тыл. Много. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_90989_Чернянка",
-    "channel": "locatorru",
-    "date": "2026-10-18T16:24:47+00:00",
-    "text": "Чернянка, Белгородская область - пролёт БПЛА в сторону Старого Оскола. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Чернянка",
-    "region": "Белгородская область",
-    "lat": 50.9408767,
-    "lon": 37.8041746
-  },
-  {
-    "id": "locatorru_90990",
-    "channel": "locatorru",
-    "date": "2026-10-18T16:25:27+00:00",
-    "text": "Курская область, Орловская область - опасность по БПЛА от Белгородской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_250840",
     "channel": "LPRalarm",
     "date": "2026-10-18T16:26:06+00:00",
@@ -21996,6 +21930,72 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Владимирская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142586",
+    "channel": "kupolrussia",
+    "date": "2026-10-20T04:50:15+00:00",
+    "text": "Владимирская область \nИвановская область \nРеспублика Мордовия\n3“ “\nок ОТБОЙ\nль ОПАСНОСТИ ПО БПЛА\n2.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Владимирская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251257",
+    "channel": "LPRalarm",
+    "date": "2026-10-20T04:50:19+00:00",
+    "text": "Владимирская область \nИвановская область \nРеспублика Мордовия\n3“ “\nок ОТБОЙ\nль ОПАСНОСТИ ПО БПЛА\n2.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Владимирская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251258",
+    "channel": "LPRalarm",
+    "date": "2026-10-20T04:54:09+00:00",
+    "text": "Шебекино и близлежащие \nТревога по БПЛА Хорнет \nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_91242",
+    "channel": "locatorru",
+    "date": "2026-10-20T04:56:53+00:00",
+    "text": "Белгородская область, Воронежская область, Тамбовская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251259",
+    "channel": "LPRalarm",
+    "date": "2026-10-20T04:57:59+00:00",
+    "text": "Белгородская область \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_91243",
+    "channel": "locatorru",
+    "date": "2026-10-20T04:59:24+00:00",
+    "text": "Отбой опасности и внимания по БПЛА во всех ранее объявленных регионах, за исключением: Брянской области, Курской области и приграничные районы Белгородской области. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Брянской области",
     "lat": null,
     "lon": null
   }
