@@ -1,14 +1,4 @@
 {
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Новоникольское, Мичуринский район, Тамбовская область, тревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-20T04:00:44+00:00",
-    "expires_at": "2026-10-20T05:00:44+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -46,6 +36,16 @@
     "channel": "locatorru",
     "updated_at": "2026-10-20T03:47:27+00:00",
     "expires_at": "2026-10-20T04:47:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Счастье и близлежащие \nОпасность по БПЛА \nЛНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-20T04:13:14+00:00",
+    "expires_at": "2026-10-20T05:13:14+00:00",
     "count": null,
     "count_approx": false
   }
