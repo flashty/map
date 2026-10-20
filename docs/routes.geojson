@@ -5,31 +5,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-10-20T17:31:12+00:00",
-        "last_updated": "2026-10-20T18:10:27+00:00",
-        "path_labels": [
-          "Ивнянский",
-          "Шебекинский"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.2197073,
-            51.0201731
-          ],
-          [
-            36.8728034,
-            50.438988
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-10-20T17:45:23+00:00",
         "last_updated": "2026-10-20T18:37:21+00:00",
         "path_labels": [
@@ -47,31 +22,6 @@
           [
             35.238449,
             52.358711
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-10-20T17:45:58+00:00",
-        "last_updated": "2026-10-20T18:07:21+00:00",
-        "path_labels": [
-          "Арсеньевский (Тульская область)",
-          "Чернский (Тульская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.5818743,
-            53.6268642
-          ],
-          [
-            36.9095591,
-            53.4524281
           ]
         ]
       }
