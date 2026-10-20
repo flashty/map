@@ -59,23 +59,13 @@
     "count": null,
     "count_approx": false
   },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "Смоленская область\nПсковская область\nМосковская область\nТверская область\nНовгородская область\nТревога по БПЛА сохраняется",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-19T23:25:29+00:00",
-    "expires_at": "2026-10-20T00:25:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Новоазовский район\nи близлежащие\nОпасность по БПЛА \nДНР",
+    "text": "Новоазовский район\nи близлежащие\nТревога по БПЛА. \nМеры безопасности\nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-19T23:50:28+00:00",
-    "expires_at": "2026-10-20T00:50:28+00:00",
+    "updated_at": "2026-10-20T00:28:19+00:00",
+    "expires_at": "2026-10-20T01:28:19+00:00",
     "count": null,
     "count_approx": false
   },
@@ -176,16 +166,6 @@
     "channel": "locatorru",
     "updated_at": "2026-10-20T00:11:15+00:00",
     "expires_at": "2026-10-20T01:11:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Тепло-Огаревский район \nТульская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-20T00:15:43+00:00",
-    "expires_at": "2026-10-20T01:15:43+00:00",
     "count": null,
     "count_approx": false
   }
