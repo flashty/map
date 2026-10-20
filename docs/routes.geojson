@@ -5,6 +5,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-10-20T14:53:17+00:00",
+        "last_updated": "2026-10-20T15:14:35+00:00",
+        "path_labels": [
+          "Климовский (Брянская область)",
+          "Стародубский (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.168083,
+            52.2780195
+          ],
+          [
+            32.7150092,
+            52.5153759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-10-20T15:00:59+00:00",
         "last_updated": "2026-10-20T15:00:59+00:00",
         "path_labels": [
