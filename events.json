@@ -1,104 +1,5 @@
 [
   {
-    "id": "kupolrussia_142257_Гуково",
-    "channel": "kupolrussia",
-    "date": "2026-10-18T17:52:17+00:00",
-    "text": "Новошахтинск, \nГуково, \nШахты, \nКрасный Сулин \nДонецк  Ростовской \nКаменск-Шахтинский и близлежащие \nот ЛДНР",
-    "type": "unknown",
-    "location_name": "Гуково",
-    "region": null,
-    "lat": 48.0460281,
-    "lon": 39.9486772
-  },
-  {
-    "id": "kupolrussia_142257_Шахты",
-    "channel": "kupolrussia",
-    "date": "2026-10-18T17:52:17+00:00",
-    "text": "Новошахтинск, \nГуково, \nШахты, \nКрасный Сулин \nДонецк  Ростовской \nКаменск-Шахтинский и близлежащие \nот ЛДНР",
-    "type": "unknown",
-    "location_name": "Шахты",
-    "region": null,
-    "lat": 47.7094622,
-    "lon": 40.2154859
-  },
-  {
-    "id": "locatorru_91024",
-    "channel": "locatorru",
-    "date": "2026-10-18T17:52:54+00:00",
-    "text": "Белый Колодезь, Вейделевский район, Белгородская область - группа БПЛА в направлении Айдар, Новая Ивановка и далее на Воронежскую область. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_250903",
-    "channel": "LPRalarm",
-    "date": "2026-10-18T17:53:18+00:00",
-    "text": "Воронеж\nНововоронеж\nИ близлежащие\nТревога по БПЛА\nВоронежская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_142258",
-    "channel": "kupolrussia",
-    "date": "2026-10-18T17:53:42+00:00",
-    "text": "Воронеж\nНововоронеж\nИ близлежащие\nВоронежская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_250904",
-    "channel": "LPRalarm",
-    "date": "2026-10-18T17:54:37+00:00",
-    "text": "Строитель\nИ далее в направлении\nЯковлево\nТревога по БПЛА сохраняется\nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_91025_Острогожск",
-    "channel": "locatorru",
-    "date": "2026-10-18T17:54:45+00:00",
-    "text": "Острогожск, Воронежская область - пролёт БПЛА в сторону Лиски. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Острогожск",
-    "region": "Воронежская область",
-    "lat": 50.864902,
-    "lon": 39.077244
-  },
-  {
-    "id": "LPRalarm_250905",
-    "channel": "LPRalarm",
-    "date": "2026-10-18T17:54:52+00:00",
-    "text": "Ровеньковский район\nБелгородская область\nИ далее на Воронежскую область\nТревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_142259",
-    "channel": "kupolrussia",
-    "date": "2026-10-18T17:55:01+00:00",
-    "text": "Ровеньковский район\nБелгородская область\nИ далее на Воронежскую область\nТревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_142260",
     "channel": "kupolrussia",
     "date": "2026-10-18T17:55:07+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251358",
+    "channel": "LPRalarm",
+    "date": "2026-10-20T12:41:53+00:00",
+    "text": "Погар и близлежащие БПЛА разведчик \n\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251359",
+    "channel": "LPRalarm",
+    "date": "2026-10-20T12:45:09+00:00",
+    "text": "Ясиноватая ДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251360",
+    "channel": "LPRalarm",
+    "date": "2026-10-20T12:45:12+00:00",
+    "text": "Авдеевка ДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142676",
+    "channel": "kupolrussia",
+    "date": "2026-10-20T12:45:23+00:00",
+    "text": "Ясиноватая ДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142677",
+    "channel": "kupolrussia",
+    "date": "2026-10-20T12:45:28+00:00",
+    "text": "Авдеевка ДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251361",
+    "channel": "LPRalarm",
+    "date": "2026-10-20T12:45:37+00:00",
+    "text": "Донецк ДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251362",
+    "channel": "LPRalarm",
+    "date": "2026-10-20T12:46:28+00:00",
+    "text": "Макеевка ДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142678",
+    "channel": "kupolrussia",
+    "date": "2026-10-20T12:46:36+00:00",
+    "text": "Донецк ДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142679",
+    "channel": "kupolrussia",
+    "date": "2026-10-20T12:46:42+00:00",
+    "text": "Макеевка ДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }

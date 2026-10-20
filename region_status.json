@@ -1,11 +1,11 @@
 {
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка, Корсунь, Енакиево и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "missile",
+    "text": "Макеевка ДНР ракетная опасность",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-20T12:03:06+00:00",
-    "expires_at": "2026-10-20T13:03:06+00:00",
+    "updated_at": "2026-10-20T12:46:42+00:00",
+    "expires_at": "2026-10-20T13:46:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +56,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-20T12:29:07+00:00",
     "expires_at": "2026-10-20T13:29:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Погар и близлежащие БПЛА разведчик \n\nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-20T12:41:53+00:00",
+    "expires_at": "2026-10-20T13:41:53+00:00",
     "count": null,
     "count_approx": false
   }
