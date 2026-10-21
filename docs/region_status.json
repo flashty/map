@@ -1,21 +1,11 @@
 {
   "московск": {
     "display_name": "Московская область",
-    "type": "drone",
-    "text": "ГО Дубна\nМосковская область\nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-21T03:20:28+00:00",
-    "expires_at": "2026-10-21T04:20:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Каланчак, Чаплинка и близлежащие \nопасность по БПЛА \nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-21T03:20:51+00:00",
-    "expires_at": "2026-10-21T04:20:51+00:00",
+    "type": "missile",
+    "text": "Москва \nМосковская область \nРакетная опасность \nВозможно фламинго",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-21T04:19:19+00:00",
+    "expires_at": "2026-10-21T05:19:19+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,6 +16,46 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-21T04:10:34+00:00",
     "expires_at": "2026-10-21T05:10:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Краснинский район\nСмоленская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-21T04:19:53+00:00",
+    "expires_at": "2026-10-21T05:19:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "​Людиновский район\nКалужская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-21T04:20:16+00:00",
+    "expires_at": "2026-10-21T05:20:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "missile",
+    "text": "Калужская, Тульская область ракетная опасность",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-21T04:20:05+00:00",
+    "expires_at": "2026-10-21T05:20:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Шебекино \nТревога по БПЛА\nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-21T04:28:11+00:00",
+    "expires_at": "2026-10-21T05:28:11+00:00",
     "count": null,
     "count_approx": false
   }
