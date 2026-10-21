@@ -1,82 +1,5 @@
 [
   {
-    "id": "vrv_radar_101080",
-    "channel": "vrv_radar",
-    "date": "2026-10-20T03:13:38+00:00",
-    "text": "Псковская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Псковская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_91232",
-    "channel": "locatorru",
-    "date": "2026-10-20T03:20:52+00:00",
-    "text": "ЛПДС \"Никольское\", Бензоперекачивающая ст., Тамбовская область - опасность по БПЛА сохраняется. Ещё фиксации БПЛА в вашу сторону. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_251249",
-    "channel": "LPRalarm",
-    "date": "2026-10-20T03:24:34+00:00",
-    "text": "Мариуполь и близлежащие\nТревога по БПЛА\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_142578",
-    "channel": "kupolrussia",
-    "date": "2026-10-20T03:24:48+00:00",
-    "text": "Мариуполь и близлежащие\nТревога по БПЛА\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_91233",
-    "channel": "locatorru",
-    "date": "2026-10-20T03:25:07+00:00",
-    "text": "Тульская область, Московская область, Липецкая область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_101081",
-    "channel": "vrv_radar",
-    "date": "2026-10-20T03:28:07+00:00",
-    "text": "Тульская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_91234_Мичуринский",
-    "channel": "locatorru",
-    "date": "2026-10-20T03:30:52+00:00",
-    "text": "Панское, Мичуринский район, Тамбовская область - ещё БПЛА в сторону Новоникольское, Стаево, Мичуринск. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Мичуринский",
-    "region": "Тамбовская область",
-    "lat": 52.9459943,
-    "lon": 40.2702736
-  },
-  {
     "id": "locatorru_91234_Панское",
     "channel": "locatorru",
     "date": "2026-10-20T03:30:52+00:00",
@@ -21998,5 +21921,82 @@
     "region": null,
     "lat": 50.5955595,
     "lon": 36.5873394
+  },
+  {
+    "id": "LPRalarm_251722",
+    "channel": "LPRalarm",
+    "date": "2026-10-21T15:03:13+00:00",
+    "text": "г. Симферополь с севера внимание по возможным БПЛА противника",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143016",
+    "channel": "kupolrussia",
+    "date": "2026-10-21T15:03:45+00:00",
+    "text": "г. Симферополь с севера внимание по возможным БПЛА противника\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251723",
+    "channel": "LPRalarm",
+    "date": "2026-10-21T15:04:09+00:00",
+    "text": "г. Харьков южнее фиксации БПЛА в направлении севера ЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143017",
+    "channel": "kupolrussia",
+    "date": "2026-10-21T15:04:24+00:00",
+    "text": "г. Харьков южнее фиксации БПЛА в направлении севера ЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251724",
+    "channel": "LPRalarm",
+    "date": "2026-10-21T15:15:30+00:00",
+    "text": "Кача\nБельбек \nСевастополь \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143018_Кача",
+    "channel": "kupolrussia",
+    "date": "2026-10-21T15:15:46+00:00",
+    "text": "Кача\nБельбек \nСевастополь\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Кача",
+    "region": null,
+    "lat": 56.1972669,
+    "lon": 92.5363666
+  },
+  {
+    "id": "kupolrussia_143018_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-10-21T15:15:46+00:00",
+    "text": "Кача\nБельбек \nСевастополь\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
   }
 ]
