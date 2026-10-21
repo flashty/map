@@ -30,6 +30,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-10-21T15:42:58+00:00",
+        "last_updated": "2026-10-21T16:15:22+00:00",
+        "path_labels": [
+          "Бирюч (Белгородская область)",
+          "Острогожский (Воронежская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.396442,
+            50.6488476
+          ],
+          [
+            39.0772421,
+            50.8584609
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-10-21T15:47:52+00:00",
         "last_updated": "2026-10-21T15:47:52+00:00",
         "path_labels": [
