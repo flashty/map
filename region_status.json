@@ -1,14 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "missile",
-    "text": "Комар, Богатырь ДНР ракетная опасность",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-21T11:14:59+00:00",
-    "expires_at": "2026-10-21T12:14:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
@@ -46,6 +36,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-21T11:13:23+00:00",
     "expires_at": "2026-10-21T12:13:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Очеретино и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-21T11:26:54+00:00",
+    "expires_at": "2026-10-21T12:26:54+00:00",
     "count": null,
     "count_approx": false
   }
