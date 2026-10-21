@@ -12,20 +12,10 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Мелитополь и близлежащие тревога по БПЛА \nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-21T09:21:27+00:00",
-    "expires_at": "2026-10-21T10:21:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Новокиевка и далее в направлении Чаплынка, Новотроицкое, Новоалексеевка тревога по БПЛА Хорнет \nХерсонская область РФ",
+    "text": "Трасса Приазовское - Приморск повторно опасность по БПЛА \nЗапорожская область РФ",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-21T08:31:44+00:00",
-    "expires_at": "2026-10-21T09:31:44+00:00",
+    "updated_at": "2026-10-21T09:39:21+00:00",
+    "expires_at": "2026-10-21T10:39:21+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "белогородск": {
-    "display_name": "Белогородская область",
-    "type": "drone",
-    "text": "Белогородская область \nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-21T08:41:44+00:00",
-    "expires_at": "2026-10-21T09:41:44+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "липецк": {
     "display_name": "Липецкая область",
     "type": "drone",
@@ -56,6 +36,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-21T08:51:42+00:00",
     "expires_at": "2026-10-21T09:51:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область опасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-21T09:38:39+00:00",
+    "expires_at": "2026-10-21T10:38:39+00:00",
     "count": null,
     "count_approx": false
   }
