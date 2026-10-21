@@ -10,12 +10,12 @@
     "count_approx": false
   },
   "белгородск": {
-    "display_name": "Белгородской области",
+    "display_name": "Белгородская область",
     "type": "drone",
-    "text": "Фиксируем группу ударных БПЛА от Харьковской области в направлении Белгородской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-21T14:19:26+00:00",
-    "expires_at": "2026-10-21T15:19:26+00:00",
+    "text": "Валуйки и близлежащие \nТревога по БПЛА \nБелгородская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-21T14:41:36+00:00",
+    "expires_at": "2026-10-21T15:41:36+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +46,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-21T14:28:51+00:00",
     "expires_at": "2026-10-21T15:28:51+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "От Тарханкут до Севастополь \nс моря \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-21T14:33:53+00:00",
+    "expires_at": "2026-10-21T15:33:53+00:00",
     "count": null,
     "count_approx": false
   }
