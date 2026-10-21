@@ -1,71 +1,5 @@
 [
   {
-    "id": "locatorru_91210_Стаево",
-    "channel": "locatorru",
-    "date": "2026-10-20T01:52:53+00:00",
-    "text": "Стаево, Мичуринский район, Тамбовская область - фиксации БПЛА в сторону Мичуринск.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Стаево",
-    "region": "Тамбовская область",
-    "lat": 52.855106,
-    "lon": 40.417728
-  },
-  {
-    "id": "locatorru_91211_Мичуринский",
-    "channel": "locatorru",
-    "date": "2026-10-20T01:53:37+00:00",
-    "text": "Панское, Мичуринский район, Тамбовская область - фиксации БПЛА возможно в сторону Мичуринска. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Мичуринский",
-    "region": "Тамбовская область",
-    "lat": 52.9459943,
-    "lon": 40.2702736
-  },
-  {
-    "id": "locatorru_91211_Панское",
-    "channel": "locatorru",
-    "date": "2026-10-20T01:53:37+00:00",
-    "text": "Панское, Мичуринский район, Тамбовская область - фиксации БПЛА возможно в сторону Мичуринска. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Панское",
-    "region": "Тамбовская область",
-    "lat": 52.895439,
-    "lon": 40.567101
-  },
-  {
-    "id": "LPRalarm_251244",
-    "channel": "LPRalarm",
-    "date": "2026-10-20T01:54:37+00:00",
-    "text": "Борисоглебск и близлежащие \nТревога по БПЛА \nВоронежская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_142573",
-    "channel": "kupolrussia",
-    "date": "2026-10-20T01:54:49+00:00",
-    "text": "Борисоглебск и близлежащие \nТревога по БПЛА \nВоронежская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_91212",
-    "channel": "locatorru",
-    "date": "2026-10-20T01:56:02+00:00",
-    "text": "Мичуринск и близлежащие, Тамбовская область - опасность по реактивным БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_91213",
     "channel": "locatorru",
     "date": "2026-10-20T01:56:24+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251687",
+    "channel": "LPRalarm",
+    "date": "2026-10-21T12:32:40+00:00",
+    "text": "Севастополь и близлежащие \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142980",
+    "channel": "kupolrussia",
+    "date": "2026-10-21T12:32:49+00:00",
+    "text": "Севастополь и близлежащие \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_101367_Людиновский",
+    "channel": "vrv_radar",
+    "date": "2026-10-21T12:38:56+00:00",
+    "text": "Людиновский район\nКалужская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Людиновский",
+    "region": "Калужская область",
+    "lat": 53.8940803,
+    "lon": 34.4615879
+  },
+  {
+    "id": "radarrussiia_101684_Людиновский",
+    "channel": "radarrussiia",
+    "date": "2026-10-21T12:42:13+00:00",
+    "text": "Людиновский район\nКалужская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": "Людиновский",
+    "region": "Калужская область",
+    "lat": 53.8940803,
+    "lon": 34.4615879
+  },
+  {
+    "id": "LPRalarm_251688",
+    "channel": "LPRalarm",
+    "date": "2026-10-21T12:44:39+00:00",
+    "text": "Новоалексеевка\nГеническ\nЧонгар \nОпасность по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142981",
+    "channel": "kupolrussia",
+    "date": "2026-10-21T12:45:33+00:00",
+    "text": "Новоалексеевка\nГеническ\nЧонгар \nХерсонская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
     "lat": null,
     "lon": null
   }
