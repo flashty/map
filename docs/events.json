@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_101072_Мичуринский",
-    "channel": "vrv_radar",
-    "date": "2026-10-20T02:20:22+00:00",
-    "text": "Мичуринский район \nТамбовская область \nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Мичуринский",
-    "region": "Тамбовская область",
-    "lat": 52.9459943,
-    "lon": 40.2702736
-  },
-  {
-    "id": "radarrussiia_101477_Мичуринский",
-    "channel": "radarrussiia",
-    "date": "2026-10-20T02:21:04+00:00",
-    "text": "Мичуринский район \nТамбовская область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": "Мичуринский",
-    "region": "Тамбовская область",
-    "lat": 52.9459943,
-    "lon": 40.2702736
-  },
-  {
-    "id": "vrv_radar_101073",
-    "channel": "vrv_radar",
-    "date": "2026-10-20T02:21:14+00:00",
-    "text": "Воронеж \nВоронежская область \nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_101478",
-    "channel": "radarrussiia",
-    "date": "2026-10-20T02:22:17+00:00",
-    "text": "Воронеж \nВоронежская область \nСбитие БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_251246",
     "channel": "LPRalarm",
     "date": "2026-10-20T02:22:50+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251704",
+    "channel": "LPRalarm",
+    "date": "2026-10-21T14:01:31+00:00",
+    "text": "Запорожская область РФ \nЛДНР \nОтбой авиационной ракетно бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142998",
+    "channel": "kupolrussia",
+    "date": "2026-10-21T14:02:00+00:00",
+    "text": "Запорожская область РФ \nЛДНР",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_251705",
+    "channel": "LPRalarm",
+    "date": "2026-10-21T14:03:13+00:00",
+    "text": "Херсонская область РФ отбой авиационной ракетной бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_142999",
+    "channel": "kupolrussia",
+    "date": "2026-10-21T14:03:49+00:00",
+    "text": "Херсонская область РФ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Херсонская область",
     "lat": null,
     "lon": null
   }
