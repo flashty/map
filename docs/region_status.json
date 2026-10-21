@@ -1,14 +1,4 @@
 {
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Краснинский район\nСмоленская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-21T04:19:53+00:00",
-    "expires_at": "2026-10-21T05:19:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "псковск": {
     "display_name": "Псковская область",
     "type": "drone",
@@ -32,10 +22,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Новолуганское, Светлодарск Дебальцево, Углегорск и близлежащие \nОпасность по БПЛА \nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-21T05:06:32+00:00",
-    "expires_at": "2026-10-21T06:06:32+00:00",
+    "text": "Гродовка и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-21T05:28:18+00:00",
+    "expires_at": "2026-10-21T06:28:18+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +36,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-21T05:15:38+00:00",
     "expires_at": "2026-10-21T06:15:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ленинградск": {
+    "display_name": "Ленинградская область",
+    "type": "drone",
+    "text": "Ленинградская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-21T05:23:16+00:00",
+    "expires_at": "2026-10-21T06:23:16+00:00",
     "count": null,
     "count_approx": false
   }
