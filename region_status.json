@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Трасса Приазовское - Приморск повторно опасность по БПЛА \nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-21T09:39:21+00:00",
-    "expires_at": "2026-10-21T10:39:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
@@ -76,6 +66,16 @@
     "channel": "locatorru",
     "updated_at": "2026-10-21T09:57:02+00:00",
     "expires_at": "2026-10-21T10:57:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Новопсков ЛНР блокпост и близлежащие объекты тревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-21T10:35:25+00:00",
+    "expires_at": "2026-10-21T11:35:25+00:00",
     "count": null,
     "count_approx": false
   }
