@@ -9,33 +9,23 @@
     "count": null,
     "count_approx": false
   },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Липецк\nЛипецкая область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-22T04:50:11+00:00",
-    "expires_at": "2026-10-22T05:50:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Волноваха и далее на Юго-Восток опасность по  БПЛА \nДНР",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и возможным ФПВ \nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-22T04:52:17+00:00",
-    "expires_at": "2026-10-22T05:52:17+00:00",
+    "updated_at": "2026-10-22T05:54:08+00:00",
+    "expires_at": "2026-10-22T06:54:08+00:00",
     "count": null,
     "count_approx": false
   },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Локоть и близлежащие\nБрянская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-22T05:06:07+00:00",
-    "expires_at": "2026-10-22T06:06:07+00:00",
+    "text": "Новозыбков и близлежащие \nБрянская область \nТревога по БПЛА\nИ далее возможно в тыл",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-22T05:52:30+00:00",
+    "expires_at": "2026-10-22T06:52:30+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +56,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-22T05:16:19+00:00",
     "expires_at": "2026-10-22T06:16:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "drone",
+    "text": "Владимирская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-22T05:47:01+00:00",
+    "expires_at": "2026-10-22T06:47:01+00:00",
     "count": null,
     "count_approx": false
   }
