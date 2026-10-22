@@ -1,14 +1,4 @@
 {
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "alert",
-    "text": "Дорожное направление Бердянск —Мелитополь беспилотная опасность\nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-22T03:31:55+00:00",
-    "expires_at": "2026-10-22T04:31:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -16,6 +6,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-22T04:11:09+00:00",
     "expires_at": "2026-10-22T05:11:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "псковск": {
+    "display_name": "Псковская область",
+    "type": "drone",
+    "text": "Псковская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-22T04:37:36+00:00",
+    "expires_at": "2026-10-22T05:37:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "drone",
+    "text": "Липецк\nЛипецкая область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-22T04:43:01+00:00",
+    "expires_at": "2026-10-22T05:43:01+00:00",
     "count": null,
     "count_approx": false
   }
