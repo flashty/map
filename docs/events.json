@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_101395",
-    "channel": "vrv_radar",
-    "date": "2026-10-21T19:51:45+00:00",
-    "text": "Орел \nОрловская область \nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_251879",
-    "channel": "LPRalarm",
-    "date": "2026-10-21T19:52:01+00:00",
-    "text": "Орёл и близлежащие\nТревога по БПЛА\nОрловская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143166",
-    "channel": "kupolrussia",
-    "date": "2026-10-21T19:52:22+00:00",
-    "text": "Орловская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143167",
-    "channel": "kupolrussia",
-    "date": "2026-10-21T19:52:28+00:00",
-    "text": "Орёл и близлежащие\nТревога по БПЛА\nОрловская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_91416_Бобровский",
-    "channel": "locatorru",
-    "date": "2026-10-21T19:53:07+00:00",
-    "text": "Бобровский район, Россошанский район, Ольховатский район, Воронежская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Бобровский",
-    "region": "Воронежская область",
-    "lat": 51.0966142,
-    "lon": 40.0397707
-  },
-  {
-    "id": "locatorru_91416_Россошанский",
-    "channel": "locatorru",
-    "date": "2026-10-21T19:53:07+00:00",
-    "text": "Бобровский район, Россошанский район, Ольховатский район, Воронежская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Россошанский",
-    "region": "Воронежская область",
-    "lat": 50.1186442,
-    "lon": 39.6627682
-  },
-  {
     "id": "locatorru_91416_Ольховатский",
     "channel": "locatorru",
     "date": "2026-10-21T19:53:07+00:00",
@@ -21998,5 +21932,71 @@
     "region": null,
     "lat": 44.849996,
     "lon": 38.4944065
+  },
+  {
+    "id": "LPRalarm_252199",
+    "channel": "LPRalarm",
+    "date": "2026-10-22T13:23:27+00:00",
+    "text": "Николаевская область\nВыходы БПЛА в Чёрное море",
+    "type": "drone",
+    "location_name": null,
+    "region": "Николаевская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143403",
+    "channel": "kupolrussia",
+    "date": "2026-10-22T13:23:30+00:00",
+    "text": "Николаевская область\nВыходы БПЛА в Чёрное море",
+    "type": "drone",
+    "location_name": null,
+    "region": "Николаевская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_252200",
+    "channel": "LPRalarm",
+    "date": "2026-10-22T13:25:56+00:00",
+    "text": "Новоалексеевка\nГеническ\nЧонгар \nОпасность по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143404",
+    "channel": "kupolrussia",
+    "date": "2026-10-22T13:26:09+00:00",
+    "text": "Новоалексеевка\nГеническ\nЧонгар \nХерсонская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_252201",
+    "channel": "LPRalarm",
+    "date": "2026-10-22T13:29:06+00:00",
+    "text": "Севастополь учения",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143405_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-10-22T13:29:13+00:00",
+    "text": "Севастополь\nД\\ученияи/ №",
+    "type": "unknown",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
   }
 ]
