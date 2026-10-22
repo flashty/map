@@ -1,14 +1,4 @@
 {
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Липецк \nЛипецкая область \nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-22T21:44:06+00:00",
-    "expires_at": "2026-10-22T22:44:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "alert",
@@ -26,26 +16,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-22T21:51:09+00:00",
     "expires_at": "2026-10-22T22:51:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянской области",
-    "type": "drone",
-    "text": "Трубчевский район, Брянской области, тревога по БПЛА типа баба яга",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-22T21:39:50+00:00",
-    "expires_at": "2026-10-22T22:39:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Петровка\nНовогригоровка и близлежащие \nТревога по БПЛА \nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-22T21:31:19+00:00",
-    "expires_at": "2026-10-22T22:31:19+00:00",
     "count": null,
     "count_approx": false
   },
@@ -99,16 +69,6 @@
     "count": null,
     "count_approx": false
   },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Починковский район \nСмоленская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-22T21:34:33+00:00",
-    "expires_at": "2026-10-22T22:34:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тамбовск": {
     "display_name": "Тамбовская область",
     "type": "drone",
@@ -126,16 +86,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-22T22:31:05+00:00",
     "expires_at": "2026-10-22T23:31:05+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Сватово и близлежащие\nИ далее в направлении Старобельска\nТревога по БПЛА\nЛНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-22T21:41:06+00:00",
-    "expires_at": "2026-10-22T22:41:06+00:00",
     "count": null,
     "count_approx": false
   },
@@ -176,6 +126,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-22T22:15:12+00:00",
     "expires_at": "2026-10-22T23:15:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Алексин\nТульская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-22T22:37:20+00:00",
+    "expires_at": "2026-10-22T23:37:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградская область",
+    "type": "drone",
+    "text": "Волгоградская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-22T22:45:51+00:00",
+    "expires_at": "2026-10-22T23:45:51+00:00",
     "count": null,
     "count_approx": false
   }
