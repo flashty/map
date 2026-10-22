@@ -1,81 +1,31 @@
 {
   "калужск": {
     "display_name": "Калужская область",
-    "type": "alert",
-    "text": "Калуга\nКалужская область \nМеры безопасности!",
+    "type": "drone",
+    "text": "Перемышльский район\nКалужская область\nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-22T22:12:59+00:00",
-    "expires_at": "2026-10-22T23:12:59+00:00",
+    "updated_at": "2026-10-22T23:16:06+00:00",
+    "expires_at": "2026-10-23T00:16:06+00:00",
     "count": null,
     "count_approx": false
   },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Чертковский район \nРостовская область \nФиксация группы БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-22T22:09:42+00:00",
-    "expires_at": "2026-10-22T23:09:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Бутурлиновский район \nВоронежская область \nФиксация 3 БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-22T22:10:39+00:00",
-    "expires_at": "2026-10-22T23:10:39+00:00",
-    "count": 3,
-    "count_approx": false
-  },
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "Карсунский район \nУльяновская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-22T22:08:18+00:00",
-    "expires_at": "2026-10-22T23:08:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Рассказовский район \nТамбовская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-22T22:09:06+00:00",
-    "expires_at": "2026-10-22T23:09:06+00:00",
+    "text": "Шолоховский район\nРостовская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-22T23:09:28+00:00",
+    "expires_at": "2026-10-23T00:09:28+00:00",
     "count": null,
     "count_approx": false
   },
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Камско-Устьинский район\nРеспублика Татарстан\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-22T22:58:21+00:00",
-    "expires_at": "2026-10-22T23:58:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "мордов": {
-    "display_name": "Республика Мордовия",
-    "type": "drone",
-    "text": "Ромодановский район \nРеспублика Мордовия\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-22T22:07:27+00:00",
-    "expires_at": "2026-10-22T23:07:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Ясиноватая, Макеевка, Донецк и близлежащие \nТревога по БПЛА сохраняется, ещё фиксации \nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-22T22:15:12+00:00",
-    "expires_at": "2026-10-22T23:15:12+00:00",
+    "text": "Казань и близлежащие населённые пункты, Республика Татарстан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-22T23:07:20+00:00",
+    "expires_at": "2026-10-23T00:07:20+00:00",
     "count": null,
     "count_approx": false
   },
@@ -99,23 +49,113 @@
     "count": null,
     "count_approx": false
   },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Тула\nТульская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-22T22:49:11+00:00",
-    "expires_at": "2026-10-22T23:49:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "марий": {
     "display_name": "Республика Марий",
     "type": "drone",
-    "text": "Республика Марий Эл\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "text": "Чувашская Республика, Республика Марий Эл - опасность по БПЛА от Нижегородской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-22T23:08:24+00:00",
+    "expires_at": "2026-10-23T00:08:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородской области",
+    "type": "drone",
+    "text": "Пителино, Ермишь, Кадом, Рязанская область - внимание по пролётам БПЛА в сторону Выксунского района, Кулебакского района, Навашинского района, Нижегородской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-22T23:13:29+00:00",
+    "expires_at": "2026-10-23T00:13:29+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Брусянский, Узловский район, Тульская область - фиксации БПЛА в сторону Новомосковска. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-22T23:05:57+00:00",
+    "expires_at": "2026-10-23T00:05:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "чуваш": {
+    "display_name": "Республика Чувашия",
+    "type": "drone",
+    "text": "Аликовский район\nРеспублика Чувашия\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-22T23:01:16+00:00",
-    "expires_at": "2026-10-23T00:01:16+00:00",
+    "updated_at": "2026-10-22T23:07:08+00:00",
+    "expires_at": "2026-10-23T00:07:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пензенск": {
+    "display_name": "Пензенская область",
+    "type": "drone",
+    "text": "Каменский район\nПензенская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-22T23:09:11+00:00",
+    "expires_at": "2026-10-23T00:09:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "alert",
+    "text": "Сочи \nКраснодарский край\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-22T23:09:44+00:00",
+    "expires_at": "2026-10-23T00:09:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "drone",
+    "text": "Петушинский район\nВладимирская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-22T23:10:39+00:00",
+    "expires_at": "2026-10-23T00:10:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Можайск\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-22T23:15:18+00:00",
+    "expires_at": "2026-10-23T00:15:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курской областей",
+    "type": "drone",
+    "text": "Продолжаются запуски ударных БПЛА из-под Чернигов и Сум в сторону Брянской и Курской областей, много.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-22T23:11:37+00:00",
+    "expires_at": "2026-10-23T00:11:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Пителино, Ермишь, Кадом, Рязанская область - внимание по пролётам БПЛА в сторону Выксунского района, Кулебакского района, Навашинского района, Нижегородской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-22T23:13:29+00:00",
+    "expires_at": "2026-10-23T00:13:29+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Тёмкинский район\nВяземский район\nСмоленская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-22T23:15:35+00:00",
+    "expires_at": "2026-10-23T00:15:35+00:00",
     "count": null,
     "count_approx": false
   }
