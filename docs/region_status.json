@@ -1,36 +1,16 @@
 {
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Сетище, Красненский район, Белгородская область - фиксации БПЛА в сторону Репьёвка, Воронежская область. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-22T17:30:31+00:00",
-    "expires_at": "2026-10-22T18:30:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Семилукский район \nВоронежская область \nФиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-22T17:31:07+00:00",
-    "expires_at": "2026-10-22T18:31:07+00:00",
+    "text": "Краснолипье, Репьевский район, Воронежская область - пролёт БПЛА в сторону Воронежа. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-22T17:39:52+00:00",
+    "expires_at": "2026-10-22T18:39:52+00:00",
     "count": null,
     "count_approx": false
   },
   "луганск": {
     "display_name": "Луганская область",
-    "type": "drone",
-    "text": "ЛНР \nВоронежская область \nКурская область \nБелгородская область \nОрловская область \nБрянская область \nТревога по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-22T17:30:29+00:00",
-    "expires_at": "2026-10-22T18:30:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
     "type": "drone",
     "text": "ЛНР \nВоронежская область \nКурская область \nБелгородская область \nОрловская область \nБрянская область \nТревога по БПЛА",
     "channel": "LPRalarm",
@@ -49,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "ЛНР \nВоронежская область \nКурская область \nБелгородская область \nОрловская область \nБрянская область \nТревога по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-22T17:30:29+00:00",
-    "expires_at": "2026-10-22T18:30:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тамбовск": {
     "display_name": "Тамбовская область",
     "type": "drone",
@@ -72,20 +42,20 @@
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
-    "text": "Саратовская область \nТамбовская область \nПензенская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-22T16:38:32+00:00",
-    "expires_at": "2026-10-22T17:38:32+00:00",
+    "text": "Саратовская область \nПензенская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-22T17:38:37+00:00",
+    "expires_at": "2026-10-22T18:38:37+00:00",
     "count": null,
     "count_approx": false
   },
   "пензенск": {
     "display_name": "Пензенская область",
     "type": "drone",
-    "text": "Саратовская область \nТамбовская область \nПензенская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-22T16:38:32+00:00",
-    "expires_at": "2026-10-22T17:38:32+00:00",
+    "text": "Пензенская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-22T17:39:59+00:00",
+    "expires_at": "2026-10-22T18:39:59+00:00",
     "count": null,
     "count_approx": false
   },
@@ -99,23 +69,13 @@
     "count": null,
     "count_approx": false
   },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Гвардейское и близлежащие \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-22T16:55:03+00:00",
-    "expires_at": "2026-10-22T17:55:03+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Ростовская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-22T17:28:41+00:00",
-    "expires_at": "2026-10-22T18:28:41+00:00",
+    "text": "Ростовская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-22T17:40:41+00:00",
+    "expires_at": "2026-10-22T18:40:41+00:00",
     "count": null,
     "count_approx": false
   },
@@ -132,30 +92,20 @@
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
-    "text": "Екимовичи, Рославльский район, Смоленская область - пролёт БПЛА на Десногорск. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-22T17:28:53+00:00",
-    "expires_at": "2026-10-22T18:28:53+00:00",
+    "text": "Починковский район \nУгранский район \nСмоленская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-22T17:45:25+00:00",
+    "expires_at": "2026-10-22T18:45:25+00:00",
     "count": null,
     "count_approx": false
   },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Спас-Деменский район \nКалужская область \nФиксации БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-22T17:29:44+00:00",
-    "expires_at": "2026-10-22T18:29:44+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "ЛНР \nВоронежская область \nКурская область \nБелгородская область \nОрловская область \nБрянская область \nТревога по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-22T17:30:29+00:00",
-    "expires_at": "2026-10-22T18:30:29+00:00",
+    "text": "Людиново, Калужская область - пролёт БПЛА в тыл. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-22T17:45:59+00:00",
+    "expires_at": "2026-10-22T18:45:59+00:00",
     "count": null,
     "count_approx": false
   },
@@ -192,10 +142,50 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Ханженково и близлежащие \nТревога по БПЛА \nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-22T17:29:32+00:00",
-    "expires_at": "2026-10-22T18:29:32+00:00",
+    "text": "Спартак, Донецк, Ясиноватая, Макеевка и близлежащие \nОпасность по БПЛА сохраняется, ещё фиксации \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-22T17:41:54+00:00",
+    "expires_at": "2026-10-22T18:41:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Смоленская область \nТверская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-22T17:33:31+00:00",
+    "expires_at": "2026-10-22T18:33:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Тульская область \nРязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-22T17:34:59+00:00",
+    "expires_at": "2026-10-22T18:34:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Тульская область \nРязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-22T17:34:59+00:00",
+    "expires_at": "2026-10-22T18:34:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Жуковка и близлежащие, Брянская область - фиксации ударных БПЛА в сторону Киров, Людиново, Жиздра, Калужской области и далее в тыл. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-22T17:45:46+00:00",
+    "expires_at": "2026-10-22T18:45:46+00:00",
     "count": null,
     "count_approx": false
   }
