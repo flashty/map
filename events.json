@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_251888",
-    "channel": "LPRalarm",
-    "date": "2026-10-21T20:09:47+00:00",
-    "text": "Засосна\nКрасногвардейский МО\nИ близлежащие\nТревога по БПЛА\nБелгородская область\nИ далее в направлении Воронежской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_101401_Монастырщинский",
-    "channel": "vrv_radar",
-    "date": "2026-10-21T20:09:49+00:00",
-    "text": "Монастырщинский район \nСмоленская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Монастырщинский",
-    "region": "Смоленская область",
-    "lat": 54.327496,
-    "lon": 31.7687352
-  },
-  {
-    "id": "vrv_radar_101402",
-    "channel": "vrv_radar",
-    "date": "2026-10-21T20:09:58+00:00",
-    "text": "Тульская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_15295",
-    "channel": "radar_plus_bpla",
-    "date": "2026-10-21T20:10:06+00:00",
-    "text": "Тульская область - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_101711_Монастырщинский",
-    "channel": "radarrussiia",
-    "date": "2026-10-21T20:10:20+00:00",
-    "text": "Монастырщинский район \nСафоновский район \nСмоленская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": "Монастырщинский",
-    "region": "Смоленская область",
-    "lat": 54.327496,
-    "lon": 31.7687352
-  },
-  {
-    "id": "radarrussiia_101711_Сафоновский",
-    "channel": "radarrussiia",
-    "date": "2026-10-21T20:10:20+00:00",
-    "text": "Монастырщинский район \nСафоновский район \nСмоленская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": "Сафоновский",
-    "region": "Смоленская область",
-    "lat": 55.2007681,
-    "lon": 33.4302687
-  },
-  {
-    "id": "radarrussiia_101712",
-    "channel": "radarrussiia",
-    "date": "2026-10-21T20:10:41+00:00",
-    "text": "Тульская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_251889",
     "channel": "LPRalarm",
     "date": "2026-10-21T20:11:23+00:00",
@@ -21996,6 +21919,83 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_252223",
+    "channel": "LPRalarm",
+    "date": "2026-10-22T14:21:40+00:00",
+    "text": "Часов Яр ДНР уаб",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143422",
+    "channel": "kupolrussia",
+    "date": "2026-10-22T14:21:58+00:00",
+    "text": "Часов Яр ДНР уаб",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_252224",
+    "channel": "LPRalarm",
+    "date": "2026-10-22T14:25:25+00:00",
+    "text": "Горловка ДНР \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143423",
+    "channel": "kupolrussia",
+    "date": "2026-10-22T14:25:54+00:00",
+    "text": "Горловка ДНР \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_252225",
+    "channel": "LPRalarm",
+    "date": "2026-10-22T14:27:09+00:00",
+    "text": "Новороссийск \nТуапсе \nГеленджик\nИ близлежащие \nОпасность по БЭК\nКраснодарский край",
+    "type": "alert",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143424",
+    "channel": "kupolrussia",
+    "date": "2026-10-22T14:27:23+00:00",
+    "text": "Новороссийск \nТуапсе \nГеленджик\nИ близлежащие \nОпасность по БЭК\nКраснодарский край",
+    "type": "alert",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_101823",
+    "channel": "vrv_radar",
+    "date": "2026-10-22T14:29:46+00:00",
+    "text": "Краснодарский край \nОпасность по БЭК",
+    "type": "alert",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
