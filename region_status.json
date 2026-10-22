@@ -1,14 +1,4 @@
 {
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Орловская область\nТревога по БПЛА сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-22T03:03:49+00:00",
-    "expires_at": "2026-10-22T04:03:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "владимирск": {
     "display_name": "Владимирская область",
     "type": "drone",
@@ -26,6 +16,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-22T03:31:55+00:00",
     "expires_at": "2026-10-22T04:31:55+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Гвардейское и близлежащие\nТревога по БПЛА\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-22T04:11:09+00:00",
+    "expires_at": "2026-10-22T05:11:09+00:00",
     "count": null,
     "count_approx": false
   }
