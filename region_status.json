@@ -9,26 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "г.Белгород  опасность по БПЛА \nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-22T00:03:09+00:00",
-    "expires_at": "2026-10-22T01:03:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Токмак и близлежайшие опасность по БПЛА \nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-22T00:09:07+00:00",
-    "expires_at": "2026-10-22T01:09:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "вологодск": {
     "display_name": "Вологодская область",
     "type": "missile",
@@ -56,6 +36,26 @@
     "channel": "locatorru",
     "updated_at": "2026-10-22T00:56:26+00:00",
     "expires_at": "2026-10-22T01:56:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ярославск": {
+    "display_name": "Ярославская область",
+    "type": "drone",
+    "text": "Переславский район\nЯрославская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-22T01:04:28+00:00",
+    "expires_at": "2026-10-22T02:04:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Выгонический район и далее в направлении Брянска \nОпасность по БПЛА \nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-22T01:07:57+00:00",
+    "expires_at": "2026-10-22T02:07:57+00:00",
     "count": null,
     "count_approx": false
   }

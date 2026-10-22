@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_251751",
-    "channel": "LPRalarm",
-    "date": "2026-10-21T16:03:11+00:00",
-    "text": "Юг\nЛНР \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143042",
-    "channel": "kupolrussia",
-    "date": "2026-10-21T16:03:23+00:00",
-    "text": "Юг\nЛНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_251752",
-    "channel": "LPRalarm",
-    "date": "2026-10-21T16:03:31+00:00",
-    "text": "ЮБК \nОпасность по БПЛА с моря \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143043",
-    "channel": "kupolrussia",
-    "date": "2026-10-21T16:03:39+00:00",
-    "text": "ЮБК \n с моря \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143044",
-    "channel": "kupolrussia",
-    "date": "2026-10-21T16:05:39+00:00",
-    "text": "Светлодарск и близлежащие \nДНР",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_251754",
     "channel": "LPRalarm",
     "date": "2026-10-21T16:06:44+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Ярославская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_101776_Переславский",
+    "channel": "vrv_radar",
+    "date": "2026-10-22T01:02:28+00:00",
+    "text": "Переславский район\nЯрославская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Переславский",
+    "region": "Ярославская область",
+    "lat": 56.8020836,
+    "lon": 38.6489913
+  },
+  {
+    "id": "radarrussiia_101892_Переславский",
+    "channel": "radarrussiia",
+    "date": "2026-10-22T01:04:28+00:00",
+    "text": "Переславский район\nЯрославская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": "Переславский",
+    "region": "Ярославская область",
+    "lat": 56.8020836,
+    "lon": 38.6489913
+  },
+  {
+    "id": "vrv_radar_101777",
+    "channel": "vrv_radar",
+    "date": "2026-10-22T01:04:46+00:00",
+    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_252070",
+    "channel": "LPRalarm",
+    "date": "2026-10-22T01:07:57+00:00",
+    "text": "Выгонический район и далее в направлении Брянска \nОпасность по БПЛА \nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_101778_Калуга",
+    "channel": "vrv_radar",
+    "date": "2026-10-22T01:09:37+00:00",
+    "text": "Калуга\nКалужская область\nПродолжается работа ПВО",
+    "type": "unknown",
+    "location_name": "Калуга",
+    "region": "Калужская область",
+    "lat": 54.5101087,
+    "lon": 36.2598115
   }
 ]
