@@ -20,12 +20,12 @@
     "count_approx": false
   },
   "калужск": {
-    "display_name": "Калужскую области",
+    "display_name": "Калужская область",
     "type": "drone",
-    "text": "Фиксации БПЛА через Калужскую, Орловскую области в направлении Тульской и Московской областей.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-10-22T08:09:05+00:00",
-    "expires_at": "2026-10-22T09:09:05+00:00",
+    "text": "Куйбышевский район\nКалужская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-22T08:23:10+00:00",
+    "expires_at": "2026-10-22T09:23:10+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,16 +36,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-22T07:56:53+00:00",
     "expires_at": "2026-10-22T08:56:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Курская область, Орловская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-22T07:27:01+00:00",
-    "expires_at": "2026-10-22T08:27:01+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +56,16 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-10-22T08:09:05+00:00",
     "expires_at": "2026-10-22T09:09:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Шебекино и район, Белгородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-22T08:18:24+00:00",
+    "expires_at": "2026-10-22T09:18:24+00:00",
     "count": null,
     "count_approx": false
   }
