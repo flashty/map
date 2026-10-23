@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_252101_Ярославская",
-    "channel": "LPRalarm",
-    "date": "2026-10-22T05:30:29+00:00",
-    "text": "Калужская \nЯрославская \nТамбовская области\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
-    "type": "all_clear",
-    "location_name": "Ярославская",
-    "region": "Тамбовская области",
-    "lat": 53.3646796,
-    "lon": 41.1297711
-  },
-  {
-    "id": "vrv_radar_101807_Истра",
-    "channel": "vrv_radar",
-    "date": "2026-10-22T05:46:27+00:00",
-    "text": "МО Истра\nМосковская область \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
-    "type": "all_clear",
-    "location_name": "Истра",
-    "region": "Московская область",
-    "lat": 55.9145993,
-    "lon": 36.8595482
-  },
-  {
-    "id": "kupolrussia_143316",
-    "channel": "kupolrussia",
-    "date": "2026-10-22T05:46:57+00:00",
-    "text": "Владимирская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Владимирская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252102",
-    "channel": "LPRalarm",
-    "date": "2026-10-22T05:47:01+00:00",
-    "text": "Владимирская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Владимирская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252103",
-    "channel": "LPRalarm",
-    "date": "2026-10-22T05:52:30+00:00",
-    "text": "Новозыбков и близлежащие \nБрянская область \nТревога по БПЛА\nИ далее возможно в тыл",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143317",
-    "channel": "kupolrussia",
-    "date": "2026-10-22T05:52:48+00:00",
-    "text": "Новозыбков и близлежащие \nБрянская область \nИ далее возможно в тыл",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252104",
-    "channel": "LPRalarm",
-    "date": "2026-10-22T05:53:32+00:00",
-    "text": "Новогродовка и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_143318",
     "channel": "kupolrussia",
     "date": "2026-10-22T05:53:42+00:00",
@@ -21996,6 +21919,83 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102163",
+    "channel": "vrv_radar",
+    "date": "2026-10-23T08:16:01+00:00",
+    "text": "Республика Мордовия\nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Мордовия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143753",
+    "channel": "kupolrussia",
+    "date": "2026-10-23T08:23:16+00:00",
+    "text": "всем ранее объявленным",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_252598",
+    "channel": "LPRalarm",
+    "date": "2026-10-23T08:23:17+00:00",
+    "text": "Отбой ракетной опасности по всем ранее объявленным",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102164",
+    "channel": "vrv_radar",
+    "date": "2026-10-23T08:23:44+00:00",
+    "text": "Саратовская область\nПензенская область\nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102165",
+    "channel": "vrv_radar",
+    "date": "2026-10-23T08:23:55+00:00",
+    "text": "Волгоградская область\nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_252599",
+    "channel": "LPRalarm",
+    "date": "2026-10-23T08:25:41+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА, в том числе и на электротяге сохраняется \nФиксации в центре \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143754",
+    "channel": "kupolrussia",
+    "date": "2026-10-23T08:26:32+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА, в том числе и на электротяге сохраняется \nФиксации в центре \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
