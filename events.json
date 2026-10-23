@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_252137",
-    "channel": "LPRalarm",
-    "date": "2026-10-22T07:41:47+00:00",
-    "text": "Трасса Новороссия \nР-280\nАктивность БПЛА Хорнет \nПринять меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143350",
-    "channel": "kupolrussia",
-    "date": "2026-10-22T07:41:56+00:00",
-    "text": "Трасса Новороссия \nР-280\nАктивность БПЛА Хорнет \nПринять меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252138",
-    "channel": "LPRalarm",
-    "date": "2026-10-22T07:45:41+00:00",
-    "text": "Противник готовит запуски БПЛА от Николаевской области",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143351",
-    "channel": "kupolrussia",
-    "date": "2026-10-22T07:45:49+00:00",
-    "text": "Противник готовит запуски БПЛА от Николаевской области",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252139",
-    "channel": "LPRalarm",
-    "date": "2026-10-22T07:47:16+00:00",
-    "text": "Климово и близлежащие опасность по БПЛА Дартс и Фпв.\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143352",
-    "channel": "kupolrussia",
-    "date": "2026-10-22T07:47:30+00:00",
-    "text": "Климово и близлежащие опасность по БПЛА Дартс и Фпв.\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252140_Шебекинский",
-    "channel": "LPRalarm",
-    "date": "2026-10-22T07:48:17+00:00",
-    "text": "Графовка, Маслова Пристань \nШебекинский район \nУдарный БПЛА в направлении",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
     "id": "LPRalarm_252140_Графовка",
     "channel": "LPRalarm",
     "date": "2026-10-22T07:48:17+00:00",
@@ -21996,6 +21919,83 @@
     "type": "missile",
     "location_name": null,
     "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_91836",
+    "channel": "locatorru",
+    "date": "2026-10-23T11:42:22+00:00",
+    "text": "Орловская область, Московская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_252631",
+    "channel": "LPRalarm",
+    "date": "2026-10-23T11:42:57+00:00",
+    "text": "Севастополь \nУчения",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143784_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-10-23T11:43:14+00:00",
+    "text": "Севастополь\nД\\ученияи/ №",
+    "type": "unknown",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "LPRalarm_252632",
+    "channel": "LPRalarm",
+    "date": "2026-10-23T11:44:03+00:00",
+    "text": "Бердянск \nОсипенко \nОсобое внимание трассы \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143785",
+    "channel": "kupolrussia",
+    "date": "2026-10-23T11:44:51+00:00",
+    "text": "Бердянск \nОсипенко \nОсобое внимание трассы \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_252633",
+    "channel": "LPRalarm",
+    "date": "2026-10-23T11:45:24+00:00",
+    "text": "Великие Копани и близлежащие \nХерсонская область РФ \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143786",
+    "channel": "kupolrussia",
+    "date": "2026-10-23T11:45:29+00:00",
+    "text": "Великие Копани и близлежащие \nХерсонская область РФ \nОпасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
     "lat": null,
     "lon": null
   }
