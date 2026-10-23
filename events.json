@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_101767_Домодедово",
-    "channel": "vrv_radar",
-    "date": "2026-10-22T00:48:00+00:00",
-    "text": "ГО Домодедово\nМосковская область\nПродолжается работа ПВО",
-    "type": "unknown",
-    "location_name": "Домодедово",
-    "region": "Московская область",
-    "lat": 55.4087122,
-    "lon": 37.9094721
-  },
-  {
-    "id": "LPRalarm_252068",
-    "channel": "LPRalarm",
-    "date": "2026-10-22T00:48:52+00:00",
-    "text": "Воронежская область \nОрловская область \nБрянская область \nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143286",
-    "channel": "kupolrussia",
-    "date": "2026-10-22T00:49:01+00:00",
-    "text": "Воронежская область \nОрловская область \nБрянская область \nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_101769_Коломна",
     "channel": "vrv_radar",
     "date": "2026-10-22T00:51:21+00:00",
@@ -21996,6 +21963,39 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Астраханская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102129",
+    "channel": "vrv_radar",
+    "date": "2026-10-23T04:33:21+00:00",
+    "text": "Саратовская область \nСмоленская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143704",
+    "channel": "kupolrussia",
+    "date": "2026-10-23T04:44:12+00:00",
+    "text": "Новгородская область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Новгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_252541",
+    "channel": "LPRalarm",
+    "date": "2026-10-23T04:44:15+00:00",
+    "text": "Новгородская область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Новгородская область",
     "lat": null,
     "lon": null
   }
