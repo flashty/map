@@ -1,14 +1,4 @@
 {
-  "нижегородск": {
-    "display_name": "Нижегородская область",
-    "type": "drone",
-    "text": "Ардатовский район \nНижегородская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-23T03:14:53+00:00",
-    "expires_at": "2026-10-23T04:14:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "марий": {
     "display_name": "Республика Марий",
     "type": "drone",
@@ -46,6 +36,16 @@
     "channel": "locatorru",
     "updated_at": "2026-10-23T03:51:04+00:00",
     "expires_at": "2026-10-23T04:51:04+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Курахово ДНР \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-23T04:14:27+00:00",
+    "expires_at": "2026-10-23T05:14:27+00:00",
     "count": null,
     "count_approx": false
   }
