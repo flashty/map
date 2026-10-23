@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_101743_Домодедово",
-    "channel": "vrv_radar",
-    "date": "2026-10-22T00:19:52+00:00",
-    "text": "ГО Домодедово\nМосковская область\nПродолжается работа ПВО",
-    "type": "unknown",
-    "location_name": "Домодедово",
-    "region": "Московская область",
-    "lat": 55.4087122,
-    "lon": 37.9094721
-  },
-  {
-    "id": "locatorru_91622",
-    "channel": "locatorru",
-    "date": "2026-10-22T00:20:25+00:00",
-    "text": "Калужская область, Тульская область, Московская область, Орловская область - ракетная опасность, повторно! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_143281",
     "channel": "kupolrussia",
     "date": "2026-10-22T00:20:44+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Нижегородская область",
     "lat": 56.5807808,
     "lon": 43.6386394
+  },
+  {
+    "id": "LPRalarm_252527",
+    "channel": "LPRalarm",
+    "date": "2026-10-23T01:20:51+00:00",
+    "text": "Луганск и ближайшие, тревога по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143692",
+    "channel": "kupolrussia",
+    "date": "2026-10-23T01:20:58+00:00",
+    "text": "Луганск и ближайшие, тревога по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
