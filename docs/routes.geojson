@@ -1,35 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-10-23T11:52:35+00:00",
-        "last_updated": "2026-10-23T12:42:51+00:00",
-        "path_labels": [
-          "Вся (Московская область)",
-          "Зюзино",
-          "Лобня (Московская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.4927004,
-            55.9400998
-          ],
-          [
-            37.5867464,
-            55.6531418
-          ],
-          [
-            37.4670831,
-            56.0104473
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
