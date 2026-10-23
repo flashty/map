@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_252128",
-    "channel": "LPRalarm",
-    "date": "2026-10-22T07:20:37+00:00",
-    "text": "Север Бердянска, Бердянский р-н отмечается активность БПЛА противника.\nОсобое внимание трассы \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143342",
-    "channel": "kupolrussia",
-    "date": "2026-10-22T07:20:50+00:00",
-    "text": "Север Бердянска, Бердянский р-н отмечается активность БПЛА противника.\nОсобое внимание трассы \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252129",
-    "channel": "LPRalarm",
-    "date": "2026-10-22T07:22:19+00:00",
-    "text": "Трасса Р-280\nАктивность БПЛА Хорнет \nПринять меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_143343",
     "channel": "kupolrussia",
     "date": "2026-10-22T07:22:21+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Московская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_252621_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-10-23T10:46:23+00:00",
+    "text": "Белгородский район опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_252622",
+    "channel": "LPRalarm",
+    "date": "2026-10-23T10:52:23+00:00",
+    "text": "г. Белгород опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143775_Белгород",
+    "channel": "kupolrussia",
+    "date": "2026-10-23T10:52:41+00:00",
+    "text": "г. Белгород\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Белгород",
+    "region": null,
+    "lat": 50.5955595,
+    "lon": 36.5873394
   }
 ]
