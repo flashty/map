@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_143339_Брянск",
-    "channel": "kupolrussia",
-    "date": "2026-10-22T07:10:54+00:00",
-    "text": "Брянск\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Брянск",
-    "region": null,
-    "lat": 53.2423778,
-    "lon": 34.3668288
-  },
-  {
-    "id": "LPRalarm_252126_Трубчевский",
-    "channel": "LPRalarm",
-    "date": "2026-10-22T07:16:09+00:00",
-    "text": "Трубчевский район \nТрубчевск и близлежащие \nОпасность по БПЛА \nБрянская область",
-    "type": "drone",
-    "location_name": "Трубчевский",
-    "region": "Брянская область",
-    "lat": 52.5867776,
-    "lon": 33.7892267
-  },
-  {
-    "id": "kupolrussia_143340_Трубчевский",
-    "channel": "kupolrussia",
-    "date": "2026-10-22T07:16:25+00:00",
-    "text": "Трубчевский район \nТрубчевск и близлежащие \nБрянская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Трубчевский",
-    "region": "Брянская область",
-    "lat": 52.5867776,
-    "lon": 33.7892267
-  },
-  {
-    "id": "kupolrussia_143341",
-    "channel": "kupolrussia",
-    "date": "2026-10-22T07:16:30+00:00",
-    "text": "Калужская область \nВнимание по БПЛА от Брянской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252127",
-    "channel": "LPRalarm",
-    "date": "2026-10-22T07:16:33+00:00",
-    "text": "Калужская область \nВнимание по БПЛА от Брянской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_252128",
     "channel": "LPRalarm",
     "date": "2026-10-22T07:20:37+00:00",
@@ -21993,6 +21938,61 @@
     "channel": "radarrussiia",
     "date": "2026-10-23T10:29:00+00:00",
     "text": "ГО Подольск \nМосковская область \nРабота ПВО \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "alert",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102176",
+    "channel": "vrv_radar",
+    "date": "2026-10-23T10:36:42+00:00",
+    "text": "АО Троицк\nМосква\nПродолжается работа ПВО",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102129",
+    "channel": "radarrussiia",
+    "date": "2026-10-23T10:38:37+00:00",
+    "text": "АО Троицк\nМосква\nПродолжается работа ПВО\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102177",
+    "channel": "vrv_radar",
+    "date": "2026-10-23T10:38:57+00:00",
+    "text": "АО Троицк\nМосква\nПродолжается работа ПВО",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15351",
+    "channel": "radar_plus_bpla",
+    "date": "2026-10-23T10:39:29+00:00",
+    "text": "Троицк\nПодольск\n\nПодмосковье. Сбития БПЛА. Ещё фиксации.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102178",
+    "channel": "vrv_radar",
+    "date": "2026-10-23T10:41:05+00:00",
+    "text": "ГО Подольск \nМосковская область \nПродолжается работа ПВО \nМеры безопасности",
     "type": "alert",
     "location_name": null,
     "region": "Московская область",
