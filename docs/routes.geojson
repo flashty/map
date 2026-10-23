@@ -115,6 +115,106 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-10-23T19:29:12+00:00",
+        "last_updated": "2026-10-23T20:14:24+00:00",
+        "path_labels": [
+          "Белгородский",
+          "Ступино (Московская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.5167643,
+            54.3750277
+          ],
+          [
+            38.0772589,
+            54.886598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-23T19:29:56+00:00",
+        "last_updated": "2026-10-23T20:09:44+00:00",
+        "path_labels": [
+          "Воинка",
+          "Малоярославецкий (Калужская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.7431876,
+            55.5703602
+          ],
+          [
+            36.4160867,
+            54.8898368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-23T19:43:40+00:00",
+        "last_updated": "2026-10-23T20:08:56+00:00",
+        "path_labels": [
+          "Сеща (Брянская область)",
+          "Куйбышевский (Калужская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.335701,
+            53.732101
+          ],
+          [
+            33.791086,
+            54.0967366
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-23T19:43:40+00:00",
+        "last_updated": "2026-10-23T20:12:34+00:00",
+        "path_labels": [
+          "Карачев (Брянская область)",
+          "Сосковский (Орловская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.9825906,
+            53.1221822
+          ],
+          [
+            35.3808815,
+            52.742656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-10-23T19:48:22+00:00",
         "last_updated": "2026-10-23T19:48:22+00:00",
         "path_labels": [
