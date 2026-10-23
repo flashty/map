@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_101775",
-    "channel": "vrv_radar",
-    "date": "2026-10-22T01:01:10+00:00",
-    "text": "Ярославская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ярославская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_101776_Переславский",
-    "channel": "vrv_radar",
-    "date": "2026-10-22T01:02:28+00:00",
-    "text": "Переславский район\nЯрославская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Переславский",
-    "region": "Ярославская область",
-    "lat": 56.8020836,
-    "lon": 38.6489913
-  },
-  {
-    "id": "radarrussiia_101892_Переславский",
-    "channel": "radarrussiia",
-    "date": "2026-10-22T01:04:28+00:00",
-    "text": "Переславский район\nЯрославская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": "Переславский",
-    "region": "Ярославская область",
-    "lat": 56.8020836,
-    "lon": 38.6489913
-  },
-  {
-    "id": "vrv_radar_101777",
-    "channel": "vrv_radar",
-    "date": "2026-10-22T01:04:46+00:00",
-    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252070",
-    "channel": "LPRalarm",
-    "date": "2026-10-22T01:07:57+00:00",
-    "text": "Выгонический район и далее в направлении Брянска \nОпасность по БПЛА \nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_101778_Калуга",
-    "channel": "vrv_radar",
-    "date": "2026-10-22T01:09:37+00:00",
-    "text": "Калуга\nКалужская область\nПродолжается работа ПВО",
-    "type": "unknown",
-    "location_name": "Калуга",
-    "region": "Калужская область",
-    "lat": 54.5101087,
-    "lon": 36.2598115
-  },
-  {
     "id": "vrv_radar_101779_Бронницы",
     "channel": "vrv_radar",
     "date": "2026-10-22T01:33:21+00:00",
@@ -21996,6 +21930,72 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Республика Удмуртия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_252548",
+    "channel": "LPRalarm",
+    "date": "2026-10-23T05:46:23+00:00",
+    "text": "Байрачки, Софиевка Лнр\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102133",
+    "channel": "vrv_radar",
+    "date": "2026-10-23T05:46:41+00:00",
+    "text": "Республика Татарстан\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Татарстан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143711",
+    "channel": "kupolrussia",
+    "date": "2026-10-23T05:47:39+00:00",
+    "text": "Байрачки, Софиевка Лнр\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_252549",
+    "channel": "LPRalarm",
+    "date": "2026-10-23T06:00:58+00:00",
+    "text": "Погорелов и близлежащие, возможно далее на восток \nОпасность по БПЛА \nРостовская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143712",
+    "channel": "kupolrussia",
+    "date": "2026-10-23T06:01:16+00:00",
+    "text": "Погорелов и близлежащие, возможно далее на восток \nРостовская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_252550",
+    "channel": "LPRalarm",
+    "date": "2026-10-23T06:01:24+00:00",
+    "text": "Ростовская область \nСеверная часть \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
     "lat": null,
     "lon": null
   }
