@@ -1,11 +1,11 @@
 {
   "московск": {
     "display_name": "Московская область",
-    "type": "alert",
-    "text": "ГО Лобня\nМосковская область\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-23T12:46:27+00:00",
-    "expires_at": "2026-10-23T13:46:27+00:00",
+    "type": "drone",
+    "text": "Московская область и г.Москва - опасность по БПЛА + малоразмерным воздушным шарам сохраняется. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-23T13:09:54+00:00",
+    "expires_at": "2026-10-23T14:09:54+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,36 +26,6 @@
     "channel": "locatorru",
     "updated_at": "2026-10-23T12:45:57+00:00",
     "expires_at": "2026-10-23T13:45:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ивановск": {
-    "display_name": "Ивановская область",
-    "type": "drone",
-    "text": "Ивановская область\nВладимирская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-23T12:10:23+00:00",
-    "expires_at": "2026-10-23T13:10:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "владимирск": {
-    "display_name": "Владимирская область",
-    "type": "drone",
-    "text": "Владимирская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-23T12:11:18+00:00",
-    "expires_at": "2026-10-23T13:11:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ярославск": {
-    "display_name": "Ярославская область",
-    "type": "drone",
-    "text": "Ярославская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-23T12:14:03+00:00",
-    "expires_at": "2026-10-23T13:14:03+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +66,26 @@
     "channel": "locatorru",
     "updated_at": "2026-10-23T12:46:44+00:00",
     "expires_at": "2026-10-23T13:46:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Херсонская область РФ \nАктивность БПЛА Хорнет \nПринять меры безопасности",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-23T13:15:09+00:00",
+    "expires_at": "2026-10-23T14:15:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Донецк и близлежащие \nОпасность по БПЛА Хорнет с запада \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-23T13:15:47+00:00",
+    "expires_at": "2026-10-23T14:15:47+00:00",
     "count": null,
     "count_approx": false
   }
