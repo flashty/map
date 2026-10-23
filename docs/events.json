@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_252106_Липецк",
-    "channel": "LPRalarm",
-    "date": "2026-10-22T05:56:39+00:00",
-    "text": "Липецк\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
-    "type": "all_clear",
-    "location_name": "Липецк",
-    "region": null,
-    "lat": 52.6051488,
-    "lon": 39.5963775
-  },
-  {
-    "id": "vrv_radar_101808",
-    "channel": "vrv_radar",
-    "date": "2026-10-22T05:57:25+00:00",
-    "text": "Липецкая область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143321",
-    "channel": "kupolrussia",
-    "date": "2026-10-22T05:59:06+00:00",
-    "text": "Рязанская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252107",
-    "channel": "LPRalarm",
-    "date": "2026-10-22T05:59:09+00:00",
-    "text": "Рязанская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_143322",
     "channel": "kupolrussia",
     "date": "2026-10-22T06:00:22+00:00",
@@ -21996,6 +21952,50 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Пермский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102166_Починковский",
+    "channel": "vrv_radar",
+    "date": "2026-10-23T08:51:21+00:00",
+    "text": "Починковский район \nСмоленская область \nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Починковский",
+    "region": "Смоленская область",
+    "lat": 54.36507,
+    "lon": 32.5314114
+  },
+  {
+    "id": "radarrussiia_102124_Починковский",
+    "channel": "radarrussiia",
+    "date": "2026-10-23T08:52:55+00:00",
+    "text": "Починковский район \nСмоленская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": "Починковский",
+    "region": "Смоленская область",
+    "lat": 54.36507,
+    "lon": 32.5314114
+  },
+  {
+    "id": "LPRalarm_252601",
+    "channel": "LPRalarm",
+    "date": "2026-10-23T09:00:38+00:00",
+    "text": "Осипенко, Бердянск, Луначарское кольцо и близлежащие тревога по БПЛА\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143756",
+    "channel": "kupolrussia",
+    "date": "2026-10-23T09:00:52+00:00",
+    "text": "Осипенко, Бердянск, Луначарское кольцо и близлежащие\nЗапорожская область РФ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }

@@ -9,33 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "ивановск": {
-    "display_name": "Ивановская область",
-    "type": "missile",
-    "text": "Владимирская область\nИвановская область\nРакетная опасность",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-23T07:50:09+00:00",
-    "expires_at": "2026-10-23T08:50:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Осипенко, Бердянск и близлежащие\nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-23T08:00:42+00:00",
-    "expires_at": "2026-10-23T09:00:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "alert",
-    "text": "ЛДНР\nЗапорожская область РФ\nРостовская область\nКраснодарский край\n\nТыловые регионы опасность от Воронежской области сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-23T07:54:44+00:00",
-    "expires_at": "2026-10-23T08:54:44+00:00",
+    "text": "Осипенко, Бердянск, Луначарское кольцо и близлежащие тревога по БПЛА\nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-23T09:00:38+00:00",
+    "expires_at": "2026-10-23T10:00:38+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +66,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-23T08:41:33+00:00",
     "expires_at": "2026-10-23T09:41:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Починковский район \nСмоленская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-23T08:52:55+00:00",
+    "expires_at": "2026-10-23T09:52:55+00:00",
     "count": null,
     "count_approx": false
   }
