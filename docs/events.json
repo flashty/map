@@ -1,82 +1,5 @@
 [
   {
-    "id": "kupolrussia_143458",
-    "channel": "kupolrussia",
-    "date": "2026-10-22T16:44:10+00:00",
-    "text": "Ивановка, Красный Луч, и прилегающие трассы\nТревога по БПЛА\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143459",
-    "channel": "kupolrussia",
-    "date": "2026-10-22T16:44:45+00:00",
-    "text": "Калужская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252260",
-    "channel": "LPRalarm",
-    "date": "2026-10-22T16:44:47+00:00",
-    "text": "Калужская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252261_Прохоровский",
-    "channel": "LPRalarm",
-    "date": "2026-10-22T16:45:33+00:00",
-    "text": "Вязовое, Прохоровский район и далее на север\nБелгородская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Прохоровский",
-    "region": "Белгородская область",
-    "lat": 51.1537288,
-    "lon": 37.0023244
-  },
-  {
-    "id": "LPRalarm_252261_Вязовое",
-    "channel": "LPRalarm",
-    "date": "2026-10-22T16:45:33+00:00",
-    "text": "Вязовое, Прохоровский район и далее на север\nБелгородская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Вязовое",
-    "region": "Белгородская область",
-    "lat": 51.1542645,
-    "lon": 37.0030495
-  },
-  {
-    "id": "kupolrussia_143460_Прохоровский",
-    "channel": "kupolrussia",
-    "date": "2026-10-22T16:46:09+00:00",
-    "text": "Вязовое, Прохоровский район и далее на север\nБелгородская область",
-    "type": "unknown",
-    "location_name": "Прохоровский",
-    "region": "Белгородская область",
-    "lat": 51.1537288,
-    "lon": 37.0023244
-  },
-  {
-    "id": "kupolrussia_143460_Вязовое",
-    "channel": "kupolrussia",
-    "date": "2026-10-22T16:46:09+00:00",
-    "text": "Вязовое, Прохоровский район и далее на север\nБелгородская область",
-    "type": "unknown",
-    "location_name": "Вязовое",
-    "region": "Белгородская область",
-    "lat": 51.1542645,
-    "lon": 37.0030495
-  },
-  {
     "id": "vrv_radar_101830",
     "channel": "vrv_radar",
     "date": "2026-10-22T16:47:49+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15360_Москве",
+    "channel": "radar_plus_bpla",
+    "date": "2026-10-23T16:02:35+00:00",
+    "text": "⚡️БПЛА упал на территории аэропорта «Шереметьево» в Москве.\n\n✈️ Наш ТГ | 📲 Наш MAX\nи:\nЕРЕМЕТЬЕВО = ТЕРМИНАЛС\n‚ $ / тр ГУ й $— `\nи 1 р. Е\nми и 5\nм ь. у вм\nь\\ 7 А! БЕВО\nо, - У] у :\nте < | | вле ==\nЕ === Е ВИ сое\nт 3 МЕ\n. 2\"чАХ А х а ‚—\n\\ Х 1. в т 9:\n2 > ре Г\n| == А\n= =. . | о ВНИИ\n! Радар ПЛЮС . БПЛА |\n@гааг_ршз_Бр!а ==\nК ” = —` —————\nА иене",
+    "type": "drone",
+    "location_name": "Москве",
+    "region": null,
+    "lat": 55.6725952,
+    "lon": 37.4857089
+  },
+  {
+    "id": "vrv_radar_102224",
+    "channel": "vrv_radar",
+    "date": "2026-10-23T16:03:21+00:00",
+    "text": "Тверская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тверская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_91877",
+    "channel": "locatorru",
+    "date": "2026-10-23T16:04:16+00:00",
+    "text": "Вологодская область - опасность по БПЛА + опасность по малоразмерным воздушным шарам. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Вологодская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102225_Урицкий",
+    "channel": "vrv_radar",
+    "date": "2026-10-23T16:10:15+00:00",
+    "text": "Урицкий район\nОрловская область\nМеры безопасности",
+    "type": "alert",
+    "location_name": "Урицкий",
+    "region": "Орловская область",
+    "lat": 52.3825189,
+    "lon": 37.881624
+  },
+  {
+    "id": "LPRalarm_252728",
+    "channel": "LPRalarm",
+    "date": "2026-10-23T16:10:52+00:00",
+    "text": "Севастополь учения",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_143874_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-10-23T16:11:04+00:00",
+    "text": "Севастополь\nД\\ученияи/ №",
+    "type": "unknown",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "radar_plus_bpla_15361",
+    "channel": "radar_plus_bpla",
+    "date": "2026-10-23T16:12:01+00:00",
+    "text": "⚡️Вражеские каналы публикуют последствия ракетного удара по заводу \"Протон-Электротекс\" в Орле.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
