@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-23T23:19:40+00:00",
+        "last_updated": "2026-10-24T00:37:20+00:00",
+        "path_labels": [
+          "Неверкинский (Пензенская область)",
+          "Павловка (Ульяновская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.690152,
+            52.7787253
+          ],
+          [
+            47.1408987,
+            52.688683
+          ]
+        ]
+      }
+    }
+  ]
 }
