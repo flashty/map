@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_102192",
-    "channel": "vrv_radar",
-    "date": "2026-10-23T14:03:30+00:00",
-    "text": "Тамбовская область\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252679",
-    "channel": "LPRalarm",
-    "date": "2026-10-23T14:04:16+00:00",
-    "text": "Межгорное \nСкворцово и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102193_Пушкинский",
-    "channel": "vrv_radar",
-    "date": "2026-10-23T14:04:28+00:00",
-    "text": "ГО Пушкинский\nМосковская область\nРабота ПВО",
-    "type": "unknown",
-    "location_name": "Пушкинский",
-    "region": "Московская область",
-    "lat": 56.1092318,
-    "lon": 37.9480243
-  },
-  {
-    "id": "kupolrussia_143835",
-    "channel": "kupolrussia",
-    "date": "2026-10-23T14:04:56+00:00",
-    "text": "Тамбовская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252680",
-    "channel": "LPRalarm",
-    "date": "2026-10-23T14:04:58+00:00",
-    "text": "Тамбовская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_143836",
     "channel": "kupolrussia",
     "date": "2026-10-23T14:05:14+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_144304",
+    "channel": "kupolrussia",
+    "date": "2026-10-24T09:02:27+00:00",
+    "text": "Курахово \nДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253180",
+    "channel": "LPRalarm",
+    "date": "2026-10-24T09:02:35+00:00",
+    "text": "Курахово ДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102540",
+    "channel": "vrv_radar",
+    "date": "2026-10-24T09:06:01+00:00",
+    "text": "Республика Башкортостан\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253181",
+    "channel": "LPRalarm",
+    "date": "2026-10-24T09:06:39+00:00",
+    "text": "Курахово ДНР ракетная опасность повторно",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_144305",
+    "channel": "kupolrussia",
+    "date": "2026-10-24T09:07:31+00:00",
+    "text": "Курахово ДНР ракетная опасность повторно",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
