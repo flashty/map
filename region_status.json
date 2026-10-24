@@ -9,26 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Клинцы и близлежащие\nБрянская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-24T09:58:21+00:00",
-    "expires_at": "2026-10-24T10:58:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Светлодолинск \nМелитополь опасность по \nБПЛА разведчик \nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-24T09:47:16+00:00",
-    "expires_at": "2026-10-24T10:47:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -76,6 +56,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-24T10:30:27+00:00",
     "expires_at": "2026-10-24T11:30:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка Байрак Калиновка Кондратьевка и близлежащие \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-24T10:53:06+00:00",
+    "expires_at": "2026-10-24T11:53:06+00:00",
     "count": null,
     "count_approx": false
   }
