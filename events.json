@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_102114",
-    "channel": "vrv_radar",
-    "date": "2026-10-23T03:10:26+00:00",
-    "text": "Рязанская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143696",
-    "channel": "kupolrussia",
-    "date": "2026-10-23T03:14:27+00:00",
-    "text": "Саратовская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252531",
-    "channel": "LPRalarm",
-    "date": "2026-10-23T03:14:30+00:00",
-    "text": "Саратовская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102115_Ардатовский",
-    "channel": "vrv_radar",
-    "date": "2026-10-23T03:14:53+00:00",
-    "text": "Ардатовский район \nНижегородская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Ардатовский",
-    "region": "Нижегородская область",
-    "lat": 55.329637,
-    "lon": 43.1582672
-  },
-  {
-    "id": "vrv_radar_102116_Моркинский",
-    "channel": "vrv_radar",
-    "date": "2026-10-23T03:16:51+00:00",
-    "text": "Моркинский район \nРеспублика Марий Эл \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Моркинский",
-    "region": "Республика Марий",
-    "lat": 56.4272764,
-    "lon": 48.9230441
-  },
-  {
-    "id": "vrv_radar_102117_Верхнеуслонский",
-    "channel": "vrv_radar",
-    "date": "2026-10-23T03:19:06+00:00",
-    "text": "Верхнеуслонский район \nРеспублика Татарстан \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Верхнеуслонский",
-    "region": "Республика Татарстан",
-    "lat": 55.5641099,
-    "lon": 48.7385401
-  },
-  {
     "id": "LPRalarm_252532",
     "channel": "LPRalarm",
     "date": "2026-10-23T03:32:13+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Пензенская область",
     "lat": 52.7787253,
     "lon": 46.690152
+  },
+  {
+    "id": "kupolrussia_144180",
+    "channel": "kupolrussia",
+    "date": "2026-10-24T04:05:22+00:00",
+    "text": "Республика Адыгея\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253045",
+    "channel": "LPRalarm",
+    "date": "2026-10-24T04:05:25+00:00",
+    "text": "Республика Адыгея\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_144181",
+    "channel": "kupolrussia",
+    "date": "2026-10-24T04:11:31+00:00",
+    "text": "Республика Удмуртия\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Удмуртия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253046",
+    "channel": "LPRalarm",
+    "date": "2026-10-24T04:11:34+00:00",
+    "text": "Республика Удмуртия\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Удмуртия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_144182",
+    "channel": "kupolrussia",
+    "date": "2026-10-24T04:12:52+00:00",
+    "text": "Республика Башкортостан\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253047",
+    "channel": "LPRalarm",
+    "date": "2026-10-24T04:12:55+00:00",
+    "text": "Республика Башкортостан\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
   }
 ]
