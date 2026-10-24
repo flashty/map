@@ -1,126 +1,5 @@
 [
   {
-    "id": "kupolrussia_143867",
-    "channel": "kupolrussia",
-    "date": "2026-10-23T15:10:09+00:00",
-    "text": "Корочанский район \nБелогородская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белогородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102216",
-    "channel": "vrv_radar",
-    "date": "2026-10-23T15:10:19+00:00",
-    "text": "Ярославская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ярославская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102217",
-    "channel": "vrv_radar",
-    "date": "2026-10-23T15:10:27+00:00",
-    "text": "Смоленская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102218",
-    "channel": "vrv_radar",
-    "date": "2026-10-23T15:10:33+00:00",
-    "text": "Тверская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тверская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252722",
-    "channel": "LPRalarm",
-    "date": "2026-10-23T15:10:40+00:00",
-    "text": "Докучаевск ДНР опасность по МВШ и далее на  Ростовскую  область",
-    "type": "alert",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143868",
-    "channel": "kupolrussia",
-    "date": "2026-10-23T15:10:45+00:00",
-    "text": "Докучаевск ДНР опасность по МВШ и далее на  Ростовскую  область",
-    "type": "alert",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102219_Вяземский",
-    "channel": "vrv_radar",
-    "date": "2026-10-23T15:17:30+00:00",
-    "text": "Вяземский район\nСмоленская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Вяземский",
-    "region": "Смоленская область",
-    "lat": 55.23521,
-    "lon": 34.171403
-  },
-  {
-    "id": "LPRalarm_252723",
-    "channel": "LPRalarm",
-    "date": "2026-10-23T15:18:41+00:00",
-    "text": "Белгород \nБелгородская область все районы \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143869_Белгород",
-    "channel": "kupolrussia",
-    "date": "2026-10-23T15:18:55+00:00",
-    "text": "Белгород \nБелгородская область все районы\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Белгород",
-    "region": "Белгородская область",
-    "lat": 50.5955595,
-    "lon": 36.5873394
-  },
-  {
-    "id": "locatorru_91875",
-    "channel": "locatorru",
-    "date": "2026-10-23T15:21:45+00:00",
-    "text": "🫡Помочь нашей оперативной команде можно через сервис Т-Банк(оплата по СБП) \nhttps://pay.cloudtips.ru/p/45774fc7\n\n📲Оперативный канал в мессенджер «MAX» — https://max.ru/locatorru",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102220_Коломна",
-    "channel": "vrv_radar",
-    "date": "2026-10-23T15:37:07+00:00",
-    "text": "ГО Коломна\nМосковская область\nМеры безопасности",
-    "type": "alert",
-    "location_name": "Коломна",
-    "region": "Московская область",
-    "lat": 55.0938743,
-    "lon": 38.7670121
-  },
-  {
     "id": "vrv_radar_102221_Холм-Жирковский",
     "channel": "vrv_radar",
     "date": "2026-10-23T15:42:30+00:00",
@@ -21998,5 +21877,126 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "kupolrussia_144346_Сочи",
+    "channel": "kupolrussia",
+    "date": "2026-10-24T12:31:18+00:00",
+    "text": "Сочи, Адлер и близлежащие\nКраснодарский край",
+    "type": "unknown",
+    "location_name": "Сочи",
+    "region": "Краснодарский край",
+    "lat": 43.5854823,
+    "lon": 39.723109
+  },
+  {
+    "id": "radar_plus_bpla_15397_Ленинскому",
+    "channel": "radar_plus_bpla",
+    "date": "2026-10-24T12:31:21+00:00",
+    "text": "4 БПЛА на подлёте к Кировскому и Ленинскому районам Омска.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": "Ленинскому",
+    "region": null,
+    "lat": 56.0170057,
+    "lon": 85.0988062
+  },
+  {
+    "id": "locatorru_92063_Туапсе",
+    "channel": "locatorru",
+    "date": "2026-10-24T12:31:28+00:00",
+    "text": "Туапсе, Сочи, Адлер, Краснодарский край - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Туапсе",
+    "region": "Краснодарский край",
+    "lat": 44.0984747,
+    "lon": 39.0718875
+  },
+  {
+    "id": "locatorru_92063_Сочи",
+    "channel": "locatorru",
+    "date": "2026-10-24T12:31:28+00:00",
+    "text": "Туапсе, Сочи, Адлер, Краснодарский край - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Сочи",
+    "region": "Краснодарский край",
+    "lat": 43.5854823,
+    "lon": 39.723109
+  },
+  {
+    "id": "locatorru_92063_Адлер",
+    "channel": "locatorru",
+    "date": "2026-10-24T12:31:28+00:00",
+    "text": "Туапсе, Сочи, Адлер, Краснодарский край - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Адлер",
+    "region": "Краснодарский край",
+    "lat": 43.4439715,
+    "lon": 39.9400928
+  },
+  {
+    "id": "locatorru_92064",
+    "channel": "locatorru",
+    "date": "2026-10-24T12:31:43+00:00",
+    "text": "Курганская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102550",
+    "channel": "vrv_radar",
+    "date": "2026-10-24T12:32:36+00:00",
+    "text": "Сочи и близлежащие \nКраснодарский край \nОпасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102551_Омск",
+    "channel": "vrv_radar",
+    "date": "2026-10-24T12:33:52+00:00",
+    "text": "Омск\nОмская область\nСбитие БПЛА\nМеры безопасности",
+    "type": "all_clear",
+    "location_name": "Омск",
+    "region": "Омская область",
+    "lat": 54.991375,
+    "lon": 73.371529
+  },
+  {
+    "id": "vrv_radar_102552_Сочи",
+    "channel": "vrv_radar",
+    "date": "2026-10-24T12:35:46+00:00",
+    "text": "Сочи\nКраснодарский край\nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": "Сочи",
+    "region": "Краснодарский край",
+    "lat": 43.5854823,
+    "lon": 39.723109
+  },
+  {
+    "id": "locatorru_92065",
+    "channel": "locatorru",
+    "date": "2026-10-24T12:36:25+00:00",
+    "text": "Омск и близлежащие, Омская область - опасность по БПЛА сохраняется. Не попадите под атаку БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Омская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102553_Омск",
+    "channel": "vrv_radar",
+    "date": "2026-10-24T12:41:15+00:00",
+    "text": "Омск\nОмская область\nПродолжается работа ПВО по БПЛА\nМеры безопасности",
+    "type": "drone",
+    "location_name": "Омск",
+    "region": "Омская область",
+    "lat": 54.991375,
+    "lon": 73.371529
   }
 ]
