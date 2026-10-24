@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_253005_Крымск",
-    "channel": "LPRalarm",
-    "date": "2026-10-23T23:11:34+00:00",
-    "text": "Крымск, Абинск и близлежащие, тревога по БпЛА повторно",
-    "type": "drone",
-    "location_name": "Крымск",
-    "region": null,
-    "lat": 44.9295889,
-    "lon": 37.9880177
-  },
-  {
-    "id": "kupolrussia_144140_Крымск",
-    "channel": "kupolrussia",
-    "date": "2026-10-23T23:11:38+00:00",
-    "text": "Крымск, Абинск и близлежащие, тревога по БпЛА повторно",
-    "type": "drone",
-    "location_name": "Крымск",
-    "region": null,
-    "lat": 44.9295889,
-    "lon": 37.9880177
-  },
-  {
-    "id": "locatorru_91963",
-    "channel": "locatorru",
-    "date": "2026-10-23T23:13:51+00:00",
-    "text": "Ульяновская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_91964",
-    "channel": "locatorru",
-    "date": "2026-10-23T23:14:48+00:00",
-    "text": "Жуковка и близлежащие, Брянская область - фиксации ударных БПЛА в сторону Киров, Людиново, Жиздра, Калужской области и далее в тыл. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_91965",
     "channel": "locatorru",
     "date": "2026-10-23T23:16:28+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Белгородская область",
     "lat": 50.5375923,
     "lon": 36.5846443
+  },
+  {
+    "id": "vrv_radar_102693",
+    "channel": "vrv_radar",
+    "date": "2026-10-24T21:58:40+00:00",
+    "text": "Алексин \nТульская область \nОтбой опасности по БПЛА \nПо области опасность сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_92162",
+    "channel": "locatorru",
+    "date": "2026-10-24T22:00:51+00:00",
+    "text": "Выселки и близлежащие, Краснодарский край - массовый пролёт БПЛА в сторону Тихорецк, Кореновск. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102694",
+    "channel": "vrv_radar",
+    "date": "2026-10-24T22:01:10+00:00",
+    "text": "Майкоп \nРеспублика Адыгея \nСбитие БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253491",
+    "channel": "LPRalarm",
+    "date": "2026-10-24T22:01:23+00:00",
+    "text": "Майкоп и близлежащие\nТревога по БПЛА. Меры безопасности\nРеспублика Адыгея",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
   }
 ]
