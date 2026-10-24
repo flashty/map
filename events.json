@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_252696",
-    "channel": "LPRalarm",
-    "date": "2026-10-23T14:20:22+00:00",
-    "text": "Мелитопольский район \nОпасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252697",
-    "channel": "LPRalarm",
-    "date": "2026-10-23T14:20:40+00:00",
-    "text": "Геническ и близлежащие \nРакетная опасность \nХерсонская область РФ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143851",
-    "channel": "kupolrussia",
-    "date": "2026-10-23T14:20:45+00:00",
-    "text": "Мелитопольский район \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143852",
-    "channel": "kupolrussia",
-    "date": "2026-10-23T14:20:59+00:00",
-    "text": "Геническ и близлежащие \nХерсонская область РФ\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252698",
-    "channel": "LPRalarm",
-    "date": "2026-10-23T14:21:19+00:00",
-    "text": "Кольцово\nВересаево\nСтолбовое и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_91870",
-    "channel": "locatorru",
-    "date": "2026-10-23T14:21:52+00:00",
-    "text": "Рязанская область, Нижегородская область - ракетная опасность от Тульской области. \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102200",
-    "channel": "vrv_radar",
-    "date": "2026-10-23T14:21:55+00:00",
-    "text": "Нижегородская область\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Нижегородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143853",
-    "channel": "kupolrussia",
-    "date": "2026-10-23T14:21:59+00:00",
-    "text": "Кольцово\nВересаево\nСтолбовое и близлежащие \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_91871",
-    "channel": "locatorru",
-    "date": "2026-10-23T14:23:19+00:00",
-    "text": "Республика Мордовия - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_102201",
     "channel": "vrv_radar",
     "date": "2026-10-23T14:24:09+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253202",
+    "channel": "LPRalarm",
+    "date": "2026-10-24T11:06:48+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и возможным ФПВ с запада, ещё фиксации \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_144324",
+    "channel": "kupolrussia",
+    "date": "2026-10-24T11:06:56+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и возможным ФПВ с запада, ещё фиксации \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253203",
+    "channel": "LPRalarm",
+    "date": "2026-10-24T11:07:40+00:00",
+    "text": "Новогродовка и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_144325",
+    "channel": "kupolrussia",
+    "date": "2026-10-24T11:07:55+00:00",
+    "text": "Новогродовка и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253204",
+    "channel": "LPRalarm",
+    "date": "2026-10-24T11:10:53+00:00",
+    "text": "Клинцы и близлежащие\nОпасность по БПЛА Дартс повторно \nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_144326",
+    "channel": "kupolrussia",
+    "date": "2026-10-24T11:11:04+00:00",
+    "text": "Клинцы и близлежащие\nОпасность по БПЛА Дартс повторно \nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253205",
+    "channel": "LPRalarm",
+    "date": "2026-10-24T11:13:08+00:00",
+    "text": "Ивановка, Петровка, Новогригоровка, Рыково \nНовотроицкое, Новоалексеевка, Геническ и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_144327",
+    "channel": "kupolrussia",
+    "date": "2026-10-24T11:13:39+00:00",
+    "text": "Ивановка, Петровка, Новогригоровка, Рыково \nНовотроицкое, Новоалексеевка, Геническ и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253206",
+    "channel": "LPRalarm",
+    "date": "2026-10-24T11:15:45+00:00",
+    "text": "Стерегущее и близлежащие \nВнимание по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
