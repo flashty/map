@@ -1,14 +1,4 @@
 {
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "alert",
-    "text": "Лопатинский район \nПензенская область \nСоблюдаем меры безопасности",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-24T04:57:58+00:00",
-    "expires_at": "2026-10-24T05:57:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "башкортост": {
     "display_name": "Республика Башкортостан",
     "type": "drone",
@@ -16,16 +6,6 @@
     "channel": "vrv_radar",
     "updated_at": "2026-10-24T04:53:54+00:00",
     "expires_at": "2026-10-24T05:53:54+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "марий": {
-    "display_name": "Республика Марий",
-    "type": "drone",
-    "text": "Килемарский район\nМедведевский район\nРеспублика Марий Эл\nФиксация группы БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-24T04:38:31+00:00",
-    "expires_at": "2026-10-24T05:38:31+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,63 +29,23 @@
     "count": null,
     "count_approx": false
   },
-  "саратовск": {
-    "display_name": "Саратовская область",
-    "type": "drone",
-    "text": "Самарская область \nСаратовская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-24T04:31:51+00:00",
-    "expires_at": "2026-10-24T05:31:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "ЛНР \nТревога по БПЛА Хорнет \nОсобое внимание трассы",
+    "text": "Красный луч фиксации БПЛА в направлении Антрацит\nЛНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-24T05:28:43+00:00",
-    "expires_at": "2026-10-24T06:28:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Ростовская область от ЛНР тревога по БПЛА повторно",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-24T04:53:26+00:00",
-    "expires_at": "2026-10-24T05:53:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Тарханкут \nОленевка и близлежащие \nОпасность по реактивным БПЛА \nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-24T04:33:36+00:00",
-    "expires_at": "2026-10-24T05:33:36+00:00",
+    "updated_at": "2026-10-24T05:45:27+00:00",
+    "expires_at": "2026-10-24T06:45:27+00:00",
     "count": null,
     "count_approx": false
   },
   "пермск": {
     "display_name": "Пермский край",
     "type": "drone",
-    "text": "Пермский край - опасность БПЛА.\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "text": "Пермский край\nФиксация БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-24T05:11:03+00:00",
-    "expires_at": "2026-10-24T06:11:03+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "самарск": {
-    "display_name": "Самарская область",
-    "type": "drone",
-    "text": "Тольятти \nСамарская область \nРабота ПВО по БПЛА \nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-24T05:30:43+00:00",
-    "expires_at": "2026-10-24T06:30:43+00:00",
+    "updated_at": "2026-10-24T05:39:40+00:00",
+    "expires_at": "2026-10-24T06:39:40+00:00",
     "count": null,
     "count_approx": false
   },
@@ -119,13 +59,23 @@
     "count": null,
     "count_approx": false
   },
-  "татарст": {
-    "display_name": "Республика Татарстан",
+  "ростовск": {
+    "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Бугульма, Альметьевск, Лениногорск \nРеспублика Татарстан \nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-24T05:22:30+00:00",
-    "expires_at": "2026-10-24T06:22:30+00:00",
+    "text": "Ростовская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-24T05:42:23+00:00",
+    "expires_at": "2026-10-24T06:42:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Причерноморье Краснодарский край \nВозможно группа БПЛА в обход Крыма",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-24T05:44:50+00:00",
+    "expires_at": "2026-10-24T06:44:50+00:00",
     "count": null,
     "count_approx": false
   }
