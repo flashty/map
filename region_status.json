@@ -1,21 +1,11 @@
 {
-  "башкортост": {
-    "display_name": "Республика Башкортостан",
-    "type": "drone",
-    "text": "Бакалинский район\nРеспублика Башкортостан \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-24T04:53:54+00:00",
-    "expires_at": "2026-10-24T05:53:54+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "удмурт": {
     "display_name": "Республика Удмуртия",
-    "type": "alert",
-    "text": "Республика Удмуртия \nМеры безопасности",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-24T05:21:48+00:00",
-    "expires_at": "2026-10-24T06:21:48+00:00",
+    "type": "drone",
+    "text": "Балезино и близлежащие \nРеспублика Удмуртия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-24T05:57:34+00:00",
+    "expires_at": "2026-10-24T06:57:34+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +66,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-24T05:44:50+00:00",
     "expires_at": "2026-10-24T06:44:50+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "свердловск": {
+    "display_name": "Свердловская область",
+    "type": "drone",
+    "text": "Свердловская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-24T05:50:27+00:00",
+    "expires_at": "2026-10-24T06:50:27+00:00",
     "count": null,
     "count_approx": false
   }
