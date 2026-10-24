@@ -1,14 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Донецк и близлежащие \nТревога по БПЛА сохраняется, ещё фиксации \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-24T20:15:45+00:00",
-    "expires_at": "2026-10-24T21:15:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -49,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Лазурное, Скадовск и близлежащие опасность по БПЛА\nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-24T20:08:01+00:00",
-    "expires_at": "2026-10-24T21:08:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
@@ -92,10 +72,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Геленджик и близлежащие \nКраснодарский край \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-24T20:59:44+00:00",
-    "expires_at": "2026-10-24T21:59:44+00:00",
+    "text": "Найдорф, Динской район, Краснодарский край - пролёт БПЛА в направлении Новотитаровская, Динская, возможно Краснодар. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-24T21:14:46+00:00",
+    "expires_at": "2026-10-24T22:14:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,26 +106,6 @@
     "channel": "vrv_radar",
     "updated_at": "2026-10-24T20:58:25+00:00",
     "expires_at": "2026-10-24T21:58:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "нижегородск": {
-    "display_name": "Нижегородская область",
-    "type": "drone",
-    "text": "Нижегородская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-24T20:02:05+00:00",
-    "expires_at": "2026-10-24T21:02:05+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "владимирск": {
-    "display_name": "Владимирская область",
-    "type": "drone",
-    "text": "Владимирская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-24T20:15:26+00:00",
-    "expires_at": "2026-10-24T21:15:26+00:00",
     "count": null,
     "count_approx": false
   },
@@ -222,10 +182,10 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Ефремовский район, Тульская область - ещё прошёл БПЛА в сторону Тулы.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-24T20:59:17+00:00",
-    "expires_at": "2026-10-24T21:59:17+00:00",
+    "text": "Новомосковск \nТульская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-24T21:13:54+00:00",
+    "expires_at": "2026-10-24T22:13:54+00:00",
     "count": null,
     "count_approx": false
   },
@@ -236,6 +196,16 @@
     "channel": "locatorru",
     "updated_at": "2026-10-24T20:57:01+00:00",
     "expires_at": "2026-10-24T21:57:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Борисоглебск \nВоронежская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-24T21:12:40+00:00",
+    "expires_at": "2026-10-24T22:12:40+00:00",
     "count": null,
     "count_approx": false
   }
