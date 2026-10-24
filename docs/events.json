@@ -1,126 +1,5 @@
 [
   {
-    "id": "kupolrussia_143887_Чонгар",
-    "channel": "kupolrussia",
-    "date": "2026-10-23T16:53:46+00:00",
-    "text": "Чонгар \nАПП Чонгар \nИ далее на Джанкой\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Чонгар",
-    "region": null,
-    "lat": 58.3597623,
-    "lon": 60.0444713
-  },
-  {
-    "id": "locatorru_91886",
-    "channel": "locatorru",
-    "date": "2026-10-23T16:54:35+00:00",
-    "text": "Липецкая область - отбой ракетной опасности! \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102233",
-    "channel": "vrv_radar",
-    "date": "2026-10-23T16:55:20+00:00",
-    "text": "Липецкая область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252743",
-    "channel": "LPRalarm",
-    "date": "2026-10-23T16:55:37+00:00",
-    "text": "Карачев\nИ ближайшие \nОпасность по БПЛА от Навлинского района\n\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143888_Карачев",
-    "channel": "kupolrussia",
-    "date": "2026-10-23T16:55:48+00:00",
-    "text": "Карачев\nИ ближайшие \nот Навлинского района\n\nБрянская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Карачев",
-    "region": "Брянская область",
-    "lat": 53.1221822,
-    "lon": 34.9825906
-  },
-  {
-    "id": "LPRalarm_252744",
-    "channel": "LPRalarm",
-    "date": "2026-10-23T16:55:49+00:00",
-    "text": "Ровно\nПетровка \nРыково \nОпасность по БПЛА Хорнет \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143889",
-    "channel": "kupolrussia",
-    "date": "2026-10-23T16:55:55+00:00",
-    "text": "Ровно\nПетровка \nРыково \nОпасность по БПЛА Хорнет \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_91887",
-    "channel": "locatorru",
-    "date": "2026-10-23T16:57:19+00:00",
-    "text": "Ярославская область - также сохраняется опасность по БПЛА + малоразмерным воздушным шарам. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ярославская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252745",
-    "channel": "LPRalarm",
-    "date": "2026-10-23T16:57:43+00:00",
-    "text": "Рыково\nВ сторону Ровного\nТревога по БПЛА\nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_143890",
-    "channel": "kupolrussia",
-    "date": "2026-10-23T16:57:56+00:00",
-    "text": "Рыково\nВ сторону Ровного\nХерсонская область РФ",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_252746",
-    "channel": "LPRalarm",
-    "date": "2026-10-23T16:58:35+00:00",
-    "text": "Геническ и близлежащие\nТревога по БПЛА\nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_143891",
     "channel": "kupolrussia",
     "date": "2026-10-23T16:58:35+00:00",
@@ -21998,5 +21877,126 @@
     "region": "Омская область",
     "lat": 54.991375,
     "lon": 73.371529
+  },
+  {
+    "id": "vrv_radar_102564",
+    "channel": "vrv_radar",
+    "date": "2026-10-24T13:48:03+00:00",
+    "text": "Омск \nОмская область\nПродолжаются сбития БПЛА\nМеры безопасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Омская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102260",
+    "channel": "radarrussiia",
+    "date": "2026-10-24T13:50:29+00:00",
+    "text": "Омск \nОмская область\nПродолжаются сбития БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Омская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253240",
+    "channel": "LPRalarm",
+    "date": "2026-10-24T13:51:31+00:00",
+    "text": "г. Белгород опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_144360_Белгород",
+    "channel": "kupolrussia",
+    "date": "2026-10-24T13:51:37+00:00",
+    "text": "Белгород\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Белгород",
+    "region": null,
+    "lat": 50.5955595,
+    "lon": 36.5873394
+  },
+  {
+    "id": "kupolrussia_144361",
+    "channel": "kupolrussia",
+    "date": "2026-10-24T13:54:20+00:00",
+    "text": "Новоазовский район ДНР и далее на Таганрог опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253241",
+    "channel": "LPRalarm",
+    "date": "2026-10-24T13:54:21+00:00",
+    "text": "Новоазовский район ДНР и далее на Таганрог опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102261",
+    "channel": "radarrussiia",
+    "date": "2026-10-24T13:54:32+00:00",
+    "text": "Сообщается о прилёте по местному заводу в Омске\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253242_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-10-24T13:54:37+00:00",
+    "text": "Белгородский район опасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_144362_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-10-24T13:55:11+00:00",
+    "text": "Белгородский район опасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_253243",
+    "channel": "LPRalarm",
+    "date": "2026-10-24T13:57:44+00:00",
+    "text": "Джанкой и близлежащие тревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_144363",
+    "channel": "kupolrussia",
+    "date": "2026-10-24T13:58:02+00:00",
+    "text": "Джанкой и близлежащие \nРеспублика Крым",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
   }
 ]
