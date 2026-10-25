@@ -1,24 +1,4 @@
 {
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Селечня, Суземский район, Брянская область \nТревога по БПЛА в направлении Аркино и далее на Орловскую область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-25T17:19:23+00:00",
-    "expires_at": "2026-10-25T18:19:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловскую область",
-    "type": "drone",
-    "text": "Селечня, Суземский район, Брянская область \nТревога по БПЛА в направлении Аркино и далее на Орловскую область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-25T17:19:23+00:00",
-    "expires_at": "2026-10-25T18:19:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -26,6 +6,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-25T16:49:52+00:00",
     "expires_at": "2026-10-25T17:49:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Рославльский район\nШумячский район\nСмоленская область\nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-25T17:39:49+00:00",
+    "expires_at": "2026-10-25T18:39:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Кировский район\nСухиничский район\nКалужская область\nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-25T17:40:07+00:00",
+    "expires_at": "2026-10-25T18:40:07+00:00",
     "count": null,
     "count_approx": false
   }
