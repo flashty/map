@@ -1,14 +1,4 @@
 {
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калужская область \nВнимание по БПЛА от Брянской области",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-25T03:46:41+00:00",
-    "expires_at": "2026-10-25T04:46:41+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "удмурт": {
     "display_name": "Республика Удмуртия",
     "type": "drone",
@@ -16,6 +6,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-25T04:35:57+00:00",
     "expires_at": "2026-10-25T05:35:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "missile",
+    "text": "Красноперекопский район \nРакетная опасность \nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-25T04:45:59+00:00",
+    "expires_at": "2026-10-25T05:45:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Чаплинка и близлежащие опасность по БПЛА \nХерсонская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-25T04:48:07+00:00",
+    "expires_at": "2026-10-25T05:48:07+00:00",
     "count": null,
     "count_approx": false
   }
