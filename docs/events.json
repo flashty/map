@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_102427_Тольятти",
-    "channel": "vrv_radar",
-    "date": "2026-10-24T03:07:34+00:00",
-    "text": "Тольятти\nСамарская область\nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Тольятти",
-    "region": "Самарская область",
-    "lat": 53.5098845,
-    "lon": 49.4189187
-  },
-  {
-    "id": "LPRalarm_253032",
-    "channel": "LPRalarm",
-    "date": "2026-10-24T03:08:35+00:00",
-    "text": "Трасса Валуйки - Пятницкое \nТревога по БПЛА \nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_144168",
     "channel": "kupolrussia",
     "date": "2026-10-24T03:08:42+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Самарская область",
     "lat": 53.5098845,
     "lon": 49.4189187
+  },
+  {
+    "id": "vrv_radar_102757_Тольятти",
+    "channel": "vrv_radar",
+    "date": "2026-10-25T00:31:45+00:00",
+    "text": "Тольятти\nСамарская область\nМеры безопасности сохраняем\nЕщё фиксации",
+    "type": "alert",
+    "location_name": "Тольятти",
+    "region": "Самарская область",
+    "lat": 53.5098845,
+    "lon": 49.4189187
+  },
+  {
+    "id": "radar_plus_bpla_15414",
+    "channel": "radar_plus_bpla",
+    "date": "2026-10-25T00:44:28+00:00",
+    "text": "Тольятти - идут сбития БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
