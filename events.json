@@ -1,16 +1,5 @@
 [
   {
-    "id": "vrv_radar_102472",
-    "channel": "vrv_radar",
-    "date": "2026-10-24T04:24:16+00:00",
-    "text": "Тамбовская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_253050",
     "channel": "LPRalarm",
     "date": "2026-10-24T04:25:11+00:00",
@@ -21996,6 +21985,17 @@
     "type": "all_clear",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253537",
+    "channel": "LPRalarm",
+    "date": "2026-10-25T03:43:38+00:00",
+    "text": "Карачев и близлежащие \nБрянская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
