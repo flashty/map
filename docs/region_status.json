@@ -50,12 +50,12 @@
     "count_approx": false
   },
   "курск": {
-    "display_name": "Курская область",
+    "display_name": "Курской области",
     "type": "missile",
-    "text": "Курская область и близлежащие, Харьковская область РФ \n\nАвиационная ракетная бомбовая опасность.\nКиевская область самолёты в направлении",
+    "text": "Стык Брянской и Курской области \nАвиационная ракетная бомбовая тревога",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-25T10:13:17+00:00",
-    "expires_at": "2026-10-25T11:13:17+00:00",
+    "updated_at": "2026-10-25T10:16:42+00:00",
+    "expires_at": "2026-10-25T11:16:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +86,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-25T10:13:17+00:00",
     "expires_at": "2026-10-25T11:13:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Орловская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-25T10:24:44+00:00",
+    "expires_at": "2026-10-25T11:24:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калужская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-25T10:25:41+00:00",
+    "expires_at": "2026-10-25T11:25:41+00:00",
     "count": null,
     "count_approx": false
   }
