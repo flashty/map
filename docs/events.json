@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_253175",
-    "channel": "LPRalarm",
-    "date": "2026-10-24T08:40:45+00:00",
-    "text": "Дорога\nТокмак- Бердянск \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_144299",
-    "channel": "kupolrussia",
-    "date": "2026-10-24T08:41:02+00:00",
-    "text": "Дорога\nТокмак- Бердянск \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_253176",
-    "channel": "LPRalarm",
-    "date": "2026-10-24T08:45:30+00:00",
-    "text": "Мелитопольский район \nЗапорожская область РФ \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_144300",
-    "channel": "kupolrussia",
-    "date": "2026-10-24T08:45:40+00:00",
-    "text": "Мелитопольский район \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_92049_Кушвинский",
-    "channel": "locatorru",
-    "date": "2026-10-24T08:46:52+00:00",
-    "text": "Мостовая, Кушвинский район, Свердловская область - предварительно прошло более 21 БПЛА в сторону Нижняя тура и далее на восток.\n\nТюмень, Тобольск и близлежащие, внимание! \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Кушвинский",
-    "region": "Свердловская область",
-    "lat": 58.2816811,
-    "lon": 59.7625022
-  },
-  {
-    "id": "locatorru_92049_Мостовая",
-    "channel": "locatorru",
-    "date": "2026-10-24T08:46:52+00:00",
-    "text": "Мостовая, Кушвинский район, Свердловская область - предварительно прошло более 21 БПЛА в сторону Нижняя тура и далее на восток.\n\nТюмень, Тобольск и близлежащие, внимание! \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Мостовая",
-    "region": "Свердловская область",
-    "lat": 57.511055,
-    "lon": 61.023117
-  },
-  {
     "id": "radarrussiia_102244_Кушвинский",
     "channel": "radarrussiia",
     "date": "2026-10-24T08:48:22+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253659",
+    "channel": "LPRalarm",
+    "date": "2026-10-25T12:04:37+00:00",
+    "text": "Симферополь и близлежащие с севера тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_144743",
+    "channel": "kupolrussia",
+    "date": "2026-10-25T12:05:05+00:00",
+    "text": "Симферополь и близлежащие с севера\nРеспублика Крым",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253660",
+    "channel": "LPRalarm",
+    "date": "2026-10-25T12:09:26+00:00",
+    "text": "Экстренная информация РСЧС: УГРОЗА ПОВТОРНОЙ АТАКИ БПЛА в Корочанском МО 15:07. Оставайтесь дома, не подходите к окнам или пройдите в укрытие.",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_144744",
+    "channel": "kupolrussia",
+    "date": "2026-10-25T12:09:26+00:00",
+    "text": "Экстренная информация РСЧС: УГРОЗА ПОВТОРНОЙ АТАКИ БПЛА в Корочанском МО 15:07. Оставайтесь дома, не подходите к окнам или пройдите в укрытие.",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102838",
+    "channel": "vrv_radar",
+    "date": "2026-10-25T12:11:55+00:00",
+    "text": "Воронежская область \nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_92272",
+    "channel": "locatorru",
+    "date": "2026-10-25T12:12:38+00:00",
+    "text": "Огромное спасибо 22 нашим близким за помощь! В последнее время нам помогают лишь единицы.🙏\n\nЖелающие помочь нашей команде — https://pay.cloudtips.ru/p/45774fc7\n\n📡Локатор России - @locatorru",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
