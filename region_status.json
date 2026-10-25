@@ -39,23 +39,13 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Дзержинский район, Ферзиковский район, г.Калуга, Малоярославецкий район, Жуковский район, Калужская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-25T21:43:43+00:00",
-    "expires_at": "2026-10-25T22:43:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Богучарский район\nРоссошанский район\nКантемировский район\nВоронежская область\nФиксации БПЛА",
+    "text": "Калачеевский район\nБутурлиновский район\nБобровский район\nВоронежская область\nОпасность по БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-25T22:08:51+00:00",
-    "expires_at": "2026-10-25T23:08:51+00:00",
+    "updated_at": "2026-10-25T22:40:16+00:00",
+    "expires_at": "2026-10-25T23:40:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,10 +62,10 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Луганск и близлежащие\nТревога по БПЛА\nЛНР",
+    "text": "Краснодон \nМолодогвардейск\nИ близлежащие\nТревога по БПЛА от Хрящеватое\nЛНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-25T22:11:18+00:00",
-    "expires_at": "2026-10-25T23:11:18+00:00",
+    "updated_at": "2026-10-25T22:38:45+00:00",
+    "expires_at": "2026-10-25T23:38:45+00:00",
     "count": null,
     "count_approx": false
   },
@@ -99,16 +89,6 @@
     "count": null,
     "count_approx": false
   },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Никольское, Тамбовская область - внимание по БПЛА от Стаево.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-25T22:06:10+00:00",
-    "expires_at": "2026-10-25T23:06:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "никольск": {
     "display_name": "Никольское область",
     "type": "drone",
@@ -122,20 +102,40 @@
   "волгоградск": {
     "display_name": "Волгоградская область",
     "type": "drone",
-    "text": "Нехаевский район\nВолгоградская область\nФиксации БПЛА",
+    "text": "Нехаевский район\nВолгоградская область\nЕще фиксации БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-25T22:30:31+00:00",
-    "expires_at": "2026-10-25T23:30:31+00:00",
+    "updated_at": "2026-10-25T22:34:46+00:00",
+    "expires_at": "2026-10-25T23:34:46+00:00",
     "count": null,
     "count_approx": false
   },
-  "липецк": {
-    "display_name": "Липецкая область",
+  "астраханск": {
+    "display_name": "Астраханская область",
     "type": "drone",
-    "text": "Липецкая область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "text": "Астраханская область\nРеспублика Калмыкия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
     "channel": "radarrussiia",
-    "updated_at": "2026-10-25T22:28:35+00:00",
-    "expires_at": "2026-10-25T23:28:35+00:00",
+    "updated_at": "2026-10-25T22:35:11+00:00",
+    "expires_at": "2026-10-25T23:35:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калмык": {
+    "display_name": "Республика Калмыкия",
+    "type": "drone",
+    "text": "Астраханская область\nРеспублика Калмыкия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-25T22:35:11+00:00",
+    "expires_at": "2026-10-25T23:35:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Республика Крым и Севастополь\nТревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-25T22:40:39+00:00",
+    "expires_at": "2026-10-25T23:40:39+00:00",
     "count": null,
     "count_approx": false
   }
