@@ -1,60 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_15378",
-    "channel": "radar_plus_bpla",
-    "date": "2026-10-24T04:17:15+00:00",
-    "text": "Республика Удмуртия\nРеспублика Башкортостан \n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Удмуртия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102471_Шаранский",
-    "channel": "vrv_radar",
-    "date": "2026-10-24T04:21:46+00:00",
-    "text": "Шаранский район \nРеспублика Башкортостан \nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Шаранский",
-    "region": "Республика Башкортостан",
-    "lat": 54.802224,
-    "lon": 53.9992201
-  },
-  {
-    "id": "LPRalarm_253048",
-    "channel": "LPRalarm",
-    "date": "2026-10-24T04:22:30+00:00",
-    "text": "Новониколаевка Херсонская область РФ в направлении Каланчак, АПП Армянск тревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_253049",
-    "channel": "LPRalarm",
-    "date": "2026-10-24T04:22:37+00:00",
-    "text": "Федеральная трасса Шебекино Белгород \nУгроза атаки ФПВ",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_144183",
-    "channel": "kupolrussia",
-    "date": "2026-10-24T04:22:38+00:00",
-    "text": "Новониколаевка Херсонская область РФ в направлении Каланчак, АПП Армянск тревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_102472",
     "channel": "vrv_radar",
     "date": "2026-10-24T04:24:16+00:00",
@@ -21996,6 +21941,61 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Республика Марий",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15417_Березники",
+    "channel": "radar_plus_bpla",
+    "date": "2026-10-25T03:18:35+00:00",
+    "text": "Березники, Пермский край - в вашу сторону от 2 БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": "Березники",
+    "region": "Пермский край",
+    "lat": 59.4084171,
+    "lon": 56.8036958
+  },
+  {
+    "id": "radarrussiia_102333_Березники",
+    "channel": "radarrussiia",
+    "date": "2026-10-25T03:19:10+00:00",
+    "text": "Березники, Пермский край - сбитие БПЛА.\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": "Березники",
+    "region": "Пермский край",
+    "lat": 59.4084171,
+    "lon": 56.8036958
+  },
+  {
+    "id": "radarrussiia_102334_Березники",
+    "channel": "radarrussiia",
+    "date": "2026-10-25T03:20:07+00:00",
+    "text": "Березники, Пермский край - в вашу сторону от 2 БПЛА.\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": "Березники",
+    "region": "Пермский край",
+    "lat": 59.4084171,
+    "lon": 56.8036958
+  },
+  {
+    "id": "radar_plus_bpla_15418",
+    "channel": "radar_plus_bpla",
+    "date": "2026-10-25T03:22:22+00:00",
+    "text": "Уничтожены.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102335",
+    "channel": "radarrussiia",
+    "date": "2026-10-25T03:22:49+00:00",
+    "text": "Уничтожены.\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
