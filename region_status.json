@@ -2,10 +2,10 @@
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
-    "text": "Волоконовский район\nБелгородская область\nТревога по БПЛА сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-25T22:06:46+00:00",
-    "expires_at": "2026-10-25T23:06:46+00:00",
+    "text": "Губкинский район, Старооскольский район, Белгородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-25T22:17:41+00:00",
+    "expires_at": "2026-10-25T23:17:41+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,6 +116,26 @@
     "channel": "locatorru",
     "updated_at": "2026-10-25T22:06:10+00:00",
     "expires_at": "2026-10-25T23:06:10+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградская область",
+    "type": "drone",
+    "text": "Нехаевский район\nВолгоградская область\nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-25T22:30:31+00:00",
+    "expires_at": "2026-10-25T23:30:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "drone",
+    "text": "Липецкая область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-25T22:28:35+00:00",
+    "expires_at": "2026-10-25T23:28:35+00:00",
     "count": null,
     "count_approx": false
   }
