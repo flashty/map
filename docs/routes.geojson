@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-25T11:02:17+00:00",
+        "last_updated": "2026-10-25T11:14:45+00:00",
+        "path_labels": [
+          "Яковлевский (Белгородская область)",
+          "Борисовский (Белгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.2290154,
+            50.7321022
+          ],
+          [
+            36.011682,
+            50.5951942
+          ]
+        ]
+      }
+    }
+  ]
 }
