@@ -1,104 +1,5 @@
 [
   {
-    "id": "kupolrussia_144304",
-    "channel": "kupolrussia",
-    "date": "2026-10-24T09:02:27+00:00",
-    "text": "Курахово \nДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_253180",
-    "channel": "LPRalarm",
-    "date": "2026-10-24T09:02:35+00:00",
-    "text": "Курахово ДНР ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102540",
-    "channel": "vrv_radar",
-    "date": "2026-10-24T09:06:01+00:00",
-    "text": "Республика Башкортостан\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Башкортостан",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_253181",
-    "channel": "LPRalarm",
-    "date": "2026-10-24T09:06:39+00:00",
-    "text": "Курахово ДНР ракетная опасность повторно",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_144305",
-    "channel": "kupolrussia",
-    "date": "2026-10-24T09:07:31+00:00",
-    "text": "Курахово ДНР ракетная опасность повторно",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_253182_Сочи",
-    "channel": "LPRalarm",
-    "date": "2026-10-24T09:16:12+00:00",
-    "text": "Сочи, Адлер и близлежащие\nОпасность по БПЛА\nКраснодарский край",
-    "type": "drone",
-    "location_name": "Сочи",
-    "region": "Краснодарский край",
-    "lat": 43.5854823,
-    "lon": 39.723109
-  },
-  {
-    "id": "locatorru_92050",
-    "channel": "locatorru",
-    "date": "2026-10-24T09:16:24+00:00",
-    "text": "За прошедшие сутки над нашими регионами было уничтожено 1 крылатых ракет «SCALP», 4 крылатые ракеты «Нептун» большой дальности. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_144306_Сочи",
-    "channel": "kupolrussia",
-    "date": "2026-10-24T09:16:30+00:00",
-    "text": "Сочи, Адлер и близлежащие\nКраснодарский край\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Сочи",
-    "region": "Краснодарский край",
-    "lat": 43.5854823,
-    "lon": 39.723109
-  },
-  {
-    "id": "locatorru_92051",
-    "channel": "locatorru",
-    "date": "2026-10-24T09:16:46+00:00",
-    "text": "Республика Башкортостан - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Башкортостан",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_102245",
     "channel": "radarrussiia",
     "date": "2026-10-24T09:17:18+00:00",
@@ -21998,5 +21899,104 @@
     "region": null,
     "lat": 54.3750277,
     "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_144749_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-10-25T12:31:54+00:00",
+    "text": "Майский Белгородский район ударный БПЛА в направлении",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_253666_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-10-25T12:34:51+00:00",
+    "text": "Пушкарное, Стрелецкое \nБелгородский район \nУдарный БПЛА в направлении",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_253666_Пушкарное",
+    "channel": "LPRalarm",
+    "date": "2026-10-25T12:34:51+00:00",
+    "text": "Пушкарное, Стрелецкое \nБелгородский район \nУдарный БПЛА в направлении",
+    "type": "drone",
+    "location_name": "Пушкарное",
+    "region": null,
+    "lat": 50.7989692,
+    "lon": 37.191158
+  },
+  {
+    "id": "kupolrussia_144750_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-10-25T12:35:01+00:00",
+    "text": "Пушкарное, Стрелецкое \nБелгородский район \nУдарный БПЛА в направлении",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_144750_Пушкарное",
+    "channel": "kupolrussia",
+    "date": "2026-10-25T12:35:01+00:00",
+    "text": "Пушкарное, Стрелецкое \nБелгородский район \nУдарный БПЛА в направлении",
+    "type": "drone",
+    "location_name": "Пушкарное",
+    "region": null,
+    "lat": 50.7989692,
+    "lon": 37.191158
+  },
+  {
+    "id": "LPRalarm_253667",
+    "channel": "LPRalarm",
+    "date": "2026-10-25T12:40:02+00:00",
+    "text": "Томаровка и ближайшие, тревога по БПЛА\nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_144751",
+    "channel": "kupolrussia",
+    "date": "2026-10-25T12:40:11+00:00",
+    "text": "Томаровка и ближайшие\nтревога по БПЛА\nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253668",
+    "channel": "LPRalarm",
+    "date": "2026-10-25T12:40:24+00:00",
+    "text": "Шебекино \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_144752",
+    "channel": "kupolrussia",
+    "date": "2026-10-25T12:40:39+00:00",
+    "text": "Шебекино \nТревога по БПЛА Хорнет\nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
   }
 ]
