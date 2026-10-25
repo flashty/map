@@ -9,33 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Счастье ЛНР и далее в направлении Петровка опасность по БПЛА в т.ч. на электротяге",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-24T23:13:36+00:00",
-    "expires_at": "2026-10-25T00:13:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "МО Николаевка \nУльяновская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-24T23:43:47+00:00",
-    "expires_at": "2026-10-25T00:43:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "самарск": {
     "display_name": "Самарская область",
-    "type": "drone",
-    "text": "Сызрань \nСамарская область \nФиксация БПЛА в вашем направлении",
+    "type": "alert",
+    "text": "Тольятти \nСамарская область\nМеры безопасности",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-24T23:50:53+00:00",
-    "expires_at": "2026-10-25T00:50:53+00:00",
+    "updated_at": "2026-10-25T00:13:58+00:00",
+    "expires_at": "2026-10-25T01:13:58+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,16 +76,6 @@
     "channel": "locatorru",
     "updated_at": "2026-10-24T23:52:30+00:00",
     "expires_at": "2026-10-25T00:52:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "марий-": {
-    "display_name": "Республика Марий-Эл",
-    "type": "drone",
-    "text": "Республика Марий-Эл \nРеспублика Татарстан \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-24T23:06:58+00:00",
-    "expires_at": "2026-10-25T00:06:58+00:00",
     "count": null,
     "count_approx": false
   },
@@ -196,6 +166,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-24T23:59:28+00:00",
     "expires_at": "2026-10-25T00:59:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянск, Сельцо\nИ близлежащие \nТревога по БПЛА\nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-25T00:14:36+00:00",
+    "expires_at": "2026-10-25T01:14:36+00:00",
     "count": null,
     "count_approx": false
   }
