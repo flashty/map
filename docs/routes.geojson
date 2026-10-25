@@ -29,6 +29,31 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "drone",
+        "started_at": "2026-10-25T15:33:28+00:00",
+        "last_updated": "2026-10-25T16:18:13+00:00",
+        "path_labels": [
+          "Краснояружский",
+          "Грайворонский (Белгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.5718561,
+            50.8175551
+          ],
+          [
+            35.5905721,
+            50.4309028
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "type": "missile",
         "started_at": "2026-10-25T16:07:06+00:00",
         "last_updated": "2026-10-25T16:07:06+00:00",
