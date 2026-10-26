@@ -5,6 +5,56 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-10-26T18:14:33+00:00",
+        "last_updated": "2026-10-26T18:54:33+00:00",
+        "path_labels": [
+          "Хвастовичский (Калужская область)",
+          "Навлинский (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.1820052,
+            53.4981708
+          ],
+          [
+            34.4096754,
+            52.8910027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-26T18:26:04+00:00",
+        "last_updated": "2026-10-26T19:04:53+00:00",
+        "path_labels": [
+          "Вышестеблиевская (Краснодарский край)",
+          "Темрюкский (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.0273583,
+            45.2059466
+          ],
+          [
+            37.3098799,
+            45.4964119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-10-26T18:26:49+00:00",
         "last_updated": "2026-10-26T18:45:16+00:00",
         "path_labels": [
