@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-26T22:22:04+00:00",
+        "last_updated": "2026-10-26T22:54:48+00:00",
+        "path_labels": [
+          "Жуковский (Калужская область)",
+          "Наро-Фоминский (Московская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.8762225,
+            55.0074689
+          ],
+          [
+            36.442581,
+            55.3808035
+          ]
+        ]
+      }
+    }
+  ]
 }
