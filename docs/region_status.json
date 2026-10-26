@@ -2,20 +2,20 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Александрополь, Новобахмутовка, Верхнеторецкое и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "text": "Константиновка и близлежащие \nТревога по БПЛА Хорнет \nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-26T05:50:22+00:00",
-    "expires_at": "2026-10-26T06:50:22+00:00",
+    "updated_at": "2026-10-26T06:17:23+00:00",
+    "expires_at": "2026-10-26T07:17:23+00:00",
     "count": null,
     "count_approx": false
   },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Богдановка и далее на юго-запад фиксации БПЛА \nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-26T06:13:08+00:00",
-    "expires_at": "2026-10-26T07:13:08+00:00",
+    "text": "Мелитополь и близлежащие\nТревога по БПЛА\nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-26T06:20:05+00:00",
+    "expires_at": "2026-10-26T07:20:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +46,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-26T06:13:30+00:00",
     "expires_at": "2026-10-26T07:13:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Орловская область, Калужская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-26T06:21:20+00:00",
+    "expires_at": "2026-10-26T07:21:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Орловская область, Калужская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-26T06:21:20+00:00",
+    "expires_at": "2026-10-26T07:21:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Горняк, Зоряное ЛНР\nБПЛА разведка",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-26T06:27:39+00:00",
+    "expires_at": "2026-10-26T07:27:39+00:00",
     "count": null,
     "count_approx": false
   }
