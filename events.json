@@ -1,82 +1,5 @@
 [
   {
-    "id": "vrv_radar_102662",
-    "channel": "vrv_radar",
-    "date": "2026-10-24T20:54:40+00:00",
-    "text": "Тула \nТульская область \nЕще фиксации БПЛА в вашем направлении",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_15410",
-    "channel": "radar_plus_bpla",
-    "date": "2026-10-24T20:54:46+00:00",
-    "text": "Тула - сбитие БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_253459",
-    "channel": "LPRalarm",
-    "date": "2026-10-24T20:54:47+00:00",
-    "text": "Краснодарский край все районы тревога по БПЛА. \nСоблюдаем меры безопасности!",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102663",
-    "channel": "vrv_radar",
-    "date": "2026-10-24T20:54:59+00:00",
-    "text": "Краснодар \nКраснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_144566",
-    "channel": "kupolrussia",
-    "date": "2026-10-24T20:55:12+00:00",
-    "text": "Краснодарский край все районы тревога по БПЛА. \nСоблюдаем меры безопасности!",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_144565",
-    "channel": "kupolrussia",
-    "date": "2026-10-24T20:55:12+00:00",
-    "text": "Лисичанск\nСеверодонецк\nЛНР\nИ близлежащие\nТревога по БПЛА  на восток, в направлении Новоайдар, Старобельск\nИ далее на Миллеровский район\nРостовской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_144564",
-    "channel": "kupolrussia",
-    "date": "2026-10-24T20:55:12+00:00",
-    "text": "Локоть и близлежащие\nБрянская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_144567",
     "channel": "kupolrussia",
     "date": "2026-10-24T20:55:13+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253912",
+    "channel": "LPRalarm",
+    "date": "2026-10-26T06:35:44+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_103038",
+    "channel": "vrv_radar",
+    "date": "2026-10-26T06:35:54+00:00",
+    "text": "Ростовская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_144959",
+    "channel": "kupolrussia",
+    "date": "2026-10-26T06:35:59+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253913_Одессы",
+    "channel": "LPRalarm",
+    "date": "2026-10-26T06:36:45+00:00",
+    "text": "Пуски БПЛА от Одессы",
+    "type": "drone",
+    "location_name": "Одессы",
+    "region": null,
+    "lat": 48.7490351,
+    "lon": 44.5413187
+  },
+  {
+    "id": "kupolrussia_144960_Одессы",
+    "channel": "kupolrussia",
+    "date": "2026-10-26T06:36:57+00:00",
+    "text": "Пуски БПЛА от Одессы",
+    "type": "drone",
+    "location_name": "Одессы",
+    "region": null,
+    "lat": 48.7490351,
+    "lon": 44.5413187
+  },
+  {
+    "id": "LPRalarm_253914",
+    "channel": "LPRalarm",
+    "date": "2026-10-26T06:37:14+00:00",
+    "text": "Смелое\nЛуганск и близлежащие \nОпасность по БПЛА Хорнет \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_92407",
+    "channel": "locatorru",
+    "date": "2026-10-26T06:39:46+00:00",
+    "text": "🫡Помочь нашей оперативной команде можно через сервис Т-Банк(оплата по СБП) \nhttps://pay.cloudtips.ru/p/45774fc7\n\n📲Оперативный канал в мессенджер «MAX» — https://max.ru/locatorru",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
