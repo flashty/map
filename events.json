@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_102665_Кумылженский",
-    "channel": "vrv_radar",
-    "date": "2026-10-24T20:55:59+00:00",
-    "text": "Кумылженский район \nВолгоградская область \nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Кумылженский",
-    "region": "Волгоградская область",
-    "lat": 49.8559962,
-    "lon": 42.4469881
-  },
-  {
-    "id": "vrv_radar_102666",
-    "channel": "vrv_radar",
-    "date": "2026-10-24T20:56:07+00:00",
-    "text": "Борисоглебск \nВоронежская область \nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_253461",
-    "channel": "LPRalarm",
-    "date": "2026-10-24T20:56:22+00:00",
-    "text": "г. Краснодар тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_144568",
     "channel": "kupolrussia",
     "date": "2026-10-24T20:56:29+00:00",
@@ -21998,5 +21965,38 @@
     "region": null,
     "lat": 55.7601296,
     "lon": 37.6186118
+  },
+  {
+    "id": "LPRalarm_253920",
+    "channel": "LPRalarm",
+    "date": "2026-10-26T07:25:16+00:00",
+    "text": "Херсонская область РФ \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_144965",
+    "channel": "kupolrussia",
+    "date": "2026-10-26T07:25:36+00:00",
+    "text": "Херсонская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_103040",
+    "channel": "vrv_radar",
+    "date": "2026-10-26T07:30:56+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
   }
 ]
