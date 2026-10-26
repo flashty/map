@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_253401_Хохольский",
-    "channel": "LPRalarm",
-    "date": "2026-10-24T19:18:59+00:00",
-    "text": "Хохольский район\nВоронежская область\nТревога по БПЛА\nИ далее в тыл",
-    "type": "drone",
-    "location_name": "Хохольский",
-    "region": "Воронежская область",
-    "lat": 51.5779217,
-    "lon": 38.7866515
-  },
-  {
-    "id": "kupolrussia_144507_Хохольский",
-    "channel": "kupolrussia",
-    "date": "2026-10-24T19:19:13+00:00",
-    "text": "Хохольский район\nВоронежская область\nИ далее в тыл",
-    "type": "unknown",
-    "location_name": "Хохольский",
-    "region": "Воронежская область",
-    "lat": 51.5779217,
-    "lon": 38.7866515
-  },
-  {
-    "id": "LPRalarm_253402_Алексеевский",
-    "channel": "LPRalarm",
-    "date": "2026-10-24T19:19:20+00:00",
-    "text": "Иловка\nАлексеевский район \nИ близлежащие \nТревога по БПЛА \nБелгородская область",
-    "type": "drone",
-    "location_name": "Алексеевский",
-    "region": "Белгородская область",
-    "lat": 50.5356823,
-    "lon": 38.7892633
-  },
-  {
-    "id": "kupolrussia_144508_Алексеевский",
-    "channel": "kupolrussia",
-    "date": "2026-10-24T19:19:52+00:00",
-    "text": "Иловка\nАлексеевский район \nИ близлежащие \nБелгородская область",
-    "type": "unknown",
-    "location_name": "Алексеевский",
-    "region": "Белгородская область",
-    "lat": 50.5356823,
-    "lon": 38.7892633
-  },
-  {
-    "id": "vrv_radar_102617_Новодеревеньковский",
-    "channel": "vrv_radar",
-    "date": "2026-10-24T19:20:43+00:00",
-    "text": "Новодеревеньковский район\nОрловская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Новодеревеньковский",
-    "region": "Орловская область",
-    "lat": 52.9628409,
-    "lon": 37.5599787
-  },
-  {
-    "id": "LPRalarm_253403",
-    "channel": "LPRalarm",
-    "date": "2026-10-24T19:21:00+00:00",
-    "text": "Давыдовка, Кирилловка и близлежащие\nТревога по БПЛА\nДалее на восток, юго-восток\nЗапорожская область  РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_144509",
     "channel": "kupolrussia",
     "date": "2026-10-24T19:21:16+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253854",
+    "channel": "LPRalarm",
+    "date": "2026-10-26T00:12:28+00:00",
+    "text": "Курск и близлежащие\nТревога по БПЛА, повторно \nИ далее в направлении\nОрловской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102970",
+    "channel": "vrv_radar",
+    "date": "2026-10-26T00:12:38+00:00",
+    "text": "Псковская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_92346",
+    "channel": "locatorru",
+    "date": "2026-10-26T00:12:48+00:00",
+    "text": "Псковская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_144916",
+    "channel": "kupolrussia",
+    "date": "2026-10-26T00:13:03+00:00",
+    "text": "Курск и близлежащие\nТревога по БПЛА, повторно \nИ далее в направлении\nОрловской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102388",
+    "channel": "radarrussiia",
+    "date": "2026-10-26T00:13:10+00:00",
+    "text": "Псковская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102971",
+    "channel": "vrv_radar",
+    "date": "2026-10-26T00:15:34+00:00",
+    "text": "Пензенская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пензенская область",
     "lat": null,
     "lon": null
   }
