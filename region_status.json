@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Тульская область \nКалужская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-26T20:36:12+00:00",
-    "expires_at": "2026-10-26T21:36:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульскую область",
     "type": "drone",
@@ -46,16 +36,6 @@
     "channel": "locatorru",
     "updated_at": "2026-10-26T20:58:25+00:00",
     "expires_at": "2026-10-26T21:58:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Ленинский район \nТревога по БПЛА сохраняется \nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-26T20:42:35+00:00",
-    "expires_at": "2026-10-26T21:42:35+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,10 +52,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Шахтёрск, Торез, Снежное и близлежащие \nОпасность по БПЛА \nДНР",
+    "text": "Горловка и близлежащие \nТревога по БПЛА сохраняется, ещё фиксации \nДНР",
     "channel": "LPRalarm",
-    "updated_at": "2026-10-26T21:26:05+00:00",
-    "expires_at": "2026-10-26T22:26:05+00:00",
+    "updated_at": "2026-10-26T21:44:05+00:00",
+    "expires_at": "2026-10-26T22:44:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -113,9 +93,9 @@
     "display_name": "Запорожская область",
     "type": "drone",
     "text": "Бердянск \nОсипенко \nИ близлежащие \nТревога по БПЛА \nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-26T20:55:47+00:00",
-    "expires_at": "2026-10-26T21:55:47+00:00",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-26T21:37:45+00:00",
+    "expires_at": "2026-10-26T22:37:45+00:00",
     "count": null,
     "count_approx": false
   },
@@ -136,6 +116,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-26T21:26:51+00:00",
     "expires_at": "2026-10-26T22:26:51+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Луганск и далее в направлении \nКаменск Шахтинский \nРостовская область \nТревога по БПЛА сохраняется",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-26T21:39:37+00:00",
+    "expires_at": "2026-10-26T22:39:37+00:00",
     "count": null,
     "count_approx": false
   }
