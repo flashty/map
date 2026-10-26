@@ -105,6 +105,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-10-26T15:54:11+00:00",
+        "last_updated": "2026-10-26T16:17:54+00:00",
+        "path_labels": [
+          "Ракитянский (Белгородская область)",
+          "Яковлевский (Белгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.9006134,
+            50.8380326
+          ],
+          [
+            36.2290154,
+            50.7321022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-10-26T15:56:49+00:00",
         "last_updated": "2026-10-26T15:56:49+00:00",
         "path_labels": [
