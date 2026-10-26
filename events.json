@@ -1,82 +1,5 @@
 [
   {
-    "id": "radarrussiia_102308",
-    "channel": "radarrussiia",
-    "date": "2026-10-24T22:35:03+00:00",
-    "text": "Кузнецк \nПензенская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_102309",
-    "channel": "radarrussiia",
-    "date": "2026-10-24T22:36:24+00:00",
-    "text": "ГО Домодедово \nМосковская область \nСбитие БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_253502",
-    "channel": "LPRalarm",
-    "date": "2026-10-24T22:38:41+00:00",
-    "text": "Роскошное, Успенка и близлежащие тревога по БПЛА\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_144604",
-    "channel": "kupolrussia",
-    "date": "2026-10-24T22:38:49+00:00",
-    "text": "Роскошное, Успенка и близлежащие тревога по БПЛА\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102725",
-    "channel": "vrv_radar",
-    "date": "2026-10-24T22:41:41+00:00",
-    "text": "Майкоп \nРеспублика Адыгея \nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Адыгея",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102726",
-    "channel": "vrv_radar",
-    "date": "2026-10-24T22:42:23+00:00",
-    "text": "Майкоп \nРеспублика Адыгея \nМеры безопасности",
-    "type": "alert",
-    "location_name": null,
-    "region": "Республика Адыгея",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102727",
-    "channel": "vrv_radar",
-    "date": "2026-10-24T22:42:46+00:00",
-    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_102310",
     "channel": "radarrussiia",
     "date": "2026-10-24T22:43:06+00:00",
@@ -21998,5 +21921,82 @@
     "region": null,
     "lat": 56.0736587,
     "lon": 46.2661214
+  },
+  {
+    "id": "kupolrussia_145051_Ленинский",
+    "channel": "kupolrussia",
+    "date": "2026-10-26T12:32:42+00:00",
+    "text": "Ленинский район, с. Виноградное в направлении Керчь БПЛА Рубака",
+    "type": "drone",
+    "location_name": "Ленинский",
+    "region": null,
+    "lat": 56.0736587,
+    "lon": 46.2661214
+  },
+  {
+    "id": "LPRalarm_254008",
+    "channel": "LPRalarm",
+    "date": "2026-10-26T12:34:51+00:00",
+    "text": "От Брилевка в направлении Новокиевка БПЛА Хорнет и далее на Каланчак, АПП Армянск, Армянск",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_103068",
+    "channel": "vrv_radar",
+    "date": "2026-10-26T12:35:02+00:00",
+    "text": "Калужская область\nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254009",
+    "channel": "LPRalarm",
+    "date": "2026-10-26T12:35:49+00:00",
+    "text": "Ейск и близлежащие учения",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145052",
+    "channel": "kupolrussia",
+    "date": "2026-10-26T12:35:55+00:00",
+    "text": "От Брилевка в направлении Новокиевка БПЛА Хорнет и далее на Каланчак, АПП Армянск, Армянск",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145053",
+    "channel": "kupolrussia",
+    "date": "2026-10-26T12:36:11+00:00",
+    "text": "Ейск и близлежащие\nКраснодарский край\nД\\ученияи/ №",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15477",
+    "channel": "radar_plus_bpla",
+    "date": "2026-10-26T12:36:51+00:00",
+    "text": "⚡️⚡️Число погибших в результате атаки ВСУ на Воронежскую область увеличилось до трех, пострадавших — до 39.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Воронежскую область",
+    "lat": null,
+    "lon": null
   }
 ]
