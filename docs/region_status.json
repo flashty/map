@@ -9,23 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянская область \nАктивность БПЛА дартс.\nПринять меры безопасности",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-26T08:41:03+00:00",
-    "expires_at": "2026-10-26T09:41:03+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Симферопольский район \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "text": "Черноморский район \nОпасность по реактивным БПЛА \nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-26T09:03:53+00:00",
-    "expires_at": "2026-10-26T10:03:53+00:00",
+    "updated_at": "2026-10-26T09:41:07+00:00",
+    "expires_at": "2026-10-26T10:41:07+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +26,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-26T09:20:01+00:00",
     "expires_at": "2026-10-26T10:20:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Скадовский район \nОпасность по реактивным БПЛА \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-26T09:40:12+00:00",
+    "expires_at": "2026-10-26T10:40:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "alert",
+    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-26T09:34:28+00:00",
+    "expires_at": "2026-10-26T10:34:28+00:00",
     "count": null,
     "count_approx": false
   }
