@@ -1,24 +1,4 @@
 {
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Яковлевский район\nОпасность по БПЛА \nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-26T12:22:11+00:00",
-    "expires_at": "2026-10-26T13:22:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "missile",
-    "text": "Угледар, Великая Новосёлка ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-26T12:06:07+00:00",
-    "expires_at": "2026-10-26T13:06:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
@@ -36,6 +16,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-26T12:55:06+00:00",
     "expires_at": "2026-10-26T13:55:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Трасса Приазовское - Приморск, Осипенко, Бердянск опасность по БПЛА от Михайловка \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-26T13:04:31+00:00",
+    "expires_at": "2026-10-26T14:04:31+00:00",
     "count": null,
     "count_approx": false
   }
