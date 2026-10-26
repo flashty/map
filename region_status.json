@@ -39,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курскую область",
-    "type": "drone",
-    "text": "Ивнянский район \nТревога по БПЛА и далее на Курскую область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-26T03:14:45+00:00",
-    "expires_at": "2026-10-26T04:14:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "мордов": {
     "display_name": "Республика Мордовия",
     "type": "drone",
@@ -70,12 +60,12 @@
     "count_approx": false
   },
   "белгородск": {
-    "display_name": "Белгородская область",
+    "display_name": "Белгородская области",
     "type": "drone",
-    "text": "Белгород(Крейда, Мих.шоссе) Тревога  по БПЛА \nИ далее в тыл\nБелгородская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-26T03:58:24+00:00",
-    "expires_at": "2026-10-26T04:58:24+00:00",
+    "text": "Воронежская \nКурская \nБелгородская области\n\nТревога по БПЛА сохраняется",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-26T04:05:01+00:00",
+    "expires_at": "2026-10-26T05:05:01+00:00",
     "count": null,
     "count_approx": false
   },
