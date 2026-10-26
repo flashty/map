@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_144516",
-    "channel": "kupolrussia",
-    "date": "2026-10-24T19:32:10+00:00",
-    "text": "Тамбовская область\nи\n<\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_253410",
-    "channel": "LPRalarm",
-    "date": "2026-10-24T19:32:15+00:00",
-    "text": "Тамбовская область\nи\n<\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_92122_Лиски",
-    "channel": "locatorru",
-    "date": "2026-10-24T19:32:27+00:00",
-    "text": "Лиски, Воронежская область - БПЛА на север. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Лиски",
-    "region": "Воронежская область",
-    "lat": 50.9873813,
-    "lon": 39.4972321
-  },
-  {
-    "id": "vrv_radar_102631_Ульяновский",
-    "channel": "vrv_radar",
-    "date": "2026-10-24T19:32:46+00:00",
-    "text": "Ульяновский район\nЛюдиновский район\nМещовский район\nКалужская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Ульяновский",
-    "region": "Калужская область",
-    "lat": 53.7054494,
-    "lon": 35.6146918
-  },
-  {
-    "id": "vrv_radar_102631_Людиновский",
-    "channel": "vrv_radar",
-    "date": "2026-10-24T19:32:46+00:00",
-    "text": "Ульяновский район\nЛюдиновский район\nМещовский район\nКалужская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Людиновский",
-    "region": "Калужская область",
-    "lat": 53.8940803,
-    "lon": 34.4615879
-  },
-  {
     "id": "vrv_radar_102631_Мещовский",
     "channel": "vrv_radar",
     "date": "2026-10-24T19:32:46+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102991",
+    "channel": "vrv_radar",
+    "date": "2026-10-26T01:02:48+00:00",
+    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_102992",
+    "channel": "vrv_radar",
+    "date": "2026-10-26T01:03:20+00:00",
+    "text": "Нижегородская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_144920",
+    "channel": "kupolrussia",
+    "date": "2026-10-26T01:03:55+00:00",
+    "text": "Нижегородская область\nи\n<>\nРК",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_253859",
+    "channel": "LPRalarm",
+    "date": "2026-10-26T01:04:00+00:00",
+    "text": "Нижегородская область\nи\n<>\nРК",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_92353",
+    "channel": "locatorru",
+    "date": "2026-10-26T01:04:31+00:00",
+    "text": "Рязанская область, Нижегородская область - опасность по БПЛА от Тамбовской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Рязанская область",
     "lat": null,
     "lon": null
   }
