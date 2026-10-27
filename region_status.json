@@ -11,11 +11,11 @@
   },
   "московск": {
     "display_name": "Московская область",
-    "type": "drone",
-    "text": "ГО Коломна\nМосковская область\nФиксация БПЛА",
+    "type": "alert",
+    "text": "ГО Бронницы\nГО Домодедово\nМосковская область\nМеры безопасности",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-27T14:13:05+00:00",
-    "expires_at": "2026-10-27T15:13:05+00:00",
+    "updated_at": "2026-10-27T14:27:42+00:00",
+    "expires_at": "2026-10-27T15:27:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,16 +26,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-27T13:44:42+00:00",
     "expires_at": "2026-10-27T14:44:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Льгов и близлежащие, Курская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-27T13:23:42+00:00",
-    "expires_at": "2026-10-27T14:23:42+00:00",
     "count": null,
     "count_approx": false
   },
