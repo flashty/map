@@ -1,93 +1,5 @@
 [
   {
-    "id": "vrv_radar_102868_Спас-Деменский",
-    "channel": "vrv_radar",
-    "date": "2026-10-25T17:40:01+00:00",
-    "text": "Куйбышевский район\nСпас-Деменский район\nКалужская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Спас-Деменский",
-    "region": "Калужская область",
-    "lat": 54.3959568,
-    "lon": 33.9346202
-  },
-  {
-    "id": "vrv_radar_102869_Кировский",
-    "channel": "vrv_radar",
-    "date": "2026-10-25T17:40:07+00:00",
-    "text": "Кировский район\nСухиничский район\nКалужская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Кировский",
-    "region": "Калужская область",
-    "lat": 54.1083236,
-    "lon": 34.4357113
-  },
-  {
-    "id": "vrv_radar_102869_Сухиничский",
-    "channel": "vrv_radar",
-    "date": "2026-10-25T17:40:07+00:00",
-    "text": "Кировский район\nСухиничский район\nКалужская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Сухиничский",
-    "region": "Калужская область",
-    "lat": 54.0945612,
-    "lon": 35.3488687
-  },
-  {
-    "id": "LPRalarm_253731_Почепский",
-    "channel": "LPRalarm",
-    "date": "2026-10-25T17:45:57+00:00",
-    "text": "Почепский район\nПогарский район\nБрянская область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Почепский",
-    "region": "Брянская область",
-    "lat": 52.9262598,
-    "lon": 33.493436
-  },
-  {
-    "id": "LPRalarm_253731_Погарский",
-    "channel": "LPRalarm",
-    "date": "2026-10-25T17:45:57+00:00",
-    "text": "Почепский район\nПогарский район\nБрянская область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Погарский",
-    "region": "Брянская область",
-    "lat": 52.5207056,
-    "lon": 33.2053408
-  },
-  {
-    "id": "kupolrussia_144814_Почепский",
-    "channel": "kupolrussia",
-    "date": "2026-10-25T17:46:17+00:00",
-    "text": "Почепский район\nПогарский район\nБрянская область",
-    "type": "unknown",
-    "location_name": "Почепский",
-    "region": "Брянская область",
-    "lat": 52.9262598,
-    "lon": 33.493436
-  },
-  {
-    "id": "kupolrussia_144814_Погарский",
-    "channel": "kupolrussia",
-    "date": "2026-10-25T17:46:17+00:00",
-    "text": "Почепский район\nПогарский район\nБрянская область",
-    "type": "unknown",
-    "location_name": "Погарский",
-    "region": "Брянская область",
-    "lat": 52.5207056,
-    "lon": 33.2053408
-  },
-  {
-    "id": "LPRalarm_253732",
-    "channel": "LPRalarm",
-    "date": "2026-10-25T17:46:48+00:00",
-    "text": "Трубчевск и близлежайшие \nТревога  по БПЛА \nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_144815",
     "channel": "kupolrussia",
     "date": "2026-10-25T17:47:07+00:00",
@@ -21996,6 +21908,94 @@
     "type": "missile",
     "location_name": null,
     "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254313",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T08:36:50+00:00",
+    "text": "Курская область\nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145303",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T08:38:47+00:00",
+    "text": "Курская область\nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254314",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T08:39:01+00:00",
+    "text": "Селидово и близлежащие опасность по БПЛА Хорнет \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145304",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T08:39:08+00:00",
+    "text": "Селидово и близлежащие опасность по БПЛА Хорнет \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_103165",
+    "channel": "vrv_radar",
+    "date": "2026-10-27T08:41:19+00:00",
+    "text": "Калужская область\nСмоленская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102428",
+    "channel": "radarrussiia",
+    "date": "2026-10-27T08:42:04+00:00",
+    "text": "Калужская область\nСмоленская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254315",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T08:43:54+00:00",
+    "text": "Брянская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145305",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T08:44:07+00:00",
+    "text": "Брянская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
