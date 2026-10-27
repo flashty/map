@@ -11,11 +11,11 @@
   },
   "московск": {
     "display_name": "Московская область",
-    "type": "drone",
-    "text": "Домодедово, Серпухов и близлежащие, Московская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-27T13:37:24+00:00",
-    "expires_at": "2026-10-27T14:37:24+00:00",
+    "type": "alert",
+    "text": "ГО Домодедово\nМосковская область\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-27T14:01:17+00:00",
+    "expires_at": "2026-10-27T15:01:17+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +66,36 @@
     "channel": "radarrussiia",
     "updated_at": "2026-10-27T13:11:46+00:00",
     "expires_at": "2026-10-27T14:11:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Докучаевск и близлежащие \nОпасность по БПЛА \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-27T13:48:30+00:00",
+    "expires_at": "2026-10-27T14:48:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Короча и близлежащие \nБелгородская область \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-27T13:54:40+00:00",
+    "expires_at": "2026-10-27T14:54:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Осипенко\nПриморск\nИ близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-27T14:00:15+00:00",
+    "expires_at": "2026-10-27T15:00:15+00:00",
     "count": null,
     "count_approx": false
   }
