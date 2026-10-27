@@ -32,20 +32,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Донецк и близлежащие \nОпасность по БПЛА, единичные фиксации \nДНР \n\nОсобое внимание на дорогах!",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-27T14:06:43+00:00",
-    "expires_at": "2026-10-27T15:06:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Короча и близлежащие \nБелгородская область \nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-27T13:54:40+00:00",
-    "expires_at": "2026-10-27T14:54:40+00:00",
+    "text": "Курахово и далее на юг\nОпасность по БПЛА \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-27T14:46:35+00:00",
+    "expires_at": "2026-10-27T15:46:35+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +46,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-27T14:03:32+00:00",
     "expires_at": "2026-10-27T15:03:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Орловская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-27T14:55:21+00:00",
+    "expires_at": "2026-10-27T15:55:21+00:00",
     "count": null,
     "count_approx": false
   }
