@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_102907_Хотынецкий",
-    "channel": "vrv_radar",
-    "date": "2026-10-25T20:14:58+00:00",
-    "text": "Хотынецкий район\nОрловская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Хотынецкий",
-    "region": "Орловская область",
-    "lat": 53.1360589,
-    "lon": 35.3773008
-  },
-  {
-    "id": "kupolrussia_144886",
-    "channel": "kupolrussia",
-    "date": "2026-10-25T20:16:02+00:00",
-    "text": "Тульская область\nВНИМАНИЕ!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_253804",
-    "channel": "LPRalarm",
-    "date": "2026-10-25T20:16:08+00:00",
-    "text": "Тульская область\nВНИМАНИЕ!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_253805_Дятьковский",
-    "channel": "LPRalarm",
-    "date": "2026-10-25T20:19:45+00:00",
-    "text": "Дятьковский район\nБрянская область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Дятьковский",
-    "region": "Брянская область",
-    "lat": 53.6472358,
-    "lon": 34.2385788
-  },
-  {
-    "id": "LPRalarm_253806_Кромской",
-    "channel": "LPRalarm",
-    "date": "2026-10-25T20:21:38+00:00",
-    "text": "Кромской район\nОрловская область\nРакетная опасность",
-    "type": "missile",
-    "location_name": "Кромской",
-    "region": "Орловская область",
-    "lat": 52.6353551,
-    "lon": 35.763628
-  },
-  {
     "id": "LPRalarm_253807_Миллеровский",
     "channel": "LPRalarm",
     "date": "2026-10-25T20:22:29+00:00",
@@ -21996,6 +21941,61 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_103210_Троснянский",
+    "channel": "vrv_radar",
+    "date": "2026-10-27T15:46:52+00:00",
+    "text": "Троснянский район\nОрловская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Троснянский",
+    "region": "Орловская область",
+    "lat": 52.3967026,
+    "lon": 35.8058385
+  },
+  {
+    "id": "kupolrussia_145374",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T15:55:11+00:00",
+    "text": "Калужская область \nМосковская область\nи\n<\nРК",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254391",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T15:55:16+00:00",
+    "text": "Калужская область \nМосковская область\nи\n<\nРК",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254392",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T15:59:08+00:00",
+    "text": "Краснояружский МО Ракитянский МО \nИ далее в тыл \nТревога по БПЛА \nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145375",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T15:59:23+00:00",
+    "text": "Краснояружский МО Ракитянский МО \nИ далее в тыл \nБелгородская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Белгородская область",
     "lat": null,
     "lon": null
   }
