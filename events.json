@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_102854",
-    "channel": "vrv_radar",
-    "date": "2026-10-25T15:08:03+00:00",
-    "text": "Калужская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_144782",
-    "channel": "kupolrussia",
-    "date": "2026-10-25T15:08:52+00:00",
-    "text": "Тульская область\nТамбовская область\nКалужская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_253700",
-    "channel": "LPRalarm",
-    "date": "2026-10-25T15:08:57+00:00",
-    "text": "Тульская область\nТамбовская область\nКалужская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_102361",
     "channel": "radarrussiia",
     "date": "2026-10-25T15:09:05+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Брянская область",
     "lat": 53.0368833,
     "lon": 33.970228
+  },
+  {
+    "id": "locatorru_92464",
+    "channel": "locatorru",
+    "date": "2026-10-27T02:34:10+00:00",
+    "text": "Ростовская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254283",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T02:44:21+00:00",
+    "text": "Воронежская область \nОт опасность по БПЛА \nПереходим в режим повышенного внимания",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145276",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T02:44:33+00:00",
+    "text": "Воронежская область \nОт опасность по БПЛА \nПереходим в режим повышенного внимания",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
   }
 ]
