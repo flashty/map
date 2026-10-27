@@ -1,104 +1,5 @@
 [
   {
-    "id": "vrv_radar_102917_Новомосковск",
-    "channel": "vrv_radar",
-    "date": "2026-10-25T20:37:06+00:00",
-    "text": "Новомосковск\nТульская область\nМеры безопасности",
-    "type": "alert",
-    "location_name": "Новомосковск",
-    "region": "Тульская область",
-    "lat": 54.011013,
-    "lon": 38.290943
-  },
-  {
-    "id": "vrv_radar_102918",
-    "channel": "vrv_radar",
-    "date": "2026-10-25T20:37:20+00:00",
-    "text": "Тульская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_144888",
-    "channel": "kupolrussia",
-    "date": "2026-10-25T20:39:59+00:00",
-    "text": "По раннее объявленным",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_253815",
-    "channel": "LPRalarm",
-    "date": "2026-10-25T20:40:05+00:00",
-    "text": "По раннее объявленным",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102919",
-    "channel": "vrv_radar",
-    "date": "2026-10-25T20:41:14+00:00",
-    "text": "Воронежская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_92293",
-    "channel": "locatorru",
-    "date": "2026-10-25T20:42:06+00:00",
-    "text": "Брянская область, Смоленская область, Калужская область, Псковская область, Новгородская область - опасность по БПЛА. \n\nКурская область, Орловская область - опасность по БПЛА. \n\nБелгородская область, Воронежская область, Ростовская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_15446",
-    "channel": "radar_plus_bpla",
-    "date": "2026-10-25T20:44:34+00:00",
-    "text": "Отбой ракетной опасности по всем ранее объявленным регионам.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_92294",
-    "channel": "locatorru",
-    "date": "2026-10-25T20:45:11+00:00",
-    "text": "Массовые фиксации БПЛА над Стародубским районом, Погарским районом, Почепским районами в направлении Смоленской области, Калужской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Смоленской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_92295",
-    "channel": "locatorru",
-    "date": "2026-10-25T20:45:45+00:00",
-    "text": "Московская область - опасность по БПЛА от Калужской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_253816_Стародубский",
     "channel": "LPRalarm",
     "date": "2026-10-25T20:45:59+00:00",
@@ -21998,5 +21899,104 @@
     "region": "Московская область",
     "lat": 55.4308841,
     "lon": 37.5453056
+  },
+  {
+    "id": "LPRalarm_254400",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T16:36:50+00:00",
+    "text": "Дмитриев\nЖелезногорск\nИ близлежащие\nКурская область\nТревога по БПЛА и далее в направлении\nОрловской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145383",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T16:37:15+00:00",
+    "text": "Дмитриев\nЖелезногорск\nИ близлежащие\nКурская область\nи далее в направлении\nОрловской области",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145384",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T16:37:22+00:00",
+    "text": "В районе Хомутовки и далее на Железногорск\nТревога по множественному пролёту БПЛА\nКурская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254401",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T16:37:25+00:00",
+    "text": "В районе Хомутовки и далее на Железногорск\nТревога по множественному пролёту БПЛА\nКурская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_103212",
+    "channel": "vrv_radar",
+    "date": "2026-10-27T16:38:55+00:00",
+    "text": "Калуга \nКалужская область\nМеры безопасности",
+    "type": "alert",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_92484_Хомутовский",
+    "channel": "locatorru",
+    "date": "2026-10-27T16:41:20+00:00",
+    "text": "Хомутовский район, Курская область - пролёты групп БПЛА в направлении Дмитриевского района, Железногорского района, Фатежского района. В районе трассы Е101. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Хомутовский",
+    "region": "Курская область",
+    "lat": 51.8755554,
+    "lon": 34.6631707
+  },
+  {
+    "id": "LPRalarm_254402",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T16:44:07+00:00",
+    "text": "От Чугуева, Харьковская область, в сторону Белгородской области\nНачинаются множественные пролёты БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Харьковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145385",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T16:44:22+00:00",
+    "text": "От Чугуева, Харьковская область, в сторону Белгородской области\nНачинаются множественные пролёты БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Харьковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15501",
+    "channel": "radar_plus_bpla",
+    "date": "2026-10-27T16:45:27+00:00",
+    "text": "От 15 БПЛА через Орловскую область в направлении стыка Тульской и Калужской областей и далее на Московскую область.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловскую область",
+    "lat": null,
+    "lon": null
   }
 ]
