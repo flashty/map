@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_144809_Шебекино",
-    "channel": "kupolrussia",
-    "date": "2026-10-25T16:56:49+00:00",
-    "text": "Шебекино, Дальняя Игуменка и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Шебекино",
-    "region": null,
-    "lat": 50.4049335,
-    "lon": 36.8796822
-  },
-  {
-    "id": "LPRalarm_253727",
-    "channel": "LPRalarm",
-    "date": "2026-10-25T16:56:52+00:00",
-    "text": "Белгород и район \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_144810",
-    "channel": "kupolrussia",
-    "date": "2026-10-25T17:04:18+00:00",
-    "text": "Белгород и район \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_253728",
     "channel": "LPRalarm",
     "date": "2026-10-25T17:04:39+00:00",
@@ -21996,6 +21963,39 @@
     "type": "alert",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254306",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T07:48:23+00:00",
+    "text": "Новая Полтавка, Прогресс и близлежащие \nОпасность по БПЛА\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145295",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T07:48:37+00:00",
+    "text": "Новая Полтавка, Прогресс и близлежащие \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_103164",
+    "channel": "vrv_radar",
+    "date": "2026-10-27T08:00:39+00:00",
+    "text": "Просим службы МЧС РСЧС и подразделения ДРО РЛС ПВН ПВО выйти с нами на связь по контакту обратной связи @vrv_support а так же, ОД(оперативных дежурных) , работников НПЗ, аэродромов и тд, обладающих информацией \n\nУ нас в команде более 270 человек(со служб ~235), работаем с мая 24 года\n\nДля подписчиков, свидетелей пролетов/сбитий БПЛА есть обратная связь по кнопке снизу в TG(в MAX в описании, в ВК кнопка сверху страницы)\n\nОбратная связь MAX для военных: https://max.ru/u/f9LHodD0cOICV1Ss9Q5rHZiKLYF",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
