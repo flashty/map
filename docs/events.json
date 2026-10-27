@@ -1,115 +1,5 @@
 [
   {
-    "id": "kupolrussia_144868_Новоусманский",
-    "channel": "kupolrussia",
-    "date": "2026-10-25T19:45:24+00:00",
-    "text": "Нововоронеж район \nКаширский район \nХохольский район \nРамонмонский район \nНовоусманский район \nСемилукинский район \nОстрогожский район \n\nВоронежская область",
-    "type": "unknown",
-    "location_name": "Новоусманский",
-    "region": "Воронежская область",
-    "lat": 51.717129,
-    "lon": 39.49049
-  },
-  {
-    "id": "kupolrussia_144868_Острогожский",
-    "channel": "kupolrussia",
-    "date": "2026-10-25T19:45:24+00:00",
-    "text": "Нововоронеж район \nКаширский район \nХохольский район \nРамонмонский район \nНовоусманский район \nСемилукинский район \nОстрогожский район \n\nВоронежская область",
-    "type": "unknown",
-    "location_name": "Острогожский",
-    "region": "Воронежская область",
-    "lat": 50.8584609,
-    "lon": 39.0772421
-  },
-  {
-    "id": "LPRalarm_253786",
-    "channel": "LPRalarm",
-    "date": "2026-10-25T19:45:38+00:00",
-    "text": "Воронежская область \nОпасность по реактивным БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_144869",
-    "channel": "kupolrussia",
-    "date": "2026-10-25T19:45:55+00:00",
-    "text": "Воронежская область \nОпасность по реактивным БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_253787",
-    "channel": "LPRalarm",
-    "date": "2026-10-25T19:46:11+00:00",
-    "text": "Орёл \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_144870",
-    "channel": "kupolrussia",
-    "date": "2026-10-25T19:46:27+00:00",
-    "text": "Орёл \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102892",
-    "channel": "vrv_radar",
-    "date": "2026-10-25T19:46:56+00:00",
-    "text": "Новгородская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Новгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102893",
-    "channel": "vrv_radar",
-    "date": "2026-10-25T19:47:02+00:00",
-    "text": "Орёл \nОрловская область\nМеры безопасности",
-    "type": "alert",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_144871",
-    "channel": "kupolrussia",
-    "date": "2026-10-25T19:47:06+00:00",
-    "text": "Тамбовская область \nСаратовская область \nПензенская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_253788",
-    "channel": "LPRalarm",
-    "date": "2026-10-25T19:47:09+00:00",
-    "text": "Тамбовская область \nСаратовская область \nПензенская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radar_plus_bpla_15443",
     "channel": "radar_plus_bpla",
     "date": "2026-10-25T19:47:38+00:00",
@@ -21996,6 +21886,116 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254372",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T13:33:04+00:00",
+    "text": "Херсонская область РФ \nОтбой авиационной ракетно бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145355",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T13:33:08+00:00",
+    "text": "Херсонская область РФ \nОтбой авиационной ракетно бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254373",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T13:34:46+00:00",
+    "text": "Запорожская область РФ \nЛДНР \nОтбой авиационной ракетно бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145356",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T13:34:49+00:00",
+    "text": "Запорожская область РФ \nЛДНР \nОтбой авиационной ракетно бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_103196",
+    "channel": "vrv_radar",
+    "date": "2026-10-27T13:36:54+00:00",
+    "text": "ГО Бронницы \nМосковская область\nМеры безопасности",
+    "type": "alert",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_92477_Домодедово",
+    "channel": "locatorru",
+    "date": "2026-10-27T13:37:24+00:00",
+    "text": "Домодедово, Серпухов и близлежащие, Московская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Домодедово",
+    "region": "Московская область",
+    "lat": 55.4087122,
+    "lon": 37.9094721
+  },
+  {
+    "id": "kupolrussia_145357_Москва",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T13:38:12+00:00",
+    "text": "Москва",
+    "type": "unknown",
+    "location_name": "Москва",
+    "region": null,
+    "lat": 55.625578,
+    "lon": 37.6063916
+  },
+  {
+    "id": "LPRalarm_254374_Москва",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T13:38:16+00:00",
+    "text": "Москва",
+    "type": "unknown",
+    "location_name": "Москва",
+    "region": null,
+    "lat": 55.625578,
+    "lon": 37.6063916
+  },
+  {
+    "id": "LPRalarm_254375",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T13:44:37+00:00",
+    "text": "Трубчевск и близлежащие \nБрянская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145358",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T13:44:42+00:00",
+    "text": "Трубчевск и близлежащие \nБрянская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
