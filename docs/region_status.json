@@ -1,14 +1,4 @@
 {
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Запорожская область РФ\nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-27T21:49:33+00:00",
-    "expires_at": "2026-10-27T22:49:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -26,6 +16,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-27T22:25:07+00:00",
     "expires_at": "2026-10-27T23:25:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Советский район и близлежащие \nТревога по БПЛА \nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-27T22:55:20+00:00",
+    "expires_at": "2026-10-27T23:55:20+00:00",
     "count": null,
     "count_approx": false
   }
