@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_102852",
-    "channel": "vrv_radar",
-    "date": "2026-10-25T15:07:09+00:00",
-    "text": "Волгоградская область\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_92285",
-    "channel": "locatorru",
-    "date": "2026-10-25T15:07:39+00:00",
-    "text": "В районе Иловайск, ДНР фиксации реактивных БПЛА или ракет в сторону Ростовской области, Краснодарского края. \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102853",
-    "channel": "vrv_radar",
-    "date": "2026-10-25T15:07:50+00:00",
-    "text": "Тамбовская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_102854",
     "channel": "vrv_radar",
     "date": "2026-10-25T15:08:03+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Ростовская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_254282",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T02:19:56+00:00",
+    "text": "Орёл и близлижайшие \nТревога по БПЛА \nОрловская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145274",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T02:20:02+00:00",
+    "text": "Орёл и близлижайшие \nТревога по БПЛА \nОрловская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145275_Выгоничский",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T02:23:54+00:00",
+    "text": "Выгоничский район \nТревога по БПЛА \nБрянская область",
+    "type": "drone",
+    "location_name": "Выгоничский",
+    "region": "Брянская область",
+    "lat": 53.0368833,
+    "lon": 33.970228
   }
 ]
