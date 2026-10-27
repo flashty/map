@@ -1,137 +1,5 @@
 [
   {
-    "id": "vrv_radar_102926_Торопецкий",
-    "channel": "vrv_radar",
-    "date": "2026-10-25T21:12:16+00:00",
-    "text": "Торопецкий район\nТверская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Торопецкий",
-    "region": "Тверская область",
-    "lat": 56.644358,
-    "lon": 31.3569336
-  },
-  {
-    "id": "kupolrussia_144890",
-    "channel": "kupolrussia",
-    "date": "2026-10-25T21:12:24+00:00",
-    "text": "Опасность БпЛА по дорожному направлению Р-280 Бердянск - Приморск - Приазовское \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_92309_Кимовский",
-    "channel": "locatorru",
-    "date": "2026-10-25T21:12:33+00:00",
-    "text": "Кимовский район, Веневский район, Тульская область - опасность по БПЛА.\n\n 📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Кимовский",
-    "region": "Тульская область",
-    "lat": 53.8404975,
-    "lon": 38.6777887
-  },
-  {
-    "id": "locatorru_92309_Веневский",
-    "channel": "locatorru",
-    "date": "2026-10-25T21:12:33+00:00",
-    "text": "Кимовский район, Веневский район, Тульская область - опасность по БПЛА.\n\n 📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Веневский",
-    "region": "Тульская область",
-    "lat": 54.4037021,
-    "lon": 38.2298543
-  },
-  {
-    "id": "LPRalarm_253821",
-    "channel": "LPRalarm",
-    "date": "2026-10-25T21:18:03+00:00",
-    "text": "ЛНР\nТревога по БПЛА от Харьковской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_92310",
-    "channel": "locatorru",
-    "date": "2026-10-25T21:18:04+00:00",
-    "text": "Иваньково, Ясногорский район, Тульская область - опасность по БПЛА и в сторону Ступино и близлежащие, Московская область. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_92311",
-    "channel": "locatorru",
-    "date": "2026-10-25T21:21:09+00:00",
-    "text": "Кривцово-Плота, Должанский район, Орловская область - пролёты БПЛА в сторону Коротыш, Русский Брод и далее на Тульскую область. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_144891",
-    "channel": "kupolrussia",
-    "date": "2026-10-25T21:25:00+00:00",
-    "text": "Тверская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тверская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_253822",
-    "channel": "LPRalarm",
-    "date": "2026-10-25T21:25:06+00:00",
-    "text": "Тверская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тверская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_144892",
-    "channel": "kupolrussia",
-    "date": "2026-10-25T21:27:04+00:00",
-    "text": "Тульская область \nКалужская область \nСмоленская область \nОпасность по БПЛА сохраняется.\nЕщё фиксации БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_253823",
-    "channel": "LPRalarm",
-    "date": "2026-10-25T21:27:06+00:00",
-    "text": "Тульская область \nКалужская область \nСмоленская область \nОпасность по БПЛА сохраняется.\nЕщё фиксации БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_102927_Серпухов",
-    "channel": "vrv_radar",
-    "date": "2026-10-25T21:27:12+00:00",
-    "text": "ГО Серпухов\nМосковская область\nМеры безопасности",
-    "type": "alert",
-    "location_name": "Серпухов",
-    "region": "Московская область",
-    "lat": 54.9155247,
-    "lon": 37.4195533
-  },
-  {
     "id": "LPRalarm_253824_Чертковский",
     "channel": "LPRalarm",
     "date": "2026-10-25T21:31:26+00:00",
@@ -21998,5 +21866,137 @@
     "region": "Брянская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_254425",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T17:35:39+00:00",
+    "text": "Брянск\nБежица\nИ близлежащие\nТревога по БПЛА\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145402",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T17:35:58+00:00",
+    "text": "Брянск\nБежица\nИ близлежащие\nБрянская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254426",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T17:36:55+00:00",
+    "text": "Дорожное направление Приазовское-Владимировка \nОпасность по Фпв \nЗапорожская область РФ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254427",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T17:37:07+00:00",
+    "text": "Краснояружский район Белгородской области\nИ далее на Курскую область\nТревога по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145403",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T17:37:10+00:00",
+    "text": "Краснояружский район Белгородской области\nИ далее на Курскую область\nТревога по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254428_Дятьковский",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T17:39:48+00:00",
+    "text": "Дятьково\nДятьковский район\nБрянская область\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Дятьковский",
+    "region": "Брянская область",
+    "lat": 53.6472358,
+    "lon": 34.2385788
+  },
+  {
+    "id": "LPRalarm_254429",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T17:39:57+00:00",
+    "text": "Дятьково и близлежащие \nБрянская область \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145404",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T17:40:05+00:00",
+    "text": "Дятьково и близлежащие \nБрянская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254430",
+    "channel": "LPRalarm",
+    "date": "2026-10-27T17:43:19+00:00",
+    "text": "Суземка и далее на север\nБрянская область\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145405",
+    "channel": "kupolrussia",
+    "date": "2026-10-27T17:43:46+00:00",
+    "text": "Суземка и далее на север\nБрянская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_103213_Куйбышевский",
+    "channel": "vrv_radar",
+    "date": "2026-10-27T17:44:49+00:00",
+    "text": "Куйбышевский район\nЛюдиновский район\nКалужская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Куйбышевский",
+    "region": "Калужская область",
+    "lat": 54.0967366,
+    "lon": 33.791086
+  },
+  {
+    "id": "vrv_radar_103213_Людиновский",
+    "channel": "vrv_radar",
+    "date": "2026-10-27T17:44:49+00:00",
+    "text": "Куйбышевский район\nЛюдиновский район\nКалужская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Людиновский",
+    "region": "Калужская область",
+    "lat": 53.8940803,
+    "lon": 34.4615879
   }
 ]
