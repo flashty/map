@@ -12,10 +12,10 @@
   "липецк": {
     "display_name": "Липецкая область",
     "type": "drone",
-    "text": "Измалковский район\nЛипецкая область\nФиксация БПЛА",
+    "text": "Данковский район\nЛипецкая область\nФиксации БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-28T21:43:24+00:00",
-    "expires_at": "2026-10-28T22:43:24+00:00",
+    "updated_at": "2026-10-28T22:18:17+00:00",
+    "expires_at": "2026-10-28T23:18:17+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,13 +59,53 @@
     "count": null,
     "count_approx": false
   },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Скопинский район\nПронский район\nМихайловский район \nРязанская область\nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-28T22:16:00+00:00",
+    "expires_at": "2026-10-28T23:16:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Духовщинский район\nСмоленская область\nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-28T22:17:07+00:00",
+    "expires_at": "2026-10-28T23:17:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Калининский район\nТверская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-28T22:17:35+00:00",
+    "expires_at": "2026-10-28T23:17:35+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "drone",
+    "text": "Кольчугинский район\nВладимирская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-28T22:20:44+00:00",
+    "expires_at": "2026-10-28T23:20:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Тула\nТульская область\nФиксации БПЛА",
+    "text": "Алексин\nТульская область\nРабота ПВО по БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-28T22:15:17+00:00",
-    "expires_at": "2026-10-28T23:15:17+00:00",
+    "updated_at": "2026-10-28T22:29:04+00:00",
+    "expires_at": "2026-10-28T23:29:04+00:00",
     "count": null,
     "count_approx": false
   }
