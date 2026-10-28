@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-28T10:44:44+00:00",
+        "last_updated": "2026-10-28T11:19:32+00:00",
+        "path_labels": [
+          "Клинцы (Брянская область)",
+          "Почеп (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.240097,
+            52.758511
+          ],
+          [
+            33.4544207,
+            52.9287784
+          ]
+        ]
+      }
+    }
+  ]
 }
