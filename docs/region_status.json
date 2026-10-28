@@ -2,10 +2,10 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Юг\nМелитополь \nОпасность по БПЛА \nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-28T12:26:05+00:00",
-    "expires_at": "2026-10-28T13:26:05+00:00",
+    "text": "Светлодолинск, Мелитополь опасность по БПЛА сохраняется\nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-28T12:37:54+00:00",
+    "expires_at": "2026-10-28T13:37:54+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,6 +26,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-28T12:19:05+00:00",
     "expires_at": "2026-10-28T13:19:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калужская область - опасность по БПЛА от стыка Брянской и Курской областей. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-28T12:31:40+00:00",
+    "expires_at": "2026-10-28T13:31:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курской областей",
+    "type": "drone",
+    "text": "Калужская область - опасность по БПЛА от стыка Брянской и Курской областей. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-28T12:31:40+00:00",
+    "expires_at": "2026-10-28T13:31:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Трубчевск в направлении Почеп опасность по БПЛА\nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-28T12:43:12+00:00",
+    "expires_at": "2026-10-28T13:43:12+00:00",
     "count": null,
     "count_approx": false
   }

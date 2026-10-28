@@ -1,82 +1,5 @@
 [
   {
-    "id": "kupolrussia_145158",
-    "channel": "kupolrussia",
-    "date": "2026-10-26T18:12:19+00:00",
-    "text": "Керченский полуостров \nКерчь \nПорт Крым \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_254117",
-    "channel": "LPRalarm",
-    "date": "2026-10-26T18:12:57+00:00",
-    "text": "Иловайск \nХарцизск \nЗугрэс и близлежащие \nТревога по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_145159",
-    "channel": "kupolrussia",
-    "date": "2026-10-26T18:13:09+00:00",
-    "text": "Иловайск \nХарцизск \nЗугрэс и близлежащие \nТревога по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_103082_Хвастовичский",
-    "channel": "vrv_radar",
-    "date": "2026-10-26T18:14:33+00:00",
-    "text": "Хвастовичский район\nКалужская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Хвастовичский",
-    "region": "Калужская область",
-    "lat": 53.4981708,
-    "lon": 35.1820052
-  },
-  {
-    "id": "LPRalarm_254118",
-    "channel": "LPRalarm",
-    "date": "2026-10-26T18:14:57+00:00",
-    "text": "Таманский полуостров \nОпасность по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_103083_Троснянский",
-    "channel": "vrv_radar",
-    "date": "2026-10-26T18:15:17+00:00",
-    "text": "Троснянский район\nОрловская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Троснянский",
-    "region": "Орловская область",
-    "lat": 52.3967026,
-    "lon": 35.8058385
-  },
-  {
-    "id": "vrv_radar_103084",
-    "channel": "vrv_radar",
-    "date": "2026-10-26T18:15:38+00:00",
-    "text": "Липецкая область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_103085_Тербунский",
     "channel": "vrv_radar",
     "date": "2026-10-26T18:16:04+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_92641",
+    "channel": "locatorru",
+    "date": "2026-10-28T12:31:40+00:00",
+    "text": "Калужская область - опасность по БПЛА от стыка Брянской и Курской областей. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145585",
+    "channel": "kupolrussia",
+    "date": "2026-10-28T12:32:34+00:00",
+    "text": "Юг\nМелитополь \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254629",
+    "channel": "LPRalarm",
+    "date": "2026-10-28T12:37:48+00:00",
+    "text": "Светлодолинск, Мелитополь опасность по БПЛА сохраняется\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145586",
+    "channel": "kupolrussia",
+    "date": "2026-10-28T12:37:54+00:00",
+    "text": "Светлодолинск, Мелитополь опасность по БПЛА сохраняется\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_92642",
+    "channel": "locatorru",
+    "date": "2026-10-28T12:42:31+00:00",
+    "text": "Клинцы и близлежащие, Брянская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254630",
+    "channel": "LPRalarm",
+    "date": "2026-10-28T12:43:06+00:00",
+    "text": "Трубчевск в направлении Почеп опасность по БПЛА\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145587",
+    "channel": "kupolrussia",
+    "date": "2026-10-28T12:43:12+00:00",
+    "text": "Трубчевск в направлении Почеп опасность по БПЛА\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
