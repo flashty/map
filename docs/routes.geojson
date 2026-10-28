@@ -130,6 +130,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-10-27T23:44:02+00:00",
+        "last_updated": "2026-10-28T00:01:23+00:00",
+        "path_labels": [
+          "Болхов (Орловская область)",
+          "Ульяновский (Калужская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.002232,
+            53.448994
+          ],
+          [
+            35.6146918,
+            53.7054494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-10-27T23:49:08+00:00",
         "last_updated": "2026-10-27T23:49:08+00:00",
         "path_labels": [
