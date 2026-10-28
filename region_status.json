@@ -2,10 +2,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Дятьковский район\nБрянская область \nТревога по бпла,\nВ том числе реактивным",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-28T21:48:58+00:00",
-    "expires_at": "2026-10-28T22:48:58+00:00",
+    "text": "Брянская область - ещё пролёты БПЛА от госграницы в тыл. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-28T22:48:31+00:00",
+    "expires_at": "2026-10-28T23:48:31+00:00",
     "count": null,
     "count_approx": false
   },
@@ -16,16 +16,6 @@
     "channel": "vrv_radar",
     "updated_at": "2026-10-28T22:18:17+00:00",
     "expires_at": "2026-10-28T23:18:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "ГО Наро-Фоминск\nМосковская область\nФиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-28T22:10:38+00:00",
-    "expires_at": "2026-10-28T23:10:38+00:00",
     "count": null,
     "count_approx": false
   },
@@ -42,10 +32,10 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Калуга\nКалужская область\nЕще фиксация БПЛА",
+    "text": "Калуга\nКалужская область\nПродолжаются фиксации БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-28T22:13:59+00:00",
-    "expires_at": "2026-10-28T23:13:59+00:00",
+    "updated_at": "2026-10-28T23:00:10+00:00",
+    "expires_at": "2026-10-29T00:00:10+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,10 +52,10 @@
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
-    "text": "Духовщинский район\nСмоленская область\nФиксации БПЛА",
+    "text": "Вяземский район\nСмоленская область\nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-28T22:17:07+00:00",
-    "expires_at": "2026-10-28T23:17:07+00:00",
+    "updated_at": "2026-10-28T22:52:08+00:00",
+    "expires_at": "2026-10-28T23:52:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +116,36 @@
     "channel": "locatorru",
     "updated_at": "2026-10-28T22:45:23+00:00",
     "expires_at": "2026-10-28T23:45:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Краснояружский район, Ракитянский район, Белгородская область - новая волна пролёта БПЛА в тыл. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-28T22:46:11+00:00",
+    "expires_at": "2026-10-28T23:46:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Тульская область\nПо ранее указанным районам продолжаются фиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-28T22:49:21+00:00",
+    "expires_at": "2026-10-28T23:49:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Домодедово\nМосковская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-28T23:00:21+00:00",
+    "expires_at": "2026-10-29T00:00:21+00:00",
     "count": null,
     "count_approx": false
   }
