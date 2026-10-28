@@ -22,20 +22,20 @@
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Урицкий район\nОрловская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-28T20:55:04+00:00",
-    "expires_at": "2026-10-28T21:55:04+00:00",
+    "text": "Орёл и близлежащие\nТревога по БПЛА\nОрловская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-28T21:13:57+00:00",
+    "expires_at": "2026-10-28T22:13:57+00:00",
     "count": null,
     "count_approx": false
   },
   "липецк": {
     "display_name": "Липецкая область",
     "type": "drone",
-    "text": "Данковский район\nСтановлянский район\nЛипецкая область\nФиксации БПЛА",
+    "text": "Липецкий район\nЛипецкая область\nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-28T20:29:52+00:00",
-    "expires_at": "2026-10-28T21:29:52+00:00",
+    "updated_at": "2026-10-28T21:05:13+00:00",
+    "expires_at": "2026-10-28T22:05:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,43 +59,13 @@
     "count": null,
     "count_approx": false
   },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Калачеевский район\nВоронежская область\nТревога по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-28T20:15:25+00:00",
-    "expires_at": "2026-10-28T21:15:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
-    "text": "Редкино, Тверь, Конаково, Тверская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-28T20:16:49+00:00",
-    "expires_at": "2026-10-28T21:16:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ярославск": {
-    "display_name": "Ярославская область",
-    "type": "drone",
-    "text": "Ярославская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-28T20:08:32+00:00",
-    "expires_at": "2026-10-28T21:08:32+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "ГО Клин\nМосковская область\nФиксации БПЛА",
+    "text": "Конаковский район\nКимрский район\nТверская область\nФиксации БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-28T21:01:18+00:00",
-    "expires_at": "2026-10-28T22:01:18+00:00",
+    "updated_at": "2026-10-28T21:02:34+00:00",
+    "expires_at": "2026-10-28T22:02:34+00:00",
     "count": null,
     "count_approx": false
   },
@@ -114,38 +84,18 @@
     "type": "drone",
     "text": "Рыбновский район\nРязанская область\nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-28T20:45:31+00:00",
-    "expires_at": "2026-10-28T21:45:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "владимирск": {
-    "display_name": "Владимирская область",
-    "type": "drone",
-    "text": "Владимирская область\nИвановская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-28T20:03:24+00:00",
-    "expires_at": "2026-10-28T21:03:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ивановск": {
-    "display_name": "Ивановская область",
-    "type": "drone",
-    "text": "Владимирская область\nИвановская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-28T20:03:24+00:00",
-    "expires_at": "2026-10-28T21:03:24+00:00",
+    "updated_at": "2026-10-28T21:09:37+00:00",
+    "expires_at": "2026-10-28T22:09:37+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Ясногорский район\nТульская область\nФиксации БПЛА",
+    "type": "alert",
+    "text": "Алексин\nТульская область\nМеры безопасности",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-28T20:48:11+00:00",
-    "expires_at": "2026-10-28T21:48:11+00:00",
+    "updated_at": "2026-10-28T21:08:03+00:00",
+    "expires_at": "2026-10-28T22:08:03+00:00",
     "count": null,
     "count_approx": false
   },
@@ -162,10 +112,10 @@
   "тамбовск": {
     "display_name": "Тамбовская область",
     "type": "drone",
-    "text": "Липецкая область \nТамбовская область \nРязанская область \nТревога по БПЛА\nи\n<>\nРК",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-28T20:29:34+00:00",
-    "expires_at": "2026-10-28T21:29:34+00:00",
+    "text": "Ржаксинский район\nТамбовская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-28T21:06:07+00:00",
+    "expires_at": "2026-10-28T22:06:07+00:00",
     "count": null,
     "count_approx": false
   },
@@ -202,20 +152,20 @@
   "волгоградск": {
     "display_name": "Волгоградская область",
     "type": "drone",
-    "text": "Урюпинский район\nВолгоградская область\nФиксация БПЛА",
+    "text": "Нехаевский район\nВолгоградская область\nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-28T20:52:34+00:00",
-    "expires_at": "2026-10-28T21:52:34+00:00",
+    "updated_at": "2026-10-28T21:06:57+00:00",
+    "expires_at": "2026-10-28T22:06:57+00:00",
     "count": null,
     "count_approx": false
   },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Куйбышевский район\nКировский район\nКалужская область\nФиксации БПЛА",
+    "text": "Козельский район\nКалужская область\nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-28T20:59:52+00:00",
-    "expires_at": "2026-10-28T21:59:52+00:00",
+    "updated_at": "2026-10-28T21:14:04+00:00",
+    "expires_at": "2026-10-28T22:14:04+00:00",
     "count": null,
     "count_approx": false
   },
@@ -256,6 +206,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-28T20:49:16+00:00",
     "expires_at": "2026-10-28T21:49:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "ГО Домодедово\nМосковская область\nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-28T21:15:37+00:00",
+    "expires_at": "2026-10-28T22:15:37+00:00",
     "count": null,
     "count_approx": false
   }
