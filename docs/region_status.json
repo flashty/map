@@ -1,21 +1,11 @@
 {
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "БПЛА Дартс по трассе Погар Почеп. Почеп , Валуец , Семцы занять укрытия.\n\nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-28T11:19:32+00:00",
-    "expires_at": "2026-10-28T12:19:32+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Север Бердянска  \nТрасса Р-280 от Андреевки на\n юго-запад \nОпасность по БПЛА \n\nЗапорожская область РФ",
+    "text": "Юг\nМелитополь \nОпасность по БПЛА \nЗапорожская область РФ",
     "channel": "LPRalarm",
-    "updated_at": "2026-10-28T11:24:30+00:00",
-    "expires_at": "2026-10-28T12:24:30+00:00",
+    "updated_at": "2026-10-28T12:26:05+00:00",
+    "expires_at": "2026-10-28T13:26:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,6 +16,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-28T12:04:17+00:00",
     "expires_at": "2026-10-28T13:04:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-28T12:19:05+00:00",
+    "expires_at": "2026-10-28T13:19:05+00:00",
     "count": null,
     "count_approx": false
   }
