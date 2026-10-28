@@ -1,82 +1,5 @@
 [
   {
-    "id": "locatorru_92433_Геленджик",
-    "channel": "locatorru",
-    "date": "2026-10-26T17:24:38+00:00",
-    "text": "Темрюк, Анапа, Новороссийск, Геленджик, Абинск, Крымск, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Геленджик",
-    "region": "Краснодарский край",
-    "lat": 44.5609447,
-    "lon": 38.0766832
-  },
-  {
-    "id": "locatorru_92433_Абинск",
-    "channel": "locatorru",
-    "date": "2026-10-26T17:24:38+00:00",
-    "text": "Темрюк, Анапа, Новороссийск, Геленджик, Абинск, Крымск, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Абинск",
-    "region": "Краснодарский край",
-    "lat": 44.8649528,
-    "lon": 38.1578189
-  },
-  {
-    "id": "locatorru_92433_Крымск",
-    "channel": "locatorru",
-    "date": "2026-10-26T17:24:38+00:00",
-    "text": "Темрюк, Анапа, Новороссийск, Геленджик, Абинск, Крымск, Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Крымск",
-    "region": "Краснодарский край",
-    "lat": 44.9295889,
-    "lon": 37.9880177
-  },
-  {
-    "id": "vrv_radar_103079",
-    "channel": "vrv_radar",
-    "date": "2026-10-26T17:25:20+00:00",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_103080",
-    "channel": "vrv_radar",
-    "date": "2026-10-26T17:25:39+00:00",
-    "text": "Геленджик\nАнапа \nНовороссийск\nКраснодарский край\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_254090",
-    "channel": "LPRalarm",
-    "date": "2026-10-26T17:26:04+00:00",
-    "text": "Анапа и близлежащие \nОпасность по БПЛА с моря.\nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_254091_Темрюкский",
-    "channel": "LPRalarm",
-    "date": "2026-10-26T17:26:13+00:00",
-    "text": "Экстренная информация РСЧС: БЕСПИЛОТНАЯ ОПАСНОСТЬ на территории муниципальных образований: г. Геленджик, г.Анапа, г. Новороссийск, Абинский, Крымский, Темрюкский районы. 26.10.2026",
-    "type": "alert",
-    "location_name": "Темрюкский",
-    "region": null,
-    "lat": 45.4964119,
-    "lon": 37.3098799
-  },
-  {
     "id": "LPRalarm_254091_Геленджик",
     "channel": "LPRalarm",
     "date": "2026-10-26T17:26:13+00:00",
@@ -21996,6 +21919,83 @@
     "type": "missile",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_92637",
+    "channel": "locatorru",
+    "date": "2026-10-28T07:37:36+00:00",
+    "text": "Белгородская область - отбой ракетной опасности! \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254594",
+    "channel": "LPRalarm",
+    "date": "2026-10-28T07:42:35+00:00",
+    "text": "Курская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145556",
+    "channel": "kupolrussia",
+    "date": "2026-10-28T07:42:58+00:00",
+    "text": "Курская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254595",
+    "channel": "LPRalarm",
+    "date": "2026-10-28T07:43:53+00:00",
+    "text": "Белгородская область \nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254596",
+    "channel": "LPRalarm",
+    "date": "2026-10-28T07:43:57+00:00",
+    "text": "Красноармейск и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145557",
+    "channel": "kupolrussia",
+    "date": "2026-10-28T07:44:21+00:00",
+    "text": "Белгородская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145558",
+    "channel": "kupolrussia",
+    "date": "2026-10-28T07:44:26+00:00",
+    "text": "Красноармейск и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
