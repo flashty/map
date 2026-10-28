@@ -19,73 +19,23 @@
     "count": null,
     "count_approx": false
   },
-  "тверск": {
-    "display_name": "Тверская область",
-    "type": "drone",
-    "text": "Конаковский район\nКимрский район\nТверская область\nФиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-28T21:02:34+00:00",
-    "expires_at": "2026-10-28T22:02:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рыбновский район\nРязанская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-28T21:09:37+00:00",
-    "expires_at": "2026-10-28T22:09:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Тула\nТульская область\nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-28T21:39:12+00:00",
-    "expires_at": "2026-10-28T22:39:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Ржаксинский район\nТамбовская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-28T21:06:07+00:00",
-    "expires_at": "2026-10-28T22:06:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "волгоградск": {
-    "display_name": "Волгоградская область",
-    "type": "drone",
-    "text": "Нехаевский район\nВолгоградская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-28T21:06:57+00:00",
-    "expires_at": "2026-10-28T22:06:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "московск": {
-    "display_name": "Московской области",
+    "display_name": "Московская область",
     "type": "drone",
-    "text": "Свыше 150 БПЛА в направлении Московской области через Калужскую, Тульскую, Липецкую области.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-10-28T21:36:36+00:00",
-    "expires_at": "2026-10-28T22:36:36+00:00",
+    "text": "ГО Наро-Фоминск\nМосковская область\nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-28T22:10:38+00:00",
+    "expires_at": "2026-10-28T23:10:38+00:00",
     "count": null,
     "count_approx": false
   },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Орел и близлежащие \nТревога по БПЛА сохраняется \nОрловская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-28T22:01:30+00:00",
-    "expires_at": "2026-10-28T23:01:30+00:00",
+    "text": "Орловская область\nПо ранее указанным районам продолжаются фиксации групп БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-28T22:10:06+00:00",
+    "expires_at": "2026-10-28T23:10:06+00:00",
     "count": null,
     "count_approx": false
   },
@@ -102,10 +52,20 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Калуга\nКалужская область\nРабота ПВО по БПЛА",
+    "text": "Калуга\nКалужская область\nЕще фиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-28T21:59:19+00:00",
-    "expires_at": "2026-10-28T22:59:19+00:00",
+    "updated_at": "2026-10-28T22:13:59+00:00",
+    "expires_at": "2026-10-28T23:13:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Тула\nТульская область\nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-28T22:15:17+00:00",
+    "expires_at": "2026-10-28T23:15:17+00:00",
     "count": null,
     "count_approx": false
   }
