@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_254092_Одессы",
-    "channel": "LPRalarm",
-    "date": "2026-10-26T17:27:59+00:00",
-    "text": "Ещё пуски БПЛА от Одессы",
-    "type": "drone",
-    "location_name": "Одессы",
-    "region": null,
-    "lat": 48.7490351,
-    "lon": 44.5413187
-  },
-  {
-    "id": "kupolrussia_145133_Одессы",
-    "channel": "kupolrussia",
-    "date": "2026-10-26T17:28:02+00:00",
-    "text": "Ещё пуски БПЛА от Одессы",
-    "type": "drone",
-    "location_name": "Одессы",
-    "region": null,
-    "lat": 48.7490351,
-    "lon": 44.5413187
-  },
-  {
     "id": "LPRalarm_254093",
     "channel": "LPRalarm",
     "date": "2026-10-26T17:28:28+00:00",
@@ -21996,6 +21974,28 @@
     "type": "alert",
     "location_name": null,
     "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254602",
+    "channel": "LPRalarm",
+    "date": "2026-10-28T08:42:21+00:00",
+    "text": "Приморск\nИнзовка и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145564",
+    "channel": "kupolrussia",
+    "date": "2026-10-28T08:42:36+00:00",
+    "text": "Приморск\nИнзовка и близлежащие \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
