@@ -2,10 +2,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Трасса Погар Новые Ивайтёнки курсирует  Бпла Шарк !\nБрянская область",
+    "text": "Карачев и близлежащие \nБрянская область \nТревога по БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-28T21:24:10+00:00",
-    "expires_at": "2026-10-28T22:24:10+00:00",
+    "updated_at": "2026-10-28T21:34:43+00:00",
+    "expires_at": "2026-10-28T22:34:43+00:00",
     "count": null,
     "count_approx": false
   },
@@ -20,12 +20,12 @@
     "count_approx": false
   },
   "липецк": {
-    "display_name": "Липецкая область",
+    "display_name": "Липецкую области",
     "type": "drone",
-    "text": "Липецкий район\nЛипецкая область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-28T21:05:13+00:00",
-    "expires_at": "2026-10-28T22:05:13+00:00",
+    "text": "Свыше 150 БПЛА в направлении Московской области через Калужскую, Тульскую, Липецкую области.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-10-28T21:36:36+00:00",
+    "expires_at": "2026-10-28T22:36:36+00:00",
     "count": null,
     "count_approx": false
   },
@@ -61,21 +61,11 @@
   },
   "тульск": {
     "display_name": "Тульская область",
-    "type": "alert",
-    "text": "Алексин\nТульская область\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-28T21:08:03+00:00",
-    "expires_at": "2026-10-28T22:08:03+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "саратовск": {
-    "display_name": "Саратовская область",
     "type": "drone",
-    "text": "Саратовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-28T20:31:11+00:00",
-    "expires_at": "2026-10-28T21:31:11+00:00",
+    "text": "Тула\nТульская область\nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-28T21:39:12+00:00",
+    "expires_at": "2026-10-28T22:39:12+00:00",
     "count": null,
     "count_approx": false
   },
@@ -109,36 +99,6 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Жиздринский район\nЛюдиновский район\nХвастовичский район\nУльяновский район\nКозельский район\nКалужская область\nФиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-28T21:30:47+00:00",
-    "expires_at": "2026-10-28T22:30:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "drone",
-    "text": "Пензенская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-28T20:33:14+00:00",
-    "expires_at": "2026-10-28T21:33:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "черниговск": {
-    "display_name": "Черниговской области",
-    "type": "missile",
-    "text": "Брянская область\nКурская область\nАвиационная ракетная бомбовая опасность\n\nАвиация противника в Черниговской области",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-28T20:32:27+00:00",
-    "expires_at": "2026-10-28T21:32:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "нижегородск": {
     "display_name": "Нижегородская область",
     "type": "drone",
@@ -160,22 +120,32 @@
     "count_approx": false
   },
   "московск": {
-    "display_name": "Московская область",
+    "display_name": "Московской области",
     "type": "drone",
-    "text": "ГО Серпухов\nМосковская область\nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-28T21:27:22+00:00",
-    "expires_at": "2026-10-28T22:27:22+00:00",
+    "text": "Свыше 150 БПЛА в направлении Московской области через Калужскую, Тульскую, Липецкую области.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-10-28T21:36:36+00:00",
+    "expires_at": "2026-10-28T22:36:36+00:00",
     "count": null,
     "count_approx": false
   },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Сосково и близлежащие\nТревога по БПЛА\nОрловская область\nСоблюдайте меры безопасности",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-28T21:29:06+00:00",
-    "expires_at": "2026-10-28T22:29:06+00:00",
+    "text": "Орловский район\nМценский район\nЗалегощенский район\nОрловская область\nФиксации групп БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-28T21:37:02+00:00",
+    "expires_at": "2026-10-28T22:37:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "мордов": {
+    "display_name": "Республика Мордовия",
+    "type": "drone",
+    "text": "Республика Мордовия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-28T21:38:31+00:00",
+    "expires_at": "2026-10-28T22:38:31+00:00",
     "count": null,
     "count_approx": false
   }
