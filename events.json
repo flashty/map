@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_254521",
-    "channel": "LPRalarm",
-    "date": "2026-10-27T22:13:35+00:00",
-    "text": "Донецк, Старобешево и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_254522_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-10-27T22:21:25+00:00",
-    "text": "г. Белгород и Белгородский район тревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "kupolrussia_145487_Белгородский",
-    "channel": "kupolrussia",
-    "date": "2026-10-27T22:21:32+00:00",
-    "text": "г. Белгород и Белгородский район тревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "LPRalarm_254523_Яковлевский",
-    "channel": "LPRalarm",
-    "date": "2026-10-27T22:24:58+00:00",
-    "text": "Яковлевский район Белгородская область тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Яковлевский",
-    "region": "Белгородская область",
-    "lat": 50.7321022,
-    "lon": 36.2290154
-  },
-  {
-    "id": "kupolrussia_145488_Яковлевский",
-    "channel": "kupolrussia",
-    "date": "2026-10-27T22:25:07+00:00",
-    "text": "Яковлевский район Белгородская область тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Яковлевский",
-    "region": "Белгородская область",
-    "lat": 50.7321022,
-    "lon": 36.2290154
-  },
-  {
-    "id": "LPRalarm_254524",
-    "channel": "LPRalarm",
-    "date": "2026-10-27T22:49:50+00:00",
-    "text": "г. Брянск тревога по БПЛА. Меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_145489",
-    "channel": "kupolrussia",
-    "date": "2026-10-27T22:49:55+00:00",
-    "text": "г. Брянск тревога по БПЛА. Меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_254525_Советский",
-    "channel": "LPRalarm",
-    "date": "2026-10-27T22:55:15+00:00",
-    "text": "Советский район и близлежащие \nТревога по БПЛА \nБрянская область",
-    "type": "drone",
-    "location_name": "Советский",
-    "region": "Брянская область",
-    "lat": 52.7512957,
-    "lon": 32.2393222
-  },
-  {
-    "id": "kupolrussia_145490_Советский",
-    "channel": "kupolrussia",
-    "date": "2026-10-27T22:55:20+00:00",
-    "text": "Советский район и близлежащие \nТревога по БПЛА \nБрянская область",
-    "type": "drone",
-    "location_name": "Советский",
-    "region": "Брянская область",
-    "lat": 52.7512957,
-    "lon": 32.2393222
-  },
-  {
     "id": "LPRalarm_254526_Красненском",
     "channel": "LPRalarm",
     "date": "2026-10-27T22:55:38+00:00",
@@ -21998,5 +21899,104 @@
     "region": "Республика Башкортостан",
     "lat": 53.6194416,
     "lon": 55.9616172
+  },
+  {
+    "id": "locatorru_92771_Стерлитамак",
+    "channel": "locatorru",
+    "date": "2026-10-29T04:32:46+00:00",
+    "text": "Стерлитамак, соблюдаем меры безопасности! \n\n📡Локатор России - @locatorru",
+    "type": "alert",
+    "location_name": "Стерлитамак",
+    "region": null,
+    "lat": 53.6194416,
+    "lon": 55.9616172
+  },
+  {
+    "id": "vrv_radar_103746",
+    "channel": "vrv_radar",
+    "date": "2026-10-29T04:33:58+00:00",
+    "text": "Саратовская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_103747",
+    "channel": "vrv_radar",
+    "date": "2026-10-29T04:37:10+00:00",
+    "text": "Ульяновская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_92772",
+    "channel": "locatorru",
+    "date": "2026-10-29T04:40:58+00:00",
+    "text": "Республика Мордовия, Ульяновская область, Самарская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Мордовия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_103748_Гаврилов-Ямский",
+    "channel": "vrv_radar",
+    "date": "2026-10-29T04:43:36+00:00",
+    "text": "Гаврилов-Ямский район \nЯрославская область \nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Гаврилов-Ямский",
+    "region": "Ярославская область",
+    "lat": 57.3355619,
+    "lon": 40.0109369
+  },
+  {
+    "id": "vrv_radar_103749_Южский",
+    "channel": "vrv_radar",
+    "date": "2026-10-29T04:44:14+00:00",
+    "text": "Южский район \nИвановская область \nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Южский",
+    "region": "Ивановская область",
+    "lat": 56.5535263,
+    "lon": 42.0323628
+  },
+  {
+    "id": "kupolrussia_145817",
+    "channel": "kupolrussia",
+    "date": "2026-10-29T04:44:19+00:00",
+    "text": "Самарская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_254906",
+    "channel": "LPRalarm",
+    "date": "2026-10-29T04:44:24+00:00",
+    "text": "Самарская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_103750_Пижанский",
+    "channel": "vrv_radar",
+    "date": "2026-10-29T04:45:18+00:00",
+    "text": "Пижанский район \nКировская область \nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Пижанский",
+    "region": "Кировская область",
+    "lat": 57.3885085,
+    "lon": 48.4917172
   }
 ]
