@@ -1,49 +1,5 @@
 [
   {
-    "id": "locatorru_92616",
-    "channel": "locatorru",
-    "date": "2026-10-28T03:06:01+00:00",
-    "text": "Курская область, Орловская область, Тульская область, Воронежская область, Липецкая область, Тамбовская область - отбой ракетной опасности! \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_103345_Новомосковск",
-    "channel": "vrv_radar",
-    "date": "2026-10-28T03:07:49+00:00",
-    "text": "Новомосковск\nТульская область\nПродолжаются сбития БПЛА",
-    "type": "all_clear",
-    "location_name": "Новомосковск",
-    "region": "Тульская область",
-    "lat": 54.011013,
-    "lon": 38.290943
-  },
-  {
-    "id": "LPRalarm_254567",
-    "channel": "LPRalarm",
-    "date": "2026-10-28T03:08:18+00:00",
-    "text": "г. Брянск тревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_145532",
-    "channel": "kupolrussia",
-    "date": "2026-10-28T03:08:25+00:00",
-    "text": "г. Брянск тревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_254568",
     "channel": "LPRalarm",
     "date": "2026-10-28T03:10:47+00:00",
@@ -21996,6 +21952,50 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255009",
+    "channel": "LPRalarm",
+    "date": "2026-10-29T16:13:29+00:00",
+    "text": "Суземка и далее на северо-восток\nБрянская область\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145920",
+    "channel": "kupolrussia",
+    "date": "2026-10-29T16:13:38+00:00",
+    "text": "Суземка и далее на северо-восток\nБрянская область\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255010",
+    "channel": "LPRalarm",
+    "date": "2026-10-29T16:14:46+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nРостовская область\nКурская область и близлежащие\nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145921",
+    "channel": "kupolrussia",
+    "date": "2026-10-29T16:14:55+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nРостовская область\nКурская область и близлежащие\nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
