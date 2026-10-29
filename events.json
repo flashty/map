@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_254810",
-    "channel": "LPRalarm",
-    "date": "2026-10-28T20:03:26+00:00",
-    "text": "Ещё фиксации БПЛА от ГГ Брянской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_145751",
-    "channel": "kupolrussia",
-    "date": "2026-10-28T20:03:32+00:00",
-    "text": "Ещё фиксации БПЛА от ГГ Брянской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянской области",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_103475_Клин",
     "channel": "vrv_radar",
     "date": "2026-10-28T20:04:53+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Брянская область",
     "lat": 52.7512957,
     "lon": 32.2393222
+  },
+  {
+    "id": "locatorru_92897",
+    "channel": "locatorru",
+    "date": "2026-10-29T23:31:54+00:00",
+    "text": "Редкино, Конаково и близлежащие, Тверская область - опасность по БПЛА сохраняется. \nЕщё фиксации ударных БПЛА со стороны Московской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тверская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104049",
+    "channel": "vrv_radar",
+    "date": "2026-10-29T23:35:13+00:00",
+    "text": "Калуга \nКалужская область \nСбитие БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
   }
 ]
