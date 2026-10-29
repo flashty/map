@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_103342_Каменский",
-    "channel": "vrv_radar",
-    "date": "2026-10-28T03:01:52+00:00",
-    "text": "Чернский район\nКаменский район\nТёпло-Огарёвский район\nТульская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Каменский",
-    "region": "Тульская область",
-    "lat": 53.2109698,
-    "lon": 38.1162073
-  },
-  {
-    "id": "vrv_radar_103342_Тёпло-Огарёвский",
-    "channel": "vrv_radar",
-    "date": "2026-10-28T03:01:52+00:00",
-    "text": "Чернский район\nКаменский район\nТёпло-Огарёвский район\nТульская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Тёпло-Огарёвский",
-    "region": "Тульская область",
-    "lat": 53.5750341,
-    "lon": 37.6511876
-  },
-  {
-    "id": "vrv_radar_103343_Новомосковск",
-    "channel": "vrv_radar",
-    "date": "2026-10-28T03:02:14+00:00",
-    "text": "Новомосковск\nТульская область\nПродолжается работа ПВО\nМеры безопасности",
-    "type": "alert",
-    "location_name": "Новомосковск",
-    "region": "Тульская область",
-    "lat": 54.011013,
-    "lon": 38.290943
-  },
-  {
-    "id": "vrv_radar_103344_Новомосковск",
-    "channel": "vrv_radar",
-    "date": "2026-10-28T03:04:32+00:00",
-    "text": "Новомосковск\nТульская область\nЕщё сбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Новомосковск",
-    "region": "Тульская область",
-    "lat": 54.011013,
-    "lon": 38.290943
-  },
-  {
     "id": "locatorru_92616",
     "channel": "locatorru",
     "date": "2026-10-28T03:06:01+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145919",
+    "channel": "kupolrussia",
+    "date": "2026-10-29T15:46:20+00:00",
+    "text": "Донецк и близлежащие \nОпасность по БПЛА повторно \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_103825",
+    "channel": "vrv_radar",
+    "date": "2026-10-29T15:50:57+00:00",
+    "text": "Республика Башкортостан\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102539",
+    "channel": "radarrussiia",
+    "date": "2026-10-29T15:51:15+00:00",
+    "text": "Республика Башкортостан\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15577",
+    "channel": "radar_plus_bpla",
+    "date": "2026-10-29T15:53:20+00:00",
+    "text": "Республика Башкортостан \nЧелябинская область\nСвердловская область\n\nОтбой опасности БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Башкортостан",
     "lat": null,
     "lon": null
   }
