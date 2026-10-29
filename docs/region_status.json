@@ -1,1 +1,42 @@
-{}
+{
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Трубчевский район \nБрянская область \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-29T10:47:03+00:00",
+    "expires_at": "2026-10-29T11:47:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Курская область \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-29T10:55:30+00:00",
+    "expires_at": "2026-10-29T11:55:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Кировский район\nКалужская область\nФиксация БПЛА в вашем направлении",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-29T10:59:11+00:00",
+    "expires_at": "2026-10-29T11:59:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Борисовка\nБелгородская область \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-29T11:00:02+00:00",
+    "expires_at": "2026-10-29T12:00:02+00:00",
+    "count": null,
+    "count_approx": false
+  }
+}
