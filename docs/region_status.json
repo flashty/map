@@ -1,14 +1,4 @@
 {
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Рославльский район\nСмоленская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-29T06:56:44+00:00",
-    "expires_at": "2026-10-29T07:56:44+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "alert",
@@ -16,16 +6,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-29T07:13:46+00:00",
     "expires_at": "2026-10-29T08:13:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Димитров, Родинское и близлежащие \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-29T07:00:48+00:00",
-    "expires_at": "2026-10-29T08:00:48+00:00",
     "count": null,
     "count_approx": false
   },
