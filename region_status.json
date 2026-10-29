@@ -12,20 +12,10 @@
   "пермск": {
     "display_name": "Пермский край",
     "type": "drone",
-    "text": "Закамск, Култаево, г.Пермь, Березники, Губаха, Соликамск, Пермский край - опасность по ударным БПЛА. \n\n📡Локатор России - @locatorru",
+    "text": "Березники и близлежащие, Пермский край - внимание к возможному налёту БПЛА. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-10-29T04:08:09+00:00",
-    "expires_at": "2026-10-29T05:08:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "missile",
-    "text": "Гродовка  и ближайшее ДНР ракетная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-29T03:57:16+00:00",
-    "expires_at": "2026-10-29T04:57:16+00:00",
+    "updated_at": "2026-10-29T05:00:48+00:00",
+    "expires_at": "2026-10-29T06:00:48+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +86,36 @@
     "channel": "vrv_radar",
     "updated_at": "2026-10-29T04:45:18+00:00",
     "expires_at": "2026-10-29T05:45:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "марий": {
+    "display_name": "Республика Марий",
+    "type": "drone",
+    "text": "Моркинский район \nРеспублика Марий Эл \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-29T04:57:23+00:00",
+    "expires_at": "2026-10-29T05:57:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Республика Татарстан, республика Удмуртия \nОпасность по БПЛА сохраняется. Соблюдаем меры предосторожности",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-29T04:53:07+00:00",
+    "expires_at": "2026-10-29T05:53:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "чуваш": {
+    "display_name": "Республика Чувашия",
+    "type": "drone",
+    "text": "Ядринский район \nРеспублика Чувашия\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-29T04:58:08+00:00",
+    "expires_at": "2026-10-29T05:58:08+00:00",
     "count": null,
     "count_approx": false
   }
