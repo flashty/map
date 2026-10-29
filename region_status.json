@@ -1,24 +1,4 @@
 {
-  "пермск": {
-    "display_name": "Пермский край",
-    "type": "drone",
-    "text": "Губаха, Пермский край - опасность по БПЛА сохраняется. Продолжается налёт БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-29T06:39:46+00:00",
-    "expires_at": "2026-10-29T07:39:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "alert",
-    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-29T07:15:02+00:00",
-    "expires_at": "2026-10-29T08:15:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
@@ -56,6 +36,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-10-29T07:15:37+00:00",
     "expires_at": "2026-10-29T08:15:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Рн Приазовсокое - Владимировка Р-280 активность БПЛА  противника \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-29T07:43:27+00:00",
+    "expires_at": "2026-10-29T08:43:27+00:00",
     "count": null,
     "count_approx": false
   }
