@@ -29,36 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "ярославск": {
-    "display_name": "Ярославская область",
-    "type": "drone",
-    "text": "Брейтовский район \nПервомайский район \nЯрославская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-29T01:30:11+00:00",
-    "expires_at": "2026-10-29T02:30:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "самарск": {
-    "display_name": "Самарская область",
-    "type": "drone",
-    "text": "Сызранский район \nСамарская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-29T01:26:08+00:00",
-    "expires_at": "2026-10-29T02:26:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "владимирск": {
-    "display_name": "Владимирская область",
-    "type": "drone",
-    "text": "Ковровский район \nСобинский район \nВладимирская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-29T01:28:40+00:00",
-    "expires_at": "2026-10-29T02:28:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
@@ -106,6 +76,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-10-29T02:09:25+00:00",
     "expires_at": "2026-10-29T03:09:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Счастье и близлежащие \nТревога по БПЛА сохраняется \nИ далее в направлении Луганск \nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-29T02:30:18+00:00",
+    "expires_at": "2026-10-29T03:30:18+00:00",
     "count": null,
     "count_approx": false
   }
