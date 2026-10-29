@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_103337",
-    "channel": "vrv_radar",
-    "date": "2026-10-28T02:54:26+00:00",
-    "text": "Владимирская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Владимирская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_103338",
-    "channel": "vrv_radar",
-    "date": "2026-10-28T02:54:47+00:00",
-    "text": "Ивановская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ивановская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_103339_Никифоровский",
-    "channel": "vrv_radar",
-    "date": "2026-10-28T02:56:53+00:00",
-    "text": "Никифоровский район\nМичуринский район\nПервомайский район\nТамбовская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Никифоровский",
-    "region": "Тамбовская область",
-    "lat": 52.8625686,
-    "lon": 40.894064
-  },
-  {
-    "id": "vrv_radar_103339_Мичуринский",
-    "channel": "vrv_radar",
-    "date": "2026-10-28T02:56:53+00:00",
-    "text": "Никифоровский район\nМичуринский район\nПервомайский район\nТамбовская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Мичуринский",
-    "region": "Тамбовская область",
-    "lat": 52.9459943,
-    "lon": 40.2702736
-  },
-  {
     "id": "vrv_radar_103339_Первомайский",
     "channel": "vrv_radar",
     "date": "2026-10-28T02:56:53+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255002",
+    "channel": "LPRalarm",
+    "date": "2026-10-29T14:47:00+00:00",
+    "text": "Дебальцево и близлежайшие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145913",
+    "channel": "kupolrussia",
+    "date": "2026-10-29T14:47:51+00:00",
+    "text": "Дебальцево и близлежайшие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255003",
+    "channel": "LPRalarm",
+    "date": "2026-10-29T14:54:41+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_145914",
+    "channel": "kupolrussia",
+    "date": "2026-10-29T14:55:03+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
