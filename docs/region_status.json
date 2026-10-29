@@ -19,26 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "челябинск": {
-    "display_name": "Челябинская область",
-    "type": "drone",
-    "text": "Челябинская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-29T04:12:58+00:00",
-    "expires_at": "2026-10-29T05:12:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "удмурт": {
-    "display_name": "Республика Удмуртия",
-    "type": "drone",
-    "text": "Республика Удмуртия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-29T04:14:49+00:00",
-    "expires_at": "2026-10-29T05:14:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
@@ -79,26 +59,6 @@
     "count": null,
     "count_approx": false
   },
-  "кировск": {
-    "display_name": "Кировская область",
-    "type": "drone",
-    "text": "Пижанский район \nКировская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-29T04:45:18+00:00",
-    "expires_at": "2026-10-29T05:45:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "марий": {
-    "display_name": "Республика Марий",
-    "type": "drone",
-    "text": "Моркинский район \nРеспублика Марий Эл \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-29T04:57:23+00:00",
-    "expires_at": "2026-10-29T05:57:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
@@ -116,6 +76,36 @@
     "channel": "vrv_radar",
     "updated_at": "2026-10-29T04:58:08+00:00",
     "expires_at": "2026-10-29T05:58:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "костромск": {
+    "display_name": "Костромская область",
+    "type": "drone",
+    "text": "Костромская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-29T05:13:18+00:00",
+    "expires_at": "2026-10-29T06:13:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "харьковск": {
+    "display_name": "Харьковская область",
+    "type": "missile",
+    "text": "Харьковская область РФ \nЛДНР \nЗапорожская область РФ \nАвиационно ракетно бомбовая опасность",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-29T05:10:20+00:00",
+    "expires_at": "2026-10-29T06:10:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "missile",
+    "text": "Харьковская область РФ \nЛДНР \nЗапорожская область РФ \nАвиационно ракетно бомбовая опасность",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-29T05:10:20+00:00",
+    "expires_at": "2026-10-29T06:10:20+00:00",
     "count": null,
     "count_approx": false
   }
