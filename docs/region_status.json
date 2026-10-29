@@ -9,53 +9,43 @@
     "count": null,
     "count_approx": false
   },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Вяземский район \nСмоленская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-29T18:14:40+00:00",
-    "expires_at": "2026-10-29T19:14:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Думиничский район \nЛюдиновский район \nКалужская область \nФиксации БПЛА",
+    "text": "Сухиничский район \nКалужская область \nФиксации БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-29T18:15:30+00:00",
-    "expires_at": "2026-10-29T19:15:30+00:00",
+    "updated_at": "2026-10-29T18:28:29+00:00",
+    "expires_at": "2026-10-29T19:28:29+00:00",
     "count": null,
     "count_approx": false
   },
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Белокуракино, ЛНР - фиксации ударных БПЛА в направлении примерно Ровеньки, Белгородская область, далее на Кантемировка, Россошь, Воронежская область. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-29T17:31:21+00:00",
-    "expires_at": "2026-10-29T18:31:21+00:00",
+    "text": "Воронежская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-29T18:20:02+00:00",
+    "expires_at": "2026-10-29T19:20:02+00:00",
     "count": null,
     "count_approx": false
   },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Навля и близлежащие\nТревога по БПЛА\nБрянская область\nИ далее в тыл",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-29T18:13:21+00:00",
-    "expires_at": "2026-10-29T19:13:21+00:00",
+    "text": "Трубчевский район \nБрянская область \nТревога по БПЛА сохраняется",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-29T18:21:47+00:00",
+    "expires_at": "2026-10-29T19:21:47+00:00",
     "count": null,
     "count_approx": false
   },
   "орловск": {
-    "display_name": "Орловской области",
+    "display_name": "Орловская область",
     "type": "drone",
-    "text": "Фатеж\nИ близлежащие\nКурская область\nТревога по БПЛА от Курска\nИ далее в направлении\nОрловской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-29T18:12:45+00:00",
-    "expires_at": "2026-10-29T19:12:45+00:00",
+    "text": "Свердловский район \nОрловская область \nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-29T18:30:44+00:00",
+    "expires_at": "2026-10-29T19:30:44+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +86,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-29T18:05:38+00:00",
     "expires_at": "2026-10-29T19:05:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "drone",
+    "text": "Липецкая область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-29T18:27:33+00:00",
+    "expires_at": "2026-10-29T19:27:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Гагаринский район \nСмоленская область \nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-29T18:26:47+00:00",
+    "expires_at": "2026-10-29T19:26:47+00:00",
     "count": null,
     "count_approx": false
   }
