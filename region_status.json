@@ -1,14 +1,4 @@
 {
-  "ярославск": {
-    "display_name": "Ярославская область",
-    "type": "drone",
-    "text": "Гаврилов-Ямский район \nЯрославская область \nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-29T04:43:36+00:00",
-    "expires_at": "2026-10-29T05:43:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
@@ -29,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "костромск": {
-    "display_name": "Костромская область",
-    "type": "drone",
-    "text": "Костромская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-29T05:13:18+00:00",
-    "expires_at": "2026-10-29T06:13:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "харьковск": {
     "display_name": "Харьковская область",
     "type": "missile",
@@ -56,6 +36,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-29T05:10:20+00:00",
     "expires_at": "2026-10-29T06:10:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пермск": {
+    "display_name": "Пермский край",
+    "type": "drone",
+    "text": "Челва, Кизел и близлежащие, Пермский край - опасность по БПЛА и в направлении Губаха. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-29T05:42:43+00:00",
+    "expires_at": "2026-10-29T06:42:43+00:00",
     "count": null,
     "count_approx": false
   }
