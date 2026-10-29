@@ -1,24 +1,4 @@
 {
-  "курск": {
-    "display_name": "Курская область",
-    "type": "alert",
-    "text": "Курская область и близлежащие\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-29T07:13:46+00:00",
-    "expires_at": "2026-10-29T08:13:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Орловская область \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-29T07:15:37+00:00",
-    "expires_at": "2026-10-29T08:15:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -26,6 +6,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-29T07:43:27+00:00",
     "expires_at": "2026-10-29T08:43:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и возможным ФПВ с запада \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-29T08:12:15+00:00",
+    "expires_at": "2026-10-29T09:12:15+00:00",
     "count": null,
     "count_approx": false
   }
