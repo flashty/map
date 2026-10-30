@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_103726_Ясногорский",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T03:15:49+00:00",
-    "text": "Ясногорский район \nТульская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Ясногорский",
-    "region": "Тульская область",
-    "lat": 54.5814849,
-    "lon": 37.9205878
-  },
-  {
-    "id": "radar_plus_bpla_15560",
-    "channel": "radar_plus_bpla",
-    "date": "2026-10-29T03:16:01+00:00",
-    "text": "Оренбургская область - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Оренбургская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_103727_Жуковский",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T03:16:25+00:00",
-    "text": "Жуковский район \nКалужская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Жуковский",
-    "region": "Калужская область",
-    "lat": 55.0074689,
-    "lon": 36.8762225
-  },
-  {
     "id": "locatorru_92758_Бузулук",
     "channel": "locatorru",
     "date": "2026-10-29T03:16:48+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146198",
+    "channel": "kupolrussia",
+    "date": "2026-10-30T09:16:07+00:00",
+    "text": "Мы открыли наш канал КУПОЛ\nв МAX:\n\nmax.ru/channel_Kupol_Russia\n\nИ VK:\n\nhttps://vk.ru/kupolrussia\n\nНажимаем на канал, подписываемся, включаем звук и мониторим непосредственные угрозы.",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255319",
+    "channel": "LPRalarm",
+    "date": "2026-10-30T09:16:57+00:00",
+    "text": "Курская область \nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146199",
+    "channel": "kupolrussia",
+    "date": "2026-10-30T09:16:59+00:00",
+    "text": "Курская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }
