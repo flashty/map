@@ -1,104 +1,5 @@
 [
   {
-    "id": "vrv_radar_103488_Клин",
-    "channel": "vrv_radar",
-    "date": "2026-10-28T20:12:55+00:00",
-    "text": "ГО Клин\nМосковская область\nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Клин",
-    "region": "Московская область",
-    "lat": 56.3353282,
-    "lon": 36.7346463
-  },
-  {
-    "id": "locatorru_92710",
-    "channel": "locatorru",
-    "date": "2026-10-28T20:12:57+00:00",
-    "text": "Калужская область, Орловская область, Тульская область, Московская область - опасность по БПЛА сохраняется. Очень много БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_254814",
-    "channel": "LPRalarm",
-    "date": "2026-10-28T20:13:31+00:00",
-    "text": "Белгородская область \nКурская область \nОрловская область \nЕщё фиксации БПЛА \nМного\nПринять меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_254815",
-    "channel": "LPRalarm",
-    "date": "2026-10-28T20:14:54+00:00",
-    "text": "Борисоглебск и близлежащие\nТревога по БПЛА\nВоронежская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_103489_Калачеевский",
-    "channel": "vrv_radar",
-    "date": "2026-10-28T20:15:08+00:00",
-    "text": "Борисоглебск\nКалачеевский район\nВоронежская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Калачеевский",
-    "region": "Воронежская область",
-    "lat": 50.342392,
-    "lon": 41.155396
-  },
-  {
-    "id": "locatorru_92711_Калач",
-    "channel": "locatorru",
-    "date": "2026-10-28T20:15:11+00:00",
-    "text": "Калач, Борисоглебск, Воронежская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Калач",
-    "region": "Воронежская область",
-    "lat": 50.4259519,
-    "lon": 41.0161721
-  },
-  {
-    "id": "locatorru_92711_Борисоглебск",
-    "channel": "locatorru",
-    "date": "2026-10-28T20:15:11+00:00",
-    "text": "Калач, Борисоглебск, Воронежская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Борисоглебск",
-    "region": "Воронежская область",
-    "lat": 51.368015,
-    "lon": 42.075169
-  },
-  {
-    "id": "LPRalarm_254816_Калачеевский",
-    "channel": "LPRalarm",
-    "date": "2026-10-28T20:15:25+00:00",
-    "text": "Калачеевский район\nВоронежская область\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Калачеевский",
-    "region": "Воронежская область",
-    "lat": 50.342392,
-    "lon": 41.155396
-  },
-  {
-    "id": "radar_plus_bpla_15548",
-    "channel": "radar_plus_bpla",
-    "date": "2026-10-28T20:15:53+00:00",
-    "text": "На подлёте к Туле свыше 10 БПЛА.\n\nИдут сбития.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_254817",
     "channel": "LPRalarm",
     "date": "2026-10-28T20:16:15+00:00",
@@ -21996,6 +21897,105 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255209",
+    "channel": "LPRalarm",
+    "date": "2026-10-30T00:05:54+00:00",
+    "text": "Борисоглебск \nИ близлежащие \nТревога по БПЛА \nСохраняется \nВоронежская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146097",
+    "channel": "kupolrussia",
+    "date": "2026-10-30T00:06:00+00:00",
+    "text": "Борисоглебск \nИ близлежащие \nТревога по БПЛА \nСохраняется \nВоронежская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104065",
+    "channel": "vrv_radar",
+    "date": "2026-10-30T00:06:14+00:00",
+    "text": "Борисоглебск \nВоронежская область \nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_92905",
+    "channel": "locatorru",
+    "date": "2026-10-30T00:06:26+00:00",
+    "text": "Клинцы и близлежащие, Брянская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104066",
+    "channel": "vrv_radar",
+    "date": "2026-10-30T00:09:22+00:00",
+    "text": "МО Истра \nГО Клин \nГО Подольск \nГО Домодедово \nМосковская область \nМеры безопасности",
+    "type": "alert",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104067_Угличский",
+    "channel": "vrv_radar",
+    "date": "2026-10-30T00:09:55+00:00",
+    "text": "Угличский район \nЯрославская область \nФиксации БПЛА",
+    "type": "drone",
+    "location_name": "Угличский",
+    "region": "Ярославская область",
+    "lat": 57.2253218,
+    "lon": 38.2265618
+  },
+  {
+    "id": "locatorru_92906",
+    "channel": "locatorru",
+    "date": "2026-10-30T00:09:59+00:00",
+    "text": "северная часть Ростовской области, северная часть Волгоградской области - опасность по БПЛА сохраняется. Очень много БПЛА от ЛНР прошло и ещё идёт. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_92907",
+    "channel": "locatorru",
+    "date": "2026-10-30T00:12:25+00:00",
+    "text": "Саратовская область - внимание к массовому пролёту БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_92908",
+    "channel": "locatorru",
+    "date": "2026-10-30T00:12:46+00:00",
+    "text": "Пензенская область - внимание к массовому пролёту БПЛА от Саратовской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пензенская область",
     "lat": null,
     "lon": null
   }
