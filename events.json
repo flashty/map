@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_254930",
-    "channel": "LPRalarm",
-    "date": "2026-10-29T06:54:20+00:00",
-    "text": "Опасность БПЛА по трассе Р-280",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_145841",
-    "channel": "kupolrussia",
-    "date": "2026-10-29T06:54:47+00:00",
-    "text": "Опасность БПЛА по трассе Р-280",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_103786_Рославльский",
     "channel": "vrv_radar",
     "date": "2026-10-29T06:56:44+00:00",
@@ -21996,6 +21974,28 @@
     "type": "missile",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255389",
+    "channel": "LPRalarm",
+    "date": "2026-10-30T15:20:30+00:00",
+    "text": "Курская область \nИ близлежащие \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146261",
+    "channel": "kupolrussia",
+    "date": "2026-10-30T15:20:44+00:00",
+    "text": "Курская область \nИ близлежащие\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }
