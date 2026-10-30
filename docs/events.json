@@ -1,93 +1,5 @@
 [
   {
-    "id": "locatorru_92835_Бор",
-    "channel": "locatorru",
-    "date": "2026-10-29T17:11:19+00:00",
-    "text": "Хутор-Бор, Выгоничский район, Брянская область - возможно пролёты БПЛА в сторону Брянска.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Бор",
-    "region": "Брянская область",
-    "lat": 52.1422678,
-    "lon": 32.2987471
-  },
-  {
-    "id": "LPRalarm_255053",
-    "channel": "LPRalarm",
-    "date": "2026-10-29T17:11:24+00:00",
-    "text": "Тамбовская область\nсе ОТБОЙ\nРАКЕТНОЙ\nОПАСНОСТИ",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_103847",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T17:11:40+00:00",
-    "text": "Владимирская область \nИвановская область \nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Владимирская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_92836_Трубчевский",
-    "channel": "locatorru",
-    "date": "2026-10-29T17:11:45+00:00",
-    "text": "Городцы, Трубчевский район, Брянская область - опасность по БПЛА и в сторону Почеп, Выгоничи, Брянск. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Трубчевский",
-    "region": "Брянская область",
-    "lat": 52.5867776,
-    "lon": 33.7892267
-  },
-  {
-    "id": "locatorru_92836_Городцы",
-    "channel": "locatorru",
-    "date": "2026-10-29T17:11:45+00:00",
-    "text": "Городцы, Трубчевский район, Брянская область - опасность по БПЛА и в сторону Почеп, Выгоничи, Брянск. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Городцы",
-    "region": "Брянская область",
-    "lat": 52.5851798,
-    "lon": 33.8169325
-  },
-  {
-    "id": "vrv_radar_103848",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T17:12:19+00:00",
-    "text": "Нижегородская область \nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Нижегородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_92837_Высокое",
-    "channel": "locatorru",
-    "date": "2026-10-29T17:13:16+00:00",
-    "text": "Высокое, Долматово, Рюхово, Найтоповичи и близлежащие, Брянская область - опасность по БПЛА  и далее на север, северо-восток.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Высокое",
-    "region": "Брянская область",
-    "lat": 53.023911,
-    "lon": 32.726681
-  },
-  {
-    "id": "locatorru_92837_Долматово",
-    "channel": "locatorru",
-    "date": "2026-10-29T17:13:16+00:00",
-    "text": "Высокое, Долматово, Рюхово, Найтоповичи и близлежащие, Брянская область - опасность по БПЛА  и далее на север, северо-восток.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Долматово",
-    "region": "Брянская область",
-    "lat": 52.736866,
-    "lon": 32.932205
-  },
-  {
     "id": "locatorru_92837_Рюхово",
     "channel": "locatorru",
     "date": "2026-10-29T17:13:16+00:00",
@@ -21998,5 +21910,93 @@
     "region": "Орловская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_255505",
+    "channel": "LPRalarm",
+    "date": "2026-10-30T20:02:26+00:00",
+    "text": "Авдеевка и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146358",
+    "channel": "kupolrussia",
+    "date": "2026-10-30T20:02:31+00:00",
+    "text": "Авдеевка и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146359",
+    "channel": "kupolrussia",
+    "date": "2026-10-30T20:06:19+00:00",
+    "text": "Московская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255506",
+    "channel": "LPRalarm",
+    "date": "2026-10-30T20:06:26+00:00",
+    "text": "Московская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255507",
+    "channel": "LPRalarm",
+    "date": "2026-10-30T20:08:50+00:00",
+    "text": "Светлодолинское и близлежащие, тревога по БпЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146360",
+    "channel": "kupolrussia",
+    "date": "2026-10-30T20:08:54+00:00",
+    "text": "Светлодолинское и близлежащие, тревога по БпЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255508_Старый Оскол",
+    "channel": "LPRalarm",
+    "date": "2026-10-30T20:12:06+00:00",
+    "text": "Губкинский ГО Ивановка фиксация БПЛА на Старый Оскол",
+    "type": "drone",
+    "location_name": "Старый Оскол",
+    "region": null,
+    "lat": 51.298038,
+    "lon": 37.833202
+  },
+  {
+    "id": "kupolrussia_146361_Старый Оскол",
+    "channel": "kupolrussia",
+    "date": "2026-10-30T20:12:10+00:00",
+    "text": "Губкинский ГО Ивановка фиксация БПЛА на Старый Оскол",
+    "type": "drone",
+    "location_name": "Старый Оскол",
+    "region": null,
+    "lat": 51.298038,
+    "lon": 37.833202
   }
 ]
