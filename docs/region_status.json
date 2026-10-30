@@ -1,11 +1,11 @@
 {
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Донецк и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "type": "missile",
+    "text": "Соледар ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-30T13:03:38+00:00",
-    "expires_at": "2026-10-30T14:03:38+00:00",
+    "updated_at": "2026-10-30T13:21:25+00:00",
+    "expires_at": "2026-10-30T14:21:25+00:00",
     "count": null,
     "count_approx": false
   },
@@ -32,10 +32,10 @@
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
-    "text": "Рыльск, Льгов и близлежащие, Курская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "text": "Коренево и близлежащие, Курская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-10-30T12:52:25+00:00",
-    "expires_at": "2026-10-30T13:52:25+00:00",
+    "updated_at": "2026-10-30T13:17:59+00:00",
+    "expires_at": "2026-10-30T14:17:59+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +46,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-30T12:53:58+00:00",
     "expires_at": "2026-10-30T13:53:58+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Мелитополь и близлежащие\nОпасность по БПЛА Хорнет \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-30T13:24:39+00:00",
+    "expires_at": "2026-10-30T14:24:39+00:00",
     "count": null,
     "count_approx": false
   }
