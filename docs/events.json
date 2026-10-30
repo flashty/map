@@ -1,93 +1,5 @@
 [
   {
-    "id": "locatorru_92788_Губаха",
-    "channel": "locatorru",
-    "date": "2026-10-29T06:39:46+00:00",
-    "text": "Губаха, Пермский край - опасность по БПЛА сохраняется. Продолжается налёт БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Губаха",
-    "region": "Пермский край",
-    "lat": 58.842407,
-    "lon": 57.555058
-  },
-  {
-    "id": "kupolrussia_145839",
-    "channel": "kupolrussia",
-    "date": "2026-10-29T06:41:34+00:00",
-    "text": "Вологодская область \nЯрославская область\n3“ “\nок ОТБОЙ\nль ОПАСНОСТИ ПО БПЛА\n2.",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Вологодская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_254928",
-    "channel": "LPRalarm",
-    "date": "2026-10-29T06:41:37+00:00",
-    "text": "Вологодская область \nЯрославская область\n3“ “\nок ОТБОЙ\nль ОПАСНОСТИ ПО БПЛА\n2.",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Вологодская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_103783",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T06:42:31+00:00",
-    "text": "Вологодская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Вологодская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_103784",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T06:46:59+00:00",
-    "text": "Костромская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Костромская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_254929",
-    "channel": "LPRalarm",
-    "date": "2026-10-29T06:49:28+00:00",
-    "text": "Приазовское и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_145840",
-    "channel": "kupolrussia",
-    "date": "2026-10-29T06:49:35+00:00",
-    "text": "Приазовское и близлежащие \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_103785",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T06:51:39+00:00",
-    "text": "Ярославская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ярославская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_254930",
     "channel": "LPRalarm",
     "date": "2026-10-29T06:54:20+00:00",
@@ -21998,5 +21910,93 @@
     "region": null,
     "lat": 58.202844,
     "lon": 38.3386879
+  },
+  {
+    "id": "LPRalarm_255386",
+    "channel": "LPRalarm",
+    "date": "2026-10-30T15:06:02+00:00",
+    "text": "Через север ЛНР \nВ направлении Ростовской области \nТревога по Фламинго",
+    "type": "missile",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_93031",
+    "channel": "locatorru",
+    "date": "2026-10-30T15:10:06+00:00",
+    "text": "Ростовская область - отбой ракетной опасности! \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104260",
+    "channel": "vrv_radar",
+    "date": "2026-10-30T15:10:15+00:00",
+    "text": "Ростовская область \nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255387",
+    "channel": "LPRalarm",
+    "date": "2026-10-30T15:12:04+00:00",
+    "text": "Отбой ракетной опасности \nПо всем ранее объявленным",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146258",
+    "channel": "kupolrussia",
+    "date": "2026-10-30T15:12:17+00:00",
+    "text": "Через север ЛНР \nВ направлении Ростовской области \nТревога по Фламинго",
+    "type": "missile",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146259",
+    "channel": "kupolrussia",
+    "date": "2026-10-30T15:14:22+00:00",
+    "text": "Отбой ракетной опасности \nПо всем ранее объявленным",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255388",
+    "channel": "LPRalarm",
+    "date": "2026-10-30T15:15:01+00:00",
+    "text": "Возможны пуски фламинго через ЛНР",
+    "type": "missile",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146260",
+    "channel": "kupolrussia",
+    "date": "2026-10-30T15:15:34+00:00",
+    "text": "Возможны пуски фламинго через ЛНР",
+    "type": "missile",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
   }
 ]
