@@ -22,20 +22,10 @@
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
-    "text": "Ивнянский район, Белгородская область - опасность по БПЛА от Красная Яруга и в направлении Курской области. Продолжается пролёт БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-30T16:59:24+00:00",
-    "expires_at": "2026-10-30T17:59:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "сумск": {
-    "display_name": "Сумской области",
-    "type": "drone",
-    "text": "Фиксации ударных БПЛА со стороны Ахтырка, Сумской области в сторону Краснояружского и Грайворонского районов, Белгородской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-30T16:05:54+00:00",
-    "expires_at": "2026-10-30T17:05:54+00:00",
+    "text": "Белгородская область\nКурская область\n\nТревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-30T17:15:46+00:00",
+    "expires_at": "2026-10-30T18:15:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +36,46 @@
     "channel": "locatorru",
     "updated_at": "2026-10-30T16:55:29+00:00",
     "expires_at": "2026-10-30T17:55:29+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Запорожская область РФ \nТревога по БПЛА\nОт  Днепропетровской области",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-30T17:03:46+00:00",
+    "expires_at": "2026-10-30T18:03:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Белгородская область\nКурская область\n\nТревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-30T17:15:46+00:00",
+    "expires_at": "2026-10-30T18:15:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "ЛНР \nТревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-30T17:14:32+00:00",
+    "expires_at": "2026-10-30T18:14:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Орловская область \nТревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-30T17:15:49+00:00",
+    "expires_at": "2026-10-30T18:15:49+00:00",
     "count": null,
     "count_approx": false
   }
