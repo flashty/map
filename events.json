@@ -1,104 +1,5 @@
 [
   {
-    "id": "vrv_radar_103852",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T17:34:50+00:00",
-    "text": "Калуга \nКалужская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_145978",
-    "channel": "kupolrussia",
-    "date": "2026-10-29T17:35:20+00:00",
-    "text": "Калужская область\nСмоленская область\n\nПовторно\nи\n<\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255071",
-    "channel": "LPRalarm",
-    "date": "2026-10-29T17:35:27+00:00",
-    "text": "Калужская область\nСмоленская область\n\nПовторно\nи\n<\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_145980",
-    "channel": "kupolrussia",
-    "date": "2026-10-29T17:35:39+00:00",
-    "text": "Московская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255072",
-    "channel": "LPRalarm",
-    "date": "2026-10-29T17:35:42+00:00",
-    "text": "Московская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255073_Жуковка",
-    "channel": "LPRalarm",
-    "date": "2026-10-29T17:36:16+00:00",
-    "text": "Клетня и ближайшее \nТревога по БПЛА \nИ далее в направлении \nЖуковка\nБрянская область",
-    "type": "drone",
-    "location_name": "Жуковка",
-    "region": "Брянская область",
-    "lat": 53.5329608,
-    "lon": 33.7320863
-  },
-  {
-    "id": "LPRalarm_255074",
-    "channel": "LPRalarm",
-    "date": "2026-10-29T17:36:27+00:00",
-    "text": "Краснояружский район Белгородской области\nИ далее на Курскую область\nТревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_145981_Жуковка",
-    "channel": "kupolrussia",
-    "date": "2026-10-29T17:36:50+00:00",
-    "text": "Клетня и ближайшее \nТревога по БПЛА \nИ далее в направлении \nЖуковка\nБрянская область",
-    "type": "drone",
-    "location_name": "Жуковка",
-    "region": "Брянская область",
-    "lat": 53.5329608,
-    "lon": 33.7320863
-  },
-  {
-    "id": "vrv_radar_103853_Шаблыкинский",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T17:37:00+00:00",
-    "text": "Шаблыкинский район \nОрловская область \nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Шаблыкинский",
-    "region": "Орловская область",
-    "lat": 52.8579891,
-    "lon": 35.1025788
-  },
-  {
     "id": "kupolrussia_145982",
     "channel": "kupolrussia",
     "date": "2026-10-29T17:37:01+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104336_Таловский",
+    "channel": "vrv_radar",
+    "date": "2026-10-30T21:06:09+00:00",
+    "text": "Таловский район \nВоронежская область \nМеры безопасности",
+    "type": "alert",
+    "location_name": "Таловский",
+    "region": "Воронежская область",
+    "lat": 51.0034642,
+    "lon": 40.7453457
+  },
+  {
+    "id": "LPRalarm_255516",
+    "channel": "LPRalarm",
+    "date": "2026-10-30T21:07:44+00:00",
+    "text": "Белгород и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146369",
+    "channel": "kupolrussia",
+    "date": "2026-10-30T21:07:49+00:00",
+    "text": "Белгород и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255517_Обоянь",
+    "channel": "LPRalarm",
+    "date": "2026-10-30T21:08:49+00:00",
+    "text": "Обоянь, Пристень и близлежащие, тревога по БпЛА \nЕдиничные пролеты от Белгородской области",
+    "type": "drone",
+    "location_name": "Обоянь",
+    "region": null,
+    "lat": 51.211079,
+    "lon": 36.276245
+  },
+  {
+    "id": "kupolrussia_146370_Обоянь",
+    "channel": "kupolrussia",
+    "date": "2026-10-30T21:08:53+00:00",
+    "text": "Обоянь, Пристень и близлежащие, тревога по БпЛА \nЕдиничные пролеты от Белгородской области",
+    "type": "drone",
+    "location_name": "Обоянь",
+    "region": null,
+    "lat": 51.211079,
+    "lon": 36.276245
+  },
+  {
+    "id": "LPRalarm_255518",
+    "channel": "LPRalarm",
+    "date": "2026-10-30T21:12:41+00:00",
+    "text": "Грайворон и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146371",
+    "channel": "kupolrussia",
+    "date": "2026-10-30T21:12:45+00:00",
+    "text": "Грайворон и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104337",
+    "channel": "vrv_radar",
+    "date": "2026-10-30T21:15:47+00:00",
+    "text": "Ульяновская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ульяновская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15615",
+    "channel": "radar_plus_bpla",
+    "date": "2026-10-30T21:16:07+00:00",
+    "text": "Самарская область\nУльяновская область\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": "Самарская область",
     "lat": null,
     "lon": null
   }
