@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_103737_Стерлитамак",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T03:49:36+00:00",
-    "text": "Стерлитамак\nРеспублика Башкортостан\nФиксация БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Стерлитамак",
-    "region": "Республика Башкортостан",
-    "lat": 53.6194416,
-    "lon": 55.9616172
-  },
-  {
-    "id": "vrv_radar_103738",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T03:50:25+00:00",
-    "text": "Ростовская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_145812",
-    "channel": "kupolrussia",
-    "date": "2026-10-29T03:51:00+00:00",
-    "text": "Смоленская область\n3“ <\nо ОТБОЙ\n`` ОПАСНОСТИ ПО БПЛА\n2.",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_254900",
-    "channel": "LPRalarm",
-    "date": "2026-10-29T03:51:06+00:00",
-    "text": "Смоленская область\n3“ <\nо ОТБОЙ\n`` ОПАСНОСТИ ПО БПЛА\n2.",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_145813",
-    "channel": "kupolrussia",
-    "date": "2026-10-29T03:52:19+00:00",
-    "text": "Саратовская область\n3“ <\nо ОТБОЙ\n`` ОПАСНОСТИ ПО БПЛА\n2.",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_254901",
     "channel": "LPRalarm",
     "date": "2026-10-29T03:52:25+00:00",
@@ -21996,6 +21941,61 @@
     "type": "missile",
     "location_name": null,
     "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255332",
+    "channel": "LPRalarm",
+    "date": "2026-10-30T10:32:18+00:00",
+    "text": "Белгородская область \n❤️❤️❤️",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104254",
+    "channel": "vrv_radar",
+    "date": "2026-10-30T10:33:01+00:00",
+    "text": "Рязанская область\nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104255_Истра",
+    "channel": "vrv_radar",
+    "date": "2026-10-30T10:34:21+00:00",
+    "text": "МО Истра\nМосковская область\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": "Истра",
+    "region": "Московская область",
+    "lat": 55.9145993,
+    "lon": 36.8595482
+  },
+  {
+    "id": "LPRalarm_255333",
+    "channel": "LPRalarm",
+    "date": "2026-10-30T10:41:33+00:00",
+    "text": "Мелитопольский район \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146212",
+    "channel": "kupolrussia",
+    "date": "2026-10-30T10:41:59+00:00",
+    "text": "Мелитопольский район \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
