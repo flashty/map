@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_255197",
-    "channel": "LPRalarm",
-    "date": "2026-10-29T22:34:01+00:00",
-    "text": "Торез и близлежащие \nТревога по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146084_Бутурлиновский",
-    "channel": "kupolrussia",
-    "date": "2026-10-29T22:34:07+00:00",
-    "text": "Бутурлиновский район \nИ близлежащие \nТревога по БПЛА сохраняется \nВоронежская область",
-    "type": "drone",
-    "location_name": "Бутурлиновский",
-    "region": "Воронежская область",
-    "lat": 50.7920286,
-    "lon": 40.5642561
-  },
-  {
     "id": "kupolrussia_146085",
     "channel": "kupolrussia",
     "date": "2026-10-29T22:34:19+00:00",
@@ -21998,5 +21976,27 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_255632",
+    "channel": "LPRalarm",
+    "date": "2026-10-31T11:28:48+00:00",
+    "text": "Донецк ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146482_Донецк",
+    "channel": "kupolrussia",
+    "date": "2026-10-31T11:29:06+00:00",
+    "text": "Донецк\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": "Донецк",
+    "region": null,
+    "lat": 48.3382864,
+    "lon": 39.9509488
   }
 ]
