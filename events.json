@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_255348",
-    "channel": "LPRalarm",
-    "date": "2026-10-30T12:47:12+00:00",
-    "text": "ЛДНР\nХарьковская область РФ\nБелгородская область\nАвиационная ракетная бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Харьковская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146227",
-    "channel": "kupolrussia",
-    "date": "2026-10-30T12:47:19+00:00",
-    "text": "ЛДНР\nХарьковская область РФ\nБелгородская область\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Харьковская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255349",
-    "channel": "LPRalarm",
-    "date": "2026-10-30T12:49:31+00:00",
-    "text": "Погар опасность по БПЛА Дартс в районе Лобков\n\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146228",
-    "channel": "kupolrussia",
-    "date": "2026-10-30T12:49:43+00:00",
-    "text": "Погар опасность по БПЛА Дартс в районе Лобков\n\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255350",
-    "channel": "LPRalarm",
-    "date": "2026-10-30T12:50:09+00:00",
-    "text": "Ростовская область\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146229",
-    "channel": "kupolrussia",
-    "date": "2026-10-30T12:50:27+00:00",
-    "text": "Ростовская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255351",
-    "channel": "LPRalarm",
-    "date": "2026-10-30T12:51:28+00:00",
-    "text": "ЛДНР ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146230",
-    "channel": "kupolrussia",
-    "date": "2026-10-30T12:51:39+00:00",
-    "text": "ЛДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_93012_Рыльск",
-    "channel": "locatorru",
-    "date": "2026-10-30T12:52:25+00:00",
-    "text": "Рыльск, Льгов и близлежащие, Курская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Рыльск",
-    "region": "Курская область",
-    "lat": 51.570538,
-    "lon": 34.683506
-  },
-  {
     "id": "LPRalarm_255352",
     "channel": "LPRalarm",
     "date": "2026-10-30T12:53:39+00:00",
@@ -21998,5 +21899,104 @@
     "region": "Тульская область",
     "lat": 53.2109698,
     "lon": 38.1162073
+  },
+  {
+    "id": "vrv_radar_104607_Токаревский",
+    "channel": "vrv_radar",
+    "date": "2026-10-31T23:01:45+00:00",
+    "text": "Токаревский район\nТамбовская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Токаревский",
+    "region": "Тамбовская область",
+    "lat": 51.9969581,
+    "lon": 41.1765843
+  },
+  {
+    "id": "vrv_radar_104608",
+    "channel": "vrv_radar",
+    "date": "2026-10-31T23:01:54+00:00",
+    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104609_Котовск",
+    "channel": "vrv_radar",
+    "date": "2026-10-31T23:02:46+00:00",
+    "text": "Котовск\nТамбовская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Котовск",
+    "region": "Тамбовская область",
+    "lat": 52.5870419,
+    "lon": 41.4994249
+  },
+  {
+    "id": "LPRalarm_255814",
+    "channel": "LPRalarm",
+    "date": "2026-10-31T23:04:22+00:00",
+    "text": "Белгородская область \nКурская область \nОрловская область \nВоронежская область \nТревога по БПЛА сохраняется \nИ далее в тыловые регионы",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146640",
+    "channel": "kupolrussia",
+    "date": "2026-10-31T23:04:45+00:00",
+    "text": "Белгородская область \nКурская область \nОрловская область \nВоронежская область \nТревога по БПЛА сохраняется \nИ далее в тыловые регионы",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255815",
+    "channel": "LPRalarm",
+    "date": "2026-10-31T23:08:32+00:00",
+    "text": "От Строитель и далее на восток \nТревога по БПЛА сохраняется \nВ направлении Воронежской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146641",
+    "channel": "kupolrussia",
+    "date": "2026-10-31T23:08:52+00:00",
+    "text": "От Строитель и далее на восток \nТревога по БПЛА сохраняется \nВ направлении Воронежской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146642",
+    "channel": "kupolrussia",
+    "date": "2026-10-31T23:13:27+00:00",
+    "text": "Смоленская область \nСмоленск\nи\n<>\nРК",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255816",
+    "channel": "LPRalarm",
+    "date": "2026-10-31T23:13:33+00:00",
+    "text": "Смоленская область \nСмоленск\nи\n<>\nРК",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
   }
 ]
