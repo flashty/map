@@ -72,50 +72,10 @@
   "волгоградск": {
     "display_name": "Волгоградская область",
     "type": "drone",
-    "text": "Алексеевский район\nВолгоградская область\nФиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-31T22:05:16+00:00",
-    "expires_at": "2026-10-31T23:05:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "саратовск": {
-    "display_name": "Саратовская область",
-    "type": "drone",
-    "text": "Пензенская область\nСаратовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-31T22:14:22+00:00",
-    "expires_at": "2026-10-31T23:14:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "drone",
-    "text": "Пензенская область\nСаратовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-31T22:14:22+00:00",
-    "expires_at": "2026-10-31T23:14:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ладожск": {
-    "display_name": "Ладожская край",
-    "type": "drone",
-    "text": "Ладожская, Краснодарский край - пролёт БПЛА от Выселки в сторону примерно Армавир. \n\n📡Локатор России - @locatorru",
+    "text": "Дуплятский, Новониколаевский район, Волгоградская область - пролёт от 6 БПЛА в сторону Саратовской области. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-10-31T21:28:21+00:00",
-    "expires_at": "2026-10-31T22:28:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "Ульяновская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-31T21:55:58+00:00",
-    "expires_at": "2026-10-31T22:55:58+00:00",
+    "updated_at": "2026-10-31T22:28:18+00:00",
+    "expires_at": "2026-10-31T23:28:18+00:00",
     "count": null,
     "count_approx": false
   },
@@ -129,16 +89,6 @@
     "count": null,
     "count_approx": false
   },
-  "самарск": {
-    "display_name": "Самарская область",
-    "type": "missile",
-    "text": "Ульяновская область, Самарская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-31T21:47:56+00:00",
-    "expires_at": "2026-10-31T22:47:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "адыгея": {
     "display_name": "Республика Адыгея",
     "type": "drone",
@@ -146,16 +96,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-31T21:44:51+00:00",
     "expires_at": "2026-10-31T22:44:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "татарст": {
-    "display_name": "Республика Татарстан",
-    "type": "missile",
-    "text": "Чувашская Республика, Республика Татарстан - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-31T21:49:12+00:00",
-    "expires_at": "2026-10-31T22:49:12+00:00",
     "count": null,
     "count_approx": false
   },
@@ -169,46 +109,6 @@
     "count": null,
     "count_approx": false
   },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Токаревка, Тамбовская область - пролёт БПЛА примерно в сторону Тамбов, Котовск. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-31T22:07:32+00:00",
-    "expires_at": "2026-10-31T23:07:32+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "missile",
-    "text": "Липецк \nЛипецкая область \nМеры безопасности\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-31T21:59:54+00:00",
-    "expires_at": "2026-10-31T22:59:54+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "missile",
-    "text": "Воронежская область, Липецкая область, Тамбовская область, Тульская область - ракетная опасность, повторно! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-31T21:57:12+00:00",
-    "expires_at": "2026-10-31T22:57:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Кантемировский район \nВоронежская область \nТревога по БПЛА сохраняется \nИ далее в тыловые регионы",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-31T22:15:28+00:00",
-    "expires_at": "2026-10-31T23:15:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "-": {
     "display_name": "Республика -",
     "type": "missile",
@@ -216,16 +116,6 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-10-31T21:54:56+00:00",
     "expires_at": "2026-10-31T22:54:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "missile",
-    "text": "Рязанская область \nРакетная опасность",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-31T22:01:06+00:00",
-    "expires_at": "2026-10-31T23:01:06+00:00",
     "count": null,
     "count_approx": false
   },
@@ -342,10 +232,10 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "Московская область\nВНИМАНИЕ!!!\n——/^\\ — оБЪЯВЛЕН |\n^^ М желтый уровень\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-31T22:15:53+00:00",
-    "expires_at": "2026-10-31T23:15:53+00:00",
+    "text": "ГО Зарайск\nМосковская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-31T22:31:00+00:00",
+    "expires_at": "2026-10-31T23:31:00+00:00",
     "count": null,
     "count_approx": false
   },
@@ -366,6 +256,56 @@
     "channel": "vrv_radar",
     "updated_at": "2026-10-31T22:15:52+00:00",
     "expires_at": "2026-10-31T23:15:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область - в  г.Почепе и Почепском районе осуществлен дистанционный сброс взрывных устройств производства украинского террористического режима с помощью БПЛА самолётного типа. \n( г. Почеп - около  Почепского аграрного техникума  в районе 200-300 метров от стадиона, Чоповское поселение - н.п.",
+    "channel": "locatorru",
+    "updated_at": "2026-10-31T22:19:54+00:00",
+    "expires_at": "2026-10-31T23:19:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Архангельское\n Аннинский район в направлении Борисоглебск\nТревога по БПЛА \nВоронежская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-31T22:29:12+00:00",
+    "expires_at": "2026-10-31T23:29:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "саратовск": {
+    "display_name": "Саратовской области",
+    "type": "drone",
+    "text": "Дуплятский, Новониколаевский район, Волгоградская область - пролёт от 6 БПЛА в сторону Саратовской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-31T22:28:18+00:00",
+    "expires_at": "2026-10-31T23:28:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Милославский район\nСкопинский район\nРязанская область\nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-31T22:29:28+00:00",
+    "expires_at": "2026-10-31T23:29:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тамбовск": {
+    "display_name": "Тамбовская область",
+    "type": "drone",
+    "text": "Котовск и близлежащие, Тамбовская область - не попадите под атаку БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-31T22:29:29+00:00",
+    "expires_at": "2026-10-31T23:29:29+00:00",
     "count": null,
     "count_approx": false
   }
