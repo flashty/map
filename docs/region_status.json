@@ -1,14 +1,4 @@
 {
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Нововоронеж \nИ близлежащие \nТревога по БПЛА \nВоронежская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-31T15:09:46+00:00",
-    "expires_at": "2026-10-31T16:09:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
@@ -46,6 +36,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-31T15:17:20+00:00",
     "expires_at": "2026-10-31T16:17:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Антрацит\nРовеньки\nСвердловка\nКрасный луч \nИ близлежащие \nТревога по БПЛА \nЛНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-31T15:43:43+00:00",
+    "expires_at": "2026-10-31T16:43:43+00:00",
     "count": null,
     "count_approx": false
   }
