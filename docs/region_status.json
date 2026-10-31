@@ -1,14 +1,4 @@
 {
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Алексеевский район, Белгородская область - опасность по БПЛА и в направлении Воронежской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-31T14:55:51+00:00",
-    "expires_at": "2026-10-31T15:55:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
@@ -46,6 +36,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-10-31T15:43:43+00:00",
     "expires_at": "2026-10-31T16:43:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовской области",
+    "type": "drone",
+    "text": "Северная часть Ростовской области\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-31T16:00:05+00:00",
+    "expires_at": "2026-10-31T17:00:05+00:00",
     "count": null,
     "count_approx": false
   }
