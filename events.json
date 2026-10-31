@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_146085",
-    "channel": "kupolrussia",
-    "date": "2026-10-29T22:34:19+00:00",
-    "text": "Торез и близлежащие \nТревога по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_15596",
-    "channel": "radar_plus_bpla",
-    "date": "2026-10-29T22:35:52+00:00",
-    "text": "От 30 БПЛА через Калужскую и Тульскую области в направлении Московской области.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульскую области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_92882",
-    "channel": "locatorru",
-    "date": "2026-10-29T22:36:13+00:00",
-    "text": "Тамбовская область, Волгоградская область, Саратовская область, Пензенская область - опасность по БПЛА от Воронежской и Ростовской областей. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_92883_Богучарский",
-    "channel": "locatorru",
-    "date": "2026-10-29T22:36:43+00:00",
-    "text": "Белая Горка, Богучарский район, Воронежская область - пролёты БПЛА на восток, северо-восток. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Богучарский",
-    "region": "Воронежская область",
-    "lat": 50.4979916,
-    "lon": 39.6363652
-  },
-  {
-    "id": "locatorru_92883_Белая Горка",
-    "channel": "locatorru",
-    "date": "2026-10-29T22:36:43+00:00",
-    "text": "Белая Горка, Богучарский район, Воронежская область - пролёты БПЛА на восток, северо-восток. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Белая Горка",
-    "region": "Воронежская область",
-    "lat": 49.794281,
-    "lon": 40.943932
-  },
-  {
     "id": "vrv_radar_104020_Верхнемамонский",
     "channel": "vrv_radar",
     "date": "2026-10-29T22:36:58+00:00",
@@ -21998,5 +21943,60 @@
     "region": null,
     "lat": 48.3382864,
     "lon": 39.9509488
+  },
+  {
+    "id": "vrv_radar_104467",
+    "channel": "vrv_radar",
+    "date": "2026-10-31T11:32:09+00:00",
+    "text": "Рязанская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255633",
+    "channel": "LPRalarm",
+    "date": "2026-10-31T11:33:30+00:00",
+    "text": "Донецк отбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146483_Донецк",
+    "channel": "kupolrussia",
+    "date": "2026-10-31T11:33:43+00:00",
+    "text": "Донецк\nс ОТБОЙ\nРАКЕТНОЙ\nОПАСНОСТИ",
+    "type": "all_clear",
+    "location_name": "Донецк",
+    "region": null,
+    "lat": 48.3382864,
+    "lon": 39.9509488
+  },
+  {
+    "id": "LPRalarm_255634",
+    "channel": "LPRalarm",
+    "date": "2026-10-31T11:34:33+00:00",
+    "text": "Курская область и близлежащие \nАвиационная ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146484",
+    "channel": "kupolrussia",
+    "date": "2026-10-31T11:34:43+00:00",
+    "text": "Курская область и близлежащие\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
   }
 ]
