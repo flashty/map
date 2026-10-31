@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калужская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-10-31T04:20:38+00:00",
-    "expires_at": "2026-10-31T05:20:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
@@ -69,13 +59,23 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
+  "луганск": {
+    "display_name": "Луганская область",
     "type": "drone",
-    "text": "Обоянский район, Курский район, Курская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "text": "Старобельск \nСтаробельский район \nЛНР \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-31T05:11:54+00:00",
+    "expires_at": "2026-10-31T06:11:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "башкортост": {
+    "display_name": "Республика Башкортостан",
+    "type": "drone",
+    "text": "Благовещенск и близлежащие, Республика Башкортостан - опасность по БПЛА и в направлении г.Уфа. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-10-31T04:54:42+00:00",
-    "expires_at": "2026-10-31T05:54:42+00:00",
+    "updated_at": "2026-10-31T05:13:47+00:00",
+    "expires_at": "2026-10-31T06:13:47+00:00",
     "count": null,
     "count_approx": false
   }
