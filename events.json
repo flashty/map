@@ -1,16 +1,5 @@
 [
   {
-    "id": "vrv_radar_104013_Шуйский",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T22:18:28+00:00",
-    "text": "Шуйский район \nИвановская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Шуйский",
-    "region": "Ивановская область",
-    "lat": 56.8562777,
-    "lon": 41.5639921
-  },
-  {
     "id": "vrv_radar_104014",
     "channel": "vrv_radar",
     "date": "2026-10-29T22:19:37+00:00",
@@ -21993,6 +21982,17 @@
     "channel": "LPRalarm",
     "date": "2026-10-31T08:59:21+00:00",
     "text": "Шереметьево и близлежащие опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104463",
+    "channel": "vrv_radar",
+    "date": "2026-10-31T09:05:19+00:00",
+    "text": "АО Троицк \nМосква\nРабота ПВО по БПЛА",
     "type": "drone",
     "location_name": null,
     "region": null,
