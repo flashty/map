@@ -1,93 +1,5 @@
 [
   {
-    "id": "locatorru_92862_Венев",
-    "channel": "locatorru",
-    "date": "2026-10-29T21:40:22+00:00",
-    "text": "Алексин, Тула, Узловая, Щёкино, Киреевск, Новомосковск, Кимовск, Донской, Венев, Ясногорск и близлежащие, Тульская область - опасность по БПЛА с юга. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Венев",
-    "region": "Тульская область",
-    "lat": 54.3504,
-    "lon": 38.2656
-  },
-  {
-    "id": "kupolrussia_146057",
-    "channel": "kupolrussia",
-    "date": "2026-10-29T21:40:28+00:00",
-    "text": "Чернянский МО \nИ близлежащие \nТревога по БПЛА сохраняется \nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255165",
-    "channel": "LPRalarm",
-    "date": "2026-10-29T21:41:04+00:00",
-    "text": "Каменск-Шахтинский, Морозовск, и близлежащие по пути следования опасность по БПЛА \nИ далее на Волгоградскую область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Волгоградскую область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146058",
-    "channel": "kupolrussia",
-    "date": "2026-10-29T21:41:09+00:00",
-    "text": "Каменск-Шахтинский, Морозовск, и близлежащие по пути следования опасность по БПЛА \nИ далее на Волгоградскую область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Волгоградскую область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_103994_Переславский",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T21:41:33+00:00",
-    "text": "Переславский район \nРостовский район\nЯрославская область \nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Переславский",
-    "region": "Ярославская область",
-    "lat": 56.8020836,
-    "lon": 38.6489913
-  },
-  {
-    "id": "vrv_radar_103994_Ростовский",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T21:41:33+00:00",
-    "text": "Переславский район \nРостовский район\nЯрославская область \nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Ростовский",
-    "region": "Ярославская область",
-    "lat": 57.1846448,
-    "lon": 39.4163181
-  },
-  {
-    "id": "locatorru_92863",
-    "channel": "locatorru",
-    "date": "2026-10-29T21:41:38+00:00",
-    "text": "Ростовская область - опасность по БПЛА по северу. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255166",
-    "channel": "LPRalarm",
-    "date": "2026-10-29T21:41:39+00:00",
-    "text": "Трасса Петровка — Луганск  над трассой группа БПЛА \nЛНР\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_146059",
     "channel": "kupolrussia",
     "date": "2026-10-29T21:41:58+00:00",
@@ -21996,6 +21908,94 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104436",
+    "channel": "vrv_radar",
+    "date": "2026-10-31T06:01:47+00:00",
+    "text": "Рязанская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_93159_Уфа",
+    "channel": "locatorru",
+    "date": "2026-10-31T06:06:13+00:00",
+    "text": "Северная часть г.Уфа, НПЗ - продолжаются фиксации и сбития. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": "Уфа",
+    "region": null,
+    "lat": 54.7261409,
+    "lon": 55.947499
+  },
+  {
+    "id": "vrv_radar_104437_Кушнаренковский",
+    "channel": "vrv_radar",
+    "date": "2026-10-31T06:07:53+00:00",
+    "text": "Кушнаренковский район \nРеспублика Башкортостан \nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": "Кушнаренковский",
+    "region": "Республика Башкортостан",
+    "lat": 55.1239477,
+    "lon": 55.3846558
+  },
+  {
+    "id": "LPRalarm_255587",
+    "channel": "LPRalarm",
+    "date": "2026-10-31T06:08:27+00:00",
+    "text": "Дорогие друзья!\n\nОгромное Вам спасибо за поддержку нашей деятельности по оповещению\n❤️❤️❤️\n\nhttps://pay.cloudtips.ru/p/f2a9c1d8",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104438",
+    "channel": "vrv_radar",
+    "date": "2026-10-31T06:08:44+00:00",
+    "text": "Республика Удмуртия\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Удмуртия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_93160",
+    "channel": "locatorru",
+    "date": "2026-10-31T06:09:40+00:00",
+    "text": "Со стороны Благовещенска ещё ударные БПЛА в сторону НПЗ, Уфа. Внимание! \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146440",
+    "channel": "kupolrussia",
+    "date": "2026-10-31T06:14:45+00:00",
+    "text": "Свердловская область\n3“ “\nок ОТБОЙ\nль ОПАСНОСТИ ПО БПЛА\n2.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Свердловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255588",
+    "channel": "LPRalarm",
+    "date": "2026-10-31T06:14:48+00:00",
+    "text": "Свердловская область\n3“ “\nок ОТБОЙ\nль ОПАСНОСТИ ПО БПЛА\n2.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Свердловская область",
     "lat": null,
     "lon": null
   }
