@@ -31,11 +31,11 @@
   },
   "ростовск": {
     "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Лисичанск \nЛуганская область \nФиксации групп БПЛА в направлении Донецк, Ростовская область",
+    "type": "alert",
+    "text": "Каменск-Шахтинский \nРостовская область \nМеры безопасности",
     "channel": "vrv_radar",
-    "updated_at": "2026-10-31T00:08:23+00:00",
-    "expires_at": "2026-10-31T01:08:23+00:00",
+    "updated_at": "2026-10-31T00:39:19+00:00",
+    "expires_at": "2026-10-31T01:39:19+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +66,46 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-31T00:24:30+00:00",
     "expires_at": "2026-10-31T01:24:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "-": {
+    "display_name": "Республика -",
+    "type": "drone",
+    "text": "Удмуртская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-10-31T00:39:09+00:00",
+    "expires_at": "2026-10-31T01:39:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "опаснос": {
+    "display_name": "Республика \nОпасность",
+    "type": "drone",
+    "text": "Удмуртская Республика \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-31T00:39:37+00:00",
+    "expires_at": "2026-10-31T01:39:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "удмурт": {
+    "display_name": "Республика Удмуртия",
+    "type": "drone",
+    "text": "Республика Удмуртия \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-31T00:40:53+00:00",
+    "expires_at": "2026-10-31T01:40:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пензенск": {
+    "display_name": "Пензенская область",
+    "type": "drone",
+    "text": "Кузнецкий район\nПензенская область\nЕщё фиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-31T00:44:41+00:00",
+    "expires_at": "2026-10-31T01:44:41+00:00",
     "count": null,
     "count_approx": false
   }
