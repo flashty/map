@@ -1,14 +1,4 @@
 {
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязанская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-31T11:32:09+00:00",
-    "expires_at": "2026-10-31T12:32:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "alert",
@@ -16,6 +6,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-31T11:34:43+00:00",
     "expires_at": "2026-10-31T12:34:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "alert",
+    "text": "МО Раменское\nГО Жуковский\nМосковская область\nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-31T11:56:52+00:00",
+    "expires_at": "2026-10-31T12:56:52+00:00",
     "count": null,
     "count_approx": false
   }
