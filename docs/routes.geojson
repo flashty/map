@@ -1,35 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-10-31T05:19:42+00:00",
-        "last_updated": "2026-10-31T05:47:32+00:00",
-        "path_labels": [
-          "Уфа",
-          "Турбаслы (Республика Башкортостан)",
-          "Уфа (Республика Башкортостан)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.947499,
-            54.7261409
-          ],
-          [
-            56.306461,
-            54.654308
-          ],
-          [
-            55.947499,
-            54.7261409
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }

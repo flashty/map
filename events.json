@@ -1,49 +1,5 @@
 [
   {
-    "id": "radarrussiia_102565",
-    "channel": "radarrussiia",
-    "date": "2026-10-29T21:49:14+00:00",
-    "text": "Саратовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255173_Тарасовский",
-    "channel": "LPRalarm",
-    "date": "2026-10-29T21:49:30+00:00",
-    "text": "Чертковский Миллеровский, Тарасовский район Ростовская область \nТревога по БПЛА от ЛНР",
-    "type": "drone",
-    "location_name": "Тарасовский",
-    "region": "Ростовская область",
-    "lat": 48.727145,
-    "lon": 40.3554416
-  },
-  {
-    "id": "vrv_radar_104002_Пеновский",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T21:49:53+00:00",
-    "text": "Пеновский район \nТверская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Пеновский",
-    "region": "Тверская область",
-    "lat": 56.9423555,
-    "lon": 32.4520288
-  },
-  {
-    "id": "locatorru_92867",
-    "channel": "locatorru",
-    "date": "2026-10-29T21:50:15+00:00",
-    "text": "Воронежская область - опасность по БПЛА сохраняется.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_255174",
     "channel": "LPRalarm",
     "date": "2026-10-29T21:50:15+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Рязанская область",
     "lat": 53.9730891,
     "lon": 40.0359164
+  },
+  {
+    "id": "LPRalarm_255596",
+    "channel": "LPRalarm",
+    "date": "2026-10-31T06:55:18+00:00",
+    "text": "Шебекино\nНовая Таволжанка и близлежащие \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146450",
+    "channel": "kupolrussia",
+    "date": "2026-10-31T06:55:33+00:00",
+    "text": "Шебекино\nНовая Таволжанка и близлежащие",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_93164",
+    "channel": "locatorru",
+    "date": "2026-10-31T06:55:50+00:00",
+    "text": "Пермский край, Оренбургская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Пермский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104450",
+    "channel": "vrv_radar",
+    "date": "2026-10-31T06:59:06+00:00",
+    "text": "Оренбургская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Оренбургская область",
+    "lat": null,
+    "lon": null
   }
 ]
