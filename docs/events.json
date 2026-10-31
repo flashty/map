@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_146015_Киров",
-    "channel": "kupolrussia",
-    "date": "2026-10-29T19:41:02+00:00",
-    "text": "Киров \nКалужская область\nи\n<\nРК",
-    "type": "unknown",
-    "location_name": "Киров",
-    "region": "Калужская область",
-    "lat": 54.0742905,
-    "lon": 34.3025979
-  },
-  {
-    "id": "LPRalarm_255108_Киров",
-    "channel": "LPRalarm",
-    "date": "2026-10-29T19:41:05+00:00",
-    "text": "Киров \nКалужская область\nи\n<\nРК",
-    "type": "unknown",
-    "location_name": "Киров",
-    "region": "Калужская область",
-    "lat": 54.0742905,
-    "lon": 34.3025979
-  },
-  {
-    "id": "vrv_radar_103914",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T19:41:54+00:00",
-    "text": "Тверская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тверская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_102554",
-    "channel": "radarrussiia",
-    "date": "2026-10-29T19:42:06+00:00",
-    "text": "Тверская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тверская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255109_Прохоровский",
-    "channel": "LPRalarm",
-    "date": "2026-10-29T19:43:34+00:00",
-    "text": "Беленихино, Прохоровский район \nИ далее в направлении \nПрохоровка\nТревога по БПЛА \nБелгородская область",
-    "type": "drone",
-    "location_name": "Прохоровский",
-    "region": "Белгородская область",
-    "lat": 51.1537288,
-    "lon": 37.0023244
-  },
-  {
     "id": "LPRalarm_255109_Беленихино",
     "channel": "LPRalarm",
     "date": "2026-10-29T19:43:34+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Воронежская область",
     "lat": 50.8584609,
     "lon": 39.0772421
+  },
+  {
+    "id": "LPRalarm_255548",
+    "channel": "LPRalarm",
+    "date": "2026-10-31T02:19:32+00:00",
+    "text": "Ростовская область, опасность по БпЛА\nТак же сохраняется ракетная опаснрсть",
+    "type": "missile",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146401",
+    "channel": "kupolrussia",
+    "date": "2026-10-31T02:19:44+00:00",
+    "text": "Ростовская область, опасность по БпЛА\nТак же сохраняется ракетная опаснрсть",
+    "type": "missile",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_93117",
+    "channel": "locatorru",
+    "date": "2026-10-31T02:20:57+00:00",
+    "text": "В направлении Алексеевского района, Белгородской области группа БПЛА от Волоконовского района.\n\nВоронежская область - опасность по БПЛА сохраняется.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_93118",
+    "channel": "locatorru",
+    "date": "2026-10-31T02:21:20+00:00",
+    "text": "Ещё волна БПЛА идёт над ЛНР в направлении Ростовской области.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104391",
+    "channel": "vrv_radar",
+    "date": "2026-10-31T02:24:10+00:00",
+    "text": "Каменск-Шахтинский \nРостовская область \nРеактивная цель в вашем направлении от ЛНР",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
   }
 ]
