@@ -1,137 +1,5 @@
 [
   {
-    "id": "vrv_radar_103982_Захаровский",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T21:07:11+00:00",
-    "text": "Рыбновский район \nЗахаровский район \nРязанская область \nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Захаровский",
-    "region": "Рязанская область",
-    "lat": 54.7872539,
-    "lon": 41.9312913
-  },
-  {
-    "id": "vrv_radar_103983",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T21:07:21+00:00",
-    "text": "Вологодская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Вологодская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255154_Обоянский",
-    "channel": "LPRalarm",
-    "date": "2026-10-29T21:07:22+00:00",
-    "text": "Обоянский район \nИ близлежащие \nТревога по БПЛА \nКурская область",
-    "type": "drone",
-    "location_name": "Обоянский",
-    "region": "Курская область",
-    "lat": 51.2346254,
-    "lon": 36.0784146
-  },
-  {
-    "id": "vrv_radar_103984_Рыбновский",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T21:07:30+00:00",
-    "text": "Рыбновский район \nРязанская область \nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Рыбновский",
-    "region": "Рязанская область",
-    "lat": 54.730757,
-    "lon": 39.5056425
-  },
-  {
-    "id": "radarrussiia_102562",
-    "channel": "radarrussiia",
-    "date": "2026-10-29T21:08:05+00:00",
-    "text": "Вологодская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": null,
-    "region": "Вологодская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146051_Обоянский",
-    "channel": "kupolrussia",
-    "date": "2026-10-29T21:08:25+00:00",
-    "text": "Обоянский район \nИ близлежащие \nТревога по БПЛА \nКурская область",
-    "type": "drone",
-    "location_name": "Обоянский",
-    "region": "Курская область",
-    "lat": 51.2346254,
-    "lon": 36.0784146
-  },
-  {
-    "id": "radarrussiia_102563",
-    "channel": "radarrussiia",
-    "date": "2026-10-29T21:08:29+00:00",
-    "text": "Ростовская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255155_Миллеровский",
-    "channel": "LPRalarm",
-    "date": "2026-10-29T21:09:16+00:00",
-    "text": "Миллерово \nМиллеровский район \nИ близлежащие \nТревога по БПЛА \nРостовская область",
-    "type": "drone",
-    "location_name": "Миллеровский",
-    "region": "Ростовская область",
-    "lat": 49.0249872,
-    "lon": 40.2651861
-  },
-  {
-    "id": "kupolrussia_146052_Миллеровский",
-    "channel": "kupolrussia",
-    "date": "2026-10-29T21:09:22+00:00",
-    "text": "Миллерово \nМиллеровский район \nИ близлежащие \nТревога по БПЛА \nРостовская область",
-    "type": "drone",
-    "location_name": "Миллеровский",
-    "region": "Ростовская область",
-    "lat": 49.0249872,
-    "lon": 40.2651861
-  },
-  {
-    "id": "vrv_radar_103985_Рамешковский",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T21:10:25+00:00",
-    "text": "Рамешковский район \nТверская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Рамешковский",
-    "region": "Тверская область",
-    "lat": 57.2569568,
-    "lon": 36.2596519
-  },
-  {
-    "id": "vrv_radar_103986_Рыбновский",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T21:10:58+00:00",
-    "text": "Рыбновский район \nРязанская область \nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Рыбновский",
-    "region": "Рязанская область",
-    "lat": 54.730757,
-    "lon": 39.5056425
-  },
-  {
-    "id": "LPRalarm_255156",
-    "channel": "LPRalarm",
-    "date": "2026-10-29T21:11:29+00:00",
-    "text": "Пуски БПЛА из Харьковской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Харьковской области",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_255157",
     "channel": "LPRalarm",
     "date": "2026-10-29T21:12:30+00:00",
@@ -21998,5 +21866,137 @@
     "region": "Нижегородская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_255578",
+    "channel": "LPRalarm",
+    "date": "2026-10-31T04:46:17+00:00",
+    "text": "Орловская \nКурская \nБелгородская области \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146430",
+    "channel": "kupolrussia",
+    "date": "2026-10-31T04:46:27+00:00",
+    "text": "Орловская \nКурская \nБелгородская области \nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_93147",
+    "channel": "locatorru",
+    "date": "2026-10-31T04:46:34+00:00",
+    "text": "Нижегородская область - опасность по БПЛА от Рязанской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146431",
+    "channel": "kupolrussia",
+    "date": "2026-10-31T04:47:38+00:00",
+    "text": "Нижегородская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255579",
+    "channel": "LPRalarm",
+    "date": "2026-10-31T04:47:41+00:00",
+    "text": "Нижегородская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_93148",
+    "channel": "locatorru",
+    "date": "2026-10-31T04:48:53+00:00",
+    "text": "Белгородская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15621",
+    "channel": "radar_plus_bpla",
+    "date": "2026-10-31T04:51:31+00:00",
+    "text": "Отбой опасности БПЛА по всем ранее объявленным регионам.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255580",
+    "channel": "LPRalarm",
+    "date": "2026-10-31T04:52:08+00:00",
+    "text": "Обоянский район \nКурской области \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146432",
+    "channel": "kupolrussia",
+    "date": "2026-10-31T04:52:15+00:00",
+    "text": "Обоянский район \nКурской области \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104427",
+    "channel": "vrv_radar",
+    "date": "2026-10-31T04:53:21+00:00",
+    "text": "Владимирская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Владимирская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_93149_Обоянский",
+    "channel": "locatorru",
+    "date": "2026-10-31T04:54:42+00:00",
+    "text": "Обоянский район, Курский район, Курская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Обоянский",
+    "region": "Курская область",
+    "lat": 51.2346254,
+    "lon": 36.0784146
+  },
+  {
+    "id": "locatorru_93149_Курский",
+    "channel": "locatorru",
+    "date": "2026-10-31T04:54:42+00:00",
+    "text": "Обоянский район, Курский район, Курская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Курский",
+    "region": "Курская область",
+    "lat": 51.7353992,
+    "lon": 36.1764747
   }
 ]
