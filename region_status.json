@@ -28,5 +28,25 @@
     "expires_at": "2026-10-31T18:00:23+00:00",
     "count": null,
     "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Мариуполь\nДНР\nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-31T17:31:12+00:00",
+    "expires_at": "2026-10-31T18:31:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калужская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-10-31T17:30:31+00:00",
+    "expires_at": "2026-10-31T18:30:31+00:00",
+    "count": null,
+    "count_approx": false
   }
 }

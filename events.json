@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_104050",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T23:36:12+00:00",
-    "text": "МО Истра \nМосковская область \nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_92898",
-    "channel": "locatorru",
-    "date": "2026-10-29T23:36:15+00:00",
-    "text": "Шаховская, Волоколамск, Ярополец, Руза, Клин, Солнечногорск, Московская область - опасность по БПЛА сохраняется. \n\nЕщё фиксации ударных БПЛА от Карманово, Тверская область.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_104051",
-    "channel": "vrv_radar",
-    "date": "2026-10-29T23:36:19+00:00",
-    "text": "Алексин \nТульская область \nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_92899",
-    "channel": "locatorru",
-    "date": "2026-10-29T23:38:56+00:00",
-    "text": "Кубинка, Тучково, Серпухов, Пущино, Ступино, Озёры, Коломна, Михнево, Чехов, Барыбино, Белые Столбы, Львовский, Климовск, Коледино, Домодедово, Бронницы и близлежащие населенные пункты, Московская область - опасность по БПЛА. \n\nВ вашу сторону идут ударные БПЛА от Тульской и Калужской областей. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_104052_Алексеевский",
     "channel": "vrv_radar",
     "date": "2026-10-29T23:40:29+00:00",
@@ -21996,6 +21952,50 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Белгородской областей",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255666",
+    "channel": "LPRalarm",
+    "date": "2026-10-31T17:27:03+00:00",
+    "text": "Мариуполь\nДНР\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104486",
+    "channel": "vrv_radar",
+    "date": "2026-10-31T17:30:31+00:00",
+    "text": "Калужская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255667",
+    "channel": "LPRalarm",
+    "date": "2026-10-31T17:30:58+00:00",
+    "text": "Херсонская область РФ \n❤️❤️❤️",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146515",
+    "channel": "kupolrussia",
+    "date": "2026-10-31T17:31:12+00:00",
+    "text": "Мариуполь\nДНР\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
