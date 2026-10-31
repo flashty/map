@@ -12,40 +12,30 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Авдеевка, Донецк и близлежащие \nОпасность по БПЛА сохраняется, ещё фиксации \nДНР",
+    "text": "Старобешево, Моспино и близлежащие \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-31T19:10:22+00:00",
-    "expires_at": "2026-10-31T20:10:22+00:00",
+    "updated_at": "2026-10-31T19:21:56+00:00",
+    "expires_at": "2026-10-31T20:21:56+00:00",
     "count": null,
     "count_approx": false
   },
   "белгородск": {
     "display_name": "Белгородская область",
-    "type": "missile",
-    "text": "Белгородская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "drone",
+    "text": "Восточные районы Белгородская область опасность по БПЛА и далее на Воронежскую область",
     "channel": "kupolrussia",
-    "updated_at": "2026-10-31T18:58:58+00:00",
-    "expires_at": "2026-10-31T19:58:58+00:00",
+    "updated_at": "2026-10-31T19:28:00+00:00",
+    "expires_at": "2026-10-31T20:28:00+00:00",
     "count": null,
     "count_approx": false
   },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Таганрог, Азов, Ростов-на-Дону и близлежащие, Ростовская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-31T18:59:47+00:00",
-    "expires_at": "2026-10-31T19:59:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Чернский район \nТульская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-10-31T18:30:37+00:00",
-    "expires_at": "2026-10-31T19:30:37+00:00",
+    "text": "Таганрог \nТаганрогский залив \nТревога по БПЛА сохраняется \nРостовская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-31T19:19:52+00:00",
+    "expires_at": "2026-10-31T20:19:52+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,16 +46,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-31T18:40:16+00:00",
     "expires_at": "2026-10-31T19:40:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ивановск": {
-    "display_name": "Ивановская область",
-    "type": "drone",
-    "text": "Ивановская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-10-31T18:29:07+00:00",
-    "expires_at": "2026-10-31T19:29:07+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +66,56 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-10-31T19:13:01+00:00",
     "expires_at": "2026-10-31T20:13:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Тверская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-31T19:25:01+00:00",
+    "expires_at": "2026-10-31T20:25:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "вологодск": {
+    "display_name": "Вологодская область",
+    "type": "drone",
+    "text": "Ярославская область\nВологодская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-31T19:23:12+00:00",
+    "expires_at": "2026-10-31T20:23:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ярославск": {
+    "display_name": "Ярославская область",
+    "type": "drone",
+    "text": "Ярославская область\nВологодская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-10-31T19:23:12+00:00",
+    "expires_at": "2026-10-31T20:23:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Свобода\nЗалотухинский район\nТревога по БПЛА \nИ далее в направлении \nЗолотухина\nКурская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-10-31T19:25:34+00:00",
+    "expires_at": "2026-10-31T20:25:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежскую область",
+    "type": "drone",
+    "text": "Восточные районы Белгородская область опасность по БПЛА и далее на Воронежскую область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-31T19:28:00+00:00",
+    "expires_at": "2026-10-31T20:28:00+00:00",
     "count": null,
     "count_approx": false
   }
