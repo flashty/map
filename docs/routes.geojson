@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-10-31T03:03:14+00:00",
+        "last_updated": "2026-10-31T03:36:41+00:00",
+        "path_labels": [
+          "Новоусманский (Воронежская область)",
+          "Каширский (Воронежская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.49049,
+            51.717129
+          ],
+          [
+            39.5662114,
+            51.3448808
+          ]
+        ]
+      }
+    }
+  ]
 }
