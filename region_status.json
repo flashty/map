@@ -1,14 +1,4 @@
 {
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "drone",
-    "text": "Кузнецк, Сосновоборск, Евлашево, Неверкинский и близлежащие, Пензенская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-10-30T23:02:37+00:00",
-    "expires_at": "2026-10-31T00:02:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ульяновск": {
     "display_name": "Ульяновская область",
     "type": "drone",
@@ -56,6 +46,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-10-30T23:59:02+00:00",
     "expires_at": "2026-10-31T00:59:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Краснодон и близлежащие, тревога по БпЛА \nЛНР\n\nМеры предосторожности!!!",
+    "channel": "kupolrussia",
+    "updated_at": "2026-10-31T00:03:07+00:00",
+    "expires_at": "2026-10-31T01:03:07+00:00",
     "count": null,
     "count_approx": false
   }
