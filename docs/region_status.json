@@ -20,12 +20,12 @@
     "count_approx": false
   },
   "нижегородск": {
-    "display_name": "Нижегородская область",
-    "type": "alert",
-    "text": "Кстово\nНижегородская область\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-01T03:19:18+00:00",
-    "expires_at": "2026-11-01T04:19:18+00:00",
+    "display_name": "Нижегородской области",
+    "type": "drone",
+    "text": "Южная часть Нижегородской области ещё фиксации ударных БПЛА на север. Кстово и близлежащие, внимание. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-01T03:55:18+00:00",
+    "expires_at": "2026-11-01T04:55:18+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +36,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-01T03:31:32+00:00",
     "expires_at": "2026-11-01T04:31:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "мордов": {
+    "display_name": "Республики Мордовия",
+    "type": "drone",
+    "text": "Полховский Майдан, Вознесенский район, Нижегородская область - от 2 БПЛА со стороны Республики Мордовия на север. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-01T03:47:35+00:00",
+    "expires_at": "2026-11-01T04:47:35+00:00",
     "count": null,
     "count_approx": false
   }
