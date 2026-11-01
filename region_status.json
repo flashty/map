@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Акимовка и близлежащие \nТревога по БПЛА сохраняется \nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-10-31T23:47:35+00:00",
-    "expires_at": "2026-11-01T00:47:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "самарск": {
     "display_name": "Самарская область",
     "type": "drone",
@@ -76,6 +66,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-11-01T00:41:45+00:00",
     "expires_at": "2026-11-01T01:41:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородская область",
+    "type": "drone",
+    "text": "Кстово\nНижегородская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-01T00:51:26+00:00",
+    "expires_at": "2026-11-01T01:51:26+00:00",
     "count": null,
     "count_approx": false
   }

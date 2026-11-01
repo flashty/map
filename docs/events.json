@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_255369_Шебекинский",
-    "channel": "LPRalarm",
-    "date": "2026-10-30T13:41:34+00:00",
-    "text": "Белянка РСЗО \nШебекинский район",
-    "type": "unknown",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "LPRalarm_255370",
-    "channel": "LPRalarm",
-    "date": "2026-10-30T13:43:20+00:00",
-    "text": "Отбой авиационной ракетной бомбовой опасности ЛДНР, Запорожская область РФ, Харьковская область РФ",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146246_Шебекинский",
-    "channel": "kupolrussia",
-    "date": "2026-10-30T13:43:29+00:00",
-    "text": "Белянка РСЗО \nШебекинский район",
-    "type": "unknown",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
     "id": "kupolrussia_146247",
     "channel": "kupolrussia",
     "date": "2026-10-30T13:43:46+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Пензенская область",
     "lat": 53.4464203,
     "lon": 44.4878007
+  },
+  {
+    "id": "vrv_radar_104623_Кстово",
+    "channel": "vrv_radar",
+    "date": "2026-11-01T00:51:26+00:00",
+    "text": "Кстово\nНижегородская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Кстово",
+    "region": "Нижегородская область",
+    "lat": 56.149551,
+    "lon": 44.198032
+  },
+  {
+    "id": "kupolrussia_146654",
+    "channel": "kupolrussia",
+    "date": "2026-11-01T00:52:28+00:00",
+    "text": "Республика Мордовия\nи\n<>\nРК",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Республика Мордовия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255828",
+    "channel": "LPRalarm",
+    "date": "2026-11-01T00:52:35+00:00",
+    "text": "Республика Мордовия\nи\n<>\nРК",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Республика Мордовия",
+    "lat": null,
+    "lon": null
   }
 ]
