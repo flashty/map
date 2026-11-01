@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Краснодарский край \nОтмена опасности по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-01T03:31:32+00:00",
-    "expires_at": "2026-11-01T04:31:32+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "мордов": {
     "display_name": "Республика Мордовия",
     "type": "drone",
@@ -36,6 +26,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-01T04:03:38+00:00",
     "expires_at": "2026-11-01T05:03:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Володарское ДНР\nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-01T04:36:58+00:00",
+    "expires_at": "2026-11-01T05:36:58+00:00",
     "count": null,
     "count_approx": false
   }
