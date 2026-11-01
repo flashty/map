@@ -31,11 +31,11 @@
   },
   "курск": {
     "display_name": "Курская область",
-    "type": "alert",
-    "text": "Курская область и близлежащие\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-01T07:13:13+00:00",
-    "expires_at": "2026-11-01T08:13:13+00:00",
+    "type": "drone",
+    "text": "Трояново и далее в направлении Студенок тревога по БПЛА \n\nКурская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-01T07:21:17+00:00",
+    "expires_at": "2026-11-01T08:21:17+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +56,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-01T07:15:00+00:00",
     "expires_at": "2026-11-01T08:15:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Унеча и близлежащие, тревога по БпЛА \nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-01T07:28:23+00:00",
+    "expires_at": "2026-11-01T08:28:23+00:00",
     "count": null,
     "count_approx": false
   }
