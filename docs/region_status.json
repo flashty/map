@@ -22,10 +22,30 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Калужская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-01T06:10:07+00:00",
-    "expires_at": "2026-11-01T07:10:07+00:00",
+    "text": "Тарусский район\nКалужская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-01T06:30:21+00:00",
+    "expires_at": "2026-11-01T07:30:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Московская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-01T06:30:13+00:00",
+    "expires_at": "2026-11-01T07:30:13+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "п. Октябрьский Донецк ДНР \nОпасность по БПЛА и ФПВ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-01T06:30:50+00:00",
+    "expires_at": "2026-11-01T07:30:50+00:00",
     "count": null,
     "count_approx": false
   }
