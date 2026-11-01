@@ -12,10 +12,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Шахтёрск, Торез, Снежное и близлежащие \nОпасность по БПЛА \nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-01T10:38:41+00:00",
-    "expires_at": "2026-11-01T11:38:41+00:00",
+    "text": "Горловка, Пантелеймоновка, Корсунь, Енакиево и близлежащие \nОпасность по БПЛА сохраняется \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-01T10:53:53+00:00",
+    "expires_at": "2026-11-01T11:53:53+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +36,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-01T10:15:11+00:00",
     "expires_at": "2026-11-01T11:15:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородской области",
+    "type": "drone",
+    "text": "Валуйский район \nБелгородской области \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-01T10:58:45+00:00",
+    "expires_at": "2026-11-01T11:58:45+00:00",
     "count": null,
     "count_approx": false
   }
