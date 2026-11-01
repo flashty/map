@@ -1,16 +1,5 @@
 [
   {
-    "id": "vrv_radar_104291_Хлевенский",
-    "channel": "vrv_radar",
-    "date": "2026-10-30T19:07:07+00:00",
-    "text": "Хлевенский район\nТербунский район\nЛипецкая область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Хлевенский",
-    "region": "Липецкая область",
-    "lat": 52.1662269,
-    "lon": 39.1137031
-  },
-  {
     "id": "vrv_radar_104291_Тербунский",
     "channel": "vrv_radar",
     "date": "2026-10-30T19:07:07+00:00",
@@ -21996,6 +21985,17 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255950",
+    "channel": "LPRalarm",
+    "date": "2026-11-01T12:15:16+00:00",
+    "text": "Курская область и близлежащие\nАвиционная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }
