@@ -1,104 +1,5 @@
 [
   {
-    "id": "kupolrussia_146543",
-    "channel": "kupolrussia",
-    "date": "2026-10-31T18:50:49+00:00",
-    "text": "Владимирская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Владимирская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255700",
-    "channel": "LPRalarm",
-    "date": "2026-10-31T18:50:54+00:00",
-    "text": "Владимирская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Владимирская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146544",
-    "channel": "kupolrussia",
-    "date": "2026-10-31T18:50:57+00:00",
-    "text": "Прелестное и далее в направлении \nПрохоровка \nТревога по БПЛА \nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255701",
-    "channel": "LPRalarm",
-    "date": "2026-10-31T18:51:09+00:00",
-    "text": "Орловская облать\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146545",
-    "channel": "kupolrussia",
-    "date": "2026-10-31T18:51:37+00:00",
-    "text": "Орловская облать\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255702_Корочанский",
-    "channel": "LPRalarm",
-    "date": "2026-10-31T18:52:13+00:00",
-    "text": "Корочанский район \nБелгородский район \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Корочанский",
-    "region": null,
-    "lat": 50.8026787,
-    "lon": 37.1914961
-  },
-  {
-    "id": "LPRalarm_255702_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-10-31T18:52:13+00:00",
-    "text": "Корочанский район \nБелгородский район \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "kupolrussia_146546_Корочанский",
-    "channel": "kupolrussia",
-    "date": "2026-10-31T18:53:50+00:00",
-    "text": "Корочанский район \nБелгородский район",
-    "type": "unknown",
-    "location_name": "Корочанский",
-    "region": null,
-    "lat": 50.8026787,
-    "lon": 37.1914961
-  },
-  {
-    "id": "kupolrussia_146546_Белгородский",
-    "channel": "kupolrussia",
-    "date": "2026-10-31T18:53:50+00:00",
-    "text": "Корочанский район \nБелгородский район",
-    "type": "unknown",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
     "id": "radar_plus_bpla_15635",
     "channel": "radar_plus_bpla",
     "date": "2026-10-31T18:53:55+00:00",
@@ -21998,5 +21899,104 @@
     "region": "Пензенская область",
     "lat": 52.7787253,
     "lon": 46.690152
+  },
+  {
+    "id": "LPRalarm_256208",
+    "channel": "LPRalarm",
+    "date": "2026-11-01T22:46:12+00:00",
+    "text": "От Севастополя\nМыс Херсонес\nРеактивные пролеты",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104835_Неверкинский",
+    "channel": "vrv_radar",
+    "date": "2026-11-01T22:46:15+00:00",
+    "text": "Неверкинский район\nПензенская область\nЕще фиксация БПЛА",
+    "type": "drone",
+    "location_name": "Неверкинский",
+    "region": "Пензенская область",
+    "lat": 52.7787253,
+    "lon": 46.690152
+  },
+  {
+    "id": "kupolrussia_146977",
+    "channel": "kupolrussia",
+    "date": "2026-11-01T22:46:16+00:00",
+    "text": "От Севастополя\nМыс Херсонес\nРеактивные пролеты",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104836_Дубовский",
+    "channel": "vrv_radar",
+    "date": "2026-11-01T22:49:24+00:00",
+    "text": "Дубовский район\nВолгоградская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Дубовский",
+    "region": "Волгоградская область",
+    "lat": 50.5301704,
+    "lon": 41.9933747
+  },
+  {
+    "id": "LPRalarm_256209",
+    "channel": "LPRalarm",
+    "date": "2026-11-01T22:51:57+00:00",
+    "text": "Старотитаровская и близлежащие, тревога по БпЛА \nМеры предосторожности, срочно!",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146978",
+    "channel": "kupolrussia",
+    "date": "2026-11-01T22:52:03+00:00",
+    "text": "Старотитаровская и близлежащие, тревога по БпЛА \nМеры предосторожности, срочно!",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146979",
+    "channel": "kupolrussia",
+    "date": "2026-11-01T22:54:30+00:00",
+    "text": "Пензенская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256210",
+    "channel": "LPRalarm",
+    "date": "2026-11-01T22:54:36+00:00",
+    "text": "Пензенская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104837_Энгельс",
+    "channel": "vrv_radar",
+    "date": "2026-11-01T22:56:08+00:00",
+    "text": "Саратов/Энгельс\nСаратовская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Энгельс",
+    "region": "Саратовская область",
+    "lat": 51.5013775,
+    "lon": 46.1233093
   }
 ]
