@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_104291_Тербунский",
-    "channel": "vrv_radar",
-    "date": "2026-10-30T19:07:07+00:00",
-    "text": "Хлевенский район\nТербунский район\nЛипецкая область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Тербунский",
-    "region": "Липецкая область",
-    "lat": 52.144083,
-    "lon": 38.4170401
-  },
-  {
-    "id": "kupolrussia_146341_Кромской",
-    "channel": "kupolrussia",
-    "date": "2026-10-30T19:07:35+00:00",
-    "text": "Кромской район \nОрловская область \nТревога по БПЛА сохраняется \nИ далее в тыловые регионы",
-    "type": "drone",
-    "location_name": "Кромской",
-    "region": "Орловская область",
-    "lat": 52.6353551,
-    "lon": 35.763628
-  },
-  {
-    "id": "vrv_radar_104292_Дмитровский",
-    "channel": "vrv_radar",
-    "date": "2026-10-30T19:07:54+00:00",
-    "text": "Дмитровский район\nКромской район\nОрловский район\nОрловская область\nФиксации групп БПЛА",
-    "type": "drone",
-    "location_name": "Дмитровский",
-    "region": "Орловская область",
-    "lat": 52.6670934,
-    "lon": 35.5664814
-  },
-  {
-    "id": "vrv_radar_104292_Кромской",
-    "channel": "vrv_radar",
-    "date": "2026-10-30T19:07:54+00:00",
-    "text": "Дмитровский район\nКромской район\nОрловский район\nОрловская область\nФиксации групп БПЛА",
-    "type": "drone",
-    "location_name": "Кромской",
-    "region": "Орловская область",
-    "lat": 52.6353551,
-    "lon": 35.763628
-  },
-  {
-    "id": "vrv_radar_104292_Орловский",
-    "channel": "vrv_radar",
-    "date": "2026-10-30T19:07:54+00:00",
-    "text": "Дмитровский район\nКромской район\nОрловский район\nОрловская область\nФиксации групп БПЛА",
-    "type": "drone",
-    "location_name": "Орловский",
-    "region": "Орловская область",
-    "lat": 52.9856621,
-    "lon": 35.9383453
-  },
-  {
-    "id": "kupolrussia_146342",
-    "channel": "kupolrussia",
-    "date": "2026-10-30T19:08:04+00:00",
-    "text": "Тамбовская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_255485",
     "channel": "LPRalarm",
     "date": "2026-10-30T19:08:15+00:00",
@@ -21996,6 +21930,72 @@
     "type": "missile",
     "location_name": null,
     "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15647",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-01T12:17:45+00:00",
+    "text": "На данный момент фиксируем единичные БПЛА в воздушном пространстве. \n\nВедется работа по уничтожению остатком.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104689",
+    "channel": "vrv_radar",
+    "date": "2026-11-01T12:24:54+00:00",
+    "text": "Ростовская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255951",
+    "channel": "LPRalarm",
+    "date": "2026-11-01T12:25:11+00:00",
+    "text": "Бердянский район тревога по БПЛА. Запорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146761",
+    "channel": "kupolrussia",
+    "date": "2026-11-01T12:25:47+00:00",
+    "text": "Бердянский район\n Запорожская область РФ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255952",
+    "channel": "LPRalarm",
+    "date": "2026-11-01T12:25:56+00:00",
+    "text": "Северные районы Ростовской области \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146762",
+    "channel": "kupolrussia",
+    "date": "2026-11-01T12:26:07+00:00",
+    "text": "Северные районы Ростовской области\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовской области",
     "lat": null,
     "lon": null
   }
