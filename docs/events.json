@@ -1,115 +1,5 @@
 [
   {
-    "id": "LPRalarm_255373",
-    "channel": "LPRalarm",
-    "date": "2026-10-30T14:01:13+00:00",
-    "text": "Белгород, Белгородский район и ситуативно Белгородская область! \nРакетная опасность! Займите Безопасные места!\n\n\nПотенциальная опасность для Курской области и Воронежской области",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_93023_Шебекинский",
-    "channel": "locatorru",
-    "date": "2026-10-30T14:01:50+00:00",
-    "text": "Шебекинский район, Белгородская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": "Шебекинский",
-    "region": "Белгородская область",
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "LPRalarm_255374",
-    "channel": "LPRalarm",
-    "date": "2026-10-30T14:02:02+00:00",
-    "text": "РАКЕТНАЯ ОПАСНОСТЬ в Шебекинском МО 17:01. Спуститесь в подвальное помещение или подземное пространство.",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255375_Шебекинский",
-    "channel": "LPRalarm",
-    "date": "2026-10-30T14:02:13+00:00",
-    "text": "Шебекинский район ракетная опасность\nБелгородская область",
-    "type": "missile",
-    "location_name": "Шебекинский",
-    "region": "Белгородская область",
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "LPRalarm_255376",
-    "channel": "LPRalarm",
-    "date": "2026-10-30T14:02:23+00:00",
-    "text": "Шебекино ракетная опасность\nБелгородская область",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255377_Шебекинский",
-    "channel": "LPRalarm",
-    "date": "2026-10-30T14:03:28+00:00",
-    "text": "Белянка РСЗО \nШебекинский район",
-    "type": "unknown",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "locatorru_93024_Волоконовский",
-    "channel": "locatorru",
-    "date": "2026-10-30T14:03:34+00:00",
-    "text": "Волоконовский район, Белгородская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": "Волоконовский",
-    "region": "Белгородская область",
-    "lat": 50.4498919,
-    "lon": 37.7986348
-  },
-  {
-    "id": "LPRalarm_255378_Волоконовский",
-    "channel": "LPRalarm",
-    "date": "2026-10-30T14:04:12+00:00",
-    "text": "Волоконовский район ракетная опасность\nБелгородская область",
-    "type": "missile",
-    "location_name": "Волоконовский",
-    "region": "Белгородская область",
-    "lat": 50.4498919,
-    "lon": 37.7986348
-  },
-  {
-    "id": "kupolrussia_146250_Волоконовский",
-    "channel": "kupolrussia",
-    "date": "2026-10-30T14:06:24+00:00",
-    "text": "Волоконовский район ракетная опасность\nБелгородская область",
-    "type": "missile",
-    "location_name": "Волоконовский",
-    "region": "Белгородская область",
-    "lat": 50.4498919,
-    "lon": 37.7986348
-  },
-  {
-    "id": "LPRalarm_255379",
-    "channel": "LPRalarm",
-    "date": "2026-10-30T14:07:30+00:00",
-    "text": "Белгородская область\n\nОтбой ракетной опасности \nУгроза обстрела сохраняется",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_93025",
     "channel": "locatorru",
     "date": "2026-10-30T14:07:44+00:00",
@@ -21996,6 +21886,116 @@
     "type": "unknown",
     "location_name": null,
     "region": "Республика Чувашия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15642",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-01T01:31:29+00:00",
+    "text": "В разных районах Нижегородской области идут массовые сбития БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Нижегородской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104627_Дзержинск",
+    "channel": "vrv_radar",
+    "date": "2026-11-01T01:32:57+00:00",
+    "text": "Дзержинск\nНижегородская область\nМеры безопасности",
+    "type": "alert",
+    "location_name": "Дзержинск",
+    "region": "Нижегородская область",
+    "lat": 56.2382157,
+    "lon": 43.4617405
+  },
+  {
+    "id": "vrv_radar_104628",
+    "channel": "vrv_radar",
+    "date": "2026-11-01T01:36:12+00:00",
+    "text": "Республика Татарстан\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Татарстан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104629",
+    "channel": "vrv_radar",
+    "date": "2026-11-01T01:36:28+00:00",
+    "text": "Республика Марий Эл\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Марий",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102672",
+    "channel": "radarrussiia",
+    "date": "2026-11-01T01:36:50+00:00",
+    "text": "Республика Татарстан\nРеспублика Марий Эл\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Татарстан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15643",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-01T01:36:53+00:00",
+    "text": "Республика Татарстан \nЧувашская Республика\nРеспублика Марий Эл\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Татарстан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_93304",
+    "channel": "locatorru",
+    "date": "2026-11-01T01:37:15+00:00",
+    "text": "Республика Татарстан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Татарстан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_93305",
+    "channel": "locatorru",
+    "date": "2026-11-01T01:37:36+00:00",
+    "text": "Дзержинск и близлежащие, Нижегородская область - угроза атаки БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_146656",
+    "channel": "kupolrussia",
+    "date": "2026-11-01T01:39:13+00:00",
+    "text": "Республика Татарстан\nВНИМАНИЕ!!!\n——/^\\ — оБЪЯВЛЕН |\n^^ М желтый уровень\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Татарстан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_255830",
+    "channel": "LPRalarm",
+    "date": "2026-11-01T01:39:19+00:00",
+    "text": "Республика Татарстан\nВНИМАНИЕ!!!\n——/^\\ — оБЪЯВЛЕН |\n^^ М желтый уровень\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Татарстан",
     "lat": null,
     "lon": null
   }
