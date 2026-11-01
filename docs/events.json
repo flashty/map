@@ -1,27 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_15635",
-    "channel": "radar_plus_bpla",
-    "date": "2026-10-31T18:53:55+00:00",
-    "text": "Воронежская область - опасность БПЛА.\n\nИдут сбития в разных районах.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_93200",
-    "channel": "locatorru",
-    "date": "2026-10-31T18:54:25+00:00",
-    "text": "Брянская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_255703",
     "channel": "LPRalarm",
     "date": "2026-10-31T18:58:48+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Саратовская область",
     "lat": 51.5013775,
     "lon": 46.1233093
+  },
+  {
+    "id": "LPRalarm_256211",
+    "channel": "LPRalarm",
+    "date": "2026-11-01T23:00:14+00:00",
+    "text": "Приазовский\nКучугуры и близлежащие \nЕщё фиксации БПЛА с моря\nПринять меры безопасности \nКраснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104838",
+    "channel": "vrv_radar",
+    "date": "2026-11-01T23:01:03+00:00",
+    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
