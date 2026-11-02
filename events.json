@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_255808",
-    "channel": "LPRalarm",
-    "date": "2026-10-31T22:48:08+00:00",
-    "text": "Калининский р-н \nСаратовская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_93294",
-    "channel": "locatorru",
-    "date": "2026-10-31T22:49:43+00:00",
-    "text": "Сергиевка, Мучкапский район, Тамбовская область - продолжаются пролёты БПЛА в сторону примерно Турковского район, Саратовской области.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_104598_Балашовский",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T22:51:55+00:00",
-    "text": "Балашовский район\nСамойловский район\nСаратовская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Балашовский",
-    "region": "Саратовская область",
-    "lat": 51.4916866,
-    "lon": 43.1611071
-  },
-  {
-    "id": "vrv_radar_104598_Самойловский",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T22:51:55+00:00",
-    "text": "Балашовский район\nСамойловский район\nСаратовская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Самойловский",
-    "region": "Саратовская область",
-    "lat": 51.2494111,
-    "lon": 43.7086216
-  },
-  {
-    "id": "kupolrussia_146635",
-    "channel": "kupolrussia",
-    "date": "2026-10-31T22:52:14+00:00",
-    "text": "Тамбовская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_255809",
     "channel": "LPRalarm",
     "date": "2026-10-31T22:52:20+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256390",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T15:09:43+00:00",
+    "text": "Краснодарский край \nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147138",
+    "channel": "kupolrussia",
+    "date": "2026-11-02T15:10:02+00:00",
+    "text": "Краснодарский край",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104924",
+    "channel": "vrv_radar",
+    "date": "2026-11-02T15:12:21+00:00",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256391",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T15:12:39+00:00",
+    "text": "Ростовская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147139",
+    "channel": "kupolrussia",
+    "date": "2026-11-02T15:12:48+00:00",
+    "text": "Ростовская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
     "lat": null,
     "lon": null
   }
