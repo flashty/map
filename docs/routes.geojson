@@ -165,6 +165,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-11-02T21:19:20+00:00",
+        "last_updated": "2026-11-02T21:54:25+00:00",
+        "path_labels": [
+          "Одинцово (Московская область)",
+          "Стаханов"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.2668096,
+            55.678223
+          ],
+          [
+            36.7659751,
+            55.3926303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-11-02T21:30:27+00:00",
         "last_updated": "2026-11-02T21:30:27+00:00",
         "path_labels": [
