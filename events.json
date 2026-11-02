@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_104561_Задонский",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T21:56:19+00:00",
-    "text": "Задонский район\nЛипецкая область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Задонский",
-    "region": "Липецкая область",
-    "lat": 52.3920935,
-    "lon": 38.9189356
-  },
-  {
-    "id": "locatorru_93271",
-    "channel": "locatorru",
-    "date": "2026-10-31T21:56:27+00:00",
-    "text": "Республика Мордовия - отбой ракетной опасности! \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_104562_Скопинский",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T21:57:01+00:00",
-    "text": "Скопинский район\nРязанская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Скопинский",
-    "region": "Рязанская область",
-    "lat": 54.6221937,
-    "lon": 39.7586495
-  },
-  {
-    "id": "locatorru_93272",
-    "channel": "locatorru",
-    "date": "2026-10-31T21:57:12+00:00",
-    "text": "Воронежская область, Липецкая область, Тамбовская область, Тульская область - ракетная опасность, повторно! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_255791",
     "channel": "LPRalarm",
     "date": "2026-10-31T21:57:19+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256338",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T10:52:05+00:00",
+    "text": "Антрацитовский, Перевальский, Свердловский районы\nРовеньки, Красный Луч, Алчевск \nЛНР \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147093",
+    "channel": "kupolrussia",
+    "date": "2026-11-02T10:52:28+00:00",
+    "text": "Антрацитовский, Перевальский, Свердловский районы\nРовеньки, Красный Луч, Алчевск \nЛНР \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256339",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T11:00:21+00:00",
+    "text": "Кураховский район ДНР \nГорняк\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147094",
+    "channel": "kupolrussia",
+    "date": "2026-11-02T11:00:53+00:00",
+    "text": "Кураховский район ДНР \nГорняк\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
