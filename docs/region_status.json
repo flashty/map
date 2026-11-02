@@ -1,31 +1,21 @@
 {
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ повторно \nДНР",
+    "type": "missile",
+    "text": "Великая Новосёлка ДНР и близлежащие ракетная тревога",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-02T12:13:45+00:00",
-    "expires_at": "2026-11-02T13:13:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "От Счастья до Луганск дорога\nОпасность по БПЛА \nЛНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-02T12:06:53+00:00",
-    "expires_at": "2026-11-02T13:06:53+00:00",
+    "updated_at": "2026-11-02T13:07:26+00:00",
+    "expires_at": "2026-11-02T14:07:26+00:00",
     "count": null,
     "count_approx": false
   },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Восток н.п Инзовка\nтрасса Р—280 \nОпасность по БПЛА \n\nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-02T12:15:31+00:00",
-    "expires_at": "2026-11-02T13:15:31+00:00",
+    "text": "Трасса Р-280\nБорисовка—Бановка\n опасность БПЛА \n\nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-02T13:10:18+00:00",
+    "expires_at": "2026-11-02T14:10:18+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +56,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-02T12:58:39+00:00",
     "expires_at": "2026-11-02T13:58:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Трасса \nНовоалексеевка - Геническ \nТревога по БПЛА \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-02T13:15:31+00:00",
+    "expires_at": "2026-11-02T14:15:31+00:00",
     "count": null,
     "count_approx": false
   }
