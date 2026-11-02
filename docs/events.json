@@ -1,93 +1,5 @@
 [
   {
-    "id": "vrv_radar_104553",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T21:51:03+00:00",
-    "text": "Ульяновская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_93268",
-    "channel": "locatorru",
-    "date": "2026-10-31T21:51:12+00:00",
-    "text": "Новотроицкий, Таловский район, Воронежская область - фиксации БПЛА в направлении Борисоглебск или на Тамбовскую область.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146618",
-    "channel": "kupolrussia",
-    "date": "2026-10-31T21:51:32+00:00",
-    "text": "Республика Чувашия\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Республика Чувашия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255789",
-    "channel": "LPRalarm",
-    "date": "2026-10-31T21:51:37+00:00",
-    "text": "Республика Чувашия\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Республика Чувашия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_104554",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T21:52:21+00:00",
-    "text": "Республика Мордовия\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_93269",
-    "channel": "locatorru",
-    "date": "2026-10-31T21:52:46+00:00",
-    "text": "Краснофлотское, Петропавловский район, Воронежская область - пролёт БПЛА вдоль границы с Верхнедонским районом, Ростовской области и далее на Волгоградскую область. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_104555",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T21:53:01+00:00",
-    "text": "Липецк \nЛипецкая область \nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_104556_Чернский",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T21:53:13+00:00",
-    "text": "Чернский район\nТульская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Чернский",
-    "region": "Тульская область",
-    "lat": 53.4524281,
-    "lon": 36.9095591
-  },
-  {
     "id": "vrv_radar_104557_Ефремовский",
     "channel": "vrv_radar",
     "date": "2026-10-31T21:53:43+00:00",
@@ -21996,6 +21908,94 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256328",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T09:50:12+00:00",
+    "text": "Марковка ЛНР\nИ близлежащие \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147084",
+    "channel": "kupolrussia",
+    "date": "2026-11-02T09:50:26+00:00",
+    "text": "Марковка ЛНР\nИ близлежащие",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256329_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T09:51:53+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА \nБелгородская область",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": "Белгородская область",
+    "lat": 50.5939358,
+    "lon": 36.5762397
+  },
+  {
+    "id": "kupolrussia_147085_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-11-02T09:52:26+00:00",
+    "text": "Белгородский район \nБелгородская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": "Белгородская область",
+    "lat": 50.5939358,
+    "lon": 36.5762397
+  },
+  {
+    "id": "LPRalarm_256330",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T09:53:27+00:00",
+    "text": "Станично- Луганский, Новоайдарский, Старобельский , Сватовский районы ЛНР\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147086",
+    "channel": "kupolrussia",
+    "date": "2026-11-02T09:53:54+00:00",
+    "text": "Станично- Луганский, Новоайдарский, Старобельский , Сватовский районы ЛНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256331",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T10:01:32+00:00",
+    "text": "ЛНР. Угроза атаки БПЛА. \nВ границах муниципальных округов: Краснодонский, Лутугинский, Славяносербский, и городов Луганск, Брянка, Кировск, Стаханов, Первомайск",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147087",
+    "channel": "kupolrussia",
+    "date": "2026-11-02T10:01:41+00:00",
+    "text": "ЛНР. Угроза атаки БПЛА. \nВ границах муниципальных округов: Краснодонский, Лутугинский, Славяносербский, и городов Луганск, Брянка, Кировск, Стаханов, Первомайск",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
