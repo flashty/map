@@ -1,60 +1,5 @@
 [
   {
-    "id": "radarrussiia_102656",
-    "channel": "radarrussiia",
-    "date": "2026-10-31T21:44:37+00:00",
-    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255787",
-    "channel": "LPRalarm",
-    "date": "2026-10-31T21:44:51+00:00",
-    "text": "Майкоп и близлежащие\nТревога по БПЛА.\nРеспублика Адыгея",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Адыгея",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_104550",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T21:45:44+00:00",
-    "text": "Липецкая область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_102657",
-    "channel": "radarrussiia",
-    "date": "2026-10-31T21:46:09+00:00",
-    "text": "Ульяновская область\nСамарская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_15638",
-    "channel": "radar_plus_bpla",
-    "date": "2026-10-31T21:46:26+00:00",
-    "text": "Самарская область \nУльяновская область \nРеспублика Татарстан \n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "missile",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_102658",
     "channel": "radarrussiia",
     "date": "2026-10-31T21:47:06+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Белгородская область",
     "lat": 50.1632256,
     "lon": 37.9638901
+  },
+  {
+    "id": "locatorru_93480_Валуйский",
+    "channel": "locatorru",
+    "date": "2026-11-02T09:01:54+00:00",
+    "text": "Казинка и близлежащие, Валуйский район, Белгородская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": "Белгородская область",
+    "lat": 50.1632256,
+    "lon": 37.9638901
+  },
+  {
+    "id": "locatorru_93481",
+    "channel": "locatorru",
+    "date": "2026-11-02T09:05:46+00:00",
+    "text": "Отбой по тактической авиации противника. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_93482_Отбой",
+    "channel": "locatorru",
+    "date": "2026-11-02T09:07:20+00:00",
+    "text": "Отбой, был уничтожен. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": "Отбой",
+    "region": null,
+    "lat": 48.6340413,
+    "lon": 45.2138948
+  },
+  {
+    "id": "locatorru_93483_Шебекинский",
+    "channel": "locatorru",
+    "date": "2026-11-02T09:13:51+00:00",
+    "text": "Шебекинский район, Белгородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": "Белгородская область",
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "LPRalarm_256322",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T09:14:07+00:00",
+    "text": "Макеевка, Харцызск и близлежащие \nТревога по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
   }
 ]
