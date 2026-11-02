@@ -1,82 +1,5 @@
 [
   {
-    "id": "vrv_radar_104526_Каменский",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T21:25:06+00:00",
-    "text": "Подгоренский район\nКаменский район\nОстрогожский район\nВоронежская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Каменский",
-    "region": "Воронежская область",
-    "lat": 50.9705693,
-    "lon": 41.1152706
-  },
-  {
-    "id": "vrv_radar_104526_Острогожский",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T21:25:06+00:00",
-    "text": "Подгоренский район\nКаменский район\nОстрогожский район\nВоронежская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Острогожский",
-    "region": "Воронежская область",
-    "lat": 50.8584609,
-    "lon": 39.0772421
-  },
-  {
-    "id": "vrv_radar_104527_Рамонский",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T21:25:36+00:00",
-    "text": "Рамонский район\nСемилукский район\nВоронежская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Рамонский",
-    "region": "Воронежская область",
-    "lat": 51.9122923,
-    "lon": 39.1981204
-  },
-  {
-    "id": "vrv_radar_104527_Семилукский",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T21:25:36+00:00",
-    "text": "Рамонский район\nСемилукский район\nВоронежская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Семилукский",
-    "region": "Воронежская область",
-    "lat": 51.7023003,
-    "lon": 39.0339133
-  },
-  {
-    "id": "vrv_radar_104528",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T21:25:44+00:00",
-    "text": "Республика Мордовия\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_104529_Грязинский",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T21:26:08+00:00",
-    "text": "Грязинский район\nЛипецкая область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Грязинский",
-    "region": "Липецкая область",
-    "lat": 52.5095965,
-    "lon": 39.9816059
-  },
-  {
-    "id": "kupolrussia_146608",
-    "channel": "kupolrussia",
-    "date": "2026-10-31T21:26:36+00:00",
-    "text": "Республика Мордовия\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_255777",
     "channel": "LPRalarm",
     "date": "2026-10-31T21:26:41+00:00",
@@ -21996,6 +21919,83 @@
     "type": "unknown",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256295",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T07:01:52+00:00",
+    "text": "Ровеньки и близлежащие \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147057",
+    "channel": "kupolrussia",
+    "date": "2026-11-02T07:02:09+00:00",
+    "text": "Ровеньки и близлежащие \nЛНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256296",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T07:06:53+00:00",
+    "text": "Луганск \nСтаница Луганская \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256297",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T07:08:07+00:00",
+    "text": "Участок Р-280 \nПриазовсокое - Приморск  Бердянск - Червоное поле \nТревога по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256298",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T07:09:43+00:00",
+    "text": "Антрацит и близлежащие \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104912",
+    "channel": "vrv_radar",
+    "date": "2026-11-02T07:11:56+00:00",
+    "text": "Липецкая область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104913",
+    "channel": "vrv_radar",
+    "date": "2026-11-02T07:12:07+00:00",
+    "text": "Тамбовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тамбовская область",
     "lat": null,
     "lon": null
   }
