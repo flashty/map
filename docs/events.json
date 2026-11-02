@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_255766_Кромской",
-    "channel": "LPRalarm",
-    "date": "2026-10-31T21:08:44+00:00",
-    "text": "Кромской район \nОрловская область \nТревога по БПЛА сохраняется \nИ далее в тыловые регионы",
-    "type": "drone",
-    "location_name": "Кромской",
-    "region": "Орловская область",
-    "lat": 52.6353551,
-    "lon": 35.763628
-  },
-  {
-    "id": "kupolrussia_146597_Кромской",
-    "channel": "kupolrussia",
-    "date": "2026-10-31T21:09:06+00:00",
-    "text": "Кромской район \nОрловская область \nТревога по БПЛА сохраняется \nИ далее в тыловые регионы",
-    "type": "drone",
-    "location_name": "Кромской",
-    "region": "Орловская область",
-    "lat": 52.6353551,
-    "lon": 35.763628
-  },
-  {
-    "id": "locatorru_93247",
-    "channel": "locatorru",
-    "date": "2026-10-31T21:09:09+00:00",
-    "text": "Краснодарский край - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_104513_Липецкий",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T21:09:16+00:00",
-    "text": "Липецкий район\nЛипецкая область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Липецкий",
-    "region": "Липецкая область",
-    "lat": 52.6469042,
-    "lon": 39.4733083
-  },
-  {
     "id": "kupolrussia_146598",
     "channel": "kupolrussia",
     "date": "2026-10-31T21:09:21+00:00",
@@ -21996,6 +21952,50 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104900",
+    "channel": "vrv_radar",
+    "date": "2026-11-02T04:03:54+00:00",
+    "text": "Московская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104901",
+    "channel": "vrv_radar",
+    "date": "2026-11-02T04:04:20+00:00",
+    "text": "Нижегородская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104902",
+    "channel": "vrv_radar",
+    "date": "2026-11-02T04:08:50+00:00",
+    "text": "Калужская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104903",
+    "channel": "vrv_radar",
+    "date": "2026-11-02T04:10:03+00:00",
+    "text": "Смоленская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Смоленская область",
     "lat": null,
     "lon": null
   }
