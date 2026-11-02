@@ -19,26 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Курчатов и близлежащие \nКурская область \nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-02T11:16:18+00:00",
-    "expires_at": "2026-11-02T12:16:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородской области",
-    "type": "drone",
-    "text": "Вейделевский район\nБелгородской области \nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-02T11:21:53+00:00",
-    "expires_at": "2026-11-02T12:21:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -46,6 +26,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-02T12:15:31+00:00",
     "expires_at": "2026-11-02T13:15:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "БПЛА Дартс от Сагутьево Трубчевск меры безопасности \n\nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-02T12:25:18+00:00",
+    "expires_at": "2026-11-02T13:25:18+00:00",
     "count": null,
     "count_approx": false
   }
