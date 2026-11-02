@@ -9,33 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Трасса Р-280\nБорисовка—Бановка\n опасность БПЛА \n\nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-02T13:10:18+00:00",
-    "expires_at": "2026-11-02T14:10:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Тарасовский, Каменский район от Миллеровского района \nРостовская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-02T13:44:43+00:00",
-    "expires_at": "2026-11-02T14:44:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Трасса \nНовоалексеевка - Геническ \nТревога по БПЛА \nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-02T13:15:31+00:00",
-    "expires_at": "2026-11-02T14:15:31+00:00",
+    "text": "Миллеровский район \nРостовская область \nповторно \nопасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-02T14:08:12+00:00",
+    "expires_at": "2026-11-02T15:08:12+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +46,36 @@
     "channel": "locatorru",
     "updated_at": "2026-11-02T13:38:49+00:00",
     "expires_at": "2026-11-02T14:38:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калужская область\nСмоленская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-02T14:10:43+00:00",
+    "expires_at": "2026-11-02T15:10:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Калужская область\nСмоленская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-02T14:10:43+00:00",
+    "expires_at": "2026-11-02T15:10:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Армянск и близлежащие \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-02T14:15:22+00:00",
+    "expires_at": "2026-11-02T15:15:22+00:00",
     "count": null,
     "count_approx": false
   }
