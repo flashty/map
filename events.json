@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_104548",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T21:42:18+00:00",
-    "text": "Ульяновская область\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146615",
-    "channel": "kupolrussia",
-    "date": "2026-10-31T21:42:27+00:00",
-    "text": "Нижегородская область\nВНИМАНИЕ!!!\n——/^\\ — оБЪЯВЛЕН |\n^^ М желтый уровень\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Нижегородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255785",
-    "channel": "LPRalarm",
-    "date": "2026-10-31T21:42:32+00:00",
-    "text": "Нижегородская область\nВНИМАНИЕ!!!\n——/^\\ — оБЪЯВЛЕН |\n^^ М желтый уровень\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Нижегородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_104549",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T21:43:00+00:00",
-    "text": "Самарская область\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146616",
-    "channel": "kupolrussia",
-    "date": "2026-10-31T21:43:36+00:00",
-    "text": "Ульяновская область \nСамарская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_255786",
-    "channel": "LPRalarm",
-    "date": "2026-10-31T21:43:42+00:00",
-    "text": "Ульяновская область \nСамарская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_102656",
     "channel": "radarrussiia",
     "date": "2026-10-31T21:44:37+00:00",
@@ -21998,5 +21932,71 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_256319",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T08:49:40+00:00",
+    "text": "Ясиноватая, Макеевка, Донецк и близлежащие \nОпасность по БПЛА, единичные фиксации \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147077",
+    "channel": "kupolrussia",
+    "date": "2026-11-02T08:49:51+00:00",
+    "text": "Ясиноватая, Макеевка, Донецк и близлежащие \nОпасность по БПЛА, единичные фиксации \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256320",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T08:52:46+00:00",
+    "text": "Отбой авиационной ракетной бомбовой опасности, в том числе по возможной подготовке к пускам Штормов все ранее объявленные регионы",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147078",
+    "channel": "kupolrussia",
+    "date": "2026-11-02T08:52:53+00:00",
+    "text": "Отбой авиационной ракетной бомбовой опасности, в том числе по возможной подготовке к пускам Штормов все ранее объявленные регионы",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256321_Валуйский",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T09:00:23+00:00",
+    "text": "Валуйский район \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": null,
+    "lat": 53.1481885,
+    "lon": 36.3185713
+  },
+  {
+    "id": "kupolrussia_147079_Валуйский",
+    "channel": "kupolrussia",
+    "date": "2026-11-02T09:00:53+00:00",
+    "text": "Валуйский район \nБелгородская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": "Белгородская область",
+    "lat": 50.1632256,
+    "lon": 37.9638901
   }
 ]
