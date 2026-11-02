@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_104591_Зарайск",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T22:31:00+00:00",
-    "text": "ГО Зарайск\nМосковская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Зарайск",
-    "region": "Московская область",
-    "lat": 54.7585694,
-    "lon": 38.8818137
-  },
-  {
-    "id": "vrv_radar_104592_Липецк",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T22:31:50+00:00",
-    "text": "Липецк\nЛипецкая область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Липецк",
-    "region": "Липецкая область",
-    "lat": 52.6051488,
-    "lon": 39.5963775
-  },
-  {
-    "id": "locatorru_93288",
-    "channel": "locatorru",
-    "date": "2026-10-31T22:32:02+00:00",
-    "text": "Сергиевка, Мучкапский район, Тамбовская область - пролёт БПЛА в сторону примерно Саратовской области, возможно на Котовск, Тамбов.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_104593",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T22:32:40+00:00",
-    "text": "МО Шатура \nМосковская область \nФиксация БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_102669",
     "channel": "radarrussiia",
     "date": "2026-10-31T22:33:59+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Ростовская область",
     "lat": 48.727145,
     "lon": 40.3554416
+  },
+  {
+    "id": "LPRalarm_256379_Миллеровский",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T13:52:52+00:00",
+    "text": "Миллеровский район повторно опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Миллеровский",
+    "region": null,
+    "lat": 49.0249872,
+    "lon": 40.2651861
+  },
+  {
+    "id": "kupolrussia_147128_Миллеровский",
+    "channel": "kupolrussia",
+    "date": "2026-11-02T13:53:05+00:00",
+    "text": "Миллеровский район повторно\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Миллеровский",
+    "region": null,
+    "lat": 49.0249872,
+    "lon": 40.2651861
+  },
+  {
+    "id": "LPRalarm_256380",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T13:57:02+00:00",
+    "text": "Мелитополь - тревога по БПЛА \n\nНикванта подписаться 🇷🇺\n\nНикванта в МАХ",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147129",
+    "channel": "kupolrussia",
+    "date": "2026-11-02T13:57:25+00:00",
+    "text": "Мелитополь \nЗапорожская область РФ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
   }
 ]
