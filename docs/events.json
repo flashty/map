@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_255750",
-    "channel": "LPRalarm",
-    "date": "2026-10-31T20:40:48+00:00",
-    "text": "Старооскольский район\nБелгородская область \nТревога по БПЛА \nВ направлении \nВоронежской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146583",
-    "channel": "kupolrussia",
-    "date": "2026-10-31T20:40:58+00:00",
-    "text": "Старооскольский район\nБелгородская область \nТревога по БПЛА \nВ направлении \nВоронежской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_93229",
-    "channel": "locatorru",
-    "date": "2026-10-31T20:45:34+00:00",
-    "text": "Новопавловка, Валентиновка и близлежащие, Кантемировский район, Воронежская область - со стороны ЛНР пролёты БПЛА в сторону Новая Калитва, Верхний Мамон и далее в тыл. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_104503_Нововоронеж",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T20:45:56+00:00",
-    "text": "Нововоронеж\nВоронежская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Нововоронеж",
-    "region": "Воронежская область",
-    "lat": 51.30905,
-    "lon": 39.2160054
-  },
-  {
-    "id": "LPRalarm_255751",
-    "channel": "LPRalarm",
-    "date": "2026-10-31T20:46:07+00:00",
-    "text": "Ливны и близлежащие\nОрловская область\nТревога по БПЛА \nИ далее в направлении Липецкой области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_93230_Алексеевский",
-    "channel": "locatorru",
-    "date": "2026-10-31T20:46:18+00:00",
-    "text": "Мухоудеровка, Алексеевский район, Белгородская область - пролёт БПЛА в сторону Острогожска.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Алексеевский",
-    "region": "Белгородская область",
-    "lat": 50.5356823,
-    "lon": 38.7892633
-  },
-  {
-    "id": "locatorru_93230_Мухоудеровка",
-    "channel": "locatorru",
-    "date": "2026-10-31T20:46:18+00:00",
-    "text": "Мухоудеровка, Алексеевский район, Белгородская область - пролёт БПЛА в сторону Острогожска.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Мухоудеровка",
-    "region": "Белгородская область",
-    "lat": 50.6688142,
-    "lon": 38.8745883
-  },
-  {
-    "id": "kupolrussia_146584",
-    "channel": "kupolrussia",
-    "date": "2026-10-31T20:46:25+00:00",
-    "text": "Ливны и близлежащие\nОрловская область\nТревога по БПЛА \nИ далее в направлении Липецкой области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_104504",
-    "channel": "vrv_radar",
-    "date": "2026-10-31T20:46:41+00:00",
-    "text": "Липецкая область\nОпасность по БПЛА повторно",
-    "type": "drone",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_255752",
     "channel": "LPRalarm",
     "date": "2026-10-31T20:47:00+00:00",
@@ -21998,5 +21899,104 @@
     "region": "Самарская область",
     "lat": 53.430012,
     "lon": 50.124226
+  },
+  {
+    "id": "vrv_radar_104881_Волжский",
+    "channel": "vrv_radar",
+    "date": "2026-11-02T02:18:55+00:00",
+    "text": "Просвет\nВолжский район\nСамарская область\nСбитие БПЛА",
+    "type": "all_clear",
+    "location_name": "Волжский",
+    "region": "Самарская область",
+    "lat": 53.430012,
+    "lon": 50.124226
+  },
+  {
+    "id": "vrv_radar_104882",
+    "channel": "vrv_radar",
+    "date": "2026-11-02T02:20:07+00:00",
+    "text": "Тульская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147016",
+    "channel": "kupolrussia",
+    "date": "2026-11-02T02:20:35+00:00",
+    "text": "Тульская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256250",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T02:20:39+00:00",
+    "text": "Тульская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102724",
+    "channel": "radarrussiia",
+    "date": "2026-11-02T02:21:29+00:00",
+    "text": "Тульская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256251",
+    "channel": "LPRalarm",
+    "date": "2026-11-02T02:25:44+00:00",
+    "text": "Борисоглебск и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147017",
+    "channel": "kupolrussia",
+    "date": "2026-11-02T02:25:51+00:00",
+    "text": "Борисоглебск и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_104883_Борисоглебск",
+    "channel": "vrv_radar",
+    "date": "2026-11-02T02:29:20+00:00",
+    "text": "Борисоглебск\nВоронежская область\nМеры безопасности",
+    "type": "alert",
+    "location_name": "Борисоглебск",
+    "region": "Воронежская область",
+    "lat": 51.368015,
+    "lon": 42.075169
+  },
+  {
+    "id": "locatorru_93466",
+    "channel": "locatorru",
+    "date": "2026-11-02T02:30:11+00:00",
+    "text": "Борисоглебск, Воронежская область - опасность по БПЛА сохраняется и в направлении Саратовской и Самарской областей. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
   }
 ]
