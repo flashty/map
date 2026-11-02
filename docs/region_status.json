@@ -49,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "киевск": {
-    "display_name": "Киевская область",
-    "type": "missile",
-    "text": "Курская область\nБелгородская область\nБрянская область\nХарьковская область РФ\nЛДНР\nАвиационная, ракетная, бомбовая опасность\nСамолёт тактической авиации в районе Фастова (Киевская область)",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-02T01:03:20+00:00",
-    "expires_at": "2026-11-02T02:03:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
@@ -126,6 +116,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-11-02T01:53:56+00:00",
     "expires_at": "2026-11-02T02:53:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "самарск": {
+    "display_name": "Самарская область",
+    "type": "drone",
+    "text": "Волжский район,  Самарская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-02T02:09:57+00:00",
+    "expires_at": "2026-11-02T03:09:57+00:00",
     "count": null,
     "count_approx": false
   }
