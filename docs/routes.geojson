@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-02T00:50:46+00:00",
+        "last_updated": "2026-11-02T01:04:20+00:00",
+        "path_labels": [
+          "Волжский (Самарская область)",
+          "Самара (Самарская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.124226,
+            53.430012
+          ],
+          [
+            50.1014927,
+            53.1956255
+          ]
+        ]
+      }
+    }
+  ]
 }
