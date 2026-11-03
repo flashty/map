@@ -2,10 +2,10 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Станично- Луганский, Новоайдарский, Старобельский , Сватовский районы ЛНР\nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-03T05:22:50+00:00",
-    "expires_at": "2026-11-03T06:22:50+00:00",
+    "text": "От Желобок на Смелое ЛНР \nТревога по БПЛА Хорнет",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-03T05:41:39+00:00",
+    "expires_at": "2026-11-03T06:41:39+00:00",
     "count": null,
     "count_approx": false
   },
@@ -16,6 +16,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-03T05:30:50+00:00",
     "expires_at": "2026-11-03T06:30:50+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородской области",
+    "type": "drone",
+    "text": "Яковлевский район \nБелгородской области \nОпасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-03T05:38:59+00:00",
+    "expires_at": "2026-11-03T06:38:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ивановск": {
+    "display_name": "Ивановская область",
+    "type": "drone",
+    "text": "Савинский район\nИвановская область \nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-03T05:42:50+00:00",
+    "expires_at": "2026-11-03T06:42:50+00:00",
     "count": null,
     "count_approx": false
   }
