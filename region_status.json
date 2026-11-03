@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Трасса Волноваха - Тельманово\nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-03T14:20:28+00:00",
-    "expires_at": "2026-11-03T15:20:28+00:00",
+    "text": "Часов Яр и близлежащие \nДНР \nОпасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-03T14:32:27+00:00",
+    "expires_at": "2026-11-03T15:32:27+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +46,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-11-03T13:58:28+00:00",
     "expires_at": "2026-11-03T14:58:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарско": {
+    "display_name": "Краснодарского края",
+    "type": "missile",
+    "text": "Приазовье Краснодарского края, Крыма от Бердянск в Азовское море \nРакетная тревога",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-03T14:43:45+00:00",
+    "expires_at": "2026-11-03T15:43:45+00:00",
     "count": null,
     "count_approx": false
   }
