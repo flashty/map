@@ -1,16 +1,5 @@
 [
   {
-    "id": "LPRalarm_256175",
-    "channel": "LPRalarm",
-    "date": "2026-11-01T21:35:29+00:00",
-    "text": "Новофедоровка и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_146947",
     "channel": "kupolrussia",
     "date": "2026-11-01T21:35:33+00:00",
@@ -21998,5 +21987,16 @@
     "region": "Рязанская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_256677_Белгороде",
+    "channel": "LPRalarm",
+    "date": "2026-11-03T05:12:36+00:00",
+    "text": "ОТБОЙ ОПАСНОСТИ АТАКИ БПЛА в г. Белгороде, Волоконовском  и Вейделевском МО",
+    "type": "all_clear",
+    "location_name": "Белгороде",
+    "region": null,
+    "lat": 54.3958901,
+    "lon": 38.5279843
   }
 ]
