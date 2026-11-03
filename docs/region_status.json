@@ -29,23 +29,13 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Бердянск тревога по БПЛА и близлежащие\nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-03T15:33:21+00:00",
-    "expires_at": "2026-11-03T16:33:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
     "text": "Корчма и близлежащие \nОпасность по БПЛА Хорнет \nХерсонская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-03T16:29:57+00:00",
-    "expires_at": "2026-11-03T17:29:57+00:00",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-03T16:31:23+00:00",
+    "expires_at": "2026-11-03T17:31:23+00:00",
     "count": null,
     "count_approx": false
   },
@@ -82,10 +72,20 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Горское\nОрехово\nСмелое\nЖелобок фиксации БПЛА на юго Восток\nЛНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-03T16:18:46+00:00",
-    "expires_at": "2026-11-03T17:18:46+00:00",
+    "text": "Беловодск и близлежащие \nОпасность по БПЛА \nЛНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-03T16:31:35+00:00",
+    "expires_at": "2026-11-03T17:31:35+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Курская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-03T16:33:06+00:00",
+    "expires_at": "2026-11-03T17:33:06+00:00",
     "count": null,
     "count_approx": false
   }
