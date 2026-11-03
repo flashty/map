@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_256223_Анапский",
-    "channel": "LPRalarm",
-    "date": "2026-11-01T23:44:08+00:00",
-    "text": "Анапский район\nТревога по БпЛА сохраняется",
-    "type": "drone",
-    "location_name": "Анапский",
-    "region": null,
-    "lat": 45.0702704,
-    "lon": 37.755292
-  },
-  {
-    "id": "kupolrussia_146990_Анапский",
-    "channel": "kupolrussia",
-    "date": "2026-11-01T23:44:12+00:00",
-    "text": "Анапский район\nТревога по БпЛА сохраняется",
-    "type": "drone",
-    "location_name": "Анапский",
-    "region": null,
-    "lat": 45.0702704,
-    "lon": 37.755292
-  },
-  {
-    "id": "LPRalarm_256224",
-    "channel": "LPRalarm",
-    "date": "2026-11-01T23:44:45+00:00",
-    "text": "Темрюк\nМеры предосторожности!!!",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146991",
-    "channel": "kupolrussia",
-    "date": "2026-11-01T23:44:56+00:00",
-    "text": "Темрюк\nМеры предосторожности!!!",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_93457",
-    "channel": "locatorru",
-    "date": "2026-11-01T23:46:52+00:00",
-    "text": "Взлом РСЧС, не реагируйте. \n\n📡Локатор России - @locatorru",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_256225",
-    "channel": "LPRalarm",
-    "date": "2026-11-01T23:47:05+00:00",
-    "text": "Приморско-Ахтарск и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146992",
-    "channel": "kupolrussia",
-    "date": "2026-11-01T23:47:11+00:00",
-    "text": "Приморско-Ахтарск и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_256226",
-    "channel": "LPRalarm",
-    "date": "2026-11-01T23:53:38+00:00",
-    "text": "Уважаемые коллеги, родные и близкие!\nВсё видим, всё знаем. Приложение МЧС взломано, от сюда могут быть сомнительные публикации в оперштабах областей в связи с особенностями их работы. До официальных сообщений о стабилизации ситуации рекомендуем не использовать приложение. Огромная просьба в бот нам скриншоты не присылать. Спасибо за понимание!",
-    "type": "unknown",
-    "location_name": null,
-    "region": "областей",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_146993",
     "channel": "kupolrussia",
     "date": "2026-11-01T23:53:44+00:00",
@@ -21996,6 +21908,94 @@
     "type": "alert",
     "location_name": null,
     "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256781",
+    "channel": "LPRalarm",
+    "date": "2026-11-03T14:03:34+00:00",
+    "text": "Новоэкономическое, Красноармейск, Прогресс и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147486",
+    "channel": "kupolrussia",
+    "date": "2026-11-03T14:03:48+00:00",
+    "text": "Новоэкономическое, Красноармейск, Прогресс и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256782",
+    "channel": "LPRalarm",
+    "date": "2026-11-03T14:04:19+00:00",
+    "text": "Донецк, Макеевка, Харцызск и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147487",
+    "channel": "kupolrussia",
+    "date": "2026-11-03T14:04:44+00:00",
+    "text": "Донецк, Макеевка, Харцызск и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256783",
+    "channel": "LPRalarm",
+    "date": "2026-11-03T14:07:27+00:00",
+    "text": "Брилевка и близлежащие \nХерсонская область РФ \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147489",
+    "channel": "kupolrussia",
+    "date": "2026-11-03T14:07:39+00:00",
+    "text": "Брилевка и близлежащие \nХерсонская область РФ \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256784",
+    "channel": "LPRalarm",
+    "date": "2026-11-03T14:08:33+00:00",
+    "text": "Гвардейское и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147490",
+    "channel": "kupolrussia",
+    "date": "2026-11-03T14:08:42+00:00",
+    "text": "Гвардейское и близлежащие \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
