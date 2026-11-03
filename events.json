@@ -1,82 +1,5 @@
 [
   {
-    "id": "locatorru_93442",
-    "channel": "locatorru",
-    "date": "2026-11-01T21:50:27+00:00",
-    "text": "Таганрог и близлежащие, Ростовская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_256183",
-    "channel": "LPRalarm",
-    "date": "2026-11-01T21:50:35+00:00",
-    "text": "Волгоградская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146955",
-    "channel": "kupolrussia",
-    "date": "2026-11-01T21:51:05+00:00",
-    "text": "Кашира\nМО",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_256184",
-    "channel": "LPRalarm",
-    "date": "2026-11-01T21:51:10+00:00",
-    "text": "Кашира\nМО",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_256185",
-    "channel": "LPRalarm",
-    "date": "2026-11-01T21:51:40+00:00",
-    "text": "Ростовская область\nТаганрог\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146956",
-    "channel": "kupolrussia",
-    "date": "2026-11-01T21:51:51+00:00",
-    "text": "Ростовская область\nТаганрог\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_256186",
-    "channel": "LPRalarm",
-    "date": "2026-11-01T21:52:25+00:00",
-    "text": "ВСЯ Ростовская область ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_146957",
     "channel": "kupolrussia",
     "date": "2026-11-01T21:52:29+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15674",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-03T07:17:45+00:00",
+    "text": "Отбой опасности БПЛА по всем ранее объявленным регионам.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15675",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-03T07:17:48+00:00",
+    "text": "⚡️За ночь средствами ПВО было уничтожено 856 БПЛА над Брянской, Белгородской, Владимирской, Калужской, Курской, Новгородской, Орловской, Ростовской, Рязанской, Смоленской, Тверской, Тульской, Ярославской областей, Московского региона, Республики Крым и над акваторией Черного моря.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Брянской областей",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256701",
+    "channel": "LPRalarm",
+    "date": "2026-11-03T07:18:02+00:00",
+    "text": "Донецк, Ясиноватая и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147412",
+    "channel": "kupolrussia",
+    "date": "2026-11-03T07:18:17+00:00",
+    "text": "Донецк, Ясиноватая и близлежащие \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256702",
+    "channel": "LPRalarm",
+    "date": "2026-11-03T07:20:45+00:00",
+    "text": "Новокиевка на Каланчак БПЛА Хорнет \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147413",
+    "channel": "kupolrussia",
+    "date": "2026-11-03T07:20:54+00:00",
+    "text": "Новокиевка на Каланчак БПЛА Хорнет \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256703",
+    "channel": "LPRalarm",
+    "date": "2026-11-03T07:24:54+00:00",
+    "text": "п. Октябрьский Донецк ДНР опасность по БПЛА. Меры безопасности",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
