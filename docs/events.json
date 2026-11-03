@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_104851_Вольский",
-    "channel": "vrv_radar",
-    "date": "2026-11-01T23:35:34+00:00",
-    "text": "Вольский район\nСаратовская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Вольский",
-    "region": "Саратовская область",
-    "lat": 52.2742827,
-    "lon": 47.3230115
-  },
-  {
-    "id": "vrv_radar_104852_Верхнедонской",
-    "channel": "vrv_radar",
-    "date": "2026-11-01T23:37:17+00:00",
-    "text": "Верхнедонской район\nРостовская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Верхнедонской",
-    "region": "Ростовская область",
-    "lat": 49.7991115,
-    "lon": 41.2630916
-  },
-  {
-    "id": "vrv_radar_104853_Краснокутский",
-    "channel": "vrv_radar",
-    "date": "2026-11-01T23:37:37+00:00",
-    "text": "Краснокутский район\nСаратовская область \nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Краснокутский",
-    "region": "Саратовская область",
-    "lat": 50.8652774,
-    "lon": 46.9679154
-  },
-  {
     "id": "LPRalarm_256223_Анапский",
     "channel": "LPRalarm",
     "date": "2026-11-01T23:44:08+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256780",
+    "channel": "LPRalarm",
+    "date": "2026-11-03T13:53:58+00:00",
+    "text": "Свердловск и близлежащие \nЛНР \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147485",
+    "channel": "kupolrussia",
+    "date": "2026-11-03T13:54:04+00:00",
+    "text": "Свердловск и близлежащие \nЛНР \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_105281",
+    "channel": "vrv_radar",
+    "date": "2026-11-03T13:58:28+00:00",
+    "text": "Волгоград \nВолгоградская область \nЗвуки не несут опасности",
+    "type": "alert",
+    "location_name": null,
+    "region": "Волгоградская область",
     "lat": null,
     "lon": null
   }
