@@ -1,11 +1,11 @@
 {
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "alert",
-    "text": "Волноваха и близлежащие \nМеры безопасности \n\nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-03T12:24:35+00:00",
-    "expires_at": "2026-11-03T13:24:35+00:00",
+    "type": "drone",
+    "text": "Новая Полтавка и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-03T12:50:56+00:00",
+    "expires_at": "2026-11-03T13:50:56+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,23 +49,13 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Первомайск и близлежащие \nЛНР \nОпасность по БПЛА Хорнет и далее на юго-восток",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-03T11:57:56+00:00",
-    "expires_at": "2026-11-03T12:57:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
-    "type": "missile",
-    "text": "Херсонская область РФ \nАвиационная ракетно бомбовая опасность",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-03T11:59:53+00:00",
-    "expires_at": "2026-11-03T12:59:53+00:00",
+    "type": "drone",
+    "text": "Каланчак и близлежащие \nХерсонская область РФ \nОпасность по БПЛА Хорнет",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-03T13:00:29+00:00",
+    "expires_at": "2026-11-03T14:00:29+00:00",
     "count": null,
     "count_approx": false
   },
