@@ -132,10 +132,10 @@
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
-    "text": "Рязань\nРязанская область\nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-03T02:53:54+00:00",
-    "expires_at": "2026-11-03T03:53:54+00:00",
+    "text": "Рязань и район в т.ч. аэ.Дягилево, Рязанская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-03T03:12:20+00:00",
+    "expires_at": "2026-11-03T04:12:20+00:00",
     "count": null,
     "count_approx": false
   },
@@ -146,6 +146,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-03T02:50:38+00:00",
     "expires_at": "2026-11-03T03:50:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "вологодск": {
+    "display_name": "Вологодская область",
+    "type": "drone",
+    "text": "Вологодская область\nВНИМАНИЕ!!!\n——/^\\ — оБЪЯВЛЕН |\n^^ М желтый уровень\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-03T03:11:29+00:00",
+    "expires_at": "2026-11-03T04:11:29+00:00",
     "count": null,
     "count_approx": false
   }

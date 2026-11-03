@@ -1,82 +1,5 @@
 [
   {
-    "id": "vrv_radar_104800_Знаменский",
-    "channel": "vrv_radar",
-    "date": "2026-11-01T20:49:27+00:00",
-    "text": "Знаменский район\nТамбовская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Знаменский",
-    "region": "Тамбовская область",
-    "lat": 52.379734,
-    "lon": 41.2861904
-  },
-  {
-    "id": "vrv_radar_104801_Нижнедевицкий",
-    "channel": "vrv_radar",
-    "date": "2026-11-01T20:50:02+00:00",
-    "text": "Нижнедевицкий район\nВоронежская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Нижнедевицкий",
-    "region": "Воронежская область",
-    "lat": 51.4663379,
-    "lon": 38.4601162
-  },
-  {
-    "id": "LPRalarm_256157",
-    "channel": "LPRalarm",
-    "date": "2026-11-01T20:59:18+00:00",
-    "text": "Луганск и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146929",
-    "channel": "kupolrussia",
-    "date": "2026-11-01T20:59:23+00:00",
-    "text": "Луганск и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_104802",
-    "channel": "vrv_radar",
-    "date": "2026-11-01T21:00:17+00:00",
-    "text": "Республика Мордовия\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_102707",
-    "channel": "radarrussiia",
-    "date": "2026-11-01T21:00:46+00:00",
-    "text": "Республика Мордовия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_256158_Золотухинский",
-    "channel": "LPRalarm",
-    "date": "2026-11-01T21:01:23+00:00",
-    "text": "Тазово Золотухинский район\nЗолотухино и близлежащие, тревога по БпЛА \nКурская область",
-    "type": "drone",
-    "location_name": "Золотухинский",
-    "region": "Курская область",
-    "lat": 52.038611,
-    "lon": 36.3621685
-  },
-  {
     "id": "kupolrussia_146930_Золотухинский",
     "channel": "kupolrussia",
     "date": "2026-11-01T21:01:28+00:00",
@@ -21998,5 +21921,82 @@
     "region": "Рязанская область",
     "lat": 54.6295687,
     "lon": 39.7425039
+  },
+  {
+    "id": "locatorru_93610",
+    "channel": "locatorru",
+    "date": "2026-11-03T03:04:46+00:00",
+    "text": "г.Ярославль и район - от массовости отбились. Возможны единичные фиксации. \n\n📡Локатор России - @locatorru",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_105243_Рязань",
+    "channel": "vrv_radar",
+    "date": "2026-11-03T03:05:42+00:00",
+    "text": "Рязань\nРязанская область\nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": "Рязань",
+    "region": "Рязанская область",
+    "lat": 54.6295687,
+    "lon": 39.7425039
+  },
+  {
+    "id": "locatorru_93611",
+    "channel": "locatorru",
+    "date": "2026-11-03T03:08:14+00:00",
+    "text": "Череповец и близлежащие, Вологодская область - опасность по БПЛА от Ярославской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Вологодская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_105244",
+    "channel": "vrv_radar",
+    "date": "2026-11-03T03:10:09+00:00",
+    "text": "Вологодская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Вологодская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147381",
+    "channel": "kupolrussia",
+    "date": "2026-11-03T03:11:26+00:00",
+    "text": "Вологодская область\nВНИМАНИЕ!!!\n——/^\\ — оБЪЯВЛЕН |\n^^ М желтый уровень\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Вологодская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256660",
+    "channel": "LPRalarm",
+    "date": "2026-11-03T03:11:29+00:00",
+    "text": "Вологодская область\nВНИМАНИЕ!!!\n——/^\\ — оБЪЯВЛЕН |\n^^ М желтый уровень\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Вологодская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_93612_Дягилево",
+    "channel": "locatorru",
+    "date": "2026-11-03T03:12:20+00:00",
+    "text": "Рязань и район в т.ч. аэ.Дягилево, Рязанская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Дягилево",
+    "region": "Рязанская область",
+    "lat": 54.6438076,
+    "lon": 39.5729428
   }
 ]
