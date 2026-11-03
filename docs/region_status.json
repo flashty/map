@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Пос.Октябрьский ДНР и близлежащие \nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-03T10:11:35+00:00",
-    "expires_at": "2026-11-03T11:11:35+00:00",
+    "text": "Трасса Волноваха - Мариуполь тревога по БПЛА от Волноваха \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-03T11:14:44+00:00",
+    "expires_at": "2026-11-03T12:14:44+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +56,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-03T10:51:03+00:00",
     "expires_at": "2026-11-03T11:51:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Джанкой и близлежащие тревога по БПЛА со стороны Красноперекопска \nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-03T11:07:54+00:00",
+    "expires_at": "2026-11-03T12:07:54+00:00",
     "count": null,
     "count_approx": false
   }
