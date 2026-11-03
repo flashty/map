@@ -1,11 +1,11 @@
 {
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Курахово, Марьинка, Красногоровка, Донецк и близлежащие \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "missile",
+    "text": "ДНР опасность применения противником крылатых ракет от Кременчуг",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-03T11:44:23+00:00",
-    "expires_at": "2026-11-03T12:44:23+00:00",
+    "updated_at": "2026-11-03T12:00:24+00:00",
+    "expires_at": "2026-11-03T13:00:24+00:00",
     "count": null,
     "count_approx": false
   },
@@ -16,16 +16,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-03T11:30:08+00:00",
     "expires_at": "2026-11-03T12:30:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарско": {
-    "display_name": "Краснодарского края",
-    "type": "alert",
-    "text": "Отмена БЕСПИЛОТНОЙ ОПАСНОСТИ на территории Краснодарского края.",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-03T10:51:03+00:00",
-    "expires_at": "2026-11-03T11:51:03+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +36,46 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-03T11:44:01+00:00",
     "expires_at": "2026-11-03T12:44:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "alert",
+    "text": "Краснодарский край\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-03T11:51:30+00:00",
+    "expires_at": "2026-11-03T12:51:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "alert",
+    "text": "Ростовская область\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-03T11:51:55+00:00",
+    "expires_at": "2026-11-03T12:51:55+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Первомайск и близлежащие \nЛНР \nОпасность по БПЛА Хорнет и далее на юго-восток",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-03T11:57:56+00:00",
+    "expires_at": "2026-11-03T12:57:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "missile",
+    "text": "Херсонская область РФ \nАвиационная ракетно бомбовая опасность",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-03T11:59:53+00:00",
+    "expires_at": "2026-11-03T12:59:53+00:00",
     "count": null,
     "count_approx": false
   }
