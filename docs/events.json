@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_256173",
-    "channel": "LPRalarm",
-    "date": "2026-11-01T21:31:39+00:00",
-    "text": "Опасность по БпЛА Бердянский Приморский р-ны",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146945",
-    "channel": "kupolrussia",
-    "date": "2026-11-01T21:31:44+00:00",
-    "text": "Опасность по БпЛА Бердянский Приморский р-ны",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_256174",
-    "channel": "LPRalarm",
-    "date": "2026-11-01T21:33:01+00:00",
-    "text": "Каховка\nБаба Яга",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146946",
-    "channel": "kupolrussia",
-    "date": "2026-11-01T21:33:05+00:00",
-    "text": "Каховка\nБаба Яга",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_256175",
     "channel": "LPRalarm",
     "date": "2026-11-01T21:35:29+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_105255",
+    "channel": "vrv_radar",
+    "date": "2026-11-03T04:47:06+00:00",
+    "text": "Тамбовская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147395",
+    "channel": "kupolrussia",
+    "date": "2026-11-03T04:49:26+00:00",
+    "text": "Тамбовская область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256676",
+    "channel": "LPRalarm",
+    "date": "2026-11-03T04:49:29+00:00",
+    "text": "Тамбовская область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_105256",
+    "channel": "vrv_radar",
+    "date": "2026-11-03T04:56:35+00:00",
+    "text": "Рязанская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
     "lat": null,
     "lon": null
   }
