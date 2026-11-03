@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_256208",
-    "channel": "LPRalarm",
-    "date": "2026-11-01T22:46:12+00:00",
-    "text": "От Севастополя\nМыс Херсонес\nРеактивные пролеты",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_104835_Неверкинский",
-    "channel": "vrv_radar",
-    "date": "2026-11-01T22:46:15+00:00",
-    "text": "Неверкинский район\nПензенская область\nЕще фиксация БПЛА",
-    "type": "drone",
-    "location_name": "Неверкинский",
-    "region": "Пензенская область",
-    "lat": 52.7787253,
-    "lon": 46.690152
-  },
-  {
-    "id": "kupolrussia_146977",
-    "channel": "kupolrussia",
-    "date": "2026-11-01T22:46:16+00:00",
-    "text": "От Севастополя\nМыс Херсонес\nРеактивные пролеты",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_104836_Дубовский",
-    "channel": "vrv_radar",
-    "date": "2026-11-01T22:49:24+00:00",
-    "text": "Дубовский район\nВолгоградская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Дубовский",
-    "region": "Волгоградская область",
-    "lat": 50.5301704,
-    "lon": 41.9933747
-  },
-  {
-    "id": "LPRalarm_256209",
-    "channel": "LPRalarm",
-    "date": "2026-11-01T22:51:57+00:00",
-    "text": "Старотитаровская и близлежащие, тревога по БпЛА \nМеры предосторожности, срочно!",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146978",
-    "channel": "kupolrussia",
-    "date": "2026-11-01T22:52:03+00:00",
-    "text": "Старотитаровская и близлежащие, тревога по БпЛА \nМеры предосторожности, срочно!",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_146979",
-    "channel": "kupolrussia",
-    "date": "2026-11-01T22:54:30+00:00",
-    "text": "Пензенская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_256210",
-    "channel": "LPRalarm",
-    "date": "2026-11-01T22:54:36+00:00",
-    "text": "Пензенская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_104837_Энгельс",
     "channel": "vrv_radar",
     "date": "2026-11-01T22:56:08+00:00",
@@ -21998,5 +21910,93 @@
     "region": null,
     "lat": 52.5519484,
     "lon": 79.8417862
+  },
+  {
+    "id": "kupolrussia_147455_Раздольненский",
+    "channel": "kupolrussia",
+    "date": "2026-11-03T11:16:24+00:00",
+    "text": "Курганное Раздольненский район и далее на юг параллельно трассе Красноперекопск - Симферополь фиксация БПЛА",
+    "type": "drone",
+    "location_name": "Раздольненский",
+    "region": null,
+    "lat": 52.5519484,
+    "lon": 79.8417862
+  },
+  {
+    "id": "LPRalarm_256749_Запад",
+    "channel": "LPRalarm",
+    "date": "2026-11-03T11:28:27+00:00",
+    "text": "Запад, северо-запад Крыма опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Запад",
+    "region": null,
+    "lat": 57.8723,
+    "lon": 41.669
+  },
+  {
+    "id": "kupolrussia_147456_Запад",
+    "channel": "kupolrussia",
+    "date": "2026-11-03T11:28:36+00:00",
+    "text": "Запад, северо-запад Крыма\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Запад",
+    "region": null,
+    "lat": 57.8723,
+    "lon": 41.669
+  },
+  {
+    "id": "kupolrussia_147456_Крыма",
+    "channel": "kupolrussia",
+    "date": "2026-11-03T11:28:36+00:00",
+    "text": "Запад, северо-запад Крыма\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Крыма",
+    "region": null,
+    "lat": 54.9683122,
+    "lon": 48.3030779
+  },
+  {
+    "id": "LPRalarm_256750",
+    "channel": "LPRalarm",
+    "date": "2026-11-03T11:29:02+00:00",
+    "text": "От Новобогдановки БПЛА в сторону Мелитополя\n\nНикванта подписаться 🇷🇺\n\nНикванта в МАХ",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147457",
+    "channel": "kupolrussia",
+    "date": "2026-11-03T11:29:19+00:00",
+    "text": "От Новобогдановки БПЛА в сторону Мелитополя",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256751_Погарский",
+    "channel": "LPRalarm",
+    "date": "2026-11-03T11:30:04+00:00",
+    "text": "Погарский район \nБрянская область \nОпасность по БПЛА Дартс",
+    "type": "drone",
+    "location_name": "Погарский",
+    "region": "Брянская область",
+    "lat": 52.5207056,
+    "lon": 33.2053408
+  },
+  {
+    "id": "kupolrussia_147458_Погарский",
+    "channel": "kupolrussia",
+    "date": "2026-11-03T11:30:08+00:00",
+    "text": "Погарский район \nБрянская область \nОпасность по БПЛА Дартс",
+    "type": "drone",
+    "location_name": "Погарский",
+    "region": "Брянская область",
+    "lat": 52.5207056,
+    "lon": 33.2053408
   }
 ]
