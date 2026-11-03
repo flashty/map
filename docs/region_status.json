@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Шахтёрск, Торез, Снежное и близлежащие \nТревога по БПЛА\nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-03T06:04:46+00:00",
-    "expires_at": "2026-11-03T07:04:46+00:00",
+    "text": "Харцызск, Иловайск и близлежащие \nТревога по БПЛА Хорнет \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-03T06:49:38+00:00",
+    "expires_at": "2026-11-03T07:49:38+00:00",
     "count": null,
     "count_approx": false
   },
@@ -16,6 +16,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-03T06:14:57+00:00",
     "expires_at": "2026-11-03T07:14:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "г. Брянка ЛНР тревога по БПЛА Хорнет",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-03T06:57:28+00:00",
+    "expires_at": "2026-11-03T07:57:28+00:00",
     "count": null,
     "count_approx": false
   }
