@@ -1,115 +1,5 @@
 [
   {
-    "id": "vrv_radar_104837_Энгельс",
-    "channel": "vrv_radar",
-    "date": "2026-11-01T22:56:08+00:00",
-    "text": "Саратов/Энгельс\nСаратовская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Энгельс",
-    "region": "Саратовская область",
-    "lat": 51.5013775,
-    "lon": 46.1233093
-  },
-  {
-    "id": "LPRalarm_256211",
-    "channel": "LPRalarm",
-    "date": "2026-11-01T23:00:14+00:00",
-    "text": "Приазовский\nКучугуры и близлежащие \nЕщё фиксации БПЛА с моря\nПринять меры безопасности \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_104838",
-    "channel": "vrv_radar",
-    "date": "2026-11-01T23:01:03+00:00",
-    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_104839_Саратов",
-    "channel": "vrv_radar",
-    "date": "2026-11-01T23:01:27+00:00",
-    "text": "Энгельс/Саратов\nСаратовская область\nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Саратов",
-    "region": "Саратовская область",
-    "lat": 51.530018,
-    "lon": 46.034683
-  },
-  {
-    "id": "LPRalarm_256212_Новороссийск",
-    "channel": "LPRalarm",
-    "date": "2026-11-01T23:02:39+00:00",
-    "text": "Новороссийск, Славянск-на-Кубани и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Новороссийск",
-    "region": null,
-    "lat": 44.7239578,
-    "lon": 37.7690711
-  },
-  {
-    "id": "kupolrussia_146980_Новороссийск",
-    "channel": "kupolrussia",
-    "date": "2026-11-01T23:02:44+00:00",
-    "text": "Новороссийск, Славянск-на-Кубани и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Новороссийск",
-    "region": null,
-    "lat": 44.7239578,
-    "lon": 37.7690711
-  },
-  {
-    "id": "radar_plus_bpla_15654",
-    "channel": "radar_plus_bpla",
-    "date": "2026-11-01T23:03:19+00:00",
-    "text": "Саратов\nЭнгельс\n\nСбития БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_256213_Темрюк",
-    "channel": "LPRalarm",
-    "date": "2026-11-01T23:04:01+00:00",
-    "text": "Темрюк, Курчанская и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Темрюк",
-    "region": null,
-    "lat": 45.2823609,
-    "lon": 37.3658235
-  },
-  {
-    "id": "kupolrussia_146981_Темрюк",
-    "channel": "kupolrussia",
-    "date": "2026-11-01T23:04:05+00:00",
-    "text": "Темрюк, Курчанская и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Темрюк",
-    "region": null,
-    "lat": 45.2823609,
-    "lon": 37.3658235
-  },
-  {
-    "id": "locatorru_93453_Саратов",
-    "channel": "locatorru",
-    "date": "2026-11-01T23:04:28+00:00",
-    "text": "Саратов, Энгельс, Татищево, Вольск, Балаково и близлежащие, Саратовская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Саратов",
-    "region": "Саратовская область",
-    "lat": 51.530018,
-    "lon": 46.034683
-  },
-  {
     "id": "locatorru_93453_Энгельс",
     "channel": "locatorru",
     "date": "2026-11-01T23:04:28+00:00",
@@ -21998,5 +21888,115 @@
     "region": "Брянская область",
     "lat": 52.5207056,
     "lon": 33.2053408
+  },
+  {
+    "id": "LPRalarm_256752",
+    "channel": "LPRalarm",
+    "date": "2026-11-03T11:40:39+00:00",
+    "text": "Гвардейское и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147459",
+    "channel": "kupolrussia",
+    "date": "2026-11-03T11:40:44+00:00",
+    "text": "Гвардейское и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256753",
+    "channel": "LPRalarm",
+    "date": "2026-11-03T11:43:03+00:00",
+    "text": "ЛДНР, Харьковская область РФ, Запорожская область РФ \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Харьковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147460",
+    "channel": "kupolrussia",
+    "date": "2026-11-03T11:43:19+00:00",
+    "text": "ЛДНР\nХарьковская область РФ\nЗапорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Харьковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256754",
+    "channel": "LPRalarm",
+    "date": "2026-11-03T11:43:58+00:00",
+    "text": "Токмакский район тревога по БПЛА Запорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147461",
+    "channel": "kupolrussia",
+    "date": "2026-11-03T11:44:01+00:00",
+    "text": "Токмакский район тревога по БПЛА Запорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256755",
+    "channel": "LPRalarm",
+    "date": "2026-11-03T11:44:13+00:00",
+    "text": "Курахово, Марьинка, Красногоровка, Донецк и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147462",
+    "channel": "kupolrussia",
+    "date": "2026-11-03T11:44:23+00:00",
+    "text": "Курахово, Марьинка, Красногоровка, Донецк и близлежащие \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_256756",
+    "channel": "LPRalarm",
+    "date": "2026-11-03T11:45:14+00:00",
+    "text": "Красноперекопск и близлежащие \nРеспублика Крым \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147463",
+    "channel": "kupolrussia",
+    "date": "2026-11-03T11:45:25+00:00",
+    "text": "Красноперекопск и близлежащие \nРеспублика Крым\n3“ <\nжай ОТБОЙ\n`\\ь ОПАСНОСТИ ПО БПЛА\n2.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
   }
 ]
