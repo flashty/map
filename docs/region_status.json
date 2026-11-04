@@ -1,24 +1,4 @@
 {
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Трасса \nНовоалексеевка - Геническ \nТревога по БПЛА \nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-04T13:42:10+00:00",
-    "expires_at": "2026-11-04T14:42:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Трасса от Новосветловки на Краснодон тревога по БПЛА типа Хорнет.\nЛНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-04T13:40:41+00:00",
-    "expires_at": "2026-11-04T14:40:41+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белгородск": {
     "display_name": "Белгородской области",
     "type": "drone",
@@ -66,6 +46,26 @@
     "channel": "locatorru",
     "updated_at": "2026-11-04T14:10:21+00:00",
     "expires_at": "2026-11-04T15:10:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "alert",
+    "text": "Краснодарский край\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-04T14:44:21+00:00",
+    "expires_at": "2026-11-04T15:44:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарско": {
+    "display_name": "Краснодарского края",
+    "type": "missile",
+    "text": "Приазовье Краснодарского края - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-04T14:37:23+00:00",
+    "expires_at": "2026-11-04T15:37:23+00:00",
     "count": null,
     "count_approx": false
   }
