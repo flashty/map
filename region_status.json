@@ -19,43 +19,13 @@
     "count": null,
     "count_approx": false
   },
-  "саратовск": {
-    "display_name": "Саратовская область",
-    "type": "drone",
-    "text": "Фёдоровский район\nСоветский район\nСаратовская область\nФиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-04T05:26:06+00:00",
-    "expires_at": "2026-11-04T06:26:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "владимирск": {
-    "display_name": "Владимирская область",
-    "type": "drone",
-    "text": "Владимирская область \nОпасность сохраняется\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-04T05:08:38+00:00",
-    "expires_at": "2026-11-04T06:08:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "drone",
-    "text": "Кузнецкий район\nПензенская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-04T05:09:17+00:00",
-    "expires_at": "2026-11-04T06:09:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Республика Татарстан\nОренбургская область\nРеспублика Башкортостан \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-04T05:29:14+00:00",
-    "expires_at": "2026-11-04T06:29:14+00:00",
+    "text": "Республика Татарстан\nРеспублика Башкортостан \n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-11-04T05:48:54+00:00",
+    "expires_at": "2026-11-04T06:48:54+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,36 +36,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-11-04T05:29:14+00:00",
     "expires_at": "2026-11-04T06:29:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Чаплинка и близлежащие Опасность по БПЛА \nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-04T04:51:23+00:00",
-    "expires_at": "2026-11-04T05:51:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "-": {
-    "display_name": "Республика -",
-    "type": "drone",
-    "text": "Удмуртская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-04T04:58:30+00:00",
-    "expires_at": "2026-11-04T05:58:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Тамбовская область \nРеспублика Удмуртия \nУльяновская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-04T05:01:49+00:00",
-    "expires_at": "2026-11-04T06:01:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -112,30 +52,10 @@
   "башкортост": {
     "display_name": "Республика Башкортостан",
     "type": "drone",
-    "text": "Стерлитамак, Уфа, Салават, Республика Башкортостан - опасность по БПЛА. \n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-04T05:32:44+00:00",
-    "expires_at": "2026-11-04T06:32:44+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "ГО Подольск\nМосковская область\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-04T05:33:36+00:00",
-    "expires_at": "2026-11-04T06:33:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "missile",
-    "text": "Курская область и близлежащие \nАвиационно ракетно бомбовая опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-04T05:34:34+00:00",
-    "expires_at": "2026-11-04T06:34:34+00:00",
+    "text": "Республика Татарстан\nРеспублика Башкортостан \n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-11-04T05:48:54+00:00",
+    "expires_at": "2026-11-04T06:48:54+00:00",
     "count": null,
     "count_approx": false
   },
@@ -159,13 +79,13 @@
     "count": null,
     "count_approx": false
   },
-  "рязанск": {
-    "display_name": "Рязанская область",
+  "донецк": {
+    "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Касимовский район\nРязанская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-04T05:39:34+00:00",
-    "expires_at": "2026-11-04T06:39:34+00:00",
+    "text": "Донецк, Старобешево и близлежащие \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-04T06:01:08+00:00",
+    "expires_at": "2026-11-04T07:01:08+00:00",
     "count": null,
     "count_approx": false
   }
