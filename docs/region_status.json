@@ -42,10 +42,10 @@
   "пермск": {
     "display_name": "Пермский край",
     "type": "drone",
-    "text": "Пермь\nГубаха\nБерезники\nИ ближайшие \nПермский край\nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-04T06:56:24+00:00",
-    "expires_at": "2026-11-04T07:56:24+00:00",
+    "text": "Березники и близлежащие, Пермский край - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-04T07:16:57+00:00",
+    "expires_at": "2026-11-04T08:16:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +76,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-04T06:48:53+00:00",
     "expires_at": "2026-11-04T07:48:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "челябинск": {
+    "display_name": "Челябинская область",
+    "type": "drone",
+    "text": "Челябинская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-04T07:25:23+00:00",
+    "expires_at": "2026-11-04T08:25:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Старобельск и близлежащие \nОпасность по БПЛА Хорнет \nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-04T07:24:57+00:00",
+    "expires_at": "2026-11-04T08:24:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пензенск": {
+    "display_name": "Пензенская область",
+    "type": "drone",
+    "text": "Пензенская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-04T07:23:24+00:00",
+    "expires_at": "2026-11-04T08:23:24+00:00",
     "count": null,
     "count_approx": false
   }
