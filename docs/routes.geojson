@@ -5,6 +5,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-11-04T06:29:25+00:00",
+        "last_updated": "2026-11-04T07:00:28+00:00",
+        "path_labels": [
+          "Шаранский (Республика Башкортостан)",
+          "Чекмагушевский (Республика Башкортостан)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.9992201,
+            54.802224
+          ],
+          [
+            54.6444063,
+            55.1363959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-11-04T06:37:27+00:00",
         "last_updated": "2026-11-04T06:37:27+00:00",
         "path_labels": [
