@@ -2,20 +2,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Крымка \nИ близлежащие \nДжанкойский район \nТревога по БПЛА \nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-04T03:54:39+00:00",
-    "expires_at": "2026-11-04T04:54:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калуга\nКалужская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-04T04:00:32+00:00",
-    "expires_at": "2026-11-04T05:00:32+00:00",
+    "text": "Раздольненский р-н \nЧернышево, Портовое и близлежащие \nОпасность по БПЛА\nРеспублика Крым",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-04T04:55:16+00:00",
+    "expires_at": "2026-11-04T05:55:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,16 +36,6 @@
     "channel": "vrv_radar",
     "updated_at": "2026-11-04T04:04:07+00:00",
     "expires_at": "2026-11-04T05:04:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "МО Луховицы\nМосковская область\nФиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-04T03:47:48+00:00",
-    "expires_at": "2026-11-04T04:47:48+00:00",
     "count": null,
     "count_approx": false
   },
@@ -102,10 +82,10 @@
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
-    "text": "Республика Татарстан\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-04T04:28:25+00:00",
-    "expires_at": "2026-11-04T05:28:25+00:00",
+    "text": "Республика Татарстан\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-04T04:47:58+00:00",
+    "expires_at": "2026-11-04T05:47:58+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,6 +96,26 @@
     "channel": "locatorru",
     "updated_at": "2026-11-04T04:32:21+00:00",
     "expires_at": "2026-11-04T05:32:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Чаплинка и близлежащие Опасность по БПЛА \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-04T04:51:23+00:00",
+    "expires_at": "2026-11-04T05:51:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "-": {
+    "display_name": "Республика -",
+    "type": "drone",
+    "text": "Удмуртская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-04T04:58:30+00:00",
+    "expires_at": "2026-11-04T05:58:30+00:00",
     "count": null,
     "count_approx": false
   }
