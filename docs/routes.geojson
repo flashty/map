@@ -30,6 +30,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-11-04T06:29:55+00:00",
+        "last_updated": "2026-11-04T07:03:30+00:00",
+        "path_labels": [
+          "Мишкинский (Республика Башкортостан)",
+          "Бирский (Республика Башкортостан)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.9387642,
+            55.5140294
+          ],
+          [
+            55.5497487,
+            55.3693966
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-11-04T06:37:27+00:00",
         "last_updated": "2026-11-04T06:37:27+00:00",
         "path_labels": [
