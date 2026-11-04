@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_256747",
-    "channel": "LPRalarm",
-    "date": "2026-11-03T11:14:44+00:00",
-    "text": "Трасса Волноваха - Мариуполь тревога по БПЛА от Волноваха \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147454",
-    "channel": "kupolrussia",
-    "date": "2026-11-03T11:14:54+00:00",
-    "text": "Трасса Волноваха - Мариуполь\n от Волноваха \nДНР",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_256748_Раздольненский",
-    "channel": "LPRalarm",
-    "date": "2026-11-03T11:16:18+00:00",
-    "text": "Курганное Раздольненский район и далее на юг параллельно трассе Красноперекопск - Симферополь фиксация БПЛА",
-    "type": "drone",
-    "location_name": "Раздольненский",
-    "region": null,
-    "lat": 52.5519484,
-    "lon": 79.8417862
-  },
-  {
-    "id": "kupolrussia_147455_Раздольненский",
-    "channel": "kupolrussia",
-    "date": "2026-11-03T11:16:24+00:00",
-    "text": "Курганное Раздольненский район и далее на юг параллельно трассе Красноперекопск - Симферополь фиксация БПЛА",
-    "type": "drone",
-    "location_name": "Раздольненский",
-    "region": null,
-    "lat": 52.5519484,
-    "lon": 79.8417862
-  },
-  {
-    "id": "LPRalarm_256749_Запад",
-    "channel": "LPRalarm",
-    "date": "2026-11-03T11:28:27+00:00",
-    "text": "Запад, северо-запад Крыма опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Запад",
-    "region": null,
-    "lat": 57.8723,
-    "lon": 41.669
-  },
-  {
-    "id": "kupolrussia_147456_Запад",
-    "channel": "kupolrussia",
-    "date": "2026-11-03T11:28:36+00:00",
-    "text": "Запад, северо-запад Крыма\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Запад",
-    "region": null,
-    "lat": 57.8723,
-    "lon": 41.669
-  },
-  {
-    "id": "kupolrussia_147456_Крыма",
-    "channel": "kupolrussia",
-    "date": "2026-11-03T11:28:36+00:00",
-    "text": "Запад, северо-запад Крыма\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Крыма",
-    "region": null,
-    "lat": 54.9683122,
-    "lon": 48.3030779
-  },
-  {
-    "id": "LPRalarm_256750",
-    "channel": "LPRalarm",
-    "date": "2026-11-03T11:29:02+00:00",
-    "text": "От Новобогдановки БПЛА в сторону Мелитополя\n\nНикванта подписаться 🇷🇺\n\nНикванта в МАХ",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147457",
-    "channel": "kupolrussia",
-    "date": "2026-11-03T11:29:19+00:00",
-    "text": "От Новобогдановки БПЛА в сторону Мелитополя",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_256751_Погарский",
     "channel": "LPRalarm",
     "date": "2026-11-03T11:30:04+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_105589_Тюмень",
+    "channel": "vrv_radar",
+    "date": "2026-11-04T11:47:18+00:00",
+    "text": "Тюмень\nТюменская область\nФиксация 2 БПЛА",
+    "type": "drone",
+    "location_name": "Тюмень",
+    "region": "Тюменская область",
+    "lat": 57.153534,
+    "lon": 65.542274
+  },
+  {
+    "id": "radar_plus_bpla_15700",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-04T11:47:36+00:00",
+    "text": "На подлёте к Тюмени фиксации БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102850_Тюмень",
+    "channel": "radarrussiia",
+    "date": "2026-11-04T11:48:23+00:00",
+    "text": "Тюмень\nТюменская область\nФиксация 2 БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": "Тюмень",
+    "region": "Тюменская область",
+    "lat": 57.153534,
+    "lon": 65.542274
+  },
+  {
+    "id": "radar_plus_bpla_15701",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-04T11:51:10+00:00",
+    "text": "Ханты-Мансийский автономный округ - опасность БПЛА.\n\nЕсть фиксации от Свердловской области.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ханты-Мансийский автономный округ",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_257354_Климово",
+    "channel": "LPRalarm",
+    "date": "2026-11-04T11:52:05+00:00",
+    "text": "Климово, тревога по БПЛА типа Дартс\nБрянская область",
+    "type": "drone",
+    "location_name": "Климово",
+    "region": "Брянская область",
+    "lat": 52.3790542,
+    "lon": 32.1971433
+  },
+  {
+    "id": "kupolrussia_147980_Климово",
+    "channel": "kupolrussia",
+    "date": "2026-11-04T11:52:10+00:00",
+    "text": "Климово, тревога по БПЛА типа Дартс\nБрянская область",
+    "type": "drone",
+    "location_name": "Климово",
+    "region": "Брянская область",
+    "lat": 52.3790542,
+    "lon": 32.1971433
+  },
+  {
+    "id": "radar_plus_bpla_15702",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-04T11:53:01+00:00",
+    "text": "Группа БПЛА в направлении Омска через Курганскую область.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курганскую область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_257355",
+    "channel": "LPRalarm",
+    "date": "2026-11-04T11:57:39+00:00",
+    "text": "Бердянск \nБердянский район \nОпасность по БПЛА\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147981",
+    "channel": "kupolrussia",
+    "date": "2026-11-04T11:57:42+00:00",
+    "text": "Бердянск \nБердянский район \nОпасность по БПЛА\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
