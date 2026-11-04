@@ -12,10 +12,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Ленинский район \nТревога по БПЛА сохраняется \nРеспублика Крым",
+    "text": "От Багерово в направлении \nКерчь ещё фиксации БПЛА\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-04T02:27:26+00:00",
-    "expires_at": "2026-11-04T03:27:26+00:00",
+    "updated_at": "2026-11-04T02:36:14+00:00",
+    "expires_at": "2026-11-04T03:36:14+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,16 +26,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-04T02:01:30+00:00",
     "expires_at": "2026-11-04T03:01:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Курск и близлежащие \nТревога по БПЛА сохраняется \nИ далее в тыл \nКурская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-04T01:41:01+00:00",
-    "expires_at": "2026-11-04T02:41:01+00:00",
     "count": null,
     "count_approx": false
   },
@@ -91,11 +81,11 @@
   },
   "волгоградск": {
     "display_name": "Волгоградская область",
-    "type": "missile",
-    "text": "Волгоградская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-04T02:30:02+00:00",
-    "expires_at": "2026-11-04T03:30:02+00:00",
+    "type": "drone",
+    "text": "Камышинский район\nВолгоградская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-04T02:32:38+00:00",
+    "expires_at": "2026-11-04T03:32:38+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +96,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-11-04T02:28:47+00:00",
     "expires_at": "2026-11-04T03:28:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "drone",
+    "text": "Становлянский район\nКраснинский район\nЛев-Толстовский район\nЛипецкая область\nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-04T02:36:03+00:00",
+    "expires_at": "2026-11-04T03:36:03+00:00",
     "count": null,
     "count_approx": false
   }
