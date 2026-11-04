@@ -2,10 +2,10 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Запорожская область РФ \nОсобое внимание трассы \nОпасность по БПЛА \nПринять меры безопасности",
+    "text": "север Осипенко \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-04T08:41:23+00:00",
-    "expires_at": "2026-11-04T09:41:23+00:00",
+    "updated_at": "2026-11-04T08:55:20+00:00",
+    "expires_at": "2026-11-04T09:55:20+00:00",
     "count": null,
     "count_approx": false
   },
@@ -22,10 +22,10 @@
   "свердловск": {
     "display_name": "Свердловская область",
     "type": "drone",
-    "text": "Свердловская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-04T07:49:05+00:00",
-    "expires_at": "2026-11-04T08:49:05+00:00",
+    "text": "Сысертский район \nСвердловская область \nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-04T08:52:07+00:00",
+    "expires_at": "2026-11-04T09:52:07+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +36,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-04T08:40:34+00:00",
     "expires_at": "2026-11-04T09:40:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пермск": {
+    "display_name": "Пермский край",
+    "type": "drone",
+    "text": "Сивинский район\nПермский край\nФиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-04T08:48:06+00:00",
+    "expires_at": "2026-11-04T09:48:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "башкортост": {
+    "display_name": "Республика Башкортостан",
+    "type": "drone",
+    "text": "Белокатайский район\nРеспублика Башкортостан\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-04T08:49:01+00:00",
+    "expires_at": "2026-11-04T09:49:01+00:00",
     "count": null,
     "count_approx": false
   }
