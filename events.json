@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_256784",
-    "channel": "LPRalarm",
-    "date": "2026-11-03T14:08:33+00:00",
-    "text": "Гвардейское и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147490",
-    "channel": "kupolrussia",
-    "date": "2026-11-03T14:08:42+00:00",
-    "text": "Гвардейское и близлежащие \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_256785",
-    "channel": "LPRalarm",
-    "date": "2026-11-03T14:16:26+00:00",
-    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ повторно \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_256786",
-    "channel": "LPRalarm",
-    "date": "2026-11-03T14:16:37+00:00",
-    "text": "Север, северо-запад \nРеспублика Крым \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147491",
-    "channel": "kupolrussia",
-    "date": "2026-11-03T14:16:39+00:00",
-    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ повторно \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147492",
-    "channel": "kupolrussia",
-    "date": "2026-11-03T14:16:51+00:00",
-    "text": "Север, северо-запад \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_256787",
-    "channel": "LPRalarm",
-    "date": "2026-11-03T14:20:24+00:00",
-    "text": "Трасса Волноваха - Тельманово\nДНР \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147493",
-    "channel": "kupolrussia",
-    "date": "2026-11-03T14:20:28+00:00",
-    "text": "Трасса Волноваха - Тельманово\nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_256788",
     "channel": "LPRalarm",
     "date": "2026-11-03T14:32:27+00:00",
@@ -21998,5 +21910,93 @@
     "region": null,
     "lat": 55.5394245,
     "lon": 37.5744389
+  },
+  {
+    "id": "kupolrussia_148004_Джанкойский",
+    "channel": "kupolrussia",
+    "date": "2026-11-04T13:47:05+00:00",
+    "text": "Джанкойский район, АПП Джанкой от Генического района \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Джанкойский",
+    "region": null,
+    "lat": 55.5394245,
+    "lon": 37.5744389
+  },
+  {
+    "id": "LPRalarm_257378_Мелитопольский",
+    "channel": "LPRalarm",
+    "date": "2026-11-04T13:47:11+00:00",
+    "text": "Восток Мелитопольский район опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Мелитопольский",
+    "region": null,
+    "lat": 59.9445151,
+    "lon": 30.3614269
+  },
+  {
+    "id": "kupolrussia_148005_Мелитопольский",
+    "channel": "kupolrussia",
+    "date": "2026-11-04T13:47:26+00:00",
+    "text": "Восток Мелитопольский район опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Мелитопольский",
+    "region": null,
+    "lat": 59.9445151,
+    "lon": 30.3614269
+  },
+  {
+    "id": "LPRalarm_257379",
+    "channel": "LPRalarm",
+    "date": "2026-11-04T13:49:28+00:00",
+    "text": "Новокиевка в направлении Каланчак, АПП Армянск фиксация БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_148006",
+    "channel": "kupolrussia",
+    "date": "2026-11-04T13:49:55+00:00",
+    "text": "Новокиевка в направлении Каланчак, АПП Армянск фиксация БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15709",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-04T13:54:46+00:00",
+    "text": "Омск и близлежащие - приблизительное местное время подлёта БПЛА 21:00-21:30.\n\nИдут сбития над Тюменской областью.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тюменской область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102857",
+    "channel": "radarrussiia",
+    "date": "2026-11-04T13:54:56+00:00",
+    "text": "Фиксации БПЛА на стыке Тюменской и Омской областью в направлении Омска.\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": null,
+    "region": "Омской область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102858",
+    "channel": "radarrussiia",
+    "date": "2026-11-04T13:55:23+00:00",
+    "text": "Омск и близлежащие - приблизительное местное время подлёта БПЛА 21:00-21:30.\n\nИдут сбития над Тюменской областью.\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тюменской область",
+    "lat": null,
+    "lon": null
   }
 ]
