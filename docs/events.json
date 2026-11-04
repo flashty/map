@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_256770",
-    "channel": "LPRalarm",
-    "date": "2026-11-03T12:25:55+00:00",
-    "text": "Целинное и близлежащие \nДжанкойский район \nРеспублика Крым \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147475",
-    "channel": "kupolrussia",
-    "date": "2026-11-03T12:26:01+00:00",
-    "text": "Целинное и близлежащие \nДжанкойский район \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_256771",
-    "channel": "LPRalarm",
-    "date": "2026-11-03T12:27:02+00:00",
-    "text": "Целинное и близлежащие \nДжанкойский район \nРеспублика Крым \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147476",
-    "channel": "kupolrussia",
-    "date": "2026-11-03T12:27:11+00:00",
-    "text": "Целинное и близлежащие \nДжанкойский район \nРеспублика Крым \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_102786",
-    "channel": "radarrussiia",
-    "date": "2026-11-03T12:33:45+00:00",
-    "text": "Ростовская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radar_plus_bpla_15676",
     "channel": "radar_plus_bpla",
     "date": "2026-11-03T12:40:06+00:00",
@@ -21993,6 +21938,61 @@
     "channel": "kupolrussia",
     "date": "2026-11-04T13:01:39+00:00",
     "text": "ДКАД, Донецк Макеевка и близлежащие \nОпасность по БПЛА \nДНР \n\nОсобое внимание на дорогах!",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102855",
+    "channel": "radarrussiia",
+    "date": "2026-11-04T13:01:56+00:00",
+    "text": "Омск и близлежащие - приготовится к сбитиям БПЛА после 19:00 по местному времени\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102856",
+    "channel": "radarrussiia",
+    "date": "2026-11-04T13:04:36+00:00",
+    "text": "Курганская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_257364_Приморск",
+    "channel": "LPRalarm",
+    "date": "2026-11-04T13:16:12+00:00",
+    "text": "Приморск, Бердянск и близлежащие тревога по БПЛА",
+    "type": "drone",
+    "location_name": "Приморск",
+    "region": null,
+    "lat": 60.366665,
+    "lon": 28.616673
+  },
+  {
+    "id": "kupolrussia_147990",
+    "channel": "kupolrussia",
+    "date": "2026-11-04T13:16:25+00:00",
+    "text": "Приморск, Бердянск и близлежащие\nЗапорожская область РФ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_257365",
+    "channel": "LPRalarm",
+    "date": "2026-11-04T13:16:35+00:00",
+    "text": "Волноваха и близлежащие \nДНР \nОпасность по БПЛА",
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
