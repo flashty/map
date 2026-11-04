@@ -1,49 +1,5 @@
 [
   {
-    "id": "locatorru_93557",
-    "channel": "locatorru",
-    "date": "2026-11-03T01:00:52+00:00",
-    "text": "Мышкин и близлежащие, Ярославская область - ещё пролёт БПЛА в сторону Ярославля.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ярославская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_105105_Тула",
-    "channel": "vrv_radar",
-    "date": "2026-11-03T01:00:58+00:00",
-    "text": "Тула\nТульская область\nФиксация до 2 БПЛА в вашем направлении",
-    "type": "drone",
-    "location_name": "Тула",
-    "region": "Тульская область",
-    "lat": 54.1930321,
-    "lon": 37.61754
-  },
-  {
-    "id": "vrv_radar_105106",
-    "channel": "vrv_radar",
-    "date": "2026-11-03T01:01:24+00:00",
-    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_256635",
-    "channel": "LPRalarm",
-    "date": "2026-11-03T01:04:37+00:00",
-    "text": "Керчь и близлежащие\nТревога по БПЛА сохраняется. \nМеры безопасности\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_147358",
     "channel": "kupolrussia",
     "date": "2026-11-03T01:04:47+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_105477",
+    "channel": "vrv_radar",
+    "date": "2026-11-04T01:46:00+00:00",
+    "text": "Сочи и близлежащие\nКраснодарский край\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_105478",
+    "channel": "vrv_radar",
+    "date": "2026-11-04T01:46:27+00:00",
+    "text": "Рязань \nРязанская область \nСбитие БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_257201",
+    "channel": "LPRalarm",
+    "date": "2026-11-04T01:48:30+00:00",
+    "text": "Курортное\nВойково и близлежащие \nЛенинский район \nТревога по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_147844",
+    "channel": "kupolrussia",
+    "date": "2026-11-04T01:48:48+00:00",
+    "text": "Курортное\nВойково и близлежащие \nЛенинский район \nТревога по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
