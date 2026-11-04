@@ -1,11 +1,11 @@
 {
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Мариуполь, повторно, тревога по БПЛА \nДНР",
+    "type": "alert",
+    "text": "Донецк и близлежащие, тревога по\nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-04T22:26:43+00:00",
-    "expires_at": "2026-11-04T23:26:43+00:00",
+    "updated_at": "2026-11-04T23:07:06+00:00",
+    "expires_at": "2026-11-05T00:07:06+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,16 +46,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-04T22:49:25+00:00",
     "expires_at": "2026-11-04T23:49:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Новоалексеевка\nГеническ \nЧонгар \nАрабатская Стрелка и близлежащие\nТревога по БПЛА\nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-04T22:11:44+00:00",
-    "expires_at": "2026-11-04T23:11:44+00:00",
     "count": null,
     "count_approx": false
   },
@@ -176,6 +166,36 @@
     "channel": "radarrussiia",
     "updated_at": "2026-11-04T22:37:15+00:00",
     "expires_at": "2026-11-04T23:37:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарско": {
+    "display_name": "Краснодарского края",
+    "type": "drone",
+    "text": "Причерноморье Краснодарского края. Опасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-04T23:03:36+00:00",
+    "expires_at": "2026-11-05T00:03:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородской области",
+    "type": "drone",
+    "text": "Булдыгино, Зубово-Полянский район, Республика Мордовия - ещё пролёт от 2 БПЛА в сторону Нижегородской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-04T23:10:31+00:00",
+    "expires_at": "2026-11-05T00:10:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "мордов": {
+    "display_name": "Республика Мордовия",
+    "type": "drone",
+    "text": "Булдыгино, Зубово-Полянский район, Республика Мордовия - ещё пролёт от 2 БПЛА в сторону Нижегородской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-04T23:10:31+00:00",
+    "expires_at": "2026-11-05T00:10:31+00:00",
     "count": null,
     "count_approx": false
   }
