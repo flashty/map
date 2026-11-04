@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-04T03:43:04+00:00",
+        "last_updated": "2026-11-04T04:04:07+00:00",
+        "path_labels": [
+          "Вачский (Нижегородская область)",
+          "Володарский (Нижегородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.6418968,
+            55.8023843
+          ],
+          [
+            42.799702,
+            56.228111
+          ]
+        ]
+      }
+    }
+  ]
 }
