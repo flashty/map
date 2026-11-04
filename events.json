@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_105162_Щёкино",
-    "channel": "vrv_radar",
-    "date": "2026-11-03T02:04:19+00:00",
-    "text": "Щёкино\nТульская область\nПродолжаются сбития БПЛА",
-    "type": "all_clear",
-    "location_name": "Щёкино",
-    "region": "Тульская область",
-    "lat": 54.004465,
-    "lon": 37.5179079
-  },
-  {
-    "id": "vrv_radar_105163_Истра",
-    "channel": "vrv_radar",
-    "date": "2026-11-03T02:04:42+00:00",
-    "text": "МО Истра\nМосковская область\nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Истра",
-    "region": "Московская область",
-    "lat": 55.9145993,
-    "lon": 36.8595482
-  },
-  {
-    "id": "locatorru_93602",
-    "channel": "locatorru",
-    "date": "2026-11-03T02:04:56+00:00",
-    "text": "Через Черелисино, Ярославской области пролёты БПЛА в сторону НПЗ. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ярославской области",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_105164",
     "channel": "vrv_radar",
     "date": "2026-11-03T02:06:02+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Оренбургская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_93776",
+    "channel": "locatorru",
+    "date": "2026-11-04T04:32:21+00:00",
+    "text": "Перелюбский район, Саратовская область - внимание по пролëтам БПЛА в направлении Оренбургской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_257246",
+    "channel": "LPRalarm",
+    "date": "2026-11-04T04:33:56+00:00",
+    "text": "Керчь\nКрымский мост \nЕще фиксации БПЛА с запада, юго-запада",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_93777",
+    "channel": "locatorru",
+    "date": "2026-11-04T04:34:01+00:00",
+    "text": "Ульяновская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ульяновская область",
     "lat": null,
     "lon": null
   }
