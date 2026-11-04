@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_256757",
-    "channel": "LPRalarm",
-    "date": "2026-11-03T11:51:24+00:00",
-    "text": "Краснодарский край \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147464",
-    "channel": "kupolrussia",
-    "date": "2026-11-03T11:51:30+00:00",
-    "text": "Краснодарский край\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_256758",
-    "channel": "LPRalarm",
-    "date": "2026-11-03T11:51:49+00:00",
-    "text": "Ростовская область \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147465",
-    "channel": "kupolrussia",
-    "date": "2026-11-03T11:51:55+00:00",
-    "text": "Ростовская область\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_256759",
-    "channel": "LPRalarm",
-    "date": "2026-11-03T11:57:56+00:00",
-    "text": "Первомайск и близлежащие \nЛНР \nОпасность по БПЛА Хорнет и далее на юго-восток",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147466",
-    "channel": "kupolrussia",
-    "date": "2026-11-03T11:59:21+00:00",
-    "text": "Херсонская область РФ \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_256761",
-    "channel": "LPRalarm",
-    "date": "2026-11-03T11:59:34+00:00",
-    "text": "Горловка и близлежащие\nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147467",
-    "channel": "kupolrussia",
-    "date": "2026-11-03T11:59:51+00:00",
-    "text": "Горловка и близлежащие\nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_256762",
     "channel": "LPRalarm",
     "date": "2026-11-03T11:59:53+00:00",
@@ -21998,5 +21910,93 @@
     "region": "Челябинская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15705",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-04T12:22:22+00:00",
+    "text": "Омск и близлежащие - приготовится к сбитиям БПЛА после 19:00 по местному времени.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_93801",
+    "channel": "locatorru",
+    "date": "2026-11-04T12:23:26+00:00",
+    "text": "Челябинская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Челябинская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_93802_Трубчевский",
+    "channel": "locatorru",
+    "date": "2026-11-04T12:24:25+00:00",
+    "text": "Белая Берёзка, Трубчевский район, Брянская область - обстрел из ствольной артиллерии.\n\n📡Локатор России - @locatorru",
+    "type": "shelling",
+    "location_name": "Трубчевский",
+    "region": "Брянская область",
+    "lat": 52.5867776,
+    "lon": 33.7892267
+  },
+  {
+    "id": "locatorru_93802_Белая Берёзка",
+    "channel": "locatorru",
+    "date": "2026-11-04T12:24:25+00:00",
+    "text": "Белая Берёзка, Трубчевский район, Брянская область - обстрел из ствольной артиллерии.\n\n📡Локатор России - @locatorru",
+    "type": "shelling",
+    "location_name": "Белая Берёзка",
+    "region": "Брянская область",
+    "lat": 52.381847,
+    "lon": 33.487415
+  },
+  {
+    "id": "LPRalarm_257358_Одессы",
+    "channel": "LPRalarm",
+    "date": "2026-11-04T12:26:51+00:00",
+    "text": "Пуски БПЛА от Одессы",
+    "type": "drone",
+    "location_name": "Одессы",
+    "region": null,
+    "lat": 48.7490351,
+    "lon": 44.5413187
+  },
+  {
+    "id": "kupolrussia_147985_Одессы",
+    "channel": "kupolrussia",
+    "date": "2026-11-04T12:27:29+00:00",
+    "text": "Пуски БПЛА от Одессы",
+    "type": "drone",
+    "location_name": "Одессы",
+    "region": null,
+    "lat": 48.7490351,
+    "lon": 44.5413187
+  },
+  {
+    "id": "radar_plus_bpla_15706_Все",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-04T12:30:47+00:00",
+    "text": "Все районы Омска - отойдите от окон. Будет громко.\n\nФиксации через Москаленский район в направлении города.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "unknown",
+    "location_name": "Все",
+    "region": null,
+    "lat": 58.0107446,
+    "lon": 56.2819461
+  },
+  {
+    "id": "radar_plus_bpla_15706_Москаленский",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-04T12:30:47+00:00",
+    "text": "Все районы Омска - отойдите от окон. Будет громко.\n\nФиксации через Москаленский район в направлении города.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "unknown",
+    "location_name": "Москаленский",
+    "region": null,
+    "lat": 54.888092,
+    "lon": 72.329659
   }
 ]
