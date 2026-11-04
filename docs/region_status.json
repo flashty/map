@@ -42,10 +42,10 @@
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
-    "text": "Алексеевский район, Валуйский район, Вейделевский район, Волоконовский район, Красненский район, Красногвардейский район, Новооскольский район, Ровеньский район, Чернянский район, Белгородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-04T16:30:36+00:00",
-    "expires_at": "2026-11-04T17:30:36+00:00",
+    "text": "Волоконовский район\nИ далее в направлении \nБирюч \nКрасногвардейский МО\nИ близлежащие \nТревога по БПЛА \nБелгородская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-04T16:45:04+00:00",
+    "expires_at": "2026-11-04T17:45:04+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,10 +62,10 @@
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Воронежская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-04T16:30:45+00:00",
-    "expires_at": "2026-11-04T17:30:45+00:00",
+    "text": "Россошанский район, Острогожский район, Лискинский район, Кантемировский район, Каменский район, Воронежская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-04T16:44:39+00:00",
+    "expires_at": "2026-11-04T17:44:39+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +76,46 @@
     "channel": "locatorru",
     "updated_at": "2026-11-04T16:25:43+00:00",
     "expires_at": "2026-11-04T17:25:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "missile",
+    "text": "Ростовская область\nВолгоградская область\n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-11-04T16:33:14+00:00",
+    "expires_at": "2026-11-04T17:33:14+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградская область",
+    "type": "missile",
+    "text": "Волгоградская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-04T16:34:57+00:00",
+    "expires_at": "2026-11-04T17:34:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Орловская область \nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-04T16:38:25+00:00",
+    "expires_at": "2026-11-04T17:38:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "drone",
+    "text": "Липецкая область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-04T16:45:22+00:00",
+    "expires_at": "2026-11-04T17:45:22+00:00",
     "count": null,
     "count_approx": false
   }
