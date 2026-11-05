@@ -1,82 +1,5 @@
 [
   {
-    "id": "vrv_radar_105465",
-    "channel": "vrv_radar",
-    "date": "2026-11-04T00:26:09+00:00",
-    "text": "Дзержинск \nНижегородская область \nФиксация БПЛА в вашем направлении",
-    "type": "drone",
-    "location_name": null,
-    "region": "Нижегородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257176",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T00:26:20+00:00",
-    "text": "Карачев \nКарачаевский район \nБрянская область \nТревога по БПЛА \n\nИ далее в направлении \nОрловской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147818",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T00:26:26+00:00",
-    "text": "Карачев \nКарачаевский район \nБрянская область \nТревога по БПЛА \n\nИ далее в направлении \nОрловской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_105466",
-    "channel": "vrv_radar",
-    "date": "2026-11-04T00:26:45+00:00",
-    "text": "ГО Воскресенск \nГО Коломна\nГО Подольск  \nМосковская область \nФиксации БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257177",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T00:27:13+00:00",
-    "text": "Борисоглебск и близлежащие \nТревога по БПЛА \nВоронежская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147819",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T00:27:37+00:00",
-    "text": "Борисоглебск и близлежащие \nТревога по БПЛА \nВоронежская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257178",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T00:28:13+00:00",
-    "text": "Орловская область \nТревога по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_147820",
     "channel": "kupolrussia",
     "date": "2026-11-04T00:28:21+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Дагестан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_257737",
+    "channel": "LPRalarm",
+    "date": "2026-11-05T05:16:05+00:00",
+    "text": "Курская \nОрловская области \nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_105827",
+    "channel": "vrv_radar",
+    "date": "2026-11-05T05:17:15+00:00",
+    "text": "Орловская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_257738",
+    "channel": "LPRalarm",
+    "date": "2026-11-05T05:28:13+00:00",
+    "text": "ЛНР. Угроза атаки БПЛА. \nВ границах муниципальных округов: Станично-Луганский, Новоайдарский, Старобельский, Сватовский.",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_257739",
+    "channel": "LPRalarm",
+    "date": "2026-11-05T05:29:34+00:00",
+    "text": "ЛНР. Угроза атаки БПЛА. \nВ границах муниципальных округов: Краснодонский, Лутугинский, Славяносербский, и городов Луганск, Брянка, Кировск, Стаханов, Первомайск",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_148324",
+    "channel": "kupolrussia",
+    "date": "2026-11-05T05:29:51+00:00",
+    "text": "ЛНР. Угроза атаки БПЛА. \nВ границах муниципальных округов: Станично-Луганский, Новоайдарский, Старобельский, Сватовский.",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_148325",
+    "channel": "kupolrussia",
+    "date": "2026-11-05T05:30:01+00:00",
+    "text": "ЛНР. Угроза атаки БПЛА. \nВ границах муниципальных округов: Краснодонский, Лутугинский, Славяносербский, и городов Луганск, Брянка, Кировск, Стаханов, Первомайск",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_105828",
+    "channel": "vrv_radar",
+    "date": "2026-11-05T05:30:45+00:00",
+    "text": "📡 Точные данные 24/7 — благодаря каждому из вас.\n\nНаш радар живет без рекламы и существует исключительно на поддержке подписчиков. Мы не зарабатываем на безопасности, мы помогаем её обеспечить.\n\n🙌 Спасибо всем, кто ценит наш труд. Ваша поддержка помогает нам быть в строю каждую ночь.\n\nПоддержать канал: 👉 https://clck.ru/3VgBJu",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
