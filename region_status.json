@@ -2,10 +2,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Джанкойский район \nОпасность по БПЛА \nРеспублика Крым",
+    "text": "Приморский \nФеодосия \nБатальное и близлежащие \nОпасность по БПЛА \nФиксации БПЛА в Феодосийском заливе\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-05T00:35:54+00:00",
-    "expires_at": "2026-11-05T01:35:54+00:00",
+    "updated_at": "2026-11-05T01:39:46+00:00",
+    "expires_at": "2026-11-05T02:39:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -16,36 +16,6 @@
     "channel": "vrv_radar",
     "updated_at": "2026-11-05T01:09:46+00:00",
     "expires_at": "2026-11-05T02:09:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "костромск": {
-    "display_name": "Костромская область",
-    "type": "drone",
-    "text": "Костромская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-05T00:43:06+00:00",
-    "expires_at": "2026-11-05T01:43:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "нижегородск": {
-    "display_name": "Нижегородская область",
-    "type": "drone",
-    "text": "Кстовский район\nНижегородская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-05T00:44:34+00:00",
-    "expires_at": "2026-11-05T01:44:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Тамбовская область\nВоронежская область \nПо ранее указанным районам\nПродолжаются фиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-05T00:45:48+00:00",
-    "expires_at": "2026-11-05T01:45:48+00:00",
     "count": null,
     "count_approx": false
   },
@@ -91,11 +61,11 @@
   },
   "рязанск": {
     "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязань\nРязанская область\nПродолжается работа ПВО\nЕщё фиксации БПЛА",
+    "type": "alert",
+    "text": "Рязань\nРязанская область\nПродолжается работа ПВО\nМеры безопасности",
     "channel": "vrv_radar",
-    "updated_at": "2026-11-05T01:23:14+00:00",
-    "expires_at": "2026-11-05T02:23:14+00:00",
+    "updated_at": "2026-11-05T01:40:22+00:00",
+    "expires_at": "2026-11-05T02:40:22+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,6 +86,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-05T01:25:47+00:00",
     "expires_at": "2026-11-05T02:25:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ивановск": {
+    "display_name": "Ивановская область",
+    "type": "drone",
+    "text": "Ивановская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-05T01:37:39+00:00",
+    "expires_at": "2026-11-05T02:37:39+00:00",
     "count": null,
     "count_approx": false
   }
