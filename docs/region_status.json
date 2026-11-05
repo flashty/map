@@ -1,14 +1,4 @@
 {
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Запорожская область РФ \nОпасность по БПЛА \nПовторно",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-05T22:01:23+00:00",
-    "expires_at": "2026-11-05T23:01:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "орловск": {
     "display_name": "Орловская область",
     "type": "alert",
@@ -16,16 +6,6 @@
     "channel": "vrv_radar",
     "updated_at": "2026-11-05T22:24:09+00:00",
     "expires_at": "2026-11-05T23:24:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Ближнее \nНасыпное\nФеодосия и близлежащие \nЕщё фиксации БПЛА \nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-05T21:59:12+00:00",
-    "expires_at": "2026-11-05T22:59:12+00:00",
     "count": null,
     "count_approx": false
   },
@@ -82,10 +62,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Геленджик и близлежащие\nКраснодарский край\nРабота ПВО по БПЛА",
+    "text": "Геленджик и близлежащие \nКраснодарский край \nРабота ПВО по БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-11-05T22:37:37+00:00",
-    "expires_at": "2026-11-05T23:37:37+00:00",
+    "updated_at": "2026-11-05T22:59:12+00:00",
+    "expires_at": "2026-11-05T23:59:12+00:00",
     "count": null,
     "count_approx": false
   },
