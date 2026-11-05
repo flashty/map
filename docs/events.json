@@ -1,104 +1,5 @@
 [
   {
-    "id": "vrv_radar_105496_Тула",
-    "channel": "vrv_radar",
-    "date": "2026-11-04T03:07:16+00:00",
-    "text": "Тула\nТульская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Тула",
-    "region": "Тульская область",
-    "lat": 54.1930321,
-    "lon": 37.61754
-  },
-  {
-    "id": "LPRalarm_257220_Темрюкский",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T03:08:58+00:00",
-    "text": "Темрюкский район \nИ близлежащие \nРакетная опасность \nКраснодарский край",
-    "type": "missile",
-    "location_name": "Темрюкский",
-    "region": "Краснодарский край",
-    "lat": 45.4964119,
-    "lon": 37.3098799
-  },
-  {
-    "id": "kupolrussia_147863_Темрюкский",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T03:09:16+00:00",
-    "text": "Темрюкский район \nИ близлежащие \nРакетная опасность \nКраснодарский край",
-    "type": "missile",
-    "location_name": "Темрюкский",
-    "region": "Краснодарский край",
-    "lat": 45.4964119,
-    "lon": 37.3098799
-  },
-  {
-    "id": "vrv_radar_105497_Рязань",
-    "channel": "vrv_radar",
-    "date": "2026-11-04T03:12:49+00:00",
-    "text": "Рязань\nРязанская область\nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Рязань",
-    "region": "Рязанская область",
-    "lat": 54.6295687,
-    "lon": 39.7425039
-  },
-  {
-    "id": "kupolrussia_147864",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T03:14:37+00:00",
-    "text": "Керчь\nИ близлежащие \nракетная опасность \nМеры безопасности \nРеспублика Крым",
-    "type": "missile",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257221",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T03:14:43+00:00",
-    "text": "Керчь\nИ близлежащие \nракетная опасность \nМеры безопасности \nРеспублика Крым",
-    "type": "missile",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257222",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T03:15:36+00:00",
-    "text": "Севастополь \nЮБК\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257223",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T03:18:09+00:00",
-    "text": "Севастополь \nОпасность по БПЛА, в т.ч. реактивным",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257224",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T03:18:11+00:00",
-    "text": "От Багерово в направлении Керчь возможно ракета",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_147865",
     "channel": "kupolrussia",
     "date": "2026-11-04T03:18:16+00:00",
@@ -21998,5 +21899,104 @@
     "region": "Запорожская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_257786_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-11-05T08:46:52+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_148368_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-11-05T08:47:06+00:00",
+    "text": "Белгородский район\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_257787",
+    "channel": "LPRalarm",
+    "date": "2026-11-05T08:57:16+00:00",
+    "text": "Чаплынка опасность по БПЛА Хорнет с севера\n\nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_148369",
+    "channel": "kupolrussia",
+    "date": "2026-11-05T08:57:25+00:00",
+    "text": "Чаплынка опасность по БПЛА Хорнет с севера\n\nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_105839",
+    "channel": "vrv_radar",
+    "date": "2026-11-05T08:58:19+00:00",
+    "text": "Ростовская область\nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_93972",
+    "channel": "locatorru",
+    "date": "2026-11-05T08:58:20+00:00",
+    "text": "Ростовская область - отбой ракетной опасности! \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_257788",
+    "channel": "LPRalarm",
+    "date": "2026-11-05T08:58:31+00:00",
+    "text": "Ростовская область \nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_148370",
+    "channel": "kupolrussia",
+    "date": "2026-11-05T08:58:46+00:00",
+    "text": "Ростовская область\nс ОТБОЙ\nРАКЕТНОЙ\nОПАСНОСТИ",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15724_Дону",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-05T09:00:03+00:00",
+    "text": "СЛУЖБА — ЭТО СОТНИ РАЗНЫХ ЗАДАЧ.\nОдни управляют транспортом. Другие ремонтируют технику, настраивают связь или отвечают за снабжение.\nПоэтому начнём с простого: что умеешь ты?\n\n🚙 Водить и обслуживать машины.\n🔧 Ремонтировать технику.\n📡 Работать со связью и компьютерами.\n📦 Заниматься снабжением и логистикой.\n🛰 Осваивать беспилотные системы.\n\nОбсудим твой опыт, доступные направления и требования.\n\n💰 От 7 000 000 ₽ за первый год.\n● 3.000.000 ₽ областная\n● 400.000 ₽ федеральная\n● 100.000 от Ростова-н",
+    "type": "unknown",
+    "location_name": "Дону",
+    "region": null,
+    "lat": 47.2610441,
+    "lon": 39.7249086
   }
 ]
