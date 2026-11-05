@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "Херсонская область РФ \nЗапорожская область РФ \nАвиационная ракетно бомбовая опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-05T15:58:09+00:00",
-    "expires_at": "2026-11-05T16:58:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
@@ -46,6 +36,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-05T16:41:11+00:00",
     "expires_at": "2026-11-05T17:41:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Пески и близлежащие \nТревога по БПЛА Баба Яга \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-05T16:59:21+00:00",
+    "expires_at": "2026-11-05T17:59:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "missile",
+    "text": "Республика Крым \nСевастополь \nРакетная опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-05T16:59:38+00:00",
+    "expires_at": "2026-11-05T17:59:38+00:00",
     "count": null,
     "count_approx": false
   }
