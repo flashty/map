@@ -11,11 +11,11 @@
   },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Трасса Приазовское - Приморск от Владимировки тревога по БПЛА \nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-05T09:27:30+00:00",
-    "expires_at": "2026-11-05T10:27:30+00:00",
+    "type": "alert",
+    "text": "ЛДНР, Запорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-05T09:53:49+00:00",
+    "expires_at": "2026-11-05T10:53:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,16 +56,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-05T09:22:07+00:00",
     "expires_at": "2026-11-05T10:22:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "missile",
-    "text": "Брянская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-05T09:44:56+00:00",
-    "expires_at": "2026-11-05T10:44:56+00:00",
     "count": null,
     "count_approx": false
   },
