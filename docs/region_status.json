@@ -20,12 +20,12 @@
     "count_approx": false
   },
   "волгоградск": {
-    "display_name": "Волгоградскую область",
+    "display_name": "Волгоградская область",
     "type": "drone",
-    "text": "Кантемировка, и далее на Волгоградскую область, тревога по БПЛА в том числе реактивным",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-04T22:49:25+00:00",
-    "expires_at": "2026-11-04T23:49:25+00:00",
+    "text": "Волгоград\nВолгоградская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-04T23:54:20+00:00",
+    "expires_at": "2026-11-05T00:54:20+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,16 +59,6 @@
     "count": null,
     "count_approx": false
   },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Сасовский район\nРязанская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-04T23:27:11+00:00",
-    "expires_at": "2026-11-05T00:27:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
@@ -76,16 +66,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-04T23:42:22+00:00",
     "expires_at": "2026-11-05T00:42:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Анапа и близлежащие\nКраснодарский край\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-04T23:00:10+00:00",
-    "expires_at": "2026-11-05T00:00:10+00:00",
     "count": null,
     "count_approx": false
   },
@@ -132,10 +112,40 @@
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
-    "text": "Каиры\nХерсонская область РФ \nТревога по БПЛА \nИ далее на юго-восток",
+    "text": "Скадовск, тревога по БПЛА\nХерсонская область РФ",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-04T23:36:48+00:00",
-    "expires_at": "2026-11-05T00:36:48+00:00",
+    "updated_at": "2026-11-04T23:52:23+00:00",
+    "expires_at": "2026-11-05T00:52:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Мелитопольский район \nМелитополь и близлежащие \nТревога по БПЛА \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-04T23:55:15+00:00",
+    "expires_at": "2026-11-05T00:55:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Луганск и близлежащие, тревога по БПЛА\nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-04T23:57:03+00:00",
+    "expires_at": "2026-11-05T00:57:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рязанский район\nРязанская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-04T23:57:59+00:00",
+    "expires_at": "2026-11-05T00:57:59+00:00",
     "count": null,
     "count_approx": false
   }
