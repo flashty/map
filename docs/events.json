@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_147815",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T00:22:58+00:00",
-    "text": "Орел и близлежащие \nТревога по БПЛА \nСоблюдайте меры безопасности \nОрловская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_105464",
-    "channel": "vrv_radar",
-    "date": "2026-11-04T00:23:47+00:00",
-    "text": "Борисоглебск \nВоронежская область \nОпасность по БПЛА \nФиксации групп БПЛА в вашем направлении",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257174",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T00:24:39+00:00",
-    "text": "Привольное \nТимашевск \nИ близлежащие \nТревога по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147816",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T00:24:46+00:00",
-    "text": "Привольное \nТимашевск \nИ близлежащие \nТревога по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257175",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T00:25:28+00:00",
-    "text": "Завет-Ленинский и близлежащие \nТревога по БПЛА с запада \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147817",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T00:25:47+00:00",
-    "text": "Завет-Ленинский и близлежащие \nТревога по БПЛА с запада \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_105465",
     "channel": "vrv_radar",
     "date": "2026-11-04T00:26:09+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_105825",
+    "channel": "vrv_radar",
+    "date": "2026-11-05T05:01:34+00:00",
+    "text": "Ярославская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_105826",
+    "channel": "vrv_radar",
+    "date": "2026-11-05T05:02:47+00:00",
+    "text": "Костромская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Костромская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102895",
+    "channel": "radarrussiia",
+    "date": "2026-11-05T05:03:56+00:00",
+    "text": "Отбой опасности БПЛА по всем ранее объявленным регионам.\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_93954_Махачкала",
+    "channel": "locatorru",
+    "date": "2026-11-05T05:10:51+00:00",
+    "text": "Махачкала, Каспийск, порт Каспийск, Зеленогорское, Республика Дагестан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Махачкала",
+    "region": "Республика Дагестан",
+    "lat": 42.9830241,
+    "lon": 47.5048717
+  },
+  {
+    "id": "locatorru_93954_Каспийск",
+    "channel": "locatorru",
+    "date": "2026-11-05T05:10:51+00:00",
+    "text": "Махачкала, Каспийск, порт Каспийск, Зеленогорское, Республика Дагестан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Каспийск",
+    "region": "Республика Дагестан",
+    "lat": 42.8921817,
+    "lon": 47.6372105
+  },
+  {
+    "id": "locatorru_93955",
+    "channel": "locatorru",
+    "date": "2026-11-05T05:11:41+00:00",
+    "text": "Республика Дагестан, Республика Северная Осетия - Алания, Чеченская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Дагестан",
     "lat": null,
     "lon": null
   }
