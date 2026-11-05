@@ -11,12 +11,12 @@
   },
   "орловск": {
     "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Колпнянский район\nОрловская область\nФиксация от 2 БПЛА",
+    "type": "alert",
+    "text": "Урицкий район\nОрловская область\nМеры безопасности",
     "channel": "vrv_radar",
-    "updated_at": "2026-11-05T22:04:10+00:00",
-    "expires_at": "2026-11-05T23:04:10+00:00",
-    "count": 2,
+    "updated_at": "2026-11-05T22:24:09+00:00",
+    "expires_at": "2026-11-05T23:24:09+00:00",
+    "count": null,
     "count_approx": false
   },
   "крым": {
@@ -39,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "волгоградск": {
-    "display_name": "Волгоградская область",
-    "type": "drone",
-    "text": "Волгоградская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-05T21:25:53+00:00",
-    "expires_at": "2026-11-05T22:25:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -56,6 +46,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-05T22:10:28+00:00",
     "expires_at": "2026-11-05T23:10:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Каиры и близлежащие, тревога по БпЛА \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-05T22:20:11+00:00",
+    "expires_at": "2026-11-05T23:20:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "астраханск": {
+    "display_name": "Астраханская область",
+    "type": "drone",
+    "text": "Астраханская область\nРеспублика Калмыкия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-05T22:33:01+00:00",
+    "expires_at": "2026-11-05T23:33:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калмык": {
+    "display_name": "Республика Калмыкия",
+    "type": "drone",
+    "text": "Астраханская область\nРеспублика Калмыкия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-05T22:33:01+00:00",
+    "expires_at": "2026-11-05T23:33:01+00:00",
     "count": null,
     "count_approx": false
   }
