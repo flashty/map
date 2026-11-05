@@ -1,82 +1,5 @@
 [
   {
-    "id": "kupolrussia_147920_Шаранский",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T06:35:28+00:00",
-    "text": "Шаранский район \nРеспублика Башкортостан \nОпасность по БПЛА \n2 фиксации примерно в вашем направлении от Республики Татарстан",
-    "type": "drone",
-    "location_name": "Шаранский",
-    "region": "Республика Башкортостан",
-    "lat": 54.802224,
-    "lon": 53.9992201
-  },
-  {
-    "id": "LPRalarm_257285_Шаранский",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T06:35:33+00:00",
-    "text": "Шаранский район \nРеспублика Башкортостан \nОпасность по БПЛА \n2 фиксации примерно в вашем направлении от Республики Татарстан",
-    "type": "drone",
-    "location_name": "Шаранский",
-    "region": "Республика Башкортостан",
-    "lat": 54.802224,
-    "lon": 53.9992201
-  },
-  {
-    "id": "kupolrussia_147921",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T06:37:27+00:00",
-    "text": "Муслюмовский район\nРеспублика Татарстан\nФиксация БПЛА в вашем направлении и далее на Республику Башкортостан",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Татарстан",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257286",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T06:37:30+00:00",
-    "text": "Муслюмовский район\nРеспублика Татарстан\nФиксация БПЛА в вашем направлении и далее на Республику Башкортостан",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Татарстан",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_105554",
-    "channel": "vrv_radar",
-    "date": "2026-11-04T06:38:24+00:00",
-    "text": "Рязанская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_105555",
-    "channel": "vrv_radar",
-    "date": "2026-11-04T06:40:49+00:00",
-    "text": "Набережные челны\nНижнекамск\nАльметьевск\nБугульма\nЗаинск\nРеспублика Татарстан\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Татарстан",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147922",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T06:41:52+00:00",
-    "text": "Республика Башкортостан\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Республика Башкортостан",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_257287",
     "channel": "LPRalarm",
     "date": "2026-11-04T06:41:54+00:00",
@@ -21996,6 +21919,83 @@
     "type": "alert",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_257889",
+    "channel": "LPRalarm",
+    "date": "2026-11-05T14:48:02+00:00",
+    "text": "Алупка и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_148463",
+    "channel": "kupolrussia",
+    "date": "2026-11-05T14:48:10+00:00",
+    "text": "Алупка и близлежащие \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_257890",
+    "channel": "LPRalarm",
+    "date": "2026-11-05T14:52:57+00:00",
+    "text": "Донецк и близлежащие \nОпасность по БПЛА с запада, в том числе и на электротяге \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_148464",
+    "channel": "kupolrussia",
+    "date": "2026-11-05T14:53:31+00:00",
+    "text": "Донецк и близлежащие \nОпасность по БПЛА с запада, в том числе и на электротяге \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102903",
+    "channel": "radarrussiia",
+    "date": "2026-11-05T14:57:14+00:00",
+    "text": "Сотни БПЛА шли на Москву. Белгород живёт под постоянными обстрелами.\n\nМежду БПЛА и нашими домами — парни из мобильных огневых групп.",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_257891_Портовое",
+    "channel": "LPRalarm",
+    "date": "2026-11-05T15:00:52+00:00",
+    "text": "Портовое, Раздольное и близлежащие тревога по БПЛА с моря",
+    "type": "drone",
+    "location_name": "Портовое",
+    "region": null,
+    "lat": 60.664534,
+    "lon": 30.3249203
+  },
+  {
+    "id": "kupolrussia_148465",
+    "channel": "kupolrussia",
+    "date": "2026-11-05T15:01:24+00:00",
+    "text": "Портовое, Раздольное и близлежащие\nс моря\nРеспублика Крым",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
