@@ -1,104 +1,5 @@
 [
   {
-    "id": "kupolrussia_147865",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T03:18:16+00:00",
-    "text": "Севастополь \nЮБК\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147866",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T03:18:35+00:00",
-    "text": "Севастополь \nОпасность по БПЛА, в т.ч. реактивным",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257225",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T03:21:16+00:00",
-    "text": "Бердянск и близлежащие \nТревога по БПЛА сохраняется \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147867_Знаменск",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T03:22:16+00:00",
-    "text": "Знаменск \nАстраханская область\nи\n<\nРК",
-    "type": "unknown",
-    "location_name": "Знаменск",
-    "region": "Астраханская область",
-    "lat": 48.588829,
-    "lon": 45.725632
-  },
-  {
-    "id": "LPRalarm_257226_Знаменск",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T03:22:18+00:00",
-    "text": "Знаменск \nАстраханская область\nи\n<\nРК",
-    "type": "unknown",
-    "location_name": "Знаменск",
-    "region": "Астраханская область",
-    "lat": 48.588829,
-    "lon": 45.725632
-  },
-  {
-    "id": "vrv_radar_105498",
-    "channel": "vrv_radar",
-    "date": "2026-11-04T03:23:25+00:00",
-    "text": "Липецкая область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257227",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T03:25:09+00:00",
-    "text": "Керчь \nКерченский полуостров \nТревога по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147869",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T03:25:14+00:00",
-    "text": "Керчь \nКерченский полуостров \nТревога по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147870",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T03:25:17+00:00",
-    "text": "Бердянск и близлежащие \nТревога по БПЛА сохраняется \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_105499",
     "channel": "vrv_radar",
     "date": "2026-11-04T03:25:50+00:00",
@@ -21998,5 +21899,104 @@
     "region": null,
     "lat": 47.2610441,
     "lon": 39.7249086
+  },
+  {
+    "id": "LPRalarm_257789_Старооскольский",
+    "channel": "LPRalarm",
+    "date": "2026-11-05T09:02:09+00:00",
+    "text": "Старооскольский район \nМеры безопасности \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Старооскольский",
+    "region": null,
+    "lat": 51.2258539,
+    "lon": 38.070712
+  },
+  {
+    "id": "kupolrussia_148371_Старооскольский",
+    "channel": "kupolrussia",
+    "date": "2026-11-05T09:02:24+00:00",
+    "text": "Старооскольский район \nМеры безопасности \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Старооскольский",
+    "region": null,
+    "lat": 51.2258539,
+    "lon": 38.070712
+  },
+  {
+    "id": "LPRalarm_257790",
+    "channel": "LPRalarm",
+    "date": "2026-11-05T09:08:15+00:00",
+    "text": "Шебекино и район\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_148372",
+    "channel": "kupolrussia",
+    "date": "2026-11-05T09:09:03+00:00",
+    "text": "Шебекино и район\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_257791",
+    "channel": "LPRalarm",
+    "date": "2026-11-05T09:13:40+00:00",
+    "text": "Шахтёрск, Торез, Снежное и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_148373",
+    "channel": "kupolrussia",
+    "date": "2026-11-05T09:13:54+00:00",
+    "text": "Шахтёрск, Торез, Снежное и близлежащие \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_257792",
+    "channel": "LPRalarm",
+    "date": "2026-11-05T09:14:17+00:00",
+    "text": "ЛНР. Угроза атаки БПЛА. \nВ границах муниципальных округов: Антрацитовский, Перевальский, Свердловский и городов Ровеньки, Красный Луч, Алчевск",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_148374",
+    "channel": "kupolrussia",
+    "date": "2026-11-05T09:14:30+00:00",
+    "text": "ЛНР. Угроза атаки БПЛА. \nВ границах муниципальных округов: Антрацитовский, Перевальский, Свердловский и городов Ровеньки, Красный Луч, Алчевск",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_148375",
+    "channel": "kupolrussia",
+    "date": "2026-11-05T09:14:56+00:00",
+    "text": "‼️‼️‼️‼️Огромное спасибо Вам за поддержку нашей работы.‼️‼️‼️\n❤️❤️❤️\n\n👇👇👇\nВыразить благодарность администрации канала можно по ссылке, нажав на данный текст или ссылку ниже:\n\nhttps://pay.cloudtips.ru/p/991df385",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
