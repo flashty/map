@@ -1,4 +1,55 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-05T00:07:04+00:00",
+        "last_updated": "2026-11-05T01:09:18+00:00",
+        "path_labels": [
+          "Севастополь",
+          "Шаблыкинский (Орловская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.186371,
+            53.456383
+          ],
+          [
+            35.1025788,
+            52.8579891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-05T00:40:56+00:00",
+        "last_updated": "2026-11-05T01:09:46+00:00",
+        "path_labels": [
+          "Плавский (Тульская область)",
+          "Щёкинский (Тульская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.3013758,
+            53.5992342
+          ],
+          [
+            37.3865251,
+            53.8906918
+          ]
+        ]
+      }
+    }
+  ]
 }

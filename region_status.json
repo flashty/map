@@ -9,36 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "alert",
-    "text": "Пенза\nПензенская область\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-05T00:08:22+00:00",
-    "expires_at": "2026-11-05T01:08:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Новоалексеевка\nГеническ \nЧонгар \nАрабатская Стрелка и близлежащие\nТревога по БПЛА\nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-05T00:10:43+00:00",
-    "expires_at": "2026-11-05T01:10:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Курская область, тревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-05T00:09:24+00:00",
-    "expires_at": "2026-11-05T01:09:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "астраханск": {
     "display_name": "Астраханская область",
     "type": "drone",
@@ -82,10 +52,10 @@
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Плавский район\nТульская область\nФиксация БПЛА",
+    "text": "Щёкинский район\nТульская область\nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-11-05T00:40:56+00:00",
-    "expires_at": "2026-11-05T01:40:56+00:00",
+    "updated_at": "2026-11-05T01:09:46+00:00",
+    "expires_at": "2026-11-05T02:09:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -132,20 +102,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Анапский район\nКраснодарский край\nФиксация БПЛА",
+    "text": "Анапский район\nКраснодарский край\nРабота ПВО по БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-11-05T00:48:39+00:00",
-    "expires_at": "2026-11-05T01:48:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязань \nРязанская область \nФиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-05T00:55:13+00:00",
-    "expires_at": "2026-11-05T01:55:13+00:00",
+    "updated_at": "2026-11-05T01:01:40+00:00",
+    "expires_at": "2026-11-05T02:01:40+00:00",
     "count": null,
     "count_approx": false
   },
@@ -166,6 +126,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-05T00:58:34+00:00",
     "expires_at": "2026-11-05T01:58:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "alert",
+    "text": "Рязань\nРязанская область\nПродолжается работа ПВО\nМеры безопасности!",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-05T01:06:41+00:00",
+    "expires_at": "2026-11-05T02:06:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Урицкий район\nШаблыкинский район\nХотынецкий район\nЗалегощенский район \nОрловская область\nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-05T01:09:18+00:00",
+    "expires_at": "2026-11-05T02:09:18+00:00",
     "count": null,
     "count_approx": false
   }
