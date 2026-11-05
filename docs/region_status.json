@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Торез (ДНР) и близлежащие, тревога по БпЛА \nИ далее на северо-восток, огромное количество",
+    "text": "Торез, ДНР\nПрожолжаются фиксации БпЛА на электротяге\nВ большом количестве",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-05T20:42:49+00:00",
-    "expires_at": "2026-11-05T21:42:49+00:00",
+    "updated_at": "2026-11-05T21:05:46+00:00",
+    "expires_at": "2026-11-05T22:05:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -16,16 +16,6 @@
     "channel": "vrv_radar",
     "updated_at": "2026-11-05T20:52:57+00:00",
     "expires_at": "2026-11-05T21:52:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Подгоренский \nБутурлиновский районы\nВоронежская область \nТревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-05T20:12:06+00:00",
-    "expires_at": "2026-11-05T21:12:06+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,16 +46,6 @@
     "channel": "locatorru",
     "updated_at": "2026-11-05T20:46:53+00:00",
     "expires_at": "2026-11-05T21:46:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "липецк": {
-    "display_name": "Липецкую область",
-    "type": "drone",
-    "text": "От 25 БПЛА на стыке Воронежской и Белгородской областей и далее на Липецкую область.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-11-05T20:06:40+00:00",
-    "expires_at": "2026-11-05T21:06:40+00:00",
     "count": null,
     "count_approx": false
   },
@@ -112,10 +92,10 @@
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
-    "text": "Саратовская область\nТульская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-05T20:48:07+00:00",
-    "expires_at": "2026-11-05T21:48:07+00:00",
+    "text": "Саратовская область\nПензенская область\nВНИМАНИЕ!!!\n——/^\\ — оБЪЯВЛЕН |\n^^ М желтый уровень\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-05T21:11:49+00:00",
+    "expires_at": "2026-11-05T22:11:49+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,6 +106,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-11-05T20:48:07+00:00",
     "expires_at": "2026-11-05T21:48:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пензенск": {
+    "display_name": "Пензенская область",
+    "type": "drone",
+    "text": "Саратовская область\nПензенская область\nВНИМАНИЕ!!!\n——/^\\ — оБЪЯВЛЕН |\n^^ М желтый уровень\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-05T21:11:49+00:00",
+    "expires_at": "2026-11-05T22:11:49+00:00",
     "count": null,
     "count_approx": false
   }
