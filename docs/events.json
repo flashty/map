@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_105441_Бутурлиновский",
-    "channel": "vrv_radar",
-    "date": "2026-11-03T23:02:20+00:00",
-    "text": "Бутурлиновский район \nВоронежская область \nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Бутурлиновский",
-    "region": "Воронежская область",
-    "lat": 50.7920286,
-    "lon": 40.5642561
-  },
-  {
-    "id": "locatorru_93749",
-    "channel": "locatorru",
-    "date": "2026-11-03T23:02:30+00:00",
-    "text": "Подгоренский, Воронежская область - ещё пролёт БПЛА на север.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Подгоренский область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_105442",
-    "channel": "vrv_radar",
-    "date": "2026-11-03T23:02:38+00:00",
-    "text": "Саратовская область \nПензенская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_93750",
-    "channel": "locatorru",
-    "date": "2026-11-03T23:02:52+00:00",
-    "text": "Алексеевка, Белгородская область - БПЛА на Острогожск, Воронежской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_102818",
-    "channel": "radarrussiia",
-    "date": "2026-11-03T23:03:05+00:00",
-    "text": "Саратовская область \nПензенская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_105443",
-    "channel": "vrv_radar",
-    "date": "2026-11-03T23:03:24+00:00",
-    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_257149_Россошанский",
     "channel": "LPRalarm",
     "date": "2026-11-03T23:03:47+00:00",
@@ -21996,6 +21930,72 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_105793_Рязань",
+    "channel": "vrv_radar",
+    "date": "2026-11-05T01:47:30+00:00",
+    "text": "Рязань\nРязанская область\nПродолжается работа ПВО",
+    "type": "unknown",
+    "location_name": "Рязань",
+    "region": "Рязанская область",
+    "lat": 54.6295687,
+    "lon": 39.7425039
+  },
+  {
+    "id": "vrv_radar_105794_Рязань",
+    "channel": "vrv_radar",
+    "date": "2026-11-05T01:50:18+00:00",
+    "text": "Рязань\nРязанская область\nПродолжается работа ПВО\nМеры безопасности!",
+    "type": "alert",
+    "location_name": "Рязань",
+    "region": "Рязанская область",
+    "lat": 54.6295687,
+    "lon": 39.7425039
+  },
+  {
+    "id": "vrv_radar_105795_Рязань",
+    "channel": "vrv_radar",
+    "date": "2026-11-05T01:54:31+00:00",
+    "text": "Рязань\nРязанская область\nПродолжается работа ПВО",
+    "type": "unknown",
+    "location_name": "Рязань",
+    "region": "Рязанская область",
+    "lat": 54.6295687,
+    "lon": 39.7425039
+  },
+  {
+    "id": "vrv_radar_105796_Рязань",
+    "channel": "vrv_radar",
+    "date": "2026-11-05T01:57:04+00:00",
+    "text": "Рязань\nРязанская область\nПродолжается работа ПВО\nОт окон!",
+    "type": "unknown",
+    "location_name": "Рязань",
+    "region": "Рязанская область",
+    "lat": 54.6295687,
+    "lon": 39.7425039
+  },
+  {
+    "id": "vrv_radar_105797",
+    "channel": "vrv_radar",
+    "date": "2026-11-05T02:00:30+00:00",
+    "text": "Саратовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102891",
+    "channel": "radarrussiia",
+    "date": "2026-11-05T02:00:52+00:00",
+    "text": "Саратовская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Саратовская область",
     "lat": null,
     "lon": null
   }
