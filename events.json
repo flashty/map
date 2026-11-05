@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_257168_Бежицкий",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T00:16:11+00:00",
-    "text": "Бежицкий район и далее по направлению на Сельцо \nТревога по БПЛА \nБрянская область",
-    "type": "drone",
-    "location_name": "Бежицкий",
-    "region": "Брянская область",
-    "lat": 53.3242154,
-    "lon": 34.2805431
-  },
-  {
-    "id": "LPRalarm_257169",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T00:16:33+00:00",
-    "text": "Багерово и далее в направлении \nКерчь \nТревога по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257170",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T00:16:44+00:00",
-    "text": "Ейск \nИ близлежащие \nТревога по БПЛА \nОт Азовского моря \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147811",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T00:16:53+00:00",
-    "text": "Багерово и далее в направлении \nКерчь \nТревога по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147812",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T00:16:58+00:00",
-    "text": "Ейск \nИ близлежащие \nТревога по БПЛА \nОт Азовского моря \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_257171_Трубчевский",
     "channel": "LPRalarm",
     "date": "2026-11-04T00:20:42+00:00",
@@ -21996,6 +21941,61 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Ивановская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_105822",
+    "channel": "vrv_radar",
+    "date": "2026-11-05T04:17:17+00:00",
+    "text": "Вологодская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Вологодская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_105823",
+    "channel": "vrv_radar",
+    "date": "2026-11-05T04:18:45+00:00",
+    "text": "Республика Мордовия\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Мордовия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_148323_Владимирская",
+    "channel": "kupolrussia",
+    "date": "2026-11-05T04:22:16+00:00",
+    "text": "Вологодская \nВладимирская \nРеспублика Мордовия \nНижегородская\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": "Владимирская",
+    "region": "Республика Мордовия",
+    "lat": 54.4047318,
+    "lon": 46.2260941
+  },
+  {
+    "id": "LPRalarm_257733_Владимирская",
+    "channel": "LPRalarm",
+    "date": "2026-11-05T04:22:19+00:00",
+    "text": "Вологодская \nВладимирская \nРеспублика Мордовия \nНижегородская\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": "Владимирская",
+    "region": "Республика Мордовия",
+    "lat": 54.4047318,
+    "lon": 46.2260941
+  },
+  {
+    "id": "locatorru_93952",
+    "channel": "locatorru",
+    "date": "2026-11-05T04:31:14+00:00",
+    "text": "Краснодарский край Ставропольский край : опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
