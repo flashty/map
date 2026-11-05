@@ -1,14 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ с запада \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-05T10:26:18+00:00",
-    "expires_at": "2026-11-05T11:26:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
@@ -19,13 +9,23 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородской области",
+  "краснодарск": {
+    "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Ивнянский район \nБелгородской области \nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-05T10:25:21+00:00",
-    "expires_at": "2026-11-05T11:25:21+00:00",
+    "text": "Анапа и близлежащие\nКраснодарский край\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-05T11:29:49+00:00",
+    "expires_at": "2026-11-05T12:29:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-05T11:29:18+00:00",
+    "expires_at": "2026-11-05T12:29:18+00:00",
     "count": null,
     "count_approx": false
   }
