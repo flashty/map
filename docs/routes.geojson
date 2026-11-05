@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-05T18:42:35+00:00",
+        "last_updated": "2026-11-05T19:09:33+00:00",
+        "path_labels": [
+          "Медвенка (Курская область)",
+          "Курск (Курская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.118046,
+            51.417706
+          ],
+          [
+            36.192248,
+            51.7270357
+          ]
+        ]
+      }
+    }
+  ]
 }
