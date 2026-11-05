@@ -9,26 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Ясногорский район\nТульская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-05T22:02:13+00:00",
-    "expires_at": "2026-11-05T23:02:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Дятьково и близлежащие \nОпасность по БПЛА \nБрянская область \nЕдиничные фиксации",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-05T22:10:28+00:00",
-    "expires_at": "2026-11-05T23:10:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
@@ -76,6 +56,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-11-05T22:38:55+00:00",
     "expires_at": "2026-11-05T23:38:55+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калужская область\nВНИМАНИЕ!!!\n——/^\\ — оБЪЯВЛЕН |\n^^ М желтый уровень\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-05T23:09:21+00:00",
+    "expires_at": "2026-11-06T00:09:21+00:00",
     "count": null,
     "count_approx": false
   }
