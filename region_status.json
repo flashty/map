@@ -10,12 +10,12 @@
     "count_approx": false
   },
   "ростовск": {
-    "display_name": "Ростовской области",
+    "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Северные районы Ростовской области\nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-05T20:12:06+00:00",
-    "expires_at": "2026-11-05T21:12:06+00:00",
+    "text": "Морозовск\nРостовская область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-05T20:52:57+00:00",
+    "expires_at": "2026-11-05T21:52:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -31,31 +31,31 @@
   },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Токмак \nТокмакский район\nОпасность по БПЛА\nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-05T20:19:50+00:00",
-    "expires_at": "2026-11-05T21:19:50+00:00",
+    "type": "missile",
+    "text": "ЛДНР\nЗапорожская область РФ\nХерсонская область РФ\nАвиационная, ракетная, бомбовая опасность\nТактическая авиация с Ровно",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-05T20:46:34+00:00",
+    "expires_at": "2026-11-05T21:46:34+00:00",
     "count": null,
     "count_approx": false
   },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
-    "text": "Краснояружский район, Ракитянский район, Белгородская область - пролёты БПЛА в сторону Курской области через Обоянский район. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-05T20:41:22+00:00",
-    "expires_at": "2026-11-05T21:41:22+00:00",
+    "text": "Крейда\nМакаренко, Сторожевая\nТревога по БпЛА\nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-05T20:57:01+00:00",
+    "expires_at": "2026-11-05T21:57:01+00:00",
     "count": null,
     "count_approx": false
   },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Орловская область опасность по БПЛА от Курской области",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-05T20:40:18+00:00",
-    "expires_at": "2026-11-05T21:40:18+00:00",
+    "text": "Орловская область, Тульская область - опасность по БПЛА от Курской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-05T20:46:53+00:00",
+    "expires_at": "2026-11-05T21:46:53+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,16 +66,6 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-11-05T20:06:40+00:00",
     "expires_at": "2026-11-05T21:06:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянская область \nТревога по БПЛА \nЕдиничные фиксации от Курской области",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-05T19:47:27+00:00",
-    "expires_at": "2026-11-05T20:47:27+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +96,36 @@
     "channel": "locatorru",
     "updated_at": "2026-11-05T20:45:28+00:00",
     "expires_at": "2026-11-05T21:45:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "missile",
+    "text": "ЛДНР\nЗапорожская область РФ\nХерсонская область РФ\nАвиационная, ракетная, бомбовая опасность\nТактическая авиация с Ровно",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-05T20:46:34+00:00",
+    "expires_at": "2026-11-05T21:46:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "саратовск": {
+    "display_name": "Саратовская область",
+    "type": "drone",
+    "text": "Саратовская область\nТульская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-05T20:48:07+00:00",
+    "expires_at": "2026-11-05T21:48:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Саратовская область\nТульская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-05T20:48:07+00:00",
+    "expires_at": "2026-11-05T21:48:07+00:00",
     "count": null,
     "count_approx": false
   }
