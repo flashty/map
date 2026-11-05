@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_105474",
-    "channel": "vrv_radar",
-    "date": "2026-11-04T01:01:15+00:00",
-    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_147834_Воскресенск",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T01:01:27+00:00",
-    "text": "Воскресенск \nКоломна \nСерпухов \nМосковская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": "Воскресенск",
-    "region": "Московская область",
-    "lat": 55.322518,
-    "lon": 38.6816824
-  },
-  {
     "id": "kupolrussia_147834_Коломна",
     "channel": "kupolrussia",
     "date": "2026-11-04T01:01:27+00:00",
@@ -21996,6 +21974,28 @@
     "type": "unknown",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_257751",
+    "channel": "LPRalarm",
+    "date": "2026-11-05T06:19:19+00:00",
+    "text": "Южный ДКАД, Донецк, Моспино, Старобешево и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_148335",
+    "channel": "kupolrussia",
+    "date": "2026-11-05T06:19:39+00:00",
+    "text": "Южный ДКАД, Донецк, Моспино, Старобешево и близлежащие \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
