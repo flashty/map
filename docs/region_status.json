@@ -19,26 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "северн": {
-    "display_name": "Республика Северная",
-    "type": "drone",
-    "text": "Республика Северная Осетия опасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-06T09:14:55+00:00",
-    "expires_at": "2026-11-06T10:14:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Джанкой и близлежащие \nОпасность по БПЛА \n\nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-06T09:14:47+00:00",
-    "expires_at": "2026-11-06T10:14:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарско": {
     "display_name": "Краснодарского края",
     "type": "alert",
@@ -52,10 +32,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Зугрэс, Харцызск, Макеевка и близлежащие \nОпасность по БПЛА Хорнет \nДНР \n\nОсобое внимание на дорогах!",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-06T09:59:19+00:00",
-    "expires_at": "2026-11-06T10:59:19+00:00",
+    "text": "Горловка и близлежащие на восток, юв\nФиксации на севере города \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-06T10:13:33+00:00",
+    "expires_at": "2026-11-06T11:13:33+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +46,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-06T09:55:58+00:00",
     "expires_at": "2026-11-06T10:55:58+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Луганск \nЛНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-06T10:12:54+00:00",
+    "expires_at": "2026-11-06T11:12:54+00:00",
     "count": null,
     "count_approx": false
   }
