@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_105668_Самойловский",
-    "channel": "vrv_radar",
-    "date": "2026-11-04T21:36:06+00:00",
-    "text": "Балашовский район\nСамойловский район\nКалининский район\nСаратовская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Самойловский",
-    "region": "Саратовская область",
-    "lat": 51.2494111,
-    "lon": 43.7086216
-  },
-  {
-    "id": "vrv_radar_105668_Калининский",
-    "channel": "vrv_radar",
-    "date": "2026-11-04T21:36:06+00:00",
-    "text": "Балашовский район\nСамойловский район\nКалининский район\nСаратовская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Калининский",
-    "region": "Саратовская область",
-    "lat": 51.443285,
-    "lon": 44.2509472
-  },
-  {
-    "id": "vrv_radar_105669",
-    "channel": "vrv_radar",
-    "date": "2026-11-04T21:36:47+00:00",
-    "text": "Республика Мордовия\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_105670_Измалковский",
-    "channel": "vrv_radar",
-    "date": "2026-11-04T21:37:47+00:00",
-    "text": "Измалковский район\nЛипецкая область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Измалковский",
-    "region": "Липецкая область",
-    "lat": 52.6604933,
-    "lon": 37.9922082
-  },
-  {
     "id": "LPRalarm_257663",
     "channel": "LPRalarm",
     "date": "2026-11-04T21:38:24+00:00",
@@ -21996,6 +21952,50 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258255",
+    "channel": "LPRalarm",
+    "date": "2026-11-06T12:08:10+00:00",
+    "text": "Белая Берёзка РСЗО\nБрянская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_148767",
+    "channel": "kupolrussia",
+    "date": "2026-11-06T12:08:31+00:00",
+    "text": "Белая Берёзка РСЗО\nБрянская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_148768",
+    "channel": "kupolrussia",
+    "date": "2026-11-06T12:13:30+00:00",
+    "text": "Республика Дагестан \nСеверный Кавказ\n3“ <\nжай ОТБОЙ\n`\\ь ОПАСНОСТИ ПО БПЛА\n2.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Дагестан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258256",
+    "channel": "LPRalarm",
+    "date": "2026-11-06T12:13:35+00:00",
+    "text": "Республика Дагестан \nСеверный Кавказ\n3“ <\nжай ОТБОЙ\n`\\ь ОПАСНОСТИ ПО БПЛА\n2.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Дагестан",
     "lat": null,
     "lon": null
   }
