@@ -1,14 +1,4 @@
 {
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Таврово\nБелгород \nИ близлежащие \nТревога по БПЛА \nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-06T21:43:35+00:00",
-    "expires_at": "2026-11-06T22:43:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -19,53 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Краснодарский край \nРеспублика Адыгея \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-06T21:44:56+00:00",
-    "expires_at": "2026-11-06T22:44:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Краснодарский край \nРеспублика Адыгея \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-06T21:44:56+00:00",
-    "expires_at": "2026-11-06T22:44:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "саратовск": {
-    "display_name": "Саратовская область",
-    "type": "drone",
-    "text": "Саратовская область, Пензенская область - опасность по БПЛА от Борисоглебск. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-06T22:07:29+00:00",
-    "expires_at": "2026-11-06T23:07:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "пензенск": {
     "display_name": "Пензенская область",
-    "type": "missile",
-    "text": "Пензенская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-06T22:20:43+00:00",
-    "expires_at": "2026-11-06T23:20:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "missile",
-    "text": "Рязанская область \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "text": "Пензенская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
     "channel": "radarrussiia",
-    "updated_at": "2026-11-06T22:22:45+00:00",
-    "expires_at": "2026-11-06T23:22:45+00:00",
+    "updated_at": "2026-11-06T22:45:13+00:00",
+    "expires_at": "2026-11-06T23:45:13+00:00",
     "count": null,
     "count_approx": false
   },
@@ -89,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "калмык": {
-    "display_name": "Республика Калмыкия",
-    "type": "missile",
-    "text": "Астраханская область \nРеспублика Калмыкия \nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-06T22:04:26+00:00",
-    "expires_at": "2026-11-06T23:04:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "мордов": {
     "display_name": "Республика Мордовия",
     "type": "missile",
@@ -106,6 +46,96 @@
     "channel": "radarrussiia",
     "updated_at": "2026-11-06T22:06:33+00:00",
     "expires_at": "2026-11-06T23:06:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Раздольное \nРаздольненский район\nРеспублика Крым \nТревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-06T22:35:13+00:00",
+    "expires_at": "2026-11-06T23:35:13+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Выгоничский район \nБрянская область \nТревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-06T22:37:33+00:00",
+    "expires_at": "2026-11-06T23:37:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Аннинский район \nВоронежская область \nТревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-06T22:39:14+00:00",
+    "expires_at": "2026-11-06T23:39:14+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородская область",
+    "type": "drone",
+    "text": "Нижегородская область\nВНИМАНИЕ!!!\n——/^\\ — оБЪЯВЛЕН |\n^^ М желтый уровень\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-06T22:41:45+00:00",
+    "expires_at": "2026-11-06T23:41:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Курск и близлежащие \nВозможно БПЛА разведчик \nКурская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-06T22:42:30+00:00",
+    "expires_at": "2026-11-06T23:42:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "саратовск": {
+    "display_name": "Саратовская область",
+    "type": "drone",
+    "text": "Саратовская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-06T22:43:23+00:00",
+    "expires_at": "2026-11-06T23:43:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "новониколаевск": {
+    "display_name": "Новониколаевский область",
+    "type": "drone",
+    "text": "Новониколаевский, Волгоградская область - пролёт БПЛА в сторону Саратовской области.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-06T22:43:09+00:00",
+    "expires_at": "2026-11-06T23:43:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградской области",
+    "type": "drone",
+    "text": "Обливский район\nРостовская область \nТревога по БПЛА \nИ далее в направлении \nВолгоградской области",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-06T22:43:49+00:00",
+    "expires_at": "2026-11-06T23:43:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Обливский район\nРостовская область \nТревога по БПЛА \nИ далее в направлении \nВолгоградской области",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-06T22:43:49+00:00",
+    "expires_at": "2026-11-06T23:43:49+00:00",
     "count": null,
     "count_approx": false
   }
