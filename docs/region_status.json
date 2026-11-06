@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калужская область\nВНИМАНИЕ!!!\n——/^\\ — оБЪЯВЛЕН |\n^^ М желтый уровень\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-05T23:09:21+00:00",
-    "expires_at": "2026-11-06T00:09:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "волгоградск": {
     "display_name": "Волгоградская область",
     "type": "drone",
@@ -46,6 +36,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-05T23:51:29+00:00",
     "expires_at": "2026-11-06T00:51:29+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Снежное, Коренное и близлежащие, тревога по БпЛА \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-06T00:10:33+00:00",
+    "expires_at": "2026-11-06T01:10:33+00:00",
     "count": null,
     "count_approx": false
   }
