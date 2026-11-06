@@ -1,54 +1,4 @@
 {
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Краснодар\nКраснодарский край\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-06T05:22:59+00:00",
-    "expires_at": "2026-11-06T06:22:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Новая Адыгея, Яблоновский, Майкоп, Ханская, Республика Адыгея - меры предосторожности по реактивным БПЛА со стороны г.Краснодар.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-06T04:46:23+00:00",
-    "expires_at": "2026-11-06T05:46:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарско": {
-    "display_name": "Краснодарского края",
-    "type": "drone",
-    "text": "Возможно ещё реактивные БПЛА над акваторией Азовского моря в направлении Краснодарского края. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-06T04:34:35+00:00",
-    "expires_at": "2026-11-06T05:34:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "афипск": {
-    "display_name": "Афипский край",
-    "type": "drone",
-    "text": "Группа реактивных БПЛА в сторону г.Краснодар,  возможно на Афипский, Краснодарский край. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-06T04:45:03+00:00",
-    "expires_at": "2026-11-06T05:45:03+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовской области",
-    "type": "drone",
-    "text": "Старобельск в направлении Счастье ЛНР, Миллерово Ростовской области фиксация БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-06T05:23:00+00:00",
-    "expires_at": "2026-11-06T06:23:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -56,6 +6,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-06T05:23:00+00:00",
     "expires_at": "2026-11-06T06:23:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Первомайское, Пески, Донецк и близлежащие \nОпасность по БПЛА \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-06T05:37:40+00:00",
+    "expires_at": "2026-11-06T06:37:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-06T05:43:17+00:00",
+    "expires_at": "2026-11-06T06:43:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Воронежская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-06T05:45:41+00:00",
+    "expires_at": "2026-11-06T06:45:41+00:00",
     "count": null,
     "count_approx": false
   }
