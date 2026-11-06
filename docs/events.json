@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_257677",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T22:29:16+00:00",
-    "text": "Порт Тамань, тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_105686_Бутурлиновский",
-    "channel": "vrv_radar",
-    "date": "2026-11-04T22:29:18+00:00",
-    "text": "Бутурлиновский район\nВоронежская область\nМеры безопасности",
-    "type": "alert",
-    "location_name": "Бутурлиновский",
-    "region": "Воронежская область",
-    "lat": 50.7920286,
-    "lon": 40.5642561
-  },
-  {
     "id": "kupolrussia_148266",
     "channel": "kupolrussia",
     "date": "2026-11-04T22:29:27+00:00",
@@ -21996,6 +21974,28 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258289",
+    "channel": "LPRalarm",
+    "date": "2026-11-06T15:21:54+00:00",
+    "text": "Донецк \nПоселок Октябрьский \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258290",
+    "channel": "LPRalarm",
+    "date": "2026-11-06T15:31:00+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ\nОтбой авиационно ракетной бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
