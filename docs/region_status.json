@@ -12,10 +12,10 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "МО Истра\nМосковская область\nОпасность по БПЛА",
+    "text": "ГО Домодедово\nМосковская область\nРабота ПВО по БПЛА\nМеры безопасности",
     "channel": "vrv_radar",
-    "updated_at": "2026-11-05T23:19:21+00:00",
-    "expires_at": "2026-11-06T00:19:21+00:00",
+    "updated_at": "2026-11-05T23:52:57+00:00",
+    "expires_at": "2026-11-06T00:52:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +36,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-11-05T23:34:28+00:00",
     "expires_at": "2026-11-06T00:34:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарско": {
+    "display_name": "Краснодарского края",
+    "type": "drone",
+    "text": "Приазовье Краснодарского края\nТревога по БпЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-05T23:51:29+00:00",
+    "expires_at": "2026-11-06T00:51:29+00:00",
     "count": null,
     "count_approx": false
   }
