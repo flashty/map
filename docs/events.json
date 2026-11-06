@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_257600",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T20:17:41+00:00",
-    "text": "ЛНР, Воронежская область, тревога по БПЛА, много\nМеры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148207",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T20:17:46+00:00",
-    "text": "ЛНР, Воронежская область, тревога по БПЛА, много\nМеры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257601",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T20:17:53+00:00",
-    "text": "Осипенко на Бердянск фиксации БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_148208",
     "channel": "kupolrussia",
     "date": "2026-11-04T20:17:59+00:00",
@@ -21998,5 +21965,38 @@
     "region": null,
     "lat": 54.400865,
     "lon": 22.1195489
+  },
+  {
+    "id": "LPRalarm_258183_Мелитопольский",
+    "channel": "LPRalarm",
+    "date": "2026-11-06T07:15:08+00:00",
+    "text": "Мелитопольский район с северо-запада на Мелитополь тревога по БПЛА",
+    "type": "drone",
+    "location_name": "Мелитопольский",
+    "region": null,
+    "lat": 59.9445151,
+    "lon": 30.3614269
+  },
+  {
+    "id": "kupolrussia_148702_Мелитопольский",
+    "channel": "kupolrussia",
+    "date": "2026-11-06T07:15:21+00:00",
+    "text": "Мелитопольский район с северо-запада на Мелитополь",
+    "type": "unknown",
+    "location_name": "Мелитопольский",
+    "region": null,
+    "lat": 59.9445151,
+    "lon": 30.3614269
+  },
+  {
+    "id": "kupolrussia_148702_Мелитополь",
+    "channel": "kupolrussia",
+    "date": "2026-11-06T07:15:21+00:00",
+    "text": "Мелитопольский район с северо-запада на Мелитополь",
+    "type": "unknown",
+    "location_name": "Мелитополь",
+    "region": null,
+    "lat": 55.7020859,
+    "lon": 49.1449216
   }
 ]
