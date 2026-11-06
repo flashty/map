@@ -1,16 +1,5 @@
 [
   {
-    "id": "kupolrussia_148266",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T22:29:27+00:00",
-    "text": "Порт Тамань, тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_148267_Макс",
     "channel": "kupolrussia",
     "date": "2026-11-04T22:30:22+00:00",
@@ -21994,6 +21983,17 @@
     "date": "2026-11-06T15:31:00+00:00",
     "text": "ЛДНР \nЗапорожская область РФ\nОтбой авиационно ракетной бомбовой опасности",
     "type": "all_clear",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258291",
+    "channel": "LPRalarm",
+    "date": "2026-11-06T15:43:35+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
     "location_name": null,
     "region": "Запорожская область",
     "lat": null,
