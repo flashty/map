@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_257533",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T18:44:57+00:00",
-    "text": "ЛНР \nТревога по БПЛА \nПовторно \nМножественные фиксации",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148147",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T18:45:08+00:00",
-    "text": "ЛНР \nТревога по БПЛА \nПовторно \nМножественные фиксации",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257534",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T18:45:20+00:00",
-    "text": "Воронежская область \nТревога по БПЛА от ЛНР \nПовторно",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_148148",
     "channel": "kupolrussia",
     "date": "2026-11-04T18:45:25+00:00",
@@ -21996,6 +21963,39 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258133_Краснодар",
+    "channel": "LPRalarm",
+    "date": "2026-11-06T02:47:13+00:00",
+    "text": "Продолжаются фиксации на Краснодар",
+    "type": "unknown",
+    "location_name": "Краснодар",
+    "region": null,
+    "lat": 45.0351532,
+    "lon": 38.9772396
+  },
+  {
+    "id": "kupolrussia_148660_Краснодар",
+    "channel": "kupolrussia",
+    "date": "2026-11-06T02:47:17+00:00",
+    "text": "Продолжаются фиксации на Краснодар",
+    "type": "unknown",
+    "location_name": "Краснодар",
+    "region": null,
+    "lat": 45.0351532,
+    "lon": 38.9772396
+  },
+  {
+    "id": "vrv_radar_105913",
+    "channel": "vrv_radar",
+    "date": "2026-11-06T02:52:33+00:00",
+    "text": "Орловская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская область",
     "lat": null,
     "lon": null
   }
