@@ -1,11 +1,21 @@
 {
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Геленджик, Туапсе внимание по БПЛА с моря\nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-06T07:24:31+00:00",
-    "expires_at": "2026-11-06T08:24:31+00:00",
+    "type": "alert",
+    "text": "Анапа и близлежащие\nКраснодарский край \nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-06T08:00:45+00:00",
+    "expires_at": "2026-11-06T09:00:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "shelling",
+    "text": "Белая Березка окраины обстрел \nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-06T08:00:48+00:00",
+    "expires_at": "2026-11-06T09:00:48+00:00",
     "count": null,
     "count_approx": false
   }
