@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_105675_Воронеж",
-    "channel": "vrv_radar",
-    "date": "2026-11-04T21:49:46+00:00",
-    "text": "Воронеж\nВоронежская область\nСбитие БПЛА\nМеры безопасности",
-    "type": "all_clear",
-    "location_name": "Воронеж",
-    "region": "Воронежская область",
-    "lat": 51.6605982,
-    "lon": 39.2005858
-  },
-  {
-    "id": "kupolrussia_148259",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T21:50:52+00:00",
-    "text": "Тамбовская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_93903",
     "channel": "locatorru",
     "date": "2026-11-04T21:50:57+00:00",
@@ -21996,6 +21974,28 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Республика\nКабардино-Балкарская",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258267",
+    "channel": "LPRalarm",
+    "date": "2026-11-06T13:05:07+00:00",
+    "text": "Осипенко, Бердянск и близлежащие\nОпасность по БПЛА с севера \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_148778",
+    "channel": "kupolrussia",
+    "date": "2026-11-06T13:05:23+00:00",
+    "text": "Осипенко, Бердянск и близлежащие\nс севера \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
