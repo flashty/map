@@ -1,24 +1,4 @@
 {
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Анапа\nНовороссийск \nГеленджик \nИ близлежащие \nОпасность по БПЛА сохраняется \n\nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-06T08:50:12+00:00",
-    "expires_at": "2026-11-06T09:50:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Марковка ЛНР с запада тревога по БПЛА и далее на Чертковский, Миллеровский район",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-06T08:18:25+00:00",
-    "expires_at": "2026-11-06T09:18:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -29,23 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "ставропольск": {
-    "display_name": "Ставропольский край",
-    "type": "drone",
-    "text": "Ставропольский край\nОпасность по БПЛА повторно",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-06T08:18:36+00:00",
-    "expires_at": "2026-11-06T09:18:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "shelling",
-    "text": "Каховка артобстрел \n\nХерсонская область РФ",
+    "text": "Каховка артобстрел\n\nХерсонская область РФ",
     "channel": "LPRalarm",
-    "updated_at": "2026-11-06T08:40:39+00:00",
-    "expires_at": "2026-11-06T09:40:39+00:00",
+    "updated_at": "2026-11-06T09:24:43+00:00",
+    "expires_at": "2026-11-06T10:24:43+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +46,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-06T09:14:47+00:00",
     "expires_at": "2026-11-06T10:14:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарско": {
+    "display_name": "Краснодарского края",
+    "type": "alert",
+    "text": "Экстренная информация РСЧС: Отмена БЕСПИЛОТНОЙ ОПАСНОСТИ на территории Краснодарского края. 06.11.26 Телефон 112.",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-06T09:23:28+00:00",
+    "expires_at": "2026-11-06T10:23:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Зугрэс, Харцызск, Макеевка и близлежащие \nОпасность по БПЛА Хорнет \nДНР \n\nОсобое внимание на дорогах!",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-06T09:26:14+00:00",
+    "expires_at": "2026-11-06T10:26:14+00:00",
     "count": null,
     "count_approx": false
   }

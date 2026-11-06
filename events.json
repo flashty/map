@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_257627",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T20:50:40+00:00",
-    "text": "Джанкой и близлежащие, тревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148231",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T20:50:45+00:00",
-    "text": "Джанкой и близлежащие, тревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257628",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T20:53:11+00:00",
-    "text": "Первомайский район\nГришино\nОктябрьское \nИ близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148232",
-    "channel": "kupolrussia",
-    "date": "2026-11-04T20:53:36+00:00",
-    "text": "Первомайский район\nГришино\nОктябрьское \nИ близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_93883",
-    "channel": "locatorru",
-    "date": "2026-11-04T20:54:20+00:00",
-    "text": "Московская область - внимание по единичным БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_93884",
-    "channel": "locatorru",
-    "date": "2026-11-04T20:54:53+00:00",
-    "text": "Колодежное, Воронежская область - пролёт БПЛА в сторону Колыбелка, Лиски. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Колодежное область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257629",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T20:55:38+00:00",
-    "text": "Новоалексеевка\nГеническ \nЧонгар \nАрабатская Стрелка и близлежащие\nТревога по БПЛА\nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257630",
-    "channel": "LPRalarm",
-    "date": "2026-11-04T20:55:40+00:00",
-    "text": "Борисоглебск и близлежащие \nТревога по БПЛА \nВоронежская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_148233",
     "channel": "kupolrussia",
     "date": "2026-11-04T20:55:45+00:00",
@@ -21998,5 +21910,93 @@
     "region": "Республика Северная",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_105952",
+    "channel": "vrv_radar",
+    "date": "2026-11-06T09:21:55+00:00",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258205",
+    "channel": "LPRalarm",
+    "date": "2026-11-06T09:23:28+00:00",
+    "text": "Экстренная информация РСЧС: Отмена БЕСПИЛОТНОЙ ОПАСНОСТИ на территории Краснодарского края. 06.11.26 Телефон 112.",
+    "type": "alert",
+    "location_name": null,
+    "region": "Краснодарского края",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_148721",
+    "channel": "kupolrussia",
+    "date": "2026-11-06T09:23:28+00:00",
+    "text": "Экстренная информация РСЧС: Отмена БЕСПИЛОТНОЙ ОПАСНОСТИ на территории Краснодарского края. 06.11.26 Телефон 112.",
+    "type": "alert",
+    "location_name": null,
+    "region": "Краснодарского края",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258206",
+    "channel": "LPRalarm",
+    "date": "2026-11-06T09:24:43+00:00",
+    "text": "Каховка артобстрел\n\nХерсонская область РФ",
+    "type": "shelling",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258207",
+    "channel": "LPRalarm",
+    "date": "2026-11-06T09:26:05+00:00",
+    "text": "Зугрэс, Харцызск, Макеевка и близлежащие \nОпасность по БПЛА Хорнет \nДНР \n\nОсобое внимание на дорогах!",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_148722",
+    "channel": "kupolrussia",
+    "date": "2026-11-06T09:26:14+00:00",
+    "text": "Зугрэс, Харцызск, Макеевка и близлежащие \nОпасность по БПЛА Хорнет \nДНР \n\nОсобое внимание на дорогах!",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_148723_Северный Кавказ",
+    "channel": "kupolrussia",
+    "date": "2026-11-06T09:33:56+00:00",
+    "text": "Северный Кавказ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Северный Кавказ",
+    "region": null,
+    "lat": 51.315148,
+    "lon": 41.767303
+  },
+  {
+    "id": "LPRalarm_258208_Северный Кавказ",
+    "channel": "LPRalarm",
+    "date": "2026-11-06T09:33:58+00:00",
+    "text": "Северный Кавказ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Северный Кавказ",
+    "region": null,
+    "lat": 51.315148,
+    "lon": 41.767303
   }
 ]
