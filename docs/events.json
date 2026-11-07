@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_258003",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T20:25:54+00:00",
-    "text": "Курская область, по стыку областей\nФиксации БпЛА в направлении Обоянь",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148549",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T20:25:58+00:00",
-    "text": "Курская область, по стыку областей\nФиксации БпЛА в направлении Обоянь",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258004",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T20:26:31+00:00",
-    "text": "Курская область\nБелгородская область\nБеспилотная опасность",
-    "type": "alert",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148550",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T20:26:37+00:00",
-    "text": "Курская область\nБелгородская область\nБеспилотная опасность",
-    "type": "alert",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_258005",
     "channel": "LPRalarm",
     "date": "2026-11-05T20:28:23+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106180",
+    "channel": "vrv_radar",
+    "date": "2026-11-07T06:38:00+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106181",
+    "channel": "vrv_radar",
+    "date": "2026-11-07T06:38:20+00:00",
+    "text": "Отбой опасности и внимания по БПЛА по ранее объявленным регионам\nСпасибо ПВО 🤍",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258590",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T06:39:30+00:00",
+    "text": "Ростовская область отбой опасности по БПЛА (РСЧС)",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149022",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T06:39:39+00:00",
+    "text": "Ростовская область отбой опасности по БПЛА (РСЧС)",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
     "lat": null,
     "lon": null
   }
