@@ -1,126 +1,5 @@
 [
   {
-    "id": "LPRalarm_257922_Гвардейское",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T17:17:50+00:00",
-    "text": "Красноперекопск в направлении Гвардейское, Красногвадейское возможно ПКР Нептун",
-    "type": "unknown",
-    "location_name": "Гвардейское",
-    "region": null,
-    "lat": 43.67239,
-    "lon": 44.96241
-  },
-  {
-    "id": "LPRalarm_257922_Нептун",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T17:17:50+00:00",
-    "text": "Красноперекопск в направлении Гвардейское, Красногвадейское возможно ПКР Нептун",
-    "type": "unknown",
-    "location_name": "Нептун",
-    "region": null,
-    "lat": 55.6624579,
-    "lon": 49.7626631
-  },
-  {
-    "id": "kupolrussia_148494_Гвардейское",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T17:17:58+00:00",
-    "text": "Красноперекопск в направлении Гвардейское, Красногвадейское возможно ПКР Нептун",
-    "type": "unknown",
-    "location_name": "Гвардейское",
-    "region": null,
-    "lat": 43.67239,
-    "lon": 44.96241
-  },
-  {
-    "id": "kupolrussia_148494_Нептун",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T17:17:58+00:00",
-    "text": "Красноперекопск в направлении Гвардейское, Красногвадейское возможно ПКР Нептун",
-    "type": "unknown",
-    "location_name": "Нептун",
-    "region": null,
-    "lat": 55.6624579,
-    "lon": 49.7626631
-  },
-  {
-    "id": "LPRalarm_257923",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T17:19:29+00:00",
-    "text": "Приазовье Краснодарского края, Ростовской области ракетная тревога по ПКР Нептун",
-    "type": "missile",
-    "location_name": null,
-    "region": "Краснодарского края",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148495",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T17:19:36+00:00",
-    "text": "Приазовье Краснодарского края, Ростовской области ракетная тревога по ПКР Нептун",
-    "type": "missile",
-    "location_name": null,
-    "region": "Краснодарского края",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257924",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T17:20:21+00:00",
-    "text": "Скадовский район, Каланчак опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148496",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T17:20:28+00:00",
-    "text": "Скадовский район, Каланчак опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257925_Мариуполь",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T17:21:55+00:00",
-    "text": "Гуляйполе, Великая Новосёлка и близлежащие фиксации БПЛА в направлении примерно Мариуполь",
-    "type": "drone",
-    "location_name": "Мариуполь",
-    "region": null,
-    "lat": 54.2023091,
-    "lon": 45.9511935
-  },
-  {
-    "id": "kupolrussia_148497_Мариуполь",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T17:21:57+00:00",
-    "text": "Гуляйполе, Великая Новосёлка и близлежащие фиксации БПЛА в направлении примерно Мариуполь",
-    "type": "drone",
-    "location_name": "Мариуполь",
-    "region": null,
-    "lat": 54.2023091,
-    "lon": 45.9511935
-  },
-  {
-    "id": "vrv_radar_105856",
-    "channel": "vrv_radar",
-    "date": "2026-11-05T17:22:32+00:00",
-    "text": "Краснодарский край\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_257926",
     "channel": "LPRalarm",
     "date": "2026-11-05T17:23:58+00:00",
@@ -21998,5 +21877,126 @@
     "region": "Волгоградская область",
     "lat": 50.2225943,
     "lon": 42.3203313
+  },
+  {
+    "id": "kupolrussia_148993_Энгельс",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T00:19:30+00:00",
+    "text": "Энгельс \nСаратов\nСаратовская область\nи\n<>\nРК",
+    "type": "unknown",
+    "location_name": "Энгельс",
+    "region": "Саратовская область",
+    "lat": 51.5013775,
+    "lon": 46.1233093
+  },
+  {
+    "id": "kupolrussia_148993_Саратов",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T00:19:30+00:00",
+    "text": "Энгельс \nСаратов\nСаратовская область\nи\n<>\nРК",
+    "type": "unknown",
+    "location_name": "Саратов",
+    "region": "Саратовская область",
+    "lat": 51.530018,
+    "lon": 46.034683
+  },
+  {
+    "id": "LPRalarm_258554_Энгельс",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T00:19:36+00:00",
+    "text": "Энгельс \nСаратов\nСаратовская область\nи\n<>\nРК",
+    "type": "unknown",
+    "location_name": "Энгельс",
+    "region": "Саратовская область",
+    "lat": 51.5013775,
+    "lon": 46.1233093
+  },
+  {
+    "id": "LPRalarm_258554_Саратов",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T00:19:36+00:00",
+    "text": "Энгельс \nСаратов\nСаратовская область\nи\n<>\nРК",
+    "type": "unknown",
+    "location_name": "Саратов",
+    "region": "Саратовская область",
+    "lat": 51.530018,
+    "lon": 46.034683
+  },
+  {
+    "id": "kupolrussia_148994",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T00:21:07+00:00",
+    "text": "Нижегородская область\nи\n<>\nРК",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258555",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T00:21:13+00:00",
+    "text": "Нижегородская область\nи\n<>\nРК",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106105",
+    "channel": "vrv_radar",
+    "date": "2026-11-07T00:21:26+00:00",
+    "text": "Нижегородская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102974",
+    "channel": "radarrussiia",
+    "date": "2026-11-07T00:21:47+00:00",
+    "text": "Нижегородская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_94209",
+    "channel": "locatorru",
+    "date": "2026-11-07T00:27:51+00:00",
+    "text": "Новониколаевский, Волгоградская область - ещё пролёт от 3 БПЛА в сторону Саратовской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Новониколаевский область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_94210",
+    "channel": "locatorru",
+    "date": "2026-11-07T00:28:14+00:00",
+    "text": "Нижегородская область, Владимирская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102975",
+    "channel": "radarrussiia",
+    "date": "2026-11-07T00:28:58+00:00",
+    "text": "Владимирская область\nРеспублика Мордовия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": null,
+    "region": "Владимирская область",
+    "lat": null,
+    "lon": null
   }
 ]
