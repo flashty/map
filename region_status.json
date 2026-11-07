@@ -1,14 +1,4 @@
 {
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Трасса  Р-280 \"Новороссия\" Мелитополь - Приазовское\nТревога по БПЛА \n\nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-07T09:03:07+00:00",
-    "expires_at": "2026-11-07T10:03:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -16,6 +6,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-07T09:33:39+00:00",
     "expires_at": "2026-11-07T10:33:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Дорога Горловка - Пантелеймоновка - Ясиноватая \nОпасность по БПЛА \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-07T10:10:11+00:00",
+    "expires_at": "2026-11-07T11:10:11+00:00",
     "count": null,
     "count_approx": false
   }
