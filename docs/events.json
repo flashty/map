@@ -1,93 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_15728",
-    "channel": "radar_plus_bpla",
-    "date": "2026-11-05T19:25:57+00:00",
-    "text": "Воронежская область - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257974",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T19:26:40+00:00",
-    "text": "Новоайдар и близлежащие \nТревога по БПЛА \nОсобое внимание объекты энергосистемы \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148524",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T19:27:34+00:00",
-    "text": "Новоайдар и близлежащие \nТревога по БПЛА \nОсобое внимание объекты энергосистемы \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_257975",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T19:27:40+00:00",
-    "text": "От Перевальск \nВ направлении \nЛуганск \nТревога по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_94006_Неклиновский",
-    "channel": "locatorru",
-    "date": "2026-11-05T19:27:57+00:00",
-    "text": "Покровское, Неклиновский район, Ростовская область - предварительно группа БПЛА в направлении Чалтырь, Ростов-на-Дону. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Неклиновский",
-    "region": "Ростовская область",
-    "lat": 47.3415164,
-    "lon": 38.7288396
-  },
-  {
-    "id": "locatorru_94006_Покровское",
-    "channel": "locatorru",
-    "date": "2026-11-05T19:27:57+00:00",
-    "text": "Покровское, Неклиновский район, Ростовская область - предварительно группа БПЛА в направлении Чалтырь, Ростов-на-Дону. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Покровское",
-    "region": "Ростовская область",
-    "lat": 47.41428,
-    "lon": 38.896759
-  },
-  {
-    "id": "kupolrussia_148525",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T19:27:57+00:00",
-    "text": "От Перевальск \nВ направлении \nЛуганск \nТревога по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_94007_Острогожский",
-    "channel": "locatorru",
-    "date": "2026-11-05T19:28:24+00:00",
-    "text": "Острогожский район, Лискинский район, Воронежская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Острогожский",
-    "region": "Воронежская область",
-    "lat": 50.8584609,
-    "lon": 39.0772421
-  },
-  {
     "id": "locatorru_94007_Лискинский",
     "channel": "locatorru",
     "date": "2026-11-05T19:28:24+00:00",
@@ -21998,5 +21910,93 @@
     "region": null,
     "lat": 51.0194109,
     "lon": 36.6748742
+  },
+  {
+    "id": "vrv_radar_106157",
+    "channel": "vrv_radar",
+    "date": "2026-11-07T04:41:29+00:00",
+    "text": "Пензенская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_94228",
+    "channel": "locatorru",
+    "date": "2026-11-07T04:41:35+00:00",
+    "text": "Пензенская область, Республика Мордовия, Нижегородская область, Московская область, Владимирская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_94229",
+    "channel": "locatorru",
+    "date": "2026-11-07T04:42:15+00:00",
+    "text": "Саратовская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106158",
+    "channel": "vrv_radar",
+    "date": "2026-11-07T04:42:27+00:00",
+    "text": "Саратовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149006",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T04:42:41+00:00",
+    "text": "Саратовская область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258570",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T04:42:48+00:00",
+    "text": "Саратовская область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Саратовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149007",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T04:43:17+00:00",
+    "text": "Пензенская область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258571",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T04:43:22+00:00",
+    "text": "Пензенская область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
   }
 ]
