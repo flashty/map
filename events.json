@@ -1,115 +1,5 @@
 [
   {
-    "id": "LPRalarm_258034",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T21:11:49+00:00",
-    "text": "Саратовская область\nПензенская область\nВНИМАНИЕ!!!\n——/^\\ — оБЪЯВЛЕН |\n^^ М желтый уровень\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258035",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T21:17:19+00:00",
-    "text": "Ленинский район\nКировский район\nСоветский район \nЧауда\nФеодосия и близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_105879_Богородицкий",
-    "channel": "vrv_radar",
-    "date": "2026-11-05T21:19:01+00:00",
-    "text": "Богородицкий район\nТульская область\nФиксация от 2 БПЛА",
-    "type": "drone",
-    "location_name": "Богородицкий",
-    "region": "Тульская область",
-    "lat": 53.7757969,
-    "lon": 38.1447572
-  },
-  {
-    "id": "LPRalarm_258036",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T21:19:33+00:00",
-    "text": "Новороссийск\nКирилловка и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148569",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T21:19:37+00:00",
-    "text": "Новороссийск\nКирилловка и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_105880_Краснозоренский",
-    "channel": "vrv_radar",
-    "date": "2026-11-05T21:19:40+00:00",
-    "text": "Краснозоренский район\nОрловская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Краснозоренский",
-    "region": "Орловская область",
-    "lat": 52.7457964,
-    "lon": 37.6401423
-  },
-  {
-    "id": "LPRalarm_258037",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T21:20:21+00:00",
-    "text": "Орловская область\nВнимание по БпЛА от Курской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148570",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T21:20:25+00:00",
-    "text": "Орловская область\nВнимание по БпЛА от Курской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148571",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T21:20:54+00:00",
-    "text": "Липецкая область\nОжидаем еще фиксации с Курской области",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258038",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T21:20:59+00:00",
-    "text": "Липецкая область\nОжидаем еще фиксации с Курской области",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_258039",
     "channel": "LPRalarm",
     "date": "2026-11-05T21:23:06+00:00",
@@ -21996,6 +21886,116 @@
     "type": "unknown",
     "location_name": null,
     "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258622_Новая Таволжанка",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T10:33:03+00:00",
+    "text": "Новая Таволжанка, Шебекино \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Новая Таволжанка",
+    "region": null,
+    "lat": 50.353954,
+    "lon": 36.827923
+  },
+  {
+    "id": "LPRalarm_258623",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T10:33:26+00:00",
+    "text": "Белая Берёзка тревога по РСЗО, займите укрытия\nБрянская область",
+    "type": "alert",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149051_Новая Таволжанка",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T10:33:26+00:00",
+    "text": "Новая Таволжанка, Шебекино\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Новая Таволжанка",
+    "region": null,
+    "lat": 50.353954,
+    "lon": 36.827923
+  },
+  {
+    "id": "kupolrussia_149051_Шебекино",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T10:33:26+00:00",
+    "text": "Новая Таволжанка, Шебекино\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Шебекино",
+    "region": null,
+    "lat": 50.4049335,
+    "lon": 36.8796822
+  },
+  {
+    "id": "kupolrussia_149052",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T10:33:33+00:00",
+    "text": "Белая Берёзка тревога по РСЗО, займите укрытия\nБрянская область",
+    "type": "alert",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258624",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T10:36:23+00:00",
+    "text": "Мелитополь и близлежащие \nТревога по БПЛА \n\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149053",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T10:36:36+00:00",
+    "text": "Мелитополь и близлежащие \nЗапорожская область РФ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258625",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T10:44:23+00:00",
+    "text": "Дорогие коллеги, мы произвели небольшое количество Граберов видео сигнала с гарантированной частотой обнаружения до 7.6 ГГц \n\nЦена 205.000 рублей \n\nОписание прибора и характеристики:\nhttps://t.me/lpr1_treugolnik/116475\n\nПо вопросам приобретения обращаться к нашему рекламному менеджеру:\n@Lpr1reklama\n:а 7\nр \"т, к\n/",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258634",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T10:45:14+00:00",
+    "text": "Высокая Активная БПЛА противника на дорожном участке \nВладимировка- Приморск - Осипенко\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149054",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T10:45:39+00:00",
+    "text": "Высокая Активная БПЛА противника на дорожном участке \nВладимировка- Приморск - Осипенко\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
