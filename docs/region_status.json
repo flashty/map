@@ -12,10 +12,30 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Дорога Горловка - Пантелеймоновка - Ясиноватая \nОпасность по БПЛА \nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-07T10:10:11+00:00",
-    "expires_at": "2026-11-07T11:10:11+00:00",
+    "text": "Ясиноватая и близлежащие \nОпасность по БПЛА \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-07T10:27:56+00:00",
+    "expires_at": "2026-11-07T11:27:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Грайворон \nТревога по БПЛА \nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-07T10:29:25+00:00",
+    "expires_at": "2026-11-07T11:29:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "shelling",
+    "text": "Ведётся обстрел из РСЗО пгт.Белая Березка и близлежащие, Трубчевский район, Брянская область.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-07T10:30:26+00:00",
+    "expires_at": "2026-11-07T11:30:26+00:00",
     "count": null,
     "count_approx": false
   }
