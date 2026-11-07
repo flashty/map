@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Володарское и близлежащие \nОпасность по БПЛА сохраняется \nПринять меры безопасности \nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-07T21:27:29+00:00",
-    "expires_at": "2026-11-07T22:27:29+00:00",
+    "text": "Мариуполь \nИ близлежащие \nТревога по БПЛА сохраняется \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-07T22:00:16+00:00",
+    "expires_at": "2026-11-07T23:00:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Борисоглебск \nВоронежская область \nФиксация БПЛА в вашем направлении",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-07T21:00:36+00:00",
-    "expires_at": "2026-11-07T22:00:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
@@ -59,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "тамбовск": {
-    "display_name": "Тамбовской областей",
-    "type": "drone",
-    "text": "Эртиль и близлежащие, Воронежская область - опасность по БПЛА и в направлении Липецкой и Тамбовской областей. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-07T20:53:16+00:00",
-    "expires_at": "2026-11-07T21:53:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
@@ -76,26 +56,6 @@
     "channel": "locatorru",
     "updated_at": "2026-11-07T21:31:34+00:00",
     "expires_at": "2026-11-07T22:31:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "саратовск": {
-    "display_name": "Саратовская область",
-    "type": "drone",
-    "text": "Пензенская область \nСаратовская область \nПовторно\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-07T20:48:08+00:00",
-    "expires_at": "2026-11-07T21:48:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "drone",
-    "text": "Пензенская область \nСаратовская область \nПовторно\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-07T20:48:08+00:00",
-    "expires_at": "2026-11-07T21:48:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -126,16 +86,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-07T21:22:01+00:00",
     "expires_at": "2026-11-07T22:22:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Краснодарский край - внимание к массовому налёту БПЛА от Азовского моря, Запорожской области РФ. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-07T20:56:37+00:00",
-    "expires_at": "2026-11-07T21:56:37+00:00",
     "count": null,
     "count_approx": false
   },
