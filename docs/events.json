@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_258028",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T20:50:47+00:00",
-    "text": "Краснодар\nАфипский\nи близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148562",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T20:50:51+00:00",
-    "text": "Краснодар\nАфипский\nи близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_105877_Морозовск",
     "channel": "vrv_radar",
     "date": "2026-11-05T20:52:57+00:00",
@@ -21998,5 +21976,27 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_258615_Дартс",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T09:17:28+00:00",
+    "text": "Климово \nТревога по БПЛА Дартс",
+    "type": "drone",
+    "location_name": "Дартс",
+    "region": null,
+    "lat": 66.8198841,
+    "lon": 65.8038835
+  },
+  {
+    "id": "kupolrussia_149045_Дартс",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T09:17:44+00:00",
+    "text": "Климово \nТревога по БПЛА Дартс",
+    "type": "drone",
+    "location_name": "Дартс",
+    "region": null,
+    "lat": 66.8198841,
+    "lon": 65.8038835
   }
 ]
