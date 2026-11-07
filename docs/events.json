@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_258073",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T23:39:03+00:00",
-    "text": "Туапсе и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148600",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T23:39:08+00:00",
-    "text": "Туапсе и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258074_Акимовка",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T23:39:31+00:00",
-    "text": "Акимовка, Мелитополь единичные фиксации БПЛА, курсом на Азовское море",
-    "type": "drone",
-    "location_name": "Акимовка",
-    "region": null,
-    "lat": 51.5043614,
-    "lon": 34.3882124
-  },
-  {
-    "id": "kupolrussia_148601_Акимовка",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T23:39:34+00:00",
-    "text": "Акимовка, Мелитополь единичные фиксации БПЛА, курсом на Азовское море",
-    "type": "drone",
-    "location_name": "Акимовка",
-    "region": null,
-    "lat": 51.5043614,
-    "lon": 34.3882124
-  },
-  {
-    "id": "LPRalarm_258075_Ачуево",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T23:40:05+00:00",
-    "text": "Ачуево, Приморско-Ахтарск и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Ачуево",
-    "region": null,
-    "lat": 45.710182,
-    "lon": 37.775433
-  },
-  {
     "id": "kupolrussia_148602_Ачуево",
     "channel": "kupolrussia",
     "date": "2026-11-05T23:40:10+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258686",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T13:21:15+00:00",
+    "text": "Симферопольский р-н \nСимферополь и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149099",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T13:21:32+00:00",
+    "text": "Симферопольский р-н \nСимферополь и близлежащие \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258687",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T13:26:08+00:00",
+    "text": "Енакиево, Ждановка, Шахтёрск, Торез, Снежное и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149100",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T13:26:36+00:00",
+    "text": "Енакиево, Ждановка, Шахтёрск, Торез, Снежное и близлежащие \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258688",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T13:30:52+00:00",
+    "text": "Токмак \nТокмакский район и близлежащие \nОпасность по БПЛА\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
