@@ -29,36 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Железногорск\nКурская область\nТревога по БПЛА и далее в направлении Орловской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-07T01:02:33+00:00",
-    "expires_at": "2026-11-07T02:02:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловской области",
-    "type": "drone",
-    "text": "Железногорск\nКурская область\nТревога по БПЛА и далее в направлении Орловской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-07T01:02:33+00:00",
-    "expires_at": "2026-11-07T02:02:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "саратовск": {
-    "display_name": "Саратовская область",
-    "type": "drone",
-    "text": "Энгельс, Саратов \nСаратовская область \nЕще фиксации БПЛА\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-07T01:58:02+00:00",
-    "expires_at": "2026-11-07T02:58:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "drone",
@@ -66,6 +36,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-11-07T01:50:49+00:00",
     "expires_at": "2026-11-07T02:50:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "саратовск": {
+    "display_name": "Саратовская область",
+    "type": "drone",
+    "text": "Саратов, Энгельс\nСаратовская область \nПродолжается работа ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-07T02:14:51+00:00",
+    "expires_at": "2026-11-07T03:14:51+00:00",
     "count": null,
     "count_approx": false
   }
