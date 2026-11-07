@@ -9,23 +9,43 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "missile",
-    "text": "Курская область и близлежащие \nАвиационно ракетно бомбовая опасность",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-07T06:19:21+00:00",
-    "expires_at": "2026-11-07T07:19:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Донецк и близлежащие \nОпасность по БПЛА \nДНР",
+    "text": "Внимание по БПЛА по трассе Мариуполь - Новоазовск \nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-07T07:11:24+00:00",
-    "expires_at": "2026-11-07T08:11:24+00:00",
+    "updated_at": "2026-11-07T07:28:45+00:00",
+    "expires_at": "2026-11-07T08:28:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Валуйский округ Белгородская область опасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-07T07:19:44+00:00",
+    "expires_at": "2026-11-07T08:19:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "харьковск": {
+    "display_name": "Харьковская область",
+    "type": "missile",
+    "text": "Белгородская область, Харьковская область РФ \nАвиационная ракетная бомбовая тревога",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-07T07:18:58+00:00",
+    "expires_at": "2026-11-07T08:18:58+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Чаплынка и близлежащие Херсонская область РФ повторно опасность по БПЛА Хорнет",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-07T07:24:01+00:00",
+    "expires_at": "2026-11-07T08:24:01+00:00",
     "count": null,
     "count_approx": false
   }

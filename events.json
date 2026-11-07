@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_258011",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T20:36:44+00:00",
-    "text": "Север, северо-запад \nРеспублика Крым \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258012_Новоозерное",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T20:37:00+00:00",
-    "text": "Донузлав, Новоозерное, Мирный тревога по БПЛА. И далее в направлении Евпатория, Витино, Саки",
-    "type": "drone",
-    "location_name": "Новоозерное",
-    "region": null,
-    "lat": 53.4770285,
-    "lon": 85.613183
-  },
-  {
-    "id": "LPRalarm_258012_Витино",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T20:37:00+00:00",
-    "text": "Донузлав, Новоозерное, Мирный тревога по БПЛА. И далее в направлении Евпатория, Витино, Саки",
-    "type": "drone",
-    "location_name": "Витино",
-    "region": null,
-    "lat": 59.654148,
-    "lon": 29.713718
-  },
-  {
-    "id": "LPRalarm_258012_Саки",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T20:37:00+00:00",
-    "text": "Донузлав, Новоозерное, Мирный тревога по БПЛА. И далее в направлении Евпатория, Витино, Саки",
-    "type": "drone",
-    "location_name": "Саки",
-    "region": null,
-    "lat": 55.472233,
-    "lon": 31.545233
-  },
-  {
-    "id": "LPRalarm_258013",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T20:38:52+00:00",
-    "text": "Светлодолинск и близлежащие, тревога по БпЛА \nВозможно реактивным",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148555",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T20:38:56+00:00",
-    "text": "Светлодолинск и близлежащие, тревога по БпЛА \nВозможно реактивным",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258014",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T20:39:48+00:00",
-    "text": "Курская область все районы опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_258015",
     "channel": "LPRalarm",
     "date": "2026-11-05T20:39:53+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258595",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T07:17:52+00:00",
+    "text": "Белгородская область, Харьковская область РФ \nАвиационная ракетная бомбовая тревога",
+    "type": "missile",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149028",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T07:18:58+00:00",
+    "text": "Белгородская область, Харьковская область РФ \nАвиационная ракетная бомбовая тревога",
+    "type": "missile",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258596",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T07:19:36+00:00",
+    "text": "Валуйский округ Белгородская область опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149029",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T07:19:44+00:00",
+    "text": "Валуйский округ Белгородская область опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258597",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T07:24:01+00:00",
+    "text": "Чаплынка и близлежащие Херсонская область РФ повторно опасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258598",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T07:26:07+00:00",
+    "text": "Внимание по БПЛА по трассе Мариуполь - Новоазовск \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149030",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T07:28:45+00:00",
+    "text": "Внимание по БПЛА по трассе Мариуполь - Новоазовск \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
