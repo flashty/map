@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_258078_Ейск",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T23:51:59+00:00",
-    "text": "Ейск, Тамань и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Ейск",
-    "region": null,
-    "lat": 46.7112094,
-    "lon": 38.2747987
-  },
-  {
-    "id": "kupolrussia_148605_Ейск",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T23:52:03+00:00",
-    "text": "Ейск, Тамань и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": "Ейск",
-    "region": null,
-    "lat": 46.7112094,
-    "lon": 38.2747987
-  },
-  {
-    "id": "vrv_radar_105896_Домодедово",
-    "channel": "vrv_radar",
-    "date": "2026-11-05T23:52:57+00:00",
-    "text": "ГО Домодедово\nМосковская область\nРабота ПВО по БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Домодедово",
-    "region": "Московская область",
-    "lat": 55.4087122,
-    "lon": 37.9094721
-  },
-  {
-    "id": "radar_plus_bpla_15732_Домодедово",
-    "channel": "radar_plus_bpla",
-    "date": "2026-11-05T23:53:21+00:00",
-    "text": "Домодедово, Подмосковье - сбитие БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": "Домодедово",
-    "region": null,
-    "lat": 55.4087122,
-    "lon": 37.9094721
-  },
-  {
-    "id": "kupolrussia_148606_Домодедово",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T23:57:35+00:00",
-    "text": "Домодедово",
-    "type": "unknown",
-    "location_name": "Домодедово",
-    "region": null,
-    "lat": 55.4087122,
-    "lon": 37.9094721
-  },
-  {
     "id": "LPRalarm_258079_Домодедово",
     "channel": "LPRalarm",
     "date": "2026-11-05T23:57:42+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_94241",
+    "channel": "locatorru",
+    "date": "2026-11-07T14:06:58+00:00",
+    "text": "Огромное спасибо 16 нашим близким за помощь и поддержку нашей команды! ❤️🙏\n\n🫡Помочь можно через сервис Т-Банк(оплата по СБП) \nhttps://pay.cloudtips.ru/p/45774fc7\n\n📡Локатор России - @locatorru",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258691",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T14:12:23+00:00",
+    "text": "Донецк - Пески ДНР тревога по БПЛА типа Хорнет, а так же ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149104",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T14:12:27+00:00",
+    "text": "Донецк - Пески ДНР тревога по БПЛА типа Хорнет, а так же ФПВ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258692",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T14:15:14+00:00",
+    "text": "ЛДНР, Запорожская область РФ\nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149105",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T14:15:18+00:00",
+    "text": "ЛДНР, Запорожская область РФ\nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
