@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_148733",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T10:25:45+00:00",
-    "text": "Херсонес \nАлушта и близлежащие \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258219",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T10:26:07+00:00",
-    "text": "Ивановка и далее на восток фиксация БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148734",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T10:26:15+00:00",
-    "text": "Ивановка и далее на восток фиксация БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258220_Крыма",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T10:28:26+00:00",
-    "text": "Возможно группа БПЛА в обход Крыма",
-    "type": "drone",
-    "location_name": "Крыма",
-    "region": null,
-    "lat": 54.9683122,
-    "lon": 48.3030779
-  },
-  {
-    "id": "kupolrussia_148735_Крыма",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T10:28:36+00:00",
-    "text": "Возможно группа БПЛА в обход Крыма",
-    "type": "drone",
-    "location_name": "Крыма",
-    "region": null,
-    "lat": 54.9683122,
-    "lon": 48.3030779
-  },
-  {
     "id": "LPRalarm_258221",
     "channel": "LPRalarm",
     "date": "2026-11-06T10:29:05+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_94303_Фокинский",
+    "channel": "locatorru",
+    "date": "2026-11-07T22:46:20+00:00",
+    "text": "Фокинский район, г.Брянск - фиксация БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Фокинский",
+    "region": null,
+    "lat": 53.213139,
+    "lon": 34.4146243
+  },
+  {
+    "id": "LPRalarm_258857",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T22:47:08+00:00",
+    "text": "Орловская область \nОпасность по БПЛА \nСохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_94304",
+    "channel": "locatorru",
+    "date": "2026-11-07T22:47:43+00:00",
+    "text": "Глинищево, Сельцо, Супонево, Выгоничи, Брянск, Большое Полпино, Брянская область - опасность по БПЛА и в сторону Калужской и Орловской областей.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_94305",
+    "channel": "locatorru",
+    "date": "2026-11-07T22:48:04+00:00",
+    "text": "Брянская область, Курская область, Орловская область, Калужская область, Тульская область - отбой опасности по реактивным БПЛА. Опасность по обычным БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149243",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T22:48:12+00:00",
+    "text": "Орловская область \nОпасность по БПЛА \nСохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
     "lat": null,
     "lon": null
   }
