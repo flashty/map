@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_105891",
-    "channel": "vrv_radar",
-    "date": "2026-11-05T22:59:12+00:00",
-    "text": "Геленджик и близлежащие \nКраснодарский край \nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_105892",
-    "channel": "vrv_radar",
-    "date": "2026-11-05T23:04:49+00:00",
-    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258068_Геленджик",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T23:06:30+00:00",
-    "text": "Геленджик, меры предосторожности, срочно!",
-    "type": "unknown",
-    "location_name": "Геленджик",
-    "region": null,
-    "lat": 44.5609447,
-    "lon": 38.0766832
-  },
-  {
-    "id": "kupolrussia_148595_Геленджик",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T23:06:34+00:00",
-    "text": "Геленджик, меры предосторожности, срочно!",
-    "type": "unknown",
-    "location_name": "Геленджик",
-    "region": null,
-    "lat": 44.5609447,
-    "lon": 38.0766832
-  },
-  {
-    "id": "kupolrussia_148596",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T23:09:16+00:00",
-    "text": "Калужская область\nВНИМАНИЕ!!!\n——/^\\ — оБЪЯВЛЕН |\n^^ М желтый уровень\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_258069",
     "channel": "LPRalarm",
     "date": "2026-11-05T23:09:21+00:00",
@@ -21998,5 +21943,60 @@
     "region": null,
     "lat": 53.456383,
     "lon": 35.186371
+  },
+  {
+    "id": "LPRalarm_258671",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T12:04:32+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nОтбой Авиационной Ракетной бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149084",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T12:05:15+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nОтбой Авиационной Ракетной бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258672",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T12:07:53+00:00",
+    "text": "Харьковская область РФ\nБелгородская область\nОтбой авиационной ракетной бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Харьковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149085",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T12:08:15+00:00",
+    "text": "Харьковская область РФ\nБелгородская область\nОтбой авиационной ракетной бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Харьковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258673",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T12:15:44+00:00",
+    "text": "Макеевка, Харцызск, Иловайск и близлежащие \nОпасность по БПЛА на электротяге \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
   }
 ]

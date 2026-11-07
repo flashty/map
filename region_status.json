@@ -1,14 +1,4 @@
 {
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Белгородская область\nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-07T11:53:55+00:00",
-    "expires_at": "2026-11-07T12:53:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -16,16 +6,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-07T11:55:49+00:00",
     "expires_at": "2026-11-07T12:55:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Дорога \nТокмак - Бердянск \nОпасность по БПЛА \nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-07T11:47:57+00:00",
-    "expires_at": "2026-11-07T12:47:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,13 +29,13 @@
     "count": null,
     "count_approx": false
   },
-  "харьковск": {
-    "display_name": "Харьковская область",
-    "type": "missile",
-    "text": "Харьковская область РФ\nБелгородская область\nАвиационная ракетная бомбовая опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-07T11:45:37+00:00",
-    "expires_at": "2026-11-07T12:45:37+00:00",
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Макеевка, Харцызск, Иловайск и близлежащие \nОпасность по БПЛА на электротяге \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-07T12:15:44+00:00",
+    "expires_at": "2026-11-07T13:15:44+00:00",
     "count": null,
     "count_approx": false
   }
