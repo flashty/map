@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Со стороны Токмак, Запорожская область РФ идут ударные БПЛА в сторону Мелитополь, Бердянск и далее в акваторию Азовского моря.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-07T21:05:57+00:00",
-    "expires_at": "2026-11-07T22:05:57+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
@@ -96,6 +86,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-07T21:42:11+00:00",
     "expires_at": "2026-11-07T22:42:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "drone",
+    "text": "Елец и близлежащие \nЛипецкая область \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-07T22:14:53+00:00",
+    "expires_at": "2026-11-07T23:14:53+00:00",
     "count": null,
     "count_approx": false
   }
