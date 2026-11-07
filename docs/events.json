@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_105877_Морозовск",
-    "channel": "vrv_radar",
-    "date": "2026-11-05T20:52:57+00:00",
-    "text": "Морозовск\nРостовская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Морозовск",
-    "region": "Ростовская область",
-    "lat": 48.352379,
-    "lon": 41.828762
-  },
-  {
-    "id": "LPRalarm_258029",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T20:56:57+00:00",
-    "text": "Крейда\nМакаренко, Сторожевая\nТревога по БпЛА\nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_148563",
     "channel": "kupolrussia",
     "date": "2026-11-05T20:57:01+00:00",
@@ -21998,5 +21976,27 @@
     "region": null,
     "lat": 66.8198841,
     "lon": 65.8038835
+  },
+  {
+    "id": "LPRalarm_258616",
+    "channel": "LPRalarm",
+    "date": "2026-11-07T09:33:27+00:00",
+    "text": "Первомайск ЛНР \nБПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149046",
+    "channel": "kupolrussia",
+    "date": "2026-11-07T09:33:39+00:00",
+    "text": "Первомайск ЛНР \nБПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
   }
 ]
