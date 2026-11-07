@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_257952_Анапа",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T18:19:29+00:00",
-    "text": "Анапа, Витязево, Сукко, остров Утриш\nКраснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Анапа",
-    "region": "Краснодарский край",
-    "lat": 44.894272,
-    "lon": 37.316887
-  },
-  {
-    "id": "LPRalarm_257952_Витязево",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T18:19:29+00:00",
-    "text": "Анапа, Витязево, Сукко, остров Утриш\nКраснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Витязево",
-    "region": "Краснодарский край",
-    "lat": 44.9897066,
-    "lon": 37.2607195
-  },
-  {
-    "id": "LPRalarm_257952_Сукко",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T18:19:29+00:00",
-    "text": "Анапа, Витязево, Сукко, остров Утриш\nКраснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Сукко",
-    "region": "Краснодарский край",
-    "lat": 44.7927047,
-    "lon": 37.4039649
-  },
-  {
-    "id": "LPRalarm_257952_Утриш",
-    "channel": "LPRalarm",
-    "date": "2026-11-05T18:19:29+00:00",
-    "text": "Анапа, Витязево, Сукко, остров Утриш\nКраснодарский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Утриш",
-    "region": "Краснодарский край",
-    "lat": 44.7604842,
-    "lon": 37.3854412
-  },
-  {
-    "id": "kupolrussia_148500",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T18:21:00+00:00",
-    "text": "Каланчак с северо-запада БПЛА \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148499",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T18:21:00+00:00",
-    "text": "Республика Крым и Севастополь, Херсонская область РФ, Запорожская область РФ \nОтбой ракетной опасности по ПКР Нептун",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148498",
-    "channel": "kupolrussia",
-    "date": "2026-11-05T18:21:00+00:00",
-    "text": "Иловайск, Зугрэс, Шахтёрск, Торез, Снежное и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_105859",
-    "channel": "vrv_radar",
-    "date": "2026-11-05T18:21:33+00:00",
-    "text": "Краснодарский край\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_148501_Анапа",
     "channel": "kupolrussia",
     "date": "2026-11-05T18:22:41+00:00",
@@ -21996,6 +21908,94 @@
     "type": "unknown",
     "location_name": null,
     "region": "Пензенскую область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15758",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-07T01:46:18+00:00",
+    "text": "Самарская область\nУльяновская область\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106137_Саратов",
+    "channel": "vrv_radar",
+    "date": "2026-11-07T01:46:41+00:00",
+    "text": "Саратов, Энгельс\nСаратовская область \nПродолжается работа ПВО по БПЛА",
+    "type": "drone",
+    "location_name": "Саратов",
+    "region": "Саратовская область",
+    "lat": 51.530018,
+    "lon": 46.034683
+  },
+  {
+    "id": "vrv_radar_106137_Энгельс",
+    "channel": "vrv_radar",
+    "date": "2026-11-07T01:46:41+00:00",
+    "text": "Саратов, Энгельс\nСаратовская область \nПродолжается работа ПВО по БПЛА",
+    "type": "drone",
+    "location_name": "Энгельс",
+    "region": "Саратовская область",
+    "lat": 51.5013775,
+    "lon": 46.1233093
+  },
+  {
+    "id": "vrv_radar_106138",
+    "channel": "vrv_radar",
+    "date": "2026-11-07T01:50:33+00:00",
+    "text": "Рязанская область\nОпасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_102977",
+    "channel": "radarrussiia",
+    "date": "2026-11-07T01:50:49+00:00",
+    "text": "Рязанская область\nОпасность по БПЛА повторно\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106139_Энгельс",
+    "channel": "vrv_radar",
+    "date": "2026-11-07T01:52:49+00:00",
+    "text": "Энгельс, Саратов \nСаратовская область \nПродолжаются фиксации и работа ПВО по БПЛА\nМеры безопасности",
+    "type": "drone",
+    "location_name": "Энгельс",
+    "region": "Саратовская область",
+    "lat": 51.5013775,
+    "lon": 46.1233093
+  },
+  {
+    "id": "vrv_radar_106140_Неверкинский",
+    "channel": "vrv_radar",
+    "date": "2026-11-07T01:53:42+00:00",
+    "text": "Неверкинский район\nПензенская область\nЕщё фиксация БПЛА",
+    "type": "drone",
+    "location_name": "Неверкинский",
+    "region": "Пензенская область",
+    "lat": 52.7787253,
+    "lon": 46.690152
+  },
+  {
+    "id": "radar_plus_bpla_15759",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-07T01:53:57+00:00",
+    "text": "На подлёте к Саратову продолжаются сбития БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
