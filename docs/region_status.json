@@ -1,14 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Мариуполь \nИ близлежащие \nТревога по БПЛА сохраняется \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-07T22:00:16+00:00",
-    "expires_at": "2026-11-07T23:00:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "липецк": {
     "display_name": "Липецкая область",
     "type": "drone",
@@ -36,6 +26,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-07T22:48:12+00:00",
     "expires_at": "2026-11-07T23:48:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанской области",
+    "type": "drone",
+    "text": "Со стороны Новольвовск, Тульской области фиксации БПЛА на Михайловский район, Рязанской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-07T22:57:46+00:00",
+    "expires_at": "2026-11-07T23:57:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Серебряные Пруды, Зарайск, Луховицы, Озёры и близлежащие, Московская область - внимание по БПЛА от Михайловского района. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-07T23:00:20+00:00",
+    "expires_at": "2026-11-08T00:00:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульской области",
+    "type": "drone",
+    "text": "Со стороны Новольвовск, Тульской области фиксации БПЛА на Михайловский район, Рязанской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-07T22:57:46+00:00",
+    "expires_at": "2026-11-07T23:57:46+00:00",
     "count": null,
     "count_approx": false
   }
