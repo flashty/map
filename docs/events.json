@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_105963",
-    "channel": "vrv_radar",
-    "date": "2026-11-06T14:32:19+00:00",
-    "text": "📡 Точные данные 24/7 — благодаря каждому из вас.\n\nНаш радар живет без рекламы и существует исключительно на поддержке подписчиков. Мы не зарабатываем на безопасности, мы помогаем её обеспечить.\n\n🙌 Спасибо всем, кто ценит наш труд. Ваша поддержка помогает нам быть в строю каждую ночь.\n\nПоддержать канал: 👉 https://clck.ru/3VgBJu",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148792",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T14:34:57+00:00",
-    "text": "Ставропольский край\nГ <\nок ОТБОЙ\nль ОПАСНОСТИ ПО БПЛА\n2.",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258284",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T14:35:02+00:00",
-    "text": "Ставропольский край\nГ <\nок ОТБОЙ\nль ОПАСНОСТИ ПО БПЛА\n2.",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258285",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T14:36:07+00:00",
-    "text": "Славяносербск и далее по трассе на Луганск \nТревога по БПЛА Хорнет \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_102940",
-    "channel": "radarrussiia",
-    "date": "2026-11-06T14:36:32+00:00",
-    "text": "Орловская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_148793",
     "channel": "kupolrussia",
     "date": "2026-11-06T14:36:47+00:00",
@@ -21998,5 +21943,60 @@
     "region": null,
     "lat": 47.8137359,
     "lon": 38.8847522
+  },
+  {
+    "id": "radarrussiia_103009",
+    "channel": "radarrussiia",
+    "date": "2026-11-08T04:31:31+00:00",
+    "text": "Туапсе и близлежащие \nСочи и близлежащие \nГеленджик и близлежащие \nКраснодарский край \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258894_Мариуполь",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T04:32:27+00:00",
+    "text": "Трасса Донецк-Мариуполь , активность БПЛА над трассой в сторону Мариуполя",
+    "type": "drone",
+    "location_name": "Мариуполь",
+    "region": null,
+    "lat": 54.2023091,
+    "lon": 45.9511935
+  },
+  {
+    "id": "LPRalarm_258894_Мариуполя",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T04:32:27+00:00",
+    "text": "Трасса Донецк-Мариуполь , активность БПЛА над трассой в сторону Мариуполя",
+    "type": "drone",
+    "location_name": "Мариуполя",
+    "region": null,
+    "lat": 55.5650513,
+    "lon": 36.790945
+  },
+  {
+    "id": "kupolrussia_149277_Мариуполь",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T04:32:36+00:00",
+    "text": "Трасса Донецк-Мариуполь , активность БПЛА над трассой в сторону Мариуполя",
+    "type": "drone",
+    "location_name": "Мариуполь",
+    "region": null,
+    "lat": 54.2023091,
+    "lon": 45.9511935
+  },
+  {
+    "id": "kupolrussia_149277_Мариуполя",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T04:32:36+00:00",
+    "text": "Трасса Донецк-Мариуполь , активность БПЛА над трассой в сторону Мариуполя",
+    "type": "drone",
+    "location_name": "Мариуполя",
+    "region": null,
+    "lat": 55.5650513,
+    "lon": 36.790945
   }
 ]
