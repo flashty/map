@@ -19,26 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "missile",
-    "text": "Херсонская область РФ \nЗапорожская область РФ\nЛДНР \nАвиационно ракетно бомбовая опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-08T10:21:14+00:00",
-    "expires_at": "2026-11-08T11:21:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "Херсонская область РФ \nЗапорожская область РФ\nЛДНР \nАвиационно ракетно бомбовая опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-08T10:21:14+00:00",
-    "expires_at": "2026-11-08T11:21:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "missile",
@@ -46,6 +26,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-08T10:53:34+00:00",
     "expires_at": "2026-11-08T11:53:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Бердянкий район и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-08T11:23:50+00:00",
+    "expires_at": "2026-11-08T12:23:50+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Валуйский район опасность по БПЛА сохраняется\nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-08T11:29:33+00:00",
+    "expires_at": "2026-11-08T12:29:33+00:00",
     "count": null,
     "count_approx": false
   }

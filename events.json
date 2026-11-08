@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_148872_Брянск",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T19:39:52+00:00",
-    "text": "Брянск\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Брянск",
-    "region": null,
-    "lat": 53.2423778,
-    "lon": 34.3668288
-  },
-  {
-    "id": "LPRalarm_258405",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T19:39:56+00:00",
-    "text": "Тульская область повторно\nхх\n<> -@\n7—З",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148874",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T19:40:05+00:00",
-    "text": "Володарское и близлежащие \nИ далее в направлении \nМариуполь \nДНР",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148875",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T19:40:27+00:00",
-    "text": "Московская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258406",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T19:40:29+00:00",
-    "text": "Московская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_102952",
-    "channel": "radarrussiia",
-    "date": "2026-11-06T19:42:04+00:00",
-    "text": "Московская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_94125_Суземский",
     "channel": "locatorru",
     "date": "2026-11-06T19:48:59+00:00",
@@ -21998,5 +21932,71 @@
     "region": null,
     "lat": 54.3750277,
     "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_259035",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T11:17:38+00:00",
+    "text": "Херсонская область РФ \nЗапорожская область РФ\nЛДНР \nОтбой авиационно ракетно бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149403",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T11:18:47+00:00",
+    "text": "Херсонская область РФ \nЗапорожская область РФ\nЛДНР \nОтбой авиационно ракетно бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259036",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T11:23:06+00:00",
+    "text": "Бердянкий район и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149404",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T11:23:50+00:00",
+    "text": "Бердянкий район и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259037_Валуйский",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T11:28:54+00:00",
+    "text": "Валуйский район опасность по БПЛА сохраняется\nБелгородская область",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": "Белгородская область",
+    "lat": 50.1632256,
+    "lon": 37.9638901
+  },
+  {
+    "id": "kupolrussia_149405_Валуйский",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T11:29:33+00:00",
+    "text": "Валуйский район опасность по БПЛА сохраняется\nБелгородская область",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": "Белгородская область",
+    "lat": 50.1632256,
+    "lon": 37.9638901
   }
 ]
