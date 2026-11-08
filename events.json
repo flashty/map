@@ -1,27 +1,5 @@
 [
   {
-    "id": "kupolrussia_148774",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T12:42:31+00:00",
-    "text": "Мариуполь и близлежащие\nТревога по БПЛА\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258264",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T12:46:52+00:00",
-    "text": "Южные районы \nРостовской области\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовской области",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_148775",
     "channel": "kupolrussia",
     "date": "2026-11-06T12:47:07+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Республика Адыгея",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_258878_Валуйский",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T01:47:08+00:00",
+    "text": "Валуйский район \nОпасность по БПЛА \nБелгородская область",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": "Белгородская область",
+    "lat": 50.1632256,
+    "lon": 37.9638901
+  },
+  {
+    "id": "kupolrussia_149262_Валуйский",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T01:47:17+00:00",
+    "text": "Валуйский район \nОпасность по БПЛА \nБелгородская область",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": "Белгородская область",
+    "lat": 50.1632256,
+    "lon": 37.9638901
   }
 ]
