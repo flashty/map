@@ -1,137 +1,5 @@
 [
   {
-    "id": "vrv_radar_105970_Орловский",
-    "channel": "vrv_radar",
-    "date": "2026-11-06T18:14:36+00:00",
-    "text": "Орловский район \nРостовская область \nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Орловский",
-    "region": "Ростовская область",
-    "lat": 46.869869,
-    "lon": 42.051865
-  },
-  {
-    "id": "LPRalarm_258337",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T18:16:40+00:00",
-    "text": "Курская область \nОрловская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_105971_Милютинский",
-    "channel": "vrv_radar",
-    "date": "2026-11-06T18:16:55+00:00",
-    "text": "Милютинский район\nРостовская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Милютинский",
-    "region": "Ростовская область",
-    "lat": 48.7280222,
-    "lon": 41.6400802
-  },
-  {
-    "id": "LPRalarm_258338",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T18:17:10+00:00",
-    "text": "ЛНР \nБелгородская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258339",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T18:17:20+00:00",
-    "text": "Воронежская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_105972_Острогожский",
-    "channel": "vrv_radar",
-    "date": "2026-11-06T18:17:40+00:00",
-    "text": "Острогожский район\nВоронежская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Острогожский",
-    "region": "Воронежская область",
-    "lat": 50.8584609,
-    "lon": 39.0772421
-  },
-  {
-    "id": "kupolrussia_148813",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T18:17:40+00:00",
-    "text": "Курская область \nОрловская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148814",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T18:17:49+00:00",
-    "text": "Тульская область \nКалужская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258340",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T18:17:52+00:00",
-    "text": "Тульская область \nКалужская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148815",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T18:18:10+00:00",
-    "text": "ЛНР \nБелгородская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258341",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T18:18:12+00:00",
-    "text": "Кача\nБельбек \nСевастополь \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_105973_Колпнянский",
-    "channel": "vrv_radar",
-    "date": "2026-11-06T18:18:17+00:00",
-    "text": "Колпнянский район\nОрловская область\nФиксация 2 БПЛА",
-    "type": "drone",
-    "location_name": "Колпнянский",
-    "region": "Орловская область",
-    "lat": 52.2424901,
-    "lon": 37.0479282
-  },
-  {
     "id": "kupolrussia_148816",
     "channel": "kupolrussia",
     "date": "2026-11-06T18:18:23+00:00",
@@ -21998,5 +21866,137 @@
     "region": "Белгородская область",
     "lat": 50.5939358,
     "lon": 36.5762397
+  },
+  {
+    "id": "LPRalarm_258940_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T07:47:04+00:00",
+    "text": "Белгородский район\nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_149320_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T07:47:13+00:00",
+    "text": "Белгородский район\nОпасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_258941",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T07:47:32+00:00",
+    "text": "Отбой авиационной ракетной бомбовой опасности ЛДНР, Запорожская область РФ, Херсонская область РФ",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149321",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T07:47:41+00:00",
+    "text": "Отбой авиационной ракетной бомбовой опасности ЛДНР, Запорожская область РФ, Херсонская область РФ",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149322",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T07:50:28+00:00",
+    "text": "Обоянский район, Солнцевский район \nКурский район и далее в направлении Орловской области тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258942",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T07:50:34+00:00",
+    "text": "Обоянский район, Солнцевский район \nКурский район и далее в направлении Орловской области тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258943",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T07:51:48+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и возможным ФПВ \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258944",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T07:52:19+00:00",
+    "text": "Курская область и близлежащие\nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258945_Мирное",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T07:53:31+00:00",
+    "text": "Мирное, Каланчак,\n\nАПП Армянск, Армянск, залив Красноперекопск \n\nИ близлежащие опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Мирное",
+    "region": null,
+    "lat": 52.438611,
+    "lon": 38.9416814
+  },
+  {
+    "id": "kupolrussia_149323_Мирное",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T07:53:41+00:00",
+    "text": "Мирное, Каланчак,\n\nАПП Армянск, Армянск, залив Красноперекопск \n\nИ близлежащие опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Мирное",
+    "region": null,
+    "lat": 52.438611,
+    "lon": 38.9416814
+  },
+  {
+    "id": "LPRalarm_258946",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T08:00:39+00:00",
+    "text": "Трасса Р-280 \nПриморск - Осипенко - Червонное Поле \nОпасность по БПЛА \n\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149324",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T08:01:02+00:00",
+    "text": "Трасса Р-280 \nПриморск - Осипенко - Червонное Поле \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
   }
 ]
