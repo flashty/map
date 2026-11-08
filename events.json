@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_148769_Мирное",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T12:16:13+00:00",
-    "text": "Мирное\nЧаплынка \nАрмянск и близлежащие\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Мирное",
-    "region": null,
-    "lat": 52.438611,
-    "lon": 38.9416814
-  },
-  {
-    "id": "LPRalarm_258258",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T12:18:04+00:00",
-    "text": "Краснодон и близлежащие \nОпасность по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148770",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T12:18:20+00:00",
-    "text": "Краснодон и близлежащие \nЛНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258259",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T12:18:48+00:00",
-    "text": "Белая Берëзка\nСрочно меры безопасности. \nВозможно ещё пуски РСЗО\nБрянская область",
-    "type": "alert",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148771",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T12:18:59+00:00",
-    "text": "Белая Берëзка\nСрочно меры безопасности. \nВозможно ещё пуски РСЗО\nБрянская область",
-    "type": "alert",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_258260",
     "channel": "LPRalarm",
     "date": "2026-11-06T12:28:46+00:00",
@@ -21994,6 +21939,61 @@
     "date": "2026-11-08T00:44:34+00:00",
     "text": "Населенные пункты Таганрогского залива\nТревога по БпЛА",
     "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106226",
+    "channel": "vrv_radar",
+    "date": "2026-11-08T00:47:17+00:00",
+    "text": "Рязанская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_103003",
+    "channel": "radarrussiia",
+    "date": "2026-11-08T00:47:46+00:00",
+    "text": "Рязанская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149259",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T00:48:32+00:00",
+    "text": "Республика Адыгея\nВНИМАНИЕ!!!\n—— ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258874",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T00:48:37+00:00",
+    "text": "Республика Адыгея\nВНИМАНИЕ!!!\n—— ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106227",
+    "channel": "vrv_radar",
+    "date": "2026-11-08T01:01:04+00:00",
+    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
+    "type": "unknown",
     "location_name": null,
     "region": null,
     "lat": null,
