@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_148903",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T20:33:06+00:00",
-    "text": "Липецк и близлежащие \nЛипецкая область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258435",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T20:33:11+00:00",
-    "text": "Липецк и близлежащие \nЛипецкая область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258436",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T20:35:32+00:00",
-    "text": "Трехизбенка и далее на север \nТревога по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_148904",
     "channel": "kupolrussia",
     "date": "2026-11-06T20:35:58+00:00",
@@ -21998,5 +21965,38 @@
     "region": null,
     "lat": 58.84,
     "lon": 30.366667
+  },
+  {
+    "id": "vrv_radar_106252",
+    "channel": "vrv_radar",
+    "date": "2026-11-08T14:33:06+00:00",
+    "text": "📡 Точные данные 24/7 — благодаря каждому из вас.\n\nНаш радар живет без рекламы и существует исключительно на поддержке подписчиков. Мы не зарабатываем на безопасности, мы помогаем её обеспечить.\n\n🙌 Спасибо всем, кто ценит наш труд. Ваша поддержка помогает нам быть в строю каждую ночь.\n\nПоддержать канал: 👉 https://clck.ru/3VgBJu",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259095",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T14:34:59+00:00",
+    "text": "Донецк, Макеевка \nИ близлежащие \n отбой опасности по БПЛА\nДНР",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149455",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T14:35:16+00:00",
+    "text": "Донецк, Макеевка \nИ близлежащие \nДНР\nжай ОТБОЙ\n`\\ь ОПАСНОСТИ ПО БПЛА\n2.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
   }
 ]
