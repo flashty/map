@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_258262",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T12:40:44+00:00",
-    "text": "Белая Берёзка \nАртобстрел \nБрянская область",
-    "type": "shelling",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_105955",
-    "channel": "vrv_radar",
-    "date": "2026-11-06T12:41:15+00:00",
-    "text": "Карачаево-Черкесская Республика\nКабардино-Балкарская Республика\nРеспублика Северная Осетия\nРеспублика Ингушетия\nРеспублика Дагестан\nЧеченская Республика \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика\nКабардино-Балкарская",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258263",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T12:42:20+00:00",
-    "text": "Мариуполь и близлежащие\nТревога по БПЛА\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_148774",
     "channel": "kupolrussia",
     "date": "2026-11-06T12:42:31+00:00",
@@ -21993,6 +21960,39 @@
     "channel": "vrv_radar",
     "date": "2026-11-08T01:10:26+00:00",
     "text": "Республика Адыгея\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106230",
+    "channel": "vrv_radar",
+    "date": "2026-11-08T01:25:20+00:00",
+    "text": "Ростовская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258877",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T01:25:31+00:00",
+    "text": "Южная часть Ростовской области \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_103004",
+    "channel": "radarrussiia",
+    "date": "2026-11-08T01:30:10+00:00",
+    "text": "Республика Адыгея\nРостовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
     "type": "drone",
     "location_name": null,
     "region": "Республика Адыгея",
