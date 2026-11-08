@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_258244",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T11:26:37+00:00",
-    "text": "Экстренная информация РСЧС: ОТБОЙ РАКЕТНОЙ ОПАСНОСТИ в Валуйском и Волоконовском МО 14:24.",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148758",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T11:27:03+00:00",
-    "text": "Экстренная информация РСЧС: ОТБОЙ РАКЕТНОЙ ОПАСНОСТИ в Валуйском и Волоконовском МО 14:24.",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258245",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T11:28:14+00:00",
-    "text": "Трасса \nАлчевск - Луганск \nАктивность БПЛА противника \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148759",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T11:28:31+00:00",
-    "text": "Трасса \nАлчевск - Луганск \nАктивность БПЛА противника \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258246",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T11:28:33+00:00",
-    "text": "Экстренная информация РСЧС (Белгородская область): РАКЕТНАЯ ОПАСНОСТЬ в Валуйском и Волоконовском МО 14:19. Спуститесь в подвальное помещение или подземное пространство.",
-    "type": "missile",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_148760",
     "channel": "kupolrussia",
     "date": "2026-11-06T11:28:45+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258869",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T00:16:20+00:00",
+    "text": "Запорожская область РФ\nОпасность по БпЛА повторно\nОчередная группа через область\nБердянск, приготовиться!",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149254",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T00:16:36+00:00",
+    "text": "Запорожская область РФ\nОпасность по БпЛА повторно\nОчередная группа через область\nБердянск, приготовиться!",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258870",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T00:17:27+00:00",
+    "text": "Мариуполь и близлежащие, тревога по БпЛА от Запорожской области РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149255",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T00:17:32+00:00",
+    "text": "Мариуполь и близлежащие, тревога по БпЛА от Запорожской области РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_94313",
+    "channel": "locatorru",
+    "date": "2026-11-08T00:20:55+00:00",
+    "text": "Рязанская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
     "lat": null,
     "lon": null
   }
