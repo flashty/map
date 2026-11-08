@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_258404",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T19:39:44+00:00",
-    "text": "Брянск\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148873",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T19:39:52+00:00",
-    "text": "Тульская область повторно\nхх\n<> -@\n7—З",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_148872_Брянск",
     "channel": "kupolrussia",
     "date": "2026-11-06T19:39:52+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Курская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_259034_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T11:04:18+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_149402_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T11:05:59+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
   }
 ]
