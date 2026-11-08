@@ -32,30 +32,40 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Климово \nБрянская область \nТревога по БПЛА Дартс",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-08T09:24:08+00:00",
-    "expires_at": "2026-11-08T10:24:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курской области",
-    "type": "drone",
-    "text": "Обоянский район Курской области и далее в направлении Губкинского, Старооскольского районов Белгородской области \nОпасность по БПЛА",
+    "text": "Климово \nТревога по БПЛА сохраняется \nБрянская область",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-08T09:14:02+00:00",
-    "expires_at": "2026-11-08T10:14:02+00:00",
+    "updated_at": "2026-11-08T10:14:58+00:00",
+    "expires_at": "2026-11-08T11:14:58+00:00",
     "count": null,
     "count_approx": false
   },
   "ростовск": {
-    "display_name": "Ростовская область",
+    "display_name": "Ростовской области",
     "type": "drone",
-    "text": "Ростовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-08T09:55:34+00:00",
-    "expires_at": "2026-11-08T10:55:34+00:00",
+    "text": "Благовещенка \nРостовской области \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-08T10:13:21+00:00",
+    "expires_at": "2026-11-08T11:13:21+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградская область",
+    "type": "drone",
+    "text": "Волгоградская область \nОпасность по БПЛА от Ростовской области",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-08T10:06:56+00:00",
+    "expires_at": "2026-11-08T11:06:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Красный луч, Антрацит трасса \nТревога по БПЛА Хорнет \nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-08T10:13:52+00:00",
+    "expires_at": "2026-11-08T11:13:52+00:00",
     "count": null,
     "count_approx": false
   }
