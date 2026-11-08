@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_148823",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T18:29:54+00:00",
-    "text": "Брянская область, опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_15742",
-    "channel": "radar_plus_bpla",
-    "date": "2026-11-06T18:30:32+00:00",
-    "text": "Массовый запуск БПЛА от Воронежской области в направлении Липецкой и Тамбовской областей.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тамбовской областей",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258348",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T18:31:06+00:00",
-    "text": "Донецк и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258349_Трубчевский",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T18:31:29+00:00",
-    "text": "Трубчевский район, тревога по БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": "Трубчевский",
-    "region": "Брянская область",
-    "lat": 52.5867776,
-    "lon": 33.7892267
-  },
-  {
     "id": "kupolrussia_148824",
     "channel": "kupolrussia",
     "date": "2026-11-06T18:31:29+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258955_Грайворонский",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T08:18:23+00:00",
+    "text": "Трасса Грайворон – Илёк-Пеньковка\nГрайворонский район \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Грайворонский",
+    "region": null,
+    "lat": 50.4309028,
+    "lon": 35.5905721
+  },
+  {
+    "id": "kupolrussia_149329_Грайворонский",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T08:18:37+00:00",
+    "text": "Трасса Грайворон – Илёк-Пеньковка\nГрайворонский район \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Грайворонский",
+    "region": null,
+    "lat": 50.4309028,
+    "lon": 35.5905721
+  },
+  {
+    "id": "LPRalarm_258956_Погарский",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T08:19:24+00:00",
+    "text": "Повторно на Погарский район РСЗО",
+    "type": "unknown",
+    "location_name": "Погарский",
+    "region": null,
+    "lat": 50.4015692,
+    "lon": 36.5165733
+  },
+  {
+    "id": "LPRalarm_258957",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T08:19:26+00:00",
+    "text": "Погар РСЗО \nБрянская область повторно",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
