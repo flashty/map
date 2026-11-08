@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_258281_Крым",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T14:20:10+00:00",
-    "text": "От Стерегущее до Портовое с моря тревога по БПЛА \nРаздольненский район Крым",
-    "type": "drone",
-    "location_name": "Крым",
-    "region": null,
-    "lat": 47.303017,
-    "lon": 39.51408
-  },
-  {
-    "id": "locatorru_94085",
-    "channel": "locatorru",
-    "date": "2026-11-06T14:21:15+00:00",
-    "text": "Брянская область, Калужская область - отбой опасности по БПЛА. Режим внимания. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_105961",
-    "channel": "vrv_radar",
-    "date": "2026-11-06T14:21:34+00:00",
-    "text": "Калужская область\nСмоленская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_105962",
-    "channel": "vrv_radar",
-    "date": "2026-11-06T14:22:01+00:00",
-    "text": "Орловская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148790_Раздольненский",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T14:25:21+00:00",
-    "text": "От Стерегущее до Портовое с моря тревога по БПЛА \nРаздольненский район Крым",
-    "type": "drone",
-    "location_name": "Раздольненский",
-    "region": null,
-    "lat": 52.5519484,
-    "lon": 79.8417862
-  },
-  {
-    "id": "kupolrussia_148790_Крым",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T14:25:21+00:00",
-    "text": "От Стерегущее до Портовое с моря тревога по БПЛА \nРаздольненский район Крым",
-    "type": "drone",
-    "location_name": "Крым",
-    "region": null,
-    "lat": 47.303017,
-    "lon": 39.51408
-  },
-  {
-    "id": "LPRalarm_258282",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T14:29:00+00:00",
-    "text": "Мариуполь и близлежащие \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258283",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T14:29:36+00:00",
-    "text": "Брянская область \nОтбой опасность по БПЛА \nРежим повышенного внимания",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_148791",
     "channel": "kupolrussia",
     "date": "2026-11-06T14:31:57+00:00",
@@ -21996,6 +21908,94 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258890",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T04:06:42+00:00",
+    "text": "Республика Крым \nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149274",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T04:06:50+00:00",
+    "text": "Республика Крым \nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258891",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T04:12:03+00:00",
+    "text": "Счастье и близлежащие ЛНР \nТрасса особое внимание \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149275",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T04:12:13+00:00",
+    "text": "Счастье и близлежащие ЛНР \nТрасса особое внимание \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106240",
+    "channel": "vrv_radar",
+    "date": "2026-11-08T04:12:54+00:00",
+    "text": "Туапсе и близлежащие \nСочи и близлежащие \nГеленджик и близлежащие \nКраснодарский край \nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258892",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T04:13:51+00:00",
+    "text": "Отбой опасности БПЛА \nТуапсинский МО, Сочи, Геленджик, Мостовский район \nКраснодарского края",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарского края",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149276",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T04:13:59+00:00",
+    "text": "Отбой опасности БПЛА \nТуапсинский МО, Сочи, Геленджик, Мостовский район \nКраснодарского края",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарского края",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_258893",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T04:15:12+00:00",
+    "text": "Станица Должанская, Приморско - Ахтарск и близлежащие \nФиксации БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
