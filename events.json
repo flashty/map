@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_258401",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T19:34:41+00:00",
-    "text": "Липецкая область\nхх\n<> -@\n7—З",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_94124",
-    "channel": "locatorru",
-    "date": "2026-11-06T19:36:31+00:00",
-    "text": "Эртиль, Воронежская область - предварительно БПЛА на Тамбовскую область. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_15744",
-    "channel": "radar_plus_bpla",
-    "date": "2026-11-06T19:36:36+00:00",
-    "text": "Отбой ракетной опасности по всем ранее объявленным регионам.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_102951",
-    "channel": "radarrussiia",
-    "date": "2026-11-06T19:38:28+00:00",
-    "text": "Отбой ракетной опасности по всем ранее объявленным регионам\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258402",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T19:39:24+00:00",
-    "text": "Мариуполь \nНовоазовский район и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258403",
-    "channel": "LPRalarm",
-    "date": "2026-11-06T19:39:35+00:00",
-    "text": "Володарское и близлежащие \nТревога по БПЛА \nИ далее в направлении \nМариуполь \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_148871",
-    "channel": "kupolrussia",
-    "date": "2026-11-06T19:39:40+00:00",
-    "text": "Мариуполь \nНовоазовский район и близлежащие \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_258404",
     "channel": "LPRalarm",
     "date": "2026-11-06T19:39:44+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149398",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T10:47:47+00:00",
+    "text": "Белая Березка и близлежащие \nТревога по БПЛА Дартс \nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149399_Погарский",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T10:47:59+00:00",
+    "text": "Погар, Погарский район тревога по Дартс! Укрытия!\nБрянская область",
+    "type": "alert",
+    "location_name": "Погарский",
+    "region": "Брянская область",
+    "lat": 52.5207056,
+    "lon": 33.2053408
+  },
+  {
+    "id": "kupolrussia_149399_Погар",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T10:47:59+00:00",
+    "text": "Погар, Погарский район тревога по Дартс! Укрытия!\nБрянская область",
+    "type": "alert",
+    "location_name": "Погар",
+    "region": "Брянская область",
+    "lat": 52.554283,
+    "lon": 33.263706
+  },
+  {
+    "id": "kupolrussia_149400",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T10:48:11+00:00",
+    "text": "Балаклава и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15767",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-08T10:51:08+00:00",
+    "text": "⚡️За ночь средствами ПВО было уничтожено 142 БПЛА над Белгородской, Брянской, Курской, Калужской, Тульской, Орловской, Воронежской, Ростовской областей, Московского региона, Республики Крым и над акваторией Азовского моря.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородской областей",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259033",
+    "channel": "LPRalarm",
+    "date": "2026-11-08T10:51:26+00:00",
+    "text": "Курская область и близлежащие \nАвиационно ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149401",
+    "channel": "kupolrussia",
+    "date": "2026-11-08T10:53:34+00:00",
+    "text": "Курская область и близлежащие \nАвиационно ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }
