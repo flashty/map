@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-08T23:39:58+00:00",
+        "last_updated": "2026-11-08T23:58:11+00:00",
+        "path_labels": [
+          "Чудово (Новгородская область)",
+          "Тосненский (Ленинградская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.6665887,
+            59.119539
+          ],
+          [
+            31.0562005,
+            59.3687216
+          ]
+        ]
+      }
+    }
+  ]
 }
