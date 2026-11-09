@@ -1,14 +1,4 @@
 {
-  "орловск": {
-    "display_name": "Орловской области",
-    "type": "drone",
-    "text": "Курск тревога по БПЛА \nИ далее в направлении \nОрловской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-09T14:44:02+00:00",
-    "expires_at": "2026-11-09T15:44:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
@@ -36,6 +26,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-09T15:05:01+00:00",
     "expires_at": "2026-11-09T16:05:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "missile",
+    "text": "Авиационная ракетная бомбовая опасность \nКраснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-09T15:44:05+00:00",
+    "expires_at": "2026-11-09T16:44:05+00:00",
     "count": null,
     "count_approx": false
   }

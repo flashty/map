@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_258971",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T08:40:30+00:00",
-    "text": "Гвардейское и близлежащие\nОпасность по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149342",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T08:40:56+00:00",
-    "text": "Гвардейское и близлежащие\nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149343",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T08:42:25+00:00",
-    "text": "Отбой ракетной опасности Белгородская область \n\nОтбой внимания по возможным ракетам Курская, Орловская область",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258972",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T08:42:26+00:00",
-    "text": "Отбой ракетной опасности Белгородская область \n\nОтбой внимания по возможным ракетам Курская, Орловская область",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258973",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T08:42:33+00:00",
-    "text": "Курахово и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149344",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T08:42:45+00:00",
-    "text": "Курахово и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_258974",
     "channel": "LPRalarm",
     "date": "2026-11-08T08:43:13+00:00",
@@ -21998,5 +21932,71 @@
     "region": null,
     "lat": 43.7592396,
     "lon": 43.8853035
+  },
+  {
+    "id": "LPRalarm_259577",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T15:36:31+00:00",
+    "text": "Севастополь \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149889_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T15:36:45+00:00",
+    "text": "Севастополь\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "LPRalarm_259578",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T15:38:11+00:00",
+    "text": "Балаклавская ТЭС и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149890",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T15:39:30+00:00",
+    "text": "Балаклавская ТЭС и близлежащие\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259579",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T15:43:55+00:00",
+    "text": "Авиационная ракетная бомбовая опасность \nКраснодарский край",
+    "type": "missile",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149891",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T15:44:05+00:00",
+    "text": "Авиационная ракетная бомбовая опасность \nКраснодарский край",
+    "type": "missile",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
   }
 ]
