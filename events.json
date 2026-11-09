@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_259133",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T16:23:20+00:00",
-    "text": "Саратовская область \nТамбовская область \nПензенская область \nЛипецкая область \nОпасность по БПЛА от Воронежской области\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259134_Острогожский",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T16:23:32+00:00",
-    "text": "Лискинский \nОстрогожский районы \nНововоронеж \nВоронеж \nИ близлежащие \nТревога по БПЛА \nВоронежская область",
-    "type": "drone",
-    "location_name": "Острогожский",
-    "region": "Воронежская область",
-    "lat": 50.8584609,
-    "lon": 39.0772421
-  },
-  {
-    "id": "LPRalarm_259135",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T16:23:34+00:00",
-    "text": "Воронежская область отбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_106260",
-    "channel": "vrv_radar",
-    "date": "2026-11-08T16:24:28+00:00",
-    "text": "Воронежская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259136",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T16:27:09+00:00",
-    "text": "Засосна\nБирюч\nИ близлежащие\nКрасногвардейский МО\nТревога по БПЛА\nБелгородская область\nИ далее в направлении Воронежской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149483",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T16:27:34+00:00",
-    "text": "Засосна\nБирюч\nИ близлежащие\nКрасногвардейский МО\nТревога по БПЛА\nБелгородская область\nИ далее в направлении Воронежской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_94360",
-    "channel": "locatorru",
-    "date": "2026-11-08T16:28:20+00:00",
-    "text": "Ураково, Красненский район, Белгородская область - пролёт БПЛА в сторону Камышенка, Лесное Уколово, далее на Острогожский район, Воронежской области.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_94361",
     "channel": "locatorru",
     "date": "2026-11-08T16:30:24+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15803",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-09T20:48:10+00:00",
+    "text": "Смоленская область \nПсковская область\nТверская область\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106521",
+    "channel": "vrv_radar",
+    "date": "2026-11-09T20:48:17+00:00",
+    "text": "Республика Адыгея\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106522",
+    "channel": "vrv_radar",
+    "date": "2026-11-09T20:48:28+00:00",
+    "text": "Смоленск \nСмоленская область\nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106523_Ельнинский",
+    "channel": "vrv_radar",
+    "date": "2026-11-09T20:49:10+00:00",
+    "text": "Ельнинский район\nСмоленская область\nФиксации БПЛА",
+    "type": "drone",
+    "location_name": "Ельнинский",
+    "region": "Смоленская область",
+    "lat": 54.5275089,
+    "lon": 33.3509426
+  },
+  {
+    "id": "radar_plus_bpla_15804",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-09T20:49:10+00:00",
+    "text": "На подлёте к Смоленску сбитие БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106524",
+    "channel": "vrv_radar",
+    "date": "2026-11-09T20:50:22+00:00",
+    "text": "Тверская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Тверская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106525",
+    "channel": "vrv_radar",
+    "date": "2026-11-09T20:50:35+00:00",
+    "text": "Краснодарский край\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
