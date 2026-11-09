@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_258980",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T08:56:00+00:00",
-    "text": "Красная яруга \nТревога по БПЛА Дартс \nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149351",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T08:56:10+00:00",
-    "text": "Красная яруга \nТревога по БПЛА Дартс \nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258981",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T08:58:01+00:00",
-    "text": "Шебекино \nФедеральная трасса Шебекино Белгород \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149352",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T08:58:13+00:00",
-    "text": "Шебекино \nФедеральная трасса Шебекино Белгород \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149353",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T08:59:25+00:00",
-    "text": "Приазовье Краснодарского края\nВнимание по БПЛА от Бердянска",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарского края",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258982",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T08:59:26+00:00",
-    "text": "Приазовье Краснодарского края\nВнимание по БПЛА от Бердянска",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарского края",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258983",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T08:59:48+00:00",
-    "text": "Юбилейный ЛНР\nТревога по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_258984_Волоконовский",
     "channel": "LPRalarm",
     "date": "2026-11-08T09:01:17+00:00",
@@ -21996,6 +21919,83 @@
     "type": "alert",
     "location_name": null,
     "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259585_Дебальцево",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T16:18:05+00:00",
+    "text": "Через Светлодарск в направлении \nДебальцево и далее в тыл \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Дебальцево",
+    "region": null,
+    "lat": 47.3190637,
+    "lon": 39.6366067
+  },
+  {
+    "id": "kupolrussia_149896_Дебальцево",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T16:18:20+00:00",
+    "text": "Через Светлодарск в направлении \nДебальцево и далее в тыл \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Дебальцево",
+    "region": null,
+    "lat": 47.3190637,
+    "lon": 39.6366067
+  },
+  {
+    "id": "LPRalarm_259586",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T16:18:45+00:00",
+    "text": "Ростовская область\nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149897",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T16:18:49+00:00",
+    "text": "Ростовская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149898_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T16:23:10+00:00",
+    "text": "Севастополь\nД\\ученияи/ №",
+    "type": "unknown",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "LPRalarm_259587",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T16:23:55+00:00",
+    "text": "Горловка, Углегорск и близлежащие \nОпасность по БПЛА и возможным ФПВ \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149899",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T16:28:42+00:00",
+    "text": "Горловка, Углегорск и близлежащие \nОпасность по БПЛА и возможным ФПВ \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }

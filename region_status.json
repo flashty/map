@@ -1,14 +1,4 @@
 {
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Красногвардейский район \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-09T15:18:40+00:00",
-    "expires_at": "2026-11-09T16:18:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "missile",
@@ -36,6 +26,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-09T15:57:45+00:00",
     "expires_at": "2026-11-09T16:57:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "missile",
+    "text": "Ростовская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-09T16:18:49+00:00",
+    "expires_at": "2026-11-09T17:18:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка, Углегорск и близлежащие \nОпасность по БПЛА и возможным ФПВ \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-09T16:28:42+00:00",
+    "expires_at": "2026-11-09T17:28:42+00:00",
     "count": null,
     "count_approx": false
   }
