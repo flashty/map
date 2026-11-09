@@ -2,20 +2,10 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Горское\nЗолотое фиксации БПЛА хорнет\nЛНР",
+    "text": "Горское  БПЛА хорнет\nЛНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-09T10:19:21+00:00",
-    "expires_at": "2026-11-09T11:19:21+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Алексеевка и близлежащие \nОпасность по БПЛА \nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-09T10:30:26+00:00",
-    "expires_at": "2026-11-09T11:30:26+00:00",
+    "updated_at": "2026-11-09T11:30:30+00:00",
+    "expires_at": "2026-11-09T12:30:30+00:00",
     "count": null,
     "count_approx": false
   },
@@ -29,23 +19,33 @@
     "count": null,
     "count_approx": false
   },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Керченский полуостров \nОпасность по БПЛА \nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-09T10:46:23+00:00",
-    "expires_at": "2026-11-09T11:46:23+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Токмакский район \nОпасность по БПЛА \nЗапорожская область РФ",
+    "text": "Бердянский район и близлежащие \nЗапорожская область РФ \nОпасность по БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-09T10:53:51+00:00",
-    "expires_at": "2026-11-09T11:53:51+00:00",
+    "updated_at": "2026-11-09T11:24:54+00:00",
+    "expires_at": "2026-11-09T12:24:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Ростовская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-09T11:17:00+00:00",
+    "expires_at": "2026-11-09T12:17:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "От Чакова бпла Блискавка, Погар Чайкино  Гетуновка занять укрытия срочно!\nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-09T11:24:48+00:00",
+    "expires_at": "2026-11-09T12:24:48+00:00",
     "count": null,
     "count_approx": false
   }
