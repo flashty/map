@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_258894_Мариуполь",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T04:32:27+00:00",
-    "text": "Трасса Донецк-Мариуполь , активность БПЛА над трассой в сторону Мариуполя",
-    "type": "drone",
-    "location_name": "Мариуполь",
-    "region": null,
-    "lat": 54.2023091,
-    "lon": 45.9511935
-  },
-  {
-    "id": "LPRalarm_258894_Мариуполя",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T04:32:27+00:00",
-    "text": "Трасса Донецк-Мариуполь , активность БПЛА над трассой в сторону Мариуполя",
-    "type": "drone",
-    "location_name": "Мариуполя",
-    "region": null,
-    "lat": 55.5650513,
-    "lon": 36.790945
-  },
-  {
-    "id": "kupolrussia_149277_Мариуполь",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T04:32:36+00:00",
-    "text": "Трасса Донецк-Мариуполь , активность БПЛА над трассой в сторону Мариуполя",
-    "type": "drone",
-    "location_name": "Мариуполь",
-    "region": null,
-    "lat": 54.2023091,
-    "lon": 45.9511935
-  },
-  {
-    "id": "kupolrussia_149277_Мариуполя",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T04:32:36+00:00",
-    "text": "Трасса Донецк-Мариуполь , активность БПЛА над трассой в сторону Мариуполя",
-    "type": "drone",
-    "location_name": "Мариуполя",
-    "region": null,
-    "lat": 55.5650513,
-    "lon": 36.790945
-  },
-  {
-    "id": "LPRalarm_258895",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T04:49:11+00:00",
-    "text": "Трасса Р-280 \nЗапорожская область РФ \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_149278",
     "channel": "kupolrussia",
     "date": "2026-11-08T04:49:19+00:00",
@@ -21996,6 +21941,61 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259491",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T10:34:27+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ сохраняется \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106485",
+    "channel": "vrv_radar",
+    "date": "2026-11-09T10:37:34+00:00",
+    "text": "Орловская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106486",
+    "channel": "vrv_radar",
+    "date": "2026-11-09T10:38:04+00:00",
+    "text": "Отбой опасности и внимания по БПЛА по ранее объявленным регионам\nСпасибо ПВО 🤍",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259492",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T10:45:39+00:00",
+    "text": "Донецк аэропорт и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149812",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T10:45:50+00:00",
+    "text": "Донецк аэропорт и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
