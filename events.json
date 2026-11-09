@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_149237",
-    "channel": "kupolrussia",
-    "date": "2026-11-07T22:25:18+00:00",
-    "text": "Калужская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258851",
-    "channel": "LPRalarm",
-    "date": "2026-11-07T22:25:24+00:00",
-    "text": "Калужская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_94298",
-    "channel": "locatorru",
-    "date": "2026-11-07T22:26:13+00:00",
-    "text": "Краснодарский край - отбой опасности по БПЛА. Режим внимание. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_94299_Брянск",
-    "channel": "locatorru",
-    "date": "2026-11-07T22:26:38+00:00",
-    "text": "Брянск, Белые Берега, Навля, Карачев, Брянская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Брянск",
-    "region": "Брянская область",
-    "lat": 53.2423778,
-    "lon": 34.3668288
-  },
-  {
-    "id": "locatorru_94299_Белые Берега",
-    "channel": "locatorru",
-    "date": "2026-11-07T22:26:38+00:00",
-    "text": "Брянск, Белые Берега, Навля, Карачев, Брянская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Белые Берега",
-    "region": "Брянская область",
-    "lat": 53.2076699,
-    "lon": 34.6634137
-  },
-  {
-    "id": "locatorru_94299_Навля",
-    "channel": "locatorru",
-    "date": "2026-11-07T22:26:38+00:00",
-    "text": "Брянск, Белые Берега, Навля, Карачев, Брянская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Навля",
-    "region": "Брянская область",
-    "lat": 52.8271323,
-    "lon": 34.4993843
-  },
-  {
     "id": "locatorru_94299_Карачев",
     "channel": "locatorru",
     "date": "2026-11-07T22:26:38+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259421_Токмакский",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T06:15:56+00:00",
+    "text": "Токмакский район тревога по БПЛА и далее в направлении трассы Токмак - Бердянск, Мелитополь - Бердянск",
+    "type": "drone",
+    "location_name": "Токмакский",
+    "region": null,
+    "lat": 50.4037499,
+    "lon": 36.7948665
+  },
+  {
+    "id": "kupolrussia_149744_Токмакский",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T06:16:01+00:00",
+    "text": "Токмакский район тревога по БПЛА и далее в направлении трассы Токмак - Бердянск, Мелитополь - Бердянск",
+    "type": "drone",
+    "location_name": "Токмакский",
+    "region": null,
+    "lat": 50.4037499,
+    "lon": 36.7948665
+  },
+  {
+    "id": "LPRalarm_259422",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T06:20:24+00:00",
+    "text": "Донецк и близлежащие \nОпасность по БПЛА сохраняется \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149745",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T06:20:30+00:00",
+    "text": "Донецк и близлежащие \nОпасность по БПЛА сохраняется \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259423",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T06:24:07+00:00",
+    "text": "Ракитное и район \nОпасность по БПЛА \nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149746",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T06:24:22+00:00",
+    "text": "Ракитное и район \nОпасность по БПЛА \nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
     "lat": null,
     "lon": null
   }
