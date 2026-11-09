@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-09T06:15:56+00:00",
+        "last_updated": "2026-11-09T06:33:25+00:00",
+        "path_labels": [
+          "Токмакский",
+          "Бехлевка"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.7948665,
+            50.4037499
+          ],
+          [
+            36.4089598,
+            50.4132264
+          ]
+        ]
+      }
+    }
+  ]
 }
