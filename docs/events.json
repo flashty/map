@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_258835",
-    "channel": "LPRalarm",
-    "date": "2026-11-07T21:13:07+00:00",
-    "text": "Чауда и далее в направлении Феодосия возможно фиксация Фпв \nРеспублика Крым.\n\n\nОтбой.\nЛожная",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258834",
-    "channel": "LPRalarm",
-    "date": "2026-11-07T21:13:07+00:00",
-    "text": "Каховка артобстрел\nХерсонская область РФ",
-    "type": "shelling",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258836",
-    "channel": "LPRalarm",
-    "date": "2026-11-07T21:20:08+00:00",
-    "text": "1-е Цветово и далее в направлении Курска \nТревога по БПЛА \nКурская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_94293",
     "channel": "locatorru",
     "date": "2026-11-07T21:20:16+00:00",
@@ -21996,6 +21963,39 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106469",
+    "channel": "vrv_radar",
+    "date": "2026-11-09T04:42:14+00:00",
+    "text": "Ахтубинск и близлежащие \nАстраханская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Астраханская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259401",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T04:44:15+00:00",
+    "text": "Чаплинка и близлежащие опасность по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149724",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T04:44:25+00:00",
+    "text": "Чаплинка и близлежащие опасность по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
     "lat": null,
     "lon": null
   }
