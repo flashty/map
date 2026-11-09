@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_259153",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T17:12:20+00:00",
-    "text": "Брянская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149498",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T17:12:45+00:00",
-    "text": "Брянская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_94374",
-    "channel": "locatorru",
-    "date": "2026-11-08T17:14:28+00:00",
-    "text": "С 08:00 до 20:00 силами противовоздушной обороны было уничтожено 50 БПЛА над территориями Белгородской, Брянской, Курской, Ростовской областей и Республики Крым.\n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Белгородской областей",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_103017",
-    "channel": "radarrussiia",
-    "date": "2026-11-08T17:15:29+00:00",
-    "text": "Тамбовская область\nЛипецкая область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_259154",
     "channel": "LPRalarm",
     "date": "2026-11-08T17:15:41+00:00",
@@ -21996,6 +21952,50 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Новгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259726_Керчь",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T22:38:48+00:00",
+    "text": "Керчь, Тамань и близлежащие\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Керчь",
+    "region": null,
+    "lat": 55.9354669,
+    "lon": 87.3751001
+  },
+  {
+    "id": "kupolrussia_150019_Керчь",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T22:38:53+00:00",
+    "text": "Керчь, Тамань и близлежащие\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Керчь",
+    "region": null,
+    "lat": 55.9354669,
+    "lon": 87.3751001
+  },
+  {
+    "id": "LPRalarm_259727",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T22:41:08+00:00",
+    "text": "Восточная часть Крыма\nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150020",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T22:41:14+00:00",
+    "text": "Восточная часть Крыма\nОтбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
