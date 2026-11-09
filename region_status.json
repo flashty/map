@@ -1,14 +1,4 @@
 {
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Новоалексеевка и далее в направлении \nМосковской трассы\nОпасность по БПЛА \nХерсонская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-09T14:47:07+00:00",
-    "expires_at": "2026-11-09T15:47:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -36,6 +26,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-09T15:44:05+00:00",
     "expires_at": "2026-11-09T16:44:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "alert",
+    "text": "ЛДНР \nЗапорожская область РФ\nВНИМАНИЕ!!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nВ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-09T15:46:29+00:00",
+    "expires_at": "2026-11-09T16:46:29+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "alert",
+    "text": "Республика Адыгея\nВНИМАНИЕ!!!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-09T15:57:45+00:00",
+    "expires_at": "2026-11-09T16:57:45+00:00",
     "count": null,
     "count_approx": false
   }
