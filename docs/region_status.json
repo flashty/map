@@ -19,36 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Новогродовка и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-09T14:09:58+00:00",
-    "expires_at": "2026-11-09T15:09:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Беловской район \nИ близлежащие опасность по БПЛА и далее северо-восток\nКурская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-09T14:13:06+00:00",
-    "expires_at": "2026-11-09T15:13:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "воронежск": {
-    "display_name": "Воронежской области",
-    "type": "drone",
-    "text": "Ожидаем ближе к ночи массовые пуски БПЛА в направлении Воронежской области и далее в тыл.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-11-09T14:07:06+00:00",
-    "expires_at": "2026-11-09T15:07:06+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
@@ -56,6 +26,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-09T14:47:07+00:00",
     "expires_at": "2026-11-09T15:47:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Карповка \nИ близлежащие \nКрасногвардейский район \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-09T15:15:08+00:00",
+    "expires_at": "2026-11-09T16:15:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "сумск": {
+    "display_name": "Сумской области",
+    "type": "drone",
+    "text": "Противник готовит массовый запуск БПЛА от Черниговской и Сумской области",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-09T15:05:01+00:00",
+    "expires_at": "2026-11-09T16:05:01+00:00",
     "count": null,
     "count_approx": false
   }
