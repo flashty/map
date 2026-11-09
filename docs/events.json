@@ -1,93 +1,5 @@
 [
   {
-    "id": "vrv_radar_106269_Новоусманский",
-    "channel": "vrv_radar",
-    "date": "2026-11-08T17:06:52+00:00",
-    "text": "Новоусманский район\nВоронежская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Новоусманский",
-    "region": "Воронежская область",
-    "lat": 51.717129,
-    "lon": 39.49049
-  },
-  {
-    "id": "LPRalarm_259148",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T17:07:21+00:00",
-    "text": "Севастополь и близлежащие опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149493",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T17:07:33+00:00",
-    "text": "Севастополь и близлежащие\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_94373",
-    "channel": "locatorru",
-    "date": "2026-11-08T17:07:55+00:00",
-    "text": "Брянская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259149",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T17:08:18+00:00",
-    "text": "От Покровки в направлении \nСвердловск \nБПЛА Хорнет\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149494",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T17:09:09+00:00",
-    "text": "От Покровки в направлении \nСвердловск \nБПЛА Хорнет\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259150",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T17:09:35+00:00",
-    "text": "Старобельск и близлежащие \nТревога по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149495",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T17:10:30+00:00",
-    "text": "Старобельск и близлежащие \nЛНР",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_259151",
     "channel": "LPRalarm",
     "date": "2026-11-08T17:10:49+00:00",
@@ -21998,5 +21910,93 @@
     "region": "Смоленская область",
     "lat": 55.1116368,
     "lon": 34.975259
+  },
+  {
+    "id": "locatorru_94546",
+    "channel": "locatorru",
+    "date": "2026-11-09T22:04:24+00:00",
+    "text": "Псковская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259723",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T22:05:16+00:00",
+    "text": "Мелитополь и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150016",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T22:05:20+00:00",
+    "text": "Мелитополь и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_94547",
+    "channel": "locatorru",
+    "date": "2026-11-09T22:05:37+00:00",
+    "text": "По обстановке на 01:00.\n\n1. Брянская область, Курская область, Смоленская область, Орловская область, Калужская область, Новгородская область, Тверская область - опасность по БПЛА сохраняется. \n\nОсновные функции БПЛА были над Смоленской областью, практически все цели были уничтожены. \n\n2. Белгородская область, Воронежская область, Ростовская область - опасность по БПЛА сохраняется. Возможны единичные фиксации.\n\nПо остальным регионам опасность не вводилась, относительно тихо. \n\n📡Локатор России - ",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_103085",
+    "channel": "radarrussiia",
+    "date": "2026-11-09T22:05:41+00:00",
+    "text": "Псковская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106542",
+    "channel": "vrv_radar",
+    "date": "2026-11-09T22:06:14+00:00",
+    "text": "Псковская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150017",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T22:13:48+00:00",
+    "text": "Псковская область\nзай ОТБОЙ\nль ОПАСНОСТИ ПО БПЛА\n2.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259724",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T22:13:50+00:00",
+    "text": "Псковская область\nзай ОТБОЙ\nль ОПАСНОСТИ ПО БПЛА\n2.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Псковская область",
+    "lat": null,
+    "lon": null
   }
 ]
