@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_258928_Валуйский",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T07:06:14+00:00",
-    "text": "Валуйский район приграничье \nАктивность БПЛА разведки",
-    "type": "drone",
-    "location_name": "Валуйский",
-    "region": null,
-    "lat": 53.1481885,
-    "lon": 36.3185713
-  },
-  {
-    "id": "LPRalarm_258929",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T07:12:56+00:00",
-    "text": "Херсонская область РФ \nЗапорожская область РФ \nЛДНР \n\nАвиационная ракетная бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149309",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T07:13:01+00:00",
-    "text": "Херсонская область РФ \nЗапорожская область РФ \nЛДНР \n\nАвиационная ракетная бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258930",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T07:16:42+00:00",
-    "text": "Скадовск и близлежащие внимание по возможным БПЛА и ФПВ",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149310",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T07:17:20+00:00",
-    "text": "Скадовск и близлежащие внимание по возможным БПЛА и ФПВ",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_258931_Краснояружский",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T07:18:49+00:00",
-    "text": "Краснояружский район Белгородская область опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Краснояружский",
-    "region": "Белгородская область",
-    "lat": 50.8175551,
-    "lon": 35.5718561
-  },
-  {
     "id": "kupolrussia_149311_Краснояружский",
     "channel": "kupolrussia",
     "date": "2026-11-08T07:19:49+00:00",
@@ -21998,5 +21932,71 @@
     "region": null,
     "lat": 53.456383,
     "lon": 35.186371
+  },
+  {
+    "id": "LPRalarm_259533",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T12:48:52+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ \nОтбой Авиационной Ракетной бомбовой опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149849",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T12:49:19+00:00",
+    "text": "ЛДНР \nЗапорожская область РФ",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259534",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T12:51:39+00:00",
+    "text": "Волноваха и близлежащие \nДНР \nОпасность по БПЛА на электро тяге",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149850",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T12:51:43+00:00",
+    "text": "Волноваха и близлежащие \nДНР \n на электротяге\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259535",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T12:56:01+00:00",
+    "text": "Кистёр \nБорщово , Погар опасность по бпла Блискавка\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149851",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T12:57:45+00:00",
+    "text": "Кистёр \nБорщово , Погар опасность по бпла Блискавка\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
   }
 ]
