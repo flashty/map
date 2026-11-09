@@ -1,82 +1,5 @@
 [
   {
-    "id": "kupolrussia_149362_Краснояружский",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T09:35:53+00:00",
-    "text": "Краснояружский район \nБелгородская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Краснояружский",
-    "region": "Белгородская область",
-    "lat": 50.8175551,
-    "lon": 35.5718561
-  },
-  {
-    "id": "LPRalarm_259001",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T09:36:38+00:00",
-    "text": "Яковлевский район\nСтроитель и близлежащие\nОпасность по БПЛА от Краснояружского района \nБелгородской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149363",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T09:36:51+00:00",
-    "text": "Яковлевский район\nСтроитель и близлежащие\nОпасность по БПЛА от Краснояружского района \nБелгородской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149364",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T09:37:12+00:00",
-    "text": "Ростовская область ракетная опасность от ЛДНР",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259002",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T09:38:11+00:00",
-    "text": "Ракитянский район\nБелгородской области \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149365",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T09:38:27+00:00",
-    "text": "Ракитянский район\nБелгородской области \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259003_Осипенко",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T09:39:08+00:00",
-    "text": "Осипенко, Бердянск тревога по БПЛА повторно",
-    "type": "drone",
-    "location_name": "Осипенко",
-    "region": null,
-    "lat": 54.400865,
-    "lon": 22.1195489
-  },
-  {
     "id": "LPRalarm_259004",
     "channel": "LPRalarm",
     "date": "2026-11-08T09:39:44+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259600",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T17:23:40+00:00",
+    "text": "Отбой авиационной ракетной бомбовой опасности по всем ранее объявленным",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149911",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T17:23:58+00:00",
+    "text": "Отбой авиационной ракетной бомбовой опасности по всем ранее объявленным",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259601",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T17:25:43+00:00",
+    "text": "Стерегущее и близлежащие опасность по БПЛА с моря",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149912",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T17:26:03+00:00",
+    "text": "Стерегущее и близлежащие опасность по БПЛА с моря",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259602",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T17:28:04+00:00",
+    "text": "Южнее Токмак БПЛА Баба Яга \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259603",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T17:29:23+00:00",
+    "text": "ЛДНР, Запорожская область РФ \nАвиационная ракетная бомбовая тревога. Возможны пуски Штормов",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149913",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T17:29:33+00:00",
+    "text": "ЛДНР, Запорожская область РФ \nАвиационная ракетная бомбовая тревога. Возможны пуски Штормов",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
