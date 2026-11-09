@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "alert",
-    "text": "Республика Адыгея\nВНИМАНИЕ!!!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nЕ ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-09T15:57:45+00:00",
-    "expires_at": "2026-11-09T16:57:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "missile",
@@ -32,10 +22,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Артёмовск, и далее на восток, в сторону Попасной\nТревога по БПЛА\nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-09T16:38:20+00:00",
-    "expires_at": "2026-11-09T17:38:20+00:00",
+    "text": "Донецк \nПоселок Октябрьский \nОпасность по БПЛА\nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-09T16:52:03+00:00",
+    "expires_at": "2026-11-09T17:52:03+00:00",
     "count": null,
     "count_approx": false
   }

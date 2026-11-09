@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_258987_Валуйский",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T09:05:21+00:00",
-    "text": "Валуйский район \nАктивность БПЛА разведки \nБелгородская область",
-    "type": "drone",
-    "location_name": "Валуйский",
-    "region": "Белгородская область",
-    "lat": 50.1632256,
-    "lon": 37.9638901
-  },
-  {
-    "id": "kupolrussia_149354_Валуйский",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T09:07:44+00:00",
-    "text": "Валуйский район \nАктивность БПЛА разведки \nБелгородская область",
-    "type": "drone",
-    "location_name": "Валуйский",
-    "region": "Белгородская область",
-    "lat": 50.1632256,
-    "lon": 37.9638901
-  },
-  {
-    "id": "LPRalarm_258988",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T09:08:04+00:00",
-    "text": "Новогродовка, Димитров, Новая Полтавка ДНР ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149355",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T09:08:15+00:00",
-    "text": "Новогродовка, Димитров, Новая Полтавка ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_258989_Погарский",
     "channel": "LPRalarm",
     "date": "2026-11-08T09:10:50+00:00",
@@ -21996,6 +21952,50 @@
     "type": "unknown",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259590",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T16:49:43+00:00",
+    "text": "Донецк \nПоселок Октябрьский \nОпасность по БПЛА\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149902",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T16:52:03+00:00",
+    "text": "Донецк \nПоселок Октябрьский \nОпасность по БПЛА\nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259591",
+    "channel": "LPRalarm",
+    "date": "2026-11-09T17:01:02+00:00",
+    "text": "От Ивановки в направлении \nМало Николаевка\nАнтрацитовский МО\nТревога по БПЛА и далее в тыл \nЛДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_149903",
+    "channel": "kupolrussia",
+    "date": "2026-11-09T17:01:21+00:00",
+    "text": "От Ивановки в направлении \nМало Николаевка\nАнтрацитовский МО\nТревога по БПЛА и далее в тыл \nЛДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
