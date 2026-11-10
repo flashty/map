@@ -1,27 +1,5 @@
 [
   {
-    "id": "kupolrussia_149611_Каховка",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T20:30:11+00:00",
-    "text": "Каховка, Новая Каховка и далее на Новоалексеевка и близлежащие РСЗО Химарс",
-    "type": "unknown",
-    "location_name": "Каховка",
-    "region": null,
-    "lat": 50.791424,
-    "lon": 129.218094
-  },
-  {
-    "id": "kupolrussia_149612_Рославль",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T20:30:54+00:00",
-    "text": "Рославль Смоленская область и далее в тыл продолжаются фиксации БПЛА",
-    "type": "drone",
-    "location_name": "Рославль",
-    "region": "Смоленская область",
-    "lat": 53.9483965,
-    "lon": 32.8606696
-  },
-  {
     "id": "LPRalarm_259277_Рославль",
     "channel": "LPRalarm",
     "date": "2026-11-08T20:30:57+00:00",
@@ -21996,6 +21974,28 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259918",
+    "channel": "LPRalarm",
+    "date": "2026-11-10T14:18:58+00:00",
+    "text": "Армянск от Каланчак тревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259919",
+    "channel": "LPRalarm",
+    "date": "2026-11-10T14:22:03+00:00",
+    "text": "Трубчевск и близлежащие \nТревога по БПЛА \nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
