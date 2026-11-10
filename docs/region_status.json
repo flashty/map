@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "новгородск": {
-    "display_name": "Новгородская область",
-    "type": "drone",
-    "text": "Старорусский район\nНовгородская область\nПродолжается работа ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-10T01:06:49+00:00",
-    "expires_at": "2026-11-10T02:06:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -26,6 +16,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-10T01:40:17+00:00",
     "expires_at": "2026-11-10T02:40:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Гвардейское и близлежащие тревога по БПЛА\nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-10T02:09:49+00:00",
+    "expires_at": "2026-11-10T03:09:49+00:00",
     "count": null,
     "count_approx": false
   }
