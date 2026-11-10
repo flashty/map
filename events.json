@@ -1,27 +1,5 @@
 [
   {
-    "id": "kupolrussia_149515",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T18:04:26+00:00",
-    "text": "Скадовский МО\nТревога по БПЛА сохраняется \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149516",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T18:04:30+00:00",
-    "text": "Рязанская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_259172",
     "channel": "LPRalarm",
     "date": "2026-11-08T18:04:34+00:00",
@@ -21993,6 +21971,28 @@
     "channel": "kupolrussia",
     "date": "2026-11-10T01:44:58+00:00",
     "text": "Балаклава, Балаклавская ТЭС\nСевастополь, Бухта Казачья\nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "LPRalarm_259748_Севастополь",
+    "channel": "LPRalarm",
+    "date": "2026-11-10T01:47:12+00:00",
+    "text": "Севастополь, весь город. Тревога по БПЛА",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "kupolrussia_150040_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-11-10T01:47:18+00:00",
+    "text": "Севастополь, весь город. Тревога по БПЛА",
     "type": "drone",
     "location_name": "Севастополь",
     "region": null,
