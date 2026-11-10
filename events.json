@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_259233",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T19:32:08+00:00",
-    "text": "Север Республика Крым опасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259234",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T19:32:40+00:00",
-    "text": "Донецк, Докучаевск, Старобешево, Моспино и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149571",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T19:32:50+00:00",
-    "text": "Север Республика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_149572",
     "channel": "kupolrussia",
     "date": "2026-11-08T19:33:05+00:00",
@@ -21994,6 +21961,39 @@
     "date": "2026-11-10T10:57:12+00:00",
     "text": "Белгородская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
     "type": "missile",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150125",
+    "channel": "kupolrussia",
+    "date": "2026-11-10T10:57:55+00:00",
+    "text": "Шебекино РСЗО\nБелгородская область",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_94569_Шебекинский",
+    "channel": "locatorru",
+    "date": "2026-11-10T10:58:21+00:00",
+    "text": "Шебекинский район, Белгородская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "type": "missile",
+    "location_name": "Шебекинский",
+    "region": "Белгородская область",
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "locatorru_94570",
+    "channel": "locatorru",
+    "date": "2026-11-10T11:00:10+00:00",
+    "text": "Белгородская область - отбой ракетной опасности! Упала по гг. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
     "location_name": null,
     "region": "Белгородская область",
     "lat": null,
