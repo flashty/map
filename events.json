@@ -1,115 +1,5 @@
 [
   {
-    "id": "vrv_radar_106343_Кантемировский",
-    "channel": "vrv_radar",
-    "date": "2026-11-08T20:28:11+00:00",
-    "text": "Кантемировский район \nВоронежская область \nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Кантемировский",
-    "region": "Воронежская область",
-    "lat": 49.797172,
-    "lon": 39.7513457
-  },
-  {
-    "id": "LPRalarm_259274_Раздольное",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T20:28:22+00:00",
-    "text": "Стерегущее, Раздольное, Портовое и близлежащие тревога по БПЛА с моря",
-    "type": "drone",
-    "location_name": "Раздольное",
-    "region": null,
-    "lat": 54.5428255,
-    "lon": 20.1318726
-  },
-  {
-    "id": "kupolrussia_149607",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T20:28:24+00:00",
-    "text": "Трасса Армянск - Красноперекопск тревога по БПЛА от Армянск на Красноперекопск\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259275",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T20:28:35+00:00",
-    "text": "Каховка РСЗО \nХерсонская область РФ",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149610",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T20:29:25+00:00",
-    "text": "Каховка РСЗО \nХерсонская область РФ",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_149609_Раздольное",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T20:29:25+00:00",
-    "text": "Стерегущее, Раздольное, Портовое и близлежащие тревога по БПЛА с моря",
-    "type": "drone",
-    "location_name": "Раздольное",
-    "region": null,
-    "lat": 54.5428255,
-    "lon": 20.1318726
-  },
-  {
-    "id": "kupolrussia_149608_Погарский",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T20:29:25+00:00",
-    "text": "Погарский район \nПочепский район\nЖирятинский район \nТревога по Реактивным БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": "Погарский",
-    "region": "Брянская область",
-    "lat": 52.5207056,
-    "lon": 33.2053408
-  },
-  {
-    "id": "kupolrussia_149608_Почепский",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T20:29:25+00:00",
-    "text": "Погарский район \nПочепский район\nЖирятинский район \nТревога по Реактивным БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": "Почепский",
-    "region": "Брянская область",
-    "lat": 52.9262598,
-    "lon": 33.493436
-  },
-  {
-    "id": "kupolrussia_149608_Жирятинский",
-    "channel": "kupolrussia",
-    "date": "2026-11-08T20:29:25+00:00",
-    "text": "Погарский район \nПочепский район\nЖирятинский район \nТревога по Реактивным БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": "Жирятинский",
-    "region": "Брянская область",
-    "lat": 53.2206546,
-    "lon": 33.646144
-  },
-  {
-    "id": "LPRalarm_259276_Каховка",
-    "channel": "LPRalarm",
-    "date": "2026-11-08T20:29:38+00:00",
-    "text": "Каховка, Новая Каховка и далее на Новоалексеевка и близлежащие РСЗО Химарс",
-    "type": "unknown",
-    "location_name": "Каховка",
-    "region": null,
-    "lat": 50.791424,
-    "lon": 129.218094
-  },
-  {
     "id": "locatorru_94439",
     "channel": "locatorru",
     "date": "2026-11-08T20:29:48+00:00",
@@ -21998,5 +21888,115 @@
     "region": "Белгородская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_259908",
+    "channel": "LPRalarm",
+    "date": "2026-11-10T13:46:04+00:00",
+    "text": "Гвардейское и близлежащие повторно опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259909",
+    "channel": "LPRalarm",
+    "date": "2026-11-10T13:46:58+00:00",
+    "text": "На Шебекино РСЗО",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259910",
+    "channel": "LPRalarm",
+    "date": "2026-11-10T13:47:53+00:00",
+    "text": "3 ракеты РСЗО в направлении Волчанск, ШБК \nБелгородская область",
+    "type": "missile",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259911",
+    "channel": "LPRalarm",
+    "date": "2026-11-10T13:48:31+00:00",
+    "text": "Гродовка, Очеретино ДНР ракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_94583",
+    "channel": "locatorru",
+    "date": "2026-11-10T13:48:36+00:00",
+    "text": "Клинцы и близлежащие, Брянская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259912",
+    "channel": "LPRalarm",
+    "date": "2026-11-10T13:50:06+00:00",
+    "text": "Новый Оскол и близлежащие ракетная опасность по РСЗО \nБелгородская область",
+    "type": "missile",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259913",
+    "channel": "LPRalarm",
+    "date": "2026-11-10T13:50:37+00:00",
+    "text": "Брилевка - Новокиевка - Каланчак \nТревога по БПЛА Хорнет \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259914",
+    "channel": "LPRalarm",
+    "date": "2026-11-10T13:51:04+00:00",
+    "text": "Белая Берёзка от ГГ БПЛА Дартс\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259915",
+    "channel": "LPRalarm",
+    "date": "2026-11-10T13:53:36+00:00",
+    "text": "Отбой ракетной опасности Белгородская область",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_259916_Погарский",
+    "channel": "LPRalarm",
+    "date": "2026-11-10T13:54:19+00:00",
+    "text": "Погарский район Дартс от ГГ в тыл!\nБрянская область",
+    "type": "unknown",
+    "location_name": "Погарский",
+    "region": "Брянская область",
+    "lat": 52.5207056,
+    "lon": 33.2053408
   }
 ]
