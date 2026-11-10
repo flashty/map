@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Донецк и близлежащие \nОпасность по БПЛА \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-10T11:03:37+00:00",
-    "expires_at": "2026-11-10T12:03:37+00:00",
+    "text": "Донецк, Еленовка, Докучаевск, Старобешево, Моспино и близлежащие \nОпасность по БПЛА \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-10T12:13:22+00:00",
+    "expires_at": "2026-11-10T13:13:22+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +66,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-10T11:50:43+00:00",
     "expires_at": "2026-11-10T12:50:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Р-280 Бердянск - Осипенко - Червоное поле опасность по БПЛА\nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-10T12:12:54+00:00",
+    "expires_at": "2026-11-10T13:12:54+00:00",
     "count": null,
     "count_approx": false
   }
