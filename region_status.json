@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Валуйки и близлежащие \nОпасность по БПЛА \nБелгородская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-10T13:29:22+00:00",
-    "expires_at": "2026-11-10T14:29:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -39,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "харьковск": {
-    "display_name": "Харьковская область",
-    "type": "missile",
-    "text": "ЛДНР, Харьковская область РФ, Запорожская область РФ \nАвиационная ракетная бомбовая опасность. Днепропетровск в направлении Павлоград самолёты",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-10T12:42:26+00:00",
-    "expires_at": "2026-11-10T13:42:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "воронежск": {
     "display_name": "Воронежской области",
     "type": "missile",
@@ -56,6 +36,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-10T13:28:24+00:00",
     "expires_at": "2026-11-10T14:28:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Макеевка-Донецк Макшоссе ДНР \nТревога по БПЛА Хорнет",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-10T13:34:06+00:00",
+    "expires_at": "2026-11-10T14:34:06+00:00",
     "count": null,
     "count_approx": false
   }
