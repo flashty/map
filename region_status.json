@@ -19,36 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калужская область\nСмоленская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-10T11:38:09+00:00",
-    "expires_at": "2026-11-10T12:38:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Калужская область\nСмоленская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-10T11:38:09+00:00",
-    "expires_at": "2026-11-10T12:38:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "волгоградск": {
-    "display_name": "Волгоградская область",
-    "type": "missile",
-    "text": "Тамбовская область, Волгоградская область - ракетной опасности также НЕТ. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-10T11:42:47+00:00",
-    "expires_at": "2026-11-10T12:42:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
@@ -61,11 +31,11 @@
   },
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Р-280 Бердянск - Осипенко - Червоное поле опасность по БПЛА\nЗапорожская область РФ",
+    "type": "missile",
+    "text": "ЛДНР, Харьковская область РФ, Запорожская область РФ \nАвиационная ракетная бомбовая опасность. Днепропетровск в направлении Павлоград самолёты",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-10T12:12:54+00:00",
-    "expires_at": "2026-11-10T13:12:54+00:00",
+    "updated_at": "2026-11-10T12:42:26+00:00",
+    "expires_at": "2026-11-10T13:42:26+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +56,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-10T12:16:19+00:00",
     "expires_at": "2026-11-10T13:16:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "От Суджи на Медвенка фиксация БПЛА \nКурская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-10T12:36:09+00:00",
+    "expires_at": "2026-11-10T13:36:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "харьковск": {
+    "display_name": "Харьковская область",
+    "type": "missile",
+    "text": "ЛДНР, Харьковская область РФ, Запорожская область РФ \nАвиационная ракетная бомбовая опасность. Днепропетровск в направлении Павлоград самолёты",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-10T12:42:26+00:00",
+    "expires_at": "2026-11-10T13:42:26+00:00",
     "count": null,
     "count_approx": false
   }
