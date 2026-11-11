@@ -1,14 +1,4 @@
 {
-  "пермск": {
-    "display_name": "Пермский край",
-    "type": "drone",
-    "text": "Большой Яснур, Пижанский район, Кировская область - пролёты БПЛА на восток в сторону северной части Удмуртской Республики, далее на Пермский край, Свердловскую область. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-11T07:12:56+00:00",
-    "expires_at": "2026-11-11T08:12:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "мурманск": {
     "display_name": "Мурманская область",
     "type": "drone",
@@ -39,26 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Шебекино \nТревога по БПЛА\nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-11T07:32:12+00:00",
-    "expires_at": "2026-11-11T08:32:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "кировск": {
-    "display_name": "Кировская область",
-    "type": "drone",
-    "text": "Республика Удмуртия \nКировская область \nТревога по БПЛА сохраняется",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-11T07:19:50+00:00",
-    "expires_at": "2026-11-11T08:19:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "свердловск": {
     "display_name": "Свердловская область",
     "type": "drone",
@@ -66,26 +36,6 @@
     "channel": "locatorru",
     "updated_at": "2026-11-11T07:44:26+00:00",
     "expires_at": "2026-11-11T08:44:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "alert",
-    "text": "Стародуб, Стародубский район тревога по Рам 2Х\nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-11T07:35:45+00:00",
-    "expires_at": "2026-11-11T08:35:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "карск": {
-    "display_name": "Карская область",
-    "type": "drone",
-    "text": "Брянская область, Карская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-11T07:14:09+00:00",
-    "expires_at": "2026-11-11T08:14:09+00:00",
     "count": null,
     "count_approx": false
   },
@@ -156,6 +106,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-11-11T07:52:34+00:00",
     "expires_at": "2026-11-11T08:52:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "челябинск": {
+    "display_name": "Челябинская область",
+    "type": "drone",
+    "text": "Челябинская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-11T08:14:54+00:00",
+    "expires_at": "2026-11-11T09:14:54+00:00",
     "count": null,
     "count_approx": false
   }
