@@ -12,30 +12,30 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Должанская\nТревога по БПЛА \nИ далее в направлении \nЕйск\nКраснодарский край",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-11T16:54:36+00:00",
-    "expires_at": "2026-11-11T17:54:36+00:00",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-11T18:01:20+00:00",
+    "expires_at": "2026-11-11T19:01:20+00:00",
     "count": null,
     "count_approx": false
   },
   "крым": {
     "display_name": "Республика Крым",
-    "type": "alert",
-    "text": "Север\nСеверо-Запад \nРеспублика Крым \nОпасность по МРШ со сбросами",
+    "type": "drone",
+    "text": "От Чернышево в направлении \nРаздольное \nФиксация БПЛА \nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-11T17:26:20+00:00",
-    "expires_at": "2026-11-11T18:26:20+00:00",
+    "updated_at": "2026-11-11T17:48:09+00:00",
+    "expires_at": "2026-11-11T18:48:09+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Тульская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-11T17:33:56+00:00",
-    "expires_at": "2026-11-11T18:33:56+00:00",
+    "text": "Воронежская область \nЛипецкая область\nТульская область\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-11-11T18:00:53+00:00",
+    "expires_at": "2026-11-11T19:00:53+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +76,36 @@
     "channel": "radarrussiia",
     "updated_at": "2026-11-11T17:43:34+00:00",
     "expires_at": "2026-11-11T18:43:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Воронежская область \nОпасность по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-11T18:01:06+00:00",
+    "expires_at": "2026-11-11T19:01:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "drone",
+    "text": "Воронежская область \nЛипецкая область\nТульская область\n\nОпасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-11-11T18:00:53+00:00",
+    "expires_at": "2026-11-11T19:00:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "drone",
+    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-11T18:01:20+00:00",
+    "expires_at": "2026-11-11T19:01:20+00:00",
     "count": null,
     "count_approx": false
   }
