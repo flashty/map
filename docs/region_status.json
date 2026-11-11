@@ -1,14 +1,4 @@
 {
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Мирное, Каланчак возможны фиксации реактивных БПЛА\n\nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-11T17:45:38+00:00",
-    "expires_at": "2026-11-11T18:45:38+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
@@ -22,10 +12,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Журавлевка и далее в направлении \nГвардейское \nФиксация БПЛА \nРеспублика Крым",
+    "text": "Широкое \nСимферопольский район \nИ близлежащие \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-11T18:24:33+00:00",
-    "expires_at": "2026-11-11T19:24:33+00:00",
+    "updated_at": "2026-11-11T18:32:27+00:00",
+    "expires_at": "2026-11-11T19:32:27+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,30 +42,10 @@
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Батайск и близлежащие, Ростовская область - меры предосторожности при БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-11T17:39:24+00:00",
-    "expires_at": "2026-11-11T18:39:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-11T17:43:01+00:00",
-    "expires_at": "2026-11-11T18:43:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "Московская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-11T17:43:34+00:00",
-    "expires_at": "2026-11-11T18:43:34+00:00",
+    "text": "Таганрог\nРостовская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-11T18:44:47+00:00",
+    "expires_at": "2026-11-11T19:44:47+00:00",
     "count": null,
     "count_approx": false
   },
@@ -110,12 +80,12 @@
     "count_approx": false
   },
   "белгородск": {
-    "display_name": "Белгородская область",
+    "display_name": "Белгородской области",
     "type": "drone",
-    "text": "Ракитное и далее на северо-восток\nТревога по БПЛА \nБелгородская область",
+    "text": "Краснояружский район Белгородской области\nИ далее на Курскую область\nТревога по БПЛА сохраняется",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-11T18:19:59+00:00",
-    "expires_at": "2026-11-11T19:19:59+00:00",
+    "updated_at": "2026-11-11T18:36:18+00:00",
+    "expires_at": "2026-11-11T19:36:18+00:00",
     "count": null,
     "count_approx": false
   },
@@ -136,6 +106,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-11T18:29:02+00:00",
     "expires_at": "2026-11-11T19:29:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курскую область",
+    "type": "drone",
+    "text": "Краснояружский район Белгородской области\nИ далее на Курскую область\nТревога по БПЛА сохраняется",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-11T18:36:18+00:00",
+    "expires_at": "2026-11-11T19:36:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "missile",
+    "text": "ЛДНР\nЗапорожская область РФ\nАвиационная ракетная бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-11T18:39:41+00:00",
+    "expires_at": "2026-11-11T19:39:41+00:00",
     "count": null,
     "count_approx": false
   }
