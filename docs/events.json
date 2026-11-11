@@ -1,148 +1,5 @@
 [
   {
-    "id": "vrv_radar_106684_Великолукский",
-    "channel": "vrv_radar",
-    "date": "2026-11-10T19:50:53+00:00",
-    "text": "Великолукский район\nПсковская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Великолукский",
-    "region": "Псковская область",
-    "lat": 57.8191124,
-    "lon": 28.2857497
-  },
-  {
-    "id": "kupolrussia_150385",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T19:51:11+00:00",
-    "text": "Смоленская область \nТверская область \nПсковская область \nНовгородская область \nТревога по БПЛА \nПовторно \nМножественные фиксации БПЛА в направлении\nи\n<>\nРК",
-    "type": "drone",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_260144",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T19:51:14+00:00",
-    "text": "Смоленская область \nТверская область \nПсковская область \nНовгородская область \nТревога по БПЛА \nПовторно \nМножественные фиксации БПЛА в направлении\nи\n<>\nРК",
-    "type": "drone",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_260145",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T19:51:47+00:00",
-    "text": "Новоайдар \nСчастье \nИ близлежащие \nТревога по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_150386",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T19:52:31+00:00",
-    "text": "Новоайдар \nСчастье \nИ близлежащие \nТревога по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_106685_Белевский",
-    "channel": "vrv_radar",
-    "date": "2026-11-10T19:52:36+00:00",
-    "text": "Белевский район\nТульская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Белевский",
-    "region": "Тульская область",
-    "lat": 53.761018,
-    "lon": 36.1633658
-  },
-  {
-    "id": "kupolrussia_150387_Рославль",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T19:52:46+00:00",
-    "text": "Рославль \nСмоленская область\nПовторно\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": "Рославль",
-    "region": "Смоленская область",
-    "lat": 53.9483965,
-    "lon": 32.8606696
-  },
-  {
-    "id": "LPRalarm_260146_Рославль",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T19:52:53+00:00",
-    "text": "Рославль \nСмоленская область\nПовторно\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": "Рославль",
-    "region": "Смоленская область",
-    "lat": 53.9483965,
-    "lon": 32.8606696
-  },
-  {
-    "id": "vrv_radar_106686_Пеновский",
-    "channel": "vrv_radar",
-    "date": "2026-11-10T19:53:21+00:00",
-    "text": "Пеновский район\nТверская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Пеновский",
-    "region": "Тверская область",
-    "lat": 56.9423555,
-    "lon": 32.4520288
-  },
-  {
-    "id": "LPRalarm_260147",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T19:54:02+00:00",
-    "text": "Донецк и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_106687_Велижский",
-    "channel": "vrv_radar",
-    "date": "2026-11-10T19:54:04+00:00",
-    "text": "Велижский район\nСмоленская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Велижский",
-    "region": "Смоленская область",
-    "lat": 55.5664972,
-    "lon": 31.2871581
-  },
-  {
-    "id": "LPRalarm_260148",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T19:54:07+00:00",
-    "text": "Луганск и близлежащие \nТревога по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_94646",
-    "channel": "locatorru",
-    "date": "2026-11-10T19:54:18+00:00",
-    "text": "Руднянский район, Смоленская область - опасность по БПЛА сохраняется. Массово летят вдоль границы с Республикой Беларусь в сторону Псковской области.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_150388",
     "channel": "kupolrussia",
     "date": "2026-11-10T19:54:58+00:00",
@@ -21998,5 +21855,148 @@
     "region": "Московская область",
     "lat": 55.422,
     "lon": 38.2591
+  },
+  {
+    "id": "locatorru_94856",
+    "channel": "locatorru",
+    "date": "2026-11-11T23:02:53+00:00",
+    "text": "Брянская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "type": "missile",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_94857",
+    "channel": "locatorru",
+    "date": "2026-11-11T23:03:59+00:00",
+    "text": "Калужская область, Орловская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "type": "missile",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_107001",
+    "channel": "vrv_radar",
+    "date": "2026-11-11T23:04:07+00:00",
+    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_107002",
+    "channel": "vrv_radar",
+    "date": "2026-11-11T23:04:17+00:00",
+    "text": "Орловская область\nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15878",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-11T23:04:31+00:00",
+    "text": "Орловская область\nКалужская область\nТульская область\nМосковская область\n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "missile",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_260588",
+    "channel": "LPRalarm",
+    "date": "2026-11-11T23:04:59+00:00",
+    "text": "Брянская область \nОрловская область\nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_103270",
+    "channel": "radarrussiia",
+    "date": "2026-11-11T23:05:14+00:00",
+    "text": "Орловская область\nКалужская область\nРакетная опасность\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "missile",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150790",
+    "channel": "kupolrussia",
+    "date": "2026-11-11T23:05:26+00:00",
+    "text": "Брянская область \nОрловская область\nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150791",
+    "channel": "kupolrussia",
+    "date": "2026-11-11T23:07:00+00:00",
+    "text": "Калужская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_260589",
+    "channel": "LPRalarm",
+    "date": "2026-11-11T23:07:05+00:00",
+    "text": "Калужская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_94858",
+    "channel": "locatorru",
+    "date": "2026-11-11T23:07:49+00:00",
+    "text": "Орёл и район, Орловская область - опасность по БПЛА + ракетная! \n\n📡Локатор России - @locatorru",
+    "type": "missile",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15880",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-11T23:10:39+00:00",
+    "text": "Активность вражеских установок в режиме ПВО. Целей в нашу сторону нет.\n\nНаши ВКС нанесли ракетный удар баллистикой по целям в Киеве.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_107003",
+    "channel": "vrv_radar",
+    "date": "2026-11-11T23:14:47+00:00",
+    "text": "Орловская область\nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
   }
 ]
