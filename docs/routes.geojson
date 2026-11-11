@@ -5,6 +5,56 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-11-11T18:28:52+00:00",
+        "last_updated": "2026-11-11T18:53:15+00:00",
+        "path_labels": [
+          "Стародубский (Брянская область)",
+          "Баклань (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.7150092,
+            52.5153759
+          ],
+          [
+            33.2590404,
+            52.7388608
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-11T18:28:52+00:00",
+        "last_updated": "2026-11-11T18:53:15+00:00",
+        "path_labels": [
+          "Погарский (Брянская область)",
+          "Почепский (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.2053408,
+            52.5207056
+          ],
+          [
+            33.493436,
+            52.9262598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-11-11T18:35:44+00:00",
         "last_updated": "2026-11-11T18:35:44+00:00",
         "path_labels": [
