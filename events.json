@@ -1,38 +1,5 @@
 [
   {
-    "id": "locatorru_94649",
-    "channel": "locatorru",
-    "date": "2026-11-10T19:59:59+00:00",
-    "text": "Ленинградская область - внимание к массовому налёту БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ленинградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_260150",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T20:00:52+00:00",
-    "text": "Донецк, Еленовка, Докучаевск и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_150389",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T20:01:03+00:00",
-    "text": "Донецк, Еленовка, Докучаевск и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radar_plus_bpla_15818",
     "channel": "radar_plus_bpla",
     "date": "2026-11-10T20:03:01+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Рязанская область",
     "lat": 54.730757,
     "lon": 39.5056425
+  },
+  {
+    "id": "LPRalarm_260591",
+    "channel": "LPRalarm",
+    "date": "2026-11-11T23:34:40+00:00",
+    "text": "Новозыбков и близлежащие \nБрянская область \nТревога по БПЛА\nИ далее в тыл",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_94862",
+    "channel": "locatorru",
+    "date": "2026-11-11T23:34:53+00:00",
+    "text": "Брянская область - отбой ракетной опасности! \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150793",
+    "channel": "kupolrussia",
+    "date": "2026-11-11T23:34:56+00:00",
+    "text": "Новозыбков и близлежащие \nБрянская область \nТревога по БПЛА\nИ далее в тыл",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
   }
 ]
