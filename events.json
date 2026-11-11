@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_150228",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T17:02:00+00:00",
-    "text": "Брянск меры безопасности при БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259974",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T17:02:05+00:00",
-    "text": "Джанкойский район \nВнимание по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_150229",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T17:02:13+00:00",
-    "text": "Джанкойский район \nВнимание по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259975",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T17:02:20+00:00",
-    "text": "Орловская область тревога по БПЛА от Брянской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_150230",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T17:02:39+00:00",
-    "text": "Орловская область тревога по БПЛА от Брянской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259976",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T17:02:50+00:00",
-    "text": "Карачев\nГлыбочка\nИ близлежащие\nТревога по БПЛА сохраняется\nИ далее на север\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_150231",
     "channel": "kupolrussia",
     "date": "2026-11-10T17:02:53+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Омская область",
     "lat": 54.991375,
     "lon": 73.371529
+  },
+  {
+    "id": "radarrussiia_103245_Омск",
+    "channel": "radarrussiia",
+    "date": "2026-11-11T13:16:16+00:00",
+    "text": "Омск\nОмская область\nПродолжается работа ПВО по БПЛА\nМеры безопасности\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": "Омск",
+    "region": "Омская область",
+    "lat": 54.991375,
+    "lon": 73.371529
+  },
+  {
+    "id": "radar_plus_bpla_15857_Все",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-11T13:18:03+00:00",
+    "text": "Все районы Омска - отойдите от окон.\n\nИдут сбития.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": "Все",
+    "region": null,
+    "lat": 58.0107446,
+    "lon": 56.2819461
+  },
+  {
+    "id": "radar_plus_bpla_15858_Кировского",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-11T13:22:01+00:00",
+    "text": "Ещё 2 БПЛА в направлении Кировского района Омска.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "drone",
+    "location_name": "Кировского",
+    "region": null,
+    "lat": 60.5006006,
+    "lon": 30.2687913
+  },
+  {
+    "id": "radarrussiia_103246_Кировского",
+    "channel": "radarrussiia",
+    "date": "2026-11-11T13:22:32+00:00",
+    "text": "Ещё 2 БПЛА в направлении Кировского района Омска\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": "Кировского",
+    "region": null,
+    "lat": 60.5006006,
+    "lon": 30.2687913
+  },
+  {
+    "id": "vrv_radar_106936",
+    "channel": "vrv_radar",
+    "date": "2026-11-11T13:28:11+00:00",
+    "text": "Омск \nОмская область\nЕщё фиксация БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Омская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_103247",
+    "channel": "radarrussiia",
+    "date": "2026-11-11T13:28:23+00:00",
+    "text": "Омск \nОмская область\nЕщё фиксация БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": null,
+    "region": "Омская область",
+    "lat": null,
+    "lon": null
   }
 ]
