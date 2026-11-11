@@ -1,93 +1,5 @@
 [
   {
-    "id": "vrv_radar_106568",
-    "channel": "vrv_radar",
-    "date": "2026-11-10T10:29:55+00:00",
-    "text": "Волгоградская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_150107",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T10:33:57+00:00",
-    "text": "Шебекино \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259825",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T10:34:25+00:00",
-    "text": "Климов - Клинцы \nТревога по БПЛА \nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_150108",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T10:34:46+00:00",
-    "text": "Климово - Клинцы \nТревога по БПЛА \nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_94565",
-    "channel": "locatorru",
-    "date": "2026-11-10T10:36:42+00:00",
-    "text": "Прямой опасности нет. В случае угрозы, сообщим. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259826",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T10:37:52+00:00",
-    "text": "Горловка ДНР ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_150109",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T10:38:02+00:00",
-    "text": "Горловка ДНР ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_94566",
-    "channel": "locatorru",
-    "date": "2026-11-10T10:38:14+00:00",
-    "text": "Приграничные районы Белгородской области, Курской области, Брянской области - от границы и в тыл на удаленно ±30км опасность по FPV-дронам на высоком уровне. Будут атаки с подвесом «ПГ-7ВЛ», сбросы «ВОГ-17». Также активность БПЛА самолетного типа. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородской области",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_259827_Шебекинский",
     "channel": "LPRalarm",
     "date": "2026-11-10T10:38:23+00:00",
@@ -21998,5 +21910,93 @@
     "region": "Республика Марий",
     "lat": 56.1760812,
     "lon": 46.6047038
+  },
+  {
+    "id": "locatorru_94757",
+    "channel": "locatorru",
+    "date": "2026-11-11T06:05:35+00:00",
+    "text": "Безводное, Ахманово, Пижанка и близлежащие, Кировская область - пролёты БПЛА на восток, северо-восток.\n\nУдмурская Республика, Пермский край - внимание по БПЛА с указанного направления, в вашу сторону идут.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Кировская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150553",
+    "channel": "kupolrussia",
+    "date": "2026-11-11T06:10:30+00:00",
+    "text": "Мурманская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Мурманская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_260325",
+    "channel": "LPRalarm",
+    "date": "2026-11-11T06:10:34+00:00",
+    "text": "Мурманская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Мурманская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_260326",
+    "channel": "LPRalarm",
+    "date": "2026-11-11T06:13:19+00:00",
+    "text": "Новоелизаветовка и близлежащие\nОпасность по БПЛА Хорнет \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150554",
+    "channel": "kupolrussia",
+    "date": "2026-11-11T06:13:28+00:00",
+    "text": "Новоелизаветовка и близлежащие\nОпасность по БПЛА Хорнет \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_94758",
+    "channel": "locatorru",
+    "date": "2026-11-11T06:13:52+00:00",
+    "text": "Пильнинский район, Нижегородская область - продолжаются пролёты БПЛА в сторону примерно Моргауши, Москакасы, Чувашской Республики и далее транизитом на Республику Марий Эл, Кировскую область и на Удмурскую Республику, Пермский край.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_260327",
+    "channel": "LPRalarm",
+    "date": "2026-11-11T06:15:11+00:00",
+    "text": "Таманский полуостров, Тамань отбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150555",
+    "channel": "kupolrussia",
+    "date": "2026-11-11T06:15:16+00:00",
+    "text": "Таманский полуостров, Тамань отбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
