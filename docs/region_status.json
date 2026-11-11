@@ -2,10 +2,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Раздольненский район\nТревога по БПЛА с моря\nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-11T21:30:44+00:00",
-    "expires_at": "2026-11-11T22:30:44+00:00",
+    "text": "Армянск и близлежащие \nТревога по БПЛА \nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-11T21:58:12+00:00",
+    "expires_at": "2026-11-11T22:58:12+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,10 +62,10 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Запорожская область РФ \nОпасность по БПЛА",
+    "text": "Нововасильевка и близлежащие \nЗапорожская область РФ \nТревога по БПЛА Хорнет",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-11T21:07:09+00:00",
-    "expires_at": "2026-11-11T22:07:09+00:00",
+    "updated_at": "2026-11-11T21:47:47+00:00",
+    "expires_at": "2026-11-11T22:47:47+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +76,16 @@
     "channel": "locatorru",
     "updated_at": "2026-11-11T21:38:19+00:00",
     "expires_at": "2026-11-11T22:38:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Урзуф\nМангуш\nЯлта и близлежащие \nТревога по БПЛА \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-11T21:56:41+00:00",
+    "expires_at": "2026-11-11T22:56:41+00:00",
     "count": null,
     "count_approx": false
   }
