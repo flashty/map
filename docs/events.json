@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_150231",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T17:02:53+00:00",
-    "text": "Карачев\nГлыбочка\nИ близлежащие\nТревога по БПЛА сохраняется\nИ далее на север\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_150232",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T17:03:13+00:00",
-    "text": "Отбой авиационной ракетной бомбовой опасности по всем ранее объявленным",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259977",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T17:03:14+00:00",
-    "text": "Отбой авиационной ракетной бомбовой опасности по всем ранее объявленным",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259978",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T17:03:50+00:00",
-    "text": "Мариуполь и близлежащие \nПринять меры безопасности \nДНР",
-    "type": "alert",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_259979",
     "channel": "LPRalarm",
     "date": "2026-11-10T17:03:58+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Омская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15859",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-11T13:35:24+00:00",
+    "text": "Омск - сбития продолжаются.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_260435",
+    "channel": "LPRalarm",
+    "date": "2026-11-11T13:36:35+00:00",
+    "text": "Новоозёрное и близлежащие\nВнимание по возможным БПЛА противника \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150650",
+    "channel": "kupolrussia",
+    "date": "2026-11-11T13:36:41+00:00",
+    "text": "Новоозёрное и близлежащие\nВнимание по возможным БПЛА противника \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106937_Омск",
+    "channel": "vrv_radar",
+    "date": "2026-11-11T13:38:11+00:00",
+    "text": "Омск\nОмская область\nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": "Омск",
+    "region": "Омская область",
+    "lat": 54.991375,
+    "lon": 73.371529
   }
 ]
