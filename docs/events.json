@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_259969",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T16:59:13+00:00",
-    "text": "Клетня\nЖуковка\nСельцо\nБежица\nБрянск \nИ ближайшее \nТревога по БПЛА \nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_150224",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T16:59:24+00:00",
-    "text": "Клетня\nЖуковка\nСельцо\nБежица\nБрянск \nИ ближайшее \nТревога по БПЛА \nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259970",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T16:59:58+00:00",
-    "text": "Стерегущее и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_150225",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T17:00:51+00:00",
-    "text": "Стерегущее и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259971",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T17:00:58+00:00",
-    "text": "Раздольненский район \nЧерноморский район \nВнимание по реактивным БПЛА с моря\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_150226",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T17:01:13+00:00",
-    "text": "Раздольненский район \nЧерноморский район \nВнимание по реактивным БПЛА с моря\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259972",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T17:01:35+00:00",
-    "text": "Таврово \nИ близлежащие \nОпасность по БПЛА \nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_150227",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T17:01:53+00:00",
-    "text": "Таврово \nИ близлежащие \nОпасность по БПЛА \nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259973",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T17:01:54+00:00",
-    "text": "Брянск меры безопасности при БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_150228",
     "channel": "kupolrussia",
     "date": "2026-11-10T17:02:00+00:00",
@@ -21998,5 +21899,104 @@
     "region": "Новосибирская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_106932",
+    "channel": "vrv_radar",
+    "date": "2026-11-11T13:04:15+00:00",
+    "text": "Тюменская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тюменская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106933",
+    "channel": "vrv_radar",
+    "date": "2026-11-11T13:04:44+00:00",
+    "text": "Омск \nОмская область\nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Омская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radar_plus_bpla_15856",
+    "channel": "radar_plus_bpla",
+    "date": "2026-11-11T13:05:02+00:00",
+    "text": "Омск - сбитие БПЛА.\n\nЕще от 2 единиц на подлёте.\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_103241",
+    "channel": "radarrussiia",
+    "date": "2026-11-11T13:08:04+00:00",
+    "text": "Омск \nОмская область\nРабота ПВО по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": null,
+    "region": "Омская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_103242",
+    "channel": "radarrussiia",
+    "date": "2026-11-11T13:08:36+00:00",
+    "text": "Омск - сбитие БПЛА.\n\nЕще от 2 единиц на подлёте.\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_103243",
+    "channel": "radarrussiia",
+    "date": "2026-11-11T13:09:10+00:00",
+    "text": "Тюменская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тюменская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106934",
+    "channel": "vrv_radar",
+    "date": "2026-11-11T13:10:16+00:00",
+    "text": "Омск \nОмская область\nМеры безопасности сохраняем!",
+    "type": "alert",
+    "location_name": null,
+    "region": "Омская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_103244",
+    "channel": "radarrussiia",
+    "date": "2026-11-11T13:11:35+00:00",
+    "text": "Омск \nОмская область\nМеры безопасности сохраняем!\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "alert",
+    "location_name": null,
+    "region": "Омская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_106935_Омск",
+    "channel": "vrv_radar",
+    "date": "2026-11-11T13:15:53+00:00",
+    "text": "Омск\nОмская область\nПродолжается работа ПВО по БПЛА\nМеры безопасности",
+    "type": "drone",
+    "location_name": "Омск",
+    "region": "Омская область",
+    "lat": 54.991375,
+    "lon": 73.371529
   }
 ]
