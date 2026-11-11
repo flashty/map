@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-11T03:55:29+00:00",
+        "last_updated": "2026-11-11T04:32:00+00:00",
+        "path_labels": [
+          "Вятские Поляны (Кировская область)",
+          "Вавожский (Республика Удмуртия)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.0749038,
+            56.2229946
+          ],
+          [
+            51.8036667,
+            56.7591038
+          ]
+        ]
+      }
+    }
+  ]
 }
