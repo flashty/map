@@ -1,93 +1,5 @@
 [
   {
-    "id": "vrv_radar_106586_Ельнинский",
-    "channel": "vrv_radar",
-    "date": "2026-11-10T16:48:16+00:00",
-    "text": "Ельнинский район\nСмоленская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Ельнинский",
-    "region": "Смоленская область",
-    "lat": 54.5275089,
-    "lon": 33.3509426
-  },
-  {
-    "id": "radarrussiia_103100",
-    "channel": "radarrussiia",
-    "date": "2026-11-10T16:49:15+00:00",
-    "text": "Московская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259958",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T16:49:19+00:00",
-    "text": "Рохманово\nИ близлежащие \nТревога по БПЛА \nИ далее  на север\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_150214",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T16:49:44+00:00",
-    "text": "Рохманово\nИ близлежащие \nИ далее  на север\nБрянская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_106587_Спас-Деменский",
-    "channel": "vrv_radar",
-    "date": "2026-11-10T16:49:51+00:00",
-    "text": "Спас-Деменский район\nКалужская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Спас-Деменский",
-    "region": "Калужская область",
-    "lat": 54.3959568,
-    "lon": 33.9346202
-  },
-  {
-    "id": "vrv_radar_106588_Хвастовичский",
-    "channel": "vrv_radar",
-    "date": "2026-11-10T16:50:18+00:00",
-    "text": "Хвастовичский район\nКалужская область\nФиксация от 3 БПЛА",
-    "type": "drone",
-    "location_name": "Хвастовичский",
-    "region": "Калужская область",
-    "lat": 53.4981708,
-    "lon": 35.1820052
-  },
-  {
-    "id": "kupolrussia_150215",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T16:50:29+00:00",
-    "text": "Смоленская область\nКалужская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_259959",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T16:50:37+00:00",
-    "text": "Смоленская область\nКалужская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_106589_Орловский",
     "channel": "vrv_radar",
     "date": "2026-11-10T16:50:45+00:00",
@@ -21998,5 +21910,93 @@
     "region": null,
     "lat": 56.1017302,
     "lon": 63.6873253
+  },
+  {
+    "id": "LPRalarm_260422",
+    "channel": "LPRalarm",
+    "date": "2026-11-11T11:19:47+00:00",
+    "text": "Светлодарск, Дебальцево, Углегорск и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150635",
+    "channel": "kupolrussia",
+    "date": "2026-11-11T11:20:04+00:00",
+    "text": "Светлодарск, Дебальцево, Углегорск и близлежащие \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_260423",
+    "channel": "LPRalarm",
+    "date": "2026-11-11T11:21:23+00:00",
+    "text": "Геническ и близлежащие\nТревога по БПЛА Шарк со сбросами ФПВ\nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150636",
+    "channel": "kupolrussia",
+    "date": "2026-11-11T11:21:35+00:00",
+    "text": "Геническ и близлежащие\nТревога по БПЛА Шарк со сбросами ФПВ\nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_260424",
+    "channel": "LPRalarm",
+    "date": "2026-11-11T11:27:30+00:00",
+    "text": "Гвардейское и близлежащие\nОпасность по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150637",
+    "channel": "kupolrussia",
+    "date": "2026-11-11T11:27:46+00:00",
+    "text": "Гвардейское и близлежащие\nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_260425",
+    "channel": "LPRalarm",
+    "date": "2026-11-11T11:28:56+00:00",
+    "text": "Запад\nСеверо-запад\nРеспублика Крым\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150638",
+    "channel": "kupolrussia",
+    "date": "2026-11-11T11:29:33+00:00",
+    "text": "Запад\nСеверо-запад\nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
   }
 ]
