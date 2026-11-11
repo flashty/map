@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_106594_Хотынецкий",
-    "channel": "vrv_radar",
-    "date": "2026-11-10T16:52:21+00:00",
-    "text": "Хотынецкий район\nОрловская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Хотынецкий",
-    "region": "Орловская область",
-    "lat": 53.1360589,
-    "lon": 35.3773008
-  },
-  {
-    "id": "locatorru_94593",
-    "channel": "locatorru",
-    "date": "2026-11-10T16:52:25+00:00",
-    "text": "Ростовская область - опасность по БПЛА по югу региона. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_106595",
-    "channel": "vrv_radar",
-    "date": "2026-11-10T16:52:51+00:00",
-    "text": "Ростовская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_94594_Навля",
-    "channel": "locatorru",
-    "date": "2026-11-10T16:52:54+00:00",
-    "text": "Навля, Карачев и близлежащие, Брянская область - ещё фиксации БПЛА от Салтановка. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Навля",
-    "region": "Брянская область",
-    "lat": 52.8271323,
-    "lon": 34.4993843
-  },
-  {
-    "id": "LPRalarm_259960",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T16:53:04+00:00",
-    "text": "Брянск\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_259961",
     "channel": "LPRalarm",
     "date": "2026-11-10T16:53:11+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150641",
+    "channel": "kupolrussia",
+    "date": "2026-11-11T11:45:57+00:00",
+    "text": "Петровский, Киевский, Куйбышевский районы Донецк ДНР опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_260429",
+    "channel": "LPRalarm",
+    "date": "2026-11-11T11:53:28+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и возможным ФПВ \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150642",
+    "channel": "kupolrussia",
+    "date": "2026-11-11T11:53:34+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и возможным ФПВ \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_260430",
+    "channel": "LPRalarm",
+    "date": "2026-11-11T11:54:23+00:00",
+    "text": "Запад\nСеверо-запад\nРеспублика Крым\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150643",
+    "channel": "kupolrussia",
+    "date": "2026-11-11T11:54:36+00:00",
+    "text": "Запад\nСеверо-запад\nРеспублика Крым\nжай ОТБОЙ\n`\\ь ОПАСНОСТИ ПО БПЛА\n2.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
