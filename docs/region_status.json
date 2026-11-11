@@ -1,11 +1,11 @@
 {
   "херсонск": {
     "display_name": "Херсонская область",
-    "type": "alert",
-    "text": "Херсонская область РФ \nОпасность по МРШ со сбросами",
+    "type": "drone",
+    "text": "Мирное, Каланчак возможны фиксации реактивных БПЛА\n\nХерсонская область РФ",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-11T17:14:55+00:00",
-    "expires_at": "2026-11-11T18:14:55+00:00",
+    "updated_at": "2026-11-11T17:45:38+00:00",
+    "expires_at": "2026-11-11T18:45:38+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,6 +26,56 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-11T17:26:20+00:00",
     "expires_at": "2026-11-11T18:26:20+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Тульская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-11T17:33:56+00:00",
+    "expires_at": "2026-11-11T18:33:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Тульская область \nКалужская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-11T17:33:37+00:00",
+    "expires_at": "2026-11-11T18:33:37+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Батайск и близлежащие, Ростовская область - меры предосторожности при БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-11T17:39:24+00:00",
+    "expires_at": "2026-11-11T18:39:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-11T17:43:01+00:00",
+    "expires_at": "2026-11-11T18:43:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Московская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-11T17:43:34+00:00",
+    "expires_at": "2026-11-11T18:43:34+00:00",
     "count": null,
     "count_approx": false
   }
