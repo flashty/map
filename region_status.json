@@ -22,10 +22,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Приморско-Ахтарск\nТимашевск и близлежащие \nОпасность по БПЛА \nКраснодарский край",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-12T07:28:39+00:00",
-    "expires_at": "2026-11-12T08:28:39+00:00",
+    "text": "БПЛА в направлении Гривенская, Забойский, Краснодарский край. \n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-12T07:53:28+00:00",
+    "expires_at": "2026-11-12T08:53:28+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,26 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Шафранное \nГвардейское и близлежащие \nТревога по БПЛА \nРеспублика Крым",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-12T06:57:24+00:00",
-    "expires_at": "2026-11-12T07:57:24+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "alert",
-    "text": "Курская область и близлежащие\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-12T06:56:02+00:00",
-    "expires_at": "2026-11-12T07:56:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарско": {
     "display_name": "Краснодарского края",
     "type": "drone",
@@ -76,6 +56,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-12T07:36:04+00:00",
     "expires_at": "2026-11-12T08:36:04+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "гривенск": {
+    "display_name": "Гривенская край",
+    "type": "drone",
+    "text": "БПЛА в направлении Гривенская, Забойский, Краснодарский край. \n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-12T07:53:28+00:00",
+    "expires_at": "2026-11-12T08:53:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "забойск": {
+    "display_name": "Забойский край",
+    "type": "drone",
+    "text": "БПЛА в направлении Гривенская, Забойский, Краснодарский край. \n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-12T07:53:28+00:00",
+    "expires_at": "2026-11-12T08:53:28+00:00",
     "count": null,
     "count_approx": false
   }
