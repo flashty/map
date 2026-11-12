@@ -1,27 +1,5 @@
 [
   {
-    "id": "locatorru_94691_Ольховатский",
-    "channel": "locatorru",
-    "date": "2026-11-10T21:40:36+00:00",
-    "text": "Бутурлиновский район, Калачеевский район, Павловский район, Ольховатский район, Воронежская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Ольховатский",
-    "region": "Воронежская область",
-    "lat": 50.3121144,
-    "lon": 39.2495873
-  },
-  {
-    "id": "locatorru_94692",
-    "channel": "locatorru",
-    "date": "2026-11-10T21:40:55+00:00",
-    "text": "Рязанская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radar_plus_bpla_15836",
     "channel": "radar_plus_bpla",
     "date": "2026-11-10T21:40:55+00:00",
@@ -21996,6 +21974,28 @@
     "type": "all_clear",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_260705",
+    "channel": "LPRalarm",
+    "date": "2026-11-12T07:38:19+00:00",
+    "text": "Свердловск и близлежащие \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150897",
+    "channel": "kupolrussia",
+    "date": "2026-11-12T07:38:31+00:00",
+    "text": "Свердловск и близлежащие \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
