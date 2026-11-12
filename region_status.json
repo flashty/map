@@ -1,21 +1,11 @@
 {
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Счастье, Станица Луганская и близлежащие ЛНР \nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-12T05:17:48+00:00",
-    "expires_at": "2026-11-12T06:17:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Опасность БПЛА по г. Бердянск и Бердянскому району \nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-12T05:44:17+00:00",
-    "expires_at": "2026-11-12T06:44:17+00:00",
+    "text": "Трасса Приазовское - Приморск от Инзовка тревога по БПЛА \nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-12T06:24:34+00:00",
+    "expires_at": "2026-11-12T07:24:34+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +46,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-12T06:08:39+00:00",
     "expires_at": "2026-11-12T07:08:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Новоалексеевка Херсонская область РФ БПЛА направление Чонгар, АПП Джанкой",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-12T06:25:47+00:00",
+    "expires_at": "2026-11-12T07:25:47+00:00",
     "count": null,
     "count_approx": false
   }
