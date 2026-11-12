@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-12T08:30:22+00:00",
+        "last_updated": "2026-11-12T09:05:37+00:00",
+        "path_labels": [
+          "Динской (Краснодарский край)",
+          "Темрюкский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.7762283,
+            45.3846223
+          ],
+          [
+            37.3098799,
+            45.4964119
+          ]
+        ]
+      }
+    }
+  ]
 }
