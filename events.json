@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_150537",
-    "channel": "kupolrussia",
-    "date": "2026-11-11T04:15:07+00:00",
-    "text": "Пермский край\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Пермский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_260309",
-    "channel": "LPRalarm",
-    "date": "2026-11-11T04:15:10+00:00",
-    "text": "Пермский край\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Пермский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_150538",
-    "channel": "kupolrussia",
-    "date": "2026-11-11T04:16:54+00:00",
-    "text": "Новгородская область \nРеспублика Карелия\nРеспублика Мордовия \nТульская область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Новгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_260310",
-    "channel": "LPRalarm",
-    "date": "2026-11-11T04:16:58+00:00",
-    "text": "Новгородская область \nРеспублика Карелия\nРеспублика Мордовия \nТульская область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Новгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_106871",
-    "channel": "vrv_radar",
-    "date": "2026-11-11T04:17:03+00:00",
-    "text": "Волгоградская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_106872",
     "channel": "vrv_radar",
     "date": "2026-11-11T04:18:31+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_260913_Перекоп",
+    "channel": "LPRalarm",
+    "date": "2026-11-12T14:01:58+00:00",
+    "text": "Армянск, АПП Перекоп, Титан, АПП Армянск с севера от Преображенка (Чаплынка)\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Перекоп",
+    "region": null,
+    "lat": 59.121197,
+    "lon": 49.985012
+  },
+  {
+    "id": "LPRalarm_260913_Титан",
+    "channel": "LPRalarm",
+    "date": "2026-11-12T14:01:58+00:00",
+    "text": "Армянск, АПП Перекоп, Титан, АПП Армянск с севера от Преображенка (Чаплынка)\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Титан",
+    "region": null,
+    "lat": 67.560455,
+    "lon": 33.639561
+  },
+  {
+    "id": "kupolrussia_151086_Перекоп",
+    "channel": "kupolrussia",
+    "date": "2026-11-12T14:02:32+00:00",
+    "text": "Армянск, АПП Перекоп, Титан, АПП Армянск с севера от Преображенка (Чаплынка)\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Перекоп",
+    "region": null,
+    "lat": 59.121197,
+    "lon": 49.985012
+  },
+  {
+    "id": "kupolrussia_151086_Титан",
+    "channel": "kupolrussia",
+    "date": "2026-11-12T14:02:32+00:00",
+    "text": "Армянск, АПП Перекоп, Титан, АПП Армянск с севера от Преображенка (Чаплынка)\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Титан",
+    "region": null,
+    "lat": 67.560455,
+    "lon": 33.639561
+  },
+  {
+    "id": "locatorru_94914",
+    "channel": "locatorru",
+    "date": "2026-11-12T14:09:50+00:00",
+    "text": "Краснодарский край, Республика Адыгея - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
