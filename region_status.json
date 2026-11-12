@@ -1,21 +1,21 @@
 {
   "саратовск": {
     "display_name": "Саратовская область",
-    "type": "missile",
-    "text": "Саратовская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-12T04:01:51+00:00",
-    "expires_at": "2026-11-12T05:01:51+00:00",
+    "type": "drone",
+    "text": "Пензенская область, Саратовская область - опасность по реактивным БПЛА со стороны Ростовской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-12T04:27:32+00:00",
+    "expires_at": "2026-11-12T05:27:32+00:00",
     "count": null,
     "count_approx": false
   },
   "пензенск": {
     "display_name": "Пензенская область",
-    "type": "missile",
-    "text": "Пензенская область \nРеспублика Мордовия\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-12T03:49:26+00:00",
-    "expires_at": "2026-11-12T04:49:26+00:00",
+    "type": "drone",
+    "text": "Пензенская область, Саратовская область - опасность по реактивным БПЛА со стороны Ростовской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-12T04:27:32+00:00",
+    "expires_at": "2026-11-12T05:27:32+00:00",
     "count": null,
     "count_approx": false
   },
@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калужская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-12T04:03:39+00:00",
-    "expires_at": "2026-11-12T05:03:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -46,6 +36,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-12T04:06:00+00:00",
     "expires_at": "2026-11-12T05:06:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Яковлевский район \nБелгородская область \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-12T04:21:59+00:00",
+    "expires_at": "2026-11-12T05:21:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовской области",
+    "type": "drone",
+    "text": "Пензенская область, Саратовская область - опасность по реактивным БПЛА со стороны Ростовской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-12T04:27:32+00:00",
+    "expires_at": "2026-11-12T05:27:32+00:00",
     "count": null,
     "count_approx": false
   }

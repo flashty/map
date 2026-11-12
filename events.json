@@ -1,104 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_15823",
-    "channel": "radar_plus_bpla",
-    "date": "2026-11-10T20:42:51+00:00",
-    "text": "Пензенская область\nСаратовская область\nРеспублика Мордовия\n\nРакетная опасность.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "missile",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_260178",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T20:42:52+00:00",
-    "text": "Республика Мордовия\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_15824",
-    "channel": "radar_plus_bpla",
-    "date": "2026-11-10T20:43:10+00:00",
-    "text": "🚨Ракеты в тыл через Воронежскую область в направлении Тамбовской области и далее в тыл.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "missile",
-    "location_name": null,
-    "region": "Воронежскую область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_106714_Острогожский",
-    "channel": "vrv_radar",
-    "date": "2026-11-10T20:43:11+00:00",
-    "text": "Острогожский район\nВоронежская область\nФиксация реактивной цели",
-    "type": "unknown",
-    "location_name": "Острогожский",
-    "region": "Воронежская область",
-    "lat": 50.8584609,
-    "lon": 39.0772421
-  },
-  {
-    "id": "locatorru_94662",
-    "channel": "locatorru",
-    "date": "2026-11-10T20:43:14+00:00",
-    "text": "Пензенская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_260179",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T20:43:29+00:00",
-    "text": "Брянская область \nОрловская область \nТревога по реактивным БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_260180",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T20:43:30+00:00",
-    "text": "Почеп\nПролет реактивных БпЛА либо ракет на север",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_150416",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T20:43:35+00:00",
-    "text": "Почеп\nПролет реактивных БпЛА либо ракет на север",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_150417",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T20:43:47+00:00",
-    "text": "Смоленская область \nКалужская область \nТревога по реактивным БПЛА от Брянской области\nи\n<>\nРК",
-    "type": "drone",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_260181",
     "channel": "LPRalarm",
     "date": "2026-11-10T20:43:50+00:00",
@@ -21996,6 +21897,105 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_260626_Яковлевский",
+    "channel": "LPRalarm",
+    "date": "2026-11-12T04:21:50+00:00",
+    "text": "Яковлевский район \nБелгородская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Яковлевский",
+    "region": "Белгородская область",
+    "lat": 50.7321022,
+    "lon": 36.2290154
+  },
+  {
+    "id": "kupolrussia_150824_Яковлевский",
+    "channel": "kupolrussia",
+    "date": "2026-11-12T04:21:59+00:00",
+    "text": "Яковлевский район \nБелгородская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Яковлевский",
+    "region": "Белгородская область",
+    "lat": 50.7321022,
+    "lon": 36.2290154
+  },
+  {
+    "id": "kupolrussia_150825",
+    "channel": "kupolrussia",
+    "date": "2026-11-12T04:24:14+00:00",
+    "text": "Пензенская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_260627",
+    "channel": "LPRalarm",
+    "date": "2026-11-12T04:24:17+00:00",
+    "text": "Пензенская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_107044",
+    "channel": "vrv_radar",
+    "date": "2026-11-12T04:25:24+00:00",
+    "text": "Калужская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_107045",
+    "channel": "vrv_radar",
+    "date": "2026-11-12T04:25:39+00:00",
+    "text": "Московская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_107046",
+    "channel": "vrv_radar",
+    "date": "2026-11-12T04:25:57+00:00",
+    "text": "Рязанская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_107047",
+    "channel": "vrv_radar",
+    "date": "2026-11-12T04:26:03+00:00",
+    "text": "Липецкая область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_94863",
+    "channel": "locatorru",
+    "date": "2026-11-12T04:27:32+00:00",
+    "text": "Пензенская область, Саратовская область - опасность по реактивным БПЛА со стороны Ростовской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Пензенская область",
     "lat": null,
     "lon": null
   }
