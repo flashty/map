@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_260194_Чертковский",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T20:59:40+00:00",
-    "text": "Чертковский район\nТревога по БпЛА",
-    "type": "drone",
-    "location_name": "Чертковский",
-    "region": null,
-    "lat": 49.4049606,
-    "lon": 40.6115668
-  },
-  {
-    "id": "kupolrussia_150430_Чертковский",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T20:59:44+00:00",
-    "text": "Чертковский район\nТревога по БпЛА",
-    "type": "drone",
-    "location_name": "Чертковский",
-    "region": null,
-    "lat": 49.4049606,
-    "lon": 40.6115668
-  },
-  {
-    "id": "LPRalarm_260195",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T21:00:18+00:00",
-    "text": "Брянская область \nОрловская область \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_150431",
     "channel": "kupolrussia",
     "date": "2026-11-10T21:00:26+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_260646",
+    "channel": "LPRalarm",
+    "date": "2026-11-12T05:17:48+00:00",
+    "text": "Счастье, Станица Луганская и близлежащие ЛНР \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_260647_Севастополь",
+    "channel": "LPRalarm",
+    "date": "2026-11-12T05:21:53+00:00",
+    "text": "Севастополь, ЮБК \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "vrv_radar_107055",
+    "channel": "vrv_radar",
+    "date": "2026-11-12T05:30:35+00:00",
+    "text": "📡 Точные данные 24/7 — благодаря каждому из вас.\n\nНаш радар живет без рекламы и существует исключительно на поддержке подписчиков. Мы не зарабатываем на безопасности, мы помогаем её обеспечить.\n\n🙌 Спасибо всем, кто ценит наш труд. Ваша поддержка помогает нам быть в строю каждую ночь.\n\nПоддержать канал: 👉 https://clck.ru/3VgBJu",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
