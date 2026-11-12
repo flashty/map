@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_150391",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T20:11:26+00:00",
-    "text": "Брянск\nБежица\nИ близлежащие \nТревога по БПЛА сохраняется \nМеры безопасности \nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_106696_Сосковский",
-    "channel": "vrv_radar",
-    "date": "2026-11-10T20:11:51+00:00",
-    "text": "Сосковский район\nКромской район\nСвердловский район\nОрловская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Сосковский",
-    "region": "Орловская область",
-    "lat": 52.742656,
-    "lon": 35.3808815
-  },
-  {
-    "id": "vrv_radar_106696_Кромской",
-    "channel": "vrv_radar",
-    "date": "2026-11-10T20:11:51+00:00",
-    "text": "Сосковский район\nКромской район\nСвердловский район\nОрловская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Кромской",
-    "region": "Орловская область",
-    "lat": 52.6353551,
-    "lon": 35.763628
-  },
-  {
-    "id": "vrv_radar_106696_Свердловский",
-    "channel": "vrv_radar",
-    "date": "2026-11-10T20:11:51+00:00",
-    "text": "Сосковский район\nКромской район\nСвердловский район\nОрловская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Свердловский",
-    "region": "Орловская область",
-    "lat": 52.6765295,
-    "lon": 36.2815763
-  },
-  {
-    "id": "kupolrussia_150392_Козельск",
-    "channel": "kupolrussia",
-    "date": "2026-11-10T20:12:12+00:00",
-    "text": "Козельск",
-    "type": "unknown",
-    "location_name": "Козельск",
-    "region": null,
-    "lat": 54.0356339,
-    "lon": 35.7926172
-  },
-  {
-    "id": "LPRalarm_260154_Козельск",
-    "channel": "LPRalarm",
-    "date": "2026-11-10T20:12:19+00:00",
-    "text": "Козельск",
-    "type": "unknown",
-    "location_name": "Козельск",
-    "region": null,
-    "lat": 54.0356339,
-    "lon": 35.7926172
-  },
-  {
     "id": "vrv_radar_106697_Хотынецкий",
     "channel": "vrv_radar",
     "date": "2026-11-10T20:12:44+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_107011",
+    "channel": "vrv_radar",
+    "date": "2026-11-12T00:19:46+00:00",
+    "text": "Ростовская область\nОпасность по МВШ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_107012",
+    "channel": "vrv_radar",
+    "date": "2026-11-12T00:21:20+00:00",
+    "text": "Владимирская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Владимирская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_107013",
+    "channel": "vrv_radar",
+    "date": "2026-11-12T00:21:36+00:00",
+    "text": "Ивановская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ивановская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_103273",
+    "channel": "radarrussiia",
+    "date": "2026-11-12T00:28:26+00:00",
+    "text": "Ростовская область\nОпасность по МВШ\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "alert",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_103274",
+    "channel": "radarrussiia",
+    "date": "2026-11-12T00:28:55+00:00",
+    "text": "Владимирская область\nИвановская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Владимирская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_107014",
+    "channel": "vrv_radar",
+    "date": "2026-11-12T00:29:04+00:00",
+    "text": "Напоминаем, что наша онлайн карта уже доступна.\n\nСейчас проект находится на этапе бета-тестирования, поэтому будем рады вашей обратной связи:\n👉 @vrv_report_bot\n\n🔗 Карта: radar-vrv.ru",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
