@@ -1,4 +1,80 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-12T06:06:36+00:00",
+        "last_updated": "2026-11-12T06:32:26+00:00",
+        "path_labels": [
+          "Брюховецкий (Краснодарский край)",
+          "Красноармейский (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.0670558,
+            45.8547229
+          ],
+          [
+            39.108521,
+            45.659084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-12T06:06:36+00:00",
+        "last_updated": "2026-11-12T06:32:26+00:00",
+        "path_labels": [
+          "Каневской (Краснодарский край)",
+          "Абинский (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.9820904,
+            45.059388
+          ],
+          [
+            38.288214,
+            44.8852141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-12T06:10:17+00:00",
+        "last_updated": "2026-11-12T06:32:26+00:00",
+        "path_labels": [
+          "Ачуево (Краснодарский край)",
+          "Темрюкский (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.775433,
+            45.710182
+          ],
+          [
+            37.3098799,
+            45.4964119
+          ]
+        ]
+      }
+    }
+  ]
 }
