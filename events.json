@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_106702_Хвастовичский",
-    "channel": "vrv_radar",
-    "date": "2026-11-10T20:16:06+00:00",
-    "text": "Хвастовичский район\nКалужская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Хвастовичский",
-    "region": "Калужская область",
-    "lat": 53.4981708,
-    "lon": 35.1820052
-  },
-  {
-    "id": "locatorru_94651_Ярцево",
-    "channel": "locatorru",
-    "date": "2026-11-10T20:17:15+00:00",
-    "text": "Ярцево, Сафоново, Дорогобуж, Вязьма и близлежащие, Смоленская область - опасность по БПЛА.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Ярцево",
-    "region": "Смоленская область",
-    "lat": 55.0662279,
-    "lon": 32.6883609
-  },
-  {
     "id": "locatorru_94651_Сафоново",
     "channel": "locatorru",
     "date": "2026-11-10T20:17:15+00:00",
@@ -21994,6 +21972,28 @@
     "date": "2026-11-12T01:51:04+00:00",
     "text": "Пуски БПЛА от Одесской области",
     "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_260596",
+    "channel": "LPRalarm",
+    "date": "2026-11-12T02:13:50+00:00",
+    "text": "Севастополь и близлежащие\nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_150797",
+    "channel": "kupolrussia",
+    "date": "2026-11-12T02:13:55+00:00",
+    "text": "Севастополь и близлежащие\nРакетная опасность",
+    "type": "missile",
     "location_name": null,
     "region": null,
     "lat": null,
