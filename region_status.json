@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Симферополь и близлежащие \nРеспублика Крым \nОпасность по БПЛА сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-12T10:56:10+00:00",
-    "expires_at": "2026-11-12T11:56:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -26,6 +16,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-12T11:43:50+00:00",
     "expires_at": "2026-11-12T12:43:50+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Зерноград Ростовская область тревога по БПЛА с северо-запада \n\nИ далее в направлении Тихорецк Краснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-12T11:52:07+00:00",
+    "expires_at": "2026-11-12T12:52:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Зерноград Ростовская область тревога по БПЛА с северо-запада \n\nИ далее в направлении Тихорецк Краснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-12T11:52:07+00:00",
+    "expires_at": "2026-11-12T12:52:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "shelling",
+    "text": "Белая Берёзка обстрел\nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-12T11:52:41+00:00",
+    "expires_at": "2026-11-12T12:52:41+00:00",
     "count": null,
     "count_approx": false
   }
