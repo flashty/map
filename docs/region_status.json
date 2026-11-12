@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Горловка и близлежащие на восток \nТревога по БПЛА и ФПВ повторно, ещё фиксации \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-12T12:24:09+00:00",
-    "expires_at": "2026-11-12T13:24:09+00:00",
+    "text": "Донецк и близлежащие \nОпасность по БПЛА \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-12T12:45:45+00:00",
+    "expires_at": "2026-11-12T13:45:45+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +46,26 @@
     "channel": "locatorru",
     "updated_at": "2026-11-12T12:26:47+00:00",
     "expires_at": "2026-11-12T13:26:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Валуйский район\nБелгородская область\nОпасность по БПЛА сохраняется",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-12T12:35:05+00:00",
+    "expires_at": "2026-11-12T13:35:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "missile",
+    "text": "ЛДНР, Запорожская область РФ авиационная ракетная бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-12T12:38:28+00:00",
+    "expires_at": "2026-11-12T13:38:28+00:00",
     "count": null,
     "count_approx": false
   }
