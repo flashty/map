@@ -12,10 +12,10 @@
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
-    "text": "Шебекино \nТревога по БПЛА сохраняется \nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-12T14:28:01+00:00",
-    "expires_at": "2026-11-12T15:28:01+00:00",
+    "text": "Волоконовка \nИ близлежащие \nТревога по БПЛА \nБелгородская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-12T14:45:27+00:00",
+    "expires_at": "2026-11-12T15:45:27+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,6 +26,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-12T13:57:30+00:00",
     "expires_at": "2026-11-12T14:57:30+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Воронежская область \nОпасность по БПЛА от Белгородской области",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-12T14:45:25+00:00",
+    "expires_at": "2026-11-12T15:45:25+00:00",
     "count": null,
     "count_approx": false
   }
