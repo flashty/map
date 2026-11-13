@@ -19,26 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "ГО Бронницы   \nМосковская область \nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-13T02:00:17+00:00",
-    "expires_at": "2026-11-13T03:00:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Киреевский район\nТульская область\nФиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-13T02:01:01+00:00",
-    "expires_at": "2026-11-13T03:01:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
@@ -46,6 +26,26 @@
     "channel": "vrv_radar",
     "updated_at": "2026-11-13T02:06:49+00:00",
     "expires_at": "2026-11-13T03:06:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградская область",
+    "type": "alert",
+    "text": "Волгоград \nВолгоградская область \nМеры безопасности",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-13T02:51:25+00:00",
+    "expires_at": "2026-11-13T03:51:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Приморск, Бердянск, Осипенко и близлежащие\nОпасность по БПЛА\nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-13T02:57:51+00:00",
+    "expires_at": "2026-11-13T03:57:51+00:00",
     "count": null,
     "count_approx": false
   }

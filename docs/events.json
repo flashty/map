@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_260795_Шебекинский",
-    "channel": "LPRalarm",
-    "date": "2026-11-12T09:53:30+00:00",
-    "text": "Шебекинский район\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "kupolrussia_150982_Шебекинский",
-    "channel": "kupolrussia",
-    "date": "2026-11-12T09:53:55+00:00",
-    "text": "Шебекинский район\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Шебекинский",
-    "region": null,
-    "lat": 50.438988,
-    "lon": 36.8728034
-  },
-  {
-    "id": "LPRalarm_260796",
-    "channel": "LPRalarm",
-    "date": "2026-11-12T09:54:49+00:00",
-    "text": "От Софиевки в тыл возможно пролет ракеты\nЗапорожская область РФ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_260797",
-    "channel": "LPRalarm",
-    "date": "2026-11-12T09:55:00+00:00",
-    "text": "Гвардейское с юго-запада тревога по БПЛА \n\nС моря ещё заходят БПЛА на Николаевку. Прошлый маршрут",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_150983",
-    "channel": "kupolrussia",
-    "date": "2026-11-12T09:55:04+00:00",
-    "text": "От Софиевки в тыл возможно пролет ракеты\nХерсонская область РФ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_260798",
     "channel": "LPRalarm",
     "date": "2026-11-12T09:55:07+00:00",
@@ -21996,6 +21941,61 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261207",
+    "channel": "LPRalarm",
+    "date": "2026-11-13T02:48:32+00:00",
+    "text": "Ростовская область\nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_151372",
+    "channel": "kupolrussia",
+    "date": "2026-11-13T02:48:39+00:00",
+    "text": "Ростовская область\nОтбой ракетной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_107631",
+    "channel": "vrv_radar",
+    "date": "2026-11-13T02:51:25+00:00",
+    "text": "Волгоград \nВолгоградская область \nМеры безопасности",
+    "type": "alert",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261208",
+    "channel": "LPRalarm",
+    "date": "2026-11-13T02:57:44+00:00",
+    "text": "Приморск, Бердянск, Осипенко и близлежащие\nОпасность по БПЛА\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_151373",
+    "channel": "kupolrussia",
+    "date": "2026-11-13T02:57:51+00:00",
+    "text": "Приморск, Бердянск, Осипенко и близлежащие\nОпасность по БПЛА\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
