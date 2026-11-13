@@ -29,23 +29,13 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Грайворон, \nБорисовка\nИ близлежащие \nДалее в тыл\nТревога по БПЛА\nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-13T18:57:46+00:00",
-    "expires_at": "2026-11-13T19:57:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Острогожский район, Воронежская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "text": "Россошанский район, Воронежская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-11-13T18:58:41+00:00",
-    "expires_at": "2026-11-13T19:58:41+00:00",
+    "updated_at": "2026-11-13T19:12:58+00:00",
+    "expires_at": "2026-11-13T20:12:58+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +56,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-13T18:59:23+00:00",
     "expires_at": "2026-11-13T19:59:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Ливенский район\nОрловская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-13T19:03:14+00:00",
+    "expires_at": "2026-11-13T20:03:14+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка, Гольмовский и близлежащие \nОпасность по БПЛА повторно \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-13T19:15:50+00:00",
+    "expires_at": "2026-11-13T20:15:50+00:00",
     "count": null,
     "count_approx": false
   }
