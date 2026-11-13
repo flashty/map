@@ -12,10 +12,10 @@
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
-    "text": "Клопны, Малоархангельск, Покровское, Ливны, Залегощь, Новосиль, Хомутово и близлежащие, Орловская область - внимание по пролётам БПЛА от Курской области и в сторону Тульской области. Возможно будет курс на Московскую область.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-13T20:40:53+00:00",
-    "expires_at": "2026-11-13T21:40:53+00:00",
+    "text": "Колпнянский район\nОрловская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-13T21:17:01+00:00",
+    "expires_at": "2026-11-13T22:17:01+00:00",
     "count": null,
     "count_approx": false
   },
@@ -29,23 +29,13 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Лисичанск и близлежащие \nТревога по БПЛА \nИ далее на юго-восток \nЛНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-13T20:20:22+00:00",
-    "expires_at": "2026-11-13T21:20:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "липецк": {
     "display_name": "Липецкая область",
     "type": "drone",
-    "text": "Задонский район\nЛипецкая область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "text": "Тербунский район\nЛипецкая область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
     "channel": "vrv_radar",
-    "updated_at": "2026-11-13T21:15:30+00:00",
-    "expires_at": "2026-11-13T22:15:30+00:00",
+    "updated_at": "2026-11-13T21:17:14+00:00",
+    "expires_at": "2026-11-13T22:17:14+00:00",
     "count": null,
     "count_approx": false
   },
@@ -62,10 +52,10 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "МО Истра\nМосковская область\nОпасность по БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-13T21:12:02+00:00",
-    "expires_at": "2026-11-13T22:12:02+00:00",
+    "text": "Московская область - опасность по БПЛА от Тульской области. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-13T21:16:48+00:00",
+    "expires_at": "2026-11-13T22:16:48+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +66,36 @@
     "channel": "vrv_radar",
     "updated_at": "2026-11-13T21:15:43+00:00",
     "expires_at": "2026-11-13T22:15:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Запорожская область РФ \nОпасность по БпЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-13T21:25:01+00:00",
+    "expires_at": "2026-11-13T22:25:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "missile",
+    "text": "Ростовская область\nРакетная опасность\n\nКарта опасностей - radar-vrv.ru",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-13T21:30:50+00:00",
+    "expires_at": "2026-11-13T22:30:50+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградская область",
+    "type": "missile",
+    "text": "Волгоградская область\nРакетная опасность\n\nКарта опасностей - radar-vrv.ru",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-13T21:31:01+00:00",
+    "expires_at": "2026-11-13T22:31:01+00:00",
     "count": null,
     "count_approx": false
   }
