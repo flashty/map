@@ -2,21 +2,11 @@
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Кантемировский район\nВоронежская область\nФиксация от 2 БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "text": "Россошанский район\nВоронежская область\nФиксация от 2 БПЛА\n\nКарта опасностей - radar-vrv.ru",
     "channel": "vrv_radar",
-    "updated_at": "2026-11-13T22:45:39+00:00",
-    "expires_at": "2026-11-13T23:45:39+00:00",
+    "updated_at": "2026-11-13T23:18:32+00:00",
+    "expires_at": "2026-11-14T00:18:32+00:00",
     "count": 2,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Ростовская область - опасность по БПЛА. \nНад ЛНР ещё фиксации БПЛА.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-13T22:16:16+00:00",
-    "expires_at": "2026-11-13T23:16:16+00:00",
-    "count": null,
     "count_approx": false
   },
   "краснодарск": {
@@ -36,6 +26,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-13T22:51:03+00:00",
     "expires_at": "2026-11-13T23:51:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "alert",
+    "text": "Калужская область\nВнимание по МВШ\n\nКарта опасностей - radar-vrv.ru",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-13T23:21:34+00:00",
+    "expires_at": "2026-11-14T00:21:34+00:00",
     "count": null,
     "count_approx": false
   }
