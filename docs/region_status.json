@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Клепиковский район\nКасимовский район\nРязанская область\nФиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-12T23:24:46+00:00",
-    "expires_at": "2026-11-13T00:24:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
@@ -79,23 +69,13 @@
     "count": null,
     "count_approx": false
   },
-  "ростовск": {
-    "display_name": "Ростовской области",
-    "type": "drone",
-    "text": "Северные районы\nРостовской области \nВолгоградская область\nТревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-12T23:17:59+00:00",
-    "expires_at": "2026-11-13T00:17:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Узловский район\nТульская область\nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-13T00:09:52+00:00",
-    "expires_at": "2026-11-13T01:09:52+00:00",
+    "text": "Киреевский район, Тульская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-13T00:30:20+00:00",
+    "expires_at": "2026-11-13T01:30:20+00:00",
     "count": null,
     "count_approx": false
   },
@@ -121,11 +101,11 @@
   },
   "волгоградск": {
     "display_name": "Волгоградская область",
-    "type": "drone",
-    "text": "Волгоград \nВолгоградская область \nФиксации БПЛА\nМеры безопасности",
+    "type": "alert",
+    "text": "Волгоград \nВолгоградская область \nМеры безопасности",
     "channel": "vrv_radar",
-    "updated_at": "2026-11-13T00:13:49+00:00",
-    "expires_at": "2026-11-13T01:13:49+00:00",
+    "updated_at": "2026-11-13T00:30:40+00:00",
+    "expires_at": "2026-11-13T01:30:40+00:00",
     "count": null,
     "count_approx": false
   },
