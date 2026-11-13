@@ -29,26 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Республика Адыгея\nКраснодарский край\nСаратовская область\nПензенская область\nОпасность по БПЛА\n\n✈️ Наш ТГ",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-11-13T21:55:15+00:00",
-    "expires_at": "2026-11-13T22:55:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ракетн": {
-    "display_name": "Республика\nРакетная",
-    "type": "missile",
-    "text": "Карачаево-Черкесская Республика\nКабардино-Балкарская Республика\nРеспублика Северная Осетия\nРеспублика Ингушетия\nРеспублика Дагестан\nЧеченская Республика\nРакетная опасность\n\n✈️ Наш ТГ",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-11-13T21:59:49+00:00",
-    "expires_at": "2026-11-13T22:59:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "кабардин": {
     "display_name": "Республика Кабардино-",
     "type": "drone",
@@ -86,6 +66,16 @@
     "channel": "locatorru",
     "updated_at": "2026-11-13T22:39:01+00:00",
     "expires_at": "2026-11-13T23:39:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарско": {
+    "display_name": "Краснодарского края",
+    "type": "drone",
+    "text": "Причерноморье Краснодарского края\nТревога по БпЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-13T22:51:03+00:00",
+    "expires_at": "2026-11-13T23:51:03+00:00",
     "count": null,
     "count_approx": false
   }
