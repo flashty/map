@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_107143_Верхнемамонский",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T17:39:57+00:00",
-    "text": "Верхнемамонский район\nВоронежская область\nФиксация группы БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Верхнемамонский",
-    "region": "Воронежская область",
-    "lat": 50.2295643,
-    "lon": 40.4459068
-  },
-  {
-    "id": "kupolrussia_151202",
-    "channel": "kupolrussia",
-    "date": "2026-11-12T17:40:15+00:00",
-    "text": "Саратовская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_107144_Хлевенский",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T17:40:17+00:00",
-    "text": "Хлевенский район\nЛипецкая область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Хлевенский",
-    "region": "Липецкая область",
-    "lat": 52.1662269,
-    "lon": 39.1137031
-  },
-  {
-    "id": "LPRalarm_261036",
-    "channel": "LPRalarm",
-    "date": "2026-11-12T17:40:21+00:00",
-    "text": "Саратовская область\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_94961_Михайловский",
-    "channel": "locatorru",
-    "date": "2026-11-12T17:40:25+00:00",
-    "text": "Михайловский район, Новоаннинский район, Волгоградская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Михайловский",
-    "region": "Волгоградская область",
-    "lat": 50.0670428,
-    "lon": 43.2061623
-  },
-  {
     "id": "locatorru_94961_Новоаннинский",
     "channel": "locatorru",
     "date": "2026-11-12T17:40:25+00:00",
@@ -21996,6 +21941,61 @@
     "type": "alert",
     "location_name": null,
     "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_103376",
+    "channel": "radarrussiia",
+    "date": "2026-11-13T23:35:50+00:00",
+    "text": "Калужская область\nВнимание по МВШ\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95169",
+    "channel": "locatorru",
+    "date": "2026-11-13T23:36:23+00:00",
+    "text": "14/11/2026 02:30 МСК.\n\nОпасность по БПЛА сохраняется:\n\n🔻Брянская область;\n🔻Калужская область;\n🔻Курская область;\n🔻Орловская область;\n🔻Белгородская область;\n🔻Воронежская область;\n🔻Пензенская область;\n🔻Липецкая область;\n🔻Ростовская область;\n🔻Краснодарский край. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261437",
+    "channel": "LPRalarm",
+    "date": "2026-11-13T23:43:03+00:00",
+    "text": "Новороссийск и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_151583",
+    "channel": "kupolrussia",
+    "date": "2026-11-13T23:43:07+00:00",
+    "text": "Новороссийск и близлежащие, тревога по БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95170",
+    "channel": "locatorru",
+    "date": "2026-11-13T23:44:29+00:00",
+    "text": "Пензенская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Пензенская область",
     "lat": null,
     "lon": null
   }
