@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_260794",
-    "channel": "LPRalarm",
-    "date": "2026-11-12T09:51:45+00:00",
-    "text": "Белая Берёзка обстрел \nБрянская область",
-    "type": "shelling",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_150981",
-    "channel": "kupolrussia",
-    "date": "2026-11-12T09:52:02+00:00",
-    "text": "Белая Берёзка обстрел \nБрянская область",
-    "type": "shelling",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_260795_Шебекинский",
     "channel": "LPRalarm",
     "date": "2026-11-12T09:53:30+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Волгоградская область",
     "lat": 48.319256,
     "lon": 44.464186
+  },
+  {
+    "id": "vrv_radar_107630_Волгоград",
+    "channel": "vrv_radar",
+    "date": "2026-11-13T02:32:38+00:00",
+    "text": "Волгоград\nВолгоградская область\nСбитие БПЛА",
+    "type": "all_clear",
+    "location_name": "Волгоград",
+    "region": "Волгоградская область",
+    "lat": 48.7081906,
+    "lon": 44.5153353
+  },
+  {
+    "id": "locatorru_95087",
+    "channel": "locatorru",
+    "date": "2026-11-13T02:35:09+00:00",
+    "text": "Пензенская область, Саратовская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
   }
 ]
