@@ -22,20 +22,70 @@
   "самарск": {
     "display_name": "Самарская область",
     "type": "drone",
-    "text": "Пестравский район\nСамарская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-13T05:11:44+00:00",
-    "expires_at": "2026-11-13T06:11:44+00:00",
+    "text": "Самарская область\nУльяновская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-13T05:36:55+00:00",
+    "expires_at": "2026-11-13T06:36:55+00:00",
     "count": null,
     "count_approx": false
   },
   "ульяновск": {
     "display_name": "Ульяновская область",
     "type": "drone",
-    "text": "Ульяновская область, Самарская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-13T05:06:36+00:00",
-    "expires_at": "2026-11-13T06:06:36+00:00",
+    "text": "Самарская область\nУльяновская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-13T05:36:55+00:00",
+    "expires_at": "2026-11-13T06:36:55+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Донецк и близлежащие \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-13T05:36:28+00:00",
+    "expires_at": "2026-11-13T06:36:28+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "МО Истра\nМосковская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-13T05:39:51+00:00",
+    "expires_at": "2026-11-13T06:39:51+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Курская область\nОпасность атаки БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-13T05:42:48+00:00",
+    "expires_at": "2026-11-13T06:42:48+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "владимирск": {
+    "display_name": "Владимирская область",
+    "type": "drone",
+    "text": "Владимирская область \nОпасность сохраняется\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-13T05:43:19+00:00",
+    "expires_at": "2026-11-13T06:43:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "оренбургск": {
+    "display_name": "Оренбургская область",
+    "type": "drone",
+    "text": "Оренбургская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-13T05:44:38+00:00",
+    "expires_at": "2026-11-13T06:44:38+00:00",
     "count": null,
     "count_approx": false
   }
