@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_260916",
-    "channel": "LPRalarm",
-    "date": "2026-11-12T14:44:28+00:00",
-    "text": "Белгородская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_260917_Корочанский",
-    "channel": "LPRalarm",
-    "date": "2026-11-12T14:44:37+00:00",
-    "text": "Короча \nКорочанский район \nИ близлежащие \nОпасность по БПЛА \nИ далее на север \nБелгородская область",
-    "type": "drone",
-    "location_name": "Корочанский",
-    "region": "Белгородская область",
-    "lat": 50.8026787,
-    "lon": 37.1914961
-  },
-  {
-    "id": "kupolrussia_151089",
-    "channel": "kupolrussia",
-    "date": "2026-11-12T14:44:49+00:00",
-    "text": "Белгородская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_151090_Корочанский",
-    "channel": "kupolrussia",
-    "date": "2026-11-12T14:44:58+00:00",
-    "text": "Короча \nКорочанский район \nИ близлежащие \nОпасность по БПЛА \nИ далее на север \nБелгородская область",
-    "type": "drone",
-    "location_name": "Корочанский",
-    "region": "Белгородская область",
-    "lat": 50.8026787,
-    "lon": 37.1914961
-  },
-  {
-    "id": "LPRalarm_260918",
-    "channel": "LPRalarm",
-    "date": "2026-11-12T14:45:25+00:00",
-    "text": "Воронежская область \nОпасность по БПЛА от Белгородской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_260919",
-    "channel": "LPRalarm",
-    "date": "2026-11-12T14:45:27+00:00",
-    "text": "Волоконовка \nИ близлежащие \nТревога по БПЛА \nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_260920",
     "channel": "LPRalarm",
     "date": "2026-11-12T14:47:27+00:00",
@@ -21996,6 +21930,72 @@
     "type": "missile",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261338",
+    "channel": "LPRalarm",
+    "date": "2026-11-13T17:35:37+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА сохраняется \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_151488",
+    "channel": "kupolrussia",
+    "date": "2026-11-13T17:35:52+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА сохраняется \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261339",
+    "channel": "LPRalarm",
+    "date": "2026-11-13T17:37:31+00:00",
+    "text": "Новоайдар и близлежащие \nТревога по БПЛА \nИ далее в направлении \nСчастье \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_151489",
+    "channel": "kupolrussia",
+    "date": "2026-11-13T17:37:47+00:00",
+    "text": "Новоайдар и близлежащие \nТревога по БПЛА \nИ далее в направлении \nСчастье \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261340",
+    "channel": "LPRalarm",
+    "date": "2026-11-13T17:45:14+00:00",
+    "text": "Стаханов \nАлчевск \nБрянка \nИ близлежащие \nТревога по БПЛА \nЛНР \nИ далее возможно в направлении \nЛуганск",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_151490",
+    "channel": "kupolrussia",
+    "date": "2026-11-13T17:45:35+00:00",
+    "text": "Стаханов \nАлчевск \nБрянка \nИ близлежащие \nТревога по БПЛА \nЛНР \nИ далее возможно в направлении \nЛуганск",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
