@@ -1,14 +1,4 @@
 {
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Выгоничский район \nТревога по БПЛА \nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-13T00:33:10+00:00",
-    "expires_at": "2026-11-13T01:33:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
@@ -76,6 +66,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-11-13T01:09:55+00:00",
     "expires_at": "2026-11-13T02:09:55+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградская область",
+    "type": "drone",
+    "text": "Светлоярский район\nВолгоградская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-13T01:44:41+00:00",
+    "expires_at": "2026-11-13T02:44:41+00:00",
     "count": null,
     "count_approx": false
   }
