@@ -1,93 +1,5 @@
 [
   {
-    "id": "vrv_radar_107079",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T11:44:31+00:00",
-    "text": "Тамбовская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_107080",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T11:44:36+00:00",
-    "text": "Орловская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_260876_Нижнегорский",
-    "channel": "LPRalarm",
-    "date": "2026-11-12T11:51:14+00:00",
-    "text": "Нижнегорский район Мускатное и далее в направлении Красногвадейское фиксация БПЛА",
-    "type": "drone",
-    "location_name": "Нижнегорский",
-    "region": null,
-    "lat": 53.3562241,
-    "lon": 51.1593807
-  },
-  {
-    "id": "kupolrussia_151055_Нижнегорский",
-    "channel": "kupolrussia",
-    "date": "2026-11-12T11:51:35+00:00",
-    "text": "Нижнегорский район Мускатное и далее в направлении Красногвадейское фиксация БПЛА",
-    "type": "drone",
-    "location_name": "Нижнегорский",
-    "region": null,
-    "lat": 53.3562241,
-    "lon": 51.1593807
-  },
-  {
-    "id": "LPRalarm_260877",
-    "channel": "LPRalarm",
-    "date": "2026-11-12T11:51:58+00:00",
-    "text": "Зерноград Ростовская область тревога по БПЛА с северо-запада \n\nИ далее в направлении Тихорецк Краснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_151056",
-    "channel": "kupolrussia",
-    "date": "2026-11-12T11:52:07+00:00",
-    "text": "Зерноград Ростовская область тревога по БПЛА с северо-запада \n\nИ далее в направлении Тихорецк Краснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_260878_Центральные",
-    "channel": "LPRalarm",
-    "date": "2026-11-12T11:52:19+00:00",
-    "text": "Центральные районы Крыма опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Центральные",
-    "region": null,
-    "lat": 54.9392029,
-    "lon": 43.3283689
-  },
-  {
-    "id": "kupolrussia_151057_Центральные",
-    "channel": "kupolrussia",
-    "date": "2026-11-12T11:52:37+00:00",
-    "text": "Центральные районы Крыма\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": "Центральные",
-    "region": null,
-    "lat": 54.9392029,
-    "lon": 43.3283689
-  },
-  {
     "id": "kupolrussia_151057_Крыма",
     "channel": "kupolrussia",
     "date": "2026-11-12T11:52:37+00:00",
@@ -21996,6 +21908,94 @@
     "type": "drone",
     "location_name": null,
     "region": "Оренбургская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261267",
+    "channel": "LPRalarm",
+    "date": "2026-11-13T07:40:27+00:00",
+    "text": "Южнее Алчевск ЛНР на восток фиксации БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_151430",
+    "channel": "kupolrussia",
+    "date": "2026-11-13T07:40:40+00:00",
+    "text": "Южнее Алчевск ЛНР на восток фиксации БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_151431",
+    "channel": "kupolrussia",
+    "date": "2026-11-13T07:42:08+00:00",
+    "text": "Волгоградская область \nОтбой опасности атаки бпла\nок ОТБОЙ\nль ОПАСНОСТИ ПО БПЛА\n2.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261268",
+    "channel": "LPRalarm",
+    "date": "2026-11-13T07:42:12+00:00",
+    "text": "Волгоградская область \nОтбой опасности атаки бпла\nок ОТБОЙ\nль ОПАСНОСТИ ПО БПЛА\n2.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261269",
+    "channel": "LPRalarm",
+    "date": "2026-11-13T07:43:01+00:00",
+    "text": "Лутугино и близлежащие \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_151432",
+    "channel": "kupolrussia",
+    "date": "2026-11-13T07:43:20+00:00",
+    "text": "Лутугино и близлежащие \nЛНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_151433",
+    "channel": "kupolrussia",
+    "date": "2026-11-13T07:44:46+00:00",
+    "text": "Республика Башкортостан\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261270",
+    "channel": "LPRalarm",
+    "date": "2026-11-13T07:44:48+00:00",
+    "text": "Республика Башкортостан\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Башкортостан",
     "lat": null,
     "lon": null
   }
