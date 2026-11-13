@@ -22,20 +22,10 @@
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "Московская область - опасность по БПЛА от Тульской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-13T01:28:51+00:00",
-    "expires_at": "2026-11-13T02:28:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужской области",
-    "type": "drone",
-    "text": "Стык Брянской и Орловской области в направлении Калужской области\nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-13T00:56:44+00:00",
-    "expires_at": "2026-11-13T01:56:44+00:00",
+    "text": "ГО Бронницы   \nМосковская область \nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-13T02:00:17+00:00",
+    "expires_at": "2026-11-13T03:00:17+00:00",
     "count": null,
     "count_approx": false
   },
@@ -49,33 +39,13 @@
     "count": null,
     "count_approx": false
   },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязанская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-13T01:00:47+00:00",
-    "expires_at": "2026-11-13T02:00:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Узловский район\nТульская область\nПродолжается работа ПВО по БПЛА",
+    "text": "Киреевский район\nТульская область\nФиксации БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-11-13T01:09:55+00:00",
-    "expires_at": "2026-11-13T02:09:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "волгоградск": {
-    "display_name": "Волгоградская область",
-    "type": "drone",
-    "text": "Светлоярский район\nВолгоградская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-13T01:44:41+00:00",
-    "expires_at": "2026-11-13T02:44:41+00:00",
+    "updated_at": "2026-11-13T02:01:01+00:00",
+    "expires_at": "2026-11-13T03:01:01+00:00",
     "count": null,
     "count_approx": false
   }
