@@ -10,42 +10,32 @@
     "count_approx": false
   },
   "орловск": {
-    "display_name": "Орловской области",
+    "display_name": "Орловская область",
     "type": "drone",
-    "text": "Стык Брянской и Орловской области в направлении Калужской области\nОпасность по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-13T00:56:44+00:00",
-    "expires_at": "2026-11-13T01:56:44+00:00",
+    "text": "Глазуновский район\nОрловская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-13T01:05:54+00:00",
+    "expires_at": "2026-11-13T02:05:54+00:00",
     "count": null,
     "count_approx": false
   },
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Воронежская область\nОпасность по БПЛА сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-13T00:59:23+00:00",
-    "expires_at": "2026-11-13T01:59:23+00:00",
+    "text": "Подгоренский район\nБобровский район\nВоронежская область\nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-13T01:03:23+00:00",
+    "expires_at": "2026-11-13T02:03:23+00:00",
     "count": null,
     "count_approx": false
   },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "ГО Павловский Посад\nМосковская область\nФиксация БПЛА",
+    "text": "ГО Домодедово\nМосковская область\nРабота ПВО по БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-11-13T00:04:17+00:00",
-    "expires_at": "2026-11-13T01:04:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "октябрьск": {
-    "display_name": "Октябрьский область",
-    "type": "drone",
-    "text": "Октябрьский, Волгоградская область - продолжаются фиксации БПЛА в сторону Волгограда.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-13T00:09:28+00:00",
-    "expires_at": "2026-11-13T01:09:28+00:00",
+    "updated_at": "2026-11-13T01:04:36+00:00",
+    "expires_at": "2026-11-13T02:04:36+00:00",
     "count": null,
     "count_approx": false
   },
@@ -59,26 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "татарст": {
-    "display_name": "Республика Татарстан",
-    "type": "drone",
-    "text": "Республика Татарстан - опасность БПЛА.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-11-13T00:15:12+00:00",
-    "expires_at": "2026-11-13T01:15:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Тула\nТульская область\nПродолжается работа ПВО по БПЛА\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-13T00:50:26+00:00",
-    "expires_at": "2026-11-13T01:50:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
@@ -89,23 +59,13 @@
     "count": null,
     "count_approx": false
   },
-  "волгоградск": {
-    "display_name": "Волгоградская область",
-    "type": "drone",
-    "text": "Светлоярский район\nВолгоградская область\nЕще фиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-13T00:58:01+00:00",
-    "expires_at": "2026-11-13T01:58:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тамбовск": {
     "display_name": "Тамбовская область",
     "type": "drone",
-    "text": "Тамбовская область\nЕдиничные фиксации БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-13T00:58:43+00:00",
-    "expires_at": "2026-11-13T01:58:43+00:00",
+    "text": "Уваровский район\nТамбовская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-13T01:11:52+00:00",
+    "expires_at": "2026-11-13T02:11:52+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,6 +76,16 @@
     "channel": "locatorru",
     "updated_at": "2026-11-13T01:00:47+00:00",
     "expires_at": "2026-11-13T02:00:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Узловский район\nТульская область\nПродолжается работа ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-13T01:09:55+00:00",
+    "expires_at": "2026-11-13T02:09:55+00:00",
     "count": null,
     "count_approx": false
   }
