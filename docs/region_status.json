@@ -52,10 +52,10 @@
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
-    "text": "Воронежская область \nРостовская область\nБелгородская область\nОпасность по БПЛА \n\n✈️ Наш ТГ",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-11-13T18:30:14+00:00",
-    "expires_at": "2026-11-13T19:30:14+00:00",
+    "text": "Опасность по бпла в Старооскольском районе\nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-13T18:44:39+00:00",
+    "expires_at": "2026-11-13T19:44:39+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +66,26 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-11-13T18:30:14+00:00",
     "expires_at": "2026-11-13T19:30:14+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Строгоновка\nХерсонская область РФ\nТревога по БПЛА \nИ далее на юг\nВ направлении Республика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-13T18:45:18+00:00",
+    "expires_at": "2026-11-13T19:45:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Строгоновка\nХерсонская область РФ\nТревога по БПЛА \nИ далее на юг\nВ направлении Республика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-13T18:45:18+00:00",
+    "expires_at": "2026-11-13T19:45:18+00:00",
     "count": null,
     "count_approx": false
   }
