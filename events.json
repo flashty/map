@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_107185_Калуга",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T17:59:33+00:00",
-    "text": "Калуга\nКалужская область\nПродолжается работа ПВО по БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Калуга",
-    "region": "Калужская область",
-    "lat": 54.5101087,
-    "lon": 36.2598115
-  },
-  {
-    "id": "kupolrussia_151215",
-    "channel": "kupolrussia",
-    "date": "2026-11-12T18:01:24+00:00",
-    "text": "Московская область \nТверская область \nСрочно принять меры безопасности \nМножественные фиксации БПЛА в направлении",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_261050",
-    "channel": "LPRalarm",
-    "date": "2026-11-12T18:01:26+00:00",
-    "text": "Московская область \nТверская область \nСрочно принять меры безопасности \nМножественные фиксации БПЛА в направлении",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_107186_Калуга",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T18:01:30+00:00",
-    "text": "Калуга\nКалужская область\nСбитие БПЛА\nМеры безопасности",
-    "type": "all_clear",
-    "location_name": "Калуга",
-    "region": "Калужская область",
-    "lat": 54.5101087,
-    "lon": 36.2598115
-  },
-  {
     "id": "locatorru_94969",
     "channel": "locatorru",
     "date": "2026-11-12T18:01:49+00:00",
@@ -21996,6 +21952,50 @@
     "type": "aviation",
     "location_name": null,
     "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95171",
+    "channel": "locatorru",
+    "date": "2026-11-14T03:09:45+00:00",
+    "text": "Воронежская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95172",
+    "channel": "locatorru",
+    "date": "2026-11-14T03:10:46+00:00",
+    "text": "Ростовская область, Липецкая область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95173",
+    "channel": "locatorru",
+    "date": "2026-11-14T03:13:18+00:00",
+    "text": "Краснодарский край - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_107766",
+    "channel": "vrv_radar",
+    "date": "2026-11-14T03:13:33+00:00",
+    "text": "Краснодарский край\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
