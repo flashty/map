@@ -1,49 +1,5 @@
 [
   {
-    "id": "locatorru_94999_Журавка",
-    "channel": "locatorru",
-    "date": "2026-11-12T19:15:44+00:00",
-    "text": "Журавка, Кантемировский район, Воронежская область - массовый пролёт БПЛА на Богучар и район.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Журавка",
-    "region": "Воронежская область",
-    "lat": 50.054405,
-    "lon": 40.593887
-  },
-  {
-    "id": "LPRalarm_261110",
-    "channel": "LPRalarm",
-    "date": "2026-11-12T19:15:56+00:00",
-    "text": "Феодосия и близлежащие с северо-запада тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_107291_Богородицкий",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T19:16:00+00:00",
-    "text": "Богородицкий район\nЩёкинский район\nКиреевский район\nОдоевский район\nТульская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Богородицкий",
-    "region": "Тульская область",
-    "lat": 53.7757969,
-    "lon": 38.1447572
-  },
-  {
-    "id": "vrv_radar_107291_Щёкинский",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T19:16:00+00:00",
-    "text": "Богородицкий район\nЩёкинский район\nКиреевский район\nОдоевский район\nТульская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Щёкинский",
-    "region": "Тульская область",
-    "lat": 53.8906918,
-    "lon": 37.3865251
-  },
-  {
     "id": "vrv_radar_107291_Киреевский",
     "channel": "vrv_radar",
     "date": "2026-11-12T19:16:00+00:00",
@@ -21996,6 +21952,50 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261578",
+    "channel": "LPRalarm",
+    "date": "2026-11-14T12:32:11+00:00",
+    "text": "Запорожская область РФ \nЛДНР \nОтбой режима внимание по авиационной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_151715",
+    "channel": "kupolrussia",
+    "date": "2026-11-14T12:32:18+00:00",
+    "text": "Запорожская область РФ \nЛДНР \nОтбой режима внимание по авиационной опасности",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261579",
+    "channel": "LPRalarm",
+    "date": "2026-11-14T12:36:45+00:00",
+    "text": "Семейкино и близлежащие \nТревога по БПЛА\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_151716",
+    "channel": "kupolrussia",
+    "date": "2026-11-14T12:36:49+00:00",
+    "text": "Семейкино и близлежащие \nТревога по БПЛА\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
