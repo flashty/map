@@ -1,82 +1,5 @@
 [
   {
-    "id": "locatorru_94962_Волгоград",
-    "channel": "locatorru",
-    "date": "2026-11-12T17:40:57+00:00",
-    "text": "г.Волгоград, НПЗ Волгоград - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Волгоград",
-    "region": null,
-    "lat": 48.7081906,
-    "lon": 44.5153353
-  },
-  {
-    "id": "LPRalarm_261037",
-    "channel": "LPRalarm",
-    "date": "2026-11-12T17:41:18+00:00",
-    "text": "Донецк, Старобешево, Моспино и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_107147_Нижнедевицкий",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T17:41:24+00:00",
-    "text": "Нижнедевицкий район\nВоронежская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Нижнедевицкий",
-    "region": "Воронежская область",
-    "lat": 51.4663379,
-    "lon": 38.4601162
-  },
-  {
-    "id": "vrv_radar_107148_Панинский",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T17:41:38+00:00",
-    "text": "Панинский район\nВоронежская область\nФиксация от 3 БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Панинский",
-    "region": "Воронежская область",
-    "lat": 51.5588332,
-    "lon": 40.0187968
-  },
-  {
-    "id": "kupolrussia_151204",
-    "channel": "kupolrussia",
-    "date": "2026-11-12T17:41:38+00:00",
-    "text": "Донецк, Старобешево, Моспино и близлежащие \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_151203",
-    "channel": "kupolrussia",
-    "date": "2026-11-12T17:41:38+00:00",
-    "text": "Московская область\nВНИМАНИЕ!!!\n—— ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_261038",
-    "channel": "LPRalarm",
-    "date": "2026-11-12T17:41:43+00:00",
-    "text": "Макеевка, Харцызск и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_261039",
     "channel": "LPRalarm",
     "date": "2026-11-12T17:41:44+00:00",
@@ -21998,5 +21921,82 @@
     "region": "Калужская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_261439",
+    "channel": "LPRalarm",
+    "date": "2026-11-14T00:02:07+00:00",
+    "text": "Белгородская область, тревога по реактивным БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261438_Ровеньки",
+    "channel": "LPRalarm",
+    "date": "2026-11-14T00:02:07+00:00",
+    "text": "Ровеньки, Айдар и далее на север\nРеактивная цель\nБелгородская область",
+    "type": "unknown",
+    "location_name": "Ровеньки",
+    "region": "Белгородская область",
+    "lat": 49.91473,
+    "lon": 38.892006
+  },
+  {
+    "id": "kupolrussia_151584",
+    "channel": "kupolrussia",
+    "date": "2026-11-14T00:02:15+00:00",
+    "text": "Белгородская область, тревога по реактивным БпЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261440",
+    "channel": "LPRalarm",
+    "date": "2026-11-14T00:06:09+00:00",
+    "text": "Новороссийск\nТревога по БпЛА сохраняется!",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_151585",
+    "channel": "kupolrussia",
+    "date": "2026-11-14T00:06:13+00:00",
+    "text": "Новороссийск\nТревога по БпЛА сохраняется!",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261441_Новороссийск",
+    "channel": "LPRalarm",
+    "date": "2026-11-14T00:08:34+00:00",
+    "text": "Новороссийск, меры предосторожности, срочно!!!",
+    "type": "unknown",
+    "location_name": "Новороссийск",
+    "region": null,
+    "lat": 44.7239578,
+    "lon": 37.7690711
+  },
+  {
+    "id": "kupolrussia_151586_Новороссийск",
+    "channel": "kupolrussia",
+    "date": "2026-11-14T00:08:38+00:00",
+    "text": "Новороссийск, меры предосторожности, срочно!!!",
+    "type": "unknown",
+    "location_name": "Новороссийск",
+    "region": null,
+    "lat": 44.7239578,
+    "lon": 37.7690711
   }
 ]
