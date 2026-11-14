@@ -12,20 +12,20 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Опасность по БПЛА\nВ границах муниципальных округов: Станично-Луганский, Новоайдарский, Старобельский, Сватовский.\nЛНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-14T08:20:22+00:00",
-    "expires_at": "2026-11-14T09:20:22+00:00",
+    "text": "Новосемейкино и близлежащие \nЛНР \nОпасность по БПЛА Хорнет",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-14T09:29:04+00:00",
+    "expires_at": "2026-11-14T10:29:04+00:00",
     "count": null,
     "count_approx": false
   },
   "калужск": {
     "display_name": "Калужская область",
     "type": "alert",
-    "text": "Калужская область\nОпасность по МВШ\n\nКарта опасностей - radar-vrv.ru",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-14T09:16:00+00:00",
-    "expires_at": "2026-11-14T10:16:00+00:00",
+    "text": "Калужская область\nОпасность по МВШ\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-14T09:16:18+00:00",
+    "expires_at": "2026-11-14T10:16:18+00:00",
     "count": null,
     "count_approx": false
   },
@@ -61,11 +61,11 @@
   },
   "московск": {
     "display_name": "Московская область",
-    "type": "drone",
-    "text": "Московская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "alert",
+    "text": "Московская область\nОпасность по МВШ\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
     "channel": "radarrussiia",
-    "updated_at": "2026-11-14T09:14:16+00:00",
-    "expires_at": "2026-11-14T10:14:16+00:00",
+    "updated_at": "2026-11-14T09:16:55+00:00",
+    "expires_at": "2026-11-14T10:16:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +86,46 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-14T08:54:03+00:00",
     "expires_at": "2026-11-14T09:54:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "alert",
+    "text": "Рязанская область\nТульская область\nОпасность по МВШ\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-14T09:18:33+00:00",
+    "expires_at": "2026-11-14T10:18:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "alert",
+    "text": "Рязанская область\nТульская область\nОпасность по МВШ\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-14T09:18:33+00:00",
+    "expires_at": "2026-11-14T10:18:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Дорожное направление \nПриазовское - Приморск - Осипенко - Червоное поле \n Высокая активность БПЛА противника\nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-14T09:22:06+00:00",
+    "expires_at": "2026-11-14T10:22:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Чаплынка \nНовое и близлежащие \nХерсонская область РФ \nОпасность по БПЛА Хорнет",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-14T09:24:49+00:00",
+    "expires_at": "2026-11-14T10:24:49+00:00",
     "count": null,
     "count_approx": false
   }
