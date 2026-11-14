@@ -19,63 +19,23 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Воронежская область\nБелгородская область\nСаратовская область\nОпасность по БПЛА\n\n✈️ Наш ТГ",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-11-14T16:02:31+00:00",
-    "expires_at": "2026-11-14T17:02:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "саратовск": {
-    "display_name": "Саратовская области",
-    "type": "drone",
-    "text": "Пензенская \nСаратовская области\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-14T16:03:53+00:00",
-    "expires_at": "2026-11-14T17:03:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Смоленская область\nПензенская область\nОпасность по БПЛА\n\n✈️ Наш ТГ",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-11-14T16:11:01+00:00",
-    "expires_at": "2026-11-14T17:11:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
-    "text": "Скадовск и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "text": "Херсонская область РФ \nТревога по БПЛА от р. Днепр",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-14T16:33:54+00:00",
-    "expires_at": "2026-11-14T17:33:54+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "пензенск": {
-    "display_name": "Пензенская область",
-    "type": "drone",
-    "text": "Смоленская область\nПензенская область\nОпасность по БПЛА\n\n✈️ Наш ТГ",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-11-14T16:11:01+00:00",
-    "expires_at": "2026-11-14T17:11:01+00:00",
+    "updated_at": "2026-11-14T17:06:26+00:00",
+    "expires_at": "2026-11-14T18:06:26+00:00",
     "count": null,
     "count_approx": false
   },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Трубчевский район \nНавлинский район \nКарачевский район \nВнимание по БПЛА\n\nБрянская область",
+    "text": "Суземка\nОт ГГ в тыл\nТревога по реактивным БПЛА\nБрянская область",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-14T16:20:29+00:00",
-    "expires_at": "2026-11-14T17:20:29+00:00",
+    "updated_at": "2026-11-14T17:07:59+00:00",
+    "expires_at": "2026-11-14T18:07:59+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +66,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-14T16:38:03+00:00",
     "expires_at": "2026-11-14T17:38:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская области",
+    "type": "drone",
+    "text": "Калужская, Орловская области\nТревога по реактивным БПЛА от Брянской области",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-14T17:15:19+00:00",
+    "expires_at": "2026-11-14T18:15:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская области",
+    "type": "drone",
+    "text": "Калужская, Орловская области\nТревога по реактивным БПЛА от Брянской области",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-14T17:15:19+00:00",
+    "expires_at": "2026-11-14T18:15:19+00:00",
     "count": null,
     "count_approx": false
   }
