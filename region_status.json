@@ -2,20 +2,10 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Новосемейкино и близлежащие \nОпасность по БПЛА Хорнет \nПовторно \nЛНР",
+    "text": "Брянка и близлежащие \nОпасность по БПЛА \nЛНР",
     "channel": "LPRalarm",
-    "updated_at": "2026-11-14T10:08:45+00:00",
-    "expires_at": "2026-11-14T11:08:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "alert",
-    "text": "Калужская область\nОпасность по МВШ\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-14T09:16:18+00:00",
-    "expires_at": "2026-11-14T10:16:18+00:00",
+    "updated_at": "2026-11-14T10:30:50+00:00",
+    "expires_at": "2026-11-14T11:30:50+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,16 +16,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-14T09:42:15+00:00",
     "expires_at": "2026-11-14T10:42:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "alert",
-    "text": "Московская область\nОпасность по МВШ\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-14T09:16:55+00:00",
-    "expires_at": "2026-11-14T10:16:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,10 +32,10 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Осипенко и близлежащие \nЗапорожская область РФ \nОпасность по БПЛА Хорнет",
+    "text": "Осипенко и близлежащие \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-14T09:31:16+00:00",
-    "expires_at": "2026-11-14T10:31:16+00:00",
+    "updated_at": "2026-11-14T10:19:07+00:00",
+    "expires_at": "2026-11-14T11:19:07+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +56,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-14T10:13:31+00:00",
     "expires_at": "2026-11-14T11:13:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородская область",
+    "type": "drone",
+    "text": "Нижегородская область \nВнимание по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-14T10:17:27+00:00",
+    "expires_at": "2026-11-14T11:17:27+00:00",
     "count": null,
     "count_approx": false
   }
