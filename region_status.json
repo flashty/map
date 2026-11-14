@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Трасса Приазовское - Бердянск от Владимировки Запорожская область РФ \nТревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-14T14:37:20+00:00",
-    "expires_at": "2026-11-14T15:37:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -46,6 +36,16 @@
     "channel": "locatorru",
     "updated_at": "2026-11-14T15:08:01+00:00",
     "expires_at": "2026-11-14T16:08:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "саратовск": {
+    "display_name": "Саратовская область",
+    "type": "drone",
+    "text": "Саратовская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-14T15:41:57+00:00",
+    "expires_at": "2026-11-14T16:41:57+00:00",
     "count": null,
     "count_approx": false
   }
