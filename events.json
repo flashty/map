@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_107305_Ртищевский",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T19:29:05+00:00",
-    "text": "Ртищевский район\nСаратовская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Ртищевский",
-    "region": "Саратовская область",
-    "lat": 52.328617,
-    "lon": 43.886162
-  },
-  {
-    "id": "locatorru_95003",
-    "channel": "locatorru",
-    "date": "2026-11-12T19:29:07+00:00",
-    "text": "Новая волна массового пролёта пошла над Брянской областью в сторону Смоленской и Калужской областей.\n\n📡Локатор России - @locatorru",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Брянской область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_107306_Сердобский",
     "channel": "vrv_radar",
     "date": "2026-11-12T19:29:13+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Воронежская область",
     "lat": 50.8584609,
     "lon": 39.0772421
+  },
+  {
+    "id": "LPRalarm_261595",
+    "channel": "LPRalarm",
+    "date": "2026-11-14T14:05:29+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА повторно \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_151733",
+    "channel": "kupolrussia",
+    "date": "2026-11-14T14:05:33+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА повторно \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
   }
 ]
