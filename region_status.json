@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Донецк и близлежащие, тревога по БПЛА\nДНР",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ повторно \nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-14T16:24:33+00:00",
-    "expires_at": "2026-11-14T17:24:33+00:00",
+    "updated_at": "2026-11-14T16:52:15+00:00",
+    "expires_at": "2026-11-14T17:52:15+00:00",
     "count": null,
     "count_approx": false
   },
@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "ЛНР. Угроза атаки БПЛА.\nБеловодский, Меловский, Марковский, Белокуракинский, Новопсковский и Троицкий",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-14T15:46:26+00:00",
-    "expires_at": "2026-11-14T16:46:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "саратовск": {
     "display_name": "Саратовская области",
     "type": "drone",
@@ -56,16 +46,6 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-11-14T16:11:01+00:00",
     "expires_at": "2026-11-14T17:11:01+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тамбовск": {
-    "display_name": "Тамбовская область",
-    "type": "drone",
-    "text": "Тамбовская область \nСаратовская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-14T15:49:44+00:00",
-    "expires_at": "2026-11-14T16:49:44+00:00",
     "count": null,
     "count_approx": false
   },
