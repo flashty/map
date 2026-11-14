@@ -72,10 +72,10 @@
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
-    "text": "Чаплынка и близлежащие тревога по БПЛА \nХерсонская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-14T16:25:50+00:00",
-    "expires_at": "2026-11-14T17:25:50+00:00",
+    "text": "Скадовск и близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-14T16:33:54+00:00",
+    "expires_at": "2026-11-14T17:33:54+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,6 +116,16 @@
     "channel": "locatorru",
     "updated_at": "2026-11-14T16:21:03+00:00",
     "expires_at": "2026-11-14T17:21:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Армянск\nКрасноперекопск и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-14T16:38:03+00:00",
+    "expires_at": "2026-11-14T17:38:03+00:00",
     "count": null,
     "count_approx": false
   }
