@@ -1,93 +1,5 @@
 [
   {
-    "id": "vrv_radar_107238_Сампурский",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T18:41:47+00:00",
-    "text": "Ржаксинский район\nСампурский район\nЗнаменский район\nТамбовский район\nТамбовская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Сампурский",
-    "region": "Тамбовская область",
-    "lat": 52.2485567,
-    "lon": 41.6544668
-  },
-  {
-    "id": "vrv_radar_107238_Знаменский",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T18:41:47+00:00",
-    "text": "Ржаксинский район\nСампурский район\nЗнаменский район\nТамбовский район\nТамбовская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Знаменский",
-    "region": "Тамбовская область",
-    "lat": 52.379734,
-    "lon": 41.2861904
-  },
-  {
-    "id": "vrv_radar_107238_Тамбовский",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T18:41:47+00:00",
-    "text": "Ржаксинский район\nСампурский район\nЗнаменский район\nТамбовский район\nТамбовская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Тамбовский",
-    "region": "Тамбовская область",
-    "lat": 52.1628557,
-    "lon": 41.8324077
-  },
-  {
-    "id": "vrv_radar_107239",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T18:43:07+00:00",
-    "text": "Тверская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тверская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_94984",
-    "channel": "locatorru",
-    "date": "2026-11-12T18:43:20+00:00",
-    "text": "Миллеровский район, Чертковский район, Тарасовский район, Верхнедонской район, Кашарский район, Шолоховский район, Боковский район, Милютинский район, Ростовская область - опасность по БПЛА сохраняется и в направлении северной части Волгоградской области\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_103323",
-    "channel": "radarrussiia",
-    "date": "2026-11-12T18:43:26+00:00",
-    "text": "Тверская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тверская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_261076",
-    "channel": "LPRalarm",
-    "date": "2026-11-12T18:43:59+00:00",
-    "text": "Счастье \nИ близлежащие \nТревога по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_151242",
-    "channel": "kupolrussia",
-    "date": "2026-11-12T18:44:05+00:00",
-    "text": "Счастье \nИ близлежащие \nТревога по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_261077",
     "channel": "LPRalarm",
     "date": "2026-11-12T18:44:37+00:00",
@@ -21998,5 +21910,93 @@
     "region": null,
     "lat": 67.560455,
     "lon": 33.639561
+  },
+  {
+    "id": "LPRalarm_261503",
+    "channel": "LPRalarm",
+    "date": "2026-11-14T08:18:49+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и возможным ФПВ \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_151639",
+    "channel": "kupolrussia",
+    "date": "2026-11-14T08:19:38+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и возможным ФПВ \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261504",
+    "channel": "LPRalarm",
+    "date": "2026-11-14T08:20:09+00:00",
+    "text": "Опасность по БПЛА\nВ границах муниципальных округов: Станично-Луганский, Новоайдарский, Старобельский, Сватовский.\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_151640",
+    "channel": "kupolrussia",
+    "date": "2026-11-14T08:20:22+00:00",
+    "text": "Опасность по БПЛА\nВ границах муниципальных округов: Станично-Луганский, Новоайдарский, Старобельский, Сватовский.\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261505",
+    "channel": "LPRalarm",
+    "date": "2026-11-14T08:22:51+00:00",
+    "text": "Валуйки - Пятницкое Опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_151641",
+    "channel": "kupolrussia",
+    "date": "2026-11-14T08:23:08+00:00",
+    "text": "Валуйки - Пятницкое Опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261506_Бпла",
+    "channel": "LPRalarm",
+    "date": "2026-11-14T08:23:51+00:00",
+    "text": "А/дорога Валуйки - Принцевка\nТревога по Бпла",
+    "type": "drone",
+    "location_name": "Бпла",
+    "region": null,
+    "lat": 57.6328742,
+    "lon": 39.8309382
+  },
+  {
+    "id": "kupolrussia_151642_Бпла",
+    "channel": "kupolrussia",
+    "date": "2026-11-14T08:24:07+00:00",
+    "text": "А/дорога Валуйки - Принцевка\nТревога по Бпла",
+    "type": "drone",
+    "location_name": "Бпла",
+    "region": null,
+    "lat": 57.6328742,
+    "lon": 39.8309382
   }
 ]
