@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_107254_Киреевский",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T18:53:55+00:00",
-    "text": "Киреевский район\nТульская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Киреевский",
-    "region": "Тульская область",
-    "lat": 54.0220762,
-    "lon": 37.8625474
-  },
-  {
-    "id": "vrv_radar_107255_Богородицкий",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T18:54:11+00:00",
-    "text": "Богородицкий район\nТульская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Богородицкий",
-    "region": "Тульская область",
-    "lat": 53.7757969,
-    "lon": 38.1447572
-  },
-  {
-    "id": "vrv_radar_107256_Каменский",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T18:54:18+00:00",
-    "text": "Каменский район\nТульская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Каменский",
-    "region": "Тульская область",
-    "lat": 53.2109698,
-    "lon": 38.1162073
-  },
-  {
-    "id": "LPRalarm_261087",
-    "channel": "LPRalarm",
-    "date": "2026-11-12T18:54:33+00:00",
-    "text": "Запад\nСеверо-запад \nОпасность по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_107257_Елецкий",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T18:54:35+00:00",
-    "text": "Елецкий район\nЛипецкая область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Елецкий",
-    "region": "Липецкая область",
-    "lat": 52.631157,
-    "lon": 38.57095
-  },
-  {
-    "id": "locatorru_94986_Балашов",
-    "channel": "locatorru",
-    "date": "2026-11-12T18:54:43+00:00",
-    "text": "Балашов, Аркадак, Романовка, Пионеровка, Турки, Ртищиево и близлежащие, Саратовская область - опасность по БПЛА от Воронежской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Балашов",
-    "region": "Саратовская область",
-    "lat": 51.5546717,
-    "lon": 43.1430732
-  },
-  {
     "id": "locatorru_94986_Аркадак",
     "channel": "locatorru",
     "date": "2026-11-12T18:54:43+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261521",
+    "channel": "LPRalarm",
+    "date": "2026-11-14T09:04:09+00:00",
+    "text": "Армянск\nКрасноперекопск и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_151657",
+    "channel": "kupolrussia",
+    "date": "2026-11-14T09:04:37+00:00",
+    "text": "Армянск\nКрасноперекопск и близлежащие \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_107785",
+    "channel": "vrv_radar",
+    "date": "2026-11-14T09:13:57+00:00",
+    "text": "Московская область\nОпасность по БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_103385",
+    "channel": "radarrussiia",
+    "date": "2026-11-14T09:14:16+00:00",
+    "text": "Московская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": null,
+    "region": "Московская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_107786_Жуковский",
+    "channel": "vrv_radar",
+    "date": "2026-11-14T09:15:12+00:00",
+    "text": "Жуковский район\nКалужская область\nФиксация 2 БПЛА",
+    "type": "drone",
+    "location_name": "Жуковский",
+    "region": "Калужская область",
+    "lat": 55.0074689,
+    "lon": 36.8762225
+  },
+  {
+    "id": "vrv_radar_107787",
+    "channel": "vrv_radar",
+    "date": "2026-11-14T09:16:00+00:00",
+    "text": "Калужская область\nОпасность по МВШ\n\nКарта опасностей - radar-vrv.ru",
+    "type": "alert",
+    "location_name": null,
+    "region": "Калужская область",
     "lat": null,
     "lon": null
   }
