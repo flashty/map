@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_107209",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T18:20:37+00:00",
-    "text": "Нижегородская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Нижегородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_107210",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T18:20:48+00:00",
-    "text": "Республика Мордовия\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_107211_Калуга",
-    "channel": "vrv_radar",
-    "date": "2026-11-12T18:21:21+00:00",
-    "text": "Калуга\nКалужская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Калуга",
-    "region": "Калужская область",
-    "lat": 54.5101087,
-    "lon": 36.2598115
-  },
-  {
-    "id": "radarrussiia_103321",
-    "channel": "radarrussiia",
-    "date": "2026-11-12T18:21:25+00:00",
-    "text": "Нижегородская область\nРеспублика Мордовия\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": null,
-    "region": "Нижегородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_261061",
     "channel": "LPRalarm",
     "date": "2026-11-12T18:21:28+00:00",
@@ -21996,6 +21952,50 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_261468",
+    "channel": "LPRalarm",
+    "date": "2026-11-14T05:25:44+00:00",
+    "text": "Камышеваха, Золотое , Первомайск ЛНР \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_151612",
+    "channel": "kupolrussia",
+    "date": "2026-11-14T05:25:52+00:00",
+    "text": "Камышеваха, Золотое , Первомайск ЛНР \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "radarrussiia_103382",
+    "channel": "radarrussiia",
+    "date": "2026-11-14T05:30:08+00:00",
+    "text": "Геленджик\nАнапа \nНовороссийск\nКраснодарский край\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95177",
+    "channel": "locatorru",
+    "date": "2026-11-14T05:30:45+00:00",
+    "text": "За прошедшую ночь силами противовоздушной обороны было уничтожено 29 БПЛА над территориями Белгородской, Брянской, Тульской, Ростовской областей, Московского региона и над акваториями Черного и Азовского морей.\n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородской областей",
     "lat": null,
     "lon": null
   }
