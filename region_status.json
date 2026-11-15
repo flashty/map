@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Дорога Горловка - Пантелеймоновка, Горловка - Корсунь - Енакиево и близлежащие \nТревога по БПЛА Хорнет и ФПВ \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-15T12:45:45+00:00",
-    "expires_at": "2026-11-15T13:45:45+00:00",
+    "text": "Горловка и близлежащие, а так же дон трасса \nТревога по БПЛА и ФПВ \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-15T12:59:27+00:00",
+    "expires_at": "2026-11-15T13:59:27+00:00",
     "count": null,
     "count_approx": false
   },
@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калужская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-15T11:58:30+00:00",
-    "expires_at": "2026-11-15T12:58:30+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -36,6 +26,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-15T12:42:04+00:00",
     "expires_at": "2026-11-15T13:42:04+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "харьковск": {
+    "display_name": "Харьковская область",
+    "type": "missile",
+    "text": "Купянск ракетная опасность\nХарьковская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-15T12:58:55+00:00",
+    "expires_at": "2026-11-15T13:58:55+00:00",
     "count": null,
     "count_approx": false
   }
