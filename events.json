@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_261520",
-    "channel": "LPRalarm",
-    "date": "2026-11-14T09:00:37+00:00",
-    "text": "Новоэкономическое, Новая Полтавка, Прогресс и близлежащие \nАктивность БПЛА Хорнет \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_151656",
-    "channel": "kupolrussia",
-    "date": "2026-11-14T09:00:47+00:00",
-    "text": "Новоэкономическое, Новая Полтавка, Прогресс и близлежащие \nАктивность БПЛА Хорнет \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_261521",
-    "channel": "LPRalarm",
-    "date": "2026-11-14T09:04:09+00:00",
-    "text": "Армянск\nКрасноперекопск и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_151657",
-    "channel": "kupolrussia",
-    "date": "2026-11-14T09:04:37+00:00",
-    "text": "Армянск\nКрасноперекопск и близлежащие \nРеспублика Крым\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_107785",
-    "channel": "vrv_radar",
-    "date": "2026-11-14T09:13:57+00:00",
-    "text": "Московская область\nОпасность по БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_103385",
     "channel": "radarrussiia",
     "date": "2026-11-14T09:14:16+00:00",
@@ -21998,5 +21943,60 @@
     "region": null,
     "lat": 54.3750277,
     "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_152193_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-11-15T10:47:08+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_262148",
+    "channel": "LPRalarm",
+    "date": "2026-11-15T10:48:08+00:00",
+    "text": "Шебекино\nТревога по БПЛА повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_152194",
+    "channel": "kupolrussia",
+    "date": "2026-11-15T10:51:37+00:00",
+    "text": "Шебекино\nТревога по БПЛА повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_262149",
+    "channel": "LPRalarm",
+    "date": "2026-11-15T10:59:19+00:00",
+    "text": "Донецк и близлежащие \nОпасность по БПЛА, единичные фиксации \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_152195",
+    "channel": "kupolrussia",
+    "date": "2026-11-15T11:01:12+00:00",
+    "text": "Донецк и близлежащие \nОпасность по БПЛА, единичные фиксации \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
   }
 ]

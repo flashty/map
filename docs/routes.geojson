@@ -1,35 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-11-15T09:11:22+00:00",
-        "last_updated": "2026-11-15T09:49:24+00:00",
-        "path_labels": [
-          "Топлинка",
-          "Шебекинский",
-          "Волоконовский"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.666065,
-            50.462864
-          ],
-          [
-            36.8728034,
-            50.438988
-          ],
-          [
-            37.7986348,
-            50.4498919
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
