@@ -2,20 +2,20 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Карло, Енакиево и близлежащие \nОпасность по БПЛА \nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-15T05:35:32+00:00",
-    "expires_at": "2026-11-15T06:35:32+00:00",
+    "text": "п. Октябрьский Донецк ДНР \nОпасность по БПЛА и близлежащие районы",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-15T06:08:15+00:00",
+    "expires_at": "2026-11-15T07:08:15+00:00",
     "count": null,
     "count_approx": false
   },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
-    "text": "Чаплынка с севера тревога по БПЛА Хорнет \nХерсонская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-15T05:02:18+00:00",
-    "expires_at": "2026-11-15T06:02:18+00:00",
+    "text": "Новокиевка в направлении Каланчак тревога по БПЛА Хорнет \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-15T06:09:02+00:00",
+    "expires_at": "2026-11-15T07:09:02+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +36,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-15T05:50:34+00:00",
     "expires_at": "2026-11-15T06:50:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородской области",
+    "type": "drone",
+    "text": "Валуйский район \nБелгородской области \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-15T06:10:49+00:00",
+    "expires_at": "2026-11-15T07:10:49+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "drone",
+    "text": "Ростовская область от ЛНР \nМиллеровский, Тарасовский, Каменский районы \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-15T06:12:26+00:00",
+    "expires_at": "2026-11-15T07:12:26+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Курская область \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-15T06:13:31+00:00",
+    "expires_at": "2026-11-15T07:13:31+00:00",
     "count": null,
     "count_approx": false
   }
