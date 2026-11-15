@@ -170,6 +170,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-11-15T17:42:07+00:00",
+        "last_updated": "2026-11-15T18:52:45+00:00",
+        "path_labels": [
+          "Выгоничский (Брянская область)",
+          "Почепский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.970228,
+            53.0368833
+          ],
+          [
+            33.493436,
+            52.9262598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-11-15T17:53:13+00:00",
         "last_updated": "2026-11-15T18:08:47+00:00",
         "path_labels": [
@@ -275,6 +300,31 @@
         "path_labels": [
           "Брянская область",
           "Калужскую область"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.40561331430358,
+            52.91017768916833
+          ],
+          [
+            35.46247637010713,
+            54.35433612703993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-15T18:52:28+00:00",
+        "last_updated": "2026-11-15T18:52:28+00:00",
+        "path_labels": [
+          "Брянская область",
+          "Калужской области"
         ]
       },
       "geometry": {
