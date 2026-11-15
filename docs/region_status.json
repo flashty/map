@@ -12,20 +12,10 @@
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "п.Волна\nТамань \nТаманский полуостров \nДействует тревога по БПЛА \nКраснодарский край",
+    "text": "Тамань \nИ далее в направлении \nСтаротировская \nТемрюк \nТревога по БПЛА \nКраснодарский край",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-15T02:52:25+00:00",
-    "expires_at": "2026-11-15T03:52:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Трёхизбёнка \nИ близлежащие \nТревога по БПЛА \nЛНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-15T02:01:40+00:00",
-    "expires_at": "2026-11-15T03:01:40+00:00",
+    "updated_at": "2026-11-15T03:05:27+00:00",
+    "expires_at": "2026-11-15T04:05:27+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,46 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Алексеевка\nИ близлежащие \nТревога по БПЛА \nБелгородская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-15T02:02:50+00:00",
-    "expires_at": "2026-11-15T03:02:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Мелитополь \nТревога по БПЛА сохраняется \nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-15T02:11:04+00:00",
-    "expires_at": "2026-11-15T03:11:04+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "Косыревка, Липецкая область - пролёты БПЛА на Липецк. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-15T02:11:14+00:00",
-    "expires_at": "2026-11-15T03:11:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "удмурт": {
-    "display_name": "Республика Удмуртия",
-    "type": "drone",
-    "text": "Республика Удмуртия\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-15T02:12:56+00:00",
-    "expires_at": "2026-11-15T03:12:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "missile",
@@ -86,6 +36,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-15T02:42:47+00:00",
     "expires_at": "2026-11-15T03:42:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Нижнекамский район\nРеспублика Татарстан\nПродолжаются фиксации и работа ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-15T03:15:39+00:00",
+    "expires_at": "2026-11-15T04:15:39+00:00",
     "count": null,
     "count_approx": false
   }
