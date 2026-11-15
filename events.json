@@ -1,27 +1,5 @@
 [
   {
-    "id": "kupolrussia_151632_Мелитополь",
-    "channel": "kupolrussia",
-    "date": "2026-11-14T07:37:30+00:00",
-    "text": "Мелитопольский район запад и далее в направлении Мелитополь, Акимовский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Мелитополь",
-    "region": null,
-    "lat": 55.7020859,
-    "lon": 49.1449216
-  },
-  {
-    "id": "LPRalarm_261495",
-    "channel": "LPRalarm",
-    "date": "2026-11-14T07:48:50+00:00",
-    "text": "Херсонская область РФ, \nЗапорожская область РФ \nЛДНР \nХарьковская область РФ \n\nАвиационная ракетная бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_151633",
     "channel": "kupolrussia",
     "date": "2026-11-14T07:48:55+00:00",
@@ -21998,5 +21976,27 @@
     "region": null,
     "lat": 50.438988,
     "lon": 36.8728034
+  },
+  {
+    "id": "LPRalarm_262113",
+    "channel": "LPRalarm",
+    "date": "2026-11-15T09:19:11+00:00",
+    "text": "Ровеньки ЛНР\nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_152169",
+    "channel": "kupolrussia",
+    "date": "2026-11-15T09:19:21+00:00",
+    "text": "Ровеньки ЛНР\nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
   }
 ]
