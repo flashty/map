@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Ясиноватая, Макеевка, Донецк и близлежащие \nОпасность по БПЛА повторно \nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-15T13:44:41+00:00",
-    "expires_at": "2026-11-15T14:44:41+00:00",
+    "text": "Харцызск, Зугрэс, Иловайск, Нижняя Крынка и близлежащие \nТревога по БПЛА Хорнет \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-15T13:52:03+00:00",
+    "expires_at": "2026-11-15T14:52:03+00:00",
     "count": null,
     "count_approx": false
   },
@@ -16,16 +16,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-15T13:06:16+00:00",
     "expires_at": "2026-11-15T14:06:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "харьковск": {
-    "display_name": "Харьковская область",
-    "type": "missile",
-    "text": "Купянск ракетная опасность\nХарьковская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-15T12:58:55+00:00",
-    "expires_at": "2026-11-15T13:58:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -60,12 +50,12 @@
     "count_approx": false
   },
   "ростовск": {
-    "display_name": "Ростовской области",
+    "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Север Ростовской области опасность по БПЛА в том числе по реактивным",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-15T13:36:26+00:00",
-    "expires_at": "2026-11-15T14:36:26+00:00",
+    "text": "Ростовская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-15T13:48:02+00:00",
+    "expires_at": "2026-11-15T14:48:02+00:00",
     "count": null,
     "count_approx": false
   }
