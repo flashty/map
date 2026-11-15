@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-15T14:12:15+00:00",
+        "last_updated": "2026-11-15T14:28:40+00:00",
+        "path_labels": [
+          "Рохманово (Брянская область)",
+          "Погарский (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.8823703,
+            52.7501468
+          ],
+          [
+            33.2053408,
+            52.5207056
+          ]
+        ]
+      }
+    }
+  ]
 }
