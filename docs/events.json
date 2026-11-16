@@ -1,27 +1,5 @@
 [
   {
-    "id": "kupolrussia_152141",
-    "channel": "kupolrussia",
-    "date": "2026-11-15T08:12:20+00:00",
-    "text": "Чаплынка \nМирное и близлежащие \nХерсонская область РФ \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_262088",
-    "channel": "LPRalarm",
-    "date": "2026-11-15T08:15:29+00:00",
-    "text": "Север, северо-запад \nРеспублика Крым \nОтбой опасности по БПЛА \nРежим повышенного внимания сохраняется",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_152143",
     "channel": "kupolrussia",
     "date": "2026-11-15T08:15:33+00:00",
@@ -21996,6 +21974,28 @@
     "type": "drone",
     "location_name": null,
     "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_108540",
+    "channel": "vrv_radar",
+    "date": "2026-11-16T09:01:45+00:00",
+    "text": "Калужская область\nОпасность по БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_108541",
+    "channel": "vrv_radar",
+    "date": "2026-11-16T09:07:19+00:00",
+    "text": "Пермский край\nОтбой опасности по БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Пермский край",
     "lat": null,
     "lon": null
   }
