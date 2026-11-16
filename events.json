@@ -1,93 +1,5 @@
 [
   {
-    "id": "vrv_radar_108071_Нижнекамск",
-    "channel": "vrv_radar",
-    "date": "2026-11-15T03:10:49+00:00",
-    "text": "Нижнекамск\nРеспублика Татарстан\nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Нижнекамск",
-    "region": "Республика Татарстан",
-    "lat": 55.6412879,
-    "lon": 51.8160376
-  },
-  {
-    "id": "radarrussiia_103424",
-    "channel": "radarrussiia",
-    "date": "2026-11-15T03:11:06+00:00",
-    "text": "Волгоградская область\nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_108072_Нижнекамский",
-    "channel": "vrv_radar",
-    "date": "2026-11-15T03:11:42+00:00",
-    "text": "Нижнекамский район\nРеспублика Татарстан\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Нижнекамский",
-    "region": "Республика Татарстан",
-    "lat": 55.4292502,
-    "lon": 51.5392344
-  },
-  {
-    "id": "vrv_radar_108073_Нижнекамск",
-    "channel": "vrv_radar",
-    "date": "2026-11-15T03:12:09+00:00",
-    "text": "Нижнекамск\nРеспублика Татарстан\nЕще сбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Нижнекамск",
-    "region": "Республика Татарстан",
-    "lat": 55.6412879,
-    "lon": 51.8160376
-  },
-  {
-    "id": "LPRalarm_261984",
-    "channel": "LPRalarm",
-    "date": "2026-11-15T03:12:40+00:00",
-    "text": "Керчь \nКерченский пролив \nТревога по БПЛА \nИ далее в направлении Тамани \nЕщё фиксации",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_152053",
-    "channel": "kupolrussia",
-    "date": "2026-11-15T03:12:47+00:00",
-    "text": "Керчь \nКерченский пролив \nТревога по БПЛА \nИ далее в направлении Тамани \nЕщё фиксации",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_108074",
-    "channel": "vrv_radar",
-    "date": "2026-11-15T03:12:55+00:00",
-    "text": "Астраханская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Астраханская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_95343",
-    "channel": "locatorru",
-    "date": "2026-11-15T03:12:59+00:00",
-    "text": "Астраханская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Астраханская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_108075",
     "channel": "vrv_radar",
     "date": "2026-11-15T03:13:14+00:00",
@@ -21998,5 +21910,93 @@
     "region": "Краснодарский край",
     "lat": 45.659084,
     "lon": 39.108521
+  },
+  {
+    "id": "LPRalarm_262499",
+    "channel": "LPRalarm",
+    "date": "2026-11-16T01:02:54+00:00",
+    "text": "Приморский, Батальное, Ленино, Щелкино и близлежащие \nРеспублика Крым \nЕще фиксации БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_262500",
+    "channel": "LPRalarm",
+    "date": "2026-11-16T01:03:32+00:00",
+    "text": "Таманский полуостров \nКраснодарский край \nЕщё фиксации БПЛА с моря в направлении",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_262501",
+    "channel": "LPRalarm",
+    "date": "2026-11-16T01:04:25+00:00",
+    "text": "Керченский полуостров \nЗаветное и близлежащие \nС моря фиксации БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_262502",
+    "channel": "LPRalarm",
+    "date": "2026-11-16T01:07:46+00:00",
+    "text": "Противник готовит массовый запуск БПЛА от Николаевской области в направлении Херсонской области РФ, Республики Крым и далее  на Краснодарский край",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95496_Ахтарск",
+    "channel": "locatorru",
+    "date": "2026-11-16T01:10:43+00:00",
+    "text": "От Приморско-Ахтарск, Краснодарский край фиксация от 5 БПЛА в направлении Краснодар, могут подвернуть на Ильский. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Ахтарск",
+    "region": "Краснодарский край",
+    "lat": 46.0490992,
+    "lon": 38.1712168
+  },
+  {
+    "id": "vrv_radar_108478",
+    "channel": "vrv_radar",
+    "date": "2026-11-16T01:13:18+00:00",
+    "text": "Ростовская область\nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95497",
+    "channel": "locatorru",
+    "date": "2026-11-16T01:14:41+00:00",
+    "text": "Ильский и близлежащие, Краснодарский край - к вам подходят ещё от 2 БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_108479_Темрюкский",
+    "channel": "vrv_radar",
+    "date": "2026-11-16T01:15:09+00:00",
+    "text": "Темрюкский район\nКраснодарский край\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "type": "drone",
+    "location_name": "Темрюкский",
+    "region": "Краснодарский край",
+    "lat": 45.4964119,
+    "lon": 37.3098799
   }
 ]
