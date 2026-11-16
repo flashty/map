@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_262014",
-    "channel": "LPRalarm",
-    "date": "2026-11-15T05:02:18+00:00",
-    "text": "Чаплынка с севера тревога по БПЛА Хорнет \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_108117",
-    "channel": "vrv_radar",
-    "date": "2026-11-15T05:02:49+00:00",
-    "text": "Калужская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_108118",
-    "channel": "vrv_radar",
-    "date": "2026-11-15T05:03:25+00:00",
-    "text": "Смоленская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Смоленская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_108119",
-    "channel": "vrv_radar",
-    "date": "2026-11-15T05:03:37+00:00",
-    "text": "Московская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_108120",
-    "channel": "vrv_radar",
-    "date": "2026-11-15T05:04:36+00:00",
-    "text": "Владимирская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Владимирская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_108121",
     "channel": "vrv_radar",
     "date": "2026-11-15T05:07:42+00:00",
@@ -21998,5 +21943,60 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_108518",
+    "channel": "vrv_radar",
+    "date": "2026-11-16T04:34:15+00:00",
+    "text": "Напоминаем, что наша онлайн карта уже доступна. \n\nСейчас проект находится на этапе бета-тестирования, поэтому будем рады вашей обратной связи: \n👉 @vrv_report_bot\n\n🔗 Карта: radar-vrv.ru",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_262540",
+    "channel": "LPRalarm",
+    "date": "2026-11-16T04:39:52+00:00",
+    "text": "Ростовская область \nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_262541",
+    "channel": "LPRalarm",
+    "date": "2026-11-16T04:40:34+00:00",
+    "text": "Таганрог \nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_152539",
+    "channel": "kupolrussia",
+    "date": "2026-11-16T04:40:48+00:00",
+    "text": "Ростовская область \nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_108519_Азов",
+    "channel": "vrv_radar",
+    "date": "2026-11-16T04:41:19+00:00",
+    "text": "Азов\nРостовская область\nМеры безопасности",
+    "type": "alert",
+    "location_name": "Азов",
+    "region": "Ростовская область",
+    "lat": 47.1139219,
+    "lon": 39.4259657
   }
 ]
