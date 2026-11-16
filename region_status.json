@@ -1,81 +1,11 @@
 {
-  "тверск": {
-    "display_name": "Тверская область",
-    "type": "drone",
-    "text": "Тверь\nКашинский район\nКимрский район\nТверская область\nФиксации БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-16T00:49:00+00:00",
-    "expires_at": "2026-11-16T01:49:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Володарское и близлежащие \nТревога по БПЛА \nСоблюдайте меры безопасности \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-16T00:47:14+00:00",
-    "expires_at": "2026-11-16T01:47:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Бабынинский район\nКалужская область\nФиксации БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-16T00:49:00+00:00",
-    "expires_at": "2026-11-16T01:49:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "ГО Ступино\nМосковская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-16T00:49:31+00:00",
-    "expires_at": "2026-11-16T01:49:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Рязань\nСтарожиловский район\nРязанская область\nФиксации БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-16T00:49:00+00:00",
-    "expires_at": "2026-11-16T01:49:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ярославск": {
-    "display_name": "Ярославская область",
-    "type": "drone",
-    "text": "Ростовский район\nЯрославская область\nФиксации БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-16T00:49:00+00:00",
-    "expires_at": "2026-11-16T01:49:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Малоархангельский район\nОрловская область\nФиксации БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-16T00:49:00+00:00",
-    "expires_at": "2026-11-16T01:49:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарск": {
     "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Фёдоровская, Львовское, Краснодарский край - пролёты БПЛА в направлении Ильский. \n\n📡Локатор России - @locatorru",
+    "type": "missile",
+    "text": "Краснодарский край - ракетная опасность! \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-11-16T01:43:13+00:00",
-    "expires_at": "2026-11-16T02:43:13+00:00",
+    "updated_at": "2026-11-16T01:58:57+00:00",
+    "expires_at": "2026-11-16T02:58:57+00:00",
     "count": null,
     "count_approx": false
   },
@@ -102,20 +32,20 @@
   "владимирск": {
     "display_name": "Владимирская область",
     "type": "drone",
-    "text": "Муром \nВладимирская область \nФиксация БПЛА в вашем направлении",
+    "text": "Муром \nВладимирская область\nЕщё фиксации БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-11-16T01:22:49+00:00",
-    "expires_at": "2026-11-16T02:22:49+00:00",
+    "updated_at": "2026-11-16T01:47:50+00:00",
+    "expires_at": "2026-11-16T02:47:50+00:00",
     "count": null,
     "count_approx": false
   },
   "краснодарско": {
     "display_name": "Краснодарского края",
-    "type": "drone",
-    "text": "Керченский полуостров и далее на Причерноморье Краснодарского края \nТревога по реактивным БПЛА",
+    "type": "missile",
+    "text": "Причерноморье Краснодарского края \nРакетная опасность",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-16T01:32:22+00:00",
-    "expires_at": "2026-11-16T02:32:22+00:00",
+    "updated_at": "2026-11-16T01:54:09+00:00",
+    "expires_at": "2026-11-16T02:54:09+00:00",
     "count": null,
     "count_approx": false
   },
@@ -156,6 +86,26 @@
     "channel": "locatorru",
     "updated_at": "2026-11-16T01:43:13+00:00",
     "expires_at": "2026-11-16T02:43:13+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "адыгея": {
+    "display_name": "Республика Адыгея",
+    "type": "missile",
+    "text": "Республика Адыгея\nРакетная опасность",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-16T01:48:32+00:00",
+    "expires_at": "2026-11-16T02:48:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Клинцовский район\nБрянская область \nТревога по БПЛА \nИ далее в тыл",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-16T01:52:59+00:00",
+    "expires_at": "2026-11-16T02:52:59+00:00",
     "count": null,
     "count_approx": false
   }
