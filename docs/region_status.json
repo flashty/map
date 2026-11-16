@@ -1,24 +1,4 @@
 {
-  "ростовск": {
-    "display_name": "Ростовской области",
-    "type": "alert",
-    "text": "Азов \nРостовской области \nМеры безопасности",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-16T04:53:16+00:00",
-    "expires_at": "2026-11-16T05:53:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Мелитопольский район \nОпасность по БПЛА \nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-16T04:12:07+00:00",
-    "expires_at": "2026-11-16T05:12:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белгородск": {
     "display_name": "Белгородской области",
     "type": "missile",
@@ -46,6 +26,36 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-16T04:56:07+00:00",
     "expires_at": "2026-11-16T05:56:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Антрацит \nТревога по БПЛА Хорнет Трассы  в сторону Должанки и Ровеньков-Свердловск\nТревога по хорнетам\nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-16T05:04:09+00:00",
+    "expires_at": "2026-11-16T06:04:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пермск": {
+    "display_name": "Пермский край",
+    "type": "drone",
+    "text": "Пермский край\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-16T05:10:36+00:00",
+    "expires_at": "2026-11-16T06:10:36+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "удмурт": {
+    "display_name": "Республика Удмуртия",
+    "type": "drone",
+    "text": "Республика Удмуртия\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-16T05:12:32+00:00",
+    "expires_at": "2026-11-16T06:12:32+00:00",
     "count": null,
     "count_approx": false
   }
