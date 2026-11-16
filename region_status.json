@@ -39,46 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "-": {
-    "display_name": "Республика -",
-    "type": "drone",
-    "text": "Чувашская Республика - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-16T01:31:53+00:00",
-    "expires_at": "2026-11-16T02:31:53+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "чуваш": {
-    "display_name": "Республика Чувашия",
-    "type": "drone",
-    "text": "Республика Чувашия\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-16T01:37:46+00:00",
-    "expires_at": "2026-11-16T02:37:46+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "фёдоровск": {
-    "display_name": "Фёдоровская край",
-    "type": "drone",
-    "text": "Фёдоровская, Львовское, Краснодарский край - пролёты БПЛА в направлении Ильский. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-16T01:43:13+00:00",
-    "expires_at": "2026-11-16T02:43:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "львовск": {
-    "display_name": "Львовское край",
-    "type": "drone",
-    "text": "Фёдоровская, Львовское, Краснодарский край - пролёты БПЛА в направлении Ильский. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-16T01:43:13+00:00",
-    "expires_at": "2026-11-16T02:43:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "адыгея": {
     "display_name": "Республика Адыгея",
     "type": "missile",
@@ -116,6 +76,16 @@
     "channel": "locatorru",
     "updated_at": "2026-11-16T02:08:42+00:00",
     "expires_at": "2026-11-16T03:08:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "марий": {
+    "display_name": "Республика Марий",
+    "type": "drone",
+    "text": "Республика Марий Эл - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-16T02:38:22+00:00",
+    "expires_at": "2026-11-16T03:38:22+00:00",
     "count": null,
     "count_approx": false
   }
