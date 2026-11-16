@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_262084",
-    "channel": "LPRalarm",
-    "date": "2026-11-15T08:07:54+00:00",
-    "text": "Чаплынка \nАрмянск\nКрасноперекопск и близлежащие \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_152139",
-    "channel": "kupolrussia",
-    "date": "2026-11-15T08:08:05+00:00",
-    "text": "Чаплынка \nАрмянск\nКрасноперекопск и близлежащие \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_262085",
-    "channel": "LPRalarm",
-    "date": "2026-11-15T08:08:27+00:00",
-    "text": "Бердянск и близлежащие \nЗапорожская область РФ \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_262086",
-    "channel": "LPRalarm",
-    "date": "2026-11-15T08:09:24+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nХерсонская область РФ \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_152140",
-    "channel": "kupolrussia",
-    "date": "2026-11-15T08:09:32+00:00",
-    "text": "ЛДНР \nЗапорожская область РФ \nХерсонская область РФ \nАвиационная ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_262087",
-    "channel": "LPRalarm",
-    "date": "2026-11-15T08:12:10+00:00",
-    "text": "Чаплынка \nМирное и близлежащие \nХерсонская область РФ \nОпасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_152141",
     "channel": "kupolrussia",
     "date": "2026-11-15T08:12:20+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_262611_Корчма",
+    "channel": "LPRalarm",
+    "date": "2026-11-16T08:49:13+00:00",
+    "text": "Корчма, Каланчак, Скадовск и близлежащие \nВозможно на Армянск \n\nОпасность по МРШ со сбросами БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": "Корчма",
+    "region": null,
+    "lat": 53.8178443,
+    "lon": 37.3721838
+  },
+  {
+    "id": "kupolrussia_152586_Корчма",
+    "channel": "kupolrussia",
+    "date": "2026-11-16T08:49:19+00:00",
+    "text": "Корчма, Каланчак, Скадовск и близлежащие \nВозможно на Армянск \n\nОпасность по МРШ со сбросами БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": "Корчма",
+    "region": null,
+    "lat": 53.8178443,
+    "lon": 37.3721838
+  },
+  {
+    "id": "LPRalarm_262612",
+    "channel": "LPRalarm",
+    "date": "2026-11-16T08:49:57+00:00",
+    "text": "Курская область и близлежащие повторно авиационная ракетная бомбовая опасность \n\nРовенская область самолёты на восток",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_152587",
+    "channel": "kupolrussia",
+    "date": "2026-11-16T08:50:08+00:00",
+    "text": "Курская область и близлежащие повторно авиационная ракетная бомбовая опасность \n\nРовенская область самолёты на восток",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_262613",
+    "channel": "LPRalarm",
+    "date": "2026-11-16T08:52:19+00:00",
+    "text": "Каланчак с северо-запада тревога по БПЛА Хорнет. И близлежащие \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_152588",
+    "channel": "kupolrussia",
+    "date": "2026-11-16T08:52:34+00:00",
+    "text": "Каланчак с северо-запада тревога по БПЛА Хорнет. И близлежащие \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
     "lat": null,
     "lon": null
   }
