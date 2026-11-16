@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_262171",
-    "channel": "LPRalarm",
-    "date": "2026-11-15T13:06:14+00:00",
-    "text": "Белая Березка опасность по РСЗО повторно \n\nБрянская область",
-    "type": "alert",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_152212",
-    "channel": "kupolrussia",
-    "date": "2026-11-15T13:06:16+00:00",
-    "text": "Белая Березка опасность по РСЗО повторно \n\nБрянская область",
-    "type": "alert",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_262172",
-    "channel": "LPRalarm",
-    "date": "2026-11-15T13:18:20+00:00",
-    "text": "Шахтёрск и близлежащие \nТревога по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_152213",
     "channel": "kupolrussia",
     "date": "2026-11-15T13:18:35+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_262682",
+    "channel": "LPRalarm",
+    "date": "2026-11-16T13:51:38+00:00",
+    "text": "Противник готовит запуски БПЛА от Одесской области",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_152653",
+    "channel": "kupolrussia",
+    "date": "2026-11-16T13:51:45+00:00",
+    "text": "Противник готовит запуски БПЛА от Одесской области",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95544",
+    "channel": "locatorru",
+    "date": "2026-11-16T13:54:32+00:00",
+    "text": "Ростовская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
     "lat": null,
     "lon": null
   }
