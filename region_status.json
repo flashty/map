@@ -38,5 +38,35 @@
     "expires_at": "2026-11-16T04:19:28+00:00",
     "count": null,
     "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "missile",
+    "text": "Ростовская область\nРакетная опасность",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-16T03:49:12+00:00",
+    "expires_at": "2026-11-16T04:49:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Клинцы\nКлинцовский район \nБрянская область \nИ далее в тыл \nТревога по БПЛА, повторно",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-16T03:54:38+00:00",
+    "expires_at": "2026-11-16T04:54:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Темрюкский район\n посёлок Ильич\n энергомост\nПорт Кавказ\nКрымский мост \nТревога по БПЛА \nКраснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-16T03:53:46+00:00",
+    "expires_at": "2026-11-16T04:53:46+00:00",
+    "count": null,
+    "count_approx": false
   }
 }

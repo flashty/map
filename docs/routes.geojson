@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-11-16T02:02:52+00:00",
-        "last_updated": "2026-11-16T03:01:09+00:00",
-        "path_labels": [
-          "Порт Азов (Ростовская область)",
-          "Азовский (Ростовская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.4015986,
-            47.1159665
-          ],
-          [
-            39.2767155,
-            46.8996123
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
