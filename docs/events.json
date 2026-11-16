@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_262125",
-    "channel": "LPRalarm",
-    "date": "2026-11-15T09:46:01+00:00",
-    "text": "Севский район \nБрянской области \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Брянской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_262126",
-    "channel": "LPRalarm",
-    "date": "2026-11-15T09:46:42+00:00",
-    "text": "Курская область \nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_95357_Севский",
-    "channel": "locatorru",
-    "date": "2026-11-15T09:46:43+00:00",
-    "text": "Севский район, Брянская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": "Севский",
-    "region": "Брянская область",
-    "lat": 52.0922416,
-    "lon": 34.4204983
-  },
-  {
-    "id": "kupolrussia_152175",
-    "channel": "kupolrussia",
-    "date": "2026-11-15T09:47:09+00:00",
-    "text": "Севский район \nБрянской области \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Брянской области",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_95358",
     "channel": "locatorru",
     "date": "2026-11-15T09:47:10+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Донецкая область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_262642",
+    "channel": "LPRalarm",
+    "date": "2026-11-16T10:36:28+00:00",
+    "text": "Белая Берёзка обстрел\nБрянская область",
+    "type": "shelling",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_262643",
+    "channel": "LPRalarm",
+    "date": "2026-11-16T10:37:00+00:00",
+    "text": "Чаплынка и близлежащие тревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_152612",
+    "channel": "kupolrussia",
+    "date": "2026-11-16T10:37:07+00:00",
+    "text": "Чаплынка и близлежащие тревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_108543_Друзья",
+    "channel": "vrv_radar",
+    "date": "2026-11-16T10:43:35+00:00",
+    "text": "Друзья, мы создали канал онлайн-карты Радар ВРВ!\n\nЗдесь будем публиковать все актуальные новости проекта: информацию о новых функциях, исправлениях ошибок, обновлениях сайта и ходе технических работ.\n\nСейчас сайт временно закрыт на технические работы. Ориентировочное время восстановления — до 14:00 МСК. \nО любых изменениях сообщим в канале сайта.\n\nСкорее подписывайтесь и узнавайте о новостях сразу - http://t.me/radar_vrv_site",
+    "type": "unknown",
+    "location_name": "Друзья",
+    "region": null,
+    "lat": 45.0949872,
+    "lon": 38.9111594
   }
 ]
