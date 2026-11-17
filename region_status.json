@@ -1,14 +1,4 @@
 {
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Каланчак и близлежащие опасность по БПЛА Хорнет \nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-17T14:34:04+00:00",
-    "expires_at": "2026-11-17T15:34:04+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -16,6 +6,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-17T15:30:59+00:00",
     "expires_at": "2026-11-17T16:30:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка Калиновка, Байрак, Кондратьевка, Углегорск и близлежащие \nОпасность по БПЛА \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-17T15:43:05+00:00",
+    "expires_at": "2026-11-17T16:43:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Тревога по БПЛА в\nВалуйском МО \nБелгородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-17T15:45:29+00:00",
+    "expires_at": "2026-11-17T16:45:29+00:00",
     "count": null,
     "count_approx": false
   }

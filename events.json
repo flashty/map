@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_152716",
-    "channel": "kupolrussia",
-    "date": "2026-11-16T16:49:02+00:00",
-    "text": "Юг, юго-запад Севастополя \nБалаклава, Фиолент\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_108583_Щёкинский",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T16:49:07+00:00",
-    "text": "Щёкинский район\nТульская область\nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Щёкинский",
-    "region": "Тульская область",
-    "lat": 53.8906918,
-    "lon": 37.3865251
-  },
-  {
-    "id": "vrv_radar_108584_Калуга",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T16:49:20+00:00",
-    "text": "Калуга\nКалужская область\nЕще фиксации БПЛА",
-    "type": "drone",
-    "location_name": "Калуга",
-    "region": "Калужская область",
-    "lat": 54.5101087,
-    "lon": 36.2598115
-  },
-  {
-    "id": "vrv_radar_108585_Жуковский",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T16:51:10+00:00",
-    "text": "Жуковский район\nКалужская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Жуковский",
-    "region": "Калужская область",
-    "lat": 55.0074689,
-    "lon": 36.8762225
-  },
-  {
     "id": "vrv_radar_108586_Калуга",
     "channel": "vrv_radar",
     "date": "2026-11-16T16:52:14+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263234",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T15:42:48+00:00",
+    "text": "Горловка Калиновка, Байрак, Кондратьевка, Углегорск и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153121",
+    "channel": "kupolrussia",
+    "date": "2026-11-17T15:43:05+00:00",
+    "text": "Горловка Калиновка, Байрак, Кондратьевка, Углегорск и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263235",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T15:45:16+00:00",
+    "text": "Тревога по БПЛА в\nВалуйском МО \nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153122",
+    "channel": "kupolrussia",
+    "date": "2026-11-17T15:45:29+00:00",
+    "text": "Тревога по БПЛА в\nВалуйском МО \nБелгородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
     "lat": null,
     "lon": null
   }
