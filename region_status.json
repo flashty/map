@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "ростовск": {
-    "display_name": "Ростовской области",
-    "type": "drone",
-    "text": "От Красный Луч в направлении \nАнтрацит \nТревога по БПЛА сохраняется \nО и далее возможно в направлении Ростовской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-17T19:27:18+00:00",
-    "expires_at": "2026-11-17T20:27:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -26,6 +16,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-17T20:04:34+00:00",
     "expires_at": "2026-11-17T21:04:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калужская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\n^^ Ш “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-17T20:29:18+00:00",
+    "expires_at": "2026-11-17T21:29:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Трасса Петровка - Плотина \nЛНР\nТревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-17T20:31:00+00:00",
+    "expires_at": "2026-11-17T21:31:00+00:00",
     "count": null,
     "count_approx": false
   }
