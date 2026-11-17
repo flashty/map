@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_262779",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T17:40:43+00:00",
-    "text": "Почеп и близлежащие \nТревога по БПЛА сохраняется \nБрянская область \nИ далее в тыл",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_108653_Домодедово",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T17:40:44+00:00",
-    "text": "ГО Домодедово\nМосковская область\nЕще сбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Домодедово",
-    "region": "Московская область",
-    "lat": 55.4087122,
-    "lon": 37.9094721
-  },
-  {
-    "id": "kupolrussia_152743",
-    "channel": "kupolrussia",
-    "date": "2026-11-16T17:40:57+00:00",
-    "text": "Почеп и близлежащие \nТревога по БПЛА сохраняется \nБрянская область \nИ далее в тыл",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_108654",
     "channel": "vrv_radar",
     "date": "2026-11-16T17:41:16+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109191",
+    "channel": "vrv_radar",
+    "date": "2026-11-17T23:00:39+00:00",
+    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263312",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T23:00:50+00:00",
+    "text": "Гвардейское опасность по БПЛА,далее в направлении Симферополя\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153174",
+    "channel": "kupolrussia",
+    "date": "2026-11-17T23:00:55+00:00",
+    "text": "Гвардейское опасность по БПЛА,далее в направлении Симферополя\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
