@@ -9,23 +9,13 @@
     "count": null,
     "count_approx": false
   },
-  "башкортост": {
-    "display_name": "Республика Башкортостан",
-    "type": "drone",
-    "text": "Миякинский район\nРеспублика Башкортостан\nЕщё фиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-17T02:00:28+00:00",
-    "expires_at": "2026-11-17T03:00:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
-    "display_name": "Брянскую область",
+    "display_name": "Брянская область",
     "type": "drone",
-    "text": "Через Брянскую область продолжаются пролеты БпЛА в направлении Калужской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-17T01:58:59+00:00",
-    "expires_at": "2026-11-17T02:58:59+00:00",
+    "text": "Трубчевский район, Брянская область - продолжаются массовые пролёты БПЛА в тыл. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-17T02:10:26+00:00",
+    "expires_at": "2026-11-17T03:10:26+00:00",
     "count": null,
     "count_approx": false
   },
@@ -136,6 +126,46 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-17T01:58:59+00:00",
     "expires_at": "2026-11-17T02:58:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Приморск\nЗапорожская область РФ \nБпЛА в море",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-17T02:06:16+00:00",
+    "expires_at": "2026-11-17T03:06:16+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "челябинск": {
+    "display_name": "Челябинская область",
+    "type": "drone",
+    "text": "Челябинская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-17T02:11:14+00:00",
+    "expires_at": "2026-11-17T03:11:14+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "нижегородск": {
+    "display_name": "Нижегородская область",
+    "type": "drone",
+    "text": "Арзамасский район, Ардатовский район, Нижегородская область - опасность по группе БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-17T02:09:01+00:00",
+    "expires_at": "2026-11-17T03:09:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "башкортост": {
+    "display_name": "Республика Башкортостан",
+    "type": "drone",
+    "text": "Стерлитамак, Салават и близлежащие, Республика Башкортостан - угроза атаки БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-17T02:12:07+00:00",
+    "expires_at": "2026-11-17T03:12:07+00:00",
     "count": null,
     "count_approx": false
   }
