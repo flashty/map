@@ -1,16 +1,5 @@
 [
   {
-    "id": "vrv_radar_108652_Домодедово",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T17:40:19+00:00",
-    "text": "ГО Домодедово\nМосковская область\nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Домодедово",
-    "region": "Московская область",
-    "lat": 55.4087122,
-    "lon": 37.9094721
-  },
-  {
     "id": "LPRalarm_262779",
     "channel": "LPRalarm",
     "date": "2026-11-16T17:40:43+00:00",
@@ -21996,6 +21985,17 @@
     "type": "all_clear",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95665",
+    "channel": "locatorru",
+    "date": "2026-11-17T21:22:33+00:00",
+    "text": "Новый Оскол и близлежащие, Белгородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
     "lat": null,
     "lon": null
   }
