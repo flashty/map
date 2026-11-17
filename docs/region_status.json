@@ -1,31 +1,11 @@
 {
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "alert",
-    "text": "Таганрог\nРостовская область\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-17T05:17:51+00:00",
-    "expires_at": "2026-11-17T06:17:51+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Почепский район \nТревога по БПЛА сохраняется \nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-17T05:06:50+00:00",
-    "expires_at": "2026-11-17T06:06:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
     "text": "Трасса Приазовское - Приморск Запорожская область РФ опасность по БПЛА от Инзовка",
     "channel": "LPRalarm",
-    "updated_at": "2026-11-17T04:39:41+00:00",
-    "expires_at": "2026-11-17T05:39:41+00:00",
+    "updated_at": "2026-11-17T05:41:46+00:00",
+    "expires_at": "2026-11-17T06:41:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +16,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-17T05:05:22+00:00",
     "expires_at": "2026-11-17T06:05:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Сураж и близлежащие \nБрянская область \nТревога по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-17T05:45:55+00:00",
+    "expires_at": "2026-11-17T06:45:55+00:00",
     "count": null,
     "count_approx": false
   }
