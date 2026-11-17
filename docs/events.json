@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_262719",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T15:36:19+00:00",
-    "text": "Алчевск и далее в направлении Луганск\nТревога по БПЛА \nОсобое внимание трассы \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_95552",
-    "channel": "locatorru",
-    "date": "2026-11-16T15:36:20+00:00",
-    "text": "Советский район, Фокинский район, Бежицкий район, Володарский район, г.Брянск - опасность по БПЛА, фиксации в сторону Калужской области.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_152686",
-    "channel": "kupolrussia",
-    "date": "2026-11-16T15:36:37+00:00",
-    "text": "Алчевск и далее в направлении Луганск\nОсобое внимание трассы \nЛНР",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_262720",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T15:36:40+00:00",
-    "text": "Брянск\nИ ближайшие \nТревога по БПЛА\nМеры безопасности\nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_152687",
-    "channel": "kupolrussia",
-    "date": "2026-11-16T15:36:58+00:00",
-    "text": "Брянск\nИ ближайшие \nМеры безопасности\nБрянская область",
-    "type": "alert",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_262721_Брянский",
     "channel": "LPRalarm",
     "date": "2026-11-16T15:37:07+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Московская область",
     "lat": 55.9145993,
     "lon": 36.8595482
+  },
+  {
+    "id": "LPRalarm_263165",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T08:35:34+00:00",
+    "text": "Трасса Р-280\nИнзовка-Владимировка  \nТревога по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153062",
+    "channel": "kupolrussia",
+    "date": "2026-11-17T08:35:47+00:00",
+    "text": "Трасса Р-280\nИнзовка-Владимировка  \nТревога по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263166_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T08:43:31+00:00",
+    "text": "Белгородский район опасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_263167",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T08:43:57+00:00",
+    "text": "г. Белгород опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153063_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-11-17T08:44:23+00:00",
+    "text": "Белгородский район опасность по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
   }
 ]
