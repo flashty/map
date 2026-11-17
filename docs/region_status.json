@@ -1,34 +1,4 @@
 {
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "ЛНР от Краматорск опасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-17T07:23:33+00:00",
-    "expires_at": "2026-11-17T08:23:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Хвастовичский район\nКалужская область\nФиксации от 3 БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-17T07:25:16+00:00",
-    "expires_at": "2026-11-17T08:25:16+00:00",
-    "count": 3,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Урицкий район\nХотынецкий район \nОрловская область\nФиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-17T07:26:28+00:00",
-    "expires_at": "2026-11-17T08:26:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
@@ -56,6 +26,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-17T08:13:15+00:00",
     "expires_at": "2026-11-17T09:13:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Воронежская область\nОпасность по БПЛА\n\n✈️ Наш ТГ | 📲 Наш MAX",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-11-17T08:24:53+00:00",
+    "expires_at": "2026-11-17T09:24:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "МО Истра\nМосковская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-17T08:30:31+00:00",
+    "expires_at": "2026-11-17T09:30:31+00:00",
     "count": null,
     "count_approx": false
   }
