@@ -1,60 +1,5 @@
 [
   {
-    "id": "locatorru_95549",
-    "channel": "locatorru",
-    "date": "2026-11-16T14:14:51+00:00",
-    "text": "Троицкое, ЛНР прошёл малоразмерные воздушный шар с подвесом БПЛА в направлении Вейделевка, Белгородская область. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Троицкое область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_262685",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T14:15:49+00:00",
-    "text": "Белгородская область \nКурская область \nБрянская область \nОпасность по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_152656",
-    "channel": "kupolrussia",
-    "date": "2026-11-16T14:15:50+00:00",
-    "text": "Белгородская область \nКурская область \nБрянская область \nОпасность по БПЛА сохраняется",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_262686",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T14:18:09+00:00",
-    "text": "Почеп и близлежащие, тревога по БпЛА \nМножество фиксаций от госграницы и далее в тыл",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_152657",
-    "channel": "kupolrussia",
-    "date": "2026-11-16T14:18:14+00:00",
-    "text": "Почеп и близлежащие, тревога по БпЛА \nМножество фиксаций от госграницы и далее в тыл",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_95550_Суджанский",
     "channel": "locatorru",
     "date": "2026-11-16T14:18:24+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Краснодарский край",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_109159",
+    "channel": "vrv_radar",
+    "date": "2026-11-17T06:01:46+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263144",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T06:08:05+00:00",
+    "text": "Тамань \nТаманский залив \nЕщё фиксации в вашем направлении \nКраснодарский край",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263145",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T06:10:21+00:00",
+    "text": "Мелитопольский район\nЗапорожская область РФ \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263146",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T06:12:58+00:00",
+    "text": "Навлинский район\nБрянской области \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95637_Навля",
+    "channel": "locatorru",
+    "date": "2026-11-17T06:15:52+00:00",
+    "text": "Навля, Брянская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Навля",
+    "region": "Брянская область",
+    "lat": 52.8271323,
+    "lon": 34.4993843
   }
 ]
