@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_262751_Новошахтинск",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T16:47:21+00:00",
-    "text": "Новошахтинск, Гуково, Шахты, Красный Сулин и близлежащие отбой опасности по БПЛА от ЛНР\nРежим внимание сохраняется",
-    "type": "all_clear",
-    "location_name": "Новошахтинск",
-    "region": null,
-    "lat": 47.7962698,
-    "lon": 39.8935604
-  },
-  {
-    "id": "LPRalarm_262751_Гуково",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T16:47:21+00:00",
-    "text": "Новошахтинск, Гуково, Шахты, Красный Сулин и близлежащие отбой опасности по БПЛА от ЛНР\nРежим внимание сохраняется",
-    "type": "all_clear",
-    "location_name": "Гуково",
-    "region": null,
-    "lat": 48.0460281,
-    "lon": 39.9486772
-  },
-  {
-    "id": "LPRalarm_262751_Шахты",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T16:47:21+00:00",
-    "text": "Новошахтинск, Гуково, Шахты, Красный Сулин и близлежащие отбой опасности по БПЛА от ЛНР\nРежим внимание сохраняется",
-    "type": "all_clear",
-    "location_name": "Шахты",
-    "region": null,
-    "lat": 47.7094622,
-    "lon": 40.2154859
-  },
-  {
-    "id": "LPRalarm_262752",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T16:47:23+00:00",
-    "text": "Юг, юго-запад Севастополя \nБалаклава, Фиолент\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_152716",
     "channel": "kupolrussia",
     "date": "2026-11-16T16:49:02+00:00",
@@ -21996,6 +21952,50 @@
     "type": "alert",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263232",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T15:17:09+00:00",
+    "text": "Алчевск \nИ близлежащие \nТревога по БПЛА\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153119",
+    "channel": "kupolrussia",
+    "date": "2026-11-17T15:17:37+00:00",
+    "text": "Алчевск \nИ близлежащие \nТревога по БПЛА\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263233",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T15:30:33+00:00",
+    "text": "Красный луч \nИ далее в направлении \nАнтрацит \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153120",
+    "channel": "kupolrussia",
+    "date": "2026-11-17T15:30:59+00:00",
+    "text": "Красный луч \nИ далее в направлении \nАнтрацит \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
