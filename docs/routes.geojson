@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-17T04:10:41+00:00",
+        "last_updated": "2026-11-17T04:50:15+00:00",
+        "path_labels": [
+          "Ейский (Краснодарский край)",
+          "Таганрог (Ростовская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.2410083,
+            46.6101533
+          ],
+          [
+            38.928362,
+            47.215495
+          ]
+        ]
+      }
+    }
+  ]
 }
