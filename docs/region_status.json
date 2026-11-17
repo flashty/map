@@ -22,10 +22,50 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Сураж и близлежащие \nБрянская область \nТревога по БПЛА",
+    "text": "Навлинский район Брянская область возможно БПЛА Хорнет",
     "channel": "LPRalarm",
-    "updated_at": "2026-11-17T05:45:55+00:00",
-    "expires_at": "2026-11-17T06:45:55+00:00",
+    "updated_at": "2026-11-17T05:54:12+00:00",
+    "expires_at": "2026-11-17T06:54:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "drone",
+    "text": "Кимовский район\nТульская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-17T05:46:15+00:00",
+    "expires_at": "2026-11-17T06:46:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Ельнинский район\nСмоленская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-17T05:47:10+00:00",
+    "expires_at": "2026-11-17T06:47:10+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Ржевский район\nТверская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-17T05:47:47+00:00",
+    "expires_at": "2026-11-17T06:47:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Хвастовичский район\nКалужская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-17T05:48:24+00:00",
+    "expires_at": "2026-11-17T06:48:24+00:00",
     "count": null,
     "count_approx": false
   }
