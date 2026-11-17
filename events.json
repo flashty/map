@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_108638_Домодедово",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T17:29:39+00:00",
-    "text": "ГО Домодедово\nМосковская область\nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Домодедово",
-    "region": "Московская область",
-    "lat": 55.4087122,
-    "lon": 37.9094721
-  },
-  {
-    "id": "LPRalarm_262772_Погара",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T17:29:51+00:00",
-    "text": "Новые Ивайтенки и близлежащие \nТревога по БПЛА от Погара\nБрянская область",
-    "type": "drone",
-    "location_name": "Погара",
-    "region": "Брянская область",
-    "lat": 52.554283,
-    "lon": 33.263706
-  },
-  {
     "id": "kupolrussia_152737_Погара",
     "channel": "kupolrussia",
     "date": "2026-11-16T17:30:07+00:00",
@@ -21996,6 +21974,28 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263297",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T20:04:28+00:00",
+    "text": "Брянская область, опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153161",
+    "channel": "kupolrussia",
+    "date": "2026-11-17T20:04:34+00:00",
+    "text": "Брянская область, опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
