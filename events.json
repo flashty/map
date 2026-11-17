@@ -1,115 +1,5 @@
 [
   {
-    "id": "LPRalarm_262762_Рассудово",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T17:10:04+00:00",
-    "text": "Троицкий АО \nРассудово\nНовая Москва\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": "Рассудово",
-    "region": null,
-    "lat": 54.4196669,
-    "lon": 35.8758639
-  },
-  {
-    "id": "LPRalarm_262762_Новая Москва",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T17:10:04+00:00",
-    "text": "Троицкий АО \nРассудово\nНовая Москва\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": "Новая Москва",
-    "region": null,
-    "lat": 54.865444,
-    "lon": 44.515045
-  },
-  {
-    "id": "locatorru_95560",
-    "channel": "locatorru",
-    "date": "2026-11-16T17:10:12+00:00",
-    "text": "Алексин и близлежащие, Тульская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_108609_Домодедово",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T17:10:23+00:00",
-    "text": "ГО Домодедово\nМосковская область\nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Домодедово",
-    "region": "Московская область",
-    "lat": 55.4087122,
-    "lon": 37.9094721
-  },
-  {
-    "id": "vrv_radar_108610_Суворовский",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T17:11:06+00:00",
-    "text": "Суворовский район\nАлексинский район\nЗаокский район\nТульская область\nФиксации групп БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Суворовский",
-    "region": "Тульская область",
-    "lat": 54.122559,
-    "lon": 36.3581132
-  },
-  {
-    "id": "vrv_radar_108610_Алексинский",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T17:11:06+00:00",
-    "text": "Суворовский район\nАлексинский район\nЗаокский район\nТульская область\nФиксации групп БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Алексинский",
-    "region": "Тульская область",
-    "lat": 54.472748,
-    "lon": 37.0910102
-  },
-  {
-    "id": "vrv_radar_108610_Заокский",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T17:11:06+00:00",
-    "text": "Суворовский район\nАлексинский район\nЗаокский район\nТульская область\nФиксации групп БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Заокский",
-    "region": "Тульская область",
-    "lat": 54.7331733,
-    "lon": 37.3989781
-  },
-  {
-    "id": "locatorru_95561",
-    "channel": "locatorru",
-    "date": "2026-11-16T17:11:32+00:00",
-    "text": "Небольшие проблемы со связью. \nОпасность по БПЛА сохраняется в ранее объявленных регионах, много идёт. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_108611_Кимовский",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T17:11:56+00:00",
-    "text": "Кимовский район\nЩёкинский район\nЯсногорский район\nТульская область\nФиксации БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Кимовский",
-    "region": "Тульская область",
-    "lat": 53.8404975,
-    "lon": 38.6777887
-  },
-  {
-    "id": "vrv_radar_108611_Щёкинский",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T17:11:56+00:00",
-    "text": "Кимовский район\nЩёкинский район\nЯсногорский район\nТульская область\nФиксации БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Щёкинский",
-    "region": "Тульская область",
-    "lat": 53.8906918,
-    "lon": 37.3865251
-  },
-  {
     "id": "vrv_radar_108611_Ясногорский",
     "channel": "vrv_radar",
     "date": "2026-11-16T17:11:56+00:00",
@@ -21996,6 +21886,116 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153138",
+    "channel": "kupolrussia",
+    "date": "2026-11-17T18:16:12+00:00",
+    "text": "Джанкой, Янтарное и близлежащие опасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263275",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T18:20:59+00:00",
+    "text": "Давыдовка, Симферополь\nи близлежащие, тревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95656",
+    "channel": "locatorru",
+    "date": "2026-11-17T18:21:58+00:00",
+    "text": "Ростовская область - отбой ракетной опасности! \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153139",
+    "channel": "kupolrussia",
+    "date": "2026-11-17T18:22:35+00:00",
+    "text": "Давыдовка, Симферополь\nи близлежащие, тревога по БПЛА\nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263276",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T18:24:06+00:00",
+    "text": "Новопсков и близлежащие \nТревога по БПЛА \nЛНР\nИ далее возможно в направлении Воронежской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153140",
+    "channel": "kupolrussia",
+    "date": "2026-11-17T18:24:43+00:00",
+    "text": "Новопсков и близлежащие \nТревога по БПЛА \nЛНР\nИ далее возможно в направлении Воронежской области",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263277",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T18:25:38+00:00",
+    "text": "Со Сватово в направлении \nБелокуракино\nМостки\nТревога по группе БПЛА\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263278",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T18:25:54+00:00",
+    "text": "Сватово и близлежащие \nТревога по БПЛА \nИ далее на восток \nВ направлении \nБелокуракино\nПодгоровка\nСтаробельск \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153141",
+    "channel": "kupolrussia",
+    "date": "2026-11-17T18:26:09+00:00",
+    "text": "Со Сватово в направлении \nБелокуракино\nМостки\nТревога по группе БПЛА\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153142",
+    "channel": "kupolrussia",
+    "date": "2026-11-17T18:26:41+00:00",
+    "text": "Сватово и близлежащие \nИ далее на восток \nВ направлении \nБелокуракино\nПодгоровка\nСтаробельск \nЛНР",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
