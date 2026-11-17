@@ -1,14 +1,4 @@
 {
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "alert",
-    "text": "Калуга\nКалужская область\nМеры безопасности",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-17T01:18:13+00:00",
-    "expires_at": "2026-11-17T02:18:13+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
@@ -19,43 +9,33 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожской области",
-    "type": "missile",
-    "text": "С Запорожской области еще реактивные цели!\nРакетная опасность по ранее объявленным сохраняется!",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-17T00:59:47+00:00",
-    "expires_at": "2026-11-17T01:59:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "башкортост": {
     "display_name": "Республика Башкортостан",
     "type": "drone",
-    "text": "Стерлитамак, Уфа, Салават, Республика Башкортостан - опасность по БПЛА. Предварительно всё в вашем направлении.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-17T00:58:23+00:00",
-    "expires_at": "2026-11-17T01:58:23+00:00",
+    "text": "Миякинский район\nРеспублика Башкортостан\nЕщё фиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-17T02:00:28+00:00",
+    "expires_at": "2026-11-17T03:00:28+00:00",
     "count": null,
     "count_approx": false
   },
   "брянск": {
-    "display_name": "Брянская область",
+    "display_name": "Брянскую область",
     "type": "drone",
-    "text": "Брянская область - опасность по БПЛА сохраняется. \n\nЕщё фиксации БПЛА через Унеча, Сураж и далее в тыл. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-17T01:22:06+00:00",
-    "expires_at": "2026-11-17T02:22:06+00:00",
+    "text": "Через Брянскую область продолжаются пролеты БпЛА в направлении Калужской области",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-17T01:58:59+00:00",
+    "expires_at": "2026-11-17T02:58:59+00:00",
     "count": null,
     "count_approx": false
   },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
-    "text": "Алексин, Тула, Узловая, Щёкино, Киреевск, Новомосковск, Кимовск, Донской, Венев, Ясногорск и близлежащие, Тульская область - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-17T01:30:54+00:00",
-    "expires_at": "2026-11-17T02:30:54+00:00",
+    "text": "Алексинский район\nТульская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-17T01:48:43+00:00",
+    "expires_at": "2026-11-17T02:48:43+00:00",
     "count": null,
     "count_approx": false
   },
@@ -96,6 +76,66 @@
     "channel": "vrv_radar",
     "updated_at": "2026-11-17T01:45:40+00:00",
     "expires_at": "2026-11-17T02:45:40+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Конаково\nТверская область\nФиксация группы БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-17T01:46:08+00:00",
+    "expires_at": "2026-11-17T02:46:08+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "МО Можайский\nМосковская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-17T01:46:22+00:00",
+    "expires_at": "2026-11-17T02:46:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Вяземский район\nСмоленская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-17T01:46:34+00:00",
+    "expires_at": "2026-11-17T02:46:34+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Краснозоренский район\nОрловская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-17T01:48:03+00:00",
+    "expires_at": "2026-11-17T02:48:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Острогожский район\nВоронежская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-17T01:48:24+00:00",
+    "expires_at": "2026-11-17T02:48:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужской области",
+    "type": "drone",
+    "text": "Через Брянскую область продолжаются пролеты БпЛА в направлении Калужской области",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-17T01:58:59+00:00",
+    "expires_at": "2026-11-17T02:58:59+00:00",
     "count": null,
     "count_approx": false
   }
