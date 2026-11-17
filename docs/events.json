@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_262671",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T12:36:41+00:00",
-    "text": "Курская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_152640",
-    "channel": "kupolrussia",
-    "date": "2026-11-16T12:36:46+00:00",
-    "text": "Курская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_262672",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T12:36:58+00:00",
-    "text": "Харцызск и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_152641",
-    "channel": "kupolrussia",
-    "date": "2026-11-16T12:37:04+00:00",
-    "text": "Харцызск и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_95542",
-    "channel": "locatorru",
-    "date": "2026-11-16T12:42:47+00:00",
-    "text": "Огромное вам спасибо за помощь и поддержку нашей команды! Без вашего участия нам пришлось бы совсем непросто, и мы искренне ценим каждый ваш отклик. Но, к сожалению, за последнее время активность совсем снизилась — словно огонёк, который ещё недавно горел ярко, начал потихоньку угасать. Нам очень не хватает вашего живого участия, и мы надеемся, что вместе мы сможем вернуть прежний запал.\n\nЖелающие помочь нашей команде —\nhttps://pay.cloudtips.ru/p/45774fc7",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_262673",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T12:45:41+00:00",
-    "text": "Белгородская область \nОпасность по БПЛА \nПовторно",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_152643",
     "channel": "kupolrussia",
     "date": "2026-11-16T12:45:47+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109145_Таганрог",
+    "channel": "vrv_radar",
+    "date": "2026-11-17T05:17:51+00:00",
+    "text": "Таганрог\nРостовская область\nМеры безопасности",
+    "type": "alert",
+    "location_name": "Таганрог",
+    "region": "Ростовская область",
+    "lat": 47.215495,
+    "lon": 38.928362
+  },
+  {
+    "id": "locatorru_95631",
+    "channel": "locatorru",
+    "date": "2026-11-17T05:25:15+00:00",
+    "text": "Ивановская область, Нижегородская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ивановская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109146",
+    "channel": "vrv_radar",
+    "date": "2026-11-17T05:25:44+00:00",
+    "text": "Владимирская область\nИвановская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Владимирская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109147",
+    "channel": "vrv_radar",
+    "date": "2026-11-17T05:25:52+00:00",
+    "text": "Нижегородская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Нижегородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109148",
+    "channel": "vrv_radar",
+    "date": "2026-11-17T05:27:10+00:00",
+    "text": "Республика Мордовия\nОтбой внимания по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Мордовия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263130",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T05:29:14+00:00",
+    "text": "Суземка \nИ далее в тыл \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
