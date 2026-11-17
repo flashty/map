@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-17T08:58:37+00:00",
+        "last_updated": "2026-11-17T09:37:37+00:00",
+        "path_labels": [
+          "Шебекинский",
+          "Волоконовский"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.8728034,
+            50.438988
+          ],
+          [
+            37.7986348,
+            50.4498919
+          ]
+        ]
+      }
+    }
+  ]
 }
