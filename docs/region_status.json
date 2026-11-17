@@ -19,26 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "ульяновск": {
-    "display_name": "Ульяновская область",
-    "type": "drone",
-    "text": "Александровка, Мелекесский район, Ульяновская область - пролёт от 10 БПЛА. Примерно направление Димитровград, Новая Майна, Новочеремшанск и далее на Республику Татарстан или в направлении Кошки.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-17T00:42:03+00:00",
-    "expires_at": "2026-11-17T01:42:03+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "оренбургск": {
-    "display_name": "Оренбургская область",
-    "type": "drone",
-    "text": "Андреевка, Курманаевский район, Оренбургская область - пролёт от 3 БПЛА на северо-восток в направлении Республики Башкортостан.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-17T00:43:45+00:00",
-    "expires_at": "2026-11-17T01:43:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожской области",
     "type": "missile",
@@ -69,16 +49,6 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарско": {
-    "display_name": "Краснодарского края",
-    "type": "drone",
-    "text": "Приазовье Краснодарского края\nТревога по БпЛА с Азовского моря",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-17T00:33:14+00:00",
-    "expires_at": "2026-11-17T01:33:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тульск": {
     "display_name": "Тульская область",
     "type": "drone",
@@ -86,6 +56,46 @@
     "channel": "locatorru",
     "updated_at": "2026-11-17T01:30:54+00:00",
     "expires_at": "2026-11-17T02:30:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Урзуф, Ялта, Юрьевка ДНР около 5 БпЛА в Азовское море",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-17T01:31:57+00:00",
+    "expires_at": "2026-11-17T02:31:57+00:00",
+    "count": 5,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградская область",
+    "type": "drone",
+    "text": "Котовский район\nВолгоградская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-17T01:44:17+00:00",
+    "expires_at": "2026-11-17T02:44:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ивановск": {
+    "display_name": "Ивановская область",
+    "type": "drone",
+    "text": "Фурмановский район\nИвановская область\nФиксация группы БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-17T01:45:10+00:00",
+    "expires_at": "2026-11-17T02:45:10+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Ермишинский район\nРязанская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-17T01:45:40+00:00",
+    "expires_at": "2026-11-17T02:45:40+00:00",
     "count": null,
     "count_approx": false
   }

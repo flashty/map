@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_262547_Краснояружский",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T04:56:47+00:00",
-    "text": "Краснояружский район ракетная тревога",
-    "type": "missile",
-    "location_name": "Краснояружский",
-    "region": null,
-    "lat": 50.8175551,
-    "lon": 35.5718561
-  },
-  {
-    "id": "LPRalarm_262548",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T04:56:55+00:00",
-    "text": "РАКЕТНАЯ ОПАСНОСТЬ в Борисовском, Краснояружском, Ракитянском, Грайворонском МО",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_152540",
-    "channel": "kupolrussia",
-    "date": "2026-11-16T04:57:02+00:00",
-    "text": "РАКЕТНАЯ ОПАСНОСТЬ в Борисовском, Краснояружском, Ракитянском, Грайворонском МО",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_262549_Валуйский",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T05:00:08+00:00",
-    "text": "Валуйский район \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Валуйский",
-    "region": null,
-    "lat": 53.1481885,
-    "lon": 36.3185713
-  },
-  {
-    "id": "LPRalarm_262550",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T05:03:05+00:00",
-    "text": "Ростовская область \nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_262551",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T05:03:47+00:00",
-    "text": "Антрацит \nТревога по БПЛА Хорнет Трассы  в сторону Должанки и Ровеньков-Свердловск\nТревога по хорнетам\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_152541",
-    "channel": "kupolrussia",
-    "date": "2026-11-16T05:04:01+00:00",
-    "text": "Ростовская область \nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_152542",
-    "channel": "kupolrussia",
-    "date": "2026-11-16T05:04:09+00:00",
-    "text": "Антрацит \nТревога по БПЛА Хорнет Трассы  в сторону Должанки и Ровеньков-Свердловск\nТревога по хорнетам\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_262552_Перекоп",
     "channel": "LPRalarm",
     "date": "2026-11-16T05:04:29+00:00",
@@ -21998,5 +21910,93 @@
     "region": "Тульская область",
     "lat": 54.3504,
     "lon": 38.2656
+  },
+  {
+    "id": "LPRalarm_263054",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T01:31:53+00:00",
+    "text": "Урзуф, Ялта, Юрьевка ДНР около 5 БпЛА в Азовское море",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_152976",
+    "channel": "kupolrussia",
+    "date": "2026-11-17T01:31:57+00:00",
+    "text": "Урзуф, Ялта, Юрьевка ДНР около 5 БпЛА в Азовское море",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263055_Крыма",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T01:39:11+00:00",
+    "text": "Ещё две реактивные цели со стороны Мелитополя в направлении Крыма",
+    "type": "unknown",
+    "location_name": "Крыма",
+    "region": null,
+    "lat": 54.9683122,
+    "lon": 48.3030779
+  },
+  {
+    "id": "LPRalarm_263056",
+    "channel": "LPRalarm",
+    "date": "2026-11-17T01:40:06+00:00",
+    "text": "Ракетная опасность по ранее объявленным сохраняется!",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_152977",
+    "channel": "kupolrussia",
+    "date": "2026-11-17T01:40:10+00:00",
+    "text": "Ракетная опасность по ранее объявленным сохраняется!",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109062_Котовский",
+    "channel": "vrv_radar",
+    "date": "2026-11-17T01:44:17+00:00",
+    "text": "Котовский район\nВолгоградская область\nФиксация БПЛА",
+    "type": "drone",
+    "location_name": "Котовский",
+    "region": "Волгоградская область",
+    "lat": 50.8500262,
+    "lon": 41.9503997
+  },
+  {
+    "id": "vrv_radar_109063_Фурмановский",
+    "channel": "vrv_radar",
+    "date": "2026-11-17T01:45:10+00:00",
+    "text": "Фурмановский район\nИвановская область\nФиксация группы БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "type": "drone",
+    "location_name": "Фурмановский",
+    "region": "Ивановская область",
+    "lat": 57.2253398,
+    "lon": 41.0074007
+  },
+  {
+    "id": "vrv_radar_109064_Ермишинский",
+    "channel": "vrv_radar",
+    "date": "2026-11-17T01:45:40+00:00",
+    "text": "Ермишинский район\nРязанская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "type": "drone",
+    "location_name": "Ермишинский",
+    "region": "Рязанская область",
+    "lat": 54.7937958,
+    "lon": 42.1352265
   }
 ]
