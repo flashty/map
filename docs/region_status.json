@@ -1,54 +1,4 @@
 {
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Кировский район\nЛенинский район и близлежащие\nОпасность по БПЛА \nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-18T14:01:59+00:00",
-    "expires_at": "2026-11-18T15:01:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "missile",
-    "text": "Херсонская область РФ, Запорожская область РФ \nРеспублика Крым с севера \nРакетная тревога. 3 ракеты\n\nКраснодарский край внимание от Азовского моря",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-18T13:54:49+00:00",
-    "expires_at": "2026-11-18T14:54:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "Мелитополь и близлежащие\nРакетная опасность\nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-18T14:10:15+00:00",
-    "expires_at": "2026-11-18T15:10:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "missile",
-    "text": "Все районы Краснодарский край, Республика Адыгея ракетная тревога",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-18T14:04:45+00:00",
-    "expires_at": "2026-11-18T15:04:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "missile",
-    "text": "Все южные районы Ростовская область ракетная тревога повторно",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-18T14:09:10+00:00",
-    "expires_at": "2026-11-18T15:09:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -66,26 +16,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-18T14:02:45+00:00",
     "expires_at": "2026-11-18T15:02:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "missile",
-    "text": "Все районы Краснодарский край, Республика Адыгея ракетная тревога",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-18T14:04:45+00:00",
-    "expires_at": "2026-11-18T15:04:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ставропольск": {
-    "display_name": "Ставропольский край",
-    "type": "missile",
-    "text": "Ставропольский край\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-18T14:06:59+00:00",
-    "expires_at": "2026-11-18T15:06:59+00:00",
     "count": null,
     "count_approx": false
   }
