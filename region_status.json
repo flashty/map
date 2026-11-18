@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Донецк и близлежащие \nОпасность по БПЛА \nДНР",
+    "text": "Донецк и близлежащие \nОпасность по БПЛА сохраняется, ещё фиксации \nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-18T16:56:19+00:00",
-    "expires_at": "2026-11-18T17:56:19+00:00",
+    "updated_at": "2026-11-18T17:49:00+00:00",
+    "expires_at": "2026-11-18T18:49:00+00:00",
     "count": null,
     "count_approx": false
   },
@@ -30,12 +30,12 @@
     "count_approx": false
   },
   "орловск": {
-    "display_name": "Орловской области",
+    "display_name": "Орловская область",
     "type": "drone",
-    "text": "Экстренная информация РСЧС: Внимание! Опасность атаки БПЛА! На территории Орловской области. Будьте бдительны!",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-18T17:44:36+00:00",
-    "expires_at": "2026-11-18T18:44:36+00:00",
+    "text": "Орловская область\nКалужская область\nСмоленская область\nРостовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-18T17:58:33+00:00",
+    "expires_at": "2026-11-18T18:58:33+00:00",
     "count": null,
     "count_approx": false
   },
@@ -52,30 +52,60 @@
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
-    "text": "Калужская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-18T17:44:15+00:00",
-    "expires_at": "2026-11-18T18:44:15+00:00",
+    "text": "Орловская область\nКалужская область\nСмоленская область\nРостовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-18T17:58:33+00:00",
+    "expires_at": "2026-11-18T18:58:33+00:00",
     "count": null,
     "count_approx": false
   },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Ростовская область \nЮжная часть \nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-18T17:46:01+00:00",
-    "expires_at": "2026-11-18T18:46:01+00:00",
+    "text": "Орловская область\nКалужская область\nСмоленская область\nРостовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-18T17:58:33+00:00",
+    "expires_at": "2026-11-18T18:58:33+00:00",
     "count": null,
     "count_approx": false
   },
   "смоленск": {
     "display_name": "Смоленская область",
     "type": "drone",
-    "text": "Смоленская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-18T17:45:31+00:00",
-    "expires_at": "2026-11-18T18:45:31+00:00",
+    "text": "Орловская область\nКалужская область\nСмоленская область\nРостовская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-18T17:58:33+00:00",
+    "expires_at": "2026-11-18T18:58:33+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Курская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-18T17:52:22+00:00",
+    "expires_at": "2026-11-18T18:52:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белгородск": {
+    "display_name": "Белгородская область",
+    "type": "drone",
+    "text": "Ровеньской район, Белгородская область\nТревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-18T17:56:44+00:00",
+    "expires_at": "2026-11-18T18:56:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Воронежская область \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-18T18:01:14+00:00",
+    "expires_at": "2026-11-18T19:01:14+00:00",
     "count": null,
     "count_approx": false
   }
