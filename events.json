@@ -1,16 +1,5 @@
 [
   {
-    "id": "kupolrussia_152847_Покрово\nТамбов",
-    "channel": "kupolrussia",
-    "date": "2026-11-16T20:27:35+00:00",
-    "text": "Покрово\nТамбов",
-    "type": "unknown",
-    "location_name": "Покрово\nТамбов",
-    "region": null,
-    "lat": 52.6457424,
-    "lon": 41.4185472
-  },
-  {
     "id": "LPRalarm_262894_Покрово\nТамбов",
     "channel": "LPRalarm",
     "date": "2026-11-16T20:27:40+00:00",
@@ -21996,6 +21985,17 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109253",
+    "channel": "vrv_radar",
+    "date": "2026-11-18T12:31:08+00:00",
+    "text": "Новороссийск и близлежащие\nКраснодарский край\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
     "lat": null,
     "lon": null
   }
