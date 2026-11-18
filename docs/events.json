@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_152871",
-    "channel": "kupolrussia",
-    "date": "2026-11-16T20:50:29+00:00",
-    "text": "Владимирская область\nРязанская область\nИвановская область\nМосковская область\nЯрославская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Владимирская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_262922",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T20:50:35+00:00",
-    "text": "Владимирская область\nРязанская область\nИвановская область\nМосковская область\nЯрославская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Владимирская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_108895_Клин",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T20:51:11+00:00",
-    "text": "ГО Клин\nМосковская область\nФиксации БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Клин",
-    "region": "Московская область",
-    "lat": 56.3353282,
-    "lon": 36.7346463
-  },
-  {
-    "id": "vrv_radar_108894_Западнодвинский",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T20:51:11+00:00",
-    "text": "Западнодвинский район\nТверская область\nФиксации БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Западнодвинский",
-    "region": "Тверская область",
-    "lat": 56.1007496,
-    "lon": 31.8429233
-  },
-  {
     "id": "vrv_radar_108898_Малоархангельский",
     "channel": "vrv_radar",
     "date": "2026-11-16T20:51:12+00:00",
@@ -21996,6 +21952,50 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153344",
+    "channel": "kupolrussia",
+    "date": "2026-11-18T15:54:17+00:00",
+    "text": "Геническ и близлежащие и далее в направлении Гонгора, Арабатская стрелка \nОпасность по БПЛА\nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263503",
+    "channel": "LPRalarm",
+    "date": "2026-11-18T15:55:16+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ с запада \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153345",
+    "channel": "kupolrussia",
+    "date": "2026-11-18T15:55:19+00:00",
+    "text": "Отбой опасности по БПЛА Геническ и близлежащие\nИ далее в направлении Генгора и Арабатская стрелка\nХерсонская область РФ",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153346",
+    "channel": "kupolrussia",
+    "date": "2026-11-18T15:55:26+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ с запада \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
