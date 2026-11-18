@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_108837",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T20:14:05+00:00",
-    "text": "АО Троицк\nМосква\nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_262883",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T20:15:00+00:00",
-    "text": "От Славянска на восток юго-восток\nМножественные пролёты БПЛА\n\nЛНР тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_108838_Жуковский",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T20:15:50+00:00",
-    "text": "Жуковский район\nКалужская область\nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Жуковский",
-    "region": "Калужская область",
-    "lat": 55.0074689,
-    "lon": 36.8762225
-  },
-  {
     "id": "vrv_radar_108839",
     "channel": "vrv_radar",
     "date": "2026-11-16T20:16:28+00:00",
@@ -21996,6 +21963,39 @@
     "type": "shelling",
     "location_name": null,
     "region": "Брянской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95711",
+    "channel": "locatorru",
+    "date": "2026-11-18T11:05:26+00:00",
+    "text": "Краснодарский край - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95712",
+    "channel": "locatorru",
+    "date": "2026-11-18T11:05:39+00:00",
+    "text": "Республика Адыгея - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Адыгея",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95713",
+    "channel": "locatorru",
+    "date": "2026-11-18T11:06:11+00:00",
+    "text": "Брянская область, Калужская область, Курская область, Орловская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
