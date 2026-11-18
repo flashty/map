@@ -1,21 +1,21 @@
 {
   "херсонск": {
     "display_name": "Херсонская область",
-    "type": "shelling",
-    "text": "Каховка артобстрел\nХерсонская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-18T11:53:44+00:00",
-    "expires_at": "2026-11-18T12:53:44+00:00",
+    "type": "missile",
+    "text": "Херсонская область РФ авиационная ракетная бомбовая опасность \nОт Вознесенск на Николаев самолёты противника",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-18T12:14:42+00:00",
+    "expires_at": "2026-11-18T13:14:42+00:00",
     "count": null,
     "count_approx": false
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-11-18T11:59:12+00:00",
-    "expires_at": "2026-11-18T12:59:12+00:00",
+    "text": "Анапский район\nКраснодарский край\nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-18T12:08:06+00:00",
+    "expires_at": "2026-11-18T13:08:06+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,6 +26,16 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-11-18T11:59:12+00:00",
     "expires_at": "2026-11-18T12:59:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Роскошное в направление Хрящеватое ЛНР вдоль трассы БПЛА Хорнет",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-18T12:15:37+00:00",
+    "expires_at": "2026-11-18T13:15:37+00:00",
     "count": null,
     "count_approx": false
   }
