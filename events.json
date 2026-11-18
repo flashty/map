@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_108905_Жуковский",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T20:53:51+00:00",
-    "text": "Ферзиковский район\nТарусский район\nЖуковский район\nКалужская область\nФиксации групп БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Жуковский",
-    "region": "Калужская область",
-    "lat": 55.0074689,
-    "lon": 36.8762225
-  },
-  {
-    "id": "kupolrussia_152873",
-    "channel": "kupolrussia",
-    "date": "2026-11-16T20:53:51+00:00",
-    "text": "Саратовская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_262924",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T20:53:55+00:00",
-    "text": "Саратовская область",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_108908_Серпухов",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T20:54:13+00:00",
-    "text": "ГО Серпухов\nМосковская область\nРабота ПВО по БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Серпухов",
-    "region": "Московская область",
-    "lat": 54.9155247,
-    "lon": 37.4195533
-  },
-  {
     "id": "LPRalarm_262925",
     "channel": "LPRalarm",
     "date": "2026-11-16T20:54:39+00:00",
@@ -21996,6 +21952,50 @@
     "type": "missile",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153353",
+    "channel": "kupolrussia",
+    "date": "2026-11-18T17:17:17+00:00",
+    "text": "ЛДНР Запорожская область РФ\nВНИМАНИЕ!\n„Зи ОБЪЯВЛЕН\n\"ЖЕЛТЫЙ УРОВЕНЬ\"\nр ВОЗДУШНОЙ ОПАСНОСТИ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263513",
+    "channel": "LPRalarm",
+    "date": "2026-11-18T17:19:12+00:00",
+    "text": "В районе Днепропетровска Ф16. Могут быть носителями Штормов.\nПриграничные регионы\n\nАвиационно ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153354",
+    "channel": "kupolrussia",
+    "date": "2026-11-18T17:19:21+00:00",
+    "text": "В районе Днепропетровска Ф16. Могут быть носителями Штормов.\nПриграничные регионы\n\nАвиационно ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109261",
+    "channel": "vrv_radar",
+    "date": "2026-11-18T17:20:49+00:00",
+    "text": "⚡️ В течение дня, в период с 8.00 до 20.00 мск, дежурными силами ПВО перехвачен и уничтожен 51 украинский беспилотный летательный аппарат самолетного типа над территорией Краснодарского края и над акваторией Азовского моря.\n\n🔹 Минобороны России",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарского края",
     "lat": null,
     "lon": null
   }
