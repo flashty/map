@@ -1,104 +1,5 @@
 [
   {
-    "id": "vrv_radar_108793",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T19:53:28+00:00",
-    "text": "Алексин \nТульская область \nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_108794_Калуга",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T19:53:29+00:00",
-    "text": "Калуга\nКалужская область\nСбитие БПЛА\nМеры безопасности",
-    "type": "all_clear",
-    "location_name": "Калуга",
-    "region": "Калужская область",
-    "lat": 54.5101087,
-    "lon": 36.2598115
-  },
-  {
-    "id": "vrv_radar_108795",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T19:53:49+00:00",
-    "text": "Алексин \nТульская область \nЕще сбитие БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_108796",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T19:54:06+00:00",
-    "text": "Алексин \nТульская область \nЕще сбитие БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_108797_Калуга",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T19:54:25+00:00",
-    "text": "Калуга\nКалужская область\nПродолжается работа ПВО по БПЛА\nМеры безопасности",
-    "type": "drone",
-    "location_name": "Калуга",
-    "region": "Калужская область",
-    "lat": 54.5101087,
-    "lon": 36.2598115
-  },
-  {
-    "id": "vrv_radar_108798_Воробьёвский",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T19:55:10+00:00",
-    "text": "Воробьёвский район\nВоронежская область\nФиксация от 2 БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Воробьёвский",
-    "region": "Воронежская область",
-    "lat": 50.688171,
-    "lon": 40.822227
-  },
-  {
-    "id": "vrv_radar_108799",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T19:55:33+00:00",
-    "text": "Алексин \nТульская область \nЕще сбитие БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_108800_Калуга",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T19:57:00+00:00",
-    "text": "Калуга\nКалужская область\nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Калуга",
-    "region": "Калужская область",
-    "lat": 54.5101087,
-    "lon": 36.2598115
-  },
-  {
-    "id": "LPRalarm_262872_Выгоничский",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T19:57:05+00:00",
-    "text": "Выгоничский район \nИ далее в направлении Брянск \nТревога по БПЛА сохраняется \nЕщё фиксации \nБрянская область",
-    "type": "drone",
-    "location_name": "Выгоничский",
-    "region": "Брянская область",
-    "lat": 53.0368833,
-    "lon": 33.970228
-  },
-  {
     "id": "vrv_radar_108801_Козельский",
     "channel": "vrv_radar",
     "date": "2026-11-16T19:57:13+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Петровская край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95707_Славянский",
+    "channel": "locatorru",
+    "date": "2026-11-18T07:31:26+00:00",
+    "text": "Водный, Славянский район, Краснодарский край - реактивный БПЛА, курс примерно г.Краснодар.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Славянский",
+    "region": "Краснодарский край",
+    "lat": 44.6922114,
+    "lon": 40.5186028
+  },
+  {
+    "id": "locatorru_95707_Водный",
+    "channel": "locatorru",
+    "date": "2026-11-18T07:31:26+00:00",
+    "text": "Водный, Славянский район, Краснодарский край - реактивный БПЛА, курс примерно г.Краснодар.\n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Водный",
+    "region": "Краснодарский край",
+    "lat": 45.444534,
+    "lon": 38.054291
+  },
+  {
+    "id": "locatorru_95708",
+    "channel": "locatorru",
+    "date": "2026-11-18T07:35:42+00:00",
+    "text": "Отбой по реактивным. Идут бензиновые БПЛА. \nОт 3 БПЛА в направлении Полтавская от Водный. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263416",
+    "channel": "LPRalarm",
+    "date": "2026-11-18T07:36:28+00:00",
+    "text": "Бердянск и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153266",
+    "channel": "kupolrussia",
+    "date": "2026-11-18T07:36:39+00:00",
+    "text": "Бердянск и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109241",
+    "channel": "vrv_radar",
+    "date": "2026-11-18T07:43:56+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95709",
+    "channel": "locatorru",
+    "date": "2026-11-18T07:43:57+00:00",
+    "text": "Ростовская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263417",
+    "channel": "LPRalarm",
+    "date": "2026-11-18T07:44:38+00:00",
+    "text": "Дорожное направление  \nРн Урзуф- Куликовское - Новопетровка \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153267",
+    "channel": "kupolrussia",
+    "date": "2026-11-18T07:44:44+00:00",
+    "text": "Дорожное направление  \nРн Урзуф- Куликовское - Новопетровка \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }

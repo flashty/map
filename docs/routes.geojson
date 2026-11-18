@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-18T07:18:11+00:00",
+        "last_updated": "2026-11-18T07:31:26+00:00",
+        "path_labels": [
+          "Прорвенский (Краснодарский край)",
+          "Водный (Краснодарский край)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.7040263,
+            45.5281029
+          ],
+          [
+            38.054291,
+            45.444534
+          ]
+        ]
+      }
+    }
+  ]
 }
