@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_108835_Калуга",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T20:11:56+00:00",
-    "text": "Калуга\nКалужская область\nПродолжается работа ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Калуга",
-    "region": "Калужская область",
-    "lat": 54.5101087,
-    "lon": 36.2598115
-  },
-  {
-    "id": "LPRalarm_262881",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T20:12:20+00:00",
-    "text": "Погар и близлежащие, тревога по БпЛА \nНовые фиксации в тыл",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_152839",
-    "channel": "kupolrussia",
-    "date": "2026-11-16T20:12:24+00:00",
-    "text": "Погар и близлежащие, тревога по БпЛА \nНовые фиксации в тыл",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_108836_Одинцово",
     "channel": "vrv_radar",
     "date": "2026-11-16T20:13:14+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263448_Счастье",
+    "channel": "LPRalarm",
+    "date": "2026-11-18T10:20:19+00:00",
+    "text": "От Бахмутовки, в направлении Счастье , Луганск\nТревога по БПЛА Хорнет \nТрассы особое внимание",
+    "type": "drone",
+    "location_name": "Счастье",
+    "region": null,
+    "lat": 44.2833363,
+    "lon": 40.0108772
+  },
+  {
+    "id": "kupolrussia_153298_Счастье",
+    "channel": "kupolrussia",
+    "date": "2026-11-18T10:20:33+00:00",
+    "text": "От Бахмутовки, в направлении Счастье , Луганск\nТревога по БПЛА Хорнет \nТрассы особое внимание",
+    "type": "drone",
+    "location_name": "Счастье",
+    "region": null,
+    "lat": 44.2833363,
+    "lon": 40.0108772
+  },
+  {
+    "id": "locatorru_95710",
+    "channel": "locatorru",
+    "date": "2026-11-18T10:28:28+00:00",
+    "text": "Ставропольский край - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ставропольский край",
     "lat": null,
     "lon": null
   }
