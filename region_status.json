@@ -1,14 +1,4 @@
 {
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Гвардейское опасность по БПЛА,далее в направлении Симферополя\nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-17T23:00:55+00:00",
-    "expires_at": "2026-11-18T00:00:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
@@ -16,6 +6,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-17T23:16:02+00:00",
     "expires_at": "2026-11-18T00:16:02+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Новоайдар и близлежащие \nТревога по БПЛА \nИ далее в направлении \nСчастье \nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-17T23:52:15+00:00",
+    "expires_at": "2026-11-18T00:52:15+00:00",
     "count": null,
     "count_approx": false
   }
