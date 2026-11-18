@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_108836_Одинцово",
-    "channel": "vrv_radar",
-    "date": "2026-11-16T20:13:14+00:00",
-    "text": "ГО Одинцово\nМосковская область\nРабота ПВО по БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Одинцово",
-    "region": "Московская область",
-    "lat": 55.678223,
-    "lon": 37.2668096
-  },
-  {
-    "id": "kupolrussia_152840_Щекинский",
-    "channel": "kupolrussia",
-    "date": "2026-11-16T20:13:40+00:00",
-    "text": "Щекинский район\nТульская область",
-    "type": "unknown",
-    "location_name": "Щекинский",
-    "region": "Тульская область",
-    "lat": 53.8906918,
-    "lon": 37.3865251
-  },
-  {
-    "id": "LPRalarm_262882_Щекинский",
-    "channel": "LPRalarm",
-    "date": "2026-11-16T20:13:48+00:00",
-    "text": "Щекинский район\nТульская область",
-    "type": "unknown",
-    "location_name": "Щекинский",
-    "region": "Тульская область",
-    "lat": 53.8906918,
-    "lon": 37.3865251
-  },
-  {
     "id": "vrv_radar_108837",
     "channel": "vrv_radar",
     "date": "2026-11-16T20:14:05+00:00",
@@ -21996,6 +21963,39 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263449",
+    "channel": "LPRalarm",
+    "date": "2026-11-18T10:55:43+00:00",
+    "text": "Токмакский район на юг крылатая ракета или реактивный БПЛА \nЗапорожская область РФ \n\nВ направлении Азовского моря",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153299",
+    "channel": "kupolrussia",
+    "date": "2026-11-18T10:56:28+00:00",
+    "text": "Токмакский район на юг крылатая ракета или реактивный БПЛА \nЗапорожская область РФ \n\nВ направлении Азовского моря",
+    "type": "missile",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263450",
+    "channel": "LPRalarm",
+    "date": "2026-11-18T11:00:46+00:00",
+    "text": "Белая Берёзка обстрел\nБрянской области",
+    "type": "shelling",
+    "location_name": null,
+    "region": "Брянской области",
     "lat": null,
     "lon": null
   }
