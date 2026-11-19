@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_263103",
-    "channel": "LPRalarm",
-    "date": "2026-11-17T04:01:14+00:00",
-    "text": "Ильич \nПриазовский\nГлазовка\nКрымский Мост \nПорт Кавказ \nПорт Крым \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153017",
-    "channel": "kupolrussia",
-    "date": "2026-11-17T04:01:18+00:00",
-    "text": "Ильич \nПриазовский\nГлазовка\nКрымский Мост \nПорт Кавказ \nПорт Крым \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_109138",
-    "channel": "vrv_radar",
-    "date": "2026-11-17T04:01:30+00:00",
-    "text": "Самарская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_109139",
-    "channel": "vrv_radar",
-    "date": "2026-11-17T04:01:40+00:00",
-    "text": "Оренбургская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Оренбургская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263104",
-    "channel": "LPRalarm",
-    "date": "2026-11-17T04:01:51+00:00",
-    "text": "Бежицкий район \nБрянской области \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263105",
-    "channel": "LPRalarm",
-    "date": "2026-11-17T04:01:57+00:00",
-    "text": "Брянская область \nТревога по БПЛА \nПовторно",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_153018",
     "channel": "kupolrussia",
     "date": "2026-11-17T04:01:57+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263761",
+    "channel": "LPRalarm",
+    "date": "2026-11-19T09:02:59+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА сохраняется, единичные фиксации \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153568",
+    "channel": "kupolrussia",
+    "date": "2026-11-19T09:03:11+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА сохраняется, единичные фиксации \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109397",
+    "channel": "vrv_radar",
+    "date": "2026-11-19T09:06:04+00:00",
+    "text": "Орловская область\nОпасность по БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263762",
+    "channel": "LPRalarm",
+    "date": "2026-11-19T09:07:13+00:00",
+    "text": "Орловская область\nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153569",
+    "channel": "kupolrussia",
+    "date": "2026-11-19T09:07:28+00:00",
+    "text": "Орловская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95813",
+    "channel": "locatorru",
+    "date": "2026-11-19T09:12:56+00:00",
+    "text": "Орловская область - опасность по БПЛА от Курской области. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Орловская область",
     "lat": null,
     "lon": null
   }
