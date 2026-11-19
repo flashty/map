@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "shelling",
-    "text": "Белая Берёзка срочно в укрытия\nОбстрел\nБрянская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-19T14:11:11+00:00",
-    "expires_at": "2026-11-19T15:11:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
@@ -36,6 +26,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-19T14:55:52+00:00",
     "expires_at": "2026-11-19T15:55:52+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "А/дороги Андреевка - Нововасильевка , Софиевка- Дмитровка \nТрасса р280 Приморск Луначарское - Осипенко\nТревога по БПЛА \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-19T15:11:20+00:00",
+    "expires_at": "2026-11-19T16:11:20+00:00",
     "count": null,
     "count_approx": false
   }
