@@ -1,21 +1,21 @@
 {
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Трасса Р 280\nПриазовское - Луначарское - Осипенко \nТревога по БПЛА \nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-19T08:14:51+00:00",
-    "expires_at": "2026-11-19T09:14:51+00:00",
+    "type": "missile",
+    "text": "ЛДНР Запорожская область РФ \nАвиационно ракетно бомбовая опасность повторно",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-19T08:49:24+00:00",
+    "expires_at": "2026-11-19T09:49:24+00:00",
     "count": null,
     "count_approx": false
   },
   "крым": {
     "display_name": "Республика Крым",
-    "type": "alert",
-    "text": "Феодосия и близлежащие \nОпасность по МВШ\nРеспублика Крым",
+    "type": "drone",
+    "text": "Группа БПЛА предположительно в направлении Феодосийского залива\n\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-19T08:33:24+00:00",
-    "expires_at": "2026-11-19T09:33:24+00:00",
+    "updated_at": "2026-11-19T08:52:18+00:00",
+    "expires_at": "2026-11-19T09:52:18+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +36,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-19T08:38:41+00:00",
     "expires_at": "2026-11-19T09:38:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "missile",
+    "text": "Ростовская область\nРакетная опасность\n\nКарта опасностей - radar-vrv.ru",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-19T08:54:31+00:00",
+    "expires_at": "2026-11-19T09:54:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Чаплинка и близлежащие опасность по ударным БПЛА \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-19T09:00:20+00:00",
+    "expires_at": "2026-11-19T10:00:20+00:00",
     "count": null,
     "count_approx": false
   }
