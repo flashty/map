@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_263066_Унечский",
-    "channel": "LPRalarm",
-    "date": "2026-11-17T02:25:55+00:00",
-    "text": "Унеча\nУнечский район\nТревога по БпЛА сохраняется",
-    "type": "drone",
-    "location_name": "Унечский",
-    "region": null,
-    "lat": 52.8313819,
-    "lon": 32.8245377
-  },
-  {
-    "id": "kupolrussia_152987_Унечский",
-    "channel": "kupolrussia",
-    "date": "2026-11-17T02:25:58+00:00",
-    "text": "Унеча\nУнечский район\nТревога по БпЛА сохраняется",
-    "type": "drone",
-    "location_name": "Унечский",
-    "region": null,
-    "lat": 52.8313819,
-    "lon": 32.8245377
-  },
-  {
-    "id": "vrv_radar_109094_Салават",
-    "channel": "vrv_radar",
-    "date": "2026-11-17T02:26:07+00:00",
-    "text": "Салават\nРеспублика Башкортостан\nРабота ПВО по БПЛА",
-    "type": "drone",
-    "location_name": "Салават",
-    "region": "Республика Башкортостан",
-    "lat": 53.361687,
-    "lon": 55.924641
-  },
-  {
     "id": "vrv_radar_109095_Благовещенский",
     "channel": "vrv_radar",
     "date": "2026-11-17T02:26:20+00:00",
@@ -21996,6 +21963,39 @@
     "type": "alert",
     "location_name": null,
     "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109374_Липецк",
+    "channel": "vrv_radar",
+    "date": "2026-11-19T04:19:52+00:00",
+    "text": "Липецк\nЛипецкая область\nРабота ПВО по БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "type": "drone",
+    "location_name": "Липецк",
+    "region": "Липецкая область",
+    "lat": 52.6051488,
+    "lon": 39.5963775
+  },
+  {
+    "id": "LPRalarm_263706",
+    "channel": "LPRalarm",
+    "date": "2026-11-19T04:22:27+00:00",
+    "text": "Красноперекопский район \nТревога по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153521",
+    "channel": "kupolrussia",
+    "date": "2026-11-19T04:22:37+00:00",
+    "text": "Красноперекопский район \nТревога по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
