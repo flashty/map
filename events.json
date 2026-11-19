@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_263222",
-    "channel": "LPRalarm",
-    "date": "2026-11-17T13:00:41+00:00",
-    "text": "Белгородская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153108",
-    "channel": "kupolrussia",
-    "date": "2026-11-17T13:00:58+00:00",
-    "text": "Белгородская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153109",
-    "channel": "kupolrussia",
-    "date": "2026-11-17T13:01:04+00:00",
-    "text": "Токмак\nТокмакский район опасность по БПЛА\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_95647",
-    "channel": "locatorru",
-    "date": "2026-11-17T13:02:49+00:00",
-    "text": "За прошедшую ночь было уничтожено 9 крылатых ракет «Фламинго», которые были запущены в сторону Крымского моста, за сутки было уничтожено 2256 БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263223",
-    "channel": "LPRalarm",
-    "date": "2026-11-17T13:04:47+00:00",
-    "text": "Бессоновка и близлежащие\nБелгородская область и далее на север\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_95648",
-    "channel": "locatorru",
-    "date": "2026-11-17T13:04:50+00:00",
-    "text": "Тамбовская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153110",
-    "channel": "kupolrussia",
-    "date": "2026-11-17T13:05:29+00:00",
-    "text": "Бессоновка и близлежащие\nБелгородская область и далее на север\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_95649",
     "channel": "locatorru",
     "date": "2026-11-17T13:05:40+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153675",
+    "channel": "kupolrussia",
+    "date": "2026-11-19T13:47:22+00:00",
+    "text": "Новотроицкое\nХерсонская область РФ \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263881",
+    "channel": "LPRalarm",
+    "date": "2026-11-19T13:49:14+00:00",
+    "text": "Новотроицкое\nХерсонская область РФ \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263882",
+    "channel": "LPRalarm",
+    "date": "2026-11-19T13:51:58+00:00",
+    "text": "Токмак и далее на Юг\nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153676",
+    "channel": "kupolrussia",
+    "date": "2026-11-19T13:52:09+00:00",
+    "text": "Токмак и далее на Юг\nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263883",
+    "channel": "LPRalarm",
+    "date": "2026-11-19T13:53:17+00:00",
+    "text": "Белая Берёзка обстрел\nСрочно в укрытия \nБрянская область",
+    "type": "shelling",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263884",
+    "channel": "LPRalarm",
+    "date": "2026-11-19T13:58:36+00:00",
+    "text": "Белая Берёзка опасность БПЛА-разведчик\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153677",
+    "channel": "kupolrussia",
+    "date": "2026-11-19T13:58:43+00:00",
+    "text": "Белая Берёзка опасность БПЛА-разведчик\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
