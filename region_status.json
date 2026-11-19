@@ -2,30 +2,10 @@
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
-    "text": "Новоалексеевка и близлежащие \nХерсонская область РФ\nТревога по БПЛА \nОсобое внимание трассы",
+    "text": "Каховка, тревога по БПЛА разведке\nХерсонская область РФ",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-19T14:12:59+00:00",
-    "expires_at": "2026-11-19T15:12:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "aviation",
-    "text": "Энергодар и близлежащие \nЗапорожская область РФ \nОсобое внимание по авиации противника",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-19T14:10:39+00:00",
-    "expires_at": "2026-11-19T15:10:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "missile",
-    "text": "Курская область и близлежащие \nАвиационная ракетно бомбовая опасность",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-19T13:17:24+00:00",
-    "expires_at": "2026-11-19T14:17:24+00:00",
+    "updated_at": "2026-11-19T14:30:04+00:00",
+    "expires_at": "2026-11-19T15:30:04+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +16,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-19T14:11:11+00:00",
     "expires_at": "2026-11-19T15:11:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка и близлежащие \nТревога по БПЛА \nМеры безопасности \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-19T14:23:03+00:00",
+    "expires_at": "2026-11-19T15:23:03+00:00",
     "count": null,
     "count_approx": false
   }
