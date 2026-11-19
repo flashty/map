@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_109090_Кимовский",
-    "channel": "vrv_radar",
-    "date": "2026-11-17T02:21:48+00:00",
-    "text": "Кимовский район\nТульская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Кимовский",
-    "region": "Тульская область",
-    "lat": 53.8404975,
-    "lon": 38.6777887
-  },
-  {
-    "id": "vrv_radar_109091_Михайловский",
-    "channel": "vrv_radar",
-    "date": "2026-11-17T02:21:58+00:00",
-    "text": "Михайловский район\nРязанская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Михайловский",
-    "region": "Рязанская область",
-    "lat": 54.2303577,
-    "lon": 39.0202073
-  },
-  {
-    "id": "vrv_radar_109092_Вадский",
-    "channel": "vrv_radar",
-    "date": "2026-11-17T02:22:19+00:00",
-    "text": "Вадский район\nНижегородская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Вадский",
-    "region": "Нижегородская область",
-    "lat": 55.5015206,
-    "lon": 44.2015429
-  },
-  {
-    "id": "vrv_radar_109093_Туймазинский",
-    "channel": "vrv_radar",
-    "date": "2026-11-17T02:22:45+00:00",
-    "text": "Туймазинский район\nРеспублика Башкортостан\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Туймазинский",
-    "region": "Республика Башкортостан",
-    "lat": 54.5317894,
-    "lon": 53.9319327
-  },
-  {
     "id": "LPRalarm_263066_Унечский",
     "channel": "LPRalarm",
     "date": "2026-11-17T02:25:55+00:00",
@@ -21996,6 +21952,50 @@
     "type": "unknown",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263704",
+    "channel": "LPRalarm",
+    "date": "2026-11-19T04:03:04+00:00",
+    "text": "Восток Крыма \nКерченский полуостров \nКрымский мост \nТревога по реактивным БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109373_Липецк",
+    "channel": "vrv_radar",
+    "date": "2026-11-19T04:08:09+00:00",
+    "text": "Липецк\nЛипецкая область\nМеры безопасности",
+    "type": "alert",
+    "location_name": "Липецк",
+    "region": "Липецкая область",
+    "lat": 52.6051488,
+    "lon": 39.5963775
+  },
+  {
+    "id": "kupolrussia_153520",
+    "channel": "kupolrussia",
+    "date": "2026-11-19T04:09:11+00:00",
+    "text": "Липецкая область \nТревога сохраняется\nи\n<\nРА",
+    "type": "alert",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_263705",
+    "channel": "LPRalarm",
+    "date": "2026-11-19T04:09:15+00:00",
+    "text": "Липецкая область \nТревога сохраняется\nи\n<\nРА",
+    "type": "alert",
+    "location_name": null,
+    "region": "Липецкая область",
     "lat": null,
     "lon": null
   }
