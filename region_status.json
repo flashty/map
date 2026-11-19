@@ -1,14 +1,4 @@
 {
-  "башкортост": {
-    "display_name": "Республика Башкортостан",
-    "type": "drone",
-    "text": "Республика Башкортостан\nВНИМАНИЕ!!!\n——/^\\ — оБЪЯВЛЕН |\n^^ М желтый уровень\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-19T01:37:27+00:00",
-    "expires_at": "2026-11-19T02:37:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "оренбургск": {
     "display_name": "Оренбургская область",
     "type": "drone",
@@ -16,6 +6,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-19T02:14:54+00:00",
     "expires_at": "2026-11-19T03:14:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Набережное \nИ далее в направлении Приморск \nФиксация БПЛА \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-19T02:33:44+00:00",
+    "expires_at": "2026-11-19T03:33:44+00:00",
     "count": null,
     "count_approx": false
   }
