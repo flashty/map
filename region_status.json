@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Брянская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-19T12:04:56+00:00",
-    "expires_at": "2026-11-19T13:04:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "missile",
@@ -29,43 +19,13 @@
     "count": null,
     "count_approx": false
   },
-  "-": {
-    "display_name": "Республика -",
-    "type": "missile",
-    "text": "Ижевск, Воткинск и близлежащие, Удмуртская Республика - ракетная опасность, повторно! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-19T12:08:33+00:00",
-    "expires_at": "2026-11-19T13:08:33+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "оренбургск": {
     "display_name": "Оренбургская область",
     "type": "missile",
-    "text": "Республика Башкортостан\nОренбургская область\nКировская область\nУдмуртская Республика\nРакетная опасность\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-11-19T12:10:42+00:00",
-    "expires_at": "2026-11-19T13:10:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "башкортост": {
-    "display_name": "Республика Башкортостан",
-    "type": "missile",
-    "text": "Республика Башкортостан\nОренбургская область\nКировская область\nУдмуртская Республика\nРакетная опасность\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-11-19T12:10:42+00:00",
-    "expires_at": "2026-11-19T13:10:42+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ракетн": {
-    "display_name": "Республика\nРакетная",
-    "type": "missile",
-    "text": "Республика Башкортостан\nОренбургская область\nКировская область\nУдмуртская Республика\nРакетная опасность\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-11-19T12:10:42+00:00",
-    "expires_at": "2026-11-19T13:10:42+00:00",
+    "text": "Орск, Оренбургская область - ракетная опасность сохраняется. Возможно появление реактивных БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-19T13:04:59+00:00",
+    "expires_at": "2026-11-19T14:04:59+00:00",
     "count": null,
     "count_approx": false
   },
@@ -116,6 +76,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-19T12:57:19+00:00",
     "expires_at": "2026-11-19T13:57:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "missile",
+    "text": "Курская область и близлежащие \nАвиационная ракетно бомбовая опасность",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-19T13:17:24+00:00",
+    "expires_at": "2026-11-19T14:17:24+00:00",
     "count": null,
     "count_approx": false
   }
