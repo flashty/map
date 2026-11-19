@@ -28,5 +28,85 @@
     "expires_at": "2026-11-19T11:38:09+00:00",
     "count": null,
     "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Внуково \nКрасная Поляна \nЧерноморское \nТрасса\nТревога по БПЛА \nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-19T10:46:46+00:00",
+    "expires_at": "2026-11-19T11:46:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тамбовск": {
+    "display_name": "Тамбовская область",
+    "type": "missile",
+    "text": "Тамбовская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-19T10:59:24+00:00",
+    "expires_at": "2026-11-19T11:59:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "missile",
+    "text": "Воронежская область \nРакетная опасность \nСрочно принять меры безопасности",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-19T11:01:42+00:00",
+    "expires_at": "2026-11-19T12:01:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "саратовск": {
+    "display_name": "Саратовская область",
+    "type": "missile",
+    "text": "Саратовская область \nПензенская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-19T11:00:10+00:00",
+    "expires_at": "2026-11-19T12:00:10+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пензенск": {
+    "display_name": "Пензенская область",
+    "type": "missile",
+    "text": "Саратовская область \nПензенская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-19T11:00:10+00:00",
+    "expires_at": "2026-11-19T12:00:10+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "липецк": {
+    "display_name": "Липецкая область",
+    "type": "missile",
+    "text": "Липецкая область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-19T11:00:07+00:00",
+    "expires_at": "2026-11-19T12:00:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ульяновск": {
+    "display_name": "Ульяновская область",
+    "type": "missile",
+    "text": "Ульяновская область\nРакетная опасность\n\nКарта опасностей - radar-vrv.ru",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-19T11:00:32+00:00",
+    "expires_at": "2026-11-19T12:00:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "волгоградск": {
+    "display_name": "Волгоградская область",
+    "type": "missile",
+    "text": "Волгоградская область \nРакетная опасность",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-19T11:01:18+00:00",
+    "expires_at": "2026-11-19T12:01:18+00:00",
+    "count": null,
+    "count_approx": false
   }
 }
