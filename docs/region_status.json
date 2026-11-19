@@ -1,31 +1,11 @@
 {
   "смоленск": {
     "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Демидовский район\nСмоленская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-19T23:02:20+00:00",
-    "expires_at": "2026-11-20T00:02:20+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Новороссийск, Геленджик и близлежащие, Краснодарский край - группа БПЛА над морем в направлении примерно Геленджик.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-19T22:16:32+00:00",
-    "expires_at": "2026-11-19T23:16:32+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Щёкинский район\nТульская область\nРабота ПВО по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-19T22:24:32+00:00",
-    "expires_at": "2026-11-19T23:24:32+00:00",
+    "type": "missile",
+    "text": "Смоленская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-19T23:29:26+00:00",
+    "expires_at": "2026-11-20T00:29:26+00:00",
     "count": null,
     "count_approx": false
   },
@@ -41,11 +21,11 @@
   },
   "орловск": {
     "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Троснянский район\nГлазуновский район\nОрловская область\nФиксации БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-19T23:02:58+00:00",
-    "expires_at": "2026-11-20T00:02:58+00:00",
+    "type": "missile",
+    "text": "Калужская область, Орловская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-19T23:29:34+00:00",
+    "expires_at": "2026-11-20T00:29:34+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +36,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-19T23:06:51+00:00",
     "expires_at": "2026-11-20T00:06:51+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "missile",
+    "text": "Брянская область и далее в тыл\nРакетная опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-19T23:28:44+00:00",
+    "expires_at": "2026-11-20T00:28:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "missile",
+    "text": "Калужская область, Орловская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-19T23:29:34+00:00",
+    "expires_at": "2026-11-20T00:29:34+00:00",
     "count": null,
     "count_approx": false
   }
