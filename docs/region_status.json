@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Орловская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-19T10:28:55+00:00",
-    "expires_at": "2026-11-19T11:28:55+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "missile",
@@ -122,10 +112,10 @@
   "московск": {
     "display_name": "Московская область",
     "type": "missile",
-    "text": "Москва\nМосковская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-19T11:05:09+00:00",
-    "expires_at": "2026-11-19T12:05:09+00:00",
+    "text": "Московская область\nРакетная опасность\n\nКарта опасностей - radar-vrv.ru",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-19T11:29:14+00:00",
+    "expires_at": "2026-11-19T12:29:14+00:00",
     "count": null,
     "count_approx": false
   },
@@ -182,10 +172,40 @@
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "missile",
-    "text": "Чувашская Республика, Республика Татарстан - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "text": "Республика Татарстан\nРакетная опасность\n\nКарта опасностей - radar-vrv.ru",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-19T11:17:53+00:00",
+    "expires_at": "2026-11-19T12:17:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "missile",
+    "text": "Новомосковск \nТульская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-19T11:20:35+00:00",
+    "expires_at": "2026-11-19T12:20:35+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Опасность БПЛА \n трасса Р-280\nПриморск - Владимировка\nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-19T11:30:45+00:00",
+    "expires_at": "2026-11-19T12:30:45+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "-": {
+    "display_name": "Республика -",
+    "type": "missile",
+    "text": "Удмуртская Республика - ракетная опасность! \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-11-19T11:16:07+00:00",
-    "expires_at": "2026-11-19T12:16:07+00:00",
+    "updated_at": "2026-11-19T11:30:09+00:00",
+    "expires_at": "2026-11-19T12:30:09+00:00",
     "count": null,
     "count_approx": false
   }
