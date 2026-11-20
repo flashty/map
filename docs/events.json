@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_263515",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T17:44:03+00:00",
-    "text": "Экстренная информация РСЧС: Внимание! Опасность атаки БПЛА! На территории Орловской области. Будьте бдительны!",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_109263",
-    "channel": "vrv_radar",
-    "date": "2026-11-18T17:44:15+00:00",
-    "text": "Калужская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153356",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T17:44:36+00:00",
-    "text": "Экстренная информация РСЧС: Внимание! Опасность атаки БПЛА! На территории Орловской области. Будьте бдительны!",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153357",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T17:44:46+00:00",
-    "text": "Противник готовит запуски БПЛА от Николаевской области в направлении Херсонской области РФ, Запорожской области РФ, и далее на север, северо-восток Крыма, Керченский полуостров",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонской области",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_263517",
     "channel": "LPRalarm",
     "date": "2026-11-18T17:45:28+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264186",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T06:52:47+00:00",
+    "text": "Приморское и далее в направлении Новоазовск \nОпасность по БПЛА\nДНР\nОсобое внимание трасса",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153934",
+    "channel": "kupolrussia",
+    "date": "2026-11-20T06:52:55+00:00",
+    "text": "Приморское и далее в направлении Новоазовск \nОпасность по БПЛА\nДНР\nОсобое внимание трасса",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264187",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T07:00:48+00:00",
+    "text": "Юг Ростовской области \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153935",
+    "channel": "kupolrussia",
+    "date": "2026-11-20T07:01:03+00:00",
+    "text": "Юг Ростовской области\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовской области",
     "lat": null,
     "lon": null
   }
