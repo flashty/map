@@ -1,93 +1,5 @@
 [
   {
-    "id": "vrv_radar_109344_Неверкинский",
-    "channel": "vrv_radar",
-    "date": "2026-11-18T23:27:56+00:00",
-    "text": "Неверкинский район\nПензенская область\nФиксация реактивного БПЛА",
-    "type": "drone",
-    "location_name": "Неверкинский",
-    "region": "Пензенская область",
-    "lat": 52.7787253,
-    "lon": 46.690152
-  },
-  {
-    "id": "LPRalarm_263679",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T23:28:13+00:00",
-    "text": "Гвардейское \nГРЭС \nСимферопольский аэропорт\nИ близлежащие \nТревога по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153499",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T23:28:31+00:00",
-    "text": "Гвардейское \nГРЭС \nСимферопольский аэропорт\nИ близлежащие \nТревога по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263680_Брасовский",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T23:29:08+00:00",
-    "text": "Погребы\nБрасовский район \nИ близлежащие\nТревога по БПЛА \nДалее в направлении Навля\nБрянская область",
-    "type": "drone",
-    "location_name": "Брасовский",
-    "region": "Брянская область",
-    "lat": 52.632653,
-    "lon": 34.7134905
-  },
-  {
-    "id": "LPRalarm_263680_Навля",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T23:29:08+00:00",
-    "text": "Погребы\nБрасовский район \nИ близлежащие\nТревога по БПЛА \nДалее в направлении Навля\nБрянская область",
-    "type": "drone",
-    "location_name": "Навля",
-    "region": "Брянская область",
-    "lat": 52.8271323,
-    "lon": 34.4993843
-  },
-  {
-    "id": "kupolrussia_153500",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T23:30:32+00:00",
-    "text": "Саратовская область \nПензенская область \nУльяновская область \n\nВ том числе реактивным\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263681",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T23:30:37+00:00",
-    "text": "Саратовская область \nПензенская область \nУльяновская область \n\nВ том числе реактивным\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263682",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T23:32:28+00:00",
-    "text": "Дятьково \nДятьковский район \nБрянская область \nТревога по БПЛА \nИ далее в направлении \nКалужская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_153501",
     "channel": "kupolrussia",
     "date": "2026-11-18T23:32:40+00:00",
@@ -21996,6 +21908,94 @@
     "type": "missile",
     "location_name": null,
     "region": "Орловская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154079",
+    "channel": "kupolrussia",
+    "date": "2026-11-20T21:16:14+00:00",
+    "text": "Калужская область \nСмоленская область \nПриготовиться к массовой волне БПЛА от Брянской области\nи\n<\nРК",
+    "type": "drone",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264361",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T21:16:17+00:00",
+    "text": "Калужская область \nСмоленская область \nПриготовиться к массовой волне БПЛА от Брянской области\nи\n<\nРК",
+    "type": "drone",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109610",
+    "channel": "vrv_radar",
+    "date": "2026-11-20T21:16:18+00:00",
+    "text": "Калужская область\nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154080",
+    "channel": "kupolrussia",
+    "date": "2026-11-20T21:16:19+00:00",
+    "text": "Тульская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264362",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T21:16:25+00:00",
+    "text": "Тульская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109611",
+    "channel": "vrv_radar",
+    "date": "2026-11-20T21:16:40+00:00",
+    "text": "Смоленская область\nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Смоленская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109612",
+    "channel": "vrv_radar",
+    "date": "2026-11-20T21:16:44+00:00",
+    "text": "Рязанская область\nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109613",
+    "channel": "vrv_radar",
+    "date": "2026-11-20T21:17:57+00:00",
+    "text": "Московская область\nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Московская область",
     "lat": null,
     "lon": null
   }
