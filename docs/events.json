@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_263547_Бутурлиновский",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T19:05:29+00:00",
-    "text": "Бутурлиновский район \nВоронежская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Бутурлиновский",
-    "region": "Воронежская область",
-    "lat": 50.7920286,
-    "lon": 40.5642561
-  },
-  {
-    "id": "LPRalarm_263548",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T19:05:35+00:00",
-    "text": "Противник готовит массовый запуск БПЛА от Черниговской области",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153387",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T19:06:25+00:00",
-    "text": "Противник готовит массовый запуск БПЛА от Черниговской области",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153388_Бутурлиновский",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T19:06:32+00:00",
-    "text": "Бутурлиновский район \nВоронежская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": "Бутурлиновский",
-    "region": "Воронежская область",
-    "lat": 50.7920286,
-    "lon": 40.5642561
-  },
-  {
     "id": "LPRalarm_263549_Стародубский",
     "channel": "LPRalarm",
     "date": "2026-11-18T19:07:43+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Мурманская область",
     "lat": 67.568626,
     "lon": 33.404392
+  },
+  {
+    "id": "kupolrussia_153959",
+    "channel": "kupolrussia",
+    "date": "2026-11-20T10:12:42+00:00",
+    "text": "Мурманская область\nок ОТБОЙ\nль ОПАСНОСТИ ПО БПЛА\n2.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Мурманская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264215",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T10:12:51+00:00",
+    "text": "Мурманская область\nок ОТБОЙ\nль ОПАСНОСТИ ПО БПЛА\n2.",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Мурманская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264216",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T10:14:19+00:00",
+    "text": "г. Белгород \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153960",
+    "channel": "kupolrussia",
+    "date": "2026-11-20T10:14:23+00:00",
+    "text": "г. Белгород \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
   }
 ]
