@@ -1,14 +1,4 @@
 {
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Керчь, Керченский полуостров, тревога по БПЛА.\nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-20T21:57:07+00:00",
-    "expires_at": "2026-11-20T22:57:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
@@ -40,52 +30,32 @@
     "count_approx": false
   },
   "брянск": {
-    "display_name": "Брянскую область",
+    "display_name": "Брянской области",
     "type": "drone",
-    "text": "Продолжается массовый пролёт БПЛА от Черниговской области на Брянскую область. \n\n📡Локатор России - @locatorru",
+    "text": "Ещё фиксации БПЛА от госграницы в сторону Брянской области.\n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-11-20T22:16:49+00:00",
-    "expires_at": "2026-11-20T23:16:49+00:00",
+    "updated_at": "2026-11-20T22:59:18+00:00",
+    "expires_at": "2026-11-20T23:59:18+00:00",
     "count": null,
     "count_approx": false
   },
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
-    "text": "Предварительно БПЛА от г.Тверь на Торжок, Тверская область. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-20T22:42:39+00:00",
-    "expires_at": "2026-11-20T23:42:39+00:00",
+    "text": "Бельский район\nТверская область\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-20T22:58:44+00:00",
+    "expires_at": "2026-11-20T23:58:44+00:00",
     "count": null,
     "count_approx": false
   },
   "смоленск": {
-    "display_name": "Смоленскую область",
+    "display_name": "Смоленская область",
     "type": "drone",
-    "text": "Продолжается массовый пролёт БПЛА от Брянской области на Смоленскую область.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-20T22:32:43+00:00",
-    "expires_at": "2026-11-20T23:32:43+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Курская область, Рыльск и близлежащие, тревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-20T21:59:39+00:00",
-    "expires_at": "2026-11-20T22:59:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Барятинский район\nКалужская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "text": "Тёмкинский район\nСмоленская область\nФиксация БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-11-20T22:05:25+00:00",
-    "expires_at": "2026-11-20T23:05:25+00:00",
+    "updated_at": "2026-11-20T22:59:12+00:00",
+    "expires_at": "2026-11-20T23:59:12+00:00",
     "count": null,
     "count_approx": false
   },
@@ -156,6 +126,36 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-11-20T22:44:10+00:00",
     "expires_at": "2026-11-20T23:44:10+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "drone",
+    "text": "Ильский \nАфипский \nСлавянск-на-Кубани и близлежащие \nОпасность по БПЛА \nКраснодарский край",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-20T22:46:22+00:00",
+    "expires_at": "2026-11-20T23:46:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "московск": {
+    "display_name": "Московская область",
+    "type": "drone",
+    "text": "Московская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-20T22:59:22+00:00",
+    "expires_at": "2026-11-20T23:59:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Куйбышевский район\nКировский район\nСпас-Деменский район \nКалужская область\nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-20T23:00:39+00:00",
+    "expires_at": "2026-11-21T00:00:39+00:00",
     "count": null,
     "count_approx": false
   }
