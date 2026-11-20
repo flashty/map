@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "северно": {
-    "display_name": "Республики Северного",
-    "type": "drone",
-    "text": "Республика Ингушетия \nЧеченская республика \nРеспублики Северного Кавказа \nРеспублика Северная Осетия Алания\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nЧМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-20T03:59:59+00:00",
-    "expires_at": "2026-11-20T04:59:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "северн": {
     "display_name": "Республика Северная",
     "type": "drone",
@@ -116,6 +106,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-20T04:37:18+00:00",
     "expires_at": "2026-11-20T05:37:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Нововоронеж, Новая Усмань, Воронеж, Воронежская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-20T04:49:03+00:00",
+    "expires_at": "2026-11-20T05:49:03+00:00",
     "count": null,
     "count_approx": false
   }
