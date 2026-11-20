@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_109269_Знаменский",
-    "channel": "vrv_radar",
-    "date": "2026-11-18T18:07:00+00:00",
-    "text": "Знаменский район\nОрловская область\nСбитие БПЛА",
-    "type": "all_clear",
-    "location_name": "Знаменский",
-    "region": "Орловская область",
-    "lat": 52.9974809,
-    "lon": 36.066136
-  },
-  {
-    "id": "kupolrussia_153369",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T18:07:09+00:00",
-    "text": "Тульская область от Орловской \nПока единичные фиксации\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263529",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T18:07:15+00:00",
-    "text": "Тульская область от Орловской \nПока единичные фиксации\nи\n<>\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_263530",
     "channel": "LPRalarm",
     "date": "2026-11-18T18:08:30+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264201",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T08:39:48+00:00",
+    "text": "Фиолент и близлежащие \nРеспублика Крым \nВнимание по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153946",
+    "channel": "kupolrussia",
+    "date": "2026-11-20T08:40:03+00:00",
+    "text": "Фиолент и близлежащие \nРеспублика Крым \nВнимание по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109569",
+    "channel": "vrv_radar",
+    "date": "2026-11-20T08:45:46+00:00",
+    "text": "Ставропольский край\nОтбой опасности по МВШ\n\nКарта опасностей - radar-vrv.ru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ставропольский край",
     "lat": null,
     "lon": null
   }
