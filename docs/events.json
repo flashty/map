@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_263483",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T14:02:06+00:00",
-    "text": "Кача\nБельбек\nСевастополь и близлежащие\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153328",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T14:02:16+00:00",
-    "text": "Кача\nБельбек\nСевастополь и близлежащие\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_95720",
-    "channel": "locatorru",
-    "date": "2026-11-18T14:02:27+00:00",
-    "text": "Краснодарский край - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_109256",
-    "channel": "vrv_radar",
-    "date": "2026-11-18T14:02:32+00:00",
-    "text": "Краснодарский край\nРеспублика Адыгея \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263484",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T14:02:38+00:00",
-    "text": "Таганрог и далее на Ростов на Дону, северные районы Краснодарского края, Республика Адыгея (возможно Майкоп)\n\nТревога по Штормам",
-    "type": "alert",
-    "location_name": null,
-    "region": "Краснодарского края",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153329",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T14:02:45+00:00",
-    "text": "Таганрог и далее на Ростов на Дону, северные районы Краснодарского края, Республика Адыгея (возможно Майкоп)\n\nТревога по Штормам",
-    "type": "alert",
-    "location_name": null,
-    "region": "Краснодарского края",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263485_Азов",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T14:02:57+00:00",
-    "text": "Азов, Танаис, Батайск Ростовская область ракетная опасность\n\nРостов-на-Дону ракетная опасность",
-    "type": "missile",
-    "location_name": "Азов",
-    "region": "Ростовская область",
-    "lat": 47.1139219,
-    "lon": 39.4259657
-  },
-  {
-    "id": "LPRalarm_263485_Танаис",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T14:02:57+00:00",
-    "text": "Азов, Танаис, Батайск Ростовская область ракетная опасность\n\nРостов-на-Дону ракетная опасность",
-    "type": "missile",
-    "location_name": "Танаис",
-    "region": "Ростовская область",
-    "lat": 47.266577,
-    "lon": 39.3361112
-  },
-  {
     "id": "LPRalarm_263485_Батайск",
     "channel": "LPRalarm",
     "date": "2026-11-18T14:02:57+00:00",
@@ -21996,6 +21908,94 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95910",
+    "channel": "locatorru",
+    "date": "2026-11-20T04:33:30+00:00",
+    "text": "Ростовская область, Волгоградская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109543",
+    "channel": "vrv_radar",
+    "date": "2026-11-20T04:34:26+00:00",
+    "text": "Напоминаем, что наша онлайн карта уже доступна. \n\nСейчас проект находится на этапе бета-тестирования, поэтому будем рады вашей обратной связи: \n👉 @vrv_report_bot\n\n🔗 Канал сайта: http://t.me/radar_vrv_site\n🔗 Карта: radar-vrv.ru",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95911_Моздок",
+    "channel": "locatorru",
+    "date": "2026-11-20T04:35:00+00:00",
+    "text": "Моздок, Республика Северная Осетия —Алания - возможно появление единичных БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Моздок",
+    "region": "Республика Северная",
+    "lat": 43.735584,
+    "lon": 44.653614
+  },
+  {
+    "id": "LPRalarm_264162",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T04:37:12+00:00",
+    "text": "Брянская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153914",
+    "channel": "kupolrussia",
+    "date": "2026-11-20T04:37:18+00:00",
+    "text": "Брянская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264163",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T04:43:01+00:00",
+    "text": "от Ивановки в сторону Красного Луча с выходом на трассу Кр. Луч - Антрацит\nЛНР \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153915",
+    "channel": "kupolrussia",
+    "date": "2026-11-20T04:43:08+00:00",
+    "text": "от Ивановки в сторону Красного Луча с выходом на трассу Кр. Луч - Антрацит\nЛНР \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264164",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T04:45:02+00:00",
+    "text": "Дорогие наши подписчики. В настоящий момент ракетные тревоги на нашей территории отсутствуют.\n\nВсе звуки, которые Вы слышите - это летят выключатели электроэнергии и ликвидаторы инфраструктуры на территорию противника.",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
