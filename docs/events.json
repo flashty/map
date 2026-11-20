@@ -1,49 +1,5 @@
 [
   {
-    "id": "kupolrussia_153389_Стародубский",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T19:08:29+00:00",
-    "text": "Стародубский район \nУнечский район \nОпасность по БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": "Стародубский",
-    "region": "Брянская область",
-    "lat": 52.5153759,
-    "lon": 32.7150092
-  },
-  {
-    "id": "kupolrussia_153389_Унечский",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T19:08:29+00:00",
-    "text": "Стародубский район \nУнечский район \nОпасность по БПЛА\nБрянская область",
-    "type": "drone",
-    "location_name": "Унечский",
-    "region": "Брянская область",
-    "lat": 52.8313819,
-    "lon": 32.8245377
-  },
-  {
-    "id": "LPRalarm_263550",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T19:10:34+00:00",
-    "text": "Донецк и близлежащие \nОпасность по БПЛА сохраняется\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153390",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T19:10:51+00:00",
-    "text": "Донецк и близлежащие \nОпасность по БПЛА сохраняется\nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_263551",
     "channel": "LPRalarm",
     "date": "2026-11-18T19:13:05+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264218",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T10:31:18+00:00",
+    "text": "Старобельск ЛНР и близлежащие тревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153962",
+    "channel": "kupolrussia",
+    "date": "2026-11-20T10:31:24+00:00",
+    "text": "Старобельск ЛНР и близлежащие тревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264219",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T10:37:34+00:00",
+    "text": "Белая Берёзка артобстрел \nБрянская область",
+    "type": "shelling",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109575",
+    "channel": "vrv_radar",
+    "date": "2026-11-20T10:43:53+00:00",
+    "text": "Астраханская область\nРеспублика Калмыкия\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Астраханская область",
     "lat": null,
     "lon": null
   }
