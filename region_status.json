@@ -39,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "липецк": {
-    "display_name": "Липецкая область",
-    "type": "drone",
-    "text": "БПЛА на Хлевное, Липецкая область.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-20T20:21:11+00:00",
-    "expires_at": "2026-11-20T21:21:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -56,16 +46,6 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-20T21:00:58+00:00",
     "expires_at": "2026-11-20T22:00:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "БПЛА в районе Красное, Белгородская область в сторону Синие Липяги, Верхненикольское, Воронежской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-20T20:28:58+00:00",
-    "expires_at": "2026-11-20T21:28:58+00:00",
     "count": null,
     "count_approx": false
   },
@@ -79,53 +59,23 @@
     "count": null,
     "count_approx": false
   },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Курск и близлежащие, опасность по БПЛА\nКурская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-20T20:24:28+00:00",
-    "expires_at": "2026-11-20T21:24:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
-    "display_name": "Брянская область",
-    "type": "missile",
-    "text": "Брянская область, ракетная опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-20T21:14:15+00:00",
-    "expires_at": "2026-11-20T22:14:15+00:00",
+    "display_name": "Брянской область",
+    "type": "drone",
+    "text": "Смоленская область - внимание к массовому пролёту БПЛА. \n\nБПЛА над Брянской областью чуть подворачивают в вашу сторону. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-20T21:29:48+00:00",
+    "expires_at": "2026-11-20T22:29:48+00:00",
     "count": null,
     "count_approx": false
   },
   "калужск": {
     "display_name": "Калужская область",
-    "type": "missile",
-    "text": "Калужская область\nРакетная опасность",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-20T21:16:18+00:00",
-    "expires_at": "2026-11-20T22:16:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "хлевн": {
-    "display_name": "Хлевное область",
     "type": "drone",
-    "text": "БПЛА на Хлевное, Липецкая область.\n\n📡Локатор России - @locatorru",
+    "text": "Калужская область, Московская область - опасность по БПЛА. \n\nВнимание к массовому пролёту БПЛА. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-11-20T20:21:11+00:00",
-    "expires_at": "2026-11-20T21:21:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "красн": {
-    "display_name": "Красное область",
-    "type": "drone",
-    "text": "БПЛА в районе Красное, Белгородская область в сторону Синие Липяги, Верхненикольское, Воронежской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-20T20:28:58+00:00",
-    "expires_at": "2026-11-20T21:28:58+00:00",
+    "updated_at": "2026-11-20T21:23:40+00:00",
+    "expires_at": "2026-11-20T22:23:40+00:00",
     "count": null,
     "count_approx": false
   },
@@ -141,11 +91,11 @@
   },
   "смоленск": {
     "display_name": "Смоленская область",
-    "type": "missile",
-    "text": "Смоленская область\nРакетная опасность",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-20T21:16:40+00:00",
-    "expires_at": "2026-11-20T22:16:40+00:00",
+    "type": "drone",
+    "text": "Смоленская область - внимание к массовому пролёту БПЛА. \n\nБПЛА над Брянской областью чуть подворачивают в вашу сторону. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-20T21:29:48+00:00",
+    "expires_at": "2026-11-20T22:29:48+00:00",
     "count": null,
     "count_approx": false
   },
@@ -171,21 +121,21 @@
   },
   "московск": {
     "display_name": "Московская область",
-    "type": "missile",
-    "text": "Московская область\nРакетная опасность",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-20T21:17:57+00:00",
-    "expires_at": "2026-11-20T22:17:57+00:00",
+    "type": "drone",
+    "text": "Калужская область, Московская область - опасность по БПЛА. \n\nВнимание к массовому пролёту БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-20T21:23:40+00:00",
+    "expires_at": "2026-11-20T22:23:40+00:00",
     "count": null,
     "count_approx": false
   },
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "missile",
-    "text": "Рязанская область\nРакетная опасность",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-20T21:16:44+00:00",
-    "expires_at": "2026-11-20T22:16:44+00:00",
+    "text": "Рязанская область \nМосковская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-20T21:18:51+00:00",
+    "expires_at": "2026-11-20T22:18:51+00:00",
     "count": null,
     "count_approx": false
   }
