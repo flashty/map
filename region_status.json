@@ -12,10 +12,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Приморское и далее в направлении Новоазовск \nОпасность по БПЛА\nДНР\nОсобое внимание трасса",
+    "text": "Харцызск и близлежащие \nОпасность по БПЛА \nДНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-20T06:52:55+00:00",
-    "expires_at": "2026-11-20T07:52:55+00:00",
+    "updated_at": "2026-11-20T07:26:00+00:00",
+    "expires_at": "2026-11-20T08:26:00+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,6 +26,36 @@
     "channel": "locatorru",
     "updated_at": "2026-11-20T07:14:58+00:00",
     "expires_at": "2026-11-20T08:14:58+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "дагест": {
+    "display_name": "Республика Дагестан",
+    "type": "drone",
+    "text": "Республика Дагестан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-20T07:23:15+00:00",
+    "expires_at": "2026-11-20T08:23:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "shelling",
+    "text": "Белая Берёзка обстрел\nМеры безопасности \nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-20T07:24:47+00:00",
+    "expires_at": "2026-11-20T08:24:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Бердянское и далее в направлении Червоное поле \nОпасность по БПЛА \nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-20T07:27:20+00:00",
+    "expires_at": "2026-11-20T08:27:20+00:00",
     "count": null,
     "count_approx": false
   }

@@ -1,93 +1,5 @@
 [
   {
-    "id": "radar_plus_bpla_16002",
-    "channel": "radar_plus_bpla",
-    "date": "2026-11-18T17:47:08+00:00",
-    "text": "Орловская область\nКалужская область\nСмоленская область\nРостовская область\nОпасность по БПЛА\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "drone",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263518",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T17:48:12+00:00",
-    "text": "Донецк и близлежащие \nОпасность по БПЛА сохраняется, ещё фиксации \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153359",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T17:49:00+00:00",
-    "text": "Донецк и близлежащие \nОпасность по БПЛА сохраняется, ещё фиксации \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263519",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T17:51:41+00:00",
-    "text": "⚡️ Курская область: опасность атаки БПЛА. Будьте бдительны! Силы и средства ПВО приведены в готовность для отражения возможной атаки.",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153360",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T17:52:22+00:00",
-    "text": "Курская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263520",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T17:52:47+00:00",
-    "text": "Курск\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153361",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T17:53:06+00:00",
-    "text": "Курск\nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153362",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T17:54:44+00:00",
-    "text": "Калужская область\nВНИМАНИЕ!!!\n— ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_263521",
     "channel": "LPRalarm",
     "date": "2026-11-18T17:54:50+00:00",
@@ -21996,6 +21908,94 @@
     "type": "drone",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_95921_Махачкала",
+    "channel": "locatorru",
+    "date": "2026-11-20T07:20:53+00:00",
+    "text": "Махачкала, Каспийск, порт Каспийск, Зеленогорское, Республика Дагестан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Махачкала",
+    "region": "Республика Дагестан",
+    "lat": 42.9830241,
+    "lon": 47.5048717
+  },
+  {
+    "id": "locatorru_95921_Каспийск",
+    "channel": "locatorru",
+    "date": "2026-11-20T07:20:53+00:00",
+    "text": "Махачкала, Каспийск, порт Каспийск, Зеленогорское, Республика Дагестан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Каспийск",
+    "region": "Республика Дагестан",
+    "lat": 42.8921817,
+    "lon": 47.6372105
+  },
+  {
+    "id": "locatorru_95922",
+    "channel": "locatorru",
+    "date": "2026-11-20T07:23:15+00:00",
+    "text": "Республика Дагестан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Дагестан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264189",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T07:24:47+00:00",
+    "text": "Белая Берёзка обстрел\nМеры безопасности \nБрянская область",
+    "type": "shelling",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153938",
+    "channel": "kupolrussia",
+    "date": "2026-11-20T07:25:35+00:00",
+    "text": "Бердянское и далее в направлении Червоное поле \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264191",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T07:25:55+00:00",
+    "text": "Харцызск и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_153939",
+    "channel": "kupolrussia",
+    "date": "2026-11-20T07:26:00+00:00",
+    "text": "Харцызск и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264193",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T07:27:20+00:00",
+    "text": "Бердянское и далее в направлении Червоное поле \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
