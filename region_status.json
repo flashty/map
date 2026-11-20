@@ -1,14 +1,4 @@
 {
-  "ставропольск": {
-    "display_name": "Ставропольский край",
-    "type": "alert",
-    "text": "Ставропольский край\nОпасность по МВШ",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-20T05:17:07+00:00",
-    "expires_at": "2026-11-20T06:17:07+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -26,6 +16,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-20T06:06:57+00:00",
     "expires_at": "2026-11-20T07:06:57+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Моспино, Иловайск и близлежащие \nОпасность по БПЛА \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-20T06:29:17+00:00",
+    "expires_at": "2026-11-20T07:29:17+00:00",
     "count": null,
     "count_approx": false
   }
