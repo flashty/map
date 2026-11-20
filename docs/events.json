@@ -1,71 +1,5 @@
 [
   {
-    "id": "LPRalarm_263495_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T14:30:02+00:00",
-    "text": "Белгородский район опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "kupolrussia_153338_Белгородский",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T14:30:16+00:00",
-    "text": "Белгородский район опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": null,
-    "lat": 54.3750277,
-    "lon": 38.5167643
-  },
-  {
-    "id": "kupolrussia_153339",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T14:30:42+00:00",
-    "text": "Отбой внимания по подготовке к пускам Штормов",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_109257",
-    "channel": "vrv_radar",
-    "date": "2026-11-18T14:32:16+00:00",
-    "text": "📡 Точные данные 24/7 — благодаря каждому из вас.\n\nНаш радар живет без рекламы и существует исключительно на поддержке подписчиков. Мы не зарабатываем на безопасности, мы помогаем её обеспечить.\n\n🙌 Спасибо всем, кто ценит наш труд. Ваша поддержка помогает нам быть в строю каждую ночь.\n\nПоддержать канал: 👉 https://clck.ru/3VgBJu",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_95722",
-    "channel": "locatorru",
-    "date": "2026-11-18T14:36:16+00:00",
-    "text": "Ростовская область, Краснодарский край - отбой ракетной опасности! \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263496",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T14:40:12+00:00",
-    "text": "Староконстантинов повторно взлет носителей Штормов",
-    "type": "aviation",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_153340",
     "channel": "kupolrussia",
     "date": "2026-11-18T14:40:19+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Брянская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_109547",
+    "channel": "vrv_radar",
+    "date": "2026-11-20T05:17:07+00:00",
+    "text": "Ставропольский край\nОпасность по МВШ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Ставропольский край",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109548_Петровский",
+    "channel": "vrv_radar",
+    "date": "2026-11-20T05:17:11+00:00",
+    "text": "Петровский район\nСтавропольский край\nФиксация МВШ",
+    "type": "unknown",
+    "location_name": "Петровский",
+    "region": "Ставропольский край",
+    "lat": 44.5144051,
+    "lon": 41.7286327
+  },
+  {
+    "id": "vrv_radar_109549",
+    "channel": "vrv_radar",
+    "date": "2026-11-20T05:19:37+00:00",
+    "text": "Воронеж и близлежащие\nВоронежская область\nОтбой опасности по БПЛА\nОпасность по региону сохраняется",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264173_Ивнянский",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T05:26:40+00:00",
+    "text": "Ивнянский район \nОпасность по МВШ \nВозможно со сбросами",
+    "type": "alert",
+    "location_name": "Ивнянский",
+    "region": null,
+    "lat": 51.0201731,
+    "lon": 36.2197073
+  },
+  {
+    "id": "kupolrussia_153924_Ивнянский",
+    "channel": "kupolrussia",
+    "date": "2026-11-20T05:26:56+00:00",
+    "text": "Ивнянский район \nОпасность по МВШ \nВозможно со сбросами\nБелгородская область",
+    "type": "alert",
+    "location_name": "Ивнянский",
+    "region": "Белгородская область",
+    "lat": 51.0201731,
+    "lon": 36.2197073
+  },
+  {
+    "id": "LPRalarm_264174_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T05:30:26+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
   }
 ]
