@@ -59,26 +59,6 @@
     "count": null,
     "count_approx": false
   },
-  "брянск": {
-    "display_name": "Брянской область",
-    "type": "drone",
-    "text": "Смоленская область - внимание к массовому пролёту БПЛА. \n\nБПЛА над Брянской областью чуть подворачивают в вашу сторону. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-20T21:29:48+00:00",
-    "expires_at": "2026-11-20T22:29:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Калужская область, Московская область - опасность по БПЛА. \n\nВнимание к массовому пролёту БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-20T21:23:40+00:00",
-    "expires_at": "2026-11-20T22:23:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "херсонск": {
     "display_name": "Херсонская область",
     "type": "drone",
@@ -89,46 +69,6 @@
     "count": null,
     "count_approx": false
   },
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Смоленская область - внимание к массовому пролёту БПЛА. \n\nБПЛА над Брянской областью чуть подворачивают в вашу сторону. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-20T21:29:48+00:00",
-    "expires_at": "2026-11-20T22:29:48+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "missile",
-    "text": "Орловская область, Тульская область, Московская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-20T21:15:31+00:00",
-    "expires_at": "2026-11-20T22:15:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "missile",
-    "text": "Тульская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-20T21:16:25+00:00",
-    "expires_at": "2026-11-20T22:16:25+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "Калужская область, Московская область - опасность по БПЛА. \n\nВнимание к массовому пролёту БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-20T21:23:40+00:00",
-    "expires_at": "2026-11-20T22:23:40+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "рязанск": {
     "display_name": "Рязанская область",
     "type": "missile",
@@ -136,6 +76,66 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-20T21:18:51+00:00",
     "expires_at": "2026-11-20T22:18:51+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "саратовск": {
+    "display_name": "Саратовская область",
+    "type": "drone",
+    "text": "Саратовская область\nПензенская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-20T21:38:10+00:00",
+    "expires_at": "2026-11-20T22:38:10+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "пензенск": {
+    "display_name": "Пензенская область",
+    "type": "missile",
+    "text": "Пензенская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-20T21:43:17+00:00",
+    "expires_at": "2026-11-20T22:43:17+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "псковск": {
+    "display_name": "Псковская область",
+    "type": "drone",
+    "text": "Тверская область \nПсковская область \nВнимание по БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-20T21:42:35+00:00",
+    "expires_at": "2026-11-20T22:42:35+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область, Смоленская область, Тверская область - опасность по БПЛА + реактивным. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-20T21:45:12+00:00",
+    "expires_at": "2026-11-20T22:45:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Брянская область, Смоленская область, Тверская область - опасность по БПЛА + реактивным. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-20T21:45:12+00:00",
+    "expires_at": "2026-11-20T22:45:12+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тверск": {
+    "display_name": "Тверская область",
+    "type": "drone",
+    "text": "Брянская область, Смоленская область, Тверская область - опасность по БПЛА + реактивным. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-20T21:45:12+00:00",
+    "expires_at": "2026-11-20T22:45:12+00:00",
     "count": null,
     "count_approx": false
   }
