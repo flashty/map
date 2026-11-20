@@ -1,71 +1,5 @@
 [
   {
-    "id": "locatorru_95761_Елец",
-    "channel": "locatorru",
-    "date": "2026-11-18T21:42:51+00:00",
-    "text": "г.Елец, Елецкий район, Долгоруковский район, Становлянский район, Измалковский район, Краснинский район, Становлянский район, Данковский район, Лебедянский район, Лев-Толстовский район, Чаплыгинский район, Липецкая область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Елец",
-    "region": "Липецкая область",
-    "lat": 52.6219865,
-    "lon": 38.5003298
-  },
-  {
-    "id": "vrv_radar_109298_Фроловский",
-    "channel": "vrv_radar",
-    "date": "2026-11-18T21:43:08+00:00",
-    "text": "Фроловский район\nВолгоградская область\nФиксация БПЛА",
-    "type": "drone",
-    "location_name": "Фроловский",
-    "region": "Волгоградская область",
-    "lat": 49.8599222,
-    "lon": 43.8082806
-  },
-  {
-    "id": "radarrussiia_103546",
-    "channel": "radarrussiia",
-    "date": "2026-11-18T21:43:14+00:00",
-    "text": "Рязанская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263619",
-    "channel": "LPRalarm",
-    "date": "2026-11-18T21:43:54+00:00",
-    "text": "ЛДНР\nЗапорожская область РФ \nАвиационно ракетная бомбовая опасность повторно",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153442",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T21:44:19+00:00",
-    "text": "ЛДНР\nЗапорожская область РФ \nАвиационно ракетная бомбовая опасность повторно",
-    "type": "missile",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153443",
-    "channel": "kupolrussia",
-    "date": "2026-11-18T21:44:35+00:00",
-    "text": "Липецкая область\nи\n<\nРК",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Липецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_263620",
     "channel": "LPRalarm",
     "date": "2026-11-18T21:44:37+00:00",
@@ -21996,6 +21930,72 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Белгородской областей",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264284",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T18:20:29+00:00",
+    "text": "Противник готовит запуски БПЛА от Одесской области",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154020",
+    "channel": "kupolrussia",
+    "date": "2026-11-20T18:20:53+00:00",
+    "text": "Противник готовит запуски БПЛА от Одесской области",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264285_Лискинский",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T18:22:40+00:00",
+    "text": "Лискинский район \nВоронежская область \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Лискинский",
+    "region": "Воронежская область",
+    "lat": 51.0241236,
+    "lon": 39.5840497
+  },
+  {
+    "id": "kupolrussia_154021_Лискинский",
+    "channel": "kupolrussia",
+    "date": "2026-11-20T18:22:58+00:00",
+    "text": "Лискинский район \nВоронежская область \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": "Лискинский",
+    "region": "Воронежская область",
+    "lat": 51.0241236,
+    "lon": 39.5840497
+  },
+  {
+    "id": "LPRalarm_264286",
+    "channel": "LPRalarm",
+    "date": "2026-11-20T18:25:50+00:00",
+    "text": "Одесса\nЗапуски БПЛА в Чёрное море",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154022",
+    "channel": "kupolrussia",
+    "date": "2026-11-20T18:25:59+00:00",
+    "text": "Одесса\nЗапуски БПЛА в Чёрное море",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }

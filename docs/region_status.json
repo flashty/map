@@ -1,14 +1,4 @@
 {
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Ялта \nУрзуф \nМангуш \nИ близлежащие \nОпасность по БПЛА \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-20T17:19:58+00:00",
-    "expires_at": "2026-11-20T18:19:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
@@ -26,16 +16,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-20T17:49:39+00:00",
     "expires_at": "2026-11-20T18:49:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОпасность по БПЛА\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-11-20T17:21:47+00:00",
-    "expires_at": "2026-11-20T18:21:47+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +86,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-11-20T18:13:25+00:00",
     "expires_at": "2026-11-20T19:13:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Лискинский район \nВоронежская область \nТревога по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-20T18:22:58+00:00",
+    "expires_at": "2026-11-20T19:22:58+00:00",
     "count": null,
     "count_approx": false
   }
