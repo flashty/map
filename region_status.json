@@ -9,36 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "псковск": {
-    "display_name": "Псковская область",
-    "type": "drone",
-    "text": "Новосокольнический район\nПсковская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-21T03:26:11+00:00",
-    "expires_at": "2026-11-21T04:26:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тверск": {
-    "display_name": "Тверская область",
-    "type": "drone",
-    "text": "Бельский район\nТверская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-21T03:27:15+00:00",
-    "expires_at": "2026-11-21T04:27:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "новгородск": {
-    "display_name": "Новгородская область",
-    "type": "drone",
-    "text": "Солецкий район\nНовгородская область\nФиксация группы БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-21T03:28:26+00:00",
-    "expires_at": "2026-11-21T04:28:26+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "краснодарско": {
     "display_name": "Краснодарского края",
     "type": "alert",
@@ -62,10 +32,10 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Трасса Приазовское  - Инзовка- Приморск - Луначарское \nОпасность по БПЛА \nЗапорожская область РФ",
+    "text": "А/ дорога Дмитровка - Луначарское - Бердянск, \nТрасса Р 280 \nОпасность по БПЛА \nЗапорожская область РФ",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-21T04:08:02+00:00",
-    "expires_at": "2026-11-21T05:08:02+00:00",
+    "updated_at": "2026-11-21T04:25:56+00:00",
+    "expires_at": "2026-11-21T05:25:56+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +56,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-21T04:03:56+00:00",
     "expires_at": "2026-11-21T05:03:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область Выгонический район\nТревога по  БПЛА\nМеры безопасности",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-21T04:17:55+00:00",
+    "expires_at": "2026-11-21T05:17:55+00:00",
     "count": null,
     "count_approx": false
   }
