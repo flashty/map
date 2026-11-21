@@ -1,21 +1,11 @@
 {
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Трасса Р - 280\nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "missile",
+    "text": "ЛДНР Запорожская область РФ \nХарьковская область РФ \nАвиационно ракетно бомбовая опасность",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-21T07:12:56+00:00",
-    "expires_at": "2026-11-21T08:12:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Каланчак и близлежащие опасность по БПЛА\nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-21T06:41:27+00:00",
-    "expires_at": "2026-11-21T07:41:27+00:00",
+    "updated_at": "2026-11-21T07:26:31+00:00",
+    "expires_at": "2026-11-21T08:26:31+00:00",
     "count": null,
     "count_approx": false
   },
@@ -29,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Трасса Зугрес \nХарцызск Шахтерск\nДНР \nТревога по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-21T06:25:05+00:00",
-    "expires_at": "2026-11-21T07:25:05+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
@@ -46,6 +26,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-21T07:11:15+00:00",
     "expires_at": "2026-11-21T08:11:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "харьковск": {
+    "display_name": "Харьковская область",
+    "type": "missile",
+    "text": "ЛДНР Запорожская область РФ \nХарьковская область РФ \nАвиационно ракетно бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-21T07:26:31+00:00",
+    "expires_at": "2026-11-21T08:26:31+00:00",
     "count": null,
     "count_approx": false
   }
