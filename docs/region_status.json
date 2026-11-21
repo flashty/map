@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "брянск": {
-    "display_name": "Брянской области",
-    "type": "drone",
-    "text": "Ещё фиксации БПЛА от госграницы в сторону Брянской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-20T22:59:18+00:00",
-    "expires_at": "2026-11-20T23:59:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "тверск": {
     "display_name": "Тверская область",
     "type": "drone",
@@ -56,26 +46,6 @@
     "channel": "locatorru",
     "updated_at": "2026-11-20T23:12:52+00:00",
     "expires_at": "2026-11-21T00:12:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "Московская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-20T22:59:22+00:00",
-    "expires_at": "2026-11-20T23:59:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Куйбышевский район\nКировский район\nСпас-Деменский район \nКалужская область\nФиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-20T23:00:39+00:00",
-    "expires_at": "2026-11-21T00:00:39+00:00",
     "count": null,
     "count_approx": false
   },
@@ -122,10 +92,20 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Раздольное и близлежащие\nТревога по БПЛА\nРеспублика Крым",
+    "text": "Войково и близлежащие, тревога по БПЛА, далее в направление на Октябрьское\nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-20T23:42:48+00:00",
-    "expires_at": "2026-11-21T00:42:48+00:00",
+    "updated_at": "2026-11-20T23:58:41+00:00",
+    "expires_at": "2026-11-21T00:58:41+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Орёл\nОрловская область\nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-21T00:00:21+00:00",
+    "expires_at": "2026-11-21T01:00:21+00:00",
     "count": null,
     "count_approx": false
   }
