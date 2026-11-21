@@ -1,82 +1,5 @@
 [
   {
-    "id": "kupolrussia_153701",
-    "channel": "kupolrussia",
-    "date": "2026-11-19T15:18:56+00:00",
-    "text": "Запорожская область РФ \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263911",
-    "channel": "LPRalarm",
-    "date": "2026-11-19T15:19:21+00:00",
-    "text": "Бердянск \nОсипенко и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153702",
-    "channel": "kupolrussia",
-    "date": "2026-11-19T15:19:26+00:00",
-    "text": "Бердянск \nОсипенко и близлежащие \nОпасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263912",
-    "channel": "LPRalarm",
-    "date": "2026-11-19T15:22:58+00:00",
-    "text": "Каланчак и близлежащие и далее на АПП Армянск, тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153703",
-    "channel": "kupolrussia",
-    "date": "2026-11-19T15:23:02+00:00",
-    "text": "Каланчак и близлежащие и далее на АПП Армянск, тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263913",
-    "channel": "LPRalarm",
-    "date": "2026-11-19T15:24:17+00:00",
-    "text": "Ишунь \nВоинка\nКрасноперекопск и близлежащие \nТревога по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153704",
-    "channel": "kupolrussia",
-    "date": "2026-11-19T15:24:29+00:00",
-    "text": "Ишунь \nВоинка\nКрасноперекопск и близлежащие \nТревога по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_263914_Новоалексеевка",
     "channel": "LPRalarm",
     "date": "2026-11-19T15:27:55+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264545",
+    "channel": "LPRalarm",
+    "date": "2026-11-21T09:46:30+00:00",
+    "text": "Луганск и близлежащие \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264546_Север",
+    "channel": "LPRalarm",
+    "date": "2026-11-21T09:46:43+00:00",
+    "text": "Север\nРостовская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Север",
+    "region": "Ростовская область",
+    "lat": 48.9236255,
+    "lon": 40.4006446
+  },
+  {
+    "id": "kupolrussia_154244",
+    "channel": "kupolrussia",
+    "date": "2026-11-21T09:46:53+00:00",
+    "text": "Луганск и близлежащие \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154245_Север",
+    "channel": "kupolrussia",
+    "date": "2026-11-21T09:46:59+00:00",
+    "text": "Север\nРостовская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Север",
+    "region": "Ростовская область",
+    "lat": 48.9236255,
+    "lon": 40.4006446
+  },
+  {
+    "id": "vrv_radar_109709",
+    "channel": "vrv_radar",
+    "date": "2026-11-21T09:54:31+00:00",
+    "text": "Тверская область\nОтбой опасности по БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тверская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264547",
+    "channel": "LPRalarm",
+    "date": "2026-11-21T09:58:23+00:00",
+    "text": "Север Мелитополя и далее на Юг \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154246",
+    "channel": "kupolrussia",
+    "date": "2026-11-21T09:58:29+00:00",
+    "text": "Север Мелитополя и далее на Юг \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
