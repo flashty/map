@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_263914_Новоалексеевка",
-    "channel": "LPRalarm",
-    "date": "2026-11-19T15:27:55+00:00",
-    "text": "Новоалексеевка, в направлении Чонгар, тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Новоалексеевка",
-    "region": null,
-    "lat": 54.288979,
-    "lon": 55.593761
-  },
-  {
-    "id": "LPRalarm_263914_Чонгар",
-    "channel": "LPRalarm",
-    "date": "2026-11-19T15:27:55+00:00",
-    "text": "Новоалексеевка, в направлении Чонгар, тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Чонгар",
-    "region": null,
-    "lat": 58.3597623,
-    "lon": 60.0444713
-  },
-  {
-    "id": "kupolrussia_153705_Новоалексеевка",
-    "channel": "kupolrussia",
-    "date": "2026-11-19T15:27:59+00:00",
-    "text": "Новоалексеевка, в направлении Чонгар, тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Новоалексеевка",
-    "region": null,
-    "lat": 54.288979,
-    "lon": 55.593761
-  },
-  {
-    "id": "kupolrussia_153705_Чонгар",
-    "channel": "kupolrussia",
-    "date": "2026-11-19T15:27:59+00:00",
-    "text": "Новоалексеевка, в направлении Чонгар, тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Чонгар",
-    "region": null,
-    "lat": 58.3597623,
-    "lon": 60.0444713
-  },
-  {
-    "id": "LPRalarm_263915",
-    "channel": "LPRalarm",
-    "date": "2026-11-19T15:28:16+00:00",
-    "text": "Курская область \nОрловская область \nТревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Курская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263916",
-    "channel": "LPRalarm",
-    "date": "2026-11-19T15:28:47+00:00",
-    "text": "Кумово и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263917",
-    "channel": "LPRalarm",
-    "date": "2026-11-19T15:29:06+00:00",
-    "text": "Противник готовит запуски БПЛА от Николаевской области",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153706",
-    "channel": "kupolrussia",
-    "date": "2026-11-19T15:29:33+00:00",
-    "text": "Противник готовит запуски БПЛА от Николаевской области",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263918",
-    "channel": "LPRalarm",
-    "date": "2026-11-19T15:38:43+00:00",
-    "text": "Экстренная информация РСЧС: УГРОЗА ПОВТОРНОЙ АТАКИ БПЛА в Белгородском МО 18:37. Оставайтесь дома, не подходите к окнам или пройдите в укрытие.",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_153707",
     "channel": "kupolrussia",
     "date": "2026-11-19T15:38:43+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264548",
+    "channel": "LPRalarm",
+    "date": "2026-11-21T10:01:31+00:00",
+    "text": "Белгородская область \nОпасность по БПЛА \nПовторно",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154247",
+    "channel": "kupolrussia",
+    "date": "2026-11-21T10:01:35+00:00",
+    "text": "Белгородская область \nПовторно\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nШ “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264549",
+    "channel": "LPRalarm",
+    "date": "2026-11-21T10:01:55+00:00",
+    "text": "Белгород \nракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154248",
+    "channel": "kupolrussia",
+    "date": "2026-11-21T10:02:18+00:00",
+    "text": "Белгород \nракетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264550",
+    "channel": "LPRalarm",
+    "date": "2026-11-21T10:02:56+00:00",
+    "text": "Красный луч , Ровеньки БПЛА противника\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264551",
+    "channel": "LPRalarm",
+    "date": "2026-11-21T10:03:38+00:00",
+    "text": "Антрацит ЛНР\n опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154249",
+    "channel": "kupolrussia",
+    "date": "2026-11-21T10:03:43+00:00",
+    "text": "Антрацит ЛНР\n опасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264552",
+    "channel": "LPRalarm",
+    "date": "2026-11-21T10:03:44+00:00",
+    "text": "Курская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154250",
+    "channel": "kupolrussia",
+    "date": "2026-11-21T10:03:51+00:00",
+    "text": "Красный луч , Ровеньки БПЛА противника\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
