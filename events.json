@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_153613",
-    "channel": "kupolrussia",
-    "date": "2026-11-19T11:30:45+00:00",
-    "text": "Опасность БПЛА \n трасса Р-280\nПриморск - Владимировка\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263816",
-    "channel": "LPRalarm",
-    "date": "2026-11-19T11:32:29+00:00",
-    "text": "Севастополь \nОпасность по МВШ",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153614",
-    "channel": "kupolrussia",
-    "date": "2026-11-19T11:32:32+00:00",
-    "text": "Севастополь \nОпасность по МВШ",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_109414",
-    "channel": "vrv_radar",
-    "date": "2026-11-19T11:33:26+00:00",
-    "text": "Республика Марий Эл\nРакетная опасность\n\nКарта опасностей - radar-vrv.ru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Республика Марий",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_95827",
-    "channel": "locatorru",
-    "date": "2026-11-19T11:33:35+00:00",
-    "text": "Республика Марий Эл - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Республика Марий",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_263817",
     "channel": "LPRalarm",
     "date": "2026-11-19T11:33:35+00:00",
@@ -21993,6 +21938,61 @@
     "channel": "kupolrussia",
     "date": "2026-11-21T04:25:56+00:00",
     "text": "А/ дорога Дмитровка - Луначарское - Бердянск, \nТрасса Р 280 \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109691",
+    "channel": "vrv_radar",
+    "date": "2026-11-21T04:32:28+00:00",
+    "text": "Напоминаем, что наша онлайн карта уже доступна. \n\nСейчас проект находится на этапе бета-тестирования, поэтому будем рады вашей обратной связи: \n👉 @vrv_report_bot\n\n🔗 Канал сайта: http://t.me/radar_vrv_site\n🔗 Карта: radar-vrv.ru",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109692",
+    "channel": "vrv_radar",
+    "date": "2026-11-21T04:38:46+00:00",
+    "text": "Тамбовская область\nОтбой опасности по БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тамбовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_96029",
+    "channel": "locatorru",
+    "date": "2026-11-21T04:39:02+00:00",
+    "text": "Белгородская область, Воронежская область, Тамбовская область, Республика Мордовия, Нижегородская область, Владимирская область, Московская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264445",
+    "channel": "LPRalarm",
+    "date": "2026-11-21T04:45:38+00:00",
+    "text": "Обиточное, Андреевка, Троицкое , Берестовое прилегающие а/дороги, близлежащие населенные пункты \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154163",
+    "channel": "kupolrussia",
+    "date": "2026-11-21T04:45:46+00:00",
+    "text": "Обиточное, Андреевка, Троицкое , Берестовое прилегающие а/дороги, близлежащие населенные пункты \nОпасность по БПЛА \nЗапорожская область РФ",
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
