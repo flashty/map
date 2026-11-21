@@ -2,20 +2,20 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Все близлежащие а/ дороги примыкающие к трассе Р- 280, участок Мелитополя до Червоно Поле \nОпасность по БПЛА \nВысокая активность \nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-21T08:43:25+00:00",
-    "expires_at": "2026-11-21T09:43:25+00:00",
+    "text": "Мелитополь с севера опасность по БПЛА \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-21T08:58:00+00:00",
+    "expires_at": "2026-11-21T09:58:00+00:00",
     "count": null,
     "count_approx": false
   },
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Ханженково Днр \nТревога по БПЛА со сбросами ФПВ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-21T07:55:23+00:00",
-    "expires_at": "2026-11-21T08:55:23+00:00",
+    "text": "ДНР Горняк тревога по реактивным БПЛА и далее на восток",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-21T08:57:52+00:00",
+    "expires_at": "2026-11-21T09:57:52+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +46,26 @@
     "channel": "radarrussiia",
     "updated_at": "2026-11-21T08:42:46+00:00",
     "expires_at": "2026-11-21T09:42:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Скадовск \nБПЛА разведка \nХерсонская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-21T08:56:05+00:00",
+    "expires_at": "2026-11-21T09:56:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "missile",
+    "text": "Ростовская область от ЛДНР ракетная опасность",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-21T08:49:22+00:00",
+    "expires_at": "2026-11-21T09:49:22+00:00",
     "count": null,
     "count_approx": false
   }
