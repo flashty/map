@@ -13,9 +13,9 @@
     "display_name": "Луганская область",
     "type": "drone",
     "text": "Луганск \nСтаница Луганская \nИ ближайшие\nТревога по БПЛА сохраняется \nЛНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-21T18:15:56+00:00",
-    "expires_at": "2026-11-21T19:15:56+00:00",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-21T18:16:24+00:00",
+    "expires_at": "2026-11-21T19:16:24+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,26 +26,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-21T18:06:05+00:00",
     "expires_at": "2026-11-21T19:06:05+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Россошанский район\nВоронежская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-21T17:28:59+00:00",
-    "expires_at": "2026-11-21T18:28:59+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужская область",
-    "type": "drone",
-    "text": "Жиздринский район\nКалужская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-21T17:28:23+00:00",
-    "expires_at": "2026-11-21T18:28:23+00:00",
     "count": null,
     "count_approx": false
   },
@@ -72,10 +52,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Советский район Урожайное и далее примерно в направлении Джанкой фиксация БПЛА \nРеспублика Крым",
+    "text": "Новофедоровка\nФрунзе \nНиколаевка \nИ близлежащие \nТревога по БПЛА с моря \nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-21T18:04:02+00:00",
-    "expires_at": "2026-11-21T19:04:02+00:00",
+    "updated_at": "2026-11-21T18:20:06+00:00",
+    "expires_at": "2026-11-21T19:20:06+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +66,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-21T18:13:19+00:00",
     "expires_at": "2026-11-21T19:13:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Каланчак и близлежащие \nТревога по БПЛА \nХерсонская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-21T18:27:24+00:00",
+    "expires_at": "2026-11-21T19:27:24+00:00",
     "count": null,
     "count_approx": false
   }
