@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_153572",
-    "channel": "kupolrussia",
-    "date": "2026-11-19T09:32:29+00:00",
-    "text": "Пуляевка\nТоплинка\nНижний Ольшанец\nОпасность по БПЛА Хорнет \nБелогородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белогородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263766",
-    "channel": "LPRalarm",
-    "date": "2026-11-19T09:33:22+00:00",
-    "text": "Белгородская МО \nОпасность по БПЛА сохраняется \nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153573",
-    "channel": "kupolrussia",
-    "date": "2026-11-19T09:33:30+00:00",
-    "text": "Белгородская МО \nОпасность по БПЛА сохраняется \nБелгородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белгородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263767",
-    "channel": "LPRalarm",
-    "date": "2026-11-19T09:36:53+00:00",
-    "text": "г.Белгород опасность по БПЛА сохраняется \nБелогородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белогородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_153574",
-    "channel": "kupolrussia",
-    "date": "2026-11-19T09:37:01+00:00",
-    "text": "г.Белгород опасность по БПЛА сохраняется \nБелогородская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Белогородская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_263768",
     "channel": "LPRalarm",
     "date": "2026-11-19T09:41:19+00:00",
@@ -21993,6 +21938,61 @@
     "channel": "vrv_radar",
     "date": "2026-11-21T00:59:41+00:00",
     "text": "Торопецкий район\nТверская область\nПродолжаются фиксации БПЛА",
+    "type": "drone",
+    "location_name": "Торопецкий",
+    "region": "Тверская область",
+    "lat": 56.644358,
+    "lon": 31.3569336
+  },
+  {
+    "id": "vrv_radar_109666",
+    "channel": "vrv_radar",
+    "date": "2026-11-21T01:04:07+00:00",
+    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264427",
+    "channel": "LPRalarm",
+    "date": "2026-11-21T01:05:13+00:00",
+    "text": "Джанкой, Янтарное и близлежащие тревога по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154145",
+    "channel": "kupolrussia",
+    "date": "2026-11-21T01:05:22+00:00",
+    "text": "Джанкой, Янтарное и близлежащие тревога по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_96008_Волосово",
+    "channel": "locatorru",
+    "date": "2026-11-21T01:11:28+00:00",
+    "text": "Волосово, Ленинградская область - пролёт 2 БПЛА в сторону Усть-Луга или Гатчина. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Волосово",
+    "region": "Ленинградская область",
+    "lat": 59.4443938,
+    "lon": 29.4925158
+  },
+  {
+    "id": "vrv_radar_109667_Торопецкий",
+    "channel": "vrv_radar",
+    "date": "2026-11-21T01:14:28+00:00",
+    "text": "Торопецкий район\nТверская область\nЕщё фиксации БПЛА",
     "type": "drone",
     "location_name": "Торопецкий",
     "region": "Тверская область",
