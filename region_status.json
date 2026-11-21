@@ -1,21 +1,11 @@
 {
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "Харьковская область РФ \nЛДНР \nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность повторно",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-21T12:28:10+00:00",
-    "expires_at": "2026-11-21T13:28:10+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка и близлежащие \nТревога по БПЛА и ФПВ сохраняется, ещё фиксации \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-21T12:44:08+00:00",
-    "expires_at": "2026-11-21T13:44:08+00:00",
+    "type": "missile",
+    "text": "Макеевка ДНР ракетная опасность\nВозможно ложная",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-21T12:49:08+00:00",
+    "expires_at": "2026-11-21T13:49:08+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,16 +36,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-21T12:27:02+00:00",
     "expires_at": "2026-11-21T13:27:02+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "харьковск": {
-    "display_name": "Харьковская область",
-    "type": "missile",
-    "text": "Харьковская область РФ \nЛДНР \nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность повторно",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-21T12:28:10+00:00",
-    "expires_at": "2026-11-21T13:28:10+00:00",
     "count": null,
     "count_approx": false
   }
