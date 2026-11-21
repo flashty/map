@@ -5,6 +5,81 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-11-21T18:39:42+00:00",
+        "last_updated": "2026-11-21T19:18:29+00:00",
+        "path_labels": [
+          "Хохольский (Воронежская область)",
+          "Долгоруковский (Липецкая область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.7866515,
+            51.5779217
+          ],
+          [
+            38.351378,
+            52.3429058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-21T18:39:42+00:00",
+        "last_updated": "2026-11-21T19:18:29+00:00",
+        "path_labels": [
+          "Рамонский (Воронежская область)",
+          "Елецкий (Липецкая область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.1981204,
+            51.9122923
+          ],
+          [
+            38.57095,
+            52.631157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-21T18:39:42+00:00",
+        "last_updated": "2026-11-21T19:18:29+00:00",
+        "path_labels": [
+          "Нововоронеж (Воронежская область)",
+          "Хлевенский (Липецкая область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.2160054,
+            51.30905
+          ],
+          [
+            39.1137031,
+            52.1662269
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-11-21T18:43:13+00:00",
         "last_updated": "2026-11-21T18:43:13+00:00",
         "path_labels": [
