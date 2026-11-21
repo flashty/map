@@ -1,31 +1,11 @@
 {
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "ЛДНР Запорожская область РФ \nХарьковская область РФ \nАвиационно ракетно бомбовая опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-21T07:26:31+00:00",
-    "expires_at": "2026-11-21T08:26:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородской области",
     "type": "drone",
-    "text": "Ракитянский район\nБелгородской области \nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-21T06:35:34+00:00",
-    "expires_at": "2026-11-21T07:35:34+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "drone",
-    "text": "Ростовская область \nСеверная часть \nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-21T07:11:15+00:00",
-    "expires_at": "2026-11-21T08:11:15+00:00",
+    "text": "Трасса Р 280\nТревога по  сбросам с ударных БПЛА и Фпв ждунам\n\nВысокая активность БПЛА и Фпв \nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-21T07:37:31+00:00",
+    "expires_at": "2026-11-21T08:37:31+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,6 +16,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-21T07:26:31+00:00",
     "expires_at": "2026-11-21T08:26:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Ясиноватая, Макеевка, Харцызск и близлежащие \nОпасность по БПЛА сохраняется \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-21T07:37:05+00:00",
+    "expires_at": "2026-11-21T08:37:05+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Счастье ЛНР и близлежащие \nОпасность по БПЛА и далее в направлении Ростовской области",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-21T07:41:54+00:00",
+    "expires_at": "2026-11-21T08:41:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "missile",
+    "text": "Ростовская область \nРакетная опасность",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-21T07:45:29+00:00",
+    "expires_at": "2026-11-21T08:45:29+00:00",
     "count": null,
     "count_approx": false
   }
