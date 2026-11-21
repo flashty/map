@@ -1,49 +1,5 @@
 [
   {
-    "id": "locatorru_95833",
-    "channel": "locatorru",
-    "date": "2026-11-19T11:57:22+00:00",
-    "text": "Ростовская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263839",
-    "channel": "LPRalarm",
-    "date": "2026-11-19T11:57:29+00:00",
-    "text": "Луначарское кольцо опасность БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_263840_Анапа",
-    "channel": "LPRalarm",
-    "date": "2026-11-19T11:57:42+00:00",
-    "text": "Анапа, Новороссийск, Геленджик ракетная опасность\nКраснодарский край",
-    "type": "missile",
-    "location_name": "Анапа",
-    "region": "Краснодарский край",
-    "lat": 44.894272,
-    "lon": 37.316887
-  },
-  {
-    "id": "LPRalarm_263840_Новороссийск",
-    "channel": "LPRalarm",
-    "date": "2026-11-19T11:57:42+00:00",
-    "text": "Анапа, Новороссийск, Геленджик ракетная опасность\nКраснодарский край",
-    "type": "missile",
-    "location_name": "Новороссийск",
-    "region": "Краснодарский край",
-    "lat": 44.7239578,
-    "lon": 37.7690711
-  },
-  {
     "id": "kupolrussia_153635",
     "channel": "kupolrussia",
     "date": "2026-11-19T11:57:42+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264472",
+    "channel": "LPRalarm",
+    "date": "2026-11-21T06:49:00+00:00",
+    "text": "Трасса Р 280\nПриморск- Червоно Поле \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154187",
+    "channel": "kupolrussia",
+    "date": "2026-11-21T06:49:12+00:00",
+    "text": "Трасса Р 280\nПриморск- Червоно Поле \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109699",
+    "channel": "vrv_radar",
+    "date": "2026-11-21T06:56:47+00:00",
+    "text": "Калужская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Калужская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109700",
+    "channel": "vrv_radar",
+    "date": "2026-11-21T06:57:35+00:00",
+    "text": "Московская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Московская область",
     "lat": null,
     "lon": null
   }
