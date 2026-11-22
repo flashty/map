@@ -12,10 +12,10 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Свердловск ЛНР и близлежащие \nТревога по БПЛА",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-22T06:11:10+00:00",
-    "expires_at": "2026-11-22T07:11:10+00:00",
+    "text": "Алчевск \nТревога по БПЛА от Брянки \nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-22T06:33:44+00:00",
+    "expires_at": "2026-11-22T07:33:44+00:00",
     "count": null,
     "count_approx": false
   },
@@ -32,10 +32,10 @@
   "белгородск": {
     "display_name": "Белгородская область",
     "type": "drone",
-    "text": "Трасса Никольское - Таврово \nТревога по БПЛА \nБелгородский район \nБелгородская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-22T06:08:27+00:00",
-    "expires_at": "2026-11-22T07:08:27+00:00",
+    "text": "Белгородский район \nБелгородская область \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-22T06:44:55+00:00",
+    "expires_at": "2026-11-22T07:44:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +56,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-22T06:27:54+00:00",
     "expires_at": "2026-11-22T07:27:54+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Красноармейск и близлежащие \nОпасность по БПЛА Хорнет \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-22T06:41:21+00:00",
+    "expires_at": "2026-11-22T07:41:21+00:00",
     "count": null,
     "count_approx": false
   }
