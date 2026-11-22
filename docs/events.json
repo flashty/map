@@ -1,82 +1,5 @@
 [
   {
-    "id": "locatorru_96020",
-    "channel": "locatorru",
-    "date": "2026-11-21T02:38:38+00:00",
-    "text": "Ростовская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_96021_Волосово",
-    "channel": "locatorru",
-    "date": "2026-11-21T02:40:26+00:00",
-    "text": "Волосово, Ленинградская область - продолжаются пролёты БПЛА в сторону примерно Усть-Луга или Финский залив. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Волосово",
-    "region": "Ленинградская область",
-    "lat": 59.4443938,
-    "lon": 29.4925158
-  },
-  {
-    "id": "vrv_radar_109681",
-    "channel": "vrv_radar",
-    "date": "2026-11-21T02:42:35+00:00",
-    "text": "Ростовская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_96022_Волосовский",
-    "channel": "locatorru",
-    "date": "2026-11-21T02:43:34+00:00",
-    "text": "2 БПЛА в сторону г. Ломоносов, Финский залив через Волосовский район, Ленинградская область. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Волосовский",
-    "region": "Ленинградская область",
-    "lat": 59.357817,
-    "lon": 29.3456608
-  },
-  {
-    "id": "locatorru_96022_Ломоносов",
-    "channel": "locatorru",
-    "date": "2026-11-21T02:43:34+00:00",
-    "text": "2 БПЛА в сторону г. Ломоносов, Финский залив через Волосовский район, Ленинградская область. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Ломоносов",
-    "region": "Ленинградская область",
-    "lat": 59.816012,
-    "lon": 29.3919784
-  },
-  {
-    "id": "vrv_radar_109682",
-    "channel": "vrv_radar",
-    "date": "2026-11-21T02:44:53+00:00",
-    "text": "Воронеж и близлежащие\nНововоронеж и близлежащие\nБорисоглебск и близлежащие\nВоронежская область\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_109683_Кингисеппский",
-    "channel": "vrv_radar",
-    "date": "2026-11-21T02:46:49+00:00",
-    "text": "Кингисеппский район\nЛомоносовский район \nЛужский район\nЛенинградская область\nПродолжаются фиксации БПЛА",
-    "type": "drone",
-    "location_name": "Кингисеппский",
-    "region": "Ленинградская область",
-    "lat": 59.4011198,
-    "lon": 28.5725624
-  },
-  {
     "id": "vrv_radar_109683_Ломоносовский",
     "channel": "vrv_radar",
     "date": "2026-11-21T02:46:49+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265119",
+    "channel": "LPRalarm",
+    "date": "2026-11-22T15:36:33+00:00",
+    "text": "Чаплинка и близлежащие \nТревога по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154754",
+    "channel": "kupolrussia",
+    "date": "2026-11-22T15:39:52+00:00",
+    "text": "Чаплинка и близлежащие \nТревога по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265120",
+    "channel": "LPRalarm",
+    "date": "2026-11-22T15:43:54+00:00",
+    "text": "Луганск и ближайшие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154755",
+    "channel": "kupolrussia",
+    "date": "2026-11-22T15:44:08+00:00",
+    "text": "Луганск и ближайшие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265121",
+    "channel": "LPRalarm",
+    "date": "2026-11-22T15:44:19+00:00",
+    "text": "Перевальск и далее в направлении Луганска \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154756",
+    "channel": "kupolrussia",
+    "date": "2026-11-22T15:44:30+00:00",
+    "text": "Перевальск и далее в направлении Луганска \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154757",
+    "channel": "kupolrussia",
+    "date": "2026-11-22T15:45:20+00:00",
+    "text": "Тарханкут и близлежащие отбой опасности по БПЛА. Режим повышенного внимания",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
