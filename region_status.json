@@ -9,16 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Мелитополь и близлежащие\nТревога по БПЛА\n\nЗапорожская область РФ\nи\n<>\nРК",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-21T23:37:29+00:00",
-    "expires_at": "2026-11-22T00:37:29+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
@@ -26,6 +16,16 @@
     "channel": "locatorru",
     "updated_at": "2026-11-21T23:51:31+00:00",
     "expires_at": "2026-11-22T00:51:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Бобровский район \nВоронежская область \nРабота ПВО по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-22T00:41:19+00:00",
+    "expires_at": "2026-11-22T01:41:19+00:00",
     "count": null,
     "count_approx": false
   }

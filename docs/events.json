@@ -1,16 +1,5 @@
 [
   {
-    "id": "kupolrussia_154070",
-    "channel": "kupolrussia",
-    "date": "2026-11-20T20:42:39+00:00",
-    "text": "Красносельское и близлежащие\nТревога по БПЛА\nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_264342",
     "channel": "LPRalarm",
     "date": "2026-11-20T20:45:33+00:00",
@@ -21998,5 +21987,16 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "vrv_radar_109827_Бобровский",
+    "channel": "vrv_radar",
+    "date": "2026-11-22T00:41:19+00:00",
+    "text": "Бобровский район \nВоронежская область \nРабота ПВО по БПЛА",
+    "type": "drone",
+    "location_name": "Бобровский",
+    "region": "Воронежская область",
+    "lat": 51.0966142,
+    "lon": 40.0397707
   }
 ]
