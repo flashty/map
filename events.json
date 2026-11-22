@@ -1,16 +1,5 @@
 [
   {
-    "id": "vrv_radar_109616_Рославльский",
-    "channel": "vrv_radar",
-    "date": "2026-11-20T21:42:49+00:00",
-    "text": "Рославльский район\nСмоленская область\nФиксация реактивной цели",
-    "type": "unknown",
-    "location_name": "Рославльский",
-    "region": "Смоленская область",
-    "lat": 54.0413396,
-    "lon": 33.0399211
-  },
-  {
     "id": "locatorru_95974",
     "channel": "locatorru",
     "date": "2026-11-20T21:43:05+00:00",
@@ -21996,6 +21985,17 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_109838",
+    "channel": "vrv_radar",
+    "date": "2026-11-22T04:49:51+00:00",
+    "text": "Тамбовская область\nОтбой опасности по БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Тамбовская область",
     "lat": null,
     "lon": null
   }
