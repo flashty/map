@@ -1,82 +1,5 @@
 [
   {
-    "id": "locatorru_95989",
-    "channel": "locatorru",
-    "date": "2026-11-20T22:32:43+00:00",
-    "text": "Продолжается массовый пролёт БПЛА от Брянской области на Смоленскую область.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Смоленскую область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_95990",
-    "channel": "locatorru",
-    "date": "2026-11-20T22:35:09+00:00",
-    "text": "Республика Мордовия - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Мордовия",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_95991",
-    "channel": "locatorru",
-    "date": "2026-11-20T22:35:35+00:00",
-    "text": "Псковская область, Тверская область - опасность по БПЛА. \n\nВнимание к массовому пролёту БПЛА от Смоленской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Псковская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_109635",
-    "channel": "vrv_radar",
-    "date": "2026-11-20T22:35:53+00:00",
-    "text": "Ивановская область\nВладимирская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ивановская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_264387",
-    "channel": "LPRalarm",
-    "date": "2026-11-20T22:39:54+00:00",
-    "text": "Бердянск и близлежащие, тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_154105",
-    "channel": "kupolrussia",
-    "date": "2026-11-20T22:39:59+00:00",
-    "text": "Бердянск и близлежащие, тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_264388",
-    "channel": "LPRalarm",
-    "date": "2026-11-20T22:42:38+00:00",
-    "text": "Севастополь и близлежащие, отбой опасности БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_95992_Торжок",
     "channel": "locatorru",
     "date": "2026-11-20T22:42:39+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265015",
+    "channel": "LPRalarm",
+    "date": "2026-11-22T07:46:37+00:00",
+    "text": "ЛНР. Угроза атаки БПЛА. \nВ границах муниципальных округов: Станично-Луганский, Новоайдарский, Старобельский, Сватовский.",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154660",
+    "channel": "kupolrussia",
+    "date": "2026-11-22T07:46:50+00:00",
+    "text": "ЛНР. Угроза атаки БПЛА. \nВ границах муниципальных округов: Станично-Луганский, Новоайдарский, Старобельский, Сватовский.",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265016",
+    "channel": "LPRalarm",
+    "date": "2026-11-22T07:47:36+00:00",
+    "text": "Трасса Р 280\nВладимировка - Инзовка - Приморск \nВысокая активность БПЛА \nОграничить передвижение\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154661",
+    "channel": "kupolrussia",
+    "date": "2026-11-22T07:49:32+00:00",
+    "text": "Трасса Р 280\nВладимировка - Инзовка - Приморск \nВысокая активность БПЛА \nОграничить передвижение\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265017",
+    "channel": "LPRalarm",
+    "date": "2026-11-22T07:53:48+00:00",
+    "text": "Пос.Октябрьский ДНР и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265018",
+    "channel": "LPRalarm",
+    "date": "2026-11-22T07:59:11+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА на электротяге и ФПВ сохраняется \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154662",
+    "channel": "kupolrussia",
+    "date": "2026-11-22T07:59:35+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА на электротяге и ФПВ сохраняется \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
