@@ -1,82 +1,5 @@
 [
   {
-    "id": "kupolrussia_154089",
-    "channel": "kupolrussia",
-    "date": "2026-11-20T21:45:31+00:00",
-    "text": "Пензенская область\nСаратовская область\nхх\n<> -@\n7—З",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_264371",
-    "channel": "LPRalarm",
-    "date": "2026-11-20T21:45:34+00:00",
-    "text": "Пензенская область\nСаратовская область\nхх\n<> -@\n7—З",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_109619",
-    "channel": "vrv_radar",
-    "date": "2026-11-20T21:46:12+00:00",
-    "text": "Калужская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_109620",
-    "channel": "vrv_radar",
-    "date": "2026-11-20T21:46:16+00:00",
-    "text": "Рязанская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Рязанская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_95977",
-    "channel": "locatorru",
-    "date": "2026-11-20T21:46:39+00:00",
-    "text": "Пензенская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_95978_Ершичи",
-    "channel": "locatorru",
-    "date": "2026-11-20T21:47:54+00:00",
-    "text": "Ершичи, Смоленская область - продолжаются пролёты БПЛА в сторону Рославль, Смоленск. Ещё от 10 БПЛА + 2 реактивных.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Ершичи",
-    "region": "Смоленская область",
-    "lat": 53.673527,
-    "lon": 32.748249
-  },
-  {
-    "id": "radarrussiia_103608",
-    "channel": "radarrussiia",
-    "date": "2026-11-20T21:48:04+00:00",
-    "text": "Московская область \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "drone",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_264372",
     "channel": "LPRalarm",
     "date": "2026-11-20T21:50:26+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264984",
+    "channel": "LPRalarm",
+    "date": "2026-11-22T05:47:43+00:00",
+    "text": "Чаплинка и близлежащие опасность по ударным БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154639",
+    "channel": "kupolrussia",
+    "date": "2026-11-22T05:47:57+00:00",
+    "text": "Чаплинка и близлежащие опасность по ударным БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154640",
+    "channel": "kupolrussia",
+    "date": "2026-11-22T05:51:32+00:00",
+    "text": "Ботаническое, Раздольное и близлежащие \nРеспублика Крым \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_264985_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-11-22T05:53:23+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_154641_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-11-22T05:53:36+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА\nБелгородская область",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": "Белгородская область",
+    "lat": 50.5939358,
+    "lon": 36.5762397
+  },
+  {
+    "id": "LPRalarm_264986",
+    "channel": "LPRalarm",
+    "date": "2026-11-22T05:59:50+00:00",
+    "text": "А/дорога Андреевка - Нововасильевка \nУчасток трассы Луначарское - Осипенко \nТревога по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154642",
+    "channel": "kupolrussia",
+    "date": "2026-11-22T06:00:01+00:00",
+    "text": "А/дорога Андреевка - Нововасильевка \nУчасток трассы Луначарское - Осипенко \nТревога по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
     "lat": null,
     "lon": null
   }
