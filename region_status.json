@@ -32,20 +32,10 @@
   "саратовск": {
     "display_name": "Саратовская область",
     "type": "drone",
-    "text": "Петровский район\nСаратовская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "text": "Саратов\nСаратовская область\nОпасность по БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-11-22T22:31:36+00:00",
-    "expires_at": "2026-11-22T23:31:36+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Володарское и близлежащие, тревога по БпЛА\nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-22T21:50:39+00:00",
-    "expires_at": "2026-11-22T22:50:39+00:00",
+    "updated_at": "2026-11-22T22:47:32+00:00",
+    "expires_at": "2026-11-22T23:47:32+00:00",
     "count": null,
     "count_approx": false
   },
@@ -54,8 +44,8 @@
     "type": "drone",
     "text": "Колышлейка, Кондольский район, Пензенская область - ещё пролёт БПЛА в сторону г.Пенза.\n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-11-22T22:45:12+00:00",
-    "expires_at": "2026-11-22T23:45:12+00:00",
+    "updated_at": "2026-11-22T22:51:42+00:00",
+    "expires_at": "2026-11-22T23:51:42+00:00",
     "count": null,
     "count_approx": false
   },
@@ -80,22 +70,22 @@
     "count_approx": false
   },
   "самарск": {
-    "display_name": "Самарская область",
+    "display_name": "Самарской области",
     "type": "drone",
-    "text": "Самарская область \nУльяновская область \nОпасность по БПЛА\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-11-22T22:13:37+00:00",
-    "expires_at": "2026-11-22T23:13:37+00:00",
+    "text": "Красный Кут и близлежащие, Самарская область - пролёты групп БПЛА в сторону Самарской области.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-22T22:59:25+00:00",
+    "expires_at": "2026-11-22T23:59:25+00:00",
     "count": null,
     "count_approx": false
   },
   "мордов": {
     "display_name": "Республика Мордовия",
     "type": "drone",
-    "text": "Республика Мордовия\nНижегородская область\nОпасность по БПЛА\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-11-22T22:25:54+00:00",
-    "expires_at": "2026-11-22T23:25:54+00:00",
+    "text": "Инсарский район\nРеспублика Мордовия\nФиксации БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-22T22:55:43+00:00",
+    "expires_at": "2026-11-22T23:55:43+00:00",
     "count": null,
     "count_approx": false
   },
@@ -176,6 +166,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-22T22:40:01+00:00",
     "expires_at": "2026-11-22T23:40:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тамбовск": {
+    "display_name": "Тамбовская область",
+    "type": "drone",
+    "text": "Тамбовская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-22T22:48:28+00:00",
+    "expires_at": "2026-11-22T23:48:28+00:00",
     "count": null,
     "count_approx": false
   }
