@@ -1,82 +1,5 @@
 [
   {
-    "id": "vrv_radar_109667_Торопецкий",
-    "channel": "vrv_radar",
-    "date": "2026-11-21T01:14:28+00:00",
-    "text": "Торопецкий район\nТверская область\nЕщё фиксации БПЛА",
-    "type": "drone",
-    "location_name": "Торопецкий",
-    "region": "Тверская область",
-    "lat": 56.644358,
-    "lon": 31.3569336
-  },
-  {
-    "id": "vrv_radar_109668_Велижский",
-    "channel": "vrv_radar",
-    "date": "2026-11-21T01:16:29+00:00",
-    "text": "Велижский район\nСмоленская область\nФиксация от 2 БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Велижский",
-    "region": "Смоленская область",
-    "lat": 55.5664972,
-    "lon": 31.2871581
-  },
-  {
-    "id": "vrv_radar_109669_Духовщинский",
-    "channel": "vrv_radar",
-    "date": "2026-11-21T01:16:47+00:00",
-    "text": "Духовщинский район\nСмоленская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Духовщинский",
-    "region": "Смоленская область",
-    "lat": 55.38476,
-    "lon": 32.3545111
-  },
-  {
-    "id": "vrv_radar_109670_Куньинский",
-    "channel": "vrv_radar",
-    "date": "2026-11-21T01:18:31+00:00",
-    "text": "Куньинский район\nПсковская область\nФиксация группы БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Куньинский",
-    "region": "Псковская область",
-    "lat": 56.1139515,
-    "lon": 31.1585856
-  },
-  {
-    "id": "LPRalarm_264428",
-    "channel": "LPRalarm",
-    "date": "2026-11-21T01:19:48+00:00",
-    "text": "Феодосия \nПорт\nКафа и близлежащие \nЕщё фиксации БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_154146",
-    "channel": "kupolrussia",
-    "date": "2026-11-21T01:19:52+00:00",
-    "text": "Феодосия \nПорт\nКафа и близлежащие \nЕщё фиксации БПЛА \nРеспублика Крым",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_109671_Плюсский",
-    "channel": "vrv_radar",
-    "date": "2026-11-21T01:20:27+00:00",
-    "text": "Плюсский район\nПсковская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Плюсский",
-    "region": "Псковская область",
-    "lat": 58.5570799,
-    "lon": 28.8957673
-  },
-  {
     "id": "vrv_radar_109672_Лужский",
     "channel": "vrv_radar",
     "date": "2026-11-21T01:21:02+00:00",
@@ -21998,5 +21921,82 @@
     "region": null,
     "lat": 54.3750277,
     "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_265091",
+    "channel": "LPRalarm",
+    "date": "2026-11-22T11:17:10+00:00",
+    "text": "Отбой ракетной опасности Белгородская область",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154726",
+    "channel": "kupolrussia",
+    "date": "2026-11-22T11:17:19+00:00",
+    "text": "Белгородская область\nс ОТБОЙ\nРАКЕТНОЙ\nОПАСНОСТИ",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265092",
+    "channel": "LPRalarm",
+    "date": "2026-11-22T11:20:50+00:00",
+    "text": "Севернее Чаплынка тревога по БПЛА Хорнет \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154727",
+    "channel": "kupolrussia",
+    "date": "2026-11-22T11:21:00+00:00",
+    "text": "Севернее Чаплынка тревога по БПЛА Хорнет \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265093",
+    "channel": "LPRalarm",
+    "date": "2026-11-22T11:28:51+00:00",
+    "text": "Перекресток Корчма и далее в направлении Каланчак опасность по БПЛА Хорнет \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_154728",
+    "channel": "kupolrussia",
+    "date": "2026-11-22T11:29:01+00:00",
+    "text": "Перекресток Корчма и далее в направлении Каланчак опасность по БПЛА Хорнет \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_96173",
+    "channel": "locatorru",
+    "date": "2026-11-22T11:29:08+00:00",
+    "text": "Белгородская область - отбой ракетной опасности! \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородская область",
+    "lat": null,
+    "lon": null
   }
 ]
