@@ -19,26 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "пермск": {
-    "display_name": "Пермский край",
-    "type": "drone",
-    "text": "Пермский край\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-23T01:46:17+00:00",
-    "expires_at": "2026-11-23T02:46:17+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Через Азовское Запорожская область РФ и далее в море группа БпЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-23T01:50:03+00:00",
-    "expires_at": "2026-11-23T02:50:03+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
@@ -59,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "татарст": {
-    "display_name": "Республика Татарстан",
-    "type": "drone",
-    "text": "Бавлинский район\nРеспублика Татарстан\nФиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-23T02:44:22+00:00",
-    "expires_at": "2026-11-23T03:44:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "missile",
@@ -76,6 +46,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-23T02:40:31+00:00",
     "expires_at": "2026-11-23T03:40:31+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "татарст": {
+    "display_name": "Республика Татарстан",
+    "type": "drone",
+    "text": "Аксубаевский район\nРеспублика Татарстан\nФиксация БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-23T02:58:14+00:00",
+    "expires_at": "2026-11-23T03:58:14+00:00",
     "count": null,
     "count_approx": false
   }
