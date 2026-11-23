@@ -1,51 +1,51 @@
 {
-  "смоленск": {
-    "display_name": "Смоленская область",
-    "type": "drone",
-    "text": "Смоленская область \nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-23T18:13:35+00:00",
-    "expires_at": "2026-11-23T19:13:35+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "калужск": {
-    "display_name": "Калужской области",
-    "type": "drone",
-    "text": "Советский район, Фокинский район, Бежицкий район, Володарский район, г.Брянск - опасность по БПЛА и в сторону Калужской области.\n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-23T18:52:11+00:00",
-    "expires_at": "2026-11-23T19:52:11+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
     "text": "Брянская область, продолжаются фиксации БПЛА от Гг. Тревога по БПЛА сохраняется",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-23T19:01:15+00:00",
-    "expires_at": "2026-11-23T20:01:15+00:00",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-23T19:01:32+00:00",
+    "expires_at": "2026-11-23T20:01:32+00:00",
     "count": null,
     "count_approx": false
   },
   "московск": {
     "display_name": "Московская область",
     "type": "drone",
-    "text": "Московская область\nВнимание по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-23T18:55:40+00:00",
-    "expires_at": "2026-11-23T19:55:40+00:00",
+    "text": "Калужская область, Московская область - внимание к массовому пролёту БПЛА от Брянской области.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-23T19:11:29+00:00",
+    "expires_at": "2026-11-23T20:11:29+00:00",
     "count": null,
     "count_approx": false
   },
   "краснодарск": {
     "display_name": "Краснодарский край",
     "type": "drone",
-    "text": "Краснодарский край \nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-23T18:57:27+00:00",
-    "expires_at": "2026-11-23T19:57:27+00:00",
+    "text": "Крымский район \nКраснодарский край \nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-23T19:07:29+00:00",
+    "expires_at": "2026-11-23T20:07:29+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА на электротяге и ФПВ \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-23T19:11:06+00:00",
+    "expires_at": "2026-11-23T20:11:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калужская область, Московская область - внимание к массовому пролёту БПЛА от Брянской области.\n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-23T19:11:29+00:00",
+    "expires_at": "2026-11-23T20:11:29+00:00",
     "count": null,
     "count_approx": false
   }
