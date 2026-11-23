@@ -18,5 +18,25 @@
     "expires_at": "2026-11-23T14:47:46+00:00",
     "count": null,
     "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловской области",
+    "type": "drone",
+    "text": "Железногорск и далее в направлении Орловской области \nВозможно реактивные БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-23T14:26:06+00:00",
+    "expires_at": "2026-11-23T15:26:06+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Брянская область опасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-23T14:30:11+00:00",
+    "expires_at": "2026-11-23T15:30:11+00:00",
+    "count": null,
+    "count_approx": false
   }
 }
