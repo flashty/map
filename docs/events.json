@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_109765_Кантемировский",
-    "channel": "vrv_radar",
-    "date": "2026-11-21T20:40:21+00:00",
-    "text": "Кантемировский район\nВоронежская область\nРабота ПВО по БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Кантемировский",
-    "region": "Воронежская область",
-    "lat": 49.797172,
-    "lon": 39.7513457
-  },
-  {
-    "id": "LPRalarm_264821",
-    "channel": "LPRalarm",
-    "date": "2026-11-21T20:40:35+00:00",
-    "text": "Запорожская область РФ \nТревога по реактивным БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_154495",
-    "channel": "kupolrussia",
-    "date": "2026-11-21T20:40:39+00:00",
-    "text": "Запорожская область РФ \nТревога по реактивным БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_96095_Несветайская",
-    "channel": "locatorru",
-    "date": "2026-11-21T20:40:44+00:00",
-    "text": "Со стороны Родионово-Несветайская, Новошахтинск, Ростовская область - пролёты БПЛА на восток, юго-восток.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Несветайская",
-    "region": "Ростовская область",
-    "lat": 47.6135406,
-    "lon": 39.7012529
-  },
-  {
-    "id": "locatorru_96095_Новошахтинск",
-    "channel": "locatorru",
-    "date": "2026-11-21T20:40:44+00:00",
-    "text": "Со стороны Родионово-Несветайская, Новошахтинск, Ростовская область - пролёты БПЛА на восток, юго-восток.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Новошахтинск",
-    "region": "Ростовская область",
-    "lat": 47.7962698,
-    "lon": 39.8935604
-  },
-  {
-    "id": "LPRalarm_264822",
-    "channel": "LPRalarm",
-    "date": "2026-11-21T20:41:21+00:00",
-    "text": "Новороссийск и близлежащие \nТревога по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_109766_Темрюкский",
     "channel": "vrv_radar",
     "date": "2026-11-21T20:41:26+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155029",
+    "channel": "kupolrussia",
+    "date": "2026-11-23T10:49:17+00:00",
+    "text": "Берёзовка и близлежащие  опасность по БПЛА Дартс\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265429",
+    "channel": "LPRalarm",
+    "date": "2026-11-23T10:49:46+00:00",
+    "text": "Стародуб и близлежащие \nОпасность по БПЛА Дартс\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155030",
+    "channel": "kupolrussia",
+    "date": "2026-11-23T10:49:52+00:00",
+    "text": "Стародуб и близлежащие \nОпасность по БПЛА Дартс\nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155031",
+    "channel": "kupolrussia",
+    "date": "2026-11-23T10:54:37+00:00",
+    "text": "Новопетровка трасса Бердянск - Урзуф БПЛА \nЗапорожская область РФ Бердянский район",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265430",
+    "channel": "LPRalarm",
+    "date": "2026-11-23T10:54:39+00:00",
+    "text": "Новопетровка трасса Бердянск - Урзуф БПЛА \nЗапорожская область РФ Бердянский район",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_110063",
+    "channel": "vrv_radar",
+    "date": "2026-11-23T11:01:42+00:00",
+    "text": "Ростовская область\nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
     "lat": null,
     "lon": null
   }
