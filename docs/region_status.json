@@ -1,14 +1,4 @@
 {
-  "башкортост": {
-    "display_name": "Республика Башкортостан",
-    "type": "drone",
-    "text": "Альшеевский район\nРеспублика Башкортостан \nФиксации БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-23T02:40:52+00:00",
-    "expires_at": "2026-11-23T03:40:52+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "татарст": {
     "display_name": "Республика Татарстан",
     "type": "drone",
@@ -36,6 +26,16 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-11-23T03:16:09+00:00",
     "expires_at": "2026-11-23T04:16:09+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ярославск": {
+    "display_name": "Ярославская область",
+    "type": "drone",
+    "text": "Ярославская область\nОпасность по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "channel": "radarrussiia",
+    "updated_at": "2026-11-23T03:44:34+00:00",
+    "expires_at": "2026-11-23T04:44:34+00:00",
     "count": null,
     "count_approx": false
   }
