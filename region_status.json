@@ -12,10 +12,10 @@
   "свердловск": {
     "display_name": "Свердловская область",
     "type": "drone",
-    "text": "Челябинская область, Свердловская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "text": "Свердловская область - внимание по возможным пролётам БПЛА от Пермского края. \n\n📡Локатор России - @locatorru",
     "channel": "locatorru",
-    "updated_at": "2026-11-23T03:53:59+00:00",
-    "expires_at": "2026-11-23T04:53:59+00:00",
+    "updated_at": "2026-11-23T04:17:43+00:00",
+    "expires_at": "2026-11-23T05:17:43+00:00",
     "count": null,
     "count_approx": false
   },
@@ -86,6 +86,16 @@
     "channel": "vrv_radar",
     "updated_at": "2026-11-23T04:11:19+00:00",
     "expires_at": "2026-11-23T05:11:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Луганск и близлежащие \nОпасность по БПЛА \nЛНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-23T04:29:03+00:00",
+    "expires_at": "2026-11-23T05:29:03+00:00",
     "count": null,
     "count_approx": false
   }
