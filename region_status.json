@@ -1,14 +1,4 @@
 {
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "alert",
-    "text": "Судак\nМиндальное \nБогатовка и близлежащие \nОпасность по МВШ со сбросами \nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-23T14:11:18+00:00",
-    "expires_at": "2026-11-23T15:11:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "орловск": {
     "display_name": "Орловская область",
     "type": "drone",
@@ -26,6 +16,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-23T14:30:11+00:00",
     "expires_at": "2026-11-23T15:30:11+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Донецк, Еленовка, Докучаевск и близлежащие \nОпасность по БПЛА \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-23T15:03:26+00:00",
+    "expires_at": "2026-11-23T16:03:26+00:00",
     "count": null,
     "count_approx": false
   }
