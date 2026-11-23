@@ -1,104 +1,5 @@
 [
   {
-    "id": "vrv_radar_109766_Темрюкский",
-    "channel": "vrv_radar",
-    "date": "2026-11-21T20:41:26+00:00",
-    "text": "Темрюкский район\nКраснодарский край\nФиксации БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Темрюкский",
-    "region": "Краснодарский край",
-    "lat": 45.4964119,
-    "lon": 37.3098799
-  },
-  {
-    "id": "LPRalarm_264823",
-    "channel": "LPRalarm",
-    "date": "2026-11-21T20:41:32+00:00",
-    "text": "Алчевск в направлении Луганск \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_154496",
-    "channel": "kupolrussia",
-    "date": "2026-11-21T20:41:38+00:00",
-    "text": "Алчевск в направлении Луганск \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_154497",
-    "channel": "kupolrussia",
-    "date": "2026-11-21T20:41:44+00:00",
-    "text": "Новороссийск и близлежащие \nТревога по БПЛА \nКраснодарский край",
-    "type": "drone",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_109767_Темрюкский",
-    "channel": "vrv_radar",
-    "date": "2026-11-21T20:42:10+00:00",
-    "text": "Темрюкский район\nКраснодарский край\nФиксации БПЛА в направлении Анапа",
-    "type": "drone",
-    "location_name": "Темрюкский",
-    "region": "Краснодарский край",
-    "lat": 45.4964119,
-    "lon": 37.3098799
-  },
-  {
-    "id": "locatorru_96096",
-    "channel": "locatorru",
-    "date": "2026-11-21T20:42:56+00:00",
-    "text": "Над ЛДНР продолжаются фиксации БПЛА в направлении Ростовской области.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ростовской области",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_264824",
-    "channel": "LPRalarm",
-    "date": "2026-11-21T20:43:05+00:00",
-    "text": "Севастополь опасность по БПЛА с моря",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_154498",
-    "channel": "kupolrussia",
-    "date": "2026-11-21T20:43:12+00:00",
-    "text": "Севастополь опасность по БПЛА с моря",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_96097",
-    "channel": "locatorru",
-    "date": "2026-11-21T20:44:37+00:00",
-    "text": "Анастасиевская, Краснодарский край - одна цель на Славянск-на-Кубани.\n\n📡Локатор России - @locatorru",
-    "type": "unknown",
-    "location_name": null,
-    "region": "Анастасиевская край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_109768_Анапа",
     "channel": "vrv_radar",
     "date": "2026-11-21T20:45:08+00:00",
@@ -21996,6 +21897,105 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_96314",
+    "channel": "locatorru",
+    "date": "2026-11-23T11:04:52+00:00",
+    "text": "Ростовская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265431",
+    "channel": "LPRalarm",
+    "date": "2026-11-23T11:05:01+00:00",
+    "text": "Белое и близлежащие \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155032",
+    "channel": "kupolrussia",
+    "date": "2026-11-23T11:05:05+00:00",
+    "text": "Белое и близлежащие \nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265432",
+    "channel": "LPRalarm",
+    "date": "2026-11-23T11:06:17+00:00",
+    "text": "Ростовская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155033",
+    "channel": "kupolrussia",
+    "date": "2026-11-23T11:06:22+00:00",
+    "text": "Ростовская область \nОтбой опасности по БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265433_Рыльский",
+    "channel": "LPRalarm",
+    "date": "2026-11-23T11:12:55+00:00",
+    "text": "Рыльск и Рыльский район  опасность по ударным БПЛА с юго-запада\nПовторно \nКурская область",
+    "type": "drone",
+    "location_name": "Рыльский",
+    "region": "Курская область",
+    "lat": 51.5713767,
+    "lon": 34.624021
+  },
+  {
+    "id": "kupolrussia_155034_Рыльский",
+    "channel": "kupolrussia",
+    "date": "2026-11-23T11:13:02+00:00",
+    "text": "Рыльск и Рыльский район\nопасность по ударным БПЛА с юго-запада\nПовторно \nКурская область",
+    "type": "drone",
+    "location_name": "Рыльский",
+    "region": "Курская область",
+    "lat": 51.5713767,
+    "lon": 34.624021
+  },
+  {
+    "id": "LPRalarm_265434",
+    "channel": "LPRalarm",
+    "date": "2026-11-23T11:13:37+00:00",
+    "text": "Курская область \nРакетная опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155035",
+    "channel": "kupolrussia",
+    "date": "2026-11-23T11:13:43+00:00",
+    "text": "Курская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }

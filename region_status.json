@@ -41,11 +41,21 @@
   },
   "курск": {
     "display_name": "Курская область",
-    "type": "drone",
-    "text": "Рыльский район \nОпасность по ударным БПЛА \nКурская область",
+    "type": "missile",
+    "text": "Курская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-23T10:32:09+00:00",
-    "expires_at": "2026-11-23T11:32:09+00:00",
+    "updated_at": "2026-11-23T11:13:43+00:00",
+    "expires_at": "2026-11-23T12:13:43+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "луганск": {
+    "display_name": "Луганская область",
+    "type": "drone",
+    "text": "Белое и близлежащие \nОпасность по БПЛА \nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-23T11:05:05+00:00",
+    "expires_at": "2026-11-23T12:05:05+00:00",
     "count": null,
     "count_approx": false
   }
