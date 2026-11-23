@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_109782_Темрюкский",
-    "channel": "vrv_radar",
-    "date": "2026-11-21T21:09:55+00:00",
-    "text": "Темрюкский район\nКраснодарский край\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Темрюкский",
-    "region": "Краснодарский край",
-    "lat": 45.4964119,
-    "lon": 37.3098799
-  },
-  {
-    "id": "vrv_radar_109783_Приморско-Ахтарский",
-    "channel": "vrv_radar",
-    "date": "2026-11-21T21:10:20+00:00",
-    "text": "Приморско-Ахтарский район\nКраснодарский край\nФиксации БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Приморско-Ахтарский",
-    "region": "Краснодарский край",
-    "lat": 46.0490992,
-    "lon": 38.1712168
-  },
-  {
-    "id": "LPRalarm_264854",
-    "channel": "LPRalarm",
-    "date": "2026-11-21T21:10:34+00:00",
-    "text": "Аэропорт Краснодар тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_96109",
-    "channel": "locatorru",
-    "date": "2026-11-21T21:11:01+00:00",
-    "text": "Волгоградская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_154521",
-    "channel": "kupolrussia",
-    "date": "2026-11-21T21:12:11+00:00",
-    "text": "Волгоградская область тревога по БПЛА от Ростовской области",
-    "type": "drone",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_264855",
     "channel": "LPRalarm",
     "date": "2026-11-21T21:12:15+00:00",
@@ -21993,6 +21938,61 @@
     "channel": "kupolrussia",
     "date": "2026-11-23T13:28:18+00:00",
     "text": "Севастополь \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265465",
+    "channel": "LPRalarm",
+    "date": "2026-11-23T13:38:00+00:00",
+    "text": "Кача\nБельбек\nСевастополь \nОпасность по МВШ со сбросами",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155064",
+    "channel": "kupolrussia",
+    "date": "2026-11-23T13:38:09+00:00",
+    "text": "Кача\nБельбек\nСевастополь \nОпасность по МВШ со сбросами",
+    "type": "alert",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265466",
+    "channel": "LPRalarm",
+    "date": "2026-11-23T13:39:55+00:00",
+    "text": "Мыс Херсонес \nИ близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155065",
+    "channel": "kupolrussia",
+    "date": "2026-11-23T13:40:08+00:00",
+    "text": "Мыс Херсонес \nИ близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265467",
+    "channel": "LPRalarm",
+    "date": "2026-11-23T13:41:16+00:00",
+    "text": "Мыс Херсонес, Фиолент \nБухта Казачья\nСевастополь \nС моря в направлении Фиолента фиксацииБПЛА",
     "type": "drone",
     "location_name": null,
     "region": null,
