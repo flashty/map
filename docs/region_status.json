@@ -22,10 +22,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Новозыбков и близлежащие \nопасность по БПЛА\nБрянская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-23T10:06:17+00:00",
-    "expires_at": "2026-11-23T11:06:17+00:00",
+    "text": "Суземка и близлежащие \nОпасность по БПЛА\nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-23T10:32:05+00:00",
+    "expires_at": "2026-11-23T11:32:05+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +46,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-23T10:08:42+00:00",
     "expires_at": "2026-11-23T11:08:42+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Рыльский район \nОпасность по ударным БПЛА \nКурская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-23T10:32:09+00:00",
+    "expires_at": "2026-11-23T11:32:09+00:00",
     "count": null,
     "count_approx": false
   }
