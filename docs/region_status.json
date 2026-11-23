@@ -2,20 +2,10 @@
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Воронеж и близлежащие\nВоронежская область\nОпасность по БПЛА",
+    "text": "Воронеж\nВоронежская область\nРабота ПВО по БПЛА",
     "channel": "vrv_radar",
-    "updated_at": "2026-11-23T01:04:58+00:00",
-    "expires_at": "2026-11-23T02:04:58+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "татарст": {
-    "display_name": "Республика Татарстан",
-    "type": "drone",
-    "text": "Альметьевск, Бугульма, Лениногорск и близлежащие, Республика Татарстан - опасность по БПЛА сохраняется. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-23T01:15:43+00:00",
-    "expires_at": "2026-11-23T02:15:43+00:00",
+    "updated_at": "2026-11-23T02:10:26+00:00",
+    "expires_at": "2026-11-23T03:10:26+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,16 +16,6 @@
     "channel": "radarrussiia",
     "updated_at": "2026-11-23T01:25:14+00:00",
     "expires_at": "2026-11-23T02:25:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "кировск": {
-    "display_name": "Кировская область",
-    "type": "drone",
-    "text": "Кировская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-23T01:13:16+00:00",
-    "expires_at": "2026-11-23T02:13:16+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +46,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-23T01:52:19+00:00",
     "expires_at": "2026-11-23T02:52:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "рязанск": {
+    "display_name": "Рязанская область",
+    "type": "drone",
+    "text": "Рязанская область\nОпасность по БПЛА",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-23T02:15:02+00:00",
+    "expires_at": "2026-11-23T03:15:02+00:00",
     "count": null,
     "count_approx": false
   }
