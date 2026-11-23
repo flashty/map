@@ -2,20 +2,10 @@
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Брянская область - опасность по БПЛА сохраняется. Ещё фиксации БПЛА в направлении Калужской области. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-23T21:44:39+00:00",
-    "expires_at": "2026-11-23T22:44:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "тульск": {
-    "display_name": "Тульская область",
-    "type": "drone",
-    "text": "Суворовский район\nТульская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-23T21:14:29+00:00",
-    "expires_at": "2026-11-23T22:14:29+00:00",
+    "text": "Брянская область \nВсе районы \nТревога по БПЛА сохраняется \nСоблюдайте меры безопасности",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-23T22:16:07+00:00",
+    "expires_at": "2026-11-23T23:16:07+00:00",
     "count": null,
     "count_approx": false
   },
@@ -66,6 +56,16 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-11-23T21:55:47+00:00",
     "expires_at": "2026-11-23T22:55:47+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Ботаническое \nРаздольное \nИ близлежащие \nТревога по БПЛА с моря \nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-23T22:04:56+00:00",
+    "expires_at": "2026-11-23T23:04:56+00:00",
     "count": null,
     "count_approx": false
   }
