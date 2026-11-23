@@ -185,6 +185,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-11-22T23:52:37+00:00",
+        "last_updated": "2026-11-23T00:24:22+00:00",
+        "path_labels": [
+          "Мордовский (Тамбовская область)",
+          "Жердевка (Тамбовская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.8366875,
+            52.1698137
+          ],
+          [
+            41.470367,
+            51.843933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-11-22T23:53:43+00:00",
         "last_updated": "2026-11-22T23:53:43+00:00",
         "path_labels": [
