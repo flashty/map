@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_109776_Краснодар",
-    "channel": "vrv_radar",
-    "date": "2026-11-21T21:01:54+00:00",
-    "text": "Краснодар\nКраснодарский край\nМеры безопасности",
-    "type": "alert",
-    "location_name": "Краснодар",
-    "region": "Краснодарский край",
-    "lat": 45.0351532,
-    "lon": 38.9772396
-  },
-  {
-    "id": "vrv_radar_109777",
-    "channel": "vrv_radar",
-    "date": "2026-11-21T21:04:08+00:00",
-    "text": "Ставропольский край \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_96107",
-    "channel": "locatorru",
-    "date": "2026-11-21T21:04:16+00:00",
-    "text": "Жердевка и близлежащие, Тамбовская область - возможно фиксация БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тамбовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_264848",
-    "channel": "LPRalarm",
-    "date": "2026-11-21T21:05:01+00:00",
-    "text": "Алчевск и близлежащие \nТревога по БПЛА сохраняется \nСоблюдайте меры безопасности \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_109778",
-    "channel": "vrv_radar",
-    "date": "2026-11-21T21:05:37+00:00",
-    "text": "Невинномысск \nСтавропольский край \nМеры безопасности",
-    "type": "alert",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_264849",
-    "channel": "LPRalarm",
-    "date": "2026-11-21T21:06:32+00:00",
-    "text": "Мариуполь и близлежащие \nТревога по БПЛА сохраняется \nСоблюдайте меры безопасности \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_109779",
     "channel": "vrv_radar",
     "date": "2026-11-21T21:07:11+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265456",
+    "channel": "LPRalarm",
+    "date": "2026-11-23T12:32:19+00:00",
+    "text": "Севастополь и близлежащие населенные пункты  \nОтбой опасность по БПЛА\nРеспублика Крым",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265457",
+    "channel": "LPRalarm",
+    "date": "2026-11-23T12:38:40+00:00",
+    "text": "Иловайск \nИ близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265458",
+    "channel": "LPRalarm",
+    "date": "2026-11-23T12:39:13+00:00",
+    "text": "Пантелеймоновка, Ясиноватая, Макеевка, Харцызск и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155056",
+    "channel": "kupolrussia",
+    "date": "2026-11-23T12:39:52+00:00",
+    "text": "Пантелеймоновка, Ясиноватая, Макеевка, Харцызск и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265459",
+    "channel": "LPRalarm",
+    "date": "2026-11-23T12:43:28+00:00",
+    "text": "Опасность по БПЛА разведка над Белой Березкой \nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155057",
+    "channel": "kupolrussia",
+    "date": "2026-11-23T12:44:47+00:00",
+    "text": "Опасность по БПЛА разведка над Белой Березкой \nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
     "lat": null,
     "lon": null
   }
