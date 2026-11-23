@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-23T02:20:16+00:00",
+        "last_updated": "2026-11-23T02:44:22+00:00",
+        "path_labels": [
+          "Белебеевский (Республика Башкортостан)",
+          "Бавлинский (Республика Татарстан)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.9328378,
+            53.8999464
+          ],
+          [
+            53.2820121,
+            54.2730963
+          ]
+        ]
+      }
+    }
+  ]
 }
