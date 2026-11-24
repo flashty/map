@@ -1,14 +1,4 @@
 {
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Стародубский район, Брянская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-24T09:39:12+00:00",
-    "expires_at": "2026-11-24T10:39:12+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "калужск": {
     "display_name": "Калужская область",
     "type": "drone",
@@ -46,6 +36,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-24T10:20:23+00:00",
     "expires_at": "2026-11-24T11:20:23+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА с запада \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-24T10:33:05+00:00",
+    "expires_at": "2026-11-24T11:33:05+00:00",
     "count": null,
     "count_approx": false
   }
