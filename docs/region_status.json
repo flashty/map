@@ -1,24 +1,4 @@
 {
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "drone",
-    "text": "Трасса Р -280\nЛуначарское-Осипенко-\nЧервоное Поле-Камышеватое-Мангуш\nТревога по БПЛА Хорнет\n\nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-24T10:03:31+00:00",
-    "expires_at": "2026-11-24T11:03:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарско": {
-    "display_name": "Краснодарского края",
-    "type": "alert",
-    "text": "Экстренная информация РСЧС: Отмена БЕСПИЛОТНОЙ ОПАСНОСТИ на территории Краснодарского края. 24.11.26 Телефон 112.",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-24T10:07:00+00:00",
-    "expires_at": "2026-11-24T11:07:00+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
@@ -36,6 +16,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-24T10:52:24+00:00",
     "expires_at": "2026-11-24T11:52:24+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонсквя область",
+    "type": "drone",
+    "text": "Скадовск опасность по БПЛА Хорнет\nХерсонсквя область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-24T11:05:11+00:00",
+    "expires_at": "2026-11-24T12:05:11+00:00",
     "count": null,
     "count_approx": false
   }
