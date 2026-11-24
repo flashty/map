@@ -1,27 +1,5 @@
 [
   {
-    "id": "LPRalarm_265086",
-    "channel": "LPRalarm",
-    "date": "2026-11-22T11:08:23+00:00",
-    "text": "Шебекино ракетная тревога",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_154721",
-    "channel": "kupolrussia",
-    "date": "2026-11-22T11:08:31+00:00",
-    "text": "Шебекино ракетная тревога",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_265087",
     "channel": "LPRalarm",
     "date": "2026-11-22T11:08:40+00:00",
@@ -21996,6 +21974,28 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Ярославская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155206",
+    "channel": "kupolrussia",
+    "date": "2026-11-24T07:18:27+00:00",
+    "text": "Донецк и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_110206",
+    "channel": "vrv_radar",
+    "date": "2026-11-24T07:21:52+00:00",
+    "text": "Отбой опасности и внимания по БПЛА по ранее объявленным регионам\nСпасибо ПВО 🤍",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
