@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_265009",
-    "channel": "LPRalarm",
-    "date": "2026-11-22T07:22:45+00:00",
-    "text": "Спасибо огромное \n❤️❤️❤️\nhttps://pay.cloudtips.ru/p/f2a9c1d8",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265010",
-    "channel": "LPRalarm",
-    "date": "2026-11-22T07:25:44+00:00",
-    "text": "Чаплинка и близлежащие опасность по ударным БПЛА \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_154656",
-    "channel": "kupolrussia",
-    "date": "2026-11-22T07:26:04+00:00",
-    "text": "Чаплинка и близлежащие опасность по ударным БПЛА \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_109847",
-    "channel": "vrv_radar",
-    "date": "2026-11-22T07:28:36+00:00",
-    "text": "Ростовская область\nОтбой опасности по БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265011",
-    "channel": "LPRalarm",
-    "date": "2026-11-22T07:28:57+00:00",
-    "text": "Луганск и близлежащие \nОпасность по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_154657",
     "channel": "kupolrussia",
     "date": "2026-11-22T07:29:03+00:00",
@@ -21996,6 +21941,61 @@
     "type": "unknown",
     "location_name": null,
     "region": "Тульская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_110156_Калуга",
+    "channel": "vrv_radar",
+    "date": "2026-11-24T00:17:15+00:00",
+    "text": "Калуга\nКалужская область\nФиксация БПЛА\nГотовность к сбитиям",
+    "type": "all_clear",
+    "location_name": "Калуга",
+    "region": "Калужская область",
+    "lat": 54.5101087,
+    "lon": 36.2598115
+  },
+  {
+    "id": "vrv_radar_110157_Калуга",
+    "channel": "vrv_radar",
+    "date": "2026-11-24T00:17:18+00:00",
+    "text": "Калуга\nКалужская область\nМеры безопасности",
+    "type": "alert",
+    "location_name": "Калуга",
+    "region": "Калужская область",
+    "lat": 54.5101087,
+    "lon": 36.2598115
+  },
+  {
+    "id": "vrv_radar_110158_Калуга",
+    "channel": "vrv_radar",
+    "date": "2026-11-24T00:19:30+00:00",
+    "text": "Калуга\nКалужская область\nСбитие БПЛА",
+    "type": "all_clear",
+    "location_name": "Калуга",
+    "region": "Калужская область",
+    "lat": 54.5101087,
+    "lon": 36.2598115
+  },
+  {
+    "id": "LPRalarm_265560",
+    "channel": "LPRalarm",
+    "date": "2026-11-24T00:20:27+00:00",
+    "text": "Севастополь и близлежащие \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155166",
+    "channel": "kupolrussia",
+    "date": "2026-11-24T00:20:46+00:00",
+    "text": "Севастополь и близлежащие \nТревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
