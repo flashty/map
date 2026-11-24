@@ -1,16 +1,5 @@
 [
   {
-    "id": "LPRalarm_265031_Мирное",
-    "channel": "LPRalarm",
-    "date": "2026-11-22T08:48:03+00:00",
-    "text": "Каланчак, Мирное, АПП Армянск, Армянск опасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": "Мирное",
-    "region": null,
-    "lat": 52.438611,
-    "lon": 38.9416814
-  },
-  {
     "id": "kupolrussia_154671_Мирное",
     "channel": "kupolrussia",
     "date": "2026-11-22T08:48:15+00:00",
@@ -21993,6 +21982,17 @@
     "channel": "locatorru",
     "date": "2026-11-24T01:20:49+00:00",
     "text": "Рязанская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Рязанская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_110166",
+    "channel": "vrv_radar",
+    "date": "2026-11-24T01:40:39+00:00",
+    "text": "Рязанская область\nОтбой опасности по БПЛА\n\nКарта опасностей - radar-vrv.ru",
     "type": "all_clear",
     "location_name": null,
     "region": "Рязанская область",
