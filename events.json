@@ -1,16 +1,5 @@
 [
   {
-    "id": "LPRalarm_265175",
-    "channel": "LPRalarm",
-    "date": "2026-11-22T19:02:20+00:00",
-    "text": "От Светлодарск в направлении \nПопасная \nТревога по БПЛА \nИ далее в тыл",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_154805",
     "channel": "kupolrussia",
     "date": "2026-11-22T19:02:41+00:00",
@@ -21998,5 +21987,16 @@
     "region": "Ростовская область",
     "lat": 48.727145,
     "lon": 40.3554416
+  },
+  {
+    "id": "vrv_radar_110212",
+    "channel": "vrv_radar",
+    "date": "2026-11-24T14:25:43+00:00",
+    "text": "Волгоградская область \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Волгоградская область",
+    "lat": null,
+    "lon": null
   }
 ]
