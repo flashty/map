@@ -1,93 +1,5 @@
 [
   {
-    "id": "kupolrussia_154830",
-    "channel": "kupolrussia",
-    "date": "2026-11-22T19:48:28+00:00",
-    "text": "Фрунзе, и далее на восток\nТревога по БПЛА, в т.ч. на электротяге\n\nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_96187",
-    "channel": "locatorru",
-    "date": "2026-11-22T19:48:31+00:00",
-    "text": "Количество над ЛНР и в направлении Воронежской области, Ростовской области более 200 БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265209",
-    "channel": "LPRalarm",
-    "date": "2026-11-22T19:50:23+00:00",
-    "text": "Стык\nРостовской и Воронежской областей \nТревога по БПЛА сохраняется \nИ далее в направлении \nВолгоградской\nВозможно пойдут далее на Саратовскую",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежской областей",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_154831",
-    "channel": "kupolrussia",
-    "date": "2026-11-22T19:50:41+00:00",
-    "text": "Стык\nРостовской и Воронежской областей \nТревога по БПЛА сохраняется \nИ далее в направлении \nВолгоградской\nВозможно пойдут далее на Саратовскую",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежской областей",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265210",
-    "channel": "LPRalarm",
-    "date": "2026-11-22T19:54:50+00:00",
-    "text": "Почеп и близлежащие \nТревога по БПЛА\nБрянская область \nИ далее в тыл",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_154832",
-    "channel": "kupolrussia",
-    "date": "2026-11-22T19:54:59+00:00",
-    "text": "Почеп и близлежащие \nТревога по БПЛА\nБрянская область \nИ далее в тыл",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265211",
-    "channel": "LPRalarm",
-    "date": "2026-11-22T19:56:44+00:00",
-    "text": "Красный луч \nИ близлежащие \nТревога по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_154833",
-    "channel": "kupolrussia",
-    "date": "2026-11-22T19:56:50+00:00",
-    "text": "Красный луч \nИ близлежащие \nТревога по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_96188_Славянский",
     "channel": "locatorru",
     "date": "2026-11-22T19:57:13+00:00",
@@ -21998,5 +21910,93 @@
     "region": "Ростовская область",
     "lat": 47.3034602,
     "lon": 39.7157556
+  },
+  {
+    "id": "vrv_radar_110224_Волгоград",
+    "channel": "vrv_radar",
+    "date": "2026-11-24T17:05:24+00:00",
+    "text": "Волгоград\nВолгоградская область\nОтбой опасности по БПЛА\nНа территории региона опасность сохраняется",
+    "type": "all_clear",
+    "location_name": "Волгоград",
+    "region": "Волгоградская область",
+    "lat": 48.7081906,
+    "lon": 44.5153353
+  },
+  {
+    "id": "kupolrussia_155306_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-11-24T17:06:32+00:00",
+    "text": "Севастополь\nД\\ученияи/ №",
+    "type": "unknown",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "LPRalarm_265725",
+    "channel": "LPRalarm",
+    "date": "2026-11-24T17:06:45+00:00",
+    "text": "Керчь учения",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155307",
+    "channel": "kupolrussia",
+    "date": "2026-11-24T17:07:20+00:00",
+    "text": "Керчь \nРеспублика Крым\nД\\ученияи/ №",
+    "type": "unknown",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265726",
+    "channel": "LPRalarm",
+    "date": "2026-11-24T17:13:16+00:00",
+    "text": "Трасса Инзовка- Приморск \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155308",
+    "channel": "kupolrussia",
+    "date": "2026-11-24T17:13:32+00:00",
+    "text": "Трасса Инзовка- Приморск \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\n^^ Ш “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265727",
+    "channel": "LPRalarm",
+    "date": "2026-11-24T17:14:46+00:00",
+    "text": "Дорожное направлении \nТрасса р-280 \nПриазовское- Владимировка \nПриморск- Червоное Поле \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155309",
+    "channel": "kupolrussia",
+    "date": "2026-11-24T17:15:10+00:00",
+    "text": "Дорожное направлении \nТрасса р-280 \nПриазовское- Владимировка \nПриморск- Червоное Поле \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
   }
 ]
