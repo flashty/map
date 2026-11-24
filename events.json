@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_265026",
-    "channel": "LPRalarm",
-    "date": "2026-11-22T08:35:12+00:00",
-    "text": "Трасса Р 280\nИнзовка - Приморск - Луначарское \nОпасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_154666",
-    "channel": "kupolrussia",
-    "date": "2026-11-22T08:37:18+00:00",
-    "text": "Трасса Р 280\nИнзовка - Приморск - Луначарское \nОпасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265027",
-    "channel": "LPRalarm",
-    "date": "2026-11-22T08:38:45+00:00",
-    "text": "Харьковская область РФ \nЛДНР \nЗапорожская область РФ \nАвиационно ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Харьковская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_154667",
-    "channel": "kupolrussia",
-    "date": "2026-11-22T08:38:51+00:00",
-    "text": "Харьковская область РФ \nЛДНР \nЗапорожская область РФ \nАвиационно ракетно бомбовая опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Харьковская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265028_Малореченское",
-    "channel": "LPRalarm",
-    "date": "2026-11-22T08:46:01+00:00",
-    "text": "Алушта, Малореченское, Судак и близлежащие с моря опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Малореченское",
-    "region": null,
-    "lat": 57.3070319,
-    "lon": 61.7235266
-  },
-  {
     "id": "kupolrussia_154668_Малореченское",
     "channel": "kupolrussia",
     "date": "2026-11-22T08:46:08+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Калужская область",
     "lat": 55.2148556,
     "lon": 36.5331624
+  },
+  {
+    "id": "vrv_radar_110164_Калуга",
+    "channel": "vrv_radar",
+    "date": "2026-11-24T00:59:06+00:00",
+    "text": "Калуга\nКалужская область\nРабота ПВО по БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "type": "drone",
+    "location_name": "Калуга",
+    "region": "Калужская область",
+    "lat": 54.5101087,
+    "lon": 36.2598115
+  },
+  {
+    "id": "kupolrussia_155169_Рассудово",
+    "channel": "kupolrussia",
+    "date": "2026-11-24T01:03:00+00:00",
+    "text": "Троицкий АО \nРассудово\nНовая Москва\nи\n<>\nРК",
+    "type": "unknown",
+    "location_name": "Рассудово",
+    "region": null,
+    "lat": 54.4196669,
+    "lon": 35.8758639
+  },
+  {
+    "id": "kupolrussia_155169_Новая Москва",
+    "channel": "kupolrussia",
+    "date": "2026-11-24T01:03:00+00:00",
+    "text": "Троицкий АО \nРассудово\nНовая Москва\nи\n<>\nРК",
+    "type": "unknown",
+    "location_name": "Новая Москва",
+    "region": null,
+    "lat": 54.865444,
+    "lon": 44.515045
+  },
+  {
+    "id": "LPRalarm_265563_Рассудово",
+    "channel": "LPRalarm",
+    "date": "2026-11-24T01:03:07+00:00",
+    "text": "Троицкий АО \nРассудово\nНовая Москва\nи\n<>\nРК",
+    "type": "unknown",
+    "location_name": "Рассудово",
+    "region": null,
+    "lat": 54.4196669,
+    "lon": 35.8758639
+  },
+  {
+    "id": "LPRalarm_265563_Новая Москва",
+    "channel": "LPRalarm",
+    "date": "2026-11-24T01:03:07+00:00",
+    "text": "Троицкий АО \nРассудово\nНовая Москва\nи\n<>\nРК",
+    "type": "unknown",
+    "location_name": "Новая Москва",
+    "region": null,
+    "lat": 54.865444,
+    "lon": 44.515045
   }
 ]
