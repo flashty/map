@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_154668_Малореченское",
-    "channel": "kupolrussia",
-    "date": "2026-11-22T08:46:08+00:00",
-    "text": "Алушта, Малореченское, Судак и близлежащие с моря опасность по БПЛА",
-    "type": "drone",
-    "location_name": "Малореченское",
-    "region": null,
-    "lat": 57.3070319,
-    "lon": 61.7235266
-  },
-  {
-    "id": "LPRalarm_265029_Комаричский",
-    "channel": "LPRalarm",
-    "date": "2026-11-22T08:46:34+00:00",
-    "text": "По трассе М3 в направлении Ольгино БПЛА Шарк и ударный БПЛА\nКомаричский район \nБрянская область",
-    "type": "drone",
-    "location_name": "Комаричский",
-    "region": "Брянская область",
-    "lat": 52.3575464,
-    "lon": 34.6559722
-  },
-  {
-    "id": "LPRalarm_265030",
-    "channel": "LPRalarm",
-    "date": "2026-11-22T08:47:38+00:00",
-    "text": "Чаплынка и близлежащие тревога по БПЛА Хорнет \nХерсонская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_154669",
     "channel": "kupolrussia",
     "date": "2026-11-22T08:47:46+00:00",
@@ -21998,5 +21965,38 @@
     "region": null,
     "lat": 54.865444,
     "lon": 44.515045
+  },
+  {
+    "id": "vrv_radar_110165",
+    "channel": "vrv_radar",
+    "date": "2026-11-24T01:04:33+00:00",
+    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265564",
+    "channel": "LPRalarm",
+    "date": "2026-11-24T01:12:57+00:00",
+    "text": "Брянская область \nТревога по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155170",
+    "channel": "kupolrussia",
+    "date": "2026-11-24T01:13:30+00:00",
+    "text": "Брянская область \nТревога по БПЛА сохраняется",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
   }
 ]
