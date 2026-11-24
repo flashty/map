@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_265193",
-    "channel": "LPRalarm",
-    "date": "2026-11-22T19:28:18+00:00",
-    "text": "Виноградный Клин\nГенический МО \nИ далее в направлении \nМолочный Лиман\nТревога по МВШ, возможно со сбросами",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_154818",
-    "channel": "kupolrussia",
-    "date": "2026-11-22T19:28:40+00:00",
-    "text": "Виноградный Клин\nГенический МО \nИ далее в направлении \nМолочный Лиман\nТревога по МВШ, возможно со сбросами",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265194",
-    "channel": "LPRalarm",
-    "date": "2026-11-22T19:29:23+00:00",
-    "text": "Луганск и близлежащие \nТревога по БПЛА \nСоблюдайте меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_154819",
-    "channel": "kupolrussia",
-    "date": "2026-11-22T19:29:43+00:00",
-    "text": "Луганск и близлежащие \nТревога по БПЛА \nСоблюдайте меры безопасности",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_265195",
     "channel": "LPRalarm",
     "date": "2026-11-22T19:31:18+00:00",
@@ -21996,6 +21952,50 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_96383",
+    "channel": "locatorru",
+    "date": "2026-11-24T16:01:35+00:00",
+    "text": "Ростовская область, Волгоградская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265706",
+    "channel": "LPRalarm",
+    "date": "2026-11-24T16:07:59+00:00",
+    "text": "Вознесенка \nИ близлежащие \nВнимание по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155287",
+    "channel": "kupolrussia",
+    "date": "2026-11-24T16:08:13+00:00",
+    "text": "Вознесенка \nИ близлежащие \nВнимание по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265707",
+    "channel": "LPRalarm",
+    "date": "2026-11-24T16:15:46+00:00",
+    "text": "ЛНР \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
