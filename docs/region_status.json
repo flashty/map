@@ -2,10 +2,10 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Токмак и близлежащие\nА/дороги в направлении трассы р 280 \nОпасность по БПЛА \nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-25T05:16:34+00:00",
-    "expires_at": "2026-11-25T06:16:34+00:00",
+    "text": "Трасса Р 280\nЛуначарское - Осипенко\nОпасность по БПЛА \nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-25T05:40:07+00:00",
+    "expires_at": "2026-11-25T06:40:07+00:00",
     "count": null,
     "count_approx": false
   },
@@ -16,6 +16,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-25T05:01:29+00:00",
     "expires_at": "2026-11-25T06:01:29+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Новотроицкое - Новоалексеевка - Геническ \nХерсонская область РФ \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-25T05:43:32+00:00",
+    "expires_at": "2026-11-25T06:43:32+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Армянск и близлежащие \nОпасность по БПЛА \nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-25T05:43:38+00:00",
+    "expires_at": "2026-11-25T06:43:38+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Дорожное и близлежащие \nОпасность по БПЛА Баба Яга \nДНР",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-25T05:43:59+00:00",
+    "expires_at": "2026-11-25T06:43:59+00:00",
     "count": null,
     "count_approx": false
   }
