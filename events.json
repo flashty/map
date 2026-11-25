@@ -1,49 +1,5 @@
 [
   {
-    "id": "vrv_radar_110052",
-    "channel": "vrv_radar",
-    "date": "2026-11-23T08:47:21+00:00",
-    "text": "Воронеж и близлежащие\nВоронежская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265406",
-    "channel": "LPRalarm",
-    "date": "2026-11-23T08:48:17+00:00",
-    "text": "Белгород\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_155004",
-    "channel": "kupolrussia",
-    "date": "2026-11-23T08:48:29+00:00",
-    "text": "Белгород\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265407",
-    "channel": "LPRalarm",
-    "date": "2026-11-23T08:49:49+00:00",
-    "text": "ЛНР. Угроза атаки БПЛА. \nВ границах муниципальных округов: Антрацитовский, Перевальский, Свердловский и городов Ровеньки, Красный Луч, Алчевск",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_155005",
     "channel": "kupolrussia",
     "date": "2026-11-23T08:49:57+00:00",
@@ -21998,5 +21954,49 @@
     "region": "Ульяновская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "locatorru_96465",
+    "channel": "locatorru",
+    "date": "2026-11-25T04:47:49+00:00",
+    "text": "Пензенская область, Саратовская область, Ульяновская область, Самарская область, Оренбургская область, Республика Башкортостан - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Пензенская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155474",
+    "channel": "kupolrussia",
+    "date": "2026-11-25T04:55:47+00:00",
+    "text": "Самарская область \nПензенская область \nУльяновская область \n\nОтбой опасности БПЛА\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265925",
+    "channel": "LPRalarm",
+    "date": "2026-11-25T04:55:51+00:00",
+    "text": "Самарская область \nПензенская область \nУльяновская область \n\nОтбой опасности БПЛА\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Самарская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265926_Валуйский",
+    "channel": "LPRalarm",
+    "date": "2026-11-25T05:01:20+00:00",
+    "text": "Валуйский район \nОпасность по БПЛА \nБелгородская область",
+    "type": "drone",
+    "location_name": "Валуйский",
+    "region": "Белгородская область",
+    "lat": 50.1632256,
+    "lon": 37.9638901
   }
 ]
