@@ -22,10 +22,10 @@
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Алчевск фиксации БПЛА в направлении Луганск\nЛНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-25T17:45:45+00:00",
-    "expires_at": "2026-11-25T18:45:45+00:00",
+    "text": "Малоконстантиновка, Перевальск и далее в сторону Лутугино\nТревога по БПЛА\nЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-25T17:59:06+00:00",
+    "expires_at": "2026-11-25T18:59:06+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,26 +36,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-25T17:02:27+00:00",
     "expires_at": "2026-11-25T18:02:27+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "адыгея": {
-    "display_name": "Республика Адыгея",
-    "type": "drone",
-    "text": "Краснодарский край\nРеспублика Адыгея\nРостовская область\nОпасность по БПЛА\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "channel": "radar_plus_bpla",
-    "updated_at": "2026-11-25T16:57:31+00:00",
-    "expires_at": "2026-11-25T17:57:31+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "сумск": {
-    "display_name": "Сумской области",
-    "type": "drone",
-    "text": "Брянская область\nОпасность по большой группе БПЛА со стороны Сумской области",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-25T16:46:03+00:00",
-    "expires_at": "2026-11-25T17:46:03+00:00",
     "count": null,
     "count_approx": false
   },
@@ -92,10 +72,10 @@
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
-    "text": "Батайск\nРостовская область\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-25T17:35:54+00:00",
-    "expires_at": "2026-11-25T18:35:54+00:00",
+    "text": "Ростовская область \nВоронежская область \nОпасность по БПЛА от ЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-25T18:00:53+00:00",
+    "expires_at": "2026-11-25T19:00:53+00:00",
     "count": null,
     "count_approx": false
   },
@@ -106,6 +86,26 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-25T17:19:18+00:00",
     "expires_at": "2026-11-25T18:19:18+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Салтановка, Навлинский район, Брянская область - фиксации БПЛА в направлении Навля, Карачев, возможно далее на Бояновичи. \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-25T17:55:07+00:00",
+    "expires_at": "2026-11-25T18:55:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "воронежск": {
+    "display_name": "Воронежская область",
+    "type": "drone",
+    "text": "Ростовская область \nВоронежская область \nОпасность по БПЛА от ЛНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-25T18:00:53+00:00",
+    "expires_at": "2026-11-25T19:00:53+00:00",
     "count": null,
     "count_approx": false
   }
