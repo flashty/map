@@ -1,82 +1,5 @@
 [
   {
-    "id": "LPRalarm_265389",
-    "channel": "LPRalarm",
-    "date": "2026-11-23T07:22:18+00:00",
-    "text": "Донецк и близлежащие \nТревога по БПЛА Хорнет \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_154985",
-    "channel": "kupolrussia",
-    "date": "2026-11-23T07:22:24+00:00",
-    "text": "Донецк и близлежащие \nТревога по БПЛА Хорнет \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_16073",
-    "channel": "radar_plus_bpla",
-    "date": "2026-11-23T07:26:54+00:00",
-    "text": "⁣Отбой опасности БПЛА по всем ранее объявленным регионам.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_103695",
-    "channel": "radarrussiia",
-    "date": "2026-11-23T07:27:50+00:00",
-    "text": "Челябинская область\nСвердловская область \nОтбой опасности по БПЛА\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Челябинская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radarrussiia_103696",
-    "channel": "radarrussiia",
-    "date": "2026-11-23T07:30:23+00:00",
-    "text": "Враг массово атаковал Пермскую крупнейшую нефтебазу.\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "radar_plus_bpla_16074",
-    "channel": "radar_plus_bpla",
-    "date": "2026-11-23T07:31:14+00:00",
-    "text": "Враг массово атаковал Пермскую крупнейшую нефтебазу.\n\n✈️ Наш ТГ | 📲 Наш MAX",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_96306_Корочанский",
-    "channel": "locatorru",
-    "date": "2026-11-23T07:36:03+00:00",
-    "text": "Корочанский район, Новооскольский район, Белгородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Корочанский",
-    "region": "Белгородская область",
-    "lat": 50.8026787,
-    "lon": 37.1914961
-  },
-  {
     "id": "locatorru_96306_Новооскольский",
     "channel": "locatorru",
     "date": "2026-11-23T07:36:03+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_96457_Стерлитамак",
+    "channel": "locatorru",
+    "date": "2026-11-25T00:49:25+00:00",
+    "text": "Стерлитамак, Уфа, Салават, Республика Башкортостан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Стерлитамак",
+    "region": "Республика Башкортостан",
+    "lat": 53.6194416,
+    "lon": 55.9616172
+  },
+  {
+    "id": "locatorru_96457_Уфа",
+    "channel": "locatorru",
+    "date": "2026-11-25T00:49:25+00:00",
+    "text": "Стерлитамак, Уфа, Салават, Республика Башкортостан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Уфа",
+    "region": "Республика Башкортостан",
+    "lat": 54.7261409,
+    "lon": 55.947499
+  },
+  {
+    "id": "locatorru_96457_Салават",
+    "channel": "locatorru",
+    "date": "2026-11-25T00:49:25+00:00",
+    "text": "Стерлитамак, Уфа, Салават, Республика Башкортостан - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Салават",
+    "region": "Республика Башкортостан",
+    "lat": 53.361687,
+    "lon": 55.924641
+  },
+  {
+    "id": "locatorru_96458",
+    "channel": "locatorru",
+    "date": "2026-11-25T00:49:43+00:00",
+    "text": "Салават и близлежащие, Республика Башкортостан - не попадите под обломки сбитых БПЛА. \n\n📡Локатор России - @locatorru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Республика Башкортостан",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_110399_Салават",
+    "channel": "vrv_radar",
+    "date": "2026-11-25T00:50:41+00:00",
+    "text": "Салават\nРеспублика Башкортостан\nРабота ПВО по БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "type": "drone",
+    "location_name": "Салават",
+    "region": "Республика Башкортостан",
+    "lat": 53.361687,
+    "lon": 55.924641
+  },
+  {
+    "id": "vrv_radar_110400_Сызрань",
+    "channel": "vrv_radar",
+    "date": "2026-11-25T00:58:30+00:00",
+    "text": "Сызрань\nСамарская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "type": "drone",
+    "location_name": "Сызрань",
+    "region": "Самарская область",
+    "lat": 53.15538,
+    "lon": 48.474121
+  },
+  {
+    "id": "vrv_radar_110401",
+    "channel": "vrv_radar",
+    "date": "2026-11-25T01:01:10+00:00",
+    "text": "Список отдельных каналов оповещений по городам, существует риск блокировки основного канала, советуем подписаться на свой город:\n\nСписок в TG\nСписок в MAX",
+    "type": "unknown",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
