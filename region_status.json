@@ -4,8 +4,8 @@
     "type": "alert",
     "text": "Запорожская область РФ \nОпасность по МРШ со сбросами",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-25T10:44:35+00:00",
-    "expires_at": "2026-11-25T11:44:35+00:00",
+    "updated_at": "2026-11-25T11:10:46+00:00",
+    "expires_at": "2026-11-25T12:10:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -39,16 +39,6 @@
     "count": null,
     "count_approx": false
   },
-  "татарст": {
-    "display_name": "Республика Татарстан",
-    "type": "alert",
-    "text": "Республика Татарстан \nКазань (пригород)\nЗвуки опасности не несут,учения на танковом полигоне.",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-25T10:13:50+00:00",
-    "expires_at": "2026-11-25T11:13:50+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянской области",
     "type": "drone",
@@ -60,12 +50,12 @@
     "count_approx": false
   },
   "курск": {
-    "display_name": "Курской области",
-    "type": "drone",
-    "text": "В приграничных районах Брянской области, Курской области, Белгородской области - активность БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-25T10:31:56+00:00",
-    "expires_at": "2026-11-25T11:31:56+00:00",
+    "display_name": "Курская область",
+    "type": "missile",
+    "text": "Курская область и близлежащие \nАвиационная ракетно бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-25T11:15:15+00:00",
+    "expires_at": "2026-11-25T12:15:15+00:00",
     "count": null,
     "count_approx": false
   },
@@ -76,6 +66,26 @@
     "channel": "locatorru",
     "updated_at": "2026-11-25T10:31:56+00:00",
     "expires_at": "2026-11-25T11:31:56+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "краснодарск": {
+    "display_name": "Краснодарский край",
+    "type": "missile",
+    "text": "Краснодарский край \nРостовская область \nАвиационная ракетно бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-25T11:14:19+00:00",
+    "expires_at": "2026-11-25T12:14:19+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "ростовск": {
+    "display_name": "Ростовская область",
+    "type": "missile",
+    "text": "Краснодарский край \nРостовская область \nАвиационная ракетно бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-25T11:14:19+00:00",
+    "expires_at": "2026-11-25T12:14:19+00:00",
     "count": null,
     "count_approx": false
   }
