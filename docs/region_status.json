@@ -1,31 +1,31 @@
 {
   "запорожск": {
     "display_name": "Запорожская область",
-    "type": "alert",
-    "text": "Трасса Р-280\nВладимировка-Инзовка-Приморск\nТревога по ФПВ \n\nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-25T11:33:59+00:00",
-    "expires_at": "2026-11-25T12:33:59+00:00",
+    "type": "missile",
+    "text": "ЛДНР \nЗапорожская область РФ \nАвиационная ракетная бомбовая опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-25T12:09:58+00:00",
+    "expires_at": "2026-11-25T13:09:58+00:00",
     "count": null,
     "count_approx": false
   },
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Горловка и близлежащие \nТревога по БПЛА и ФПВ сохраняется \nДНР",
+    "type": "missile",
+    "text": "Очеретино ДНР\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-25T11:32:27+00:00",
-    "expires_at": "2026-11-25T12:32:27+00:00",
+    "updated_at": "2026-11-25T12:15:01+00:00",
+    "expires_at": "2026-11-25T13:15:01+00:00",
     "count": null,
     "count_approx": false
   },
   "луганск": {
     "display_name": "Луганская область",
     "type": "drone",
-    "text": "Алчевск и близлежащие \nЛНР \nопасность по БПЛА Хорнет",
+    "text": "Алчевск в направлении Луганск БПЛА Хорнет \n\nБелое БПЛА Хорнет \n\nЛНР",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-25T11:23:23+00:00",
-    "expires_at": "2026-11-25T12:23:23+00:00",
+    "updated_at": "2026-11-25T12:15:44+00:00",
+    "expires_at": "2026-11-25T13:15:44+00:00",
     "count": null,
     "count_approx": false
   },
@@ -36,36 +36,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-25T11:16:22+00:00",
     "expires_at": "2026-11-25T12:16:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "missile",
-    "text": "Курская область и близлежащие \nАвиационная ракетно бомбовая опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-25T11:15:15+00:00",
-    "expires_at": "2026-11-25T12:15:15+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "missile",
-    "text": "Краснодарский край \nРостовская область \nАвиационная ракетно бомбовая опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-25T11:14:19+00:00",
-    "expires_at": "2026-11-25T12:14:19+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "ростовск": {
-    "display_name": "Ростовская область",
-    "type": "missile",
-    "text": "Краснодарский край \nРостовская область \nАвиационная ракетно бомбовая опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-25T11:14:19+00:00",
-    "expires_at": "2026-11-25T12:14:19+00:00",
     "count": null,
     "count_approx": false
   }
