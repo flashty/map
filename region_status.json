@@ -2,10 +2,10 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Трасса\nПриазовское - Приморск\nТревога по БПЛА от п. Богдановка  \nЗапорожская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-25T15:13:58+00:00",
-    "expires_at": "2026-11-25T16:13:58+00:00",
+    "text": "Трасса \nПриазовское - Приморск \nТревога по БПЛА\nЗапорожская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-25T15:30:41+00:00",
+    "expires_at": "2026-11-25T16:30:41+00:00",
     "count": null,
     "count_approx": false
   },
@@ -16,6 +16,16 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-25T14:46:01+00:00",
     "expires_at": "2026-11-25T15:46:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Черноморский район и близлежащие\nОпасность по БПЛА с моря \nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-25T15:16:17+00:00",
+    "expires_at": "2026-11-25T16:16:17+00:00",
     "count": null,
     "count_approx": false
   }
