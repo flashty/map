@@ -12,10 +12,10 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Мелитополь\nМелитопольский район \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\n^^ Ш “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "text": "Приморск \nОсипенко и близлежащие\nЗапорожская область РФ\nопасность по БПЛА",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-25T08:44:15+00:00",
-    "expires_at": "2026-11-25T09:44:15+00:00",
+    "updated_at": "2026-11-25T09:28:20+00:00",
+    "expires_at": "2026-11-25T10:28:20+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,16 +26,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-25T08:53:08+00:00",
     "expires_at": "2026-11-25T09:53:08+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "missile",
-    "text": "Все районы Республика Крым\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-25T08:57:46+00:00",
-    "expires_at": "2026-11-25T09:57:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +46,16 @@
     "channel": "radarrussiia",
     "updated_at": "2026-11-25T09:14:03+00:00",
     "expires_at": "2026-11-25T10:14:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Ясиноватая, Пантелеймоновка, Макеевка, Корсунь, Енакиево и близлежащие \nОпасность по БПЛА \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-25T09:28:51+00:00",
+    "expires_at": "2026-11-25T10:28:51+00:00",
     "count": null,
     "count_approx": false
   }
