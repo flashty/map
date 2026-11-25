@@ -1,82 +1,5 @@
 [
   {
-    "id": "vrv_radar_110063",
-    "channel": "vrv_radar",
-    "date": "2026-11-23T11:01:42+00:00",
-    "text": "Ростовская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_96314",
-    "channel": "locatorru",
-    "date": "2026-11-23T11:04:52+00:00",
-    "text": "Ростовская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265431",
-    "channel": "LPRalarm",
-    "date": "2026-11-23T11:05:01+00:00",
-    "text": "Белое и близлежащие \nОпасность по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_155032",
-    "channel": "kupolrussia",
-    "date": "2026-11-23T11:05:05+00:00",
-    "text": "Белое и близлежащие \nОпасность по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265432",
-    "channel": "LPRalarm",
-    "date": "2026-11-23T11:06:17+00:00",
-    "text": "Ростовская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_155033",
-    "channel": "kupolrussia",
-    "date": "2026-11-23T11:06:22+00:00",
-    "text": "Ростовская область \nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265433_Рыльский",
-    "channel": "LPRalarm",
-    "date": "2026-11-23T11:12:55+00:00",
-    "text": "Рыльск и Рыльский район  опасность по ударным БПЛА с юго-запада\nПовторно \nКурская область",
-    "type": "drone",
-    "location_name": "Рыльский",
-    "region": "Курская область",
-    "lat": 51.5713767,
-    "lon": 34.624021
-  },
-  {
     "id": "kupolrussia_155034_Рыльский",
     "channel": "kupolrussia",
     "date": "2026-11-23T11:13:02+00:00",
@@ -21996,6 +21919,83 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265956",
+    "channel": "LPRalarm",
+    "date": "2026-11-25T07:48:23+00:00",
+    "text": "От Луганска, Роскошное на Лутугино по трассе БПЛА  Хорнет \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155497",
+    "channel": "kupolrussia",
+    "date": "2026-11-25T07:48:58+00:00",
+    "text": "От Луганска, Роскошное на Лутугино по трассе БПЛА  Хорнет \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265957",
+    "channel": "LPRalarm",
+    "date": "2026-11-25T07:49:54+00:00",
+    "text": "Новотроицкое и близлежащие \nОсобое внимание трасса \nОпасность по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155498",
+    "channel": "kupolrussia",
+    "date": "2026-11-25T07:50:08+00:00",
+    "text": "Новотроицкое и близлежащие \nОсобое внимание трасса \nОпасность по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265958_Шебекинский",
+    "channel": "LPRalarm",
+    "date": "2026-11-25T07:56:40+00:00",
+    "text": "А/ дороги \nВознесеновка - Белянка \nНежеголь - Купино \nОпасность атаки ФПВ \nШебекинский район \nБелгородская область",
+    "type": "alert",
+    "location_name": "Шебекинский",
+    "region": "Белгородская область",
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "kupolrussia_155499_Шебекинский",
+    "channel": "kupolrussia",
+    "date": "2026-11-25T07:57:11+00:00",
+    "text": "А/ дороги \nВознесеновка - Белянка \nНежеголь - Купино \nОпасность атаки ФПВ \nШебекинский район \nБелгородская область",
+    "type": "alert",
+    "location_name": "Шебекинский",
+    "region": "Белгородская область",
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "radarrussiia_103755",
+    "channel": "radarrussiia",
+    "date": "2026-11-25T07:59:01+00:00",
+    "text": "За прошедшую ночь силами противовоздушной обороны было уничтожено 305 БПЛА над территориями Белгородской, Брянской, Волгоградской, Воронежской, Курской, Нижегородской, Пензенской, Ростовской, Самарской, Саратовской, Смоленской, Тамбовской, Ульяновской областей и Краснодарского края.\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Белгородской областей",
     "lat": null,
     "lon": null
   }
