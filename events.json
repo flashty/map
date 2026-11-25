@@ -1,49 +1,5 @@
 [
   {
-    "id": "LPRalarm_265400",
-    "channel": "LPRalarm",
-    "date": "2026-11-23T08:27:51+00:00",
-    "text": "Воронежская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_154998",
-    "channel": "kupolrussia",
-    "date": "2026-11-23T08:28:26+00:00",
-    "text": "Воронежская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Воронежская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265401_Ивнянский",
-    "channel": "LPRalarm",
-    "date": "2026-11-23T08:29:32+00:00",
-    "text": "Ракитянский \nИвнянский районы\nОпасность по БПЛА \nБелгородская область",
-    "type": "drone",
-    "location_name": "Ивнянский",
-    "region": "Белгородская область",
-    "lat": 51.0201731,
-    "lon": 36.2197073
-  },
-  {
-    "id": "kupolrussia_154999_Ивнянский",
-    "channel": "kupolrussia",
-    "date": "2026-11-23T08:29:51+00:00",
-    "text": "Ракитянский \nИвнянский районы\nОпасность по БПЛА \nБелгородская область",
-    "type": "drone",
-    "location_name": "Ивнянский",
-    "region": "Белгородская область",
-    "lat": 51.0201731,
-    "lon": 36.2197073
-  },
-  {
     "id": "radarrussiia_103697",
     "channel": "radarrussiia",
     "date": "2026-11-23T08:30:01+00:00",
@@ -21996,6 +21952,50 @@
     "type": "all_clear",
     "location_name": null,
     "region": "Республика Мордовия",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265916",
+    "channel": "LPRalarm",
+    "date": "2026-11-25T03:10:53+00:00",
+    "text": "Опасность БпЛА по Р-280 участок Приазовское - Приморск - Бердянск",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_155469",
+    "channel": "kupolrussia",
+    "date": "2026-11-25T03:10:58+00:00",
+    "text": "Опасность БпЛА по Р-280 участок Приазовское - Приморск - Бердянск",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265917",
+    "channel": "LPRalarm",
+    "date": "2026-11-25T03:11:04+00:00",
+    "text": "Курская область, отбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_265918",
+    "channel": "LPRalarm",
+    "date": "2026-11-25T03:11:08+00:00",
+    "text": "Курская область, отбой опасности БПЛА",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Курская область",
     "lat": null,
     "lon": null
   }
