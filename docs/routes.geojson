@@ -40,31 +40,6 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
-        "started_at": "2026-11-25T17:16:55+00:00",
-        "last_updated": "2026-11-25T17:55:07+00:00",
-        "path_labels": [
-          "Почепского (Брянская область)",
-          "Салтановка (Брянская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.4563511,
-            52.9294831
-          ],
-          [
-            34.2870081,
-            52.7832735
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
         "started_at": "2026-11-25T18:03:14+00:00",
         "last_updated": "2026-11-25T18:28:53+00:00",
         "path_labels": [
@@ -82,6 +57,56 @@
           [
             34.2569071,
             53.320852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-25T18:37:49+00:00",
+        "last_updated": "2026-11-25T18:58:40+00:00",
+        "path_labels": [
+          "Вейделевском",
+          "Уразово (Белгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.4448028,
+            50.1495504
+          ],
+          [
+            38.0389717,
+            50.0832161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-25T18:37:49+00:00",
+        "last_updated": "2026-11-25T18:52:50+00:00",
+        "path_labels": [
+          "Красногвардейском",
+          "Кировск"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.4101516,
+            59.9496071
+          ],
+          [
+            30.9855331,
+            59.8813954
           ]
         ]
       }
