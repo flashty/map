@@ -1,14 +1,4 @@
 {
-  "запорожск": {
-    "display_name": "Запорожская область",
-    "type": "missile",
-    "text": "Херсонская область РФ, Запорожская область РФ, ЛДНР \nАвиационная ракетная бомбовая опасность",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-26T10:04:45+00:00",
-    "expires_at": "2026-11-26T11:04:45+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -26,6 +16,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-26T10:58:22+00:00",
     "expires_at": "2026-11-26T11:58:22+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "крым": {
+    "display_name": "Республика Крым",
+    "type": "drone",
+    "text": "Кировский район\nЛенинский район\nЧауда \nФеодосия и близлежащие\nОпасность по БПЛА \nРеспублика Крым",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-26T11:04:16+00:00",
+    "expires_at": "2026-11-26T12:04:16+00:00",
     "count": null,
     "count_approx": false
   }
