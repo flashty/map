@@ -1,38 +1,5 @@
 [
   {
-    "id": "kupolrussia_155590",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T13:00:49+00:00",
-    "text": "Калужская область \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_266058",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T13:00:53+00:00",
-    "text": "Калужская область \nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Калужская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_155591",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T13:01:01+00:00",
-    "text": "Орловская область \nКурская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Орловская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_103759",
     "channel": "radarrussiia",
     "date": "2026-11-25T13:01:34+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Белгородская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_266693",
+    "channel": "LPRalarm",
+    "date": "2026-11-26T12:50:58+00:00",
+    "text": "Дорожное направление Приазовское - Владимировка - Инзовка - Приморск\nОпасность по МРШ со сбросами\nЗапорожская область РФ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156135",
+    "channel": "kupolrussia",
+    "date": "2026-11-26T12:51:06+00:00",
+    "text": "Дорожное направление Приазовское - Владимировка - Инзовка - Приморск\nОпасность по МРШ со сбросами\nЗапорожская область РФ",
+    "type": "alert",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_110735_Невинномысск",
+    "channel": "vrv_radar",
+    "date": "2026-11-26T12:51:45+00:00",
+    "text": "Невинномысск\nСтавропольский край\nЗвуки опасности не несут, уничтожение обломков.",
+    "type": "all_clear",
+    "location_name": "Невинномысск",
+    "region": "Ставропольский край",
+    "lat": 44.6245814,
+    "lon": 41.9475941
   }
 ]
