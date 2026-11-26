@@ -1,11 +1,11 @@
 {
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Донецк и близлежащие \nОпасность по БПЛА \nДНР",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-26T13:30:57+00:00",
-    "expires_at": "2026-11-26T14:30:57+00:00",
+    "type": "missile",
+    "text": "Гродовка, Очеретино, Уманское ДНР ракетная опасность",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-26T14:09:09+00:00",
+    "expires_at": "2026-11-26T15:09:09+00:00",
     "count": null,
     "count_approx": false
   },
@@ -19,26 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Брянская область, Курская область - опасность по БПЛА сохраняется. \n\nОрловская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-26T13:07:18+00:00",
-    "expires_at": "2026-11-26T14:07:18+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Белгородский район, Вейделевский район, Белгородская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-26T13:07:37+00:00",
-    "expires_at": "2026-11-26T14:07:37+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -46,16 +26,6 @@
     "channel": "locatorru",
     "updated_at": "2026-11-26T13:51:39+00:00",
     "expires_at": "2026-11-26T14:51:39+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Брянская область, Курская область - опасность по БПЛА сохраняется. \n\nОрловская область - опасность по БПЛА. \n\n📡Локатор России - @locatorru",
-    "channel": "locatorru",
-    "updated_at": "2026-11-26T13:07:18+00:00",
-    "expires_at": "2026-11-26T14:07:18+00:00",
     "count": null,
     "count_approx": false
   }
