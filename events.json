@@ -1,60 +1,5 @@
 [
   {
-    "id": "LPRalarm_266060",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T13:05:19+00:00",
-    "text": "Московская область ракетная опасность (в том числе по реактивным БПЛА)\nОт Калужской и Тульской области",
-    "type": "missile",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_110442",
-    "channel": "vrv_radar",
-    "date": "2026-11-25T13:05:57+00:00",
-    "text": "Московская область\nРакетная опасность\n\nКарта опасностей - radar-vrv.ru",
-    "type": "missile",
-    "location_name": null,
-    "region": "Московская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_266061",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T13:06:09+00:00",
-    "text": "Димитров, Уманское, Очеретино, Авдеевка, Донецк ДНР ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_155594",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T13:06:21+00:00",
-    "text": "Димитров, Уманское, Очеретино, Авдеевка, Донецк ДНР ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_266062",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T13:07:15+00:00",
-    "text": "Брянская область повторно ракетная тревога",
-    "type": "missile",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_155595",
     "channel": "kupolrussia",
     "date": "2026-11-25T13:07:26+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_266698",
+    "channel": "LPRalarm",
+    "date": "2026-11-26T13:27:23+00:00",
+    "text": "Горловка и близлежащие\nТревога по БПЛА и ФПВ/ФПВ - ждунам сохраняется \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156139",
+    "channel": "kupolrussia",
+    "date": "2026-11-26T13:27:37+00:00",
+    "text": "Горловка и близлежащие\nТревога по БПЛА и ФПВ/ФПВ - ждунам сохраняется \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_266699",
+    "channel": "LPRalarm",
+    "date": "2026-11-26T13:28:01+00:00",
+    "text": "Пантелеймоновка, Корсунь, Енакиево, Ждановка и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156140",
+    "channel": "kupolrussia",
+    "date": "2026-11-26T13:28:11+00:00",
+    "text": "Пантелеймоновка, Корсунь, Енакиево, Ждановка и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_266700",
+    "channel": "LPRalarm",
+    "date": "2026-11-26T13:30:57+00:00",
+    "text": "Донецк и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
     "lat": null,
     "lon": null
   }
