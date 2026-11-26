@@ -1,11 +1,11 @@
 {
   "донецк": {
     "display_name": "Донецкая область",
-    "type": "alert",
-    "text": "Федеральная трасса  Артёмовск - Клиновое ДНР \nТревога по ФПВ\nВысокая активность",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-26T08:51:06+00:00",
-    "expires_at": "2026-11-26T09:51:06+00:00",
+    "type": "drone",
+    "text": "Горловка и близлежащие \nс запада \nДНР\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\n^^ Ш “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-26T09:41:32+00:00",
+    "expires_at": "2026-11-26T10:41:32+00:00",
     "count": null,
     "count_approx": false
   },
@@ -56,6 +56,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-26T08:51:10+00:00",
     "expires_at": "2026-11-26T09:51:10+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "брянск": {
+    "display_name": "Брянская область",
+    "type": "drone",
+    "text": "Стародуб тревога по ФПВ и БПЛА Дартс\nБрянская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-26T09:44:13+00:00",
+    "expires_at": "2026-11-26T10:44:13+00:00",
     "count": null,
     "count_approx": false
   }
