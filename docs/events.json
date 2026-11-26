@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_110424",
-    "channel": "vrv_radar",
-    "date": "2026-11-25T04:34:13+00:00",
-    "text": "Напоминаем, что наша онлайн карта уже доступна. \n\nСейчас проект находится на этапе бета-тестирования, поэтому будем рады вашей обратной связи: \n👉 @vrv_report_bot\n\n🔗 Канал сайта: http://t.me/radar_vrv_site\n🔗 Карта: radar-vrv.ru",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_110425",
-    "channel": "vrv_radar",
-    "date": "2026-11-25T04:45:33+00:00",
-    "text": "Самарская область\nОтбой опасности по БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_110426",
     "channel": "vrv_radar",
     "date": "2026-11-25T04:45:36+00:00",
@@ -21998,5 +21976,27 @@
     "region": "Херсонская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_266559_Краснояружский",
+    "channel": "LPRalarm",
+    "date": "2026-11-26T06:37:12+00:00",
+    "text": "Краснояружский район \nОпасность по БПЛА \nБелгородская область",
+    "type": "drone",
+    "location_name": "Краснояружский",
+    "region": "Белгородская область",
+    "lat": 50.8175551,
+    "lon": 35.5718561
+  },
+  {
+    "id": "kupolrussia_156019_Краснояружский",
+    "channel": "kupolrussia",
+    "date": "2026-11-26T06:37:38+00:00",
+    "text": "Краснояружский район \nОпасность по БПЛА \nБелгородская область",
+    "type": "drone",
+    "location_name": "Краснояружский",
+    "region": "Белгородская область",
+    "lat": 50.8175551,
+    "lon": 35.5718561
   }
 ]
