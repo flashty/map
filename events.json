@@ -1,71 +1,5 @@
 [
   {
-    "id": "kupolrussia_155544",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T10:44:35+00:00",
-    "text": "Запорожская область РФ \nОпасность по МРШ со сбросами",
-    "type": "alert",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_266006",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T10:44:45+00:00",
-    "text": "Опасность БПЛА по участку трассы Р-280 Мелитополь-Приморск-Приазовское",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_155545",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T10:44:51+00:00",
-    "text": "Опасность БПЛА по участку трассы Р-280 Мелитополь-Приморск-Приазовское",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_266007",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T10:57:09+00:00",
-    "text": "Светлодарск Мировновский, Дебальцево и близлежащие \nОпасность по БПЛА \nДНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_266008",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T10:57:42+00:00",
-    "text": "от Алчевск в направлении Луганск \nЛНР \nфиксации ударных БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_155546",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T10:57:46+00:00",
-    "text": "от Алчевск в направлении Луганск \nЛНР \nфиксации ударных БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_155547",
     "channel": "kupolrussia",
     "date": "2026-11-25T10:57:57+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Херсонская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_266644_Гудовка",
+    "channel": "LPRalarm",
+    "date": "2026-11-26T10:16:57+00:00",
+    "text": "Гудовка и далее в тыл БПЛА Дартс противника! \nПогар и близлежащие  занять укрытия!\nБрянская область",
+    "type": "drone",
+    "location_name": "Гудовка",
+    "region": "Брянская область",
+    "lat": 52.3742368,
+    "lon": 33.1345939
+  },
+  {
+    "id": "kupolrussia_156090_Гудовка",
+    "channel": "kupolrussia",
+    "date": "2026-11-26T10:17:06+00:00",
+    "text": "Гудовка и далее в тыл БПЛА Дартс противника! \nПогар и близлежащие  занять укрытия!\nБрянская область",
+    "type": "drone",
+    "location_name": "Гудовка",
+    "region": "Брянская область",
+    "lat": 52.3742368,
+    "lon": 33.1345939
+  },
+  {
+    "id": "LPRalarm_266645",
+    "channel": "LPRalarm",
+    "date": "2026-11-26T10:22:00+00:00",
+    "text": "От Приморск в направлении Бердянск и далее в Азовское море 3 ракеты или реактивных БПЛА",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156091",
+    "channel": "kupolrussia",
+    "date": "2026-11-26T10:22:06+00:00",
+    "text": "От Приморск в направлении Бердянск и далее в Азовское море 3 ракеты или реактивных БПЛА",
+    "type": "missile",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_266646_Климово",
+    "channel": "LPRalarm",
+    "date": "2026-11-26T10:23:08+00:00",
+    "text": "Климово Брянская область \nТревога по ФПВ и БПЛА Дартс",
+    "type": "drone",
+    "location_name": "Климово",
+    "region": "Брянская область",
+    "lat": 52.3790542,
+    "lon": 32.1971433
+  },
+  {
+    "id": "kupolrussia_156092_Климово",
+    "channel": "kupolrussia",
+    "date": "2026-11-26T10:23:15+00:00",
+    "text": "Климово Брянская область \nТревога по ФПВ и БПЛА Дартс",
+    "type": "drone",
+    "location_name": "Климово",
+    "region": "Брянская область",
+    "lat": 52.3790542,
+    "lon": 32.1971433
   }
 ]
