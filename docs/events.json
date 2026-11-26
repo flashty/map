@@ -1,93 +1,5 @@
 [
   {
-    "id": "LPRalarm_265977",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T09:33:17+00:00",
-    "text": "Новая Полтавка ДНР ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_155517",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T09:33:37+00:00",
-    "text": "Новая Полтавка ДНР ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265978",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T09:33:47+00:00",
-    "text": "Горловка ДНР ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_155518",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T09:33:54+00:00",
-    "text": "Горловка ДНР ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Донецкая область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265979_Фокинский",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T09:35:02+00:00",
-    "text": "Фокинский район\nБрянск\nопасность по БПЛА",
-    "type": "drone",
-    "location_name": "Фокинский",
-    "region": null,
-    "lat": 53.213139,
-    "lon": 34.4146243
-  },
-  {
-    "id": "kupolrussia_155519_Фокинский",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T09:35:12+00:00",
-    "text": "Фокинский район\nБрянск\nопасность по БПЛА",
-    "type": "drone",
-    "location_name": "Фокинский",
-    "region": null,
-    "lat": 53.213139,
-    "lon": 34.4146243
-  },
-  {
-    "id": "vrv_radar_110434",
-    "channel": "vrv_radar",
-    "date": "2026-11-25T09:35:16+00:00",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265980",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T09:36:15+00:00",
-    "text": "Новопсков\nЛесная Поляна и близлежащие\nЛНР\nопасность по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_155520",
     "channel": "kupolrussia",
     "date": "2026-11-25T09:36:20+00:00",
@@ -21998,5 +21910,93 @@
     "region": "Запорожская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_266614_Джанкойский",
+    "channel": "LPRalarm",
+    "date": "2026-11-26T09:09:07+00:00",
+    "text": "Джанкойский район северо-запад опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Джанкойский",
+    "region": null,
+    "lat": 55.5394245,
+    "lon": 37.5744389
+  },
+  {
+    "id": "kupolrussia_156064_Джанкойский",
+    "channel": "kupolrussia",
+    "date": "2026-11-26T09:09:12+00:00",
+    "text": "Джанкойский район северо-запад опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Джанкойский",
+    "region": null,
+    "lat": 55.5394245,
+    "lon": 37.5744389
+  },
+  {
+    "id": "LPRalarm_266615",
+    "channel": "LPRalarm",
+    "date": "2026-11-26T09:11:45+00:00",
+    "text": "Каланчак и близлежащие тревога по БПЛА Хорнет повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156065",
+    "channel": "kupolrussia",
+    "date": "2026-11-26T09:11:54+00:00",
+    "text": "Каланчак и близлежащие тревога по БПЛА Хорнет повторно",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_266616",
+    "channel": "LPRalarm",
+    "date": "2026-11-26T09:12:49+00:00",
+    "text": "Приморск от Лозоватка Запорожская область РФ тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156066",
+    "channel": "kupolrussia",
+    "date": "2026-11-26T09:13:01+00:00",
+    "text": "Приморск от Лозоватка Запорожская область РФ тревога по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_266617_Севастополь",
+    "channel": "LPRalarm",
+    "date": "2026-11-26T09:13:24+00:00",
+    "text": "Севастополь и близлежащие населенные пункты опасность по МРШ со сбросами БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
+  },
+  {
+    "id": "kupolrussia_156067_Севастополь",
+    "channel": "kupolrussia",
+    "date": "2026-11-26T09:13:30+00:00",
+    "text": "Севастополь и близлежащие населенные пункты опасность по МРШ со сбросами БПЛА и ФПВ",
+    "type": "drone",
+    "location_name": "Севастополь",
+    "region": null,
+    "lat": 53.456383,
+    "lon": 35.186371
   }
 ]
