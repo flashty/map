@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-26T17:24:50+00:00",
+        "last_updated": "2026-11-26T17:41:29+00:00",
+        "path_labels": [
+          "Дебальцево",
+          "Новочеркасск (Ростовская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.6366067,
+            47.3190637
+          ],
+          [
+            40.101986,
+            47.41066
+          ]
+        ]
+      }
+    }
+  ]
 }
