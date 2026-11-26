@@ -9,56 +9,6 @@
     "count": null,
     "count_approx": false
   },
-  "краснодарск": {
-    "display_name": "Краснодарский край",
-    "type": "drone",
-    "text": "Туапсинский район\nКраснодарский край\nФиксация БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-26T16:14:22+00:00",
-    "expires_at": "2026-11-26T17:14:22+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "курск": {
-    "display_name": "Курская область",
-    "type": "drone",
-    "text": "Противник в ближайшее время готовит массовый запуск БПЛА в направлении \nБелгородская область \nКурская область \nВоронежская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-26T15:19:47+00:00",
-    "expires_at": "2026-11-26T16:19:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "белгородск": {
-    "display_name": "Белгородская область",
-    "type": "drone",
-    "text": "Противник в ближайшее время готовит массовый запуск БПЛА в направлении \nБелгородская область \nКурская область \nВоронежская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-26T15:19:47+00:00",
-    "expires_at": "2026-11-26T16:19:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "луганск": {
-    "display_name": "Луганская область",
-    "type": "drone",
-    "text": "Север\nЛНР \nОпасность по БПЛА",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-26T15:30:47+00:00",
-    "expires_at": "2026-11-26T16:30:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "воронежск": {
-    "display_name": "Воронежская область",
-    "type": "drone",
-    "text": "Противник в ближайшее время готовит массовый запуск БПЛА в направлении \nБелгородская область \nКурская область \nВоронежская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-26T15:19:47+00:00",
-    "expires_at": "2026-11-26T16:19:47+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "ростовск": {
     "display_name": "Ростовская область",
     "type": "drone",
@@ -66,6 +16,16 @@
     "channel": "radar_plus_bpla",
     "updated_at": "2026-11-26T15:37:44+00:00",
     "expires_at": "2026-11-26T16:37:44+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Новосёловка, Чермалык Тельмановский район ДНР \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-26T16:29:09+00:00",
+    "expires_at": "2026-11-26T17:29:09+00:00",
     "count": null,
     "count_approx": false
   }

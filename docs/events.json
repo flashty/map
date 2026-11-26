@@ -1,38 +1,5 @@
 [
   {
-    "id": "LPRalarm_266096",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T15:22:12+00:00",
-    "text": "Бердянск с севера тревога по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_266097",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T15:22:40+00:00",
-    "text": "Спасибо огромное \n❤️❤️❤️\nhttps://pay.cloudtips.ru/p/f2a9c1d8",
-    "type": "unknown",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_266098",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T15:30:41+00:00",
-    "text": "Трасса \nПриазовское - Приморск \nТревога по БПЛА\nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_155630",
     "channel": "kupolrussia",
     "date": "2026-11-25T15:31:45+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Краснодарский край",
     "lat": 44.2686396,
     "lon": 39.1884737
+  },
+  {
+    "id": "vrv_radar_110745_Геленджик",
+    "channel": "vrv_radar",
+    "date": "2026-11-26T16:23:11+00:00",
+    "text": "Геленджик\nКраснодарский край\nСбития БПЛА в акватории Чёрного моря\nМеры безопасности",
+    "type": "all_clear",
+    "location_name": "Геленджик",
+    "region": "Краснодарский край",
+    "lat": 44.5609447,
+    "lon": 38.0766832
+  },
+  {
+    "id": "LPRalarm_266730",
+    "channel": "LPRalarm",
+    "date": "2026-11-26T16:29:04+00:00",
+    "text": "Новосёловка, Чермалык Тельмановский район ДНР \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156168",
+    "channel": "kupolrussia",
+    "date": "2026-11-26T16:29:09+00:00",
+    "text": "Новосёловка, Чермалык Тельмановский район ДНР \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
   }
 ]
