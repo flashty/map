@@ -1,11 +1,11 @@
 {
   "ростовск": {
     "display_name": "Ростовская область",
-    "type": "alert",
-    "text": "Ростовская область\nКраснодарский край\nОпасность по МВШ\n\n❗️Радар по всей России - @radarrussiia\n📲 Наш канал в МАХ - \nhttps://max.ru/join/radarrussiia",
-    "channel": "radarrussiia",
-    "updated_at": "2026-11-26T18:34:53+00:00",
-    "expires_at": "2026-11-26T19:34:53+00:00",
+    "type": "drone",
+    "text": "Таганрог и близлежащие \nТревога по БПЛА \nРостовская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-26T19:10:27+00:00",
+    "expires_at": "2026-11-26T20:10:27+00:00",
     "count": null,
     "count_approx": false
   },
@@ -19,33 +19,23 @@
     "count": null,
     "count_approx": false
   },
-  "херсонск": {
-    "display_name": "Херсонская область",
-    "type": "drone",
-    "text": "Скадовск и близлежащие \nТревога по БПЛА \nХерсонская область РФ",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-26T18:09:28+00:00",
-    "expires_at": "2026-11-26T19:09:28+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
-    "text": "Колячек, Калиновка и близлежащие\nХомутовский район\nКурская область\nТревога по БПЛА со сбросами сохраняется",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-26T18:13:33+00:00",
-    "expires_at": "2026-11-26T19:13:33+00:00",
+    "text": "Сазановка и близлежащие \nТревога по БПЛА \nКурская область",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-26T19:14:02+00:00",
+    "expires_at": "2026-11-26T20:14:02+00:00",
     "count": null,
     "count_approx": false
   },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
-    "text": "Погарский район \nПочепский район \nИ далее в тыл \nТревога по БПЛА\nБрянская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-26T19:01:08+00:00",
-    "expires_at": "2026-11-26T20:01:08+00:00",
+    "text": "Сельцовский ГО\nИ близлежащие \nОпасность по БПЛА\nБрянская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-26T19:15:51+00:00",
+    "expires_at": "2026-11-26T20:15:51+00:00",
     "count": null,
     "count_approx": false
   },
@@ -82,10 +72,30 @@
   "воронежск": {
     "display_name": "Воронежская область",
     "type": "drone",
-    "text": "Воронежская область \nОпасность по БПЛА",
+    "text": "Калужская область\nВоронежская область \nОпасность по БПЛА\n\n✈️ Наш ТГ",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-11-26T19:04:46+00:00",
+    "expires_at": "2026-11-26T20:04:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калужская область\nВоронежская область \nОпасность по БПЛА\n\n✈️ Наш ТГ",
+    "channel": "radar_plus_bpla",
+    "updated_at": "2026-11-26T19:04:46+00:00",
+    "expires_at": "2026-11-26T20:04:46+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "николаевск": {
+    "display_name": "Николаевской области",
+    "type": "drone",
+    "text": "Пуски БПЛА из Николаевской области",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-26T19:00:41+00:00",
-    "expires_at": "2026-11-26T20:00:41+00:00",
+    "updated_at": "2026-11-26T19:13:37+00:00",
+    "expires_at": "2026-11-26T20:13:37+00:00",
     "count": null,
     "count_approx": false
   }
