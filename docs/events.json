@@ -1,137 +1,5 @@
 [
   {
-    "id": "LPRalarm_265962",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T08:28:12+00:00",
-    "text": "Белгород \nТревога по ФПВ",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265963",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T08:44:01+00:00",
-    "text": "Мелитополь\nМелитопольский район \nОпасность по БПЛА \nЗапорожская область РФ",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_155503",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T08:44:15+00:00",
-    "text": "Мелитополь\nМелитопольский район \nЗапорожская область РФ\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\n^^ Ш “желтый уровень”\n> ОПАСНОСТИ\nПО БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265964_Валуйский",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T08:52:53+00:00",
-    "text": "Валуйский район \nОпасность по БПЛА \nБелгородская область",
-    "type": "drone",
-    "location_name": "Валуйский",
-    "region": "Белгородская область",
-    "lat": 50.1632256,
-    "lon": 37.9638901
-  },
-  {
-    "id": "kupolrussia_155504_Валуйский",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T08:53:08+00:00",
-    "text": "Валуйский район \nОпасность по БПЛА \nБелгородская область",
-    "type": "drone",
-    "location_name": "Валуйский",
-    "region": "Белгородская область",
-    "lat": 50.1632256,
-    "lon": 37.9638901
-  },
-  {
-    "id": "LPRalarm_265965",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T08:55:57+00:00",
-    "text": "Хорлы Херсонская область РФ БПЛА Хорнет \n\nКаланчак, АПП Армянск \n\nАрмянск, Красноперекопск, залив Красноперекопск внимание по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_155505",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T08:56:12+00:00",
-    "text": "Хорлы Херсонская область РФ БПЛА Хорнет \n\nКаланчак, АПП Армянск \n\nАрмянск, Красноперекопск, залив Красноперекопск внимание по БПЛА Хорнет",
-    "type": "drone",
-    "location_name": null,
-    "region": "Херсонская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265966_Севастополь",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T08:56:33+00:00",
-    "text": "Крым и Севастополь, Керченский полуостров ракетная опасность",
-    "type": "missile",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
-    "id": "kupolrussia_155506_Севастополь",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T08:56:43+00:00",
-    "text": "Крым и Севастополь, Керченский полуостров\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": "Севастополь",
-    "region": null,
-    "lat": 53.456383,
-    "lon": 35.186371
-  },
-  {
-    "id": "LPRalarm_265967",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T08:56:56+00:00",
-    "text": "Таманский полуостров, Керченский пролив ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_155507",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T08:57:05+00:00",
-    "text": "Таманский полуостров, Керченский пролив\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_265968",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T08:57:35+00:00",
-    "text": "Все районы Республика Крым ракетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Республика Крым",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_155508",
     "channel": "kupolrussia",
     "date": "2026-11-25T08:57:46+00:00",
@@ -21998,5 +21866,137 @@
     "region": null,
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_266597",
+    "channel": "LPRalarm",
+    "date": "2026-11-26T08:16:54+00:00",
+    "text": "Трасса Луначарское - Осипенко- Червоно Поле \nИ близлежащие а/ дороги \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156049",
+    "channel": "kupolrussia",
+    "date": "2026-11-26T08:17:09+00:00",
+    "text": "Трасса Луначарское - Осипенко- Червоно Поле \nИ близлежащие а/ дороги \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_266598",
+    "channel": "LPRalarm",
+    "date": "2026-11-26T08:18:17+00:00",
+    "text": "Бердянский район \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156050",
+    "channel": "kupolrussia",
+    "date": "2026-11-26T08:21:25+00:00",
+    "text": "Бердянский район \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_266599",
+    "channel": "LPRalarm",
+    "date": "2026-11-26T08:24:23+00:00",
+    "text": "Курская область и близлежащие \nАвиационно ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156051",
+    "channel": "kupolrussia",
+    "date": "2026-11-26T08:24:37+00:00",
+    "text": "Курская область и близлежащие \nАвиационно ракетно бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_266600",
+    "channel": "LPRalarm",
+    "date": "2026-11-26T08:25:53+00:00",
+    "text": "Трасса Владимировка- Инзовка-Приморск и близлежащие а/ дороги \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156052",
+    "channel": "kupolrussia",
+    "date": "2026-11-26T08:26:00+00:00",
+    "text": "Трасса Владимировка- Инзовка-Приморск и близлежащие а/ дороги \nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_266601_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-11-26T08:28:48+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "LPRalarm_266602_Тамань",
+    "channel": "LPRalarm",
+    "date": "2026-11-26T08:29:19+00:00",
+    "text": "Тамань и близлежащие населенные пункты и объекты\nВнимание по возможным МРШ от Керченского полуострова",
+    "type": "unknown",
+    "location_name": "Тамань",
+    "region": null,
+    "lat": 45.2158646,
+    "lon": 36.7191326
+  },
+  {
+    "id": "kupolrussia_156053_Тамань",
+    "channel": "kupolrussia",
+    "date": "2026-11-26T08:29:30+00:00",
+    "text": "Тамань и близлежащие населенные пункты и объекты\nВнимание по возможным МРШ от Керченского полуострова",
+    "type": "unknown",
+    "location_name": "Тамань",
+    "region": null,
+    "lat": 45.2158646,
+    "lon": 36.7191326
+  },
+  {
+    "id": "kupolrussia_156054_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-11-26T08:29:36+00:00",
+    "text": "Белгородский район \nОпасность по БПЛА повторно",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
   }
 ]
