@@ -80,6 +80,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-11-27T16:05:13+00:00",
+        "last_updated": "2026-11-27T16:36:05+00:00",
+        "path_labels": [
+          "Почепа (Брянская область)",
+          "Мглин (Брянская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4544207,
+            52.9287784
+          ],
+          [
+            32.8500077,
+            53.0591919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-11-27T16:25:15+00:00",
         "last_updated": "2026-11-27T16:25:15+00:00",
         "path_labels": [
