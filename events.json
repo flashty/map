@@ -1,27 +1,5 @@
 [
   {
-    "id": "vrv_radar_110524_Волгоград",
-    "channel": "vrv_radar",
-    "date": "2026-11-25T22:20:03+00:00",
-    "text": "Волгоград\nВолгоградская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": "Волгоград",
-    "region": "Волгоградская область",
-    "lat": 48.7081906,
-    "lon": 44.5153353
-  },
-  {
-    "id": "LPRalarm_266413",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T22:20:45+00:00",
-    "text": "Ростов-на-Дону и близлежащие, тревога по БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "kupolrussia_155881",
     "channel": "kupolrussia",
     "date": "2026-11-25T22:20:51+00:00",
@@ -21996,6 +21974,28 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_266981",
+    "channel": "LPRalarm",
+    "date": "2026-11-27T05:02:53+00:00",
+    "text": "Трасса Р 280\nОпасность по БПЛА \nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_266982",
+    "channel": "LPRalarm",
+    "date": "2026-11-27T05:09:37+00:00",
+    "text": "Севастополь и близлежащие \nОпасность по БПЛА",
+    "type": "drone",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }
