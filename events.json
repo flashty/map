@@ -1,93 +1,5 @@
 [
   {
-    "id": "vrv_radar_110541",
-    "channel": "vrv_radar",
-    "date": "2026-11-25T23:04:15+00:00",
-    "text": "Ульяновская область\nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_110542",
-    "channel": "vrv_radar",
-    "date": "2026-11-25T23:04:23+00:00",
-    "text": "Самарская область\nВнимание по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Самарская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_110543_Неверкинский",
-    "channel": "vrv_radar",
-    "date": "2026-11-25T23:04:38+00:00",
-    "text": "Неверкинский район\nПензенская область\nЕще фиксация БПЛА",
-    "type": "drone",
-    "location_name": "Неверкинский",
-    "region": "Пензенская область",
-    "lat": 52.7787253,
-    "lon": 46.690152
-  },
-  {
-    "id": "vrv_radar_110544",
-    "channel": "vrv_radar",
-    "date": "2026-11-25T23:04:46+00:00",
-    "text": "Саратовская область\nПензенская область\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Саратовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_96565",
-    "channel": "locatorru",
-    "date": "2026-11-25T23:05:44+00:00",
-    "text": "Ульяновская область, Самарская область - внимание к объявлению опасности по БПЛА от Пензенской области. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ульяновская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_155899",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T23:06:06+00:00",
-    "text": "Пензенская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_266431",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T23:06:16+00:00",
-    "text": "Пензенская область\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_110545",
-    "channel": "vrv_radar",
-    "date": "2026-11-25T23:06:19+00:00",
-    "text": "Ставропольский край\nОпасность по БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_103782",
     "channel": "radarrussiia",
     "date": "2026-11-25T23:07:01+00:00",
@@ -21996,6 +21908,94 @@
     "type": "drone",
     "location_name": null,
     "region": "Воронежская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_267015",
+    "channel": "LPRalarm",
+    "date": "2026-11-27T08:49:17+00:00",
+    "text": "Харьковская область РФ \nБелгородская область \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Харьковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156402",
+    "channel": "kupolrussia",
+    "date": "2026-11-27T08:49:19+00:00",
+    "text": "Харьковская область РФ \nБелгородская область \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Харьковская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_267016",
+    "channel": "LPRalarm",
+    "date": "2026-11-27T08:58:13+00:00",
+    "text": "Первомайск \nИрмино \nБрянка \nСтаханов и близлежащие \nЛНР \nопасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156403",
+    "channel": "kupolrussia",
+    "date": "2026-11-27T08:58:19+00:00",
+    "text": "Первомайск \nИрмино \nБрянка \nСтаханов и близлежащие \nЛНР \nопасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_267017",
+    "channel": "LPRalarm",
+    "date": "2026-11-27T08:59:21+00:00",
+    "text": "Марковка и близлежащие \nЛНР\nопасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156404",
+    "channel": "kupolrussia",
+    "date": "2026-11-27T08:59:21+00:00",
+    "text": "Марковка и близлежащие \nЛНР\nопасность по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_267018",
+    "channel": "LPRalarm",
+    "date": "2026-11-27T08:59:26+00:00",
+    "text": "Первомайск в сторону Кировска тревога по БПЛА \n\nМарковка в сторону Богучар Воронежской области \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежской области",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156405",
+    "channel": "kupolrussia",
+    "date": "2026-11-27T09:00:03+00:00",
+    "text": "Первомайск в сторону Кировска тревога по БПЛА \n\nМарковка в сторону Богучар Воронежской области \nТревога по БПЛА Хорнет",
+    "type": "drone",
+    "location_name": null,
+    "region": "Воронежской области",
     "lat": null,
     "lon": null
   }
