@@ -1,60 +1,5 @@
 [
   {
-    "id": "kupolrussia_156265",
-    "channel": "kupolrussia",
-    "date": "2026-11-26T20:06:23+00:00",
-    "text": "Тульская область \nКалужская область \nПринять меры безопасности.\nМножественные фиксации БПЛА в направлении",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_266834",
-    "channel": "LPRalarm",
-    "date": "2026-11-26T20:06:25+00:00",
-    "text": "Тульская область \nКалужская область \nПринять меры безопасности.\nМножественные фиксации БПЛА в направлении",
-    "type": "drone",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_110768_Троснянский",
-    "channel": "vrv_radar",
-    "date": "2026-11-26T20:08:44+00:00",
-    "text": "Троснянский район\nДолжанский район\nОрловская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Троснянский",
-    "region": "Орловская область",
-    "lat": 52.3967026,
-    "lon": 35.8058385
-  },
-  {
-    "id": "vrv_radar_110768_Должанский",
-    "channel": "vrv_radar",
-    "date": "2026-11-26T20:08:44+00:00",
-    "text": "Троснянский район\nДолжанский район\nОрловская область\nФиксации БПЛА",
-    "type": "drone",
-    "location_name": "Должанский",
-    "region": "Орловская область",
-    "lat": 52.0928826,
-    "lon": 37.4888205
-  },
-  {
-    "id": "LPRalarm_266835",
-    "channel": "LPRalarm",
-    "date": "2026-11-26T20:08:50+00:00",
-    "text": "Новозыбков \nИ близлежащие \nТревога по БПЛА \nБрянская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Брянская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_266836_Советский",
     "channel": "LPRalarm",
     "date": "2026-11-26T20:09:56+00:00",
@@ -21998,5 +21943,60 @@
     "region": "Орловская область",
     "lat": 52.6765295,
     "lon": 36.2815763
+  },
+  {
+    "id": "LPRalarm_267370",
+    "channel": "LPRalarm",
+    "date": "2026-11-27T22:46:55+00:00",
+    "text": "Приморск\nПриморский район и близлежащие\nОпасность по БПЛА\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156737",
+    "channel": "kupolrussia",
+    "date": "2026-11-27T22:47:02+00:00",
+    "text": "Приморск\nПриморский район и близлежащие\nОпасность по БПЛА\nЗапорожская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_267371",
+    "channel": "LPRalarm",
+    "date": "2026-11-27T22:48:12+00:00",
+    "text": "Суходольск и близлежащие\nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156738",
+    "channel": "kupolrussia",
+    "date": "2026-11-27T22:48:20+00:00",
+    "text": "Суходольск и близлежащие\nОпасность по БПЛА \nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_111122",
+    "channel": "vrv_radar",
+    "date": "2026-11-27T22:48:28+00:00",
+    "text": "Краснодарский край\nОтбой опасности по МВШ\n\nКарта опасностей - radar-vrv.ru",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Краснодарский край",
+    "lat": null,
+    "lon": null
   }
 ]
