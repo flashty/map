@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_110552",
-    "channel": "vrv_radar",
-    "date": "2026-11-25T23:15:23+00:00",
-    "text": "Астраханская область\nРеспублика Калмыкия\nРакетная опасность",
-    "type": "missile",
-    "location_name": null,
-    "region": "Астраханская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_155904",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T23:15:43+00:00",
-    "text": "Ставропольский край\nВНИМАНИЕ!!!\nРАКЕТНАЯ\nОПАСНОСТЬ",
-    "type": "missile",
-    "location_name": null,
-    "region": "Ставропольский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_96573_Ставрополь",
-    "channel": "locatorru",
-    "date": "2026-11-25T23:15:44+00:00",
-    "text": "Ставрополь, Будённовск, Невинномысск, Ставропольский край - ракетная опасность! \n\n📡Локатор России - @locatorru",
-    "type": "missile",
-    "location_name": "Ставрополь",
-    "region": "Ставропольский край",
-    "lat": 45.0433245,
-    "lon": 41.9690934
-  },
-  {
     "id": "locatorru_96573_Будённовск",
     "channel": "locatorru",
     "date": "2026-11-25T23:15:44+00:00",
@@ -21996,6 +21963,39 @@
     "type": "drone",
     "location_name": null,
     "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "locatorru_96757_Рыльск",
+    "channel": "locatorru",
+    "date": "2026-11-27T10:27:51+00:00",
+    "text": "Рыльск, Курская область - в вашу сторону БПЛА со стороны Званное. \n\n📡Локатор России - @locatorru",
+    "type": "drone",
+    "location_name": "Рыльск",
+    "region": "Курская область",
+    "lat": 51.570538,
+    "lon": 34.683506
+  },
+  {
+    "id": "LPRalarm_267031",
+    "channel": "LPRalarm",
+    "date": "2026-11-27T10:29:51+00:00",
+    "text": "В сторону Тепличное \nТревога по БПЛА Хорнет от Желтое\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156419",
+    "channel": "kupolrussia",
+    "date": "2026-11-27T10:30:01+00:00",
+    "text": "В сторону Тепличное \nТревога по БПЛА Хорнет от Желтое\nЛНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Луганская область",
     "lat": null,
     "lon": null
   }
