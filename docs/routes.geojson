@@ -75,6 +75,31 @@
       "type": "Feature",
       "properties": {
         "type": "drone",
+        "started_at": "2026-11-27T00:22:01+00:00",
+        "last_updated": "2026-11-27T00:48:05+00:00",
+        "path_labels": [
+          "Демянский (Новгородская область)",
+          "Парфинский (Новгородская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.3872761,
+            57.7460947
+          ],
+          [
+            31.8360067,
+            57.9704546
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
         "started_at": "2026-11-27T00:35:32+00:00",
         "last_updated": "2026-11-27T00:35:32+00:00",
         "path_labels": [
