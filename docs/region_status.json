@@ -2,10 +2,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Горловка ДНР \nТревога по БПЛА и ФПВ сохраняется, ещё множественные фиксации \nМеры безопасности!",
+    "text": "Артёмовск ДНР и далее в тыл тревога по БПЛА Хорнет",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-27T10:10:10+00:00",
-    "expires_at": "2026-11-27T11:10:10+00:00",
+    "updated_at": "2026-11-27T11:12:29+00:00",
+    "expires_at": "2026-11-27T12:12:29+00:00",
     "count": null,
     "count_approx": false
   },
@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "брянск": {
-    "display_name": "Брянская область",
-    "type": "drone",
-    "text": "Трубчевск и близлежащие опасность по БПЛА Дартс от гг!\nБрянская область",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-27T10:06:32+00:00",
-    "expires_at": "2026-11-27T11:06:32+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "курск": {
     "display_name": "Курская область",
     "type": "drone",
@@ -36,6 +26,26 @@
     "channel": "locatorru",
     "updated_at": "2026-11-27T10:27:51+00:00",
     "expires_at": "2026-11-27T11:27:51+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "missile",
+    "text": "Чонгар\nЧонгарский Мост \nРакетная опасность \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-27T11:05:01+00:00",
+    "expires_at": "2026-11-27T12:05:01+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "запорожск": {
+    "display_name": "Запорожская область",
+    "type": "drone",
+    "text": "Бановка - Азов трасса Р-280 тревога по БПЛА. Высокая активность \nЗапорожская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-27T11:12:36+00:00",
+    "expires_at": "2026-11-27T12:12:36+00:00",
     "count": null,
     "count_approx": false
   }
