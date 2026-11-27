@@ -29,16 +29,6 @@
     "count": null,
     "count_approx": false
   },
-  "московск": {
-    "display_name": "Московская область",
-    "type": "drone",
-    "text": "МО Истра\nГО Клин\nМосковская область\nОпасность по БПЛА",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-27T00:48:49+00:00",
-    "expires_at": "2026-11-27T01:48:49+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -46,6 +36,36 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-27T01:16:15+00:00",
     "expires_at": "2026-11-27T02:16:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "тульск": {
+    "display_name": "Тульская область",
+    "type": "missile",
+    "text": "Курская область, Орловская область, Тульская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-27T02:00:39+00:00",
+    "expires_at": "2026-11-27T03:00:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "missile",
+    "text": "Курская область, Орловская область, Тульская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-27T02:00:39+00:00",
+    "expires_at": "2026-11-27T03:00:39+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "missile",
+    "text": "Курская область, Орловская область, Тульская область - ракетная опасность! \n\n📡Локатор России - @locatorru",
+    "channel": "locatorru",
+    "updated_at": "2026-11-27T02:00:39+00:00",
+    "expires_at": "2026-11-27T03:00:39+00:00",
     "count": null,
     "count_approx": false
   }
