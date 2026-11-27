@@ -1,93 +1,5 @@
 [
   {
-    "id": "kupolrussia_155908",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T23:20:46+00:00",
-    "text": "Республика Татарстан \nРеспублика Чувашия\nУльяновская область \nВнимание по реактивным БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Татарстан",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_266440",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T23:20:50+00:00",
-    "text": "Республика Татарстан \nРеспублика Чувашия\nУльяновская область \nВнимание по реактивным БпЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Республика Татарстан",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_266441",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T23:21:56+00:00",
-    "text": "Бердянск\nПриморский посад\nПродолжаются фиксации реактивных БпЛА и далее в море",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_155909",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T23:22:01+00:00",
-    "text": "Бердянск\nПриморский посад\nПродолжаются фиксации реактивных БпЛА и далее в море",
-    "type": "drone",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_266442",
-    "channel": "LPRalarm",
-    "date": "2026-11-25T23:23:41+00:00",
-    "text": "Динская\nТревога сохраняется!!!",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_155910",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T23:23:47+00:00",
-    "text": "Динская\nТревога сохраняется!!!",
-    "type": "alert",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_110553",
-    "channel": "vrv_radar",
-    "date": "2026-11-25T23:24:23+00:00",
-    "text": "Ростовская область\nОтбой ракетной опасности",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Ростовская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_155911",
-    "channel": "kupolrussia",
-    "date": "2026-11-25T23:25:00+00:00",
-    "text": "Запорожская область РФ\nКолоссальное количество БпЛА\nУходит в Азовское море\nДалее Крым и Краснодарский край\nСитуативно - Ростовская область",
-    "type": "drone",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_266443",
     "channel": "LPRalarm",
     "date": "2026-11-25T23:25:35+00:00",
@@ -21998,5 +21910,93 @@
     "region": "Запорожская область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_267037",
+    "channel": "LPRalarm",
+    "date": "2026-11-27T11:35:15+00:00",
+    "text": "Курская область и близлежащие \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156424",
+    "channel": "kupolrussia",
+    "date": "2026-11-27T11:35:23+00:00",
+    "text": "Курская область и близлежащие \nАвиационная ракетная бомбовая опасность",
+    "type": "missile",
+    "location_name": null,
+    "region": "Курская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_267038_Шебекинский",
+    "channel": "LPRalarm",
+    "date": "2026-11-27T11:40:56+00:00",
+    "text": "Шебекино\nШебекинский район\nКрайне высокая активность БПЛА и ФПВ\nТревога сохраняется",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": null,
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "kupolrussia_156425_Шебекинский",
+    "channel": "kupolrussia",
+    "date": "2026-11-27T11:41:09+00:00",
+    "text": "Шебекино\nШебекинский район\nКрайне высокая активность БПЛА и ФПВ\nТревога сохраняется",
+    "type": "drone",
+    "location_name": "Шебекинский",
+    "region": null,
+    "lat": 50.438988,
+    "lon": 36.8728034
+  },
+  {
+    "id": "LPRalarm_267039",
+    "channel": "LPRalarm",
+    "date": "2026-11-27T11:42:53+00:00",
+    "text": "Чонгар\nЧонгарский Мост \nОтбой ракетной опасности \nХерсонская область РФ",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156426",
+    "channel": "kupolrussia",
+    "date": "2026-11-27T11:42:58+00:00",
+    "text": "Чонгар\nЧонгарский Мост \nОтбой ракетной опасности \nХерсонская область РФ",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_267040_Белгородский",
+    "channel": "LPRalarm",
+    "date": "2026-11-27T11:43:21+00:00",
+    "text": "Белгородский район опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
+  },
+  {
+    "id": "kupolrussia_156428_Белгородский",
+    "channel": "kupolrussia",
+    "date": "2026-11-27T11:43:27+00:00",
+    "text": "Белгородский район опасность по БПЛА",
+    "type": "drone",
+    "location_name": "Белгородский",
+    "region": null,
+    "lat": 54.3750277,
+    "lon": 38.5167643
   }
 ]
