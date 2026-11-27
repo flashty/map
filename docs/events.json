@@ -1,71 +1,5 @@
 [
   {
-    "id": "locatorru_96583_Петровская",
-    "channel": "locatorru",
-    "date": "2026-11-25T23:54:24+00:00",
-    "text": "Ачуево, Голубая Нива, Петровская, Полтавская, Славянск-на-Кубани, Краснодарский край - опасность по БПЛА с моря и в сторону Тимашевск, Динская. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Петровская",
-    "region": "Краснодарский край",
-    "lat": 45.430317,
-    "lon": 37.956711
-  },
-  {
-    "id": "locatorru_96583_Полтавская",
-    "channel": "locatorru",
-    "date": "2026-11-25T23:54:24+00:00",
-    "text": "Ачуево, Голубая Нива, Петровская, Полтавская, Славянск-на-Кубани, Краснодарский край - опасность по БПЛА с моря и в сторону Тимашевск, Динская. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Полтавская",
-    "region": "Краснодарский край",
-    "lat": 45.366794,
-    "lon": 38.2115057
-  },
-  {
-    "id": "locatorru_96583_Кубани",
-    "channel": "locatorru",
-    "date": "2026-11-25T23:54:24+00:00",
-    "text": "Ачуево, Голубая Нива, Петровская, Полтавская, Славянск-на-Кубани, Краснодарский край - опасность по БПЛА с моря и в сторону Тимашевск, Динская. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Кубани",
-    "region": "Краснодарский край",
-    "lat": 45.0351532,
-    "lon": 38.9772396
-  },
-  {
-    "id": "locatorru_96584",
-    "channel": "locatorru",
-    "date": "2026-11-25T23:54:43+00:00",
-    "text": "Тульская область - отбой опасности по БПЛА. \n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_96585",
-    "channel": "locatorru",
-    "date": "2026-11-25T23:54:51+00:00",
-    "text": "Пензенская область, Саратовская область, Ульяновская область - отбой ракетной опасности!\n\n📡Локатор России - @locatorru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Пензенская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_110585",
-    "channel": "vrv_radar",
-    "date": "2026-11-25T23:55:03+00:00",
-    "text": "Тульская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "radarrussiia_103790",
     "channel": "radarrussiia",
     "date": "2026-11-25T23:55:43+00:00",
@@ -21996,6 +21930,72 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_267076",
+    "channel": "LPRalarm",
+    "date": "2026-11-27T14:47:34+00:00",
+    "text": "Донецк и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156464",
+    "channel": "kupolrussia",
+    "date": "2026-11-27T14:47:59+00:00",
+    "text": "Донецк и близлежащие \nОпасность по БПЛА \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_267077",
+    "channel": "LPRalarm",
+    "date": "2026-11-27T14:54:32+00:00",
+    "text": "Грайвороновский район \nТревога по БПЛА \nБелогородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белогородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156465",
+    "channel": "kupolrussia",
+    "date": "2026-11-27T14:54:46+00:00",
+    "text": "Грайвороновский район \nТревога по БПЛА \nБелогородская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Белогородская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_267078",
+    "channel": "LPRalarm",
+    "date": "2026-11-27T15:00:18+00:00",
+    "text": "Чаплынка и близлежащие \nХерсонская область РФ \nВнимание по БПЛА \n\nСевер Крыма \nВнимание по БПЛА от Херсонской области РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156466",
+    "channel": "kupolrussia",
+    "date": "2026-11-27T15:00:35+00:00",
+    "text": "Чаплынка и близлежащие \nХерсонская область РФ \nВнимание по БПЛА \n\nСевер Крыма \nВнимание по БПЛА от Херсонской области РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
     "lat": null,
     "lon": null
   }

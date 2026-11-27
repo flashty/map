@@ -1,21 +1,11 @@
 {
-  "крым": {
-    "display_name": "Республика Крым",
-    "type": "drone",
-    "text": "Яснополянское, Целинное, Красноармейское\nи близлежащие \nОпасность по БПЛА с севера \nРеспублика Крым",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-27T13:51:14+00:00",
-    "expires_at": "2026-11-27T14:51:14+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "белогородск": {
     "display_name": "Белогородская область",
     "type": "drone",
-    "text": "Козьмодемьяновка \nШебенский МО \nОпасность по БПЛА Баба Яга \nБелогородская область",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-27T14:21:20+00:00",
-    "expires_at": "2026-11-27T15:21:20+00:00",
+    "text": "Грайвороновский район \nТревога по БПЛА \nБелогородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-27T14:54:46+00:00",
+    "expires_at": "2026-11-27T15:54:46+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +36,26 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-27T14:43:07+00:00",
     "expires_at": "2026-11-27T15:43:07+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "донецк": {
+    "display_name": "Донецкая область",
+    "type": "drone",
+    "text": "Донецк и близлежащие \nОпасность по БПЛА \nДНР",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-27T14:47:59+00:00",
+    "expires_at": "2026-11-27T15:47:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Чаплынка и близлежащие \nХерсонская область РФ \nВнимание по БПЛА \n\nСевер Крыма \nВнимание по БПЛА от Херсонской области РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-27T15:00:35+00:00",
+    "expires_at": "2026-11-27T16:00:35+00:00",
     "count": null,
     "count_approx": false
   }
