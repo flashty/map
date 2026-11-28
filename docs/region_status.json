@@ -12,10 +12,10 @@
   "донецк": {
     "display_name": "Донецкая область",
     "type": "drone",
-    "text": "Горловка и близлежащие \nТревога по БПЛА и ФПВ сохраняется, ещё фиксации \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-28T07:00:27+00:00",
-    "expires_at": "2026-11-28T08:00:27+00:00",
+    "text": "Иловайск и близлежащие \nТревога по БПЛА \nДНР \n\nОсобое внимание на дорогах!",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-28T07:08:33+00:00",
+    "expires_at": "2026-11-28T08:08:33+00:00",
     "count": null,
     "count_approx": false
   },
@@ -26,6 +26,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-28T06:19:00+00:00",
     "expires_at": "2026-11-28T07:19:00+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "drone",
+    "text": "Чаплинка и близлежащие опасность по ударным БПЛА \nХерсонская область РФ",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-28T07:05:20+00:00",
+    "expires_at": "2026-11-28T08:05:20+00:00",
     "count": null,
     "count_approx": false
   }
