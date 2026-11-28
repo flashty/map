@@ -2,10 +2,10 @@
   "крым": {
     "display_name": "Республика Крым",
     "type": "drone",
-    "text": "Раздольненский \nЧерноморский районы\nОпасность по БПЛА с моря \nРеспублика Крым",
+    "text": "Трасса на Симферополь от Войково опасность по БПЛА \nРеспублика Крым",
     "channel": "kupolrussia",
-    "updated_at": "2026-11-28T01:50:16+00:00",
-    "expires_at": "2026-11-28T02:50:16+00:00",
+    "updated_at": "2026-11-28T02:06:43+00:00",
+    "expires_at": "2026-11-28T03:06:43+00:00",
     "count": null,
     "count_approx": false
   },
@@ -16,16 +16,6 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-28T01:45:09+00:00",
     "expires_at": "2026-11-28T02:45:09+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "донецк": {
-    "display_name": "Донецкая область",
-    "type": "drone",
-    "text": "Светлодарск и близлежащие \nОпасность по БПЛА с запада \nДНР",
-    "channel": "kupolrussia",
-    "updated_at": "2026-11-28T01:07:55+00:00",
-    "expires_at": "2026-11-28T02:07:55+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,16 +36,6 @@
     "channel": "vrv_radar",
     "updated_at": "2026-11-28T01:43:16+00:00",
     "expires_at": "2026-11-28T02:43:16+00:00",
-    "count": null,
-    "count_approx": false
-  },
-  "рязанск": {
-    "display_name": "Рязанская область",
-    "type": "drone",
-    "text": "Клепиковский район\nРязанская область\nФиксации БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-28T01:10:17+00:00",
-    "expires_at": "2026-11-28T02:10:17+00:00",
     "count": null,
     "count_approx": false
   },
@@ -80,22 +60,22 @@
     "count_approx": false
   },
   "орловск": {
-    "display_name": "Орловская область",
+    "display_name": "Орловской области",
     "type": "drone",
-    "text": "Болховский район\nЗнаменский район\nУрицкий район\nОрловская область\nФиксации групп БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-28T01:43:16+00:00",
-    "expires_at": "2026-11-28T02:43:16+00:00",
+    "text": "Карачев и близлежащие\nБрянская область \nИ далее в направлении Орловской области \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-28T02:10:52+00:00",
+    "expires_at": "2026-11-28T03:10:52+00:00",
     "count": null,
     "count_approx": false
   },
-  "московск": {
-    "display_name": "Московская область",
+  "брянск": {
+    "display_name": "Брянская область",
     "type": "drone",
-    "text": "ГО Серпухов\nМосковская область\nФиксации групп БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-28T01:43:16+00:00",
-    "expires_at": "2026-11-28T02:43:16+00:00",
+    "text": "Карачев и близлежащие\nБрянская область \nИ далее в направлении Орловской области \nОпасность по БПЛА",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-28T02:10:52+00:00",
+    "expires_at": "2026-11-28T03:10:52+00:00",
     "count": null,
     "count_approx": false
   }
