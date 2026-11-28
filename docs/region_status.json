@@ -2,10 +2,10 @@
   "запорожск": {
     "display_name": "Запорожская область",
     "type": "drone",
-    "text": "Светлодолинское \nИ далее в направлении \nТерпенье \nОпасность по БПЛА Хорнет \nЗапорожская область РФ",
-    "channel": "LPRalarm",
-    "updated_at": "2026-11-28T12:01:29+00:00",
-    "expires_at": "2026-11-28T13:01:29+00:00",
+    "text": "Мелитопольский район \nМелитополь \nЗапорожская область РФ \nопасность по БПЛА Хорнет",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-28T12:10:11+00:00",
+    "expires_at": "2026-11-28T13:10:11+00:00",
     "count": null,
     "count_approx": false
   },
@@ -46,6 +46,56 @@
     "channel": "LPRalarm",
     "updated_at": "2026-11-28T11:56:25+00:00",
     "expires_at": "2026-11-28T12:56:25+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "белогородск": {
+    "display_name": "Белогородская область",
+    "type": "drone",
+    "text": "Нижнеберезово\nДалее в направлении Белянки\nШебенский МО \nОпасность по БПЛА \nБелогородская область",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-28T12:02:53+00:00",
+    "expires_at": "2026-11-28T13:02:53+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "калужск": {
+    "display_name": "Калужская область",
+    "type": "drone",
+    "text": "Калужская область\nВНИМАНИЕ!!!\n—— ОБЪЯВЛЕН\nЧ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-28T12:10:59+00:00",
+    "expires_at": "2026-11-28T13:10:59+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "смоленск": {
+    "display_name": "Смоленская область",
+    "type": "drone",
+    "text": "Смоленская область\nВНИМАНИЕ!!!\n——^ \\ ОБЪЯВЛЕН\nМ “желтый уровень”\n> ” _ ОПАСНОСТИ\nПО БПЛА",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-28T12:11:15+00:00",
+    "expires_at": "2026-11-28T13:11:15+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "херсонск": {
+    "display_name": "Херсонская область",
+    "type": "shelling",
+    "text": "Каховка артобстрел\nХерсонская область РФ",
+    "channel": "LPRalarm",
+    "updated_at": "2026-11-28T12:08:03+00:00",
+    "expires_at": "2026-11-28T13:08:03+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "орловск": {
+    "display_name": "Орловская область",
+    "type": "drone",
+    "text": "Шаблыкинский район\nОрловская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "channel": "vrv_radar",
+    "updated_at": "2026-11-28T12:13:56+00:00",
+    "expires_at": "2026-11-28T13:13:56+00:00",
     "count": null,
     "count_approx": false
   }
