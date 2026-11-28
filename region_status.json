@@ -19,16 +19,6 @@
     "count": null,
     "count_approx": false
   },
-  "орловск": {
-    "display_name": "Орловская область",
-    "type": "drone",
-    "text": "Хотынецкий район\nОрловская область\nФиксация БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "channel": "vrv_radar",
-    "updated_at": "2026-11-28T12:28:56+00:00",
-    "expires_at": "2026-11-28T13:28:56+00:00",
-    "count": null,
-    "count_approx": false
-  },
   "брянск": {
     "display_name": "Брянская область",
     "type": "drone",
@@ -36,6 +26,16 @@
     "channel": "kupolrussia",
     "updated_at": "2026-11-28T12:35:27+00:00",
     "expires_at": "2026-11-28T13:35:27+00:00",
+    "count": null,
+    "count_approx": false
+  },
+  "курск": {
+    "display_name": "Курская область",
+    "type": "drone",
+    "text": "Хомутовский район\nКурская область\nОчень высокая активность ФПВ и БПЛА в течении всего дня.\nСоблюдайте меры предосторожности.",
+    "channel": "kupolrussia",
+    "updated_at": "2026-11-28T13:22:26+00:00",
+    "expires_at": "2026-11-28T14:22:26+00:00",
     "count": null,
     "count_approx": false
   }
