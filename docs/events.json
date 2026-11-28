@@ -1,60 +1,5 @@
 [
   {
-    "id": "vrv_radar_110807_Нелидовский",
-    "channel": "vrv_radar",
-    "date": "2026-11-26T22:44:05+00:00",
-    "text": "Нелидовский район\nТверская область\nФиксации БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Нелидовский",
-    "region": "Тверская область",
-    "lat": 56.2579944,
-    "lon": 32.7103292
-  },
-  {
-    "id": "LPRalarm_266925_Одессы",
-    "channel": "LPRalarm",
-    "date": "2026-11-26T22:44:20+00:00",
-    "text": "Противник готовит запуски БПЛА от Одессы",
-    "type": "drone",
-    "location_name": "Одессы",
-    "region": null,
-    "lat": 48.7490351,
-    "lon": 44.5413187
-  },
-  {
-    "id": "vrv_radar_110808_Духовщинский",
-    "channel": "vrv_radar",
-    "date": "2026-11-26T22:44:20+00:00",
-    "text": "Духовщинский район\nСмоленская область\nФиксация групп БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": "Духовщинский",
-    "region": "Смоленская область",
-    "lat": 55.38476,
-    "lon": 32.3545111
-  },
-  {
-    "id": "kupolrussia_156334_Одессы",
-    "channel": "kupolrussia",
-    "date": "2026-11-26T22:44:25+00:00",
-    "text": "Противник готовит запуски БПЛА от Одессы",
-    "type": "drone",
-    "location_name": "Одессы",
-    "region": null,
-    "lat": 48.7490351,
-    "lon": 44.5413187
-  },
-  {
-    "id": "LPRalarm_266926",
-    "channel": "LPRalarm",
-    "date": "2026-11-26T22:45:21+00:00",
-    "text": "Приморск\nДмитровка и близлежащие \nПринять меры безопасности \nЗапорожская область РФ",
-    "type": "alert",
-    "location_name": null,
-    "region": "Запорожская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "locatorru_96702",
     "channel": "locatorru",
     "date": "2026-11-26T22:46:36+00:00",
@@ -21996,6 +21941,61 @@
     "type": "drone",
     "location_name": null,
     "region": "Запорожская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156812",
+    "channel": "kupolrussia",
+    "date": "2026-11-28T04:16:27+00:00",
+    "text": "Липецкая область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_267449",
+    "channel": "LPRalarm",
+    "date": "2026-11-28T04:16:30+00:00",
+    "text": "Липецкая область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
+    "type": "all_clear",
+    "location_name": null,
+    "region": "Липецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156813",
+    "channel": "kupolrussia",
+    "date": "2026-11-28T04:19:27+00:00",
+    "text": "Отбой ракетной опасности все ранее объявленные тыловые регионы",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_267450",
+    "channel": "LPRalarm",
+    "date": "2026-11-28T04:19:31+00:00",
+    "text": "Отбой ракетной опасности все ранее объявленные тыловые регионы",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_267451",
+    "channel": "LPRalarm",
+    "date": "2026-11-28T04:19:48+00:00",
+    "text": "Красноперекопск и близлежащие \nРеспублика Крым \nС залива с запада фиксации БПЛА в направлении",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
     "lat": null,
     "lon": null
   }
