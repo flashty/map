@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-28T00:37:29+00:00",
+        "last_updated": "2026-11-28T01:09:31+00:00",
+        "path_labels": [
+          "Калуга (Калужская область)",
+          "Бабынинский (Калужская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.2598115,
+            54.5101087
+          ],
+          [
+            35.7914785,
+            54.4017825
+          ]
+        ]
+      }
+    }
+  ]
 }
