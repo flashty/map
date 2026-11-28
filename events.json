@@ -1,71 +1,5 @@
 [
   {
-    "id": "vrv_radar_110907",
-    "channel": "vrv_radar",
-    "date": "2026-11-27T05:25:22+00:00",
-    "text": "Санкт-Петербург\nОтбой опасности по БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "all_clear",
-    "location_name": null,
-    "region": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_266984_Белгородский",
-    "channel": "LPRalarm",
-    "date": "2026-11-27T05:25:56+00:00",
-    "text": "Белгородский район \nОпасность по БПЛА \nБелгородская область",
-    "type": "drone",
-    "location_name": "Белгородский",
-    "region": "Белгородская область",
-    "lat": 50.5939358,
-    "lon": 36.5762397
-  },
-  {
-    "id": "vrv_radar_110908",
-    "channel": "vrv_radar",
-    "date": "2026-11-27T05:27:08+00:00",
-    "text": "Волгоградская область\nОпасность по БПЛА\n\nКарта опасностей - radar-vrv.ru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_156378",
-    "channel": "kupolrussia",
-    "date": "2026-11-27T05:27:37+00:00",
-    "text": "Волгоградская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_266985",
-    "channel": "LPRalarm",
-    "date": "2026-11-27T05:27:39+00:00",
-    "text": "Волгоградская область \nОпасность по БПЛА",
-    "type": "drone",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_96746",
-    "channel": "locatorru",
-    "date": "2026-11-27T05:28:23+00:00",
-    "text": "Волгоградская область - опасность по БПЛА от РСЧС. \n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": null,
-    "region": "Волгоградская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "vrv_radar_110909",
     "channel": "vrv_radar",
     "date": "2026-11-27T05:30:14+00:00",
@@ -21998,5 +21932,71 @@
     "region": "Орловская область",
     "lat": 53.1360589,
     "lon": 35.3773008
+  },
+  {
+    "id": "LPRalarm_267574",
+    "channel": "LPRalarm",
+    "date": "2026-11-28T12:33:09+00:00",
+    "text": "Каланчак \nИ близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156927",
+    "channel": "kupolrussia",
+    "date": "2026-11-28T12:33:33+00:00",
+    "text": "Каланчак \nИ близлежащие \nОпасность по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_267575",
+    "channel": "LPRalarm",
+    "date": "2026-11-28T12:35:17+00:00",
+    "text": "Суземка \nИ близлежащие \nОпасность по БПЛА Хорнет \nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156928",
+    "channel": "kupolrussia",
+    "date": "2026-11-28T12:35:27+00:00",
+    "text": "Суземка \nИ близлежащие \nОпасность по БПЛА Хорнет \nБрянская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Брянская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_267576",
+    "channel": "LPRalarm",
+    "date": "2026-11-28T12:44:10+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ сохраняется, ещё фиксации \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156929",
+    "channel": "kupolrussia",
+    "date": "2026-11-28T12:44:26+00:00",
+    "text": "Горловка и близлежащие \nОпасность по БПЛА и ФПВ сохраняется, ещё фиксации \nДНР",
+    "type": "drone",
+    "location_name": null,
+    "region": "Донецкая область",
+    "lat": null,
+    "lon": null
   }
 ]
