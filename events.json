@@ -1,104 +1,5 @@
 [
   {
-    "id": "LPRalarm_266870_Бобровский",
-    "channel": "LPRalarm",
-    "date": "2026-11-26T20:43:25+00:00",
-    "text": "Бобровский район \nИ близлежащие \nТревога по БПЛА\nВоронежская область",
-    "type": "drone",
-    "location_name": "Бобровский",
-    "region": "Воронежская область",
-    "lat": 51.0966142,
-    "lon": 40.0397707
-  },
-  {
-    "id": "kupolrussia_156287_Бобровский",
-    "channel": "kupolrussia",
-    "date": "2026-11-26T20:43:35+00:00",
-    "text": "Бобровский район \nИ близлежащие \nТревога по БПЛА\nВоронежская область",
-    "type": "drone",
-    "location_name": "Бобровский",
-    "region": "Воронежская область",
-    "lat": 51.0966142,
-    "lon": 40.0397707
-  },
-  {
-    "id": "LPRalarm_266871",
-    "channel": "LPRalarm",
-    "date": "2026-11-26T20:43:53+00:00",
-    "text": "Алчевск, Чернухино, Антрацит, Луганск, Красный Луч тревога по БПЛА. Многочисленные фиксации от Дебальцево \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_156288",
-    "channel": "kupolrussia",
-    "date": "2026-11-26T20:43:59+00:00",
-    "text": "Алчевск, Чернухино, Антрацит, Луганск, Красный Луч тревога по БПЛА. Многочисленные фиксации от Дебальцево \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_266872",
-    "channel": "LPRalarm",
-    "date": "2026-11-26T20:44:08+00:00",
-    "text": "Луганск и близлежащие \nТревога по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "LPRalarm_266873_Мелитопольский",
-    "channel": "LPRalarm",
-    "date": "2026-11-26T20:44:29+00:00",
-    "text": "Мелитополь, Мелитопольский район тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Мелитопольский",
-    "region": null,
-    "lat": 59.9445151,
-    "lon": 30.3614269
-  },
-  {
-    "id": "LPRalarm_266873_Мелитополь",
-    "channel": "LPRalarm",
-    "date": "2026-11-26T20:44:29+00:00",
-    "text": "Мелитополь, Мелитопольский район тревога по БПЛА",
-    "type": "drone",
-    "location_name": "Мелитополь",
-    "region": null,
-    "lat": 55.7020859,
-    "lon": 49.1449216
-  },
-  {
-    "id": "LPRalarm_266874",
-    "channel": "LPRalarm",
-    "date": "2026-11-26T20:45:35+00:00",
-    "text": "Зоринск\nФащевка \nИ далее в направлении Красный Луч \nТревога по БПЛА \nЛНР",
-    "type": "drone",
-    "location_name": null,
-    "region": "Луганская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "locatorru_96671_Суражский",
-    "channel": "locatorru",
-    "date": "2026-11-26T20:46:41+00:00",
-    "text": "Суражский район, Брянская область - продолжаются фиксации БПЛА в тыл.\n\n📡Локатор России - @locatorru",
-    "type": "drone",
-    "location_name": "Суражский",
-    "region": "Брянская область",
-    "lat": 53.1022036,
-    "lon": 32.418926
-  },
-  {
     "id": "vrv_radar_110773_Угранский",
     "channel": "vrv_radar",
     "date": "2026-11-26T20:46:45+00:00",
@@ -21996,6 +21897,105 @@
     "type": "drone",
     "location_name": null,
     "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "vrv_radar_111143_Истра",
+    "channel": "vrv_radar",
+    "date": "2026-11-28T00:16:14+00:00",
+    "text": "МО Истра\nМосковская область\nРабота ПВО по БПЛА\n\nКарта опасностей - radar-vrv.ru",
+    "type": "drone",
+    "location_name": "Истра",
+    "region": "Московская область",
+    "lat": 55.9145993,
+    "lon": 36.8595482
+  },
+  {
+    "id": "kupolrussia_156764_Истра",
+    "channel": "kupolrussia",
+    "date": "2026-11-28T00:18:11+00:00",
+    "text": "Истра \nМосковская область\nи\n<>\nРК",
+    "type": "unknown",
+    "location_name": "Истра",
+    "region": "Московская область",
+    "lat": 55.9145993,
+    "lon": 36.8595482
+  },
+  {
+    "id": "LPRalarm_267397_Истра",
+    "channel": "LPRalarm",
+    "date": "2026-11-28T00:18:15+00:00",
+    "text": "Истра \nМосковская область\nи\n<>\nРК",
+    "type": "unknown",
+    "location_name": "Истра",
+    "region": "Московская область",
+    "lat": 55.9145993,
+    "lon": 36.8595482
+  },
+  {
+    "id": "LPRalarm_267398",
+    "channel": "LPRalarm",
+    "date": "2026-11-28T00:19:21+00:00",
+    "text": "Новотроицкое от Новоалексеевка тревога по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156765",
+    "channel": "kupolrussia",
+    "date": "2026-11-28T00:19:41+00:00",
+    "text": "Новотроицкое от Новоалексеевка тревога по БПЛА \nХерсонская область РФ",
+    "type": "drone",
+    "location_name": null,
+    "region": "Херсонская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_267399",
+    "channel": "LPRalarm",
+    "date": "2026-11-28T00:21:46+00:00",
+    "text": "Севернее Джанкой в направлении Воинка и близлежащие тревога по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156766",
+    "channel": "kupolrussia",
+    "date": "2026-11-28T00:21:53+00:00",
+    "text": "Севернее Джанкой в направлении Воинка и близлежащие тревога по БПЛА \nРеспублика Крым",
+    "type": "drone",
+    "location_name": null,
+    "region": "Республика Крым",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "kupolrussia_156767",
+    "channel": "kupolrussia",
+    "date": "2026-11-28T00:29:48+00:00",
+    "text": "Отбой ракетной опасности по всем ранее объявленным тыловым регионам",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_267400",
+    "channel": "LPRalarm",
+    "date": "2026-11-28T00:29:51+00:00",
+    "text": "Отбой ракетной опасности по всем ранее объявленным тыловым регионам",
+    "type": "all_clear",
+    "location_name": null,
+    "region": null,
     "lat": null,
     "lon": null
   }

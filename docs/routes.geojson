@@ -1,30 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "drone",
-        "started_at": "2026-11-27T22:44:30+00:00",
-        "last_updated": "2026-11-27T23:22:45+00:00",
-        "path_labels": [
-          "Скопинский (Рязанская область)",
-          "Зарайск (Московская область)"
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.7586495,
-            54.6221937
-          ],
-          [
-            38.8818137,
-            54.7585694
-          ]
-        ]
-      }
-    }
-  ]
+  "features": []
 }
