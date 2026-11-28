@@ -1,4 +1,30 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "drone",
+        "started_at": "2026-11-28T12:13:56+00:00",
+        "last_updated": "2026-11-28T12:28:56+00:00",
+        "path_labels": [
+          "Шаблыкинский (Орловская область)",
+          "Хотынецкий (Орловская область)"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.1025788,
+            52.8579891
+          ],
+          [
+            35.3773008,
+            53.1360589
+          ]
+        ]
+      }
+    }
+  ]
 }
