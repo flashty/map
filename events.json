@@ -1,38 +1,5 @@
 [
   {
-    "id": "vrv_radar_110915",
-    "channel": "vrv_radar",
-    "date": "2026-11-27T05:46:17+00:00",
-    "text": "Тульская область\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "vrv_radar_110916",
-    "channel": "vrv_radar",
-    "date": "2026-11-27T05:46:26+00:00",
-    "text": "Краснодарский край\nРеспублика Адыгея\nОтбой опасности по БПЛА",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Краснодарский край",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "kupolrussia_156380",
-    "channel": "kupolrussia",
-    "date": "2026-11-27T05:46:31+00:00",
-    "text": "Тульская область\nда р. & в,\nФь\". ОТБОЙ\n=\nль ОПАСНОСТИ ПО БПЛА\n<",
-    "type": "all_clear",
-    "location_name": null,
-    "region": "Тульская область",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "LPRalarm_266987",
     "channel": "LPRalarm",
     "date": "2026-11-27T05:46:34+00:00",
@@ -21998,5 +21965,38 @@
     "region": "Донецкая область",
     "lat": null,
     "lon": null
+  },
+  {
+    "id": "LPRalarm_267583",
+    "channel": "LPRalarm",
+    "date": "2026-11-28T13:58:27+00:00",
+    "text": "Севернее Урывский, далее в направлении \nВерхний Пиховкин\nТрасса М4\nТаловая Балка \nОпасность по БПЛА\nРостовская область",
+    "type": "drone",
+    "location_name": null,
+    "region": "Ростовская область",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "LPRalarm_267584_Каменский",
+    "channel": "LPRalarm",
+    "date": "2026-11-28T13:59:50+00:00",
+    "text": "Глубокий \nКаменский район \nОпасность по БПЛА \nРостовская область",
+    "type": "drone",
+    "location_name": "Каменский",
+    "region": "Ростовская область",
+    "lat": 48.3686692,
+    "lon": 40.5058614
+  },
+  {
+    "id": "kupolrussia_156936_Каменский",
+    "channel": "kupolrussia",
+    "date": "2026-11-28T14:01:05+00:00",
+    "text": "Глубокий \nКаменский район \nОпасность по БПЛА \nРостовская область",
+    "type": "drone",
+    "location_name": "Каменский",
+    "region": "Ростовская область",
+    "lat": 48.3686692,
+    "lon": 40.5058614
   }
 ]
